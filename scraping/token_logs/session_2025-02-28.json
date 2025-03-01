@@ -1,0 +1,61 @@
+{
+  "session_id": "2025-02-28",
+  "start_time": 1740814492.312947,
+  "requests": [
+    {
+      "timestamp": 1740814492.313934,
+      "provider": "anthropic",
+      "model": "claude-3-5-sonnet-20241022",
+      "token_usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 101,
+        "total_tokens": 269,
+        "reasoning_tokens": null
+      },
+      "cost": 0.002019,
+      "thinking_time": 2.2421209812164307
+    },
+    {
+      "timestamp": 1740814494.725815,
+      "provider": "anthropic",
+      "model": "claude-3-5-sonnet-20241022",
+      "token_usage": {
+        "prompt_tokens": 178,
+        "completion_tokens": 152,
+        "total_tokens": 330,
+        "reasoning_tokens": null
+      },
+      "cost": 0.0028139999999999997,
+      "thinking_time": 2.3853108882904053
+    },
+    {
+      "timestamp": 1740814497.656717,
+      "provider": "anthropic",
+      "model": "claude-3-5-sonnet-20241022",
+      "token_usage": {
+        "prompt_tokens": 184,
+        "completion_tokens": 173,
+        "total_tokens": 357,
+        "reasoning_tokens": null
+      },
+      "cost": 0.003147,
+      "thinking_time": 2.9104928970336914
+    }
+  ],
+  "summary": {
+    "total_requests": 3,
+    "total_prompt_tokens": 530,
+    "total_completion_tokens": 426,
+    "total_tokens": 956,
+    "total_cost": 0.00798,
+    "total_thinking_time": 7.537924766540527,
+    "provider_stats": {
+      "anthropic": {
+        "requests": 3,
+        "total_tokens": 956,
+        "total_cost": 0.00798
+      }
+    },
+    "session_duration": 5.343784809112549
+  }
+}
