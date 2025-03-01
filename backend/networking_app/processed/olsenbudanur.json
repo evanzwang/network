@@ -1,0 +1,13 @@
+{
+    "id": "olsenbudanur",
+    "name": "Olsen B.",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/C5603AQEKP---i_Qa9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1655585020700?e=2147483647&v=beta&t=wxFSNkym8H8Nk4lkvwHjjQwn1E7bLXluX8HJJyJYAr8",
+    "contacts": [
+        "olsenbudanur@gmail.com"
+    ],
+    "links": [
+        "https://olsenbudanur.com"
+    ],
+    "short_description": "Software Engineer at Affirm with expertise in workflow orchestration infrastructure and distributed systems. MLH Top 50 recipient and former Cognition consultant. Davidson College graduate with a strong background in hackathons and open-source development.",
+    "long_description": "Olsen B. is a Software Engineer at Affirm working on the Workflow Orchestration Infrastructure Team (Batch), where he manages and maintains distributed infrastructure integrating Airflow, Luigi, Spark, and Kubernetes for scalable workflow orchestration handling over 1,000,000 actions monthly. He has developed high-performance gRPC servers in Kotlin and built Slack bots leveraging semantic search and LLMs.\n\nPreviously, Olsen served as a Software Consultant at Cognition, helping improve Devin AI, and was a Founding Engineer at Motate LLC, a boutique software contracting firm where he led a team of 4 and secured multiple contracts. He also worked as a Software Engineer at Aptos Labs, where he created a 7,000-line open-source Python CLI for Kubernetes deployments and developed a Rust SDK.\n\nAs the Founder & President of Hack@Davidson, Olsen coordinated Davidson College's first student-led hackathon, directed a team of 15 members, and raised over $6,000. His hackathon team won a total of 12 categories across 8 hackathons, including 1st place at Caltech's HackTech.\n\nOlsen holds a Bachelor's degree in Computer Science from Davidson College with a 4.0 in-major GPA. He previously attended Virginia Tech College of Engineering, where he maintained a 4.0 GPA and was on the Dean's List with President's Distinction. His technical expertise spans workflow orchestration, distributed systems, Kubernetes, Python, Kotlin, Rust, and LLMs.\n\nNotable achievements include being recognized in the MLH Top 50, winning Best Project using Computational Intelligence at Stanford's LAW X LLM, and receiving multiple scholarships including the Sophomore Scholar Award from Virginia Tech. Olsen is passionate about tackling tough problems, building innovative solutions, and continuously learning new technologies."
+}

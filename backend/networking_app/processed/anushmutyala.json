@@ -1,0 +1,16 @@
+{
+    "id": "anushmutyala",
+    "name": "Anush Mutyala",
+    "profile_pic": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "contacts": [
+        "engineering @ generalcybernetics.org"
+    ],
+    "links": [
+        "https://twitter.com/anushmutyala",
+        "https://github.com/anushmutyala",
+        "https://medium.com/@anushmutyala",
+        "https://anushmutyala.com"
+    ],
+    "short_description": "Anush Mutyala is a Robotics Researcher at NC4 Lab and Electrical Engineering Intern at General Cybernetics, focusing on neural manifolds for calibration-free robotics and bioelectric cell reprogramming. He is pursuing a Bachelor's in Biomedical Engineering at UBC on a $120k Schulich Leader Scholarship and works on DIY semiconductor fabrication in his free time.",
+    "long_description": "Anush Mutyala is a multidisciplinary engineering researcher and student with expertise spanning robotics, electrical engineering, neuromorphic computing, and biomedical applications. Currently, he works as a Robotics Researcher at NC4 Lab where he's developing calibration-free robotics using neural manifolds and building ROS/Gazebo simulations for LIDAR datasets. Simultaneously, he serves as an Electrical Engineering Intern at General Cybernetics, designing PCBs for bioelectric cell reprogramming experiments using LTSpice and Altium/Kicad.\n\nHis academic background includes pursuing a Bachelor of Applied Science in Biomedical Engineering at The University of British Columbia, supported by a prestigious $120k Schulich Leader Scholarship. He previously attended The Knowledge Society (TKS) from 2020-2022 and graduated from Chinguacousy Secondary School's SciTech program.\n\nAnush has accumulated significant research experience, including work at York University as a Neuromorphics Researcher where he led a cross-institutional team developing bio-plausible spiking neural network training algorithms using EEG-fMRI data. At the University of Toronto's Intelligent Sensory Microsystems Lab, he worked as a Deep Learning and Hardware Engineer integrating spiking neural networks into low-power neural implants, reducing latency by 5x through algorithmic optimizations and designing gate-level implementations for FPGA.\n\nHis entrepreneurial experience includes co-founding NeuraDAO, where he helped build a decentralized marketplace for neuroimaging datasets using Web3 protocols and raised over $6000 in funding. He also worked as a Data Science and Software Engineer at Divergence Neuro, developing a consumer EEG-based neurofeedback therapy platform.\n\nAnush has received recognition as an Emergent Ventures Fellow with a $4k USD grant to build a maskless photolithography stepper for Hacker Fab at UBC. His project \"Enerspike\" won a Bronze award at CWSF 2023, and his \"ConnexSci\" project was a Hack The North 2022 Finalist.\n\nIn his free time, Anush works on building a DIY semiconductor fabrication facility, demonstrating his passion for hands-on engineering and innovation at the intersection of hardware and computational systems."
+}

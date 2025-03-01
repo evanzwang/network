@@ -1,0 +1,14 @@
+{
+    "id": "arihanvaranasi",
+    "name": "Arihan V.",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQH_KCQYYFwP8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696996010871?e=2147483647&v=beta&t=Fcy_XDLHudLk3e49aqkZBaW2febpWQYkU38vuu9jo-c",
+    "contacts": [
+        "Stanford University"
+    ],
+    "links": [
+        "https://arihanv.github.io/ReadSpeak/",
+        "https://untcourseseeker.streamlit.app/"
+    ],
+    "short_description": "Stanford '28 Computer Science student and machine learning researcher with experience in developing LLM applications and computer vision systems. Previously at University of North Texas where he worked on projects using bi-stream convolutional neural networks and deep learning autoencoders for agricultural optimization and human tracking methods.",
+    "long_description": "Arihan V. is a Computer Science student at Stanford University (Class of 2028) with a strong background in machine learning research and application development. He previously served as an Undergraduate Researcher at the University of North Texas, where he worked in the Computer Vision and Intelligent Systems Laboratory on projects funded by NASA, USGS, and Physmodo Inc.\n\nHis research experience includes utilizing bi-stream convolutional neural networks and deep learning autoencoders to identify cropland levees and optimize farming structures, developing novel human tracking methods using point clouds and depth videos, and implementing computer vision algorithms for real-time video tracking.\n\nArihan has an impressive academic background, having attended the Texas Academy of Mathematics and Science (2022-2024) and Coppell High School (2020-2022), maintaining a perfect 4.0 GPA at both institutions. He's multilingual with proficiency in English (native), Hindi, Telugu, and Spanish.\n\nHis project portfolio showcases his technical versatility, including UNT Course Seeker, ReadSpeak, NLP for Finance, and Investmate. Arihan has won numerous hackathons and competitions, including first place at HackLah!, Code4Good, PantherHack, Treasure Hacks, and LaunchHacks II, demonstrating his ability to develop innovative solutions using AI and machine learning technologies.\n\nHe's particularly focused on building LLM applications and models, with projects like Koios GPT that combines AI algorithms and LLMs to process research articles and PDFs, and SightSense, a wearable device using object detection and text-to-speech to aid visually impaired individuals. His technical skills include Python, React, machine learning, computer vision, and statistical analysis, making him a versatile and accomplished young technologist."
+}

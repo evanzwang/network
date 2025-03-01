@@ -6,15 +6,17 @@ type SearchPopupProps = {
   isOpen: boolean;
   onClose: () => void;
   onSearch: (query: string) => void;
+  isSearching?: boolean;
 };
 
-const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch }) => {
+const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch, isSearching = false }) => {
   const [searchQuery, setSearchQuery] = useState('');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (searchQuery.trim()) {
+    if (searchQuery.trim() && !isSearching) {
       onSearch(searchQuery);
+      // Close the popup immediately when search is clicked
       onClose();
     }
   };
@@ -43,6 +45,7 @@ const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch }) 
           <button
             onClick={onClose}
             className="text-gray-500 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+            disabled={isSearching}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -62,6 +65,7 @@ const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch }) 
               rows={4}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
+              disabled={isSearching}
             />
           </div>
           
@@ -75,7 +79,8 @@ const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch }) 
                   key={index}
                   type="button"
                   onClick={() => useExampleQuery(query)}
-                  className="text-xs bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-2 py-1 rounded-full hover:bg-gray-200 dark:hover:bg-gray-600"
+                  className="text-xs bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-2 py-1 rounded-full hover:bg-gray-200 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed"
+                  disabled={isSearching}
                 >
                   {query}
                 </button>
@@ -87,15 +92,24 @@ const SearchPopup: React.FC<SearchPopupProps> = ({ isOpen, onClose, onSearch }) 
             <button
               type="button"
               onClick={onClose}
-              className="px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700"
+              className="px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+              disabled={isSearching}
             >
               Cancel
             </button>
             <button
               type="submit"
-              className="px-4 py-2 bg-blue-600 border border-transparent rounded-md shadow-sm text-sm font-medium text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+              className="px-4 py-2 bg-blue-600 border border-transparent rounded-md shadow-sm text-sm font-medium text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+              disabled={isSearching || !searchQuery.trim()}
             >
-              Search
+              {isSearching ? (
+                <>
+                  <div className="h-4 w-4 animate-spin rounded-full border-2 border-solid border-white border-r-transparent"></div>
+                  Searching...
+                </>
+              ) : (
+                'Search'
+              )}
             </button>
           </div>
         </form>

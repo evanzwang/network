@@ -6,10 +6,10 @@ import SearchPopup from './SearchPopup';
 
 // Define the Person type
 type Person = {
-  id: number;
   name: string;
   imageUrl: string;
   description: string;
+  contacts: string[];
 };
 
 interface SearchablePeopleTableProps {
@@ -20,15 +20,44 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
   const [isSearchPopupOpen, setIsSearchPopupOpen] = useState(false);
   const [filteredPeople, setFilteredPeople] = useState<Person[]>(people);
   const [searchQuery, setSearchQuery] = useState<string | null>(null);
+  const [isSearching, setIsSearching] = useState(false);
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   // Update filtered people when people prop changes
   useEffect(() => {
     setFilteredPeople(people);
   }, [people]);
 
-  const handleSearch = (query: string) => {
+  const handleSearch = async (query: string) => {
     setSearchQuery(query);
+    setIsSearching(true);
+    setSearchError(null);
     
+    // Close the popup immediately when search is clicked
+    setIsSearchPopupOpen(false);
+    
+    try {
+      // Call the backend API for search
+      const response = await fetch(`http://127.0.0.1:8000/api/match/?text=${encodeURIComponent(query)}`);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      setFilteredPeople(data.matches || []);
+    } catch (error) {
+      console.error('Error searching people:', error);
+      setSearchError('Failed to search using the API. Falling back to local search.');
+      // Fallback to client-side search if API call fails
+      performClientSideSearch(query);
+    } finally {
+      setIsSearching(false);
+    }
+  };
+
+  // Fallback client-side search function
+  const performClientSideSearch = (query: string) => {
     // Enhanced natural language search implementation
     const lowercaseQuery = query.toLowerCase();
     
@@ -48,7 +77,7 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
     
     // Score each person based on how many query words match their data
     const scoredPeople = people.map(person => {
-      const personText = `${person.name.toLowerCase()} ${person.description.toLowerCase()}`;
+      const personText = `${person.name.toLowerCase()} ${person.description.toLowerCase()} ${person.contacts.join(' ').toLowerCase()}`;
       
       // Calculate a score based on how many query words appear in the person's data
       let score = 0;
@@ -78,6 +107,7 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
   const clearSearch = () => {
     setFilteredPeople(people);
     setSearchQuery(null);
+    setSearchError(null);
   };
 
   return (
@@ -97,6 +127,11 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
               </button>
             </div>
           )}
+          {searchError && (
+            <div className="text-sm text-amber-600 dark:text-amber-400 mt-1">
+              {searchError}
+            </div>
+          )}
         </div>
         <button
           onClick={() => setIsSearchPopupOpen(true)}
@@ -106,7 +141,7 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
         </button>
       </div>
       
-      {filteredPeople.length === 0 && searchQuery && (
+      {!isSearching && filteredPeople.length === 0 && searchQuery && (
         <div className="text-center py-8 text-gray-500 dark:text-gray-400">
           <p>No people found matching your search criteria.</p>
           <button 
@@ -118,14 +153,28 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
         </div>
       )}
       
-      {filteredPeople.length > 0 && (
-        <PeopleTable people={filteredPeople} />
-      )}
+      <div className="relative">
+        {isSearching && (
+          <div className="absolute top-0 left-0 right-0 flex justify-center pt-4 z-10">
+            <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-lg flex items-center gap-3">
+              <div className="h-6 w-6 animate-spin rounded-full border-2 border-solid border-blue-600 border-r-transparent"></div>
+              <p className="text-gray-600 dark:text-gray-300">Searching for matches...</p>
+            </div>
+          </div>
+        )}
+        
+        <div className={`transition-all duration-300 ${isSearching ? 'filter blur-sm opacity-50' : ''}`}>
+          {(isSearching || filteredPeople.length > 0) && (
+            <PeopleTable people={filteredPeople} />
+          )}
+        </div>
+      </div>
       
       <SearchPopup 
         isOpen={isSearchPopupOpen}
         onClose={() => setIsSearchPopupOpen(false)}
         onSearch={handleSearch}
+        isSearching={isSearching}
       />
     </div>
   );

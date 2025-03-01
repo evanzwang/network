@@ -1,0 +1,13 @@
+{
+    "id": "natnael-kahssay",
+    "name": "Natnael Kahssay",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQEGGRGzzFxA_w/profile-displayphoto-shrink_200_200/B4EZU5.QVsHgAc-/0/1740434376570?e=2147483647&v=beta&t=FDWkCfk75GkQscw6bbgijPWQlRIcGCspChp9X4_DBqk",
+    "contacts": [
+        "nkk@mit.edu"
+    ],
+    "links": [
+        "https://github.com/natask"
+    ],
+    "short_description": "Computer Science and Engineering student at MIT with research experience in RF systems, FPGA design, and hardware development. Currently a Laboratory Teaching Assistant at MIT EECS and an Undergraduate Researcher in the Bioelectronics Group at MIT Brain and Cognitive Sciences. Incoming at Etched.",
+    "long_description": "Natnael Kahssay is a Computer Science and Engineering student at the Massachusetts Institute of Technology (MIT) with a diverse background in hardware and systems engineering. He currently serves as a Laboratory Teaching Assistant for Digital System Laboratory I (6.205) at MIT EECS, where he assists students with FPGA implementations and digital design projects using Sparta-7 FPGAs.\n\nAs an Undergraduate Researcher in the Bioelectronics Group at MIT Brain and Cognitive Sciences, Natnael works on assembling optogenetic-based waveguide and neural implants used to study stress in addiction susceptibility, involving fiber draw processes and surgical procedures in mice models.\n\nPreviously, Natnael worked as a Laboratory Assistant and Grader for the Semiconductor Electronic Circuits (6.2080) course, helping students design, simulate, and lay out active circuits in Cadence, as well as grading homework on gain elements and small signal analysis.\n\nNatnael has entrepreneurial experience as the Founder of Saverntronics Technologies (Dec 2020 - Apr 2022), where he developed an autonomous barbing machine, designing and implementing a digital model and characterizing its actuator response.\n\nHis technical skills include proficiency in Bluespec, C, Python, Cadence, and Vivado, with hands-on experience in RF systems, FPGA design, nano-fabrication, and hardware design. Natnael has worked on various projects including an 802.11a Physical layer on RFSoC, Nano MEMS Mirrors, and Org-roam search.\n\nCurrently pursuing a Bachelor of Science in Computer and Electrical Engineering at MIT, Natnael is set to join Etched in an upcoming role."
+}

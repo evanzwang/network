@@ -1,0 +1,13 @@
+{
+    "id": "david-bai",
+    "name": "David Bai",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGo5S4m9--2yA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1670384000084?e=2147483647&v=beta&t=Kb0zpokA9GZizAQdbKyDozEk_Nz-bdKPJgvaBn3wpAg",
+    "contacts": [
+        "david-bai@linkedin.com"
+    ],
+    "links": [
+        "https://www.jargonlearn.com"
+    ],
+    "short_description": "Computer Engineering & Computer Science student at USC Viterbi and Research Fellow at the Supervised Program for Alignment Research. Co-founder of Jargon, a language learning chrome extension, with experience in AI research, robotics, and machine learning.",
+    "long_description": "David Bai is a Computer Engineering & Computer Science student at the University of Southern California (USC) Viterbi School of Engineering (2023-2027) and a USC Presidential Scholar. He is currently a Research Fellow at the Supervised Program for Alignment Research, where he investigates reasoning and AI agents from capabilities and security perspectives.\n\nDavid has extensive research experience, working as a Research Assistant at USC Viterbi School of Engineering's GLAMOR Lab through the CURVE Fellowship, focusing on multi-agent robotic planning at the intersection of LLMs and symbolic planners. He previously worked at the Dynamic Robotics and Control Laboratory, where he augmented model predictive control for legged robots with reinforcement learning.\n\nAs a Project Member at USC Center for AI in Society's Student Branch (CAIS++), David researches inference-time compute for machine translation. He previously completed the CAIS++ cohort program, learning machine learning fundamentals and building projects including a multimodal hate speech detector, drug prescription network, and facial emotion recognition network.\n\nDavid co-founded Jargon, a language learning chrome extension (jargonlearn.com), and has been actively involved with USC Makers, where he currently serves as a Project Manager building brain-controlled drones with electroencephalography. He previously worked as a Software Engineer at USC Makers, building an autonomous greenhouse with computer vision.\n\nHis professional experience includes working as a Machine Learning & Computer Vision Intern at Rhoman Aerospace, enabling GPS-denied navigation through VIO and building simulation/SLAM pipelines.\n\nDavid also has a background in volunteering, having served as a Volunteer/Course Developer for both the Cheyenne River Youth Project and Friends of Children with Special Needs (FCSN).\n\nBefore USC, David attended Valley Christian Schools in San Jose from 2019 to 2023."
+}

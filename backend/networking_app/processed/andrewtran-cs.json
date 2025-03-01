@@ -1,0 +1,14 @@
+{
+    "id": "andrewtran-cs",
+    "name": "Andrew Tran",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D4E03AQEVUI9KsbIKCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721361710559?e=2147483647&v=beta&t=8uors9J-vCvX7EYzHpa4JC9Snu4aX6VMN4ChYrHBUYo",
+    "contacts": [
+        "500+ connections",
+        "1K followers"
+    ],
+    "links": [
+        "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902"
+    ],
+    "short_description": "Andrew Tran is an undergraduate junior at Yale University with a strong passion for computer science. He is currently affiliated with Hudson River Trading and has contributed to research in molecular language models, presenting at ISMB 2024.",
+    "long_description": "Andrew Tran is an undergraduate junior at Yale University pursuing studies in computer science. He currently has a professional affiliation with Hudson River Trading. Andrew has demonstrated a strong interest in advanced computer science topics, having taken courses in Compilers and Interpreters, Computer Architecture, Data Structures, Deep Learning on Graph-Structured Data, Discrete Mathematics, Natural Language Processing, Operating Systems, and Probabilistic Machine Learning.\n\nHis research interests appear to be in the intersection of machine learning and computational biology, as evidenced by his publication \"MolLM: A unified language model for integrating biomedical text with 2D and 3D molecular representations\" which was presented at ISMB 2024. This research focused on developing a unified pre-trained language model that captures both 2D and 3D molecular information alongside biomedical text.\n\nAndrew maintains an active professional network with over 500 connections and 1,000 followers on LinkedIn. His activity on the platform shows interests in artificial intelligence, machine learning, computational biology, and mathematics, as he frequently engages with content in these domains. His academic and professional trajectory suggests a focus on cutting-edge computational methods with applications in scientific research."
+}

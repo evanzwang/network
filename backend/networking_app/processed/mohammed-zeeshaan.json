@@ -1,0 +1,14 @@
+{
+    "id": "mohammed-zeeshaan",
+    "name": "Zeeshaan Mohammed",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQEt-L5gz_7CYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710367629193?e=2147483647&v=beta&t=qDrAzNVyzCozsU-oejJ57jDPBSV3j4wSEb4peOCCank",
+    "contacts": [
+        "2K followers",
+        "500+ connections"
+    ],
+    "links": [
+        "https://www.linkedin.com/in/mohammed-zeeshaan/"
+    ],
+    "short_description": "Machine Learning Engineer and Data Scientist with expertise in Computer Vision and AI systems. Currently at Solo Tech, with previous experience at Medtronic, SkyLark Labs, and PayPal. Master's in Computer Science from California State University, Los Angeles.",
+    "long_description": "Zeeshaan Mohammed is a Machine Learning Engineer and Data Scientist specializing in Artificial Intelligence and Computer Vision. He is currently working at Solo Tech in the San Francisco Bay Area, where he has spearheaded the development of an object detection and tracking system using YOLO and Bytetrack, improving accuracy by 30% and reducing irrelevant ID switches under challenging conditions. He has also optimized model inference speeds by 20%, reducing latency by 40% through GPU acceleration and custom optimization pipelines.\n\nPreviously, Zeeshaan worked at Medtronic where he enhanced the GI Genius intelligent endoscopy AI system, achieving a 20% improvement in detecting precancerous lesions. He also developed a machine learning model for a smart insulin pen that reduced hypoglycemic events by 28%.\n\nAt SkyLark Labs, he deployed a real-time theft detection system using YOLO and DeepSort with 90% accuracy, and designed a face recognition system achieving 95% accuracy. During his two-year tenure at PayPal as a Data Scientist, he developed a churn prediction model that reduced customer churn by 20% and retained over 20,000 customers. He also deployed an NLP-based chatbot system that increased ticket resolution efficiency by 25%.\n\nZeeshaan holds a Master of Science in Computer Science from California State University, Los Angeles (2022-2024) and a Bachelor of Engineering in Computer Science from Muffakham Jah College of Engineering & Technology (2016-2020). He has several certifications from Udemy, including Deep Learning and Computer Vision A-Z™, Natural Language Processing with Python, Time Series Data Analysis, and Data Science A-Z™.\n\nHis technical skills include Data Science, Machine Learning, PostgreSQL, Python, SQL, and Tableau, as demonstrated by his coursework and professional experience. Zeeshaan is actively looking for full-time job opportunities in the AI and machine learning field."
+}
