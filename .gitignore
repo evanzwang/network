@@ -4,3 +4,4 @@ data/
 logs/
 matching_cache.json
 __pycache__
+*.zip
