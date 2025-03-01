@@ -82,3 +82,39 @@ def get_match_from_text(request):
                         } for m in matches]
 
         return JsonResponse({'matches': matches})
+    
+
+def get_matching_reason(request):
+    """
+    Returns reasons why specific people match a given query
+    """
+    if request.method == 'GET':
+        text = request.GET.get('text')
+        names = request.GET.get('names', '')
+        
+        print(f"Received request for reasons - text: {text}, names: {names}")
+        
+        if not text:
+            return JsonResponse({'error': 'No search text provided'}, status=400)
+            
+        # Split the names string into a list
+        name_list = [name.strip() for name in names.split(',') if name.strip()]
+        
+        print(f"Parsed name list: {name_list}")
+        
+        if not name_list:
+            return JsonResponse({'error': 'No names provided'}, status=400)
+            
+        reasons = matcher.get_specific_reason(text, name_list)
+        print(f"Generated reasons: {reasons}")
+        
+        # Ensure reasons is a dictionary
+        if not isinstance(reasons, dict):
+            print(f"Warning: reasons is not a dictionary, it's a {type(reasons)}")
+            # Convert to dictionary if it's not already
+            if isinstance(reasons, list) and len(reasons) == len(name_list):
+                reasons = {name: reason for name, reason in zip(name_list, reasons)}
+            else:
+                reasons = {name: "No specific reason available" for name in name_list}
+        
+        return JsonResponse({'reasons': reasons})

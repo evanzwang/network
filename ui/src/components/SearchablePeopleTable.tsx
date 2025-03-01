@@ -10,6 +10,7 @@ type Person = {
   imageUrl: string;
   description: string;
   contacts: string[];
+  matchReason?: string;
 };
 
 interface SearchablePeopleTableProps {
@@ -22,11 +23,54 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
   const [searchQuery, setSearchQuery] = useState<string | null>(null);
   const [isSearching, setIsSearching] = useState(false);
   const [searchError, setSearchError] = useState<string | null>(null);
+  const [isLoadingReasons, setIsLoadingReasons] = useState(false);
 
   // Update filtered people when people prop changes
   useEffect(() => {
     setFilteredPeople(people);
   }, [people]);
+
+  // Fetch match reasons for the filtered people
+  const fetchMatchReasons = async (query: string, matchedPeople: Person[]) => {
+    if (!query || matchedPeople.length === 0) return;
+    
+    setIsLoadingReasons(true);
+    try {
+      // Get the names of the matched people
+      const names = matchedPeople.map(person => person.name).join(',');
+      
+      console.log('Fetching reasons for query:', query);
+      console.log('Names:', names);
+      
+      // Call the API to get the match reasons
+      const response = await fetch(`http://127.0.0.1:8000/api/reasons/?text=${encodeURIComponent(query)}&names=${encodeURIComponent(names)}`);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      console.log('Received reasons data:', data);
+      
+      // Update the filtered people with their match reasons
+      if (data.reasons && typeof data.reasons === 'object') {
+        const updatedPeople = matchedPeople.map(person => ({
+          ...person,
+          matchReason: data.reasons[person.name] || null
+        }));
+        
+        console.log('Updated people with reasons:', updatedPeople);
+        setFilteredPeople(updatedPeople);
+      } else {
+        console.warn('No valid reasons data received:', data);
+      }
+    } catch (error) {
+      console.error('Error fetching match reasons:', error);
+      // We don't set an error state here as it's not critical - we'll just show the results without reasons
+    } finally {
+      setIsLoadingReasons(false);
+    }
+  };
 
   const handleSearch = async (query: string) => {
     setSearchQuery(query);
@@ -45,7 +89,13 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
       }
       
       const data = await response.json();
-      setFilteredPeople(data.matches || []);
+      const matchedPeople = data.matches || [];
+      setFilteredPeople(matchedPeople);
+      
+      // After getting the matches, fetch the reasons
+      if (matchedPeople.length > 0) {
+        await fetchMatchReasons(query, matchedPeople);
+      }
     } catch (error) {
       console.error('Error searching people:', error);
       setSearchError('Failed to search using the API. Falling back to local search.');
@@ -110,6 +160,12 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
     setSearchError(null);
   };
 
+  // Determine if we should show match reasons
+  const shouldShowMatchReasons = searchQuery !== null && filteredPeople.some(person => person.matchReason);
+  
+  console.log('Should show match reasons:', shouldShowMatchReasons);
+  console.log('Filtered people with reasons:', filteredPeople.filter(p => p.matchReason));
+
   return (
     <div className="w-full flex flex-col gap-4">
       <div className="flex justify-between items-center">
@@ -154,18 +210,23 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
       )}
       
       <div className="relative">
-        {isSearching && (
+        {(isSearching || isLoadingReasons) && (
           <div className="absolute top-0 left-0 right-0 flex justify-center pt-4 z-10">
             <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-lg flex items-center gap-3">
               <div className="h-6 w-6 animate-spin rounded-full border-2 border-solid border-blue-600 border-r-transparent"></div>
-              <p className="text-gray-600 dark:text-gray-300">Searching for matches...</p>
+              <p className="text-gray-600 dark:text-gray-300">
+                {isSearching ? 'Searching for matches...' : 'Loading match reasons...'}
+              </p>
             </div>
           </div>
         )}
         
-        <div className={`transition-all duration-300 ${isSearching ? 'filter blur-sm opacity-50' : ''}`}>
-          {(isSearching || filteredPeople.length > 0) && (
-            <PeopleTable people={filteredPeople} />
+        <div className={`transition-all duration-300 ${isSearching || isLoadingReasons ? 'filter blur-sm opacity-50' : ''}`}>
+          {((isSearching || isLoadingReasons) || filteredPeople.length > 0) && (
+            <PeopleTable 
+              people={filteredPeople} 
+              showMatchReasons={shouldShowMatchReasons}
+            />
           )}
         </div>
       </div>

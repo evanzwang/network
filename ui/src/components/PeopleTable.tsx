@@ -1,7 +1,7 @@
 "use client";
 
 import Image from 'next/image';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 // Define the Person type
 type Person = {
@@ -9,14 +9,16 @@ type Person = {
   imageUrl: string;
   description: string;
   contacts: string[];
+  matchReason?: string; // Optional reason for the match
 };
 
 
 interface PeopleTableProps {
   people: Person[];
+  showMatchReasons?: boolean; // Flag to determine if we should show the match reasons column
 }
 
-const PeopleTable: React.FC<PeopleTableProps> = ({ people }) => {
+const PeopleTable: React.FC<PeopleTableProps> = ({ people, showMatchReasons = false }) => {
   // State to track image loading errors
   const [imageErrors, setImageErrors] = useState<Record<number, boolean>>({});
 
@@ -31,8 +33,16 @@ const PeopleTable: React.FC<PeopleTableProps> = ({ people }) => {
     }));
   };
 
-  // Sort people by name
-  const sortedPeople = [...people].sort((a, b) => a.name.localeCompare(b.name));
+  // Log when showMatchReasons changes
+  useEffect(() => {
+    console.log('PeopleTable - showMatchReasons:', showMatchReasons);
+    console.log('PeopleTable - people with reasons:', people.filter(p => p.matchReason));
+  }, [showMatchReasons, people]);
+
+
+  // Force show match reasons if any person has a reason (for debugging)
+  const forceShowReasons = people.some(p => p.matchReason);
+  const shouldDisplayReasons = showMatchReasons || forceShowReasons;
 
   return (
     <div className="w-full overflow-x-auto">
@@ -48,10 +58,15 @@ const PeopleTable: React.FC<PeopleTableProps> = ({ people }) => {
             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
               Description
             </th>
+            {shouldDisplayReasons && (
+              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
+                Match Reason
+              </th>
+            )}
           </tr>
         </thead>
         <tbody className="divide-y divide-gray-200 dark:divide-gray-600">
-          {sortedPeople.map((person, index) => (
+          {people.map((person, index) => (
             <tr key={index} className="hover:bg-gray-50 dark:hover:bg-gray-700">
               <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-white">
                 {person.name}
@@ -71,6 +86,11 @@ const PeopleTable: React.FC<PeopleTableProps> = ({ people }) => {
               <td className="px-6 py-4 text-sm text-gray-500 dark:text-gray-300">
                 {person.description}
               </td>
+              {shouldDisplayReasons && (
+                <td className="px-6 py-4 text-sm text-gray-500 dark:text-gray-300">
+                  {person.matchReason || 'No specific reason provided'}
+                </td>
+              )}
             </tr>
           ))}
         </tbody>
