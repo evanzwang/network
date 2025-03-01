@@ -1,7 +1,13 @@
 import os
 import json
 from .queriers import LLMQuerier
-from .prompts import get_simple_prompt, get_comparison_prompt, parse_simple_list_prompt, parse_simple_prompt_response
+from .prompts import (
+    get_simple_prompt,
+    get_comparison_prompt,
+    parse_simple_list_prompt,
+    parse_simple_prompt_response,
+    get_reason_prompt,
+)
 from .person import Person
 import random
 from .elo import update_elo_batch
@@ -31,7 +37,7 @@ class Matcher:
                         long_description=data.get("long_description", ""),
                     )
 
-                    self.people[person.name.lower()] = person
+                    self.people[person.name.lower().strip()] = person
 
         self.llmq = LLMQuerier("logs/matching_logs", "matching_cache.json", 12800)
 
@@ -84,6 +90,11 @@ class Matcher:
     def get_everyone(self) -> list[Person]:
         return list(self.people.values())
 
+    def get_specific_reason(self, query: str, name: str) -> str:
+        name = name.strip().lower()
+        prompt = get_reason_prompt(query, self.people[name])
+        return self.generate([prompt])[0]
+
 
 def main():
     random.seed(42)
@@ -105,6 +116,12 @@ def main():
     # print("OUTPUT PERSON:", p[0].__repr__(), p[1], p[2].__repr__())
     print("OUTPUT PERSON:", p[0].__repr__(), p[1].__repr__())
     print(m.llmq.current_price, "EEE")
+    print(
+        m.get_specific_reason(
+            "I am Rex Liu. I want to meet with someone who is interested in AI safety and has done cybersecurity/pentesting.",
+            "aaquib syed",
+        )
+    )
 
 
 if __name__ == "__main__":
