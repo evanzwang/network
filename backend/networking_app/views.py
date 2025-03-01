@@ -71,17 +71,34 @@ def get_match_from_text(request):
     Returns a match for the given text as JSON response
     """
     if request.method == 'GET':
-        text = request.GET.get('text')
-        k = request.GET.get('k',5)
-        method = request.GET.get('method', "elo")
-        matches = matcher.query(text, method, k, num_pairs=1000)
-        matches = [{"name": m.name,
-                        "imageUrl": is_valid_url(m.profile_pic) and m.profile_pic or DEFAULT_IMAGE_URL,
-                        "description": m.short_description,
-                        "contacts": m.contacts,
-                        } for m in matches]
+        try:
+            text = request.GET.get('text')
+            k = request.GET.get('k',5)
+            method = request.GET.get('method', "elo")
+            
+            # Log the request parameters
+            print(f"Match request - text: {text}, k: {k}, method: {method}")
+            
+            matches = matcher.query(text, method, k, num_pairs=1000)
+            matches = [{"name": m.name,
+                            "imageUrl": is_valid_url(m.profile_pic) and m.profile_pic or DEFAULT_IMAGE_URL,
+                            "description": m.short_description,
+                            "contacts": m.contacts,
+                            } for m in matches]
 
-        return JsonResponse({'matches': matches})
+            return JsonResponse({'matches': matches})
+        except Exception as e:
+            # Log the full error details
+            import traceback
+            error_details = traceback.format_exc()
+            print(f"ERROR in get_match_from_text: {str(e)}")
+            print(f"Traceback: {error_details}")
+            
+            # Return a more informative error response
+            return JsonResponse({
+                'error': str(e),
+                'details': error_details
+            }, status=500)
     
 
 def get_matching_reason(request):

@@ -23,7 +23,7 @@ export default function Home() {
     const fetchPeople = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch('http://127.0.0.1:8000/api/people/');
+        const response = await fetch('https://networking-backend-app-29b92ddf4be2.herokuapp.com/api/people/');
         
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
