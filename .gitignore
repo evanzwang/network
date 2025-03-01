@@ -1,4 +1,6 @@
 .venv/
 .env
 data/
-
+logs/
+matching_cache.json
+__pycache__
