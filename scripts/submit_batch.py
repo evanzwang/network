@@ -11,7 +11,6 @@ class Profile(BaseModel):
     id: str
     name: str
     profile_pic: str
-    contacts: list[str]
     links: list[str]
     short_description: str
     long_description: str
@@ -25,13 +24,18 @@ def make_request(raw_info: str):
         "messages": [
             {
                 "role": "user",
-                "content": raw_info,
+                "content": f"""
+                    Output a profile object from the raw linkedin data. The `id` field is the linkedin public id. Make two versions of descriptions: short one should be a few sentences. The long one can be as long as needed to incorporate all relevant information about the person. `links` should include a list of links to personal websites, social accounts, etc. For contacts and links, make sure to output a list even with one element. You are looking at a participant in an AI hackathon. Most people are students or recent graduates with some experience in AI. You response should highlight their uniqueness (e.g. subfields, experiences) rather just stating their interests in AI. Don't mention trivial stats like number of connections, followers, and test scores.
+
+                    Linkedin Data:
+                    {raw_info}
+                """,
             }
         ],
         "tools": [
             {
                 "name": "create_profile",
-                "description": "Output a profile object from the raw linkedin data. The `id` field is the linkedin public id. Make two versions of descriptions: short one should be a few sentences. The long one can be as long as needed to incorporate all relevant information about the person. `links` should include a list of links to personal websites, social accounts, etc. For contacts and links, make sure to output a list even with one element. You are looking at a participant in an AI hackathon. Most people are students or recent graduates with some experience in AI. You response should highlight their uniqueness (e.g. subfields, experiences) rather just stating their interests in AI.",
+                "description": "Your response. Make sure `links` and `contacts` are lists.",
                 "input_schema": Profile.model_json_schema()
             }
         ],
@@ -39,17 +43,6 @@ def make_request(raw_info: str):
     }
     return request
 
-def parse(client: Anthropic, raw_info: str) -> Profile:
-    response = client.messages.create(**make_request(raw_info=raw_info))
-    profile: Profile
-    for content in response.content:
-        if content.type == "tool_use" and content.name == "create_profile":
-            profile = content.input
-            break
-    return profile # type: ignore
-
-
-@click.command()
 def parse_info():
     data_dir = Path("data/linkedin_profiles")
     people_dirs = list(data_dir.iterdir())
@@ -74,6 +67,7 @@ def parse_info():
 
     response = client.messages.batches.create(requests=requests) # type: ignore
     print(response)
+    
 
 if __name__ == "__main__":
     load_dotenv()

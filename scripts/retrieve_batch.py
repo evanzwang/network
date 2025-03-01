@@ -5,22 +5,13 @@ from anthropic import Anthropic
 import os
 from pydantic import BaseModel, HttpUrl
 from rich.progress import track
+from submit_batch import Profile
 
 
-class Profile(BaseModel):
-    id: str
-    name: str
-    profile_pic: str
-    contacts: list[str]
-    links: list[str]
-    short_description: str
-    long_description: str
-
-
-if __name__ == "__main__":
-    load_dotenv()
+@click.command()
+@click.argument("batch_id")
+def save_processed_data(batch_id: str):
     client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
-    batch_id = "msgbatch_01JMRYJuuiAjsLPGXbVJ3KSY"
     message_batch = client.messages.batches.retrieve(batch_id)
     profiles = []
 
@@ -31,7 +22,7 @@ if __name__ == "__main__":
             case "succeeded":
                 print(f"Success! {result.custom_id}")
                 for content in result.result.message.content: # type: ignore
-                    if content.type == "tool_use" and content.name == "create_profile":
+                    if content.type == "tool_use":
                         profile = content.input
                         profiles.append(Profile(**profile))
                         break
@@ -47,6 +38,11 @@ if __name__ == "__main__":
     # dump into a dir
     save_dir = Path("data/processed")
     for profile in profiles:
-        print(profile)
+        # print(profile)
         with open(save_dir / f"{profile.id}.json", 'w') as f:
             f.write(profile.model_dump_json(indent=4))
+    print(f"Updated {len(profiles)} profiles.")
+
+if __name__ == "__main__":
+    load_dotenv()
+    save_processed_data()
