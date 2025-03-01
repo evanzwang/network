@@ -1,7 +1,7 @@
 import os
 import json
 from .queriers import LLMQuerier
-from .prompts import get_simple_prompt, get_comparison_prompt, parse_simple_prompt_response
+from .prompts import get_simple_prompt, get_comparison_prompt, parse_simple_list_prompt, parse_simple_prompt_response
 from .person import Person
 import random
 from .elo import update_elo_batch
@@ -40,18 +40,15 @@ class Matcher:
     def generate(self, queries: list[dict[str, str]]) -> list[str]:
         return self.llmq.generate(self.model_config, queries, max_tokens=4096, temperature=0.5, top_p=0.95)
 
-    def simple_query(self, query_str: str) -> Person:
-        query = get_simple_prompt(query_str, list(self.people.values()))
-
+    def simple_query(self, query_str: str, k: int) -> list[Person]:
+        query = get_simple_prompt(query_str, list(self.people.values()), k)
         output = self.generate([query])[0]
 
-        reason, name = parse_simple_prompt_response(output)
-        name = name.lower()
+        reason, names = parse_simple_list_prompt(output)
+        names = [name.lower() for name in names]
+        assert len(names) == k
 
-        if name not in self.people:
-            raise ValueError(f"{name} not found in list of people.")
-
-        return self.people[name]
+        return [self.people[name] for name in names]
 
     def elo_query(self, query_str: str, k: int, num_pairs: int = 100) -> list[Person]:
         # Initialize Elo ratings for all people
@@ -79,14 +76,11 @@ class Matcher:
             raise ValueError(f"Method {method} not in {self.ALLOWED_METHODS}")
 
         if method == "simple":
-            if k != 1:
-                raise ValueError("k must be 1 for simple method")
-
-            return [self.simple_query(query_str, **kwargs)]
+            return self.simple_query(query_str, k, **kwargs)
 
         if method == "elo":
             return self.elo_query(query_str, k, **kwargs)
-    
+
     def get_everyone(self) -> list[Person]:
         return list(self.people.values())
 
@@ -95,15 +89,21 @@ def main():
     random.seed(42)
     # m = Matcher("data", "model_configs/haiku-3-5.json")
     m = Matcher("data", "model_configs/gpt-4o-mini.json")
+    # p = m.query(
+    #     "I am Rex Liu. I want to meet with someone who is interested in AI safety and has done cybersecurity/pentesting.",
+    #     "elo",
+    #     num_pairs=4200,
+    #     k=3,
+    # )
     p = m.query(
         "I am Rex Liu. I want to meet with someone who is interested in AI safety and has done cybersecurity/pentesting.",
-        "elo",
-        num_pairs=4200,
-        k=3,
+        "simple",
+        k=2,
     )
     # p = m.query("I am Rex Liu. I want to meet with someone who has interned at Jane Street.", "elo", num_pairs=15)
     # p = m.query("I am Rex Liu. I want to meet with someone who has interned at Jane Street.", "simple")
-    print("OUTPUT PERSON:", p[0].__repr__(), p[1], p[2].__repr__())
+    # print("OUTPUT PERSON:", p[0].__repr__(), p[1], p[2].__repr__())
+    print("OUTPUT PERSON:", p[0].__repr__(), p[1].__repr__())
     print(m.llmq.current_price, "EEE")
 
 
