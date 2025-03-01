@@ -43,7 +43,7 @@ const SearchablePeopleTable: React.FC<SearchablePeopleTableProps> = ({ people })
       console.log('Names:', names);
       
       // Call the API to get the match reasons
-      const response = await fetch(`https://networking-backend-app-29b92ddf4be2.herokuapp.com/api/reasons/?text=${encodeURIComponent(query)}&names=${encodeURIComponent(names)}`);
+      const response = await fetch(`https://3.145.209.248/api/reasons/?text=${encodeURIComponent(query)}&names=${encodeURIComponent(names)}`);
       
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
