@@ -1,0 +1,343 @@
+  template
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">1</font></td>
+  <td bgcolor="#EEEEFF">team member names</td>
+  <td bgcolor="#EEEEFF">
+    project title<br>
+    <font size="1"><A href="xxx_Project_Abstract.pdf">Abstract</A></font>
+    <font size="1"><A href="xxx_Project_Proposal.pdf">Proposal</A></font>
+    <font size="1"><A href="xxx_Project_Design_Presentation.pdf">Presentation</A></font>
+    <font size="1"><A href="xxx_Project_Checklist.pdf">Checklist</A></font>
+    <font size="1"><A href="xxx_Project_Final_Report.pdf">Report</A></font>
+    <font size="1"><span class="viewclip" onClick=javascript:viewclip("xxx.mov")>Video</span></font>
+  </td>
+  <td bgcolor="#EEEEFF">staff mentor</td>
+</tr>
+
+
+
+<h3>6.111 Final Projects Fall 2018 </h3>
+
+
+<h3>6.111 Final Projects Checkoff/Video Taping Fall 2018 </h3>
+<table cellspacing="4" cellpadding="4">
+<tr>
+  <th bgcolor="#C0C0FF">No.</th>
+  <th bgcolor="#C0C0FF">Team members</th>
+  <th bgcolor="#C0C0FF">Project</th>
+  <th bgcolor="#C0C0FF">Checkoff <br> Mon 12/10</th>
+  <th bgcolor="#C0C0FF">VideoTaping <br>Tue 12/11</th>
+</tr>
+
+<tr>                               
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">1</font></td>
+  <td bgcolor="#EEEEFF"> Megan Yamoah <br>Francisca Vasconcelos</td>
+  <td bgcolor="#EEEEFF">FPGA Qubit Package (Room  13-2101) 
+  <td bgcolor="#EEEEFF"> 13:30-14:00  </td>
+  <td bgcolor="#EEEEFF">--</td>                              
+</tr>
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">8</font></td>
+  <td bgcolor="#EEEEFF"> Jacob Brown <br>  Isabelle Liu </td>
+  <td bgcolor="#EEEEFF">Digital Supersaw Synthesizer<br>
+  <td bgcolor="#EEEEFF">16:00-16:15</td>
+  <td bgcolor="#EEEEFF">16:00-16:10</td>                                    
+</tr>
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">2</font></td>
+  <td bgcolor="#EEEEFF"> Katherine Camenzind <br>Alexander Huang  <br> Xavier Zapien </td>
+  <td bgcolor="#EEEEFF"> Robotic Air Hockey<br>
+  <td bgcolor="#EEEEFF">16:15-16:30</td>
+  <td bgcolor="#EEEEFF">16:10-16:20</td> 
+</tr>
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">3</font></td>
+  <td bgcolor="#EEEEFF">Magson Gao  <br> Shreeyam Kacker  </td>
+  <td bgcolor="#EEEEFF">Verilog Sudoku Solver<br>
+  <td bgcolor="#EEEEFF">16:30-16:45</td>
+  <td bgcolor="#EEEEFF">16:20-16:40</td>
+</tr>   
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">4</font></td>
+  <td bgcolor="#EEEEFF">Suzanne O'Meara  <br> Elijah Stanger-Jones <br>August Trollback  </td>
+  <td bgcolor="#EEEEFF">Check Yourself<br>
+  <td bgcolor="#EEEEFF">16:45-17:00</td>
+  <td bgcolor="#EEEEFF">16:40-16:50
+	<br><font color="red">break</font></td>
+			
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">5</font></td>
+  <td bgcolor="#EEEEFF"> Ashley Hyo Won Kim <br> Mark Theng  <br>  </td>
+  <td bgcolor="#EEEEFF">   Encrypted Communications over Ethernet<br>
+  <td bgcolor="#EEEEFF">17:00-17:15</td>
+  <td bgcolor="#EEEEFF">17:00-17:10</td>
+</tr>                                                                                   
+
+<tr>  
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">6</font></td>
+  <td bgcolor="#EEEEFF">Carlos Cuevas <br>Cody Winkleblack  </td>
+  <td bgcolor="#EEEEFF">Laser Cyclops<br>
+  <td bgcolor="#EEEEFF">17:15-17:30</td>
+  <td bgcolor="#EEEEFF">17:10-17:20</td>
+</tr>                         
+                                                                         
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">7</font></td>
+  <td bgcolor="#EEEEFF">  Sebastian Bartlett  <br> Joshua Noel </td>
+  <td bgcolor="#EEEEFF">Hardware Neural Net Entertainment System (HNES)<br>
+  <td bgcolor="#EEEEFF">17:30-17:45</td>
+  <td bgcolor="#EEEEFF">17:20-17:30</td>
+</tr>                         
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">26</font></td>
+  <td bgcolor="#EEEEFF"> Phoebe Piercy <br>Elina Sendonaris</td>
+  <td bgcolor="#EEEEFF">The Music Box<br>
+  <td bgcolor="#EEEEFF">17:45-18:00</td>
+  <td bgcolor="#EEEEFF">17:30-17:40</td>                                    
+</tr>
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">9</font></td>
+  <td bgcolor="#EEEEFF">  Noah Moroze  <br> Luis Torres </td>
+  <td bgcolor="#EEEEFF">Spherical Persistence of Vision Display<br>
+ <td bgcolor="#EEEEFF">18:00-18:15</td>
+  <td bgcolor="#EEEEFF">17:40-17:50
+	<br><font color="red">break</font></td>
+</tr>
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">17</font></td>
+  <td bgcolor="#EEEEFF"> Nadia Salahuddin <br>  Lydia Sun </td>
+  <td bgcolor="#EEEEFF">FPGA Fruit Ninja<br>
+
+  <td bgcolor="#EEEEFF">18:15-18:30</td>
+  <td bgcolor="#EEEEFF">18:00-18:10</td>
+                                  
+</tr>                             
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">11</font></td>
+  <td bgcolor="#EEEEFF"> Alexis Camacho <br>Chenkai Mao </td>
+  <td bgcolor="#EEEEFF">Interactive Minecraft<br>
+  <td bgcolor="#EEEEFF">18:30-18:45</td>
+  <td bgcolor="#EEEEFF">18:10-18:20</td>
+                              
+</tr> 
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">12</font></td>
+  <td bgcolor="#EEEEFF"> Jonathan Buschel <br> James Lovejoy</td>
+  <td bgcolor="#EEEEFF">Bitcoin Script Validation Accelerator<br>
+  <td bgcolor="#EEEEFF">18:45-19:00</td>                 
+  <td bgcolor="#EEEEFF">18:20-18:30</td>
+                              
+</tr>                                                                     
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">13</font></td>
+  <td bgcolor="#EEEEFF">Sabina Chen  <br>  Bret Heaslet<br>   David Mueller</td>
+  <td bgcolor="#EEEEFF">AirPong<br>
+  <td bgcolor="#EEEEFF">19:00-19:15 </td>
+  <td bgcolor="#EEEEFF">18:30-18:40</td>
+                              
+</tr>                                      
+
+<tr>                                   
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">14</font></td>
+  <td bgcolor="#EEEEFF"> Keshav Gupta  <br>  Francis Wang</td>
+  <td bgcolor="#EEEEFF">Auditory Localization<br>
+  <td bgcolor="#EEEEFF">19:15-19:30</td>
+  <td bgcolor="#EEEEFF">18:40-18:50<br>
+<font color="red">break</font></td>
+                                       
+</tr>                                                                                                
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">15</font></td>
+  <td bgcolor="#EEEEFF">Samuel Cherna  <br>Joshua Gruenstein  <br>Matthew Reeve  </td>
+  <td bgcolor="#EEEEFF">Audio Laser Light Show<br>
+  <td bgcolor="#EEEEFF">19:30-19:45</td>
+  <td bgcolor="#EEEEFF">19:00-19:10</td>
+                              
+</tr>                                                           
+<tr>                                                                
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">16</font></td>
+  <td bgcolor="#EEEEFF"> Joanna Sands <br>  Margaret Sands </td>
+  <td bgcolor="#EEEEFF">Scream-y Bird<br>
+  <td bgcolor="#EEEEFF">19:45-20:00</td>
+  <td bgcolor="#EEEEFF">19:10-19:20</td> 
+                              
+</tr>
+<tr>                               
+   <td bgcolor="#EEEEFF" align="right"><font color="grey"></font></td>
+  <td bgcolor="#EEEEFF"> </td>
+  <td bgcolor="#EEEEFF">  <br>
+  <td bgcolor="#EEEEFF">  </td>
+  <td bgcolor="#EEEEFF">  </td>
+                              
+</tr>
+
+<tr>                                                                                
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">10</font></td>
+  <td bgcolor="#EEEEFF">Kaname Favier  <br>Cameron Ordone <br>Adam Rodriguez   </td>
+  <td bgcolor="#EEEEFF">FPGA 6-DOF Motion Platform<br>
+
+  <td bgcolor="#EEEEFF">20:00-20:15</td>
+  <td bgcolor="#EEEEFF">19:20-19:30</td> 
+                              
+</tr>                                                   
+                                                                                      
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">18</font></td>
+  <td bgcolor="#EEEEFF"> Bradley Jomard <br>  Quinn Magendanz </td>
+  <td bgcolor="#EEEEFF">Basic Processor<br>
+  <td bgcolor="#EEEEFF">Tue <br>15:00-15:15</td>
+  <td bgcolor="#EEEEFF">Tue <br>15:15-15:25</td>   
+                              
+</tr>                                    
+                                                         
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">19</font></td>
+  <td bgcolor="#EEEEFF">  Dominik Martinez  <br> Alexander Peraire-Bueno </td>
+  <td bgcolor="#EEEEFF">Self Balancing Voice Controlled Robot<br>
+  <td bgcolor="#EEEEFF">20:30-20:45</td>
+  <td bgcolor="#EEEEFF">19:40-19:50
+	<br><font color="red"> break</font></td>  
+</tr>			
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">20</font></td>
+  <td bgcolor="#EEEEFF">  Jessica Quaye  <br> Premila Rowles </td>
+  <td bgcolor="#EEEEFF">FPGA Camera-Controlled Traffic Lights<br>
+  <td bgcolor="#EEEEFF">20:45-21:00</td>
+  <td bgcolor="#EEEEFF">20:00-20:10</td> 
+</tr>			
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">21</font></td>
+  <td bgcolor="#EEEEFF"> Olivia Brode-Roger </td>
+  <td bgcolor="#EEEEFF">Digi-GOES<br>
+  <td bgcolor="#EEEEFF">21:00-21:10</td>
+  <td bgcolor="#EEEEFF">20:10-20:20</td> 
+</tr>			
+
+<tr>   
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">22</font></td>
+  <td bgcolor="#EEEEFF">James Bloxham <br>  Matthew Tung  </td>
+  <td bgcolor="#EEEEFF">MAMBO - Multiplayer Arrow Matching Ballroom Orchestrator<br>
+  <td bgcolor="#EEEEFF">21:10-21:25</td>
+  <td bgcolor="#EEEEFF">20:20-20:30</td>
+</tr>                   
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">23</font></td>
+  <td bgcolor="#EEEEFF"> Jeremy Sogo</td>
+  <td bgcolor="#EEEEFF">
+    FPGA Tuner<br>
+  <td bgcolor="#EEEEFF">21:25:-21:40</td>
+  <td bgcolor="#EEEEFF">20:30-20:40</td>  
+</tr>			
+
+<tr>   
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">24</font></td>
+  <td bgcolor="#EEEEFF"> Raul Largaespada <br>David Mejorado </td>
+  <td bgcolor="#EEEEFF">Audio Controlled Levitator<br>
+  <td bgcolor="#EEEEFF">21:40-21:55</td>
+  <td bgcolor="#EEEEFF">20:40-20:50
+	<br><font color="red"> break </font></td>    
+</tr>
+                                                                                                   
+<tr>                             
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">25</font></td>
+  <td bgcolor="#EEEEFF"> Jenny Li <br>Shana Mathew</td>
+  <td bgcolor="#EEEEFF">Gesture Controlled Music Playback System<br>
+  <td bgcolor="#EEEEFF"> 21:55-22:10</td>
+  <td bgcolor="#EEEEFF">21:00-21:10</td>   			
+</tr>
+
+
+
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">27</font></td>
+  <td bgcolor="#EEEEFF"> Sarah Pohorecky</td>
+  <td bgcolor="#EEEEFF">FPGA Synthesizer<br>
+  <td bgcolor="#EEEEFF">22:10-22:20</td>
+  <td bgcolor="#EEEEFF">21:10-21:20</td> 
+</tr>
+
+
+
+</table>
+  6.111 Final Projects Checkoff/Video Taping Fall 2019
+  Checkoff: Mon 12/9, Video recording Tue 12/10
+  The presentations will be held at your lab bench and should take about  
+10-15 minutes.  We'll go over your checkoff milestones and each team  
+member will have a chance to describe and demonstrate their portion of  
+the project.  With your permission, we'd like to shoot a couple  
+minutes of video the next day to showcase you and your project on the course website.
+  Please be sure to be on time (eg, by arriving 5 minutes early!).  In  
+order to be fair to everyone, we'll be running a tight ship schedule- 
+wise, so please help us keep to the schedule.  You  may switch times
+with other teams if mutually agreeable.
+  Design Presentation Schedule (updated 10/31/2019)
+  Tuesday, 11/05,
+    2:30 -  5:00
+    32-141
+    Jeana Choi, Ryan Mansilla, Leilani Trautman, Stereoscopic Observation System (SOS)
+    Roderick Bayliss, Brandon John, FPGA Minesweeper,
+    Gian Delfin, Vivian Huang, Luis Terrones-Verastegui, The RC Circuit
+    Ray Dedhia, Diana Hernandez, Petra Hernandez, Gesture Control Fighting Game
+    Jacob Pritzker, Rahul Yesantharao, Freeform Production of Gorgeous Audio,
+    Endrias Kahssay, Natnael Kahssay, Ziheng Wang, An HFT Accelerator,
+    Ishaan Govindarajan, Eric Pence, The DiGuitar,
+    Colin Chaney, Charles Lindsay FPGA Software Define Radio (SDR),
+    Emmanuel Havugimana, Shuto Ogihara, Chase-bot,
+    Cecelia Chu, Parker Huntington, FPGA Ray Tracer,
+    Miles Dai, Hannah Field, FPGA RFID Utility,
+    Evan Gabhart, Roberto Gauna, Benjamin Sheffer, An Electronic Drum,
+  Thursday, 11/7, 2:30 - 4:00, 32-141
+    Olutimilehin Omotunde, Roberto Ramirez, E.D.I.T.H.,
+    James Abel, Jacob McGuire, QAM Receiver for Video Signals from a Quadcopter Camera,
+    Brendan Ashworth, Max Hardy, Anthony Nardomarino, FPGA Piano-Playing Robot,
+    Rhian Chavez, Miles Johnson, FPGA Light Controller,
+    Kika Arias, Elaine Ng, FPGA Auto-Tune,
+    Israel Bonilla, Sidne Gregory, Daniel Klahn, Nintendo Entertainment System Emulation,
+  Tuesday, 11/12, 2:30 - 4:00, 32-141
+    Isabelle Chong, Jose Guajardo, Nancy Hidalgo, Mario Bros Classic in Real Life
+    Alejandro Diaz, Sarah Spector, FPGuitAr Hero,
+    Matthew Johnston, Tyler Moroso, Brandon Motes, The Beep Boop 9000,
+    Kendall Garner, Claire Traweek, digitEyes,
+    Charity Midenyo, Jenessa Rodriguez, Bradley Seymour, 3D Tetris,
+    Jeremy McCulloch, Adam Potter, Sreya Vangara, HoloSaber,
+    Grayson King, Bahrudin Trbalic, ChessAI - Real Life Chess against AI,
+    Roberto Garcia FPGA Tetris,
+    Jackson Gray, Aaron Yeiser, FPGA Brushless Motor Controller,
+    Design Presentation Guidelines
+  Your project team is required to make a presentation to
+the class reviewing the project and its proposed implementation.
+Three person team will be allocated 12 minutes for the presentation
+followed by a 2 minute QA.  Two person teams will be allocated 8 minutes 
+with a 2 minute QA. Single person team will have 5 minutes with a 2 minute QA.
+In fairness to the presentors, the time limit
+will enforced.
+
+The presentation should be 6-12 slides that include an
+overview, a block diagram, discussion of the major modules identifying
+the tricky bits or implementation insights, and a simple timeline showing
+what you expect to have working when.  Each team member should give
+part of the presentation.
+  You're welcome to use whatever tool you'd like to create the
+presentation: HTML with figures, Powerpoint, PDF, etc.   Please format
+the material so that it can be projected properly, i.e., it should be
+in landscape format.  Your presentation must be  loaded on
+a flash drive for projection on my laptop. Individual laptops will not be
+allowed. This saves times and avoids
+compatibility issues with the projector as well internet connectivity issues.
+  We have a lot of presentations, so please plan to
+start and end at the appointed times.  Practice your
+presentation to ensure that it will fit into your time slot.
+  Please upload a PDF of your presentation slides so that they can be
+posted on the course website.

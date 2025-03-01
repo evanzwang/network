@@ -1,0 +1,85 @@
+{
+  "title": "Benchmarking Interpretability",
+  "meta_description": "",
+  "main_content": "Red Teaming Deep Neural Networks with Feature Synthesis Tools Stephen Casper (scasper@mit.edu), Yuxiao Li, Jiawei Li, Tong Bu, Kevin Zhang, Kaivalya Hariharan, Dylan Hadfield-Menell View the paper on arXiv . Find resources on GitHub . Find more work from us on our lab website . @article{casper2023benchmarking, title={Red Teaming Deep Neural Networks with Feature Synthesis Tools}, author={Casper, Stephen and Li, Yuxiao and Li, Jiawei and Bu, Tong and Zhang, Kevin and and Hariharan, Kaivalya and Hadfield-Menell, Dylan}, journal={arXiv preprint arXiv:2302.10894}, year={2023} } Benchmarking Interpretability Tools Interpretability tools for deep neural networks are widely studied because of their potential to help us exercise oversight over deep neural networks. Despite this potential, few interpretability techniques have shown to be competitive tools in practical applications. Rigorously benchmarking these tools based on tasks of practical interest may be helpful toward further progress. The Benchmarks We introduce trojans into ImageNet CNNs that are triggered by interpretable features. Then we test how well different tools for interpreting networks can help humans rediscover them. \u201cPatch\u201d trojans are triggered by a small patch overlaid on an image. \u201cStyle\u201d trojans are triggered by an image being style transferred. \u201cNatural feature\u201d trojans are triggered by features naturally present in an image. The benefits of interpretable trojan discovery as a benchmark are that This (1) solves the problem of an unknown ground truth, (2) requires nontrivial, predictions to be made about the network\u2019s performance on novel features, and (3) represents a challenging debugging task of practical interest. We insert a total of 12 trojans into the model via data poisoning. You can see the first 12 below. There are 4 additional secret natural feature trojans. How Existing Methods Perform Feature Attribution/Saliency We test 16 different feature visualization methods from Captum (Kokhlikyan et al., 2020) . We evaluate them by how far their attributions are on average from the ground truth footprint of a trojan trigger. Some methods do better than the edge-detector baseline, but not by much. This doesn\u2019t mean that they necessarily aren\u2019t useful, but it is still not a hard baseline to beat. Notably, the occlusion method from Zeilier and Fergus (2017) stands out on this benchmark. Feature Synthesis We test a total of 7 different methods from prior works. \u2013 TABOR (Guo et al., 2019) \u2013 Feature visualization with Fourier (Olah et al., 2017) and CPPN (Mordvintsev et al., 2018) parameterizations on inner and target class neurons \u2013 Adversarial Patch (Brown et al., 2017) \u2013 Robust feature-level adversaries (Casper et al., 2021) We find that Robust feature-level adversaries (Casper et al., 2021) were the most effective. We introduce two novel variants of it: \u2013 A method that uses a generator to parameterize robust feature-level adversaries. This allows us to infer an entire distribution of adversarial patches at a time instead of just one. \u2013 A search for natural adversarial features using embeddings (SNAFUE) that uses robust features level adversaries to search for similar natural images. All visualizations from these 9 methods can be found in the paper \u2018s appendix or the GitHub repository . We had both humans evaluators and CLIP (Radford et al., 2021) take multiple-choice tests to rediscover the trojans. Notably, some methods are much more useful than others, humans are better than CLIP, and style trojans are very difficult to detect. Challenges? Do you think you can do better than these methods? Do you think you can find additional trojans? Check out our challenges with prizes here .",
+  "links": [
+    {
+      "url": "https://arxiv.org/abs/2302.10894",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/thestephencasper/benchmarking_interpretability",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://algorithmicalignment.csail.mit.edu/",
+      "text": "lab website"
+    },
+    {
+      "url": "https://github.com/pytorch/captum",
+      "text": "(Kokhlikyan et al., 2020)"
+    },
+    {
+      "url": "https://arxiv.org/abs/1311.2901",
+      "text": "Zeilier and Fergus (2017)"
+    },
+    {
+      "url": "https://github.com/thestephencasper/benchmarking_interpretability#feature-synthesis",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/1908.01763",
+      "text": "(Guo et al., 2019)"
+    },
+    {
+      "url": "https://distill.pub/2017/feature-visualization/",
+      "text": "(Olah et al., 2017)"
+    },
+    {
+      "url": "https://distill.pub/2018/differentiable-parameterizations/",
+      "text": "(Mordvintsev et al., 2018)"
+    },
+    {
+      "url": "https://arxiv.org/abs/1712.09665",
+      "text": "(Brown et al., 2017)"
+    },
+    {
+      "url": "https://arxiv.org/abs/2110.03605",
+      "text": "(Casper et al., 2021)"
+    },
+    {
+      "url": "https://arxiv.org/abs/2110.03605",
+      "text": "(Casper et al., 2021)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2302.10894.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/thestephencasper/benchmarking_interpretability/tree/main",
+      "text": "repository"
+    },
+    {
+      "url": "https://arxiv.org/abs/2103.00020",
+      "text": "(Radford et al., 2021)"
+    },
+    {
+      "url": "https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/",
+      "text": "here"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://benchmarking-interpretability.csail.mit.edu/wp-content/uploads/2023/03/trojan_table_no_secrets.png",
+      "alt": ""
+    },
+    {
+      "src": "https://benchmarking-interpretability.csail.mit.edu/wp-content/uploads/2023/08/Screenshot-from-2023-08-18-17-29-55.png",
+      "alt": ""
+    },
+    {
+      "src": "https://benchmarking-interpretability.csail.mit.edu/wp-content/uploads/2023/03/results_grid_humans_and_clip.png",
+      "alt": ""
+    }
+  ]
+}

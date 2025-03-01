@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Alvin Zhang</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Alvin Zhang</div>
+<div class="menu-item"><a href="index.html" class="current">About</a></div>
+<div class="menu-item"><a href="files/Alvin_Zhang_CV_Sep_2024.pdf">CV</a></div>
+<div class="menu-item"><a href="projects.html">Projects&nbsp;(Serious)</a></div>
+<div class="menu-item"><a href="fun.html">Projects&nbsp;(Fun)</a></div>
+<div class="menu-item"><a href="code.html">Code&nbsp;Libraries</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Alvin Zhang</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="files/profile.jpeg" alt="" width="250px" />&nbsp;</td>
+<td align="left"><p>Research Engineer, <a href="http://matician.com">Matician</a></p>
+<p>Github: <a href="https://github.com/alvinzz">https://github.com/alvinzz</a></p>
+<p>Email: alvn.zng [at] gmail</p>
+</td></tr></table>
+<h2>About</h2>
+<p>I am a currently a research engineer at <a href="http://matician.com">Matician</a>, working on perception for autonomous robots.</p>
+<p>Over the past summer, I worked with <a href="https://redwood.berkeley.edu/people/bruno-olshausen/">Dr. Bruno Olshausen</a> in the <a href="https://redwood.berkeley.edu">Redwood Center for Theoretical Neuroscience</a> at UC Berkeley.</p>
+<p>Previously, I recieved a B.Sc. in Electrical Engineering and Computer Science from UC Berkeley.</p>
+<h2>Goals</h2>
+<p>I am seeking a Ph.D. in Computer Vision or Robotics.</p>
+<h2>Research Interests</h2>
+<p>My goal is to build <b>robust, intelligent autonomous systems</b>.</p>
+<ul>
+<li><p><b>Model verification and continual learning</b> by using <b>test-time feedback from self-supervision</b>.</p>
+</li>
+<li><p><b>Ground visual representation in touch</b> as the ultimate modality for robotic interaction.</p>
+</li>
+<li><p><b>Learn actionable representations</b> of an agent’s external environment.</p>
+</li>
+<li><p>Augment volumetric rendering systems with <b>expressive priors for faster and more stable inference</b>.</p>
+</li>
+<li><p>Demonstrate effectiveness of algorithms on <b>real-world robots</b>.</p>
+</li>
+</ul>
+<div class="wrap-collabsible">
+  <input id="collapsible2" class="toggle" type="checkbox">
+  <label for="collapsible2" class="lbl-toggle">Potential Projects</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+        <li>
+          Demonstrate on-line learning and adaption in a real-world robot using the principle of self-consistency.
+          <ul>
+            <li>
+              Experiment with meta-learning techniques to speed up on-line adapation to out-of-distribution samples from new environments.
+            </li>
+            <li>
+              Investigate how to best choose samples for off-line training.
+            </li>
+            <li>
+              Plan cautious, information-seeking behavior if perceptual predictions are not self-consistent.
+              <ul>
+                <li> Use robust classical methods as a fallback for learned policies. </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Learn a self-consistent visual-proproceptive-tactile representation for navigation by having a Roomba-like robot bump into things.
+          <ul>
+            <li>
+              Use this representation for path-planning and distill it into a robust policy.
+            </li>
+            <li>
+              Ambitiously, learn a representation and policy for object manipulation in this way.
+            </li>
+          </ul>
+        </li>
+        <li>
+          Leverage rich neural priors for 3-D shape estimation.
+          <ul>
+            <li>
+              Train a diffusion-based generative model over Neural SDFs or NeRFs to improve inference from sparse views or noisy poses.
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Extended Statement</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        After receiving my Bachelor’s from UC Berkeley, I spent two years in industry developing algorithms
+        for real-world robots. To my surprise, across several applications, I found that it was preferable to use
+        classical methods and that learning-based approaches should be used as a last resort.
+      </p>
+      <p>
+        Why is this? Shouldn’t a system that learns be more robust?
+      </p>
+      <p>
+        The hallmark of intelligence is the ability to adapt. During training time, neural networks adjust their
+        weights to improve their performance through repeated exposure to examples and feedback. However,
+        at test-time, they lose this learning capability: a neural network presented with a scenario outside of
+        its training distribution may perform arbitrarily poorly. Worse, it would not provide any signal of this
+        poor performance. This lack of robustness has catastrophic consequences for real-world robots; this
+        necessitates that any deep-learning-based module be carefully isolated from the rest of the system.
+      </p>
+      <p>
+        This analysis has led me to the following proposal:
+      </p>
+      <p>
+        PROPOSAL:
+      </p>
+      <p class="shifted">
+        If we are to trust a learning-based module in a real-world application, then it must have a
+        mechanism to evaluate its performance and improve its behavior, regardless of the input. To
+        achieve this, I propose to enforce self-consistency in learned systems, not just during
+        training, but also at run-time. This not only provides a measure of confidence in the robot’s
+        internal representation of the world, but is also a natural framework for continual learning.
+      </p>
+      <p>
+        My approach is a natural extension of self-supervised representation learning and it can leverage exactly
+        the same techniques. However, by removing the dichotomy between “train-time” and “test-time”, this
+        approach enables on-line system evaluation and continual learning. For example, a photometric loss can
+        be used to supervise training for stereo matching or optical flow. This is the end of the story for current
+        “deep” approaches – at test-time, a red pixel can still be matched to a green pixel with high confidence.
+        Instead, by using the photometric loss at test-time, the robot gets a signal that the prediction is incorrect,
+        which can then be used to refine the prediction, adapt behavior, and supervise further training.
+      </p>
+      <p>
+        More generally, the theory of “Perception as Inference” casts perceptual inference as an on-line optimization
+        problem. It posits that the goal of perception is to infer, from observations, an actionable internal
+        state that reflects an agent’s environment. This internal state should be verified by further observations;
+        any inconsistencies should be identified and resolved, either through careful exploratory actions or an
+        internal reasoning process. In particular, for robotics, this suggests that visual perception should be
+        grounded in touch, since that is the way that robots ultimately interact with the world.
+      </p>
+    </div>
+  </div>
+</div>
+<h2>Projects</h2>
+<p>See my <a href="projects.html">Projects (Serious)</a> and <a href="fun.html">Projects (Fun)</a> pages. Also check out my <a href="code.html">code libaries</a> for tensor dimension-naming and coordinate-transform type-safety!</p>
+<h2>Publications</h2>
+<p>A. Zhang, &ldquo;Generalized Skill Learning, Safety, and Exploration with Flow-Based Models&rdquo;, Workshop on Task-Agnostic Reinforcement Learning, International Conference on Learning Representations, 2019.</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2024-09-17 12:12:24 CEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+(<a href="index.jemdoc">source</a>)
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,79 @@
+          Toggle navigation
+        [SLURM Lab at USC](https://slurm-lab-usc.github.io/)
+            [Home](/)
+            [Members](/members)
+            [Publications](/publications)
+            [Getting Involved](/getting_involved)
+              [Lab photos](/photos)
+  TODO this file has become a mess, refactor it
+          PhD Students
+              [Minjune Hwang](https://mj-hwang.github.io/)
+              [Zeyu Shangguan](https://zshanggu.github.io/)
+              [Yunshuang Li](https://li-yunshuang.github.io/)
+              [Yiyang Ling](https://yiyang0207.github.io/)
+              [Ayano Hiranaka](https://misoshiruseijin.github.io)
+          Master's Students
+              [Dhanush Penmetsa](https://www.linkedin.com/in/dhanush-varma/)
+              [Vedant Raval](https://vedant2311.github.io)
+              [Yuhai Wang](https://yuhaiw.github.io/)
+              [Karan Owalekar](https://www.linkedin.com/in/karan-owalekar/)
+              [Enyu Zhao](https://www.linkedin.com/in/enyu-zhao-564566250/)
+              [Charlene Yuen](https://lazerbird.github.io/)
+              [Harshitha B R](https://www.linkedin.com/in/harshitha-b-r-2ab510190/)
+              [Hanyang Zhou](https://hanyang-zhou.github.io/)
+              [Sicheng He](https://hesic73.github.io/)
+              [Jonathan Zamora](https://jonzamora.dev/)
+              [Wenhao Liu](https://Liu-wenhao-1223.github.io/)
+              [Rajas Chitale](https://www.linkedin.com/in/rajas-chitale-rcv/)
+              [Ashwin Balasubramanian](https://www.linkedin.com/in/balasubramanian-ashwin/)
+              [Nikita Sarawgi](https://www.linkedin.com/in/nikita-sarawgi/)
+              [Zinan Li](https://www.linkedin.com/in/zinanli02/)
+          Undergraduate Students
+              [Hao Jiang](https://haojiang4400.github.io/)
+              [Oluwatobiloba Adesanya](https://www.linkedin.com/in/oluwatobilobaadesanya)
+              [Jonathan Ong](https://www.linkedin.com/in/ongjonathand)
+              [Letian Zhang](https://www.linkedin.com/in/letian-zhang-630b37235/)
+              [Jason Chen](https://jasoonchen.com/)
+              [Rida Faraz](https://www.linkedin.com/in/rida-faraz/)
+              [Samuel Burns](https://www.linkedin.com/in/samuel-burns-75702526b/)
+              [Maria Guerrero Cordoba](https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333)
+              [David Kim](https://www.linkedin.com/in/david-kim-b50046206/)
+          Faculty
+              [Daniel Seita](https://danielseita.github.io/)
+          Alumni
+            <li><a>  </a></li>
+              <h2 class="row-label" id="alumni-label">Alumni</h2>
+                Name
+                Period
+                Next step (known)
+                  [Qian (Peter) Wang](https://pwang649.github.io/)
+                2023-2024 (CS & AM)
+                PhD in CS, Yale University
+                  [Emily Zhu](https://www.linkedin.com/in/emily-k-zhu/)
+                2023-2024 (CS & BA)
+                  [Vijay Kumaravelrajan](https://www.linkedin.com/in/vijay-kumaravelrajan/)
+                2024 (CS & AM)
+                  [Zitong Huang](https://www.linkedin.com/in/zitong-huang/)
+                2024 (CECS)
+                  [Anisha Chitta](https://www.linkedin.com/in/anisha-chitta/)
+                2024 (CSBA)
+                  [Anupam Patil](https://www.linkedin.com/in/anupam-patil-114b841b0/)
+                2023-2024 (CS)
+          Visitors / Volunteers
+                  [Ce (Chris) Wang](https://www.linkedin.com/in/wangce94/)
+                2024 (Remote collaborator)
+                SWE at Ambarella Inc
+          Interns
+                  [Gayathri Rajesh](https://www.linkedin.com/in/gayathri-rajesh-b84560228/)
+                IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
+                  [Abhinav Pillai](https://www.linkedin.com/in/abhinav-pillai-62244b237)
+                USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
+                  [Ebonee Davis](https://www.linkedin.com/in/eboneetdavis/)
+                USC SURE 2024 (Undergrad at MIT)
+          SLURM Lab at USC
+       • 
+      2025
+          Please don't remove this, keep my open source work credited :)
+          Theme by
+            [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/)
+  doing something a bit funky here because I want to be careful not to include JQuery twice!

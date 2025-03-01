@@ -1,0 +1,36 @@
+{
+  "title": "Vineeth Vajipey",
+  "meta_description": "",
+  "main_content": "Home Research Projects Github Linkedin my-blog: 12-10-24, honey wasp 12-22-24, the big green",
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Home"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=xiKrcQgAAAAJ&hl=en&oi=ao",
+      "text": "Research"
+    },
+    {
+      "url": "https://devpost.com/VineethVajipey",
+      "text": "Projects"
+    },
+    {
+      "url": "https://github.com/vineethvajipey",
+      "text": "Github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/vineeth-vajipey/",
+      "text": "Linkedin"
+    },
+    {
+      "url": "blog/post1.html",
+      "text": "12-10-24, honey wasp"
+    },
+    {
+      "url": "blog/post2.html",
+      "text": "12-22-24, the big green"
+    }
+  ],
+  "images": []
+}

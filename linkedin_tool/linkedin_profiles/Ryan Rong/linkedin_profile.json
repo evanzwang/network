@@ -1,0 +1,529 @@
+[
+  {
+    "fullName": "Ryan Rong",
+    "linkedin_internal_id": "960403839",
+    "first_name": "Ryan",
+    "last_name": "Rong",
+    "public_identifier": "ryan-rong-313779229",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQEEhmPp1j4F8Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729072025848?e=2147483647&v=beta&t=neAqDEBc1-X54RvMih5vaPQ0_3vsnaG2Cu3X1S-Suwg",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQF6MD7w2N2--A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729071897582?e=2147483647&v=beta&t=u5KDG4CBF4_gJ6YILAazXV5TV9cWw53rGr-94s7muEQ",
+    "headline": "Stanford CS \u201828 | Stanford HAI | Microsoft Imagine Cup Finalist \u201823 | SIMR \u201823",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "Machine learning researcher and software developer studying CS and Math at Stanford. I've worked in research labs at Stanford and UIUC and is experienced in implementing and deploying ML models. I'm passionate about applying AI in areas such as healthcare, climate, and financial markets and I'm always hungry to learn more. Besides tech, I performs in musicals.",
+    "experience": [
+      {
+        "position": "Machine Learning Engineer",
+        "company_url": "https://www.linkedin.com/company/kosinc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQECgQ0YlI2Gqw/company-logo_100_100/company-logo_100_100/0/1654526256438?e=2147483647&v=beta&t=V4Vu3947L0y-f7kG4lM9g7rw5O5pkfFPKxYzwiRVF4E",
+        "company_name": "Kos",
+        "location": null,
+        "summary": "Algorithms for bio signal processing",
+        "starts_at": "Feb 2025",
+        "ends_at": "Present",
+        "duration": "2 months"
+      },
+      {
+        "position": "Research Assistant",
+        "company_url": "https://www.linkedin.com/company/stanfordhai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQF2PTprLtXKjA/company-logo_100_100/company-logo_100_100/0/1678225171731/stanfordhai_logo?e=2147483647&v=beta&t=PlDeTtaHEJcSncvob68qksbRjGTw9SEPZiRQkppp9E4",
+        "company_name": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+        "location": null,
+        "summary": "- Developing a Chrome extension AI writing assistant that generates Reddit and Twitter comments based on threads, posts, and discussions using webpack and OpenAI APIs, advised by Professor Erik Brynjolfsson.- Built Python server to collect 50,000+ (as of now) user behaviors, preferences, and activity in Supabase database.",
+        "starts_at": "Aug 2024",
+        "ends_at": "Present",
+        "duration": "8 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/skylowai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQFz38zYjR46Hg/company-logo_100_100/company-logo_100_100/0/1719257344594?e=2147483647&v=beta&t=CK6QLsL9Ly0YCUKgI2Fuy6Xxh3_UhQrNbv4Jv4QqdXw",
+        "company_name": "Skylow",
+        "location": null,
+        "summary": "- Developed website features with Next.js and backend database with Firebase",
+        "starts_at": "Aug 2024",
+        "ends_at": "Sep 2024",
+        "duration": "2 months"
+      },
+      {
+        "position": "Research Intern",
+        "company_url": "https://www.linkedin.com/school/stanford-university-school-of-medicine/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQH74V3iDB5G5Q/company-logo_100_100/company-logo_100_100/0/1630632331199/stanford_university_school_of_medicine_logo?e=2147483647&v=beta&t=4AUMlEKUL9FzfS7gBiK7486AAqDCUwHEZAxLoqLWotY",
+        "company_name": "Stanford University School of Medicine",
+        "location": "Stanford, California, United States",
+        "summary": "- Interned at the HealthRex lab at Stanford Center for Biomedical Informatics Research. - Trained Random Forest and XGBoost models to predict the onset of Alzheimer's Disease fairly across demographic groups using Electronic Health Records (EHR)- Identified top 20 indicators of Alzheimer\u2019s Disease using SHAP values",
+        "starts_at": "Jun 2023",
+        "ends_at": "Aug 2023",
+        "duration": "3 months"
+      },
+      {
+        "position": "Research Intern",
+        "company_url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_100_100/company-logo_100_100/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=2147483647&v=beta&t=TrFZBxAmbqYOYfdIFq5Zq_OlfV_xHrxA3oNZGy05CEU",
+        "company_name": "University of Illinois Urbana-Champaign",
+        "location": "Illinois, United States",
+        "summary": "Worked in professor Reyhaneh Jabbarvand\u2019s Intelligent Code Analysis and Testing lab to develop a deep learning network that generates realistic Java bugs. Created a Java program that automatically labels code blocks to improve the model\u2019s understanding of semantics.",
+        "starts_at": "May 2022",
+        "ends_at": "Apr 2023",
+        "duration": "1 year"
+      },
+      {
+        "position": "Analyst",
+        "company_url": "https://www.linkedin.com/company/mingxi-capital?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHOeYz9KW3GEg/company-logo_100_100/company-logo_100_100/0/1654593616859/mingxi_capital_logo?e=2147483647&v=beta&t=a5QNy8k-A8x5AYZL9hvITDKHDbHrFwtfKohJ_7sx5xM",
+        "company_name": "MingXi Capital",
+        "location": "Beijing, China",
+        "summary": "- Interned at MingXi Capital, a boutique financial advisory firm in the primary market. - Conducted market research and industry analysis on the Software as a Service (Saas) industry. - Researched a rising Saas company Xinbada targeting the apparel industry. Analyzed the apparel vertical market, the company's product offerings and competitive landscape, and recommended fund raising strategy.",
+        "starts_at": "Aug 2021",
+        "ends_at": "Sep 2021",
+        "duration": "2 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/stonewiseus?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQETosFLlslp2w/company-logo_100_100/company-logo_100_100/0/1630642821743?e=2147483647&v=beta&t=EaWZZz1GfGd9vxyYAEPptdl9vVamp9vZU1XcbNqDzzI",
+        "company_name": "StoneWise",
+        "location": "Beijing, China",
+        "summary": "- Interned at StoneWise Inc., a leading AI drug discovery company.- Built the MyCenter website for pharmaceutical companies to share and update their progress on StoneWise\u2019s drug discovery platform.",
+        "starts_at": "Jul 2021",
+        "ends_at": "Aug 2021",
+        "duration": "2 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2024 - 2028",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/the-peddie-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Peddie School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHgKd-P-jeV7g/company-logo_100_100/company-logo_100_100/0/1630589580355/peddie_school_logo?e=2147483647&v=beta&t=6jilSZEA6Ywbf5QFOpYJEEaEO_kXzJTkpYzAS2ZNHzI",
+        "college_degree": "High School Diploma",
+        "college_degree_field": "4.20",
+        "college_duration": "2020 - 2024",
+        "college_activity": "Math Department Award, Wintersteen Math Award Winner, Declamation Contest Finalist"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Kos",
+      "description1_link": "https://www.linkedin.com/company/kosinc?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/haipeng-zhang-2a5206213_treehacks-web3-blockchain-activity-7297373257073119232-iG2I",
+        "title": "\ud83d\ude80 We won \ud835\udfed\ud835\ude00\ud835\ude01 \ud835\uddfd\ud835\uddf9\ud835\uddee\ud835\uddf0\ud835\uddf2 of \ud835\uddd5\ud835\uddf2\ud835\ude00\ud835\ude01 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00 in the \ud835\uddea\ud835\uddf2\ud835\uddef\ud835\udfef \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\uddf8 sponsored by \ud835\uddd8\ud835\uddf6\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\udddf\ud835\uddee\ud835\ude06\ud835\uddf2\ud835\uddff at TreeHacks 2025! \ud83c\udf89\n\nOver an\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maggietanjing_treehack-stanford-aiinnovation-activity-7297487352438956032-kX27",
+        "title": "Just experienced an incredibly weekend at Stanford's annual TreeHacks  \ud83c\udf33\ud83d\udcbb\n\nWitnessed 300+ innovative ideas that left me in awe. The AI-native\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bedougherty_i-am-excited-to-share-that-i-will-be-joining-activity-7298024817671168007-qsUU",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHtRglmYSykgg/feedshare-shrink_800/B4EZUfK5liGwAg-/0/1739984706422?e=2147483647&v=beta&t=nYD8wbEpsEzx6kmV4wDjH59cDuST1PWEpIIjZEFeHyE",
+        "title": "I am excited to share that I will be joining Goldman Sachs as a 2026 FICC & Equities Summer Analyst at their New York City office! Thank you to\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/singhh5050_neuropilot-brainwave-computer-control-activity-7298189642225328128-Zru8",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG6S44suctGQg/articleshare-shrink_800/articleshare-shrink_800/0/1739745954907?e=2147483647&v=beta&t=-DxMQbtZOFFCZ9xyGOM-w8yMbxSjtAd0a3wd2ibbaTE",
+        "title": "We're headed to Japan!! \ud83d\udc39\ud83c\udf38\n\nThis weekend at TreeHacks 2025, Zeyneb Kaya, Nicole Ma, and I created NeuroPilot --- a tool that allows you to control\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jonathan-h-chen_bmir-research-colloquium-multi-omics-in-activity-7290038818924019712-kbAA",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQG4YJF1IhrSXg/feedshare-shrink_480/B56ZStrrV0HsAY-/0/1738080695954?e=2147483647&v=beta&t=ya5bY7-C9Le3rU2Ew5Gz889KhDygd-kdko3db5zZZTU",
+        "title": "BMIR Research Colloquium! \n\"Multi-omics in Cardiovascular Health and Disease\" \n- Dr. Daniel Katz, MD.\nThurs, 1/30 @ 12-1pm PST\nLive Stream:\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nvidia-ai_happy-valentines-day-nvidia-robotics-activity-7296211638293073920-8Le8",
+        "image": "https://media.licdn.com/dms/image/v2/D4D10AQE8X_KSw2g9nQ/ads-video-thumbnail_720_1280/B4DZUFZyOpHAAY-/0/1739552401098?e=2147483647&v=beta&t=NWQ-Xn03e8_GEdRhfiOZoRlz1OXhu5x6IOHX44ycoUw",
+        "title": "Happy Valentine's Day! \ud83d\udc9a \n\n\ud83d\udcf8: NVIDIA Robotics & The University of Texas at Austin",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/anjney_jensen-huang-came-by-last-week-with-surprise-activity-7297369337923805184-7fmX",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHn8JVJVi1Xwg/feedshare-shrink_800/B56ZUV2uWzHoAg-/0/1739828427302?e=2147483647&v=beta&t=HVh8u4oAYo7-H2PhLXOb5Xq06_BO53L1DgA78xB-0pw",
+        "title": "Jensen Huang came by last week with surprise signed 5090s for the students in Stanford CS153 \n\nA lecture the students will remember for life",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nipun-batra-_ai-hackathon-treehacks-activity-7297684779175424000-O-Hm",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFIiBOq6FKmtQ/feedshare-shrink_2048_1536/B56ZUaVouBGoAo-/0/1739903634624?e=2147483647&v=beta&t=yh2Kj8ke5A1U7DSqes8vCkb-5Vj_q9hhG2QYyV2eOxU",
+        "title": "We won at TreeHacks 2025! \ud83c\udf32 \ud83c\udfc6 \n\nThis past weekend, my team\u2014Shaurya Jadhav, Adarsh Ashok, Justin Xie, and I\u2014had never met before, but within 36\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sanjithudupa_had-an-awesome-time-this-past-weekend-competing-activity-7297740379951353858-8z_e",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHhp4IIDaaACA/feedshare-shrink_2048_1536/B56ZUbILRdGoAo-/0/1739916887127?e=2147483647&v=beta&t=1kQ3Rn-EnGoTr-kmn_gwEctG-XpMIyN4zjPyVMsG-LY",
+        "title": "Had an awesome time this past weekend competing at TreeHacks with my teammates Claire Wang, Sarah Su, and Kevin Zhu.\n\nWe built Mirror - a personal\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ben-n-cullen_we-won-the-google-award-at-treehacks-2025-activity-7297661397121830913-ViYI",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGR1iKrD6CnoQ/feedshare-shrink_2048_1536/B56ZUX5TUYGsAw-/0/1739862655849?e=2147483647&v=beta&t=xkrdwlBQFgg1E7E24RnZr4rpRkvXukoGOvv-nFtRBTY",
+        "title": "We won the Google award at TreeHacks 2025 (Stanford University's hackathon)! Even this llama we met at the hackathon couldn't believe it!\n\nChristina\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/karolinadubiel_i-had-an-amazing-time-at-stanford-university-activity-7297633299433144321-Hw36",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF9rGgs2G6xkQ/feedshare-shrink_2048_1536/B56ZUZm0bMHQAs-/0/1739891361824?e=2147483647&v=beta&t=_wJqY1w0SzB7pZ5oYV1wVNYZnbTVvpE7N6Ucs1sH_lA",
+        "title": "I had an amazing time at Stanford University\u2019s TreeHacks hackathon this past weekend! \ud83c\udf32\n\nMy team (Alayna Nguyen, Luna Chen, Elizabeth Qiu) and I\u2026",
+        "activity": "Liked by Ryan Rong"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/zaid-ahmed-swe_had-an-amazing-time-at-treehacks-2025-this-activity-7297696404448104448-BeJD",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEXjoziRIBzlA/feedshare-shrink_800/B56ZUagNNnGsAk-/0/1739906406022?e=2147483647&v=beta&t=FcaNVLUvDl_3wsaWNKpSDUl3J5NWk0TPz8gNM3Pm_us",
+        "title": "Had an amazing time at TreeHacks 2025 this past weekend! It was incredible meeting hackers from around the world, making new friends, and learning\u2026",
+        "activity": "Liked by Ryan Rong"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/academic-advancements?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Outreach Director, Tutor",
+        "company_name": "Academic Advancements",
+        "company_duration": "",
+        "starts_at": "Jan 2021",
+        "ends_at": "Present"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/llsusa?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Student Fundraiser",
+        "company_name": "The Leukemia & Lymphoma Society",
+        "company_duration": "",
+        "starts_at": "Jan 2023",
+        "ends_at": "May 2024"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/prakhar-sinha-57a412201?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Prakhar Sinha\n        \n              \n          A few short days ago, I wrapped up my research position at UC Davis Health with Professor Farzad Fereidouni. My role at the lab entailed a specialization in machine learning and computer vision and I'm excited to share what I was able to accomplish with everyone. \n\nI worked on two projects during my time at the lab. The first one was something I called \"Kernel Generation for Image Similarity\" (https://lnkd.in/ghsY73ts). It was to process an image such that it would look like it was H&E stained. I learned a lot about the basics of histology and digital histology through this process. The most novel part of this approach was using Wiener deconvolution to generate a kernel that would be used to enhance image similarity (typically using SSIM, MSE or a combination of both). \n\nA big part of this process was optimization. I learned how to use Python libraries such as Cupy and other tools to GPU accelerate a lot of these image-processing optimization problems.\n\nMy second project and my most meaningful contribution was called \"FastSAM-needle-biopsy\" (https://lnkd.in/gXXydq-X). The objective of this project was to use the FastSAM image segmentation network to accurately generate image segmentation masks of live tissue such that a microscope would only scan the relevant parts of an image. Here is step by step walkthrough of the image processing pipeline:\n\n1) VB.NET (Darius) application calls a DLL (compiled from csharp.NET)\n2) DLL calls FastSAM image segmentation code using Python.NET\n3) FastSAM segments image and returns image segmentation bitmask and as well as the fastest path to visit every bit (Traveling Salesman Problem)\n4) Python returns values are returned to DLL using JSON as a reliable data transfer solution\u00a0\n5) DLL returns an object that can be parsed by VB.NET\n\nFastSAM is a faster version of Meta Research's Segment Anything Model and I used it to greatly speed up development time on this project. It was a big challenge to integrate such cutting-edge, machine-learning driven, image processing pipelines into a legacy codebase that was written in Visual Basic .NET but thanks to tools such as DLLs, JSON, and C#, I was able to figure it out!\n\nI am very grateful for the time I spent in the lab. I feel like I developed some great programming skills, especially in computer vision, that will prove useful for the rest of my career. I'd like to give special thanks to Professor Fereidouni, Ruby Mascareno, Willy Ju, Dena Sayrafi, Ruben Gnanaruban, Inyola, Antara Mallick, and Jayla. \n\nThe link is here if you'd like to see my lab report going over everything I did in more technical detail and with a few pictures!\n\nhttps://lnkd.in/gRpZVmjG\n\n#computervision #machinelearning #AI #histology",
+        "location": "67\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                10 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/naisarg-h?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Naisarg Halvadiya\n        \n              \n          \ud83c\udf1f Attended My First Hackathon at UC Berkeley! \ud83c\udf1f\n\nYesterday, I had the incredible opportunity to participate in my very first hackathon, the UC Berkeley AI Hackathon, organized by  Cal Hacks & Berkeley SkyDeck. They say that the firsts should be special, and this experience was nothing short of surreal.\n\nThe 36-hour event was packed with insightful workshops, interactive sessions with sponsors, and brainstorming sessions to solve complex AI problems. Every moment kept us energized and engaged, from selecting a problem to designing a solution. The camaraderie, exchange of ideas, and interaction with other teams were truly inspiring.\n\nThe highlight? Some golden words of wisdom from the one and only Andrej Karpathy. His insights were the perfect icing on the cake, leaving us all motivated and eager to push the boundaries of what's possible with AI.\n\nGrateful for the experience and looking forward to more hackathons in the future!\n\n#Hackathon #AI #UCberkeley #Innovation #FirstHackathon #AndrejKarpathy #TechJourney #HackathonsAtBerkeley #BerkeleySkyDeck #UCberkeley",
+        "location": "138\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ethanwangco?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ethan Wang\n        \n              \n          \ud83d\ude80 First Ever Hackathon Win\nLast weekend, I had the pleasure of attending my first-ever hackathon at UC Berkeley's Cal Hacks 11.0, the world's largest collegiate hackathon. Working with Aaditya Pore, Rami Maalouf, and Ethan Jagoda, we created Text to Dot.\n\nText to dot is a tool that attempts to help those who are visually impaired convert physical texts into tactile braille for ease of access. The inspiration for this project came from our research into current text-to-braille systems, which were very clunky and expensive, making them relatively inaccessible to the general public. As such, we sought to create a convenient, straightforward, and economically efficient gadget that visually impaired individuals could utilize to access different forms of information. Our team hopes to spark positive change within the realm of assistive technology, and we hope to make a long-lasting impact on those who can use our products. \n\nUsing Deepgram, Cartesia, Groq, Hyperbolic, and Vapi, we were able to create a scanner that could take images of text and output a comprehensive written transcript. This transcript would then be passed on to one of three separate implementations, a text-to-braille, text-to-speech, and speech-to-speech model, which allowed users to choose how they wanted to experience information. This software was then combined with a complex hardware component that was made up of a 3D housing, Microcontrollers, Solenoids, and Camera Sensors to make up our final product. \n\nOur project didn't come without its challenges. From difficulties with 3D printing, troubles scanning text, and even a burnt out microcontroller, we were constantly pushed to our limits. However, at the end of the day, we created an impactful product all while improving our technical skills and having an amazing time. Winning the Voice Agent Quest Prize for our utilization of Deepgram's AI TTS technology was the perfect end to an incredible hackathon \ud83c\udfc6 .\n\nPlease take a look at our project: https://lnkd.in/gC3kxH-D\n\nA special thanks to all of the hackers who were willing to lend us their spare hardware, the Deepgram team for recognizing our project, and Raghav Lamsal  for showing me around campus and giving me food and housing whenever I wasn't at the hackathon.\n\nCal Hacks 11.0 was such a wonderful experience, giving me countless opportunities to meet new people and learn new things, and I'm excited to attend more hackathons in the future.",
+        "location": "66\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                11 Comments"
+      },
+      {
+        "link": "https://np.linkedin.com/in/basabjha?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Basab Jha\n        \n              \n          The Babel Effect: Multilingual Performance Discrepancies in LLMs\n\nExcited to share my research, \"The Babel Effect,\" which explores performance gaps in Large Language Models (LLMs) between high-resource languages like English and low-resource ones like Nepali.\n\nThe paper dives into tokenization challenges, data scarcity, and training inefficiencies. We propose solutions like data augmentation and improved tokenization to address these issues.\n\nRead more here:\n\nhttps://lnkd.in/deWwJ4uN\n\n\n#AI #NLP #Tokenization #ML",
+        "location": "13\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/josh-chang11?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Josh Chang\n        \n              \n          \ud83c\udf09 Dead Week at UC Berkeley \ud83c\udf09\nMay has swept through Berkeley, bringing with it the annual tradition known as Dead Week. As the buzz of Telegraph Avenue dims slightly, we undergrads know it\u2019s our cue to hunker down and hit the books one last time before finals. Here are some key points I've been focusing on as we wrap up this dead week!\n\nLesson 1: Structure in Chaos\nBerkeley\u2019s Dead Week is ironically alive with a flurry of review sessions and last-minute project deadlines. I've found that a structured approach\u2014breaking down study sessions into focused blocks\u2014helps me navigate this intense week. The serene backdrop of the Bay Area, from the calming waters by the marina to the redwoods around campus, provides the perfect study break scenery to clear my mind and reset.\n\nLesson 2: The Strength of Shared Struggles\nThere's something about the communal silence of Mainstacks Library during Dead Week that reminds you you're not alone. Joining forces with other students, we grind out practice exams and Pomodoro sessions until 2 am. It's these moments of collaboration that transform challenging content into shared victories.\n\nLesson 3: Well-being as a Priority\nDead Week at Berkeley is not just about academic survival but also about maintaining well-being amidst the madness. I make it a point to keep up with my runs through the Fire Trails, ensuring that my mental and physical health aren\u2019t sidelined during these critical times.\n\nLesson 4: Reflection and Readiness\nAs I review notes and practice problems, I\u2019m also reflecting on how each semester builds more than just technical skills. It hones resilience, deepens patience, and expands my understanding of what I can achieve under pressure.\n\nWith finals on the horizon, I feel prepared and eager to tackle the challenges ahead. To my peers also in the midst of Dead Week, let\u2019s push through to the finish line with determination and spirit! \ud83d\udcaa\n\nWhat are your Dead Week strategies? Let\u2019s share some wisdom and encouragement as we gear up for finals! \ud83d\ude80 #UCBerkeley #ComputerScience #DeadWeek #FinalsPreparation #GoBears",
+        "location": "39\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/anupriyadixit123?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Anupriya Dixit\n        \n              \n          \ud83c\udf1f Today marks the end of the first week of the Headstarter AI Fellowship, and I\u2019m thrilled to share my accomplishments and experiences:\n\n\ud83c\udf10 Created and Deployed a Personal Website: Launched my personal website using GitHub Pages. \nCheck it out here: https://lnkd.in/eeKrm26H\n\n\ud83e\udd1d Collaborative Team Meetings: Met with my amazing team, Lawrence Hoerst and America Gaona Borges, to brainstorm final project ideas aiming to attract 1,000 users by the end of these 7 weeks.\n\n\ud83e\udd16 AI Mock Interview: Completed a mock interview with an AI interviewer and received valuable feedback on my skills.\n\n\ud83d\udd17 Networking: Connected with Software Engineers on LinkedIn by reaching out and expanding my professional network.\n\n\ud83c\udfa4Entrepreneurship Insights: Attended a panel session on Thursday with incredible speakers:\u00a0 Nabeel Alamgir\ud83e\udd84,  Logan Havern, Dustin Beadle, Shariar Kabir, Miguel Acero, who shared their insights on entrepreneurship and generating users for our projects. One of my key takeaways from this event has been the concept of \u201cfailing gracefully.\u201d Failure is not an end but a stepping stone to success. Embracing setbacks with resilience and learning from them is crucial in our growth journey.\n\n\n\ud83d\udde3\ufe0f Peer Feedback: Provided constructive feedback on peers\u2019 projects.\n\nAdditionally, I gained so much more by attending the daily sessions and today's hackathon demo. There are so many exciting projects to look forward to. A special shout-out to the hackathon winners of the projects: CitySwipe, iBudget and react-form-validator-mini,\u00a0 who completed their projects in just 36 hours and generated over 500 users!\n\nAlthough I couldn\u2019t participate in this week\u2019s hackathon due to other commitments, I\u2019m eagerly looking forward to joining next week!\n\n\n\ud83c\udf1f Next Steps: I\u2019m excited to have my personal website up and running, showcasing all my projects. My next step is to buy a domain and connect it to my website. Starting tomorrow, I\u2019ll be diving into Project 2: Pantry Tracker, utilizing React.js, Next.js, and Firebase.\n\nI am immensely grateful to Yasin Ehsan \ud83d\ude80 and his team for providing budding software engineers like myself with such a valuable opportunity. Not only am I expanding my skill set, but I\u2019m also learning how to build my personal brand and market myself as a software engineer.",
+        "location": "18\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/colegawin?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cole Gawin\n        \n              \n          Do large language models have an in-built notion of \"common sense\"? \ud83d\udc40\n\nThis is the driving question behind my research with the USC Information Sciences Institute this summer as part of the \"AI & Complex Systems\" group. Using methods grounded in cognitive science and computational linguistics, we\u2019re aiming to conduct a holistic analysis of LLMs that bridges the gap between theoretical computer science and the social sciences.\n\nOur preliminary investigations indicate that LLMs have a strong, but not infallible, grasp of \"topical regularity\"\u2014that is, understanding how different concepts are related to one another. This is probably unsurprising if you\u2019ve played around with #ChatGPT; the majority of what it outputs usually seems to make sense, regardless of whether it\u2019s correct.\n\nThis understanding of relations between topics could serve as a basis for general reasoning abilities, much like how humans are able to reason using their general understanding of the world\u2014in other words, \"common sense\". \ud83e\udde0 Further investigations will lead us to narrow in on whether these LLMs have genuine abstract reasoning capabilities, or if they're using semantic markers (like \"IsA\", \"HasA\", \"PartOf\") as \"hints\" that enable them to perform well.\n\nStay tuned for further updates on this project and for more #cognitivescience and #artificialintelligence content!\n.\n.\n.\n#AI #NLP #LLM #research #innovation #computerscience #linguistics #psychology #USC #academia",
+        "location": "79\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                9 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/varungoyal23?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Varun Goyal\n        \n              \n          \ud83c\udf1f \ud835\udc03\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20, \ud835\udc01\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc20\ud835\udc1e\ud835\udc2b \ud83c\udf1f\n\nLast May, I embarked on an incredible journey with WisdomAI right after graduating from UIUC, and it has been nothing short of a dream run! Starting my career with a passionate, dynamic team like this one has been an amazing experience. \ud83d\ude80\n\nHere\u2019s what I\u2019ve absolutely loved about my time at WisdomAI so far:\n\n1\ufe0f\u20e3 Ownership Sparks Passion\nWhen you\u2019re empowered with the right motivation and a sense of ownership, the task transforms into a pursuit. I\u2019ve cherished the freedom to take charge of my projects, driven by curiosity for achieving results rather than just deadlines.\n\n2\ufe0f\u20e3 Culture of Growth & Impact\nI\u2019m deeply grateful to the founders and my team for cultivating an environment of insane growth while delivering great value to our customers every single day. Huge thanks to the founders - Soham, Sharvanath, Kapil, and Guilherme for fostering this environment.\n\n3\ufe0f\u20e3 The Power of Team Energy\nThe motivation and drive of the people around you can make all the difference. Being surrounded by such an energetic, supportive team has truly set the trajectory for my career. \n\nAs we step into this new year, we\u2019re doubling down with more energy, sharper focus, and even bigger goals for our startup. Here\u2019s to a year of innovation, impact, and scaling new heights together! \ud83d\udca1\ud83c\udf0d\n\n\n\n#StartupJourney #GrowthMindset #WisdomAI #Teamwork #Innovation #NewYearGoals #CareerJourney",
+        "location": "136\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vivan-gupta-b63835264?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vivan Gupta\n        \n              \n          This past weekend, I had the amazing opportunity to build out a new idea at the Berkeley AI Hackathon. It was a great time, and I learned a lot from the experience. Our team built Billy, a social media platform to help people engage more thoughtfully within the political sphere by helping make their ideas for bills come to life. Thanks for having me and thanks to my team for helping building such a cool platform!\n\nBilly's goal is to foster informed political engagement online. Using AI and a vast database of American legislation, users can write their bills. Once a bill is created with Billy, it's posted for others to interact with\u2014exploring ideas, voting on issues, and leaving comments. Billy promotes thoughtful dialogue, new perspectives, and idea-sharing, creating a space for public political discussion.\n\nTo learn more about how we built it, feel free to check out this dev post. Also, check out our demo in this video.\n\nhttps://lnkd.in/e3Um8SGf\nhttps://lnkd.in/eGueJYAe\n\n#AI #Hackathon #BerkeleyAI #PoliticalEngagement #CivicTech #Innovation #MachineLearning #WebDevelopment #Nextjs #OpenAI",
+        "location": "36\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/dante-parcon?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Dante Parcon\n        \n              \n          \ud83d\udca1 Excited to share that I\u2019ve completed the Data Analytics Boot Camp with UC Berkeley Extension!\nOver the past months, I\u2019ve gained valuable skills in data analysis, machine learning, and data visualization, which I\u2019ve applied to real-world projects. These include:\nSpotify and YouTube Analysis: Built machine learning models to explore correlations in streaming and video engagement, leveraging Python, pandas, and scikit-learn.\nAI Stock Analysis: Predicted company performance trends using machine learning algorithms, featuring data collection, time series analysis, and predictive modeling.\nWildfire analysis: Created interactive maps to uncover unexpected trends and shared insights on wildfires in California through visual storytelling.\nThis program has strengthened my ability to analyze complex datasets, communicate actionable insights, and collaborate effectively. I\u2019m excited to apply these skills to solve meaningful challenges in the data analytics field! \ud83c\udf93\u2728\n\ud83d\udcca Key tools and technologies: Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn, NoSQL), SQL, Tableau, Machine Learning, Data Collection, and Visualization.\nGrateful for this opportunity to grow and learn, and I\u2019m looking forward to connecting with others passionate about data and problem-solving! \ud83d\ude4c\n#DataAnalytics #MachineLearning #Python #SQL #UCberkeley #LifelongLearning",
+        "location": "17\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alaina-kolling-64155b252?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Alaina Kolling\n        \n              \n          My team and I were proud to present our research at UC Berkeley College of Computing, Data Science, and Society\u2019s Discovery Symposium.\n\nThrough the Data Discovery Program, I had the opportunity to conduct machine learning research with BART (Bay Area Rapid Transit). Our project focused on developing neural network-based models to forecast overheat events in train control rooms. By analyzing complex temperature trends, along with their velocities and accelerations, we aimed to enhance operational reliability for one of the Bay Area's most vital transit systems. I am proud to share that our Gated Recurrent Unit (GRU) neural network outperformed the previously deployed predictive model.\n\nThis has been such a fulfilling opportunity to dive deeper into machine learning and explore different areas within data science. It's an exciting time in my life as I continue to discover my passions and expand my technical skills!\n\nA huge thank you to our mentor, Dr. Yu (Aaron) Shen, for guiding us, and to my teammates Ayumu Ueda, Luca Butera, Yuwei Chen, and Tiange Chen for their hard work and intellectual contributions.\n\nI'm incredibly grateful for this experience and for the chance to showcase our work alongside so many talented Berkeley students! \ud83d\ude89\ud83d\udcca",
+        "location": "87\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                14 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kumar-shubham-iitd?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Kumar Shubham\n        \n              \n          End of my AI Residency at Meta\n\nToday marked the end of my AI residency program. The last 2 years have been an incredible learning experience for me. I had the opportunity to delve into applied research while working on some amazing projects with some fantastic mentors and peers.\n\nI began my residency working on Horizon world understanding and asset understanding. I worked on developing image collection algorithms from VR and on vision modules training & recommendation problems. My first prod-release was the \"For your world\" section on the Horizon App (recommending similar assets for creators in VR worlds).\nAfter a reorg to GenAI in February of last year, I had the chance to work on AI characters. It was my first pure NLP project, coming from a vision/audio background. I was fortunate enough to witness the development of the project from a very ambiguous idea to a fully matured product. I worked on collecting open-source conversation datasets, experimenting with prompt templates & llm-finetuning, automated evals & synthetic data for alignment, automated prompt tuning & finally witnessed the launch at Meta-Connect last year (saw Zuck in person and got a picture clicked with him). After Meta-Connect, I worked on building models for prompt-suggestion & modeling human behavior in user-ai conversations. During the same time, I got a chance to work a bit on the AI creation side, and on alignment for avoid-topics. Finally, towards the end, I got the chance to witness the launch of full-fledged AI Studio.\nI had the privilege of working in one of the most fast-paced environments. I truly experienced the \"Move Fast, break things\" mantra. I had the opportunity to work in highly ambiguous scenarios with changing priorities and to come up with more directed goals. I got to explore applied research, plan projects from scratch, and work on some really cool ideas. I made many mistakes, learned tons of new things, met some really awesome people, and got to work on some really interesting projects.\n\nBig thanks to Yashar for bringing me to the team, being my continuous support for first 1.5 years, regular 1-1, continuously checking on me, invaluable career discussions & advice, getting me chance to work on some really cool projects & providing continuous support throughout first 1.5 years.\n\nThanks to my mentors/peers Aasish, Asish, Bo, Anchit, and many more I couldn't list here for continuous support throughout 2 years, numerous valuable feedbacks, helping me set directions over ambiguous & ambitious goals and numerous advices to help me grow in my career.\n\nThanks to Dhruv [Trust me he\u2019s real life Sheldon Cooper] for being an awesome friend, good roommate, being with me on highs & lows, taking mock interviews & bear with me for all the craps I talk about. \n\nWhat\u2019s next? Stay Tuned!",
+        "location": "1,290\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                28 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jon-ouyang?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jonathan Ouyang\n        \n              \n          My name is Jonathan Ouyang. I am a \ud835\udc53\ud835\udc56\ud835\udc5f\ud835\udc60\ud835\udc61 \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f at UCLA studying Computer Science. And I am the \ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc03 \ud835\udc0f\ud835\udc11\ud835\udc08\ud835\udc19\ud835\udc04 \ud835\udc16\ud835\udc08\ud835\udc0d\ud835\udc0d\ud835\udc04\ud835\udc11 \ud835\udc0e\ud835\udc05 \ud835\udc06\ud835\udc0e\ud835\udc0e\ud835\udc06\ud835\udc0b\ud835\udc04\u2019\ud835\udc12 \ud835\udc06\ud835\udc04\ud835\udc0c\ud835\udc08\ud835\udc0d\ud835\udc08 \ud835\udc00\ud835\udc0f\ud835\udc08 \ud835\udc03\ud835\udc04\ud835\udc15\ud835\udc04\ud835\udc0b\ud835\udc0e\ud835\udc0f\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc0e\ud835\udc0c\ud835\udc0f\ud835\udc04\ud835\udc13\ud835\udc08\ud835\udc13\ud835\udc08\ud835\udc0e\ud835\udc0d \ud83c\udf89\ud83c\udf89.\n\nIt still doesn\u2019t feel real to type all of this out. No amount of words in a LinkedIn post can describe exactly how I feel right now. I still can\u2019t believe that I won the grand prize of a CUSTOM 1981 ELECTRIC DELOREAN CAR FROM BACK TO THE FUTURE ($200k Car + $60k Cash)\n\nI am the sole developer of Jayu, a next-generation AI personal assistant that can directly interact with your computer screen. From controlling applications to writing code to giving live translations, Jayu was meant to show the world what Google Gemini is TRULY capable of. More than a chatbot, more than an LLM, Gemini is capable of bringing us into a new era of AI.\n\nLooking back on the competition:\n\n- I beat over \ud835\udfd1,\ud835\udfcf\ud835\udfce\ud835\udfce submissions from over 45,500 developers, which included solo developers like myself, teams of seasoned industry veterans, and even entire companies\n- I beat submissions from \ud835\udfcf\ud835\udfcf\ud835\udfd7 \ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1e\ud835\udc2c, from Canada to Korea to India\n- I spent \ud835\udfd0 \ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc21\ud835\udc2c locked in my room over the summer before coming to college developing Jayu\n- My demo video on YouTube received overwhelming support without any advertisement, raking in over \ud835\udfd2,\ud835\udfd2\ud835\udfce\ud835\udfce \ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30\ud835\udc2c and over \ud835\udfd0\ud835\udfce\ud835\udfce \ud835\udc25\ud835\udc22\ud835\udc24\ud835\udc1e\ud835\udc2c\n- I had \ud835\udfd2 \ud835\udc02\ud835\udc04\ud835\udc0e\ud835\udc2c reach out for technical advice, and many more students from around the world in my email and LinkedIn expressing their excitement\n- I had over 5 mental breakdowns while developing this app and couldn\u2019t sleep properly for months due to stress\u2026\n\nThe journey was scary, to say the least. As a solo developer, Jayu was more than my passion project. Jayu was literally my heart and soul. I cannot find the words to properly thank everyone who supported me on my journey. So to my \ud835\udc1e\ud835\udc27\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc28\ud835\udc2e\ud835\udc2c team of reviewers who I forced to watch my demo video again and again until it was perfect, thank you.\n\n- To my best friend Matthew Rodrigues, thank you for always being there and letting me use your backyard for filming.\n- USACO Platinum Reviewers: Abhinav Arunkumar, Justin Osbey\n- UCLA Researcher Reviewers: William Jiang, Daniel Wu\n- To my dear friends who reviewed my demo: Joseph Hoang, Jan Andrei Ordonez, Alden Santoso, Sunny Vinay,\u00a0Eric Ziyang Zhou, Johnny Zheng, Eshan Velidandla, Kavya Desai, Ishaan Desai, Elysia Du, Ethan Chen, Allyson Li, John Tacuchi, Eric Ju, Clara Yee, Arnav Bhola\n- Tech Influencer Reviewer: Arash Joobandi\n\nAnd most importantly, thank you Lloyd-Bryant Hightower for organizing and communicating with all of us competitors in the competition! And thank you to the teams at Google for selecting me as the winner.\n\n\uac00\uc871\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uce5c\uad6c, \uac00\uc871, \uce5c\uad6c \ubaa8\ub450\uc5d0\uac8c \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \uc9c0\uc18d\uc801\uc778 \uc9c0\uc6d0\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \ubaa8\ub4e0 \uac83\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4.\n\n\uadf8\ub9ac\uace0 \uc5c4\ub9c8\uc5d0\uac8c. \ub9c8\uce68\ub0b4 \ub0b4\uac00 \ub2f9\uc2e0\uc744 \uc790\ub791\uc2a4\ub7fd\uac8c \ub9cc\ub4e4\uc5c8\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.\n\nSee the demo here: https://lnkd.in/gpgxB9_T \n\nGoogle DeepMind\nGoogle for Developers\nGoogle Research\n#Google\n#GoogleGemini",
+        "location": "3,398\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                174 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/selin-kocalar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Selin Kocalar\n        \n              \n          Since the YC deadline to hear back for W25 is coming up next week, here\u2019s the story of how we went from 2 students coding in an MIT dorm room to being full-time YC founders building Delve in SF.\n\nFor all you founders anxiously waiting to hear back, just keep building \u2014 you\u2019ll be successful regardless of the decision.\n\n--\n\nIn Fall 2023, my co-founder Karun Kaushik and I were studying AI at MIT and spending all of our free time building an AI medical scribe to help doctors. We had vaguely heard about YC from a friend who had just gotten accepted but had no plans of applying whatsoever.\n\nHowever when the YC deadline rolled around, we spontaneously decided to put in an application on the very last day. We spent that whole day in Karun\u2019s dorm room typing up the application and filming all the required videos. We finally hit submit the minute of the deadline!\n\nBy the next day we had already moved on. We went back to the usual rhythm of coding in the dorm room, calling with doctors, attending conferences, etc. If anything, we were even more motivated now to get more traction and be successful regardless.\n\nLater that week, while we were eating in the dorm kitchen, I noticed I got an email saying we had a YC interview scheduled. My heart rate spiked. I jumped up out of my seat and immediately told Karun. I never seriously considered YC, but for the first time it hit me that it might actually be a possibility.\n\nWhen the day of the interview rolled around, we did mock interviews with former YC founders and focused mostly on calming our nerves. More important than the actual content of the interview, we wanted to show our excitement for building and hacking together as co-founders.\n\nUnfortunately the interview caught us by surprise. The group partners didn't seem to care as much about our actual AI medical scribe. Instead, they seemed more curious about a side idea we had listed in our application that we wrote up in a day. The idea was about streamlining HIPAA compliance (since we had to go through HIPAA for our AI medical scribe).\n\nBy this point, we were already seriously considering pivoting into this and had made a lot of progress on the idea. The YC interview was our tipping point\n\nNot too long after, we got an ominous email titled \u201cYC.\u201d We were freaked out. I could not sleep the entire night. Then, in the middle of class the next day, I got a phone call from Karun with Surbhi on the other end of the line. My heart rate spiked. I ran outside of the classroom.\n\nThat turned out to be our acceptance call:)\n\n--\n\nFor everyone out there still waiting to hear back, just keep grinding. Build as if you\u2019ve been rejected and you might just be pleasantly surprised.\n\nI\u2019m also always here to help with mock interviews/give advice! We\u2019ve helped a handful of friends through the YC app process and are always here to support other founders!",
+        "location": "190\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                20 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/nikshita-sarangi-004841168?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nikshita Sarangi\n        \n              \n          LATE POST : Week 2 Update from the Headstarter AI's Fellowship!\nAs part of the fellowship, I have had to learn an entirely new tech stack in order to be able to proceed through the assigned projects.\n\nI\u2019ve been building My Pantry, a web app designed to help you manage your pantry. It\u2019s powered by Next.js, Firebase, Material UI, and the Meta Llama 3.1 8B Instruct API.\n\nKey Features:\nInventory Management: Keep track of everything in your pantry with ease.\nRecipe Suggestions: Discover personalized recipe ideas using the items in the pantry with help from Meta AI.\nComing Soon: Adding computer vision to automatically recognize and log items using photos.\n\nCheck it out: https://lnkd.in/dVtYDpa8\nWhile the UI and the features are very basic, I will be enhancing it as I go upwards with the learning. \n\nA huge thanks to the Headstarter team for this fantastic learning experience.\n\n#Headstarter #WebDevelopment #NextJS #Firebase #MaterialUI #LearningJourney #CodingCommunity",
+        "location": "6\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/jashanjot-panjrath?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jashanjot Panjrath\n        \n              \n          Check out this hackathon project that me and Pranay Harpalani created.",
+        "location": "32\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vidhi-shukla-377268245?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vidhi Shukla\n        \n              \n          \ud83c\udf1f Thrilled to Announce Our Latest Research! \ud83c\udf1f\n\nI am excited to share our recently published paper, \"Advancing Prenatal Diagnostics: A Novel Approach Using Machine Learning to Assess Fetal Well-being,\" in the February 2024 issue of TIJER. This groundbreaking research introduces a robust ML-driven framework for the early detection and prediction of fetal health issues, utilizing cardiotocographic data.\n\nIn this study, I took a leading role in developing the methodology and analyzing the data, employing sophisticated machine learning algorithms such as SVM, Random Forest, KNN, LVQ, and advanced ensemble models including XGBoost, AdaBoost, and LightGBM. These tools have significantly surpassed traditional monitoring techniques in predicting fetal health, offering deeper insights and potential for early intervention.\n\nI am deeply grateful for the guidance and mentorship of Dr. Santosh Kumar Singh  and Rimsy Dua, whose profound insights and support have been instrumental in shaping this research. This achievement also wouldn't have been possible without the immense collaboration from my fellow researcher, Pranav K., whose expertise in machine learning greatly enriched our work and findings.\n\nRead the full paper here to discover how we are pushing the boundaries of prenatal care through technology.\nhttps://lnkd.in/dK7CvgVb\n\n#MachineLearning  #PrenatalCare #HealthcareInnovation #ResearchPublication\n#DataScience #HealthTech #AIinHealthcare #MedicalResearch #DigitalHealth #PregnancyCare #WomenInSTEM #TechForGood #PublicHealth",
+        "location": "22\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://ae.linkedin.com/in/mmaaz60?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Muhammad Maaz\n        \n              \n          Knock knock! \ud83d\udeaa Who's there? \ud83e\udd14 It's GLaMM! \ud83c\udf1f\n\nExcited to share that our paper, GLaMM: Pixel Grounding Large Multimodal Model, will be presented at CVPR 2024! \ud83c\udf89\ud83c\udf89  tomorrow (Jun 20, 2024, Thursday) at 10:30 AM, poster #326! \ud83d\udd25\n\nWhy GLaMM is special \ud83d\ude4c:\n\n1. First end-to-end LMM tackling multiple vision-language tasks like Grounded Conversation Generation (GCG), image captioning, region-captioning, referring expressions segmentation, visual question answering, and more in a single model. \ud83d\udca5\n\n2. We developed a fully automatic image annotation pipeline to build GranD dataset. \ud83d\udcca\u2728\n\n3. Fully open-source: Code, models, dataset, and dataset generation pipeline. \ud83d\ude80\ud83d\udcbb\n\nCheck it out:\nGranD Dataset: https://lnkd.in/eYuKia9C\nGranD-f Dataset: https://lnkd.in/dYcjC_e8\nCode: https://lnkd.in/d3yFnPRt (Do not forget to \u2b50\ufe0f our repo).\n\nCome meet the team (Hanoona, Sahal, Salman, Ming-Hsuan, Fahad) at Arch4A-E at poster #326 to know more! \ud83d\ude0a\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb\n\n#CVPR2024 #MultimodalModels #VisionLanguage",
+        "location": "147\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/virajsingh4?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Viraj Singh\n        \n              \n          Ever wondered why LLMs struggle with math? \n\nIn this piece, I take a look under the hood of LLMs and math-related AI study tools, to uncover the reasons LLMs are not well-suited for math, what innovators are doing to get ahead of the problem, and some exciting companies in the space. \n\nI explore several approaches to improve LLM math performance: process supervision, integration with symbolic computing systems (i.e. ChatGPT + Wolfram|Alpha LLC), and novel ways of capturing unique and structured data ( Thinkverse (formerly Learnie AI), Photomath, Thetawise, among many others). One startup in Korea \u2014 QANDA(Mathpresso) \u2014 has built its own math-specific LLM that can outperform many of the incumbents.\n\nIf you are building AI to promote math learning and understanding, please reach out!\n\nVery grateful for the opportunity to go deeper in the EdTech space at Reach Capital this summer before kicking off my MBA/MA in Education at Stanford in the fall! Shoutout to Tony Wan and James Kim for the support on this piece!\n\nhttps://lnkd.in/g8xk_hqJ",
+        "location": "49"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/ryanmrong?trk=public_profile_samename-profile",
+        "name": "Ryan Rong",
+        "summary": "BSB in Finance @ Kelley School of Business at Indiana University",
+        "location": "Naperville, IL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ryan-rong-4845b51?trk=public_profile_samename-profile",
+        "name": "Ryan Rong",
+        "summary": "",
+        "location": "Detroit Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ryan-rong?trk=public_profile_samename-profile",
+        "name": "Ryan Rong",
+        "summary": "Neuroscience @ University of California Riverside",
+        "location": "Los Angeles Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ryanrong?trk=public_profile_samename-profile",
+        "name": "Ryan Rong, Ph.D.",
+        "summary": "Principal Data Scientist",
+        "location": "Lake Mary, FL"
+      }
+    ],
+    "recommendations": [
+      {
+        "link": "https://www.linkedin.com/in/alibrahimzada?trk=public_profile_recommendations",
+        "name": "Ali Reza Ibrahimzada",
+        "summary": "\u201cRyan worked at the University of Illinois Urbana-Champaign as an intern from summer 2022 until early 2023. He has enormous passion in software engineering and solving challenging problems. I have firsthand knowledge of his exceptional work ethic, remarkable communication skills, and outstanding technical abilities. In our work, Ryan was mainly responsible for mining defect datasets from online repositories of bugs. He also used static analysis tools (i.e., Spoon) to better analyze large amounts of code data and instrument datasets for better training of large language models. I would highly recommend Ryan for future internships.\u201d"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sajjad-fouladvand?trk=public_profile_recommendations",
+        "name": "Sajjad Fouladvand",
+        "summary": "\u201cI had the privilege of mentoring Ryan during his summer internship in our lab at Stanford. His research focused on health disparities in Alzheimer's Disease (AD) prediction using machine learning (ML). I was impressed by Ryan's ability to accomplish so much in such short span of time as a high school intern. From data access and cohort extraction using GCP and BigQuery, to training ML models such as Random Forest and XGBoost, and interpreting model outputs using statistical methods and SHAP, he showcased exceptional talent. Ryan won the Jessica Lynn Saul Fellowship Award from the Stanford Institutes of Medicine Summer Research Program (SIMR), one of the top 3 out of 54 SIMR participants.\u201d"
+      }
+    ],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Deep Learning"
+      },
+      {
+        "name": "Machine Learning"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Long Range Weather Forecasting with Chunked-Sequence Diffusion",
+        "link": "https://www.linkedin.com/in/yuxiqian?trk=public_profile_project_contributor-image",
+        "duration": "Sep 2024 - Dec 2024"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/yuxiqian?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "American Sign Language translator",
+        "duration": "May 2022 - May 2023"
+      },
+      {
+        "title": "PeddieHacks",
+        "link": "peddiehacks.peddie.org?trk=public_profile_project-title",
+        "duration": "Apr 2021 - May 2023"
+      },
+      {
+        "title": "Race Car Driving with Reinforcement Learning",
+        "duration": "May 2022 - May 2022"
+      },
+      {
+        "title": "Spam Email Classifier",
+        "duration": "Feb 2022 - Mar 2022"
+      },
+      {
+        "title": "Traffic Sign Recognition",
+        "duration": "Feb 2022 - Mar 2022"
+      },
+      {
+        "title": "Handwritten Digit Classifier",
+        "duration": "Feb 2022 - Feb 2022"
+      },
+      {
+        "title": "AI Minesweeper",
+        "link": "https://github.com/me50/Ryan-Rong-24?trk=public_profile_project-title",
+        "duration": "Jan 2022 - Feb 2022"
+      },
+      {
+        "title": "AI Tic Tac Toe",
+        "link": "https://github.com/me50/Ryan-Rong-24?trk=public_profile_project-title",
+        "duration": "Jan 2022 - Jan 2022"
+      },
+      {
+        "title": "Ray Tracer",
+        "link": "https://github.com/Ryan-Rong-24/java3Drenderer?trk=public_profile_project-title",
+        "duration": "Oct 2021 - Dec 2021"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Stanford CS229 Machine Learning Course Best Project",
+        "organization": "-",
+        "duration": "Dec 2024",
+        "summary": "1 of 3 Best Projects in a graduate-level class of 400+ students."
+      },
+      {
+        "name": "2024 Cornell Trading Challenge Systematic Equities 1st Place",
+        "organization": "Cornell Quant Fund",
+        "duration": "Oct 2024",
+        "summary": "Overall Prize 2nd Place out of 80 teams, Jane Street Estimathon 1st Place"
+      },
+      {
+        "name": "2024 Citadel US Summer Invitational Terminal Top 8",
+        "organization": "Citadel Securities",
+        "duration": "Aug 2024",
+        "summary": "Developed algorithms in Python to score top 8 in Citadel's AI tower defense game"
+      },
+      {
+        "name": "Jessica Lynn Saal Fellowship Award",
+        "organization": "Stanford Institutes of Medicine Summer Research Program",
+        "duration": "Aug 2023",
+        "summary": "Awarded to 3 (top 5%) researchers who have shown academic exceptionalism"
+      },
+      {
+        "name": "Computer Science Category Winner",
+        "organization": "Terra North Jersey STEM Fair",
+        "duration": "Apr 2023",
+        "summary": ""
+      },
+      {
+        "name": "USA Biology Olympiad Top 50",
+        "organization": "Center for Excellence in Education",
+        "duration": "Apr 2023",
+        "summary": ""
+      },
+      {
+        "name": "2023 Microsoft Imagine Cup Americas World Finals Winner",
+        "organization": "Microsoft Imagine Cup",
+        "duration": "Mar 2023",
+        "summary": "https://imaginecup.microsoft.com/en-US/Member/WinnerCertificate?userid=p7ofsU%252bZDAOafAG0FmRujA%253d%253d&compId=d6eyg4hwXs7WbP0sXtsOIg%253d%253d&teamId=E7hxOGdqCJBrDwnDgj8s1A%253d%253d"
+      },
+      {
+        "name": "2023 Microsoft Imagine Cup Epic Challenge Runner Up",
+        "organization": "Microsoft Imagine Cup",
+        "duration": "Jan 2023",
+        "summary": "Runner up of the Epic Challenge in the Americas Regionhttps://imaginecup.microsoft.com/en-US/Member/WinnerCertificate?userid=p7ofsU%252bZDAOafAG0FmRujA%253d%253d&compId=xF1gsI7UMslqNyurRwoXLQ%253d%253d&teamId=E7hxOGdqCJBrDwnDgj8s1A%253d%253d"
+      },
+      {
+        "name": "National Cyber Scholarship Foundation Semifinalist",
+        "organization": "National Cyber Scholarship Foundation",
+        "duration": "May 2022",
+        "summary": "Qualified as a semifinalist of the National Cyber Scholarship Foundation, a cybersecurity scholarship program for high school students. Earned 67900 points in the CyberStart America competition."
+      },
+      {
+        "name": "World Championship Quality Award",
+        "organization": "FIRST Robotics Competition",
+        "duration": "May 2022",
+        "summary": "Winner of Quality Award of FIRST Robotics Competition World Championships 2022 at Texas that celebrates machine robustness in concept and fabrication"
+      },
+      {
+        "name": "FIRST Mid-Atlantic District Championship Winner",
+        "organization": "FIRST Robotics Competition",
+        "duration": "Apr 2022",
+        "summary": "Winner of the Mid-Atlantic District Championship of the FIRST Robotics Competition. Ranked 1st of 60 teams, finishing qualification rounds with a record of 11-1-0. Won the event as the captain of alliance 1 with a record of 6-1-0."
+      },
+      {
+        "name": "FIRST Mid-Atlantic District Hatboro-Horsham and Seneca Event Winner",
+        "organization": "FIRST Robotics Competition",
+        "duration": "Mar 2022",
+        "summary": "Winner of the Mid-Atlantic District Hatboro-Horsham and Seneca events of the FIRST Robotics Competition."
+      },
+      {
+        "name": "USA Computing Olympiad Gold Division",
+        "organization": "USA Computing Olympiad",
+        "duration": "Mar 2022",
+        "summary": "Reached Gold Division of the USA Computing Olympiad (Top 10%)"
+      },
+      {
+        "name": "Wintersteen Math Award (Precalculus)",
+        "organization": "Peddie School",
+        "duration": "Sep 2021",
+        "summary": "The Wintersteen Math Award in Precalculus is given by the Peddie Math Department to the No. 1 student in precalculus."
+      }
+    ],
+    "score": []
+  }
+]

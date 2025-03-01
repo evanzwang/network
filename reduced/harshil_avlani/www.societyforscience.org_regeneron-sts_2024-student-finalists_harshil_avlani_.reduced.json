@@ -1,0 +1,65 @@
+{
+  "title": "Harshil Avlani - Society for Science",
+  "meta_description": "Harshil Avlani studied the arrangement of qubits (units of information) located in quantum computers, hoping to reduce significant errors. He concluded that some quantum simulators used today do not account for the significant errors that he measured. Harshil\u2019s research suggested that efficacy was increased after relocating the \u201cspectator qubits\u201d farther away from a certain quantum gate. He hopes his research could one day lead to performance improvement in quantum computing systems.",
+  "main_content": "Analyzing the Effect of Mid-Circuit Measurement (MCM) on Spectator Qubits Harshil Avlani studied the arrangement of qubits (units of information) located in quantum computers, hoping to reduce significant errors. He concluded that some quantum simulators used today do not account for the significant errors that he measured. Harshil\u2019s research suggested that efficacy was increased after relocating the \u201cspectator qubits\u201d farther away from a certain quantum gate. He hopes his research could one day lead to performance improvement in quantum computing systems. View Poster View Poster Harshil Avlani, 17, of Chandler, researched a way to describe quantum computing errors by observing physical qubits (the basic units of information) as they are exposed to the quantum mid-circuit measurement (MCM) gate at various distances for his Regeneron Science Talent Search computer science project. Seeking a better understanding of the MCM gate, Harshil created pairs of quantum circuits (one included an MCM gate and one did not) and examined the effect of the microwave that the MCM sends to the measured qubit during calculations. After he tested them more than 300 million times on various quantum computers, results suggested that the MCM gate causes a significant increase in \u201cspectator qubit\u201d errors if the measured gate and spectator qubits were close together. Harshil also found that some current quantum simulators do not account for the significant errors that he identified. Society for Science/Chris Ayers Photography The son of Chetan and Neelima Avlani, Harshil attends BASIS Chandler, where he helped lead the debate team and, as a head of the Red Cross club, managed three blood drives. He is also an accomplished pianist. He hopes one day to earn a doctorate in physics so he can help with \u201cmolding even more STEM enthusiasts.\u201d Society for Science/Chris Ayers Photography Beyond the Project Harshil started a quantum hackathon group with friends called the Quantum Beavers and he says some hackathons end up being all-nighters. His group tied for first place in the IBM Quantum Explorers Hackathon. FUN FACTS: Harshil studies airplanes and can identify the model of almost every major aircraft by just looking at it. At airports, he stays glued to the windows! Illustration by Amy Wike View All Finalists",
+  "links": [
+    {
+      "url": "https://sspcdn.blob.core.windows.net/files/Documents/SEP/STS/2024/posters/Avlani_Harshil_SingleDisplay.pdf",
+      "text": "View Poster"
+    },
+    {
+      "url": "https://sspcdn.blob.core.windows.net/files/Documents/SEP/STS/2024/posters/Avlani_Harshil_SingleDisplay.pdf",
+      "text": "View Poster"
+    },
+    {
+      "url": "https://www.societyforscience.org/regeneron-sts/2024-student-finalists/",
+      "text": "View All Finalists"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.facebook.com/tr?id=156678234768138&ev=PageView&noscript=1",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlsAAAOEAQAAAAC+ocmSAAAAAnRSTlMAAHaTzTgAAABaSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4NDsMAAWrKZB4AAAAASUVORK5CYII=",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani project poster: Analyzing the Effect of Mid-Circuit Measurement (MCM) on Spectator Qubits"
+    },
+    {
+      "src": "https://www.societyforscience.org/wp-content/uploads/2024/03/2024_STS_Avlani_Harshil_SingleDisplay.jpg",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani project poster: Analyzing the Effect of Mid-Circuit Measurement (MCM) on Spectator Qubits"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8AAAAJuAQAAAABXzFYcAAAAAnRSTlMAAHaTzTgAAABgSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgE8DJg0AAQsDeE4AAAAASUVORK5CYII=",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani"
+    },
+    {
+      "src": "https://www.societyforscience.org/wp-content/uploads/2024/03/2024_STS_Avlani_Harshil_20240310_002_CA.jpg",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8AAAAJuAQAAAABXzFYcAAAAAnRSTlMAAHaTzTgAAABgSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgE8DJg0AAQsDeE4AAAAASUVORK5CYII=",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani"
+    },
+    {
+      "src": "https://www.societyforscience.org/wp-content/uploads/2024/03/2024_STS_Avlani_Harshil_20240307_010_CA.jpg",
+      "alt": "2024 Science Talent Search finalist Harshil Avlani"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAN1AQAAAACLWLgtAAAAAnRSTlMAAHaTzTgAAABYSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+DAbLAAGdVwlZAAAAAElFTkSuQmCC",
+      "alt": "Illustration of 2024 STS finalist by Amy Wike"
+    },
+    {
+      "src": "https://www.societyforscience.org/wp-content/uploads/2024/03/2024_STS_Portraits_Avlani_Harshil.jpg",
+      "alt": "Illustration of 2024 STS finalist by Amy Wike"
+    },
+    {
+      "src": "//googleads.g.doubleclick.net/pagead/viewthroughconversion/871471566/?guid=ON&script=0",
+      "alt": ""
+    },
+    {
+      "src": "//www.googleadservices.com/pagead/conversion/1049901432/?label=muWRCLiy_W4Q-PLQ9AM&guid=ON&script=0",
+      "alt": ""
+    }
+  ]
+}

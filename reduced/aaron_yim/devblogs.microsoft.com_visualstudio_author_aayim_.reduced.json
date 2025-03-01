@@ -1,0 +1,24 @@
+{
+  "title": "Aaron Yim, Author at Visual Studio Blog",
+  "meta_description": "",
+  "main_content": "Dev Blogs Visual Studio Blog Aaron Yim Visual Studio Hub is here! We\u2019re excited to introduce a central place for all things Visual Studio Check it out Posts by this author GitHub Copilot Edits in Visual Studio 2022 combines the conversational flow of chat and an inline review experience to help you iterate across your codebase with more control and efficiency. \ud83d\udca1 Here\u2019s how Copilot Edits helps with iterating across multiple files: Available in Visual Studio 2022 17.13, released February 11th. ... TL:DR GitHub Copilot and Visual Studio\u2019s built-in AI assistance features are now better together. With the latest version of GitHub Copilot, changing your selection in Visual Studio's IntelliSense list steers the GitHub Copilot with additional context about your code, so you can easily explore the single and multi-line code completions to get just ... TL;DR \u2013 A deep learning model will now help provide starred completions for custom methods in the IntelliSense list. All users of Visual Studio 2022 will receive this improvement automatically. With original IntelliCode, a custom trained model was previously useful for ranking custom methods in a user\u2019s code. When IntelliCode first shipped in Vis...",
+  "links": [
+    {
+      "url": "https://devblogs.microsoft.com/",
+      "text": "Dev Blogs"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/visualstudio/",
+      "text": "Visual Studio Blog"
+    },
+    {
+      "url": "https://visualstudio.microsoft.com/visualstudio-hub/",
+      "text": "Check it out"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/visualstudio/wp-login.php?redirect_to=https%3A%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fauthor%2Faayim%2F",
+      "text": "Sign in"
+    }
+  ],
+  "images": []
+}

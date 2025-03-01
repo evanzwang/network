@@ -1,0 +1,80 @@
+{
+  "title": "About Me | Justin Ji",
+  "meta_description": "Justin Ji's personal website.",
+  "main_content": "Academic Interests I\u2019m passionate about AI interpretability research\u2014understanding how AI models work internally to make them safer and more trustworthy for society. During my junior year, I collaborated with the Harvard Kempner Institute on a project investigating how language models adopt \u201cpersonas\u201d and designing interventions to influence them. In high school, I did competitive programming and math (USACO Platinum, AIME). I\u2019ve also competed in hackathons and enjoy building side projects that are both technically interesting and impactful. Check out some of my work in the projects tab. I also enjoy learning about other fields in AI, data visualization, algorithmic game theory, literature, and writing. Communities Book Club @ Harvard (Founder) Startups @ Harvard (Board) Harvard Men\u2019s Club Volleyball (Social Chair) Harvard Undergraduate Quantitative Traders (Director of Engagement) Neo Scholars (Finalist) Harvard Kempner Institute (Student Researcher) Harvard AI Safety Student Team Harvard College Christian Students Taiwanese Cultural Society Reading Let\u2019s be Goodreads friends! If you\u2019re a Harvard student, join Book Club @ Harvard ! All-time Favorites The Three-Body Problem by Cixin Liu The Book Thief by Markus Zusak All the Light We Cannot See by Anthony Doerr The Kite Runner by Khaled Hosseini Educated by Tara Westover Almond by Sohn Won-Pyung Before the Coffee Gets Cold by Toshikazu Kawaguchi Currently Reading Anna Karenina by Leo Tolstoy Friends\u2019 Websites Cynthia Chen Franklin Wang Jeffrey Wang Lisa Lin Tanay Biradar",
+  "links": [
+    {
+      "url": "https://kempnerinstitute.harvard.edu/",
+      "text": "Harvard Kempner Institute"
+    },
+    {
+      "url": "/projects",
+      "text": "projects"
+    },
+    {
+      "url": "https://bit.ly/harvardbookclub",
+      "text": "Book Club @ Harvard"
+    },
+    {
+      "url": "https://harvardstartups.vercel.app/",
+      "text": "Startups @ Harvard"
+    },
+    {
+      "url": "https://www.instagram.com/harvardclubvball/",
+      "text": "Harvard Men\u2019s Club Volleyball"
+    },
+    {
+      "url": "https://www.harvarduqt.com/",
+      "text": "Harvard Undergraduate Quantitative Traders"
+    },
+    {
+      "url": "https://neo.com/scholars",
+      "text": "Neo Scholars"
+    },
+    {
+      "url": "https://kempnerinstitute.harvard.edu/",
+      "text": "Harvard Kempner Institute"
+    },
+    {
+      "url": "https://haist.ai/",
+      "text": "Harvard AI Safety Student Team"
+    },
+    {
+      "url": "https://www.harvardchristians.com/",
+      "text": "Harvard College Christian Students"
+    },
+    {
+      "url": "https://harvardtcs.github.io/",
+      "text": "Taiwanese Cultural Society"
+    },
+    {
+      "url": "https://www.goodreads.com/jujipotle",
+      "text": "Goodreads"
+    },
+    {
+      "url": "https://bit.ly/harvardbookclub",
+      "text": "Book Club @ Harvard"
+    },
+    {
+      "url": "https://chenxcynthia.github.io/",
+      "text": "Cynthia Chen"
+    },
+    {
+      "url": "https://frankxwang.github.io/",
+      "text": "Franklin Wang"
+    },
+    {
+      "url": "https://jeffreygwang.com/",
+      "text": "Jeffrey Wang"
+    },
+    {
+      "url": "https://lisalin.dev/",
+      "text": "Lisa Lin"
+    },
+    {
+      "url": "https://tanaybiradar.com/",
+      "text": "Tanay Biradar"
+    }
+  ],
+  "images": []
+}

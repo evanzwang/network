@@ -1,0 +1,187 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+    ?xml version="1.0" encoding="UTF-8"?
+        Log in
+            Menu
+          [Find a journal](https://link.springer.com/journals/)
+          [Publish with us](https://www.springernature.com/gp/authors)
+          [Track your research](https://link.springernature.com/home/)
+              Search
+              Cart
+                    Home
+                    Silicon
+                  Article
+            Numerical Study on Different Shapes of Heat Shields in Continuous Czochralski Silicon
+              Research
+              Published:
+                28 February 2025
+              (
+                2025
+                )
+            [Aims and scope](https://link.springer.com/journal/12633/aims-and-scope)
+            [Submit manuscript](https://submission.nature.com/new-submission/12633/3)
+                ,
+                &
+              …
+              Show authors
+              Abstract
+                Monocrystalline silicon is the core material of solar cells and integrated circuits and its quality have a direct impact on device performance. The Continuous Czochralski method is a very well know technique which can grow large-sized monocrystalline silicon, with uniform axial resistivity distribution and higher growth efficiency. However, there are still some flaws such as unstable melt flow, temperature fluctuations, and high oxygen content. A two-dimensional axisymmetric global quasi steady numerical model is proposed by Fluent software for Continuous Czochralski growth of monocrystalline silicon. Two types of heat shields are designed (SHS and IHS), and the effects of changes in heat shields on heater power, argon velocity, crystal thermal stress, oxygen impurity concentration, melt/crystal interface, melt temperature and flow fields are studied. The results show that the IHS increases the velocity of argon above the melt free surfaces about 56.3%, weaken the reflux phenomenon. The technique helps to save the heater power by 2.7%, decrease the oxygen concentration on melt-crystal interface by 10.2% and smooth the melt/crystal interface, ultimately reducing crystal production costs and improving crystal quality.
+              [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12633-025-03253-3)
+            Access this article
+                Log in via an institution
+                rendered: 2025-03-01T08:34:50.294695
+                Darwin version
+                      Subscribe and save
+                            Springer+ Basic
+                          $34.99 /Month
+                          Get 10 units per month
+                          Download Article/Chapter or eBook
+                          1 Unit = 1 Article or 1 Chapter
+                          Cancel anytime
+                          Subscribe now
+                      Buy Now
+                            Buy article PDF USD 39.95
+                      Price excludes VAT (USA)
+                      Instant access to the full article PDF.
+                    [Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+            Similar content being viewed by others
+                      [Influence of Thermal Conductivity and Emissivity of Heat Shield Surface Material on the Thermal Field of Czochralski Silicon Crystal Growth](https://link.springer.com/10.1007/s12633-024-03044-2?fromPaywallRec=true)
+                      08 June 2024
+                      [The Effect of Physical Property Parameters of the Insulation Material Inside the Heat Shield on the Growth of Czochralski Silicon Crystal](https://link.springer.com/10.1007/s12633-023-02778-9?fromPaywallRec=true)
+                      28 November 2023
+                      [Numerical Investigation of Argon Gas Flow Patterns and Their Effects on Mc-Si Ingot Growth Process: Solar Cell Applications](https://link.springer.com/10.1007/s12633-024-02934-9?fromPaywallRec=true)
+                      04 March 2024
+            Explore related subjects
+            Discover the latest articles, news and stories from top researchers in related subjects.
+                [Environmental Chemistry](/subject/environmental-chemistry)
+                [Polymers](/subject/polymers)
+              Data Availability
+                No datasets were generated or analysed during the current study.
+                References
+                        Rui Y, Wang Z, Sheng W et al (2023) Effect of Heat Shield Structure on the Distribution of Oxygen Content in 200 mm Semiconductor-Grade Czochralski Monocrystalline Silicon. J Cryst Growth. 52:1110–1119
+                          [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB3sXis1CltLfK)
+                          [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effect%20of%20Heat%20Shield%20Structure%20on%20the%20Distribution%20of%20Oxygen%20Content%20in%20200%20mm%20Semiconductor-Grade%20Czochralski%20Monocrystalline%20Silicon&journal=J%20Cryst%20Growth.&volume=52&pages=1110-1119&publication_year=2023&author=Rui%2CY&author=Wang%2CZ&author=Sheng%2CW)
+                        Zhang J, Liu D, Zhao Y et al (2014) Impact of heat shield structure in the growth process of Czochralski silicon derived from numerical simulation. Chin J Mech Eng.
+                          [https://doi.org/10.3901/CJME.2014.03.504](https://doi.org/10.3901/CJME.2014.03.504)
+                        Jeon HJ, Park H, Koyyada G et al (2020) Optimal cooling system design for increasing the crystal growth rate of single-crystal silicon ingots in the Czochralski process using the crystal growth simulation. Processes.
+                          [https://doi.org/10.3390/pr8091077](https://doi.org/10.3390/pr8091077)
+                        Teng R, Zhou Q, Dai X et al (2012) Optimization of heat shield for single silicon crystal growth by using numerical simulation. Rare Met.
+                          [https://doi.org/10.1007/s12598-012-0545-0](https://doi.org/10.1007/s12598-012-0545-0)
+                        Song DW, Lee SH, Hee Mun Y et al (2011) Oxygen content increasing mechanism in Czochralski (CZ) silicon crystals doped with heavy antimony under a double-typed heat shield. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2011.04.020](https://doi.org/10.1016/j.jcrysgro.2011.04.020)
+                        Hu R, Lv X, Li J et al (2024) The effect of physical property parameters of the insulation material inside the heat shield on the growth of Czochralski silicon crystal. Silicon.
+                          [https://doi.org/10.1007/s12633-023-02778-9](https://doi.org/10.1007/s12633-023-02778-9)
+                        Li Z, Smirnov A (2023) Application of computer modeling to pulling rate and productivity of Czochralski pullers in PV Si crystal growth. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2023.127178](https://doi.org/10.1016/j.jcrysgro.2023.127178)
+                        Qi X, Wang J, Wen Y et al (2023) Effect of water-cooled jacket on the oxygen transport during the Czochralski silicon crystal growth process. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2023.127139](https://doi.org/10.1016/j.jcrysgro.2023.127139)
+                        Dezfoli ARA (2023) Czochralski (CZ) process modification with cooling tube in the response to market Global silicon shortage. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2023.127170](https://doi.org/10.1016/j.jcrysgro.2023.127170)
+                        Zhao W, Liu L (2017) Control of heat transfer in continuous-feeding Czochralski-silicon crystal growth with a water-cooled jacket. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2016.10.041](https://doi.org/10.1016/j.jcrysgro.2016.10.041)
+                        Zhao W, Li J, Liu L (2021) Control of oxygen impurities in a continuous-feeding Czochralski-silicon crystal growth by the double-crucible method. Crystals.
+                          [https://doi.org/10.3390/cryst11030264](https://doi.org/10.3390/cryst11030264)
+                        Chen S, Liu W, Li M et al (2022) Melt convection and temperature distribution in 300 mm Czochralski crystal growth with transverse magnetic field. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2022.126722](https://doi.org/10.1016/j.jcrysgro.2022.126722)
+                        Su W, Zhang Z, Li J et al (2023) Numerical study on the effects of inner crucible window heights on the growth of silicon in a continuous Czochralski process. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2023.127129](https://doi.org/10.1016/j.jcrysgro.2023.127129)
+                        Qi X, Ma W, Dang Y et al (2020) Optimization of the melt/crystal interface shape and oxygen concentration during the Czochralski silicon crystal growth process using an artificial neural network and a genetic algorithm. J Cryst Growth.
+                          [https://doi.org/10.1016/j.jcrysgro.2020.125828](https://doi.org/10.1016/j.jcrysgro.2020.125828)
+                        Popescu A, Bellmann MP, Vizman D (2021) Effect of crucible rotation on the temperature and oxygen distributions in Czochralski grown silicon for photovoltaic applications. CrystEngComm.
+                          [https://doi.org/10.1039/d0ce01377c](https://doi.org/10.1039/d0ce01377c)
+                        Chen L, Yu X, Chen P et al (2011) Effect of oxygen precipitation on the performance of Czochralski silicon solar cells. Sol Energy Mater Sol Cells.
+                          [https://doi.org/10.1016/j.solmat.2011.06.044](https://doi.org/10.1016/j.solmat.2011.06.044)
+                      [Download references](https://citation-needed.springer.com/v2/references/10.1007/s12633-025-03253-3?format=refman&flavour=references)
+              Acknowledgements
+                The project was supported by the Key Research and Development Program of Jiangsu Province of China (grant no. BE2019009-003), Industry–University Research Project (Wuxi Wuyue Semiconductor Co., Ltd., grant no. HX20230899), and the National Natural Science Foundation for Young Scholars of China (grant no. 51206069).
+              Funding
+              Author information
+                Authors and Affiliations
+                    School of Energy and Power Engineering, Jiangsu University, Zhenjiang, 212013, Jiangsu, China
+                    Wenjia Su, Ruilin Guo, Jiaqi Li & Yanshuo Zhang
+                    Shanghai Zingsemiconductor Co., Ltd, Shanghai, 201306, China
+                    Jiaqi Li & Zhiqiang Zhang
+                  Authors
+                      Wenjia Su
+                          [View author publications](/search?dc.creator=Wenjia%20Su)
+                          You can also search for this author in
+                              [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wenjia%20Su)
+                      Ruilin Guo
+                      Jiaqi Li
+                      Yanshuo Zhang
+                      Zhiqiang Zhang
+                Contributions
+                Wenjia Su contributed to the conception of the study and the analysis with constructive discussion.
+                Ruilin Guo performed the simulation and contributed to analysis and manuscript written.
+                Jiaqi Li and Yanshuo Zhang performed the data analyses and modi-fied the manuscript.
+                Zhiqiang Zhang contributed to carrying out additional analyses and finalizing this paper.
+                Corresponding author
+                Correspondence to
+                  .
+              Ethics declarations
+                Competing Interest
+                The authors declare no competing interests.
+              Additional information
+                Publisher's Note
+                Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+              Rights and permissions
+                Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+                  [Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Numerical%20Study%20on%20Different%20Shapes%20of%20Heat%20Shields%20in%20Continuous%20Czochralski%20Silicon&author=Wenjia%20Su%20et%20al&contentID=10.1007%2Fs12633-025-03253-3&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Nature%20B.V.&publication=1876-990X&publicationDate=2025-02-28&publisherName=SpringerNature&orderBeanReset=true)
+              About this article
+                    Cite this article
+                    Su, W., Guo, R., Li, J.
+                      et al.
+                      Numerical Study on Different Shapes of Heat Shields in Continuous Czochralski Silicon.
+                      (2025). https://doi.org/10.1007/s12633-025-03253-3
+                      [Download citation](https://citation-needed.springer.com/v2/references/10.1007/s12633-025-03253-3?format=refman&flavour=citation)
+                        Received
+                          :
+                            14 October 2024
+                        Accepted
+                            09 February 2025
+                        Published
+                          DOI
+                          https://doi.org/10.1007/s12633-025-03253-3
+                        Share this article
+                        Anyone you share the following link with will be able to read this content:
+                        Get shareable link
+                          Sorry, a shareable link is not currently available for this article.
+                          Copy to clipboard
+                        Provided by the Springer Nature SharedIt content-sharing initiative
+                    Keywords
+                          [Continuous-feeding Czochralski method](/search?query=Continuous-feeding%20Czochralski%20method&facet-discipline="Chemistry")
+                          [Semiconducting silicon](/search?query=Semiconducting%20silicon&facet-discipline="Chemistry")
+                          [Heat transfer](/search?query=Heat%20transfer&facet-discipline="Chemistry")
+                          [Fluid flow](/search?query=Fluid%20flow&facet-discipline="Chemistry")
+                          [Computer simulation](/search?query=Computer%20simulation&facet-discipline="Chemistry")
+                      Advertisement
+            Search by keyword or author
+      Navigation
+              Discover content
+                  [Journals A-Z](https://link.springer.com/journals/a/1)
+                  [Books A-Z](https://link.springer.com/books/a/1)
+                  [Journal finder](https://link.springer.com/journals)
+                  [Publish your research](https://www.springernature.com/gp/authors)
+                  [Open access publishing](https://www.springernature.com/gp/open-research/about/the-fundamentals-of-open-access-and-open-research)
+              Products and services
+                  [Our products](https://www.springernature.com/gp/products)
+                  [Librarians](https://www.springernature.com/gp/librarians)
+                  [Societies](https://www.springernature.com/gp/societies)
+                  [Partners and advertisers](https://www.springernature.com/gp/partners)
+              Our imprints
+                  [Springer](https://www.springer.com/)
+                  [Nature Portfolio](https://www.nature.com/)
+                  [BMC](https://www.biomedcentral.com/)
+                  [Palgrave Macmillan](https://www.palgrave.com/)
+                  [Apress](https://www.apress.com/)
+                  Your privacy choices/Manage cookies
+                [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+                [Accessibility statement](https://www.springernature.com/gp/info/accessibility)
+                [Terms and conditions](https://link.springer.com/termsandconditions)
+                [Privacy policy](https://link.springer.com/privacystatement)
+                [Help and support](https://support.springernature.com/en/support/home)
+                [Legal notice](https://link.springer.com/legal-notice)
+                [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+              104.28.237.136
+            Not affiliated
+          © 2025 Springer Nature

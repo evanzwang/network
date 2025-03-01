@@ -1,0 +1,61 @@
+          [Xu lab@CBD_SCS_CMU](/)
+              [NEWS](/news/)
+              [PUBLICATION](/publication/)
+              [GROUP](/group/)
+              [ABOUT MIN XU](/min-xu/)
+              [POSITION](/position/)
+              [SOFTWARE](/software/)
+          <button class="search__toggle" type="button">
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+            Toggle Menu
+            About Min Xu
+            Min Xu, Ph.D.
+            [Computational Biology Department](http://cbd.cmu.edu)
+            [Robotics Institute](http://www.ri.cmu.edu)
+            [School of Computer Science](http://cs.cmu.edu)
+            [Department of Electrical and Computer Engineering](http://www.ece.cmu.edu)
+            [Carnegie Mellon University](http://www.cmu.edu)
+            Office:
+            GHC 7709, 5000 Forbes Avenue, Pittsburgh, PA 15213
+            Email:
+            mxu1 @ cs.cmu.edu
+              [Curriculum Vitae](https://docs.google.com/document/d/e/2PACX-1vQOw1_7_1a6HuyyvcwmtOzfliOmyz4L7giYkp3-i0MOxh-ASU0ZCjNtdYZZ4KC3UlFHdC9Gb-gzXMsi/pub)
+              ,
+              [Google Scholar](http://scholar.google.com/citations?hl=en&user=Y3Cqt0cAAAAJ&view_op=list_works&sortby=pubdate)
+              [DBLP](https://dblp.org/pid/09/0-9)
+              [Research Gate](https://www.researchgate.net/profile/Min_Xu21)
+              [Twitter](https://twitter.com/xumin100)
+              , 
+        and
+              [Linkedin](https://www.linkedin.com/in/min-xu-45b7315)
+              pages.
+            Biography
+          Dr. Min Xu (徐旻) is an Associate Professor at the
+            within the
+            at
+            . He also has Courtesy Appointments at the
+            and
+            . 
+He serves as training faculty at the
+            [Joint CMU-Pitt Ph.D. Program in Computational Biology](http://www.compbio.cmu.edu)
+            . He also serves as co-director at the
+            [Master of Science in Computational Biology](https://www.cmu.edu/ms-compbio/people/index.html)
+            (MSCB) program and training faculty at the
+            [Master of Science in Computer Vision](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision)
+            (MSCV) program at CMU. He is an investigator at the
+            [National Center for Multiscale Modeling of Biological Systems](https://mmbios.pitt.edu)
+            . He is also affiliated with the Computer Vision Department at the
+            [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/)
+            , UAE.
+          Dr. Xu has a career centered around the development of computer vision and machine learning methods for the analysis of cellular systems using imaging and omics data. While his early work (2000-2009) focused on developing machine learning methods for the analysis of functional genomics data, he later on (2008) moved onto developing computer vision methods for the analysis of Cellular Cryo-Electron Tomography (Cryo-ET) 3D image data. Dr. Xu and his team have designed novel structural pattern mining methods. He has been the first to demonstrate the feasibility of De Novo extraction of structures and spatial organizations of macromolecular complexes in single cells using Cryo-ET data. His current research focuses on Cryo-ET derived modelling of cellular organization at molecular resolution.
+          Dr. Xu has published papers in peer-reviewed top journals and conferences, such as PNAS, Structure, ISMB, CVPR, NeurIPS, and MICCAI. He serves as PI of US NIH R01 and NSF awards. He received an
+            [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238093)
+            in 2023.
+          Dr. Xu received a B.E. in Computer Science from the Beihang University, M.Sc from School of Computing at the National University of Singapore, M.A. in Applied Mathematics from the University of Southern California (USC), and Ph.D. in Computational Biology and Bioinformatics from USC. He was a postdoctoral researcher at USC.
+            Dr. Xu researches for fun, and he enjoys working with highly talented and motivated students.
+        Enter your search term...
+      start custom footer snippets
+      end custom footer snippets

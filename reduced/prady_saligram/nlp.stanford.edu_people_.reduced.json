@@ -1,0 +1,1473 @@
+{
+  "title": "People - The Stanford Natural Language Processing Group",
+  "meta_description": "",
+  "main_content": "Professors Chris Manning Linguistics & Computer Science Dan Jurafsky Linguistics & Computer Science Percy Liang Computer Science Chris Potts Linguistics Tatsunori Hashimoto Computer Science Monica Lam Computer Science Diyi Yang Computer Science Affiliated Professors Noah Goodman Psychology & Computer Science Douwe Kiela Symbolic Systems Dora Demszky Graduate School of Education Tengyu Ma Computer Science Azalia Mirhoseini Computer Science Laura Gwilliams Psychology Cory Shain Linguistics Robert Hawkins Linguistics Ludwig Schmidt Computer Science Postdocs Martijn Bartelds Computer Science R\u00f3bert Csord\u00e1s Computer Science Ian Covert Computer Science Jan-Philipp Fr\u00e4nken Psychology Kristina Gligoric Computer Science Jiaxin Pei HAI Chen Shani Computer Science Yu Sun Computer Science Yuqing Wang Biomedical Informatics Peter West HAI PhD Students Aryaman Arora Computer Science Neil Band Computer Science Rishi Bommasani Computer Science Steven Cao Computer Science Myra Cheng Computer Science Yann Dubois Computer Science Kefan Dong Computer Science Moussa Doumbouya Computer Science Steven Feng Computer Science Ant\u00f3n de la Fuente Linguistics Anna Goldie Computer Science Emily Goodwin Linguistics Hans Hanley Computer Science Mike Hardy Graduate School of Education Adolfo Hermosillo Linguistics Saminul Haque Computer Science Jing Huang Computer Science Qian Huang Computer Science Ahmad Jabbar Linguistics Sarang Jeong Linguistics Jasper Jian Linguistics Harshit Joshi Computer Science Julie Kallini Computer Science Siddharth Karamcheti Computer Science Moo Jin Kim Computer Science Rohith Kuditipudi Computer Science Michael Li Computer Science Hong Liu Computer Science Ken Ziyu Liu Computer Science Shicheng (George) Liu Computer Science Xiang (Lisa) Li Computer Science Nelson Liu Computer Science Arvind Mahankali Computer Science Shikhar Murty Computer Science Tol\u00fal\u1ecdp\u1eb9\u0301 \u00d2g\u00fanr\u1eb9\u0300m\u00ed Computer Science Joon Sung Park Computer Science Jaylen Pittman Graduate School of Education Gabriel Poesia Computer Science Ben Prystawski Psychology Josh Rozner Management Science and Engineering Jon Saad-Falcon Computer Science Sina Semnani Electrical Engineering Shiori Sagawa Computer Science Omar Shaikh Computer Science Chenglei Si Computer Science Dilara Soylu Computer Science Megha Srivastava Computer Science Mirac Suzgun Computer Science Sheridan Stewart Sociology Marie-Emanuelle Tano Linguistics Yuka Tatsumi Linguistics Tristan Thrush Linguistics Rose E. Wang Computer Science Zhengxuan Wu Computer Science Zitong Yang Statistics Erik Zelikman Computer Science Tianyi Zhang Computer Science Xikun Zhang Computer Science Lucia Zheng Computer Science Kaitlyn Zhou Computer Science Tony Z. Zhou Computer Science Caleb Ziems Computer Science Yijia Shao Computer Science Atlas Kazemian Psychology Masters Students Nic Becker Computer Science Ryan Chi Computer Science Bryan Chia Statistics Abhinav Garg Computer Science Chenchen Gu Computer Science Pranav Jain Computer Science Yucheng Jiang Computer Science Samin Khan Education Data Science Suhas Kotha Computer Science Chih-Ying Liu Electrical Engineering Praneeth Medepalli Computer Science Ananjan Nandi Computer Science Anjali Ragupathi Symbolic Systems Michael Ryan Computer Science Kamyar Salahi Computer Science Parth Sarthi Computer Science Ji Hun Wang Computer Science Violet Yao Computer Science Andy Zhang Law School Undergraduate Students Thanawan (Ly-Ly) Atchariyachanvanit Computer Science Michelle Bao Computer Science Eli Browne Computer Science Hung Bui Computer Science Riley Carlson Symbolic Systems Sarah Chen Computer Science Gordon Chi Computer Science Nathan Chi Computer Science Rohan Davidi Computer Science Jasmine Gonzalez Computer Science Chenchen Gu Computer Science Nathan Kim Computer Science Tae Kyu Kim Computer Science Katherine Li Computer Science Ting Lin Linguistics Alberto Mancarella Computer Science Kelvin Nguyen Computer Science Raj Palleti Computer Science Abhay Singhal Computer Science Kushal Thaman Computer Science Pawan Wirawarn Computer Science Lora Xie Computer Science Houjun Liu Computer Science Prady Saligram Computer Science Jason Zhang Computer Science Visiting Scholars David Broman Computer Science and Psychology Gaku Morio Computer Science Joel Niklaus Computer Science Yangjun Ruan Computer Science Mitsunori Toma Computer Science Yanzhe Zhang Computer Science Staff John Bauer Research Programmer Yifan Mai Research Engineer / Research Programmer Alumni Research Scientists Michel Galley , Computer Science Microsoft Research Ramesh Nallapati , Computer Science IBM Research Mihai Surdeanu , Computer Science Associate Professor, School of Information: Science, Technology and the Arts (SISTA), the University of Arizona Ph.D. Students Gabor Angeli , Computer Science Square Drew Arad Hudson , Computer Science Research Scientist, DeepMind Sam Bowman , Linguistics Associate Professor in Linguistics and Data Science, NYU Jason Brenier , Linguistics Reverie Ventures Giovanni Campagna , Computer Science Bardeen Hancheng Cao , Computer Science Assistant Professor, Emory University Juan Ignacio Cases Martin , Linguistics Research Scientist at Orby AI Arun Tejasvi Chaganty , Computer Science Google Research Nate Chambers , Computer Science Professor in Computer Science, the United States Naval Academy Angel Chang , Computer Science Assistant Professor, Simon Fraser University Pi-Chuan Chang , Computer Science Google Danqi Chen , Computer Science Assistant Professor, Princeton University Jason Chuang , Computer Science Mozilla Kevin Clark , Computer Science Research Scientist, Google AI, Canada Uriel Cohen Priva , Linguistics Associate Professor of Cognitive, Linguistic, and Psychological Sciences, Brown University Dora Demszky , Linguistics Assistant Professor of Education Data Science, School of Education, Stanford University Timothy Dozat , Linguistics Google Kawin Ethayarajh , Computer Science Postdoctoral fellow at Princeton Language and Intelligence (PLI) Jenny Finkel , Computer Science Roy Frostig , Computer Science Google Research Atticus Geiger , Linguistics Postdoctoral Researcher, Practical AI Alignment and Interpretability Research Group Spence Green , Computer Science CEO of Lilt Demi Guo , Computer Science Sonal Gupta , Computer Science Research Scientist, Facebook Kelvin Guu , Statistics Research Scientist, Google AI Michael Hahn , Linguistics Tenure-Track Professor (W2) at Saarland Informatics Campus at Saarland University Will Hamilton , Computer Science Adjunct Professor of Computer Science at McGill, Senior Quantitative Researcher at Citadel LLC Peter Henderson , Computer Science Assistant Professor, Princeton John Hewitt , Computer Science Visiting Researcher, Google DeepMind; Assistant Professor of Computer Science, Columbia University (2025-) Jenny Hong , Management Science and Engineering Research Scientist, Responsible AI at Meta Dan Iter , Computer Science Fastino Robin Jia , Computer Science Assistant Professor at USC Pratyusha (Ria) Kalluri , Computer Science Sepandar Kamvar , SCCM Fereshte Khani , Computer Science Senior Applied Scientist, Office of Applied Research, Microsoft Omar Khattab , Computer Science Research Scientist, Databricks, and incoming Assistant Professor, MIT Dan Klein , Computer Science Professor, Berkeley EECS Pang Wei Koh , Computer Science Senior Research Scientist, Google Seattle Heeyoung Lee , Electrical Engineering at stealth startup Elisa Kreiss , Linguistics Assistant Professor, Department of Communication, UCLA Urvashi Khandelwal , Computer Science Google DeepMind Ananya Kumar , Computer Science OpenAI Matthew Lamm, Linguistics Mina Lee , Computer Science Assistant Professor, Computer Science, University of Chicago Roger Levy , Linguistics Professor, MIT BCS Jiwei Li , Computer Science Shannon.ai and Zhejiang University Xuechen Li , Computer Science Yiwei Luo , Linguistics Thang Luong , Computer Science Research Scientist, Google Brain Bill MacCartney , Computer Science Consulting Professor of Computer Science, Stanford University Marie-Catherine de Marneffe , Linguistics Professor, Universit\u00e9 Catholique de Louvain, Belgium Eric Mitchell , Computer Science OpenAI Will Monroe , Computer Science Research Scientist, Duolingo Rob Monarch , Linguistics Apple Mehrad Moradshahi , Electrical Engineering Jesse Mu , Computer Science Alignment Team, Anthropic Isabel Papadimitriou , Computer Science Kempner Fellow, Harvard University; Assistant Professor of Linguistics, University of British Columbia (2025-) Ashwin Paranjape , Computer Science Samaya AI Panupong Pasupat , Computer Science Research Scientist, Google Eva Portelance , Linguistics Assistant Professor, Department of decision sciences, HEC Montr\u00e9al Reid Pryzant , Computer Science AI Scientist, Freestone Grove Partners Peng Qi , Computer Science Amazon Daniel Ramage , Computer Science Google Chetanya Rastogi , Computer Science Brevian Nay San , Linguistics Rime Sebastian Schuster , Linguistics Lecturer (~assistant professor), University College London Abi See , Computer Science DeepMind Natalia Silveira , Linguistics Apple Rion Snow , Computer Science Richard Socher , Computer Science CEO, You.com Dan Sosa , Biomedical Informatics Co-Founder, Parsnip Valentin Spitkovsky , Computer Science Jacob Steinhardt , Computer Science Assistant Professor, UC Berkeley Yun-Hsuan Sung , Electrical Engineering Google DeepMind Rohan Taori , Computer Science Anthropic Alex Tamkin , Computer Science Research Scientist, Anthropic Kristina Toutanova , Computer Science Google Huihsin Tseng , Linguistics (CU Boulder) Adam Vogel , Computer Science Rob Voigt , Linguistics Assistant Professor of Linguistics and Faculty Associate, Institute for Policy Research, Northwestern University Mengqiu Wang , Computer Science Zero Zero Robotics Sida Wang , Computer Science Facebook AI Research Julia White , Electrical Engineering Senior NLP Engineer, Samsung Research America Sang Michael Xie , Computer Science Meta Ziang Xie , Computer Science Sapling Intelligence Silei Xu , Computer Science Zoom Michihiro Yasunaga , Computer Science Meta Yuhao Zhang , Biomedical Informatics Scientist, AWS AI Masters Students Virginia Adams , Computer Science Ananth Agarwal , Computer Science Google Galen Andrew , Computer Science Google Ruth-Ann Armstrong , Computer Science Meta Steven Bills , Symbolic Systems and Computer Science Anthropic Paul Chen, Computer Science Pei-Chun (Heather) Chen , Electrical Engineering Director, Product, Kiavi Ethan A. Chi , Computer Science Hudson River Trading Sahil Chopra , Computer Science Co-Founder, Linum David Clausen , Linguistics Miriam Connor , Symbolic Systems Kismet Health Nathan Dass , Computer Science MS/MBA Candidate at Harvard Naomi Eigbe , Symbolic Systems Inflection.ai Mihail Eric , Computer Science Co-Founder, Storia AI Milind Ganjoo , Computer Science Google Teg Grenager , Computer Science Co-Founder and CEO at Joinable Raghav Gupta , Computer Science Google Surabhi Gupta , Computer Science CTO at Klaviyo, Board Member at GetYourGuide Andrey Gusev , Computer Science Pinterest David Hall , Symbolic Systems Research Engineering Lead at Stanford CRFM / Stanford HAI Raine Hoover, Computer Science Twitter Eric H. Huang , Computer Science Research Scientist, Facebook Kaili Huang , Computer Science Microsoft Research Thad Hughes , Computer Science Imbue Alexander Iyabor, Computer Science Hang Jiang , Symbolic Systems PhD Student, MIT Nikhil Johri, Computer Science Engineering Manager, Meta Kathleen Kenealy, Computer Science Mike Kayser , ICME Amazon Adam Keppler , Computer Science CEO, Algo Works Amita Kamath , Computer Science Pre-doctoral Young Investigator, Allen Institute for AI Stefan Krawczyk , Computer Science Stitch Fix Vijay Krishnan , Computer Science Turing Michael Levin , Computer Science Lucy Li , Computer Science PhD Student, UC Berkeley Siyan Li , Computer Science PhD student, Columbia University Madeline Liao , Computer Science Konstantin Lopyrev , Computer Science Google Hanson Lu , Computer Science Julia Mendelsohn, Computer Science postdoc U Chicago and incoming Assistant Professor, University of Maryland Mike Mintz , Symbolic Systems, Computer Science IMC Financial Markets William Morgan , Computer Science CEO of Buoyant Felix Muzny , Computer Science Instructor at Northeastern University Neha Nayak , Computer Science Google Julia (Neidert) Neizonek , Symbolic Systems Cambly, Inc. Benjamin Newman , Computer Science Pre-doctoral scholar, Allen Institute for AI Jamie Nicolson , Computer Science Google Candice Penelton, Computer Science PhD student, Johns Hopkins Alex Perelygin , Computer Science Plaid Hieu Pham , Computer Science Melvin Johnson Premkumar , Computer Science Google Karthik Raghunathan , Computer Science Microsoft Abhinav Rastogi , Electrical Engineering Google Kevin Reschke , Computer Science BigPi.ai Kaushik Ram Sadagopan , Mechanical Engineering Facebook Conal Sathi , Computer Science Infinitus Systems TG Sido , Computer Science Kendrick Shen , Computer Science Kai Sheng Tai , Computer Science Research Scientist, Meta AI Vaish Shrivastava , Computer Science Joseph Smarr , Symbolic Systems Shopify Jillian Tang , Computer Science Julie Tibshirani , Computer Science Sourcegraph Connor Toups , Computer Science Danny Tse , Computer Science Jump Trading Catalin Voss , Computer Science Eric Yeh , Computer Science SRI International Akhila Yerukola , Computer Science Samsung Research America Steven Woonyeon Yoo , Computer Science Atlassian Zijian Wang , Symbolic Systems Applied Scientist, Amazon Jean Wu , Symbolic Systems Apple Zhengxuan Wu , Symbolic Systems PhD Student, Stanford Hugh Zhang, Computer Science William Zhang , Computer Science Yian Zhang , Computer Science Yuhui Zhang , Computer Science PhD student, Stanford Xinran Zhao , Computer Science PhD student at CMU LTI Victor Zhong , Computer Science PhD student, University of Washington Amir Zur, Computer Science Postdocs Jonathan Berant , Computer Science Associate Professor, Tel-Aviv University Steven Bethard , Computer Science Associate Professor, University of Arizona School of Information Federico Bianchi , Computer Science Senior ML Scientist, TogetherAI Antoine Bosselut , Computer Science Assistant Professor, School of Computer and Communication Sciences, EPFL Dallas Card , Computer Science Assistant Professor, School of Information, University of Michigan Niladri Chatterji , Computer Science Meta Daniel Cer , Computer Science Research Scientist, Google Research Mona Diab , Linguistics Professor & Director of Language Technologies Institute, Carnegie Mellon University Chris Donahue , Computer Science Google Esin Durmus , Computer Science Research Scientist, Anthropic (Social Impacts Team) Anjalie Field , Computer Science Assistant Professor, Department of Computer Science, Johns Hopkins University Matthias Gerstgrasser , Computer Science Sharon Goldwater , Linguistics Professor, Department of Informatics, University of Edinburgh Tatsunori Hashimoto , Computer Science and Statistics Assistant Professor, Department of Computer Science, Stanford University He He , Computer Science Assistant Professor, New York University Kenneth Heafield , Computer Science Reader (Associate Professor), University of Edinburgh Ruihong Huang , Computer Science Associate Professor, Texas A&M University David Jurgens , Computer Science Assistant Professor, University of Michigan School of Information Jonas Kuhn , Linguistics Professor of Computational Linguistics, University of Stuttgart Vivek Kulkarni , Computer Science Grammarly Yoav Levine , Computer Science Assistant Professor, Tel Aviv University Kyle Mahowald , Computer Science Assistant Professor, Department of Linguistics, UT Austin David McClosky , Computer Science Staff Data Scientist, QuantAQ, Inc. Cristian Danescu-Niculescu-Mizil , Computer Science Associate Professor, Cornell University Ani Nenkova , Linguistics Principal Scientist at Adobe Research Sebastian Pad\u00f3 , Linguistics Professor of Computational Linguistics, University of Stuttgart Yves Peirsman , Linguistics Deontic Jeffrey Pennington , Computer Science Research Scientist, Google Vinodkumar Prabhakaran , Computer Science Senior Research Scientist, Google Marta Recasens , Linguistics Google Siva Reddy , Computer Science Assistant Professor, McGill University and Mila Eugenia H. Rho , Computer Science Assistant Professor of Computer Science, Virginia Tech Shibani Santurkar , Computer Science OpenAI Xiaolin Shi , Computer Science Snap Inc. Vivek Srikumar , Computer Science Associate Professor, University of Utah John Thickstun , Computer Science Assistant Professor, Cornell University Dimitris Tsipras , Computer Science OpenAI Yulia Tsvetkov , Computer Science Associate Professor, University of Washington Yuhuai (Tony) Wu , Computer Science Co-Founder, xAI Jiahong Yuan , Linguistics Professor, University of Science and Technology of China Justine Zhang , Computer Science Assistant Professor, School of Information, University of Michigan Undergrad Students Ryan Chi , Computer Science Masters student, Stanford University Irene Gao , Computer Science Jon Gauthier , Symbolic Systems PhD student in the Department of Brain and Cognitive Sciences, MIT Sam Ginn, Computer Science Aria Haghighi , Computer Science Apple Chloe Kiddon , Computer Science Google Research Jiayi Li , Mathematics Reginald Long , Computer Science Anwesha Mukherjee, Computer Science Julia (Neidert) Neizonek , Computer Science Cambly, Inc. Kristen Parton , Computer Science Instagram Eli Pugh , Mathematics Harry Shin, Computer Science Avash Shrestha, Computer Science Megha Srivastava , Computer Science PhD student in the Computer Science Department, Stanford Hoang Ngoc Vy Thai, Computer Science Graham Todd, Symbolic Systems PhD student, New York University Keenon Werling , Computer Science PhD Student, Computer Science, Stanford University Research Programmers Chris(topher) Cox , Symbolic Systems. 2004-2005 Chief Product Officer, Facebook Anna Rafferty , Computer Science. 2006-2008 Associate Profesor of Computer Science, Carleton College Jing Ge , Computer Science. 2019-2020 Visiting Professors Eneko Agirre , Computer Science Professor, University of the Basque Country Pushpak Bhattacharyya , Computer Science Professor, IIT Bombay Paula Buttery , Computer Science Professor, University of Cambridge Wanxiang Che , Computer Science Professor, Harbin Institute of Technology Pedro Domingos , Computer Science Professor, University of Washington John Hale , Linguistics and Computer Science Professor, University of Georgia Jussi Karlgren , Linguistics Principal Research Scientist, Spotify, and Docent (Adjunct Professor) of Language Technology, Helsinki University Karen Livescu , Computer Science and Linguistics Professor, TTI Chicago Paula Merlo , Linguistics and Computer Science Associate Professor, University of Geneva Satoshi Oyama , Computer Science Associate Professor, Hokkaido University Cindi Thompson , Computer Science Apple Other Visitors Martijn Bartelds , Linguistics PhD student, Computational Linguistics, University of Groningen Emrah Budur, Linguistics Amazon YoungJoo Chung, Computer Science Rakuten Karel D'Oosterlinck , Linguistics and CSLI Valentin Hofmann , Linguistics Postdoc, Allen Institute and U Washington Jing Huang , Computer Science Senior Science Manager, Alexa AI Yuta Koreeda, Computer Science Haejun Lee, Computer Science Samsung Juncen Li, Computer Science Tencent Yasuhide Miura, Computer Science Fujifilm Xiang Ren , Computer Science Associate Professor, University of Southern California Raghu Subramanian, Computer Science Nonadoo Diyi Yang , Computer Science Assistant Professor, Stanford University Staff Jason Bolton, Research Programmer",
+  "links": [
+    {
+      "url": "http://nlp.stanford.edu/~manning/",
+      "text": "Chris Manning"
+    },
+    {
+      "url": "http://web.stanford.edu/~jurafsky/",
+      "text": "Dan Jurafsky"
+    },
+    {
+      "url": "http://cs.stanford.edu/~pliang/",
+      "text": "Percy Liang"
+    },
+    {
+      "url": "http://web.stanford.edu/~cgpotts/",
+      "text": "Chris Potts"
+    },
+    {
+      "url": "https://thashim.github.io",
+      "text": "Tatsunori Hashimoto"
+    },
+    {
+      "url": "https://suif.stanford.edu/~lam/",
+      "text": "Monica Lam"
+    },
+    {
+      "url": "https://cs.stanford.edu/~diyiy/",
+      "text": "Diyi Yang"
+    },
+    {
+      "url": "https://cocolab.stanford.edu/ndg.html",
+      "text": "Noah Goodman"
+    },
+    {
+      "url": "https://douwekiela.github.io",
+      "text": "Douwe Kiela"
+    },
+    {
+      "url": "https://www.dorademszky.com",
+      "text": "Dora Demszky"
+    },
+    {
+      "url": "https://ai.stanford.edu/~tengyuma/",
+      "text": "Tengyu Ma"
+    },
+    {
+      "url": "http://www.azaliamirhoseini.com",
+      "text": "Azalia Mirhoseini"
+    },
+    {
+      "url": "https://lauragwilliams.github.io",
+      "text": "Laura Gwilliams"
+    },
+    {
+      "url": "https://coryshain.github.io",
+      "text": "Cory Shain"
+    },
+    {
+      "url": "https://rdhawkins.com",
+      "text": "Robert Hawkins"
+    },
+    {
+      "url": "https://people.csail.mit.edu/ludwigs/",
+      "text": "Ludwig Schmidt"
+    },
+    {
+      "url": "https://martijnbartelds.nl",
+      "text": "Martijn Bartelds"
+    },
+    {
+      "url": "https://robertcsordas.github.io",
+      "text": "R\u00f3bert Csord\u00e1s"
+    },
+    {
+      "url": "https://iancovert.com/",
+      "text": "Ian Covert"
+    },
+    {
+      "url": "https://janphilippfranken.github.io/",
+      "text": "Jan-Philipp Fr\u00e4nken"
+    },
+    {
+      "url": "https://kristinagligoric.github.io/",
+      "text": "Kristina Gligoric"
+    },
+    {
+      "url": "https://jiaxin-pei.github.io",
+      "text": "Jiaxin Pei"
+    },
+    {
+      "url": "https://sites.google.com/mail.huji.ac.il/dr-chen-shani/bio?authuser=0",
+      "text": "Chen Shani"
+    },
+    {
+      "url": "https://yueatsprograms.github.io/",
+      "text": "Yu Sun"
+    },
+    {
+      "url": "https://yuqingwangcs.github.io/",
+      "text": "Yuqing Wang"
+    },
+    {
+      "url": "https://peterwestai.notion.site",
+      "text": "Peter West"
+    },
+    {
+      "url": "https://aryaman.io/",
+      "text": "Aryaman Arora"
+    },
+    {
+      "url": "https://nband.github.io/",
+      "text": "Neil Band"
+    },
+    {
+      "url": "https://rishibommasani.github.io/",
+      "text": "Rishi Bommasani"
+    },
+    {
+      "url": "http://stevenxcao.github.io",
+      "text": "Steven Cao"
+    },
+    {
+      "url": "https://myracheng.github.io/",
+      "text": "Myra Cheng"
+    },
+    {
+      "url": "https://yanndubs.github.io/",
+      "text": "Yann Dubois"
+    },
+    {
+      "url": "https://kfdong.github.io/",
+      "text": "Kefan Dong"
+    },
+    {
+      "url": "https://mdoumbouya.github.io/",
+      "text": "Moussa Doumbouya"
+    },
+    {
+      "url": "https://styfeng.github.io/",
+      "text": "Steven Feng"
+    },
+    {
+      "url": "https://www.annagoldie.com",
+      "text": "Anna Goldie"
+    },
+    {
+      "url": "https://emilygoodwin.github.io/",
+      "text": "Emily Goodwin"
+    },
+    {
+      "url": "https://www.hanshanley.com/",
+      "text": "Hans Hanley"
+    },
+    {
+      "url": "https://www.linkedin.com/in/michael-hardy-education/",
+      "text": "Mike Hardy"
+    },
+    {
+      "url": "https://adolfohermosillo.github.io/",
+      "text": "Adolfo Hermosillo"
+    },
+    {
+      "url": "https://explanare.github.io",
+      "text": "Jing Huang"
+    },
+    {
+      "url": "https://q-hwang.github.io/",
+      "text": "Qian Huang"
+    },
+    {
+      "url": "https://ahmad-jabbar.github.io/",
+      "text": "Ahmad Jabbar"
+    },
+    {
+      "url": "https://sarangjeong.github.io/",
+      "text": "Sarang Jeong"
+    },
+    {
+      "url": "jasperjian.ca",
+      "text": "Jasper Jian"
+    },
+    {
+      "url": "https://harshitjoshi.com",
+      "text": "Harshit Joshi"
+    },
+    {
+      "url": "https://juliekallini.com",
+      "text": "Julie Kallini"
+    },
+    {
+      "url": "https://www.siddkaramcheti.com/",
+      "text": "Siddharth Karamcheti"
+    },
+    {
+      "url": "https://moojink.com",
+      "text": "Moo Jin Kim"
+    },
+    {
+      "url": "https://web.stanford.edu/~rohithk/",
+      "text": "Rohith Kuditipudi"
+    },
+    {
+      "url": "https://michaelyli.github.io/",
+      "text": "Michael Li"
+    },
+    {
+      "url": "https://liuhong99.github.io",
+      "text": "Hong Liu"
+    },
+    {
+      "url": "https://ai.stanford.edu/~kzliu",
+      "text": "Ken Ziyu Liu"
+    },
+    {
+      "url": "https://george1459.github.io/",
+      "text": "Shicheng (George) Liu"
+    },
+    {
+      "url": "https://xiangli1999.github.io",
+      "text": "Xiang (Lisa) Li"
+    },
+    {
+      "url": "https://nelsonliu.me",
+      "text": "Nelson Liu"
+    },
+    {
+      "url": "http://murtyshikhar.github.io",
+      "text": "Shikhar Murty"
+    },
+    {
+      "url": "https://tolulope.ai/",
+      "text": "Tol\u00fal\u1ecdp\u1eb9\u0301 \u00d2g\u00fanr\u1eb9\u0300m\u00ed"
+    },
+    {
+      "url": "http://www.joonsungpark.com/",
+      "text": "Joon Sung Park"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jaylenpittman/",
+      "text": "Jaylen Pittman"
+    },
+    {
+      "url": "https://gpoesia.com",
+      "text": "Gabriel Poesia"
+    },
+    {
+      "url": "https://benprystawski.com/",
+      "text": "Ben Prystawski"
+    },
+    {
+      "url": "https://jonsaadfalcon.com",
+      "text": "Jon Saad-Falcon"
+    },
+    {
+      "url": "https://web.stanford.edu/~sinaj/",
+      "text": "Sina Semnani"
+    },
+    {
+      "url": "https://cs.stanford.edu/~ssagawa/",
+      "text": "Shiori Sagawa"
+    },
+    {
+      "url": "https://oshaikh.com",
+      "text": "Omar Shaikh"
+    },
+    {
+      "url": "https://noviscl.github.io/",
+      "text": "Chenglei Si"
+    },
+    {
+      "url": "https://web.stanford.edu/~meghas/",
+      "text": "Megha Srivastava"
+    },
+    {
+      "url": "https://sites.google.com/view/msuzgun",
+      "text": "Mirac Suzgun"
+    },
+    {
+      "url": "https://mariemmanue.github.io",
+      "text": "Marie-Emanuelle Tano"
+    },
+    {
+      "url": "https://sites.google.com/view/yuka-tatsumi",
+      "text": "Yuka Tatsumi"
+    },
+    {
+      "url": "http://www.tristanthrush.com",
+      "text": "Tristan Thrush"
+    },
+    {
+      "url": "https://cs.stanford.edu/~rewang",
+      "text": "Rose E. Wang"
+    },
+    {
+      "url": "http://zen-wu.social/",
+      "text": "Zhengxuan Wu"
+    },
+    {
+      "url": "https://zitongyang.github.io/",
+      "text": "Zitong Yang"
+    },
+    {
+      "url": "http://zelikman.me/",
+      "text": "Erik Zelikman"
+    },
+    {
+      "url": "https://tiiiger.github.io/",
+      "text": "Tianyi Zhang"
+    },
+    {
+      "url": "https://zlucia.github.io/",
+      "text": "Lucia Zheng"
+    },
+    {
+      "url": "https://cs.stanford.edu/~katezhou/",
+      "text": "Kaitlyn Zhou"
+    },
+    {
+      "url": "https://tonyzhaozh.github.io/",
+      "text": "Tony Z. Zhou"
+    },
+    {
+      "url": "http://calebziems.com/",
+      "text": "Caleb Ziems"
+    },
+    {
+      "url": "https://cs.stanford.edu/~shaoyj/",
+      "text": "Yijia Shao"
+    },
+    {
+      "url": "https://akazemian.github.io/personal_profile/",
+      "text": "Atlas Kazemian"
+    },
+    {
+      "url": "https://cs.stanford.edu/~npbecker",
+      "text": "Nic Becker"
+    },
+    {
+      "url": "http://ryanachi.com/",
+      "text": "Ryan Chi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/bryan-chia/",
+      "text": "Bryan Chia"
+    },
+    {
+      "url": "http://www.abhinavgarg.net/",
+      "text": "Abhinav Garg"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chenchen-gu/",
+      "text": "Chenchen Gu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/contactpranavjain/",
+      "text": "Pranav Jain"
+    },
+    {
+      "url": "https://www.linkedin.com/in/samin-khan/",
+      "text": "Samin Khan"
+    },
+    {
+      "url": "http://kothasuhas.github.io/",
+      "text": "Suhas Kotha"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chih-ying-liu-b7191922b/",
+      "text": "Chih-Ying Liu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ananjan-nandi-968386201/",
+      "text": "Ananjan Nandi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anjali-ragupathi-a70306154/",
+      "text": "Anjali Ragupathi"
+    },
+    {
+      "url": "https://www.michryan.com/",
+      "text": "Michael Ryan"
+    },
+    {
+      "url": "https://kamyar.io/",
+      "text": "Kamyar Salahi"
+    },
+    {
+      "url": "https://www.parthsarthi.com",
+      "text": "Parth Sarthi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ji-hun-wang/",
+      "text": "Ji Hun Wang"
+    },
+    {
+      "url": "https://violetyao.github.io/",
+      "text": "Violet Yao"
+    },
+    {
+      "url": "https://www.linkedin.com/in/thanawan-atc",
+      "text": "Thanawan (Ly-Ly) Atchariyachanvanit"
+    },
+    {
+      "url": "https://www.linkedin.com/in/riley-carlson",
+      "text": "Riley Carlson"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nathan-chi/",
+      "text": "Nathan Chi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rohan-davidi/",
+      "text": "Rohan Davidi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jasmine-gonzalez-aab18115b/",
+      "text": "Jasmine Gonzalez"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chenchen-gu/",
+      "text": "Chenchen Gu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/taekyukim ",
+      "text": "Tae Kyu Kim"
+    },
+    {
+      "url": "https://www.linkedin.com/in/katherine-li-1a8606237/",
+      "text": "Katherine Li"
+    },
+    {
+      "url": "https://github.com/tinglinn",
+      "text": "Ting Lin"
+    },
+    {
+      "url": "www.linkedin.com/in/kelvinknguyen27/",
+      "text": "Kelvin  Nguyen"
+    },
+    {
+      "url": "http://abhaysinghal.com/",
+      "text": "Abhay Singhal"
+    },
+    {
+      "url": "https://kushalthaman.github.io/",
+      "text": "Kushal Thaman"
+    },
+    {
+      "url": "https://www.linkedin.com/in/pawan-wirawarn",
+      "text": "Pawan Wirawarn"
+    },
+    {
+      "url": "https://www.linkedin.com/in/loraxie/",
+      "text": "Lora Xie"
+    },
+    {
+      "url": "https://cs.stanford.edu/people/houjun/",
+      "text": "Houjun Liu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/prady-saligram/",
+      "text": "Prady Saligram"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jason-zhang-6860361b8/",
+      "text": "Jason Zhang"
+    },
+    {
+      "url": "https://people.kth.se/~dbro/",
+      "text": "David Broman"
+    },
+    {
+      "url": "https://niklaus.ai",
+      "text": "Joel Niklaus"
+    },
+    {
+      "url": "https://www.cs.toronto.edu/~yjruan/",
+      "text": "Yangjun Ruan"
+    },
+    {
+      "url": "https://stevenyzzhang.github.io/website/",
+      "text": "Yanzhe Zhang"
+    },
+    {
+      "url": "http://yifanmai.com/",
+      "text": "Yifan Mai"
+    },
+    {
+      "url": "http://www-nlp.stanford.edu/~mgalley",
+      "text": "Michel Galley"
+    },
+    {
+      "url": "http://www.cs.stanford.edu/~nmramesh/",
+      "text": "Ramesh Nallapati"
+    },
+    {
+      "url": "http://www.surdeanu.info/mihai/",
+      "text": "Mihai Surdeanu"
+    },
+    {
+      "url": "https://cs.stanford.edu/~angeli/",
+      "text": "Gabor Angeli"
+    },
+    {
+      "url": "https://cs.stanford.edu/people/dorarad",
+      "text": "Drew Arad Hudson"
+    },
+    {
+      "url": "http://www.nyu.edu/projects/bowman/",
+      "text": "Sam Bowman"
+    },
+    {
+      "url": "https://gcampax.com",
+      "text": "Giovanni Campagna"
+    },
+    {
+      "url": "http://hanchengcao.me/",
+      "text": "Hancheng Cao"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ignacio-cases/",
+      "text": "Juan Ignacio Cases Martin"
+    },
+    {
+      "url": "http://arun.chagantys.org/",
+      "text": "Arun Tejasvi Chaganty"
+    },
+    {
+      "url": "http://www.usna.edu/Users/cs/nchamber/",
+      "text": "Nate Chambers"
+    },
+    {
+      "url": "https://angelxuanchang.github.io",
+      "text": "Angel Chang"
+    },
+    {
+      "url": "https://research.google/people/pi-chuan-chang/",
+      "text": "Pi-Chuan Chang"
+    },
+    {
+      "url": "https://www.cs.princeton.edu/~danqic/",
+      "text": "Danqi Chen"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jcchuang/",
+      "text": "Jason Chuang"
+    },
+    {
+      "url": "http://cs.stanford.edu/~kevclark",
+      "text": "Kevin Clark"
+    },
+    {
+      "url": "http://blogs.brown.edu/ucohenpr/",
+      "text": "Uriel Cohen Priva"
+    },
+    {
+      "url": "https://www.dorademszky.com/",
+      "text": "Dora Demszky"
+    },
+    {
+      "url": "https://www.linkedin.com/in/timothy-dozat-982770198",
+      "text": "Timothy Dozat"
+    },
+    {
+      "url": "https://kawine.github.io/",
+      "text": "Kawin Ethayarajh"
+    },
+    {
+      "url": "http://nlp.stanford.edu/jrfinkel/",
+      "text": "Jenny Finkel"
+    },
+    {
+      "url": "http://cs.stanford.edu/~rfrostig/",
+      "text": "Roy Frostig"
+    },
+    {
+      "url": "https://atticusg.github.io",
+      "text": "Atticus Geiger"
+    },
+    {
+      "url": "http://www.spencegreen.com/",
+      "text": "Spence Green"
+    },
+    {
+      "url": "http://demiguo.org/",
+      "text": "Demi Guo"
+    },
+    {
+      "url": "http://www.cs.stanford.edu/people/sonal/",
+      "text": "Sonal Gupta"
+    },
+    {
+      "url": "http://kelvinguu.com/",
+      "text": "Kelvin Guu"
+    },
+    {
+      "url": "http://www.mhahn.info/",
+      "text": "Michael Hahn"
+    },
+    {
+      "url": "https://williamleif.github.io/",
+      "text": "Will Hamilton"
+    },
+    {
+      "url": "https://www.peterhenderson.co/",
+      "text": "Peter Henderson"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~johnhew",
+      "text": "John Hewitt"
+    },
+    {
+      "url": "https://jennyhong.github.io/",
+      "text": "Jenny Hong"
+    },
+    {
+      "url": "https://www.linkedin.com/in/daniter/",
+      "text": "Dan Iter"
+    },
+    {
+      "url": "http://stanford.edu/~robinjia/",
+      "text": "Robin Jia"
+    },
+    {
+      "url": "https://riakalluri.com/",
+      "text": "Pratyusha (Ria) Kalluri"
+    },
+    {
+      "url": "https://www.linkedin.com/in/sdk12345/",
+      "text": "Sepandar Kamvar"
+    },
+    {
+      "url": "https://fereshte-khani.github.io",
+      "text": "Fereshte Khani"
+    },
+    {
+      "url": "https://omarkhattab.com",
+      "text": "Omar Khattab"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~klein/",
+      "text": "Dan Klein"
+    },
+    {
+      "url": "https://koh.pw",
+      "text": "Pang Wei Koh"
+    },
+    {
+      "url": "https://www.linkedin.com/in/heeyoung-lee-7a2ab723/",
+      "text": "Heeyoung Lee"
+    },
+    {
+      "url": "https://www.coalas-lab.com/elisakreiss",
+      "text": "Elisa Kreiss"
+    },
+    {
+      "url": "https://urvashik.github.io/",
+      "text": "Urvashi Khandelwal"
+    },
+    {
+      "url": "https://ananyakumar.wordpress.com/",
+      "text": "Ananya Kumar"
+    },
+    {
+      "url": "https://minalee-research.github.io/",
+      "text": "Mina Lee"
+    },
+    {
+      "url": "https://www.mit.edu/~rplevy/",
+      "text": "Roger Levy"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~bdlijiwei/",
+      "text": "Jiwei Li"
+    },
+    {
+      "url": "https://www.lxuechen.com/",
+      "text": "Xuechen Li"
+    },
+    {
+      "url": "https://yiweiluo.github.io",
+      "text": "Yiwei Luo"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~lmthang/",
+      "text": "Thang Luong"
+    },
+    {
+      "url": "http://nlp.stanford.edu/~wcmac/",
+      "text": "Bill MacCartney"
+    },
+    {
+      "url": "http://www.ling.ohio-state.edu/~mcdm/",
+      "text": "Marie-Catherine de Marneffe"
+    },
+    {
+      "url": "https://eric-mitchell.github.io",
+      "text": "Eric Mitchell"
+    },
+    {
+      "url": "https://wmonroeiv.github.io/",
+      "text": "Will Monroe"
+    },
+    {
+      "url": "http://www.robertmunro.com/",
+      "text": "Rob Monarch"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mehradmoradshahi/",
+      "text": "Mehrad Moradshahi"
+    },
+    {
+      "url": "https://cs.stanford.edu/~muj/",
+      "text": "Jesse Mu"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~isabelvp/",
+      "text": "Isabel Papadimitriou"
+    },
+    {
+      "url": "https://ashwinparanjape.github.io",
+      "text": "Ashwin Paranjape"
+    },
+    {
+      "url": "http://cs.stanford.edu/~ppasupat/",
+      "text": "Panupong Pasupat"
+    },
+    {
+      "url": "https://evaportelance.github.io/",
+      "text": "Eva Portelance"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rpryzant/",
+      "text": "Reid Pryzant"
+    },
+    {
+      "url": "http://qipeng.me/",
+      "text": "Peng Qi"
+    },
+    {
+      "url": "http://www.linkedin.com/profile/view?id=13798079",
+      "text": "Daniel Ramage"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chetanyarastogi",
+      "text": "Chetanya Rastogi"
+    },
+    {
+      "url": "https://www.resunay.com/",
+      "text": "Nay San"
+    },
+    {
+      "url": "http://sebschu.com/",
+      "text": "Sebastian Schuster"
+    },
+    {
+      "url": "http://cs.stanford.edu/people/abisee/",
+      "text": "Abi See"
+    },
+    {
+      "url": "http://web.stanford.edu/~natalias/",
+      "text": "Natalia Silveira"
+    },
+    {
+      "url": "http://ai.stanford.edu/~rion/",
+      "text": "Rion Snow"
+    },
+    {
+      "url": "http://www.socher.org",
+      "text": "Richard Socher"
+    },
+    {
+      "url": "https://dansosa.me/",
+      "text": "Dan Sosa"
+    },
+    {
+      "url": "http://cs.stanford.edu/~valentin/",
+      "text": "Valentin Spitkovsky"
+    },
+    {
+      "url": "https://jsteinhardt.stat.berkeley.edu",
+      "text": "Jacob Steinhardt"
+    },
+    {
+      "url": "http://research.google.com/pubs/author37810.html",
+      "text": "Yun-Hsuan Sung"
+    },
+    {
+      "url": "https://www.rohantaori.com/",
+      "text": "Rohan Taori"
+    },
+    {
+      "url": "http://alextamkin.com",
+      "text": "Alex Tamkin"
+    },
+    {
+      "url": "http://nlp.stanford.edu/kristina/",
+      "text": "Kristina Toutanova"
+    },
+    {
+      "url": "https://www.linkedin.com/in/huihsintseng",
+      "text": "Huihsin Tseng"
+    },
+    {
+      "url": "https://www.linkedin.com/in/adamvogel/",
+      "text": "Adam Vogel"
+    },
+    {
+      "url": "https://faculty.wcas.northwestern.edu/robvoigt/",
+      "text": "Rob Voigt"
+    },
+    {
+      "url": "http://cs.stanford.edu/people/mengqiu/",
+      "text": "Mengqiu Wang"
+    },
+    {
+      "url": "http://www.sidaw.xyz",
+      "text": "Sida Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julia-isabel-white",
+      "text": "Julia White"
+    },
+    {
+      "url": "https://cs.stanford.edu/~eix/",
+      "text": "Sang Michael Xie"
+    },
+    {
+      "url": "https://cs.stanford.edu/~zxie/",
+      "text": "Ziang Xie"
+    },
+    {
+      "url": "https://web.stanford.edu/~silei/",
+      "text": "Silei Xu"
+    },
+    {
+      "url": "http://cs.stanford.edu/~myasu",
+      "text": "Michihiro Yasunaga"
+    },
+    {
+      "url": "http://yuhao.im/",
+      "text": "Yuhao Zhang"
+    },
+    {
+      "url": "https://github.com/vadam5",
+      "text": "Virginia  Adams"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ananthagarwal/",
+      "text": "Ananth Agarwal"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=TNWwJ-UAAAAJ&hl=en",
+      "text": "Galen Andrew"
+    },
+    {
+      "url": "https://ruth-ann.github.io/",
+      "text": "Ruth-Ann Armstrong"
+    },
+    {
+      "url": "https://www.linkedin.com/in/steven-bills/",
+      "text": "Steven Bills"
+    },
+    {
+      "url": "https://www.linkedin.com/in/heather-pei-chun-chen-58a31a50/",
+      "text": "Pei-Chun (Heather) Chen"
+    },
+    {
+      "url": "http://www.ethanachi.com",
+      "text": "Ethan A. Chi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/schopra8/",
+      "text": "Sahil Chopra"
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-clausen-04992b28/",
+      "text": "David Clausen"
+    },
+    {
+      "url": "https://www.linkedin.com/in/miriam-connor-719b6b63/",
+      "text": "Miriam Connor"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nathandass/",
+      "text": "Nathan Dass"
+    },
+    {
+      "url": "https://www.linkedin.com/in/naomieigbe/",
+      "text": "Naomi Eigbe"
+    },
+    {
+      "url": "https://www.mihaileric.com/",
+      "text": "Mihail Eric"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mganjoo/",
+      "text": "Milind Ganjoo"
+    },
+    {
+      "url": "https://www.linkedin.com/in/grenager",
+      "text": "Teg Grenager"
+    },
+    {
+      "url": "https://www.linkedin.com/in/raghav-gupta-59777b59/",
+      "text": "Raghav Gupta"
+    },
+    {
+      "url": "https://www.linkedin.com/in/surbs/",
+      "text": "Surabhi Gupta"
+    },
+    {
+      "url": "http://cs.stanford.edu/~agusev",
+      "text": "Andrey Gusev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/dlwhall",
+      "text": "David Hall"
+    },
+    {
+      "url": "http://ai.stanford.edu/~ehhuang",
+      "text": "Eric H. Huang"
+    },
+    {
+      "url": "https://kailihuang.com/",
+      "text": "Kaili Huang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/thad-hughes/?originalSubdomain=ca",
+      "text": "Thad Hughes"
+    },
+    {
+      "url": "https://hjian42.github.io",
+      "text": "Hang Jiang"
+    },
+    {
+      "url": "https://www.akeppler.com/",
+      "text": "Adam Keppler"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~kamatha/",
+      "text": "Amita Kamath"
+    },
+    {
+      "url": "http://cs.stanford.edu/people/stefank/",
+      "text": "Stefan Krawczyk"
+    },
+    {
+      "url": "https://www.linkedin.com/in/vijay0/",
+      "text": "Vijay Krishnan"
+    },
+    {
+      "url": "http://risujin.org/",
+      "text": "Michael Levin"
+    },
+    {
+      "url": "https://lucy3.github.io/",
+      "text": "Lucy Li"
+    },
+    {
+      "url": "https://siyan-sylvia-li.com/",
+      "text": "Siyan Li"
+    },
+    {
+      "url": "http://madelineliao.com",
+      "text": "Madeline Liao"
+    },
+    {
+      "url": "http://www.linkedin.com/in/klopyrev",
+      "text": "Konstantin Lopyrev"
+    },
+    {
+      "url": "https://linkedin.com/in/hansonhxlu",
+      "text": "Hanson Lu"
+    },
+    {
+      "url": "http://www.mikemintz.com/",
+      "text": "Mike Mintz"
+    },
+    {
+      "url": "http://www.cs.stanford.edu/~wmorgan/",
+      "text": "William Morgan"
+    },
+    {
+      "url": "https://muzny.github.io/",
+      "text": "Felix Muzny"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julia-neidert/overlay/about-this-profile/",
+      "text": "Julia (Neidert) Neizonek"
+    },
+    {
+      "url": "http://blnewman.com",
+      "text": "Benjamin Newman"
+    },
+    {
+      "url": "http://www.jamienicolson.com/",
+      "text": "Jamie Nicolson"
+    },
+    {
+      "url": "https://www.linkedin.com/in/alex-perelygin-59091040/",
+      "text": "Alex Perelygin"
+    },
+    {
+      "url": "http://cs.stanford.edu/~hyhieu/",
+      "text": "Hieu Pham"
+    },
+    {
+      "url": "http://web.stanford.edu/~melvinj/",
+      "text": "Melvin Johnson Premkumar"
+    },
+    {
+      "url": "http://nlp.stanford.edu/~rkarthik",
+      "text": "Karthik Raghunathan"
+    },
+    {
+      "url": "https://www.linkedin.com/in/abhi-rast/",
+      "text": "Abhinav Rastogi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/kevin-reschke-0497a111/",
+      "text": "Kevin Reschke"
+    },
+    {
+      "url": "https://www.linkedin.com/in/kaushik95",
+      "text": "Kaushik Ram Sadagopan"
+    },
+    {
+      "url": "https://www.linkedin.com/in/conalsathi/",
+      "text": "Conal Sathi"
+    },
+    {
+      "url": "http://www.tgsido.com",
+      "text": "TG Sido"
+    },
+    {
+      "url": "https://kendrickshen.com",
+      "text": "Kendrick Shen"
+    },
+    {
+      "url": "http://kaishengtai.github.io",
+      "text": "Kai Sheng Tai"
+    },
+    {
+      "url": "https://vshrivas.github.io/",
+      "text": "Vaish Shrivastava"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jsmarr/",
+      "text": "Joseph Smarr"
+    },
+    {
+      "url": "http://jilliantang.com/",
+      "text": "Jillian Tang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julie-tibshirani/",
+      "text": "Julie Tibshirani"
+    },
+    {
+      "url": "https://www.linkedin.com/in/connortoups",
+      "text": "Connor Toups"
+    },
+    {
+      "url": "https://www.linkedin.com/in/danny-tse/",
+      "text": "Danny Tse"
+    },
+    {
+      "url": "https://www.linkedin.com/in/catalinvoss",
+      "text": "Catalin Voss"
+    },
+    {
+      "url": "http://www.ai.sri.com/~yeh/",
+      "text": "Eric Yeh"
+    },
+    {
+      "url": "https://www.linkedin.com/in/akhilayerukola/",
+      "text": "Akhila Yerukola"
+    },
+    {
+      "url": "http://www.stevenyoo.com/",
+      "text": "Steven Woonyeon Yoo"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~zijwang",
+      "text": "Zijian Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jeanwu/",
+      "text": "Jean Wu"
+    },
+    {
+      "url": "http://zen-wu.social/",
+      "text": "Zhengxuan Wu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/williamxz/",
+      "text": "William Zhang"
+    },
+    {
+      "url": "https://yianzhang.github.io/",
+      "text": "Yian Zhang"
+    },
+    {
+      "url": "https://cs.stanford.edu/~yuhuiz/",
+      "text": "Yuhui Zhang"
+    },
+    {
+      "url": "https://colinzhaoust.github.io/",
+      "text": "Xinran Zhao"
+    },
+    {
+      "url": "http://www.victorzhong.com",
+      "text": "Victor Zhong"
+    },
+    {
+      "url": "http://www-nlp.stanford.edu/joberant/",
+      "text": "Jonathan Berant"
+    },
+    {
+      "url": "http://bethard.faculty.arizona.edu/",
+      "text": "Steven Bethard"
+    },
+    {
+      "url": "https://federicobianchi.io/",
+      "text": "Federico Bianchi"
+    },
+    {
+      "url": "https://atcbosselut.github.io/",
+      "text": "Antoine Bosselut"
+    },
+    {
+      "url": "https://dallascard.github.io/",
+      "text": "Dallas Card"
+    },
+    {
+      "url": "https://niladri-chatterji.github.io/",
+      "text": "Niladri Chatterji"
+    },
+    {
+      "url": "http://dmcer.net/",
+      "text": "Daniel Cer"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mona-diab-55946614/",
+      "text": "Mona Diab"
+    },
+    {
+      "url": "https://chrisdonahue.com",
+      "text": "Chris Donahue"
+    },
+    {
+      "url": "https://esdurmus.github.io",
+      "text": "Esin Durmus"
+    },
+    {
+      "url": "https://anjalief.github.io/",
+      "text": "Anjalie Field"
+    },
+    {
+      "url": "https://matthias.gerstgrasser.net/",
+      "text": "Matthias Gerstgrasser"
+    },
+    {
+      "url": "http://homepages.inf.ed.ac.uk/sgwater/",
+      "text": "Sharon Goldwater"
+    },
+    {
+      "url": "https://thashim.github.io/",
+      "text": "Tatsunori Hashimoto"
+    },
+    {
+      "url": "https://hhexiy.github.io/",
+      "text": "He He"
+    },
+    {
+      "url": "https://kheafield.com/",
+      "text": "Kenneth Heafield"
+    },
+    {
+      "url": "http://faculty.cse.tamu.edu/huangrh/",
+      "text": "Ruihong Huang"
+    },
+    {
+      "url": "https://jurgens.people.si.umich.edu/",
+      "text": "David Jurgens"
+    },
+    {
+      "url": "http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/",
+      "text": "Jonas Kuhn"
+    },
+    {
+      "url": "https://viveksck.github.io",
+      "text": "Vivek Kulkarni"
+    },
+    {
+      "url": "https://yoavlevine.com/",
+      "text": "Yoav Levine"
+    },
+    {
+      "url": "https://mahowak.github.io",
+      "text": "Kyle Mahowald"
+    },
+    {
+      "url": "http://nlp.stanford.edu/~mcclosky/",
+      "text": "David McClosky"
+    },
+    {
+      "url": "https://www.cs.cornell.edu/~cristian/",
+      "text": "Cristian Danescu-Niculescu-Mizil"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ani-nenkova-6223b9212/",
+      "text": "Ani Nenkova"
+    },
+    {
+      "url": "http://www.nlpado.de/~sebastian",
+      "text": "Sebastian Pad\u00f3"
+    },
+    {
+      "url": "https://perswww.kuleuven.be/~u0042527/",
+      "text": "Yves Peirsman"
+    },
+    {
+      "url": "https://nlp.stanford.edu/~jpennin/",
+      "text": "Jeffrey Pennington"
+    },
+    {
+      "url": "http://www.cs.stanford.edu/~vinod/",
+      "text": "Vinodkumar Prabhakaran"
+    },
+    {
+      "url": "http://clic.ub.edu/en/users/marta-recasens",
+      "text": "Marta Recasens"
+    },
+    {
+      "url": "http://sivareddy.in",
+      "text": "Siva Reddy"
+    },
+    {
+      "url": "https://eugeniarho.com/",
+      "text": "Eugenia H. Rho"
+    },
+    {
+      "url": "https://shibanisanturkar.com/",
+      "text": "Shibani Santurkar"
+    },
+    {
+      "url": "https://sites.google.com/site/shixiaolin/",
+      "text": "Xiaolin Shi"
+    },
+    {
+      "url": "http://svivek.com/",
+      "text": "Vivek Srikumar"
+    },
+    {
+      "url": "https://homes.cs.washington.edu/~thickstn/",
+      "text": "John Thickstun"
+    },
+    {
+      "url": "http://people.csail.mit.edu/tsipras/",
+      "text": "Dimitris Tsipras"
+    },
+    {
+      "url": "https://homes.cs.washington.edu/~yuliats/",
+      "text": "Yulia Tsvetkov"
+    },
+    {
+      "url": "https://yuhuaiwu.github.io",
+      "text": "Yuhuai (Tony) Wu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jiahong-yuan-79046715/",
+      "text": "Jiahong Yuan"
+    },
+    {
+      "url": "https://tisjune.github.io/",
+      "text": "Justine Zhang"
+    },
+    {
+      "url": "http://ryanachi.com/",
+      "text": "Ryan Chi"
+    },
+    {
+      "url": "https://i-gao.github.io/",
+      "text": "Irene Gao"
+    },
+    {
+      "url": "http://www.foldl.me",
+      "text": "Jon Gauthier"
+    },
+    {
+      "url": "http://www.aria42.com/",
+      "text": "Aria Haghighi"
+    },
+    {
+      "url": "http://www.cs.washington.edu/homes/chloe/",
+      "text": "Chloe Kiddon"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jiayi-li-54307617b",
+      "text": "Jiayi Li"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julia-neidert/overlay/about-this-profile/",
+      "text": "Julia (Neidert) Neizonek"
+    },
+    {
+      "url": "http://www1.cs.columbia.edu/~kristen/",
+      "text": "Kristen Parton"
+    },
+    {
+      "url": "http://elipugh.github.io/",
+      "text": "Eli Pugh"
+    },
+    {
+      "url": "https://web.stanford.edu/~meghas/",
+      "text": "Megha Srivastava"
+    },
+    {
+      "url": "https://www.linkedin.com/in/keenon-werling-aa068bb0",
+      "text": "Keenon Werling"
+    },
+    {
+      "url": "https://www.facebook.com/chris.cox",
+      "text": "Chris(topher) Cox"
+    },
+    {
+      "url": "https://sites.google.com/site/annanrafferty/",
+      "text": "Anna Rafferty"
+    },
+    {
+      "url": "https://candicegjing.github.io",
+      "text": "Jing Ge"
+    },
+    {
+      "url": "http://ixa2.si.ehu.es/eneko/",
+      "text": "Eneko Agirre"
+    },
+    {
+      "url": "http://www.cse.iitb.ac.in/~pb/",
+      "text": "Pushpak Bhattacharyya"
+    },
+    {
+      "url": "https://www.cl.cam.ac.uk/~pjb48/",
+      "text": "Paula Buttery"
+    },
+    {
+      "url": "http://ir.hit.edu.cn/~car/",
+      "text": "Wanxiang Che"
+    },
+    {
+      "url": "http://www.cs.washington.edu/homes/pedrod/",
+      "text": "Pedro Domingos"
+    },
+    {
+      "url": "https://ling.franklin.uga.edu/directory/people/john-hale",
+      "text": "John Hale"
+    },
+    {
+      "url": "http://www.lingvi.st/",
+      "text": "Jussi Karlgren"
+    },
+    {
+      "url": "http://ttic.edu/livescu",
+      "text": "Karen Livescu"
+    },
+    {
+      "url": "http://clcl.unige.ch",
+      "text": "Paula Merlo"
+    },
+    {
+      "url": "https://sites.google.com/site/oyamasatoshi/",
+      "text": "Satoshi Oyama"
+    },
+    {
+      "url": "http://www.usfca.edu/Faculty/Cindi_Thompson/",
+      "text": "Cindi Thompson"
+    },
+    {
+      "url": "https://martijnbartelds.nl/",
+      "text": "Martijn Bartelds"
+    },
+    {
+      "url": "https://kareldo.github.io",
+      "text": "Karel D'Oosterlinck"
+    },
+    {
+      "url": "https://valentinhofmann.github.io/",
+      "text": "Valentin Hofmann"
+    },
+    {
+      "url": "http://drjinghuang.com/",
+      "text": "Jing Huang"
+    },
+    {
+      "url": "https://www.seanre.com/",
+      "text": "Xiang Ren"
+    },
+    {
+      "url": "https://cs.stanford.edu/~diyiy/",
+      "text": "Diyi Yang"
+    }
+  ],
+  "images": [
+    {
+      "src": "/static/img/people/manning.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/jurafsky.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/liang.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/potts.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/hashimoto.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/lam.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/yang.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/goodman.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/kiela.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/demszky.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/tengyu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/mirhoseini.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/gwilliams.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/shain.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/hawkins.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/people/ludwig.jpg",
+      "alt": ""
+    }
+  ]
+}

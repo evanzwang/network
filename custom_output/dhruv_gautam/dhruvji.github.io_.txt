@@ -1,0 +1,40 @@
+  <a id="blogLink" href="blogs.html">Blogs</a>
+      Dhruv Gautam 🧸
+        [Blogs](blogs.html)
+        [Google Scholar](https://scholar.google.com/citations?user=UzDpwXwAAAAJ&hl=en)
+      Hi! I'm an undergrad at UC Berkeley studying Computer Science.
+      My Current Interests Include:
+        Neural Network Intepretability
+        Reinforcement Learning
+        Code Generation
+        Interwar Eastern Europe
+        Fresh Expo Markers
+      I currently spend my time researching at
+        [BAIR](https://bair.berkeley.edu/)
+        . I also work on creative ML projects 
+        with friends in
+        [Launchpad](https://launchpad.berkeley.edu/)
+        and explore cryptography with friends in
+        [Blockchain at Berkeley](https://blockchain.studentorg.berkeley.edu/)
+        .
+        Previously, I've worked at
+        [Microsoft Research](https://www.microsoft.com/en-us/research/group/dataai/)
+        on post-training, code generation, and agents, and in a couple groups within Berkeley's
+        [SkyLab](https://sky.cs.berkeley.edu/)
+        on consensus and distributed systems.
+      Feel free to reach out to:
+        [dhruvgautam (at) berkeley (dot) edu](mailto:dhruvgautam (at) berkeley (dot) edu)
+      And you can follow me on Twitter at:
+        [@dhrvji](https://twitter.com/dhrvji)
+    Preprints & Publications
+    WebGauntlet: Measuring Instruction Following and Robustness for Web Agents
+    Sasank Aduri,
+    Dhruv Gautam
+    Under Review.
+    SSEAL: Self-Supervised Explorative Agent Learning
+    Evan Frick, Dylan Goetting,
+    Under Review. 1st Place in UC Berkeley LLM Agents Hackathon.
+    RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code
+    Dhruv Gautam*
+    , Spandan Garg, Jinu Jang, Neel Sundaresan, Roshanak Zilouchian Moghaddam
+    ICLR 2025

@@ -1,0 +1,609 @@
+{
+  "title": "Launchpad",
+  "meta_description": "",
+  "main_content": "About Building a community of problem solvers with intelligent software Mission We believe young engineers have great potential to tackle problems with machine learning. To take part in this fast growing movement of advancing intelligent software, we build a community of passionate students who have brilliant skills and ideas as well as a desire to learn about artificial intelligence. Values As a community, we embody ideals that foster an inclusive and welcoming environment for engineers. Craft We value not only past experience, but also intuition and the ability to think strategically. Dedication Members are chosen because they have demonstrated an incredible work ethic. Integrity We expect members to be genuinely good people at heart. Executives Zane Mogannam President Aditya Anantaraman External VP Arz Bshara Internal VP Annabelle Park VP of Operations Iris Zhou VP of Membership Christy Huang VP of Membership Xuan Zhang VP of Finance Arjun Banerjee Head of Education Divit Rawal Head of Education Project Leaders Amos You Kiran Suresh Neel Kolhe Rohan Gopalam Sunith Vallabhaneni Members Alena Chao Alena Subach Anaisha Das Andrea Dao Andrew Choy Andy Peng Aneri Sheth Anirudh Kotamraju Anish Sasanur Annie Lee Annie Zhang Carolann Dong Chloe Wong Cyprian Zander Dhruv Gautam Dylan Goetting Eric Liu Erica Liu George Flint Jade Wang Jay Chou Jennifer Zhao Jiawei Tang Julia Isaac Justin Li Kailash Ranganathan Kathryn Sun Mischa Mikami Myrah Shah Neha Ravikumar Nikhil Pitta Oliver Yangluo Chen Pranav Subbarayan Rahul Vijay Ronak Lal Sinha Ryan Tabrizi Sebastian Zhao Selena Zhao Shraya Pal Sophie Xie Spencer Kim Tanush Talati Tony Xin Vikram Bhamre",
+  "links": [
+    {
+      "url": "mailto:zanemogannam@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/zane-mogannam-29991822b/",
+      "text": ""
+    },
+    {
+      "url": "mailto:aditya.anant@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/adit-anant/",
+      "text": ""
+    },
+    {
+      "url": "mailto:arzbshara@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:annpark@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/annabelle-park-176838252/",
+      "text": ""
+    },
+    {
+      "url": "mailto:iris.zhou@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/iriszhou-iyz/",
+      "text": ""
+    },
+    {
+      "url": "mailto:christyhuang@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:xuanzhang@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:abaner@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:divit.rawal@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/divit-rawal",
+      "text": ""
+    },
+    {
+      "url": "mailto:amosyou@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/amosyou",
+      "text": ""
+    },
+    {
+      "url": "mailto:kirans@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:neelkolhe@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:rohangopalam@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:sunithv@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:alenachao@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/alenachao/",
+      "text": ""
+    },
+    {
+      "url": "mailto:alena.subach@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:anaishadas@gmail.com",
+      "text": ""
+    },
+    {
+      "url": "mailto:andrea_dao@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:andrewchoy@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/andrewchoycs",
+      "text": ""
+    },
+    {
+      "url": "mailto:andypeng@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:anerisheth@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:akotamraju@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:anishsasanur@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://monkeytype.com/",
+      "text": ""
+    },
+    {
+      "url": "mailto:annielee1157@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/annielee1157/",
+      "text": ""
+    },
+    {
+      "url": "mailto:anniezhang2288@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/anniezhang2288/",
+      "text": ""
+    },
+    {
+      "url": "mailto:carolanndong@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://linkedin.com/in/carolann-dong",
+      "text": ""
+    },
+    {
+      "url": "mailto:chloe.wong@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/chloe-wong-sy/",
+      "text": ""
+    },
+    {
+      "url": "mailto:cyprian.zander@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/cyprian-zander-535b95210/",
+      "text": ""
+    },
+    {
+      "url": "mailto:dhruvgautam@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/d-gautam/",
+      "text": ""
+    },
+    {
+      "url": "mailto:Dylangoetting@gmail.com",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/dylan-goetting-749389134/",
+      "text": ""
+    },
+    {
+      "url": "mailto:erikiceliu@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/eric-liu-47a0951a9/",
+      "text": ""
+    },
+    {
+      "url": "mailto:ericaliu27@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:georgeflint@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:jadewang26@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jadewang26/",
+      "text": ""
+    },
+    {
+      "url": "mailto:jaychou@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jaychou0129/",
+      "text": ""
+    },
+    {
+      "url": "mailto:jennifer-zhao@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jennifer-zhao-9737341a7/",
+      "text": ""
+    },
+    {
+      "url": "mailto:jiaweitang@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jiaweitang22",
+      "text": ""
+    },
+    {
+      "url": "mailto:juliaisaac@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/juliaisaac9",
+      "text": ""
+    },
+    {
+      "url": "mailto:justinmli@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/justin-m-li/",
+      "text": ""
+    },
+    {
+      "url": "mailto:kranganathan@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:kathrynsun19@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:mmikami@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/mischa-mikami/",
+      "text": ""
+    },
+    {
+      "url": "mailto:myrahshah@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/myrahshah/",
+      "text": ""
+    },
+    {
+      "url": "mailto:rmneha@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:nikhil.pitta@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/nikhil-pitta/",
+      "text": ""
+    },
+    {
+      "url": "mailto:oliver_chen@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:prnvsbbryn@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/pranav-subbarayan",
+      "text": ""
+    },
+    {
+      "url": "mailto:rahulvijay04@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:ronniey_l@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:rtabrizi@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/ryantabrizi/",
+      "text": ""
+    },
+    {
+      "url": "mailto:sebbyzhao@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "www.linkedin.com/in/sebbyzhao",
+      "text": ""
+    },
+    {
+      "url": "mailto:selenazhao@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/selena-zhao/",
+      "text": ""
+    },
+    {
+      "url": "mailto:palshraya@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:sxie2@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:spencer_kim@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "mailto:ttalati@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/ttalati",
+      "text": ""
+    },
+    {
+      "url": "mailto:tonyxin@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/tony-xin/",
+      "text": ""
+    },
+    {
+      "url": "mailto:vikrambhamre@berkeley.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/vikram-bhamre/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/static/img/about_photo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2170_bDtaua0.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3274.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2949.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1960_8WAAyMa.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2246_jNFd89Z.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2562.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3276.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2709.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2960.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1461_PFDS71f.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/771_UCDR6VJ.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/static/img/logo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3302_qdxliiE.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2570.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2239.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3104.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3233.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3424.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2651.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2583_wiDcNQM.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2005.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1661.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2192_z6V5MJa.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1424_38a2gea.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2501.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2328_d94X1c9.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1844_2FzRTcZ.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1959_ItfU0Gd.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2181_GE60B13.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1419_yALmvnV.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1682.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2561.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1781_Fu8dQbs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1820_J3FQEkV.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1029_AudXh3U.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1860_Vyvuxxg.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2752.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1279.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2718.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1877_0p8Afy1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2692_8Y5aWxP.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2687_m4d28vJ.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1490_ymxu1KE.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2951.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/789.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3072.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2860_i1jDRCd.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1891.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3325_dwxkuis.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/858.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1804.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1453.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/2184_K6yog9W.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1875_N2vkfGn.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/static/img/logo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/1006_ZtoJ7wW.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/988_I2Rayay.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ocf.berkeley.edu/~launchpad/media/uploads/profile_pictures/3024.JPG",
+      "alt": ""
+    }
+  ]
+}

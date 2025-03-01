@@ -1,0 +1,201 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fmikaelhaji)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                      mikaelhaji
+                          [Follow](/login?return_to=https%3A%2F%2Fgithub.com%2Fmikaelhaji)
+                      25
+                      0
+                      98
+                            More
+                                [Overview](/mikaelhaji)
+                                [Projects](/mikaelhaji?tab=projects)
+                                [Packages](/mikaelhaji?tab=packages)
+                                [Stars](/mikaelhaji?tab=stars)
+                                🧠
+                                BCI'ing
+                        Mikael Haji
+                            20
+                            followers
+                          ·
+                            14
+                            following
+                          toronto
+                          [mikaelhaji.com](http://mikaelhaji.com)
+                            X
+                          [@mikaelhaji](https://x.com/mikaelhaji)
+                      [Achievements](/mikaelhaji?tab=achievements)
+                    Highlights
+                        Pro
+                      Block or Report
+                            Block or report mikaelhaji
+                              Block user
+                              Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about
+                                [blocking users](https://docs.github.com/articles/blocking-a-user-from-your-personal-account)
+                              You must be logged in to block users.
+                                  Add an optional note:
+                                  Please don't include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.
+                            Report abuse
+                            Contact GitHub support about this user’s behavior.
+        Learn more about
+                              [reporting abuse](https://docs.github.com/articles/reporting-abuse-or-spam)
+                          /
+                          README
+                          .md
+                          yo, i'm
+                            [mikael](https://mikaelhaji.com)
+                            !
+                          🚀
+                            who am i?
+                        i'm a 19yo ee who enjoys building things. currently obsessed with everything chips.
+                          👨‍💻
+                            currently, i am:
+                          learning EE from first principles @ the university of waterloo w/ the
+                            $120K schulich leaders scholarship
+                            [[press release]](https://uwaterloo.ca/news/waterloo-welcomes-2023-cohort-schulich-leaders)
+                          building a
+                            10μm chip fab
+                            in my dorm room, aiming to create an open-source chip fab process for
+                            <$10K and ~1,000 transistors
+                            [[announcement]](https://x.com/mikaelhaji/status/1829658840931197364)
+                            [[memo]](https://tobiasgm.notion.site/The-Waterloo-Hacker-Fab-dce5e20b9f064137b4420ccc09823bc1)
+                          designing ASICs--currently
+                            burning a GPT-2 layer on silicon
+                            , with past projects including a tpu-like systolic array & and a neuromorphic chip for neural implants—ISSCC pending
+                            [[gpt2 repo WIP]](https://github.com/mikaelhaji/gpt2.v)
+                            [[sys array repo]](https://github.com/mikaelhaji)
+                          pursuing scrappy hardware & software projects
+                            [[portfolio]](https://mikael-haji.notion.site/portfolio)
+                          🌐
+                            socials:
+                      Pinned
+                          Loading
+                                      n1-codec
+                                  Public
+                              a highly efficient compression algorithm for the n1 implant (neuralink's compression challenge)
+                                  Jupyter Notebook
+                                      UnsupervisedArtefactDetection
+                              Eye-Blink Artefact Detection From Low-Cost EEG Brain Computer Interface with k-means++
+                                  Python
+                                      MotorImagery
+                              Motor Imagery System Using a Low-Cost EEG Brain Computer Interface.
+                                      Emotion300
+                              The Emotion 300 Project: An Emotion Classification Messaging App w/ P300 Speller.
+                                  JavaScript
+                                      brainflow
+                              Forked from
+                                [brainflow-dev/brainflow](/brainflow-dev/brainflow)
+                              BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
+                                  C++
+                                      P300_GUI
+                              Front-End Web Dev of P300 Speller GUI.
+                      Something went wrong, please refresh the page to try again.
+                        [GitHub status page](https://www.githubstatus.com/)
+                        or
+                        [contact support](/contact)
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

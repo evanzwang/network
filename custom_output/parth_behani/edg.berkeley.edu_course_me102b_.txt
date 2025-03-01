@@ -1,0 +1,294 @@
+            Header Search Widget
+                  Search this website
+          Design research lab studying physical robot interaction
+              Research
+              Publications
+              Facilities
+              People
+              Teaching
+              For Members
+          Mechatronics Design
+          ME102B provides students with an opportunity to integrate mechanical and electrical systems to create “smart” mechatronics devices. Over the course, students become familiar with event-driven programming, common machine elements, and electromechanical actuators with drive electronics.
+          The course culminates in an Inventor’s Open House where students demonstrate their projects. This page highlights these projects. An archive of project videos from all years (that Prof. Stuart taught the class) can be found on the class channel of
+            [Youtube playlists](https://www.youtube.com/channel/UCufwZ-1sJ40FR6EOMoFBZkg/playlists)
+            . More information about each semester provided below, including project reports.
+              2024 Fall Semester
+                This slideshow requires JavaScript.
+                Once again, student projects were partially funded by the
+                  [ASME MakerGrant program](https://asme.berkeley.edu/student-resources-2/asme-maker-grant/)
+                  .
+                During the live Showcase, a set of impartial judges selected award winners from among the class. The categories and awardees are:
+                  Mechanical Design Award
+                  : Team 9 (runner up: 3 and 16)
+                  Electromechanical Design (MEECS) Award
+                  : Team 7 (runner up: 13)
+                  Design Innovation Award
+                  : Team 8 (runner up: 11)
+                  Societal Impact Award
+                  : Team 10 (runner up: 12)
+                  Commercial Value Entrepreneurship Award
+                  : Team 26 (runner up: 32)
+                A playlist of video descriptions created for each project can be viewed at this
+                  [Youtube playlist](https://youtube.com/playlist?list=PLZtZP5ZYah6dIO80ZI-cUWQaid1NxaIQw&si=Rd88ZfrO_iygqYm_)
+                  . See below for the complete set of the project reports.
+                        Group 1: Automatic Drink Dispenser
+                        [Report](http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team1.pdf)
+                        Group 2: Winnie the Robot
+                        Group 3: KinetiHoop
+                        Group 4: Automated Rx Scheduler
+                        Group 5: Sunlight 360
+                        Group 6: Leveling Tray Manual
+                        Group 7: Tea Maker
+                        Group 8: Breadboard Bend Layout (BBL)
+                        Group 9: Ravioli Machine
+                        Group 10: Ollie the Trash Robot
+                        Group 11: Robotic Fish
+                        Group 12: Little Drummer Bot
+                        Group 13: Wack O Mole
+                        Group 14: Mono-legged hopper with jump controller
+                        (a)
+                        (b)
+                        Group 15: Sand Table
+                        Group 16: Remote Controlled Maze
+                        Group 17: IntelliChess
+                        Group 18: Active Wheel Camber Control
+                        Group 19: Assistive Rotating Toolbox
+                        Group 20: Automated Pill Dispenser
+                        Group 21: Articulated Compass
+                        Group 22: Tabletop maze game
+                        Group 23: Smart Door Lock
+                        Group 24: Kinetic Sand Table
+                        Group 25: Sensor-based sorting lid
+                        Group 26: Powder Dispenser
+                        Group 27: Catch N’ Treat: CaN’T
+                        Group 28: Seed Planting Robot
+                        Group 29: Locomotive Plant Pot
+                        Group 30: Autonomous French Press: ‘Brewt Force’
+                        Group 31: Turret for Luncher
+                        Group 32: Motorized Optical Translation Stage
+                #tablepress-13 from cache
+              2023 Fall Semester
+                During the live Showcase, a set of impartial judges will select award winners from among the class. The categories are:
+                  : Group 29 (Runners up 27)
+                  : Group 23 (Runners up 25)
+                  : Group 30 (Runners up 17)
+                  : Group 28 (Runners up 12)
+                  : Group 5 (Runners up 24)
+                        Group 1: sPrint
+                        Group 2: Umbrella Corporate Solar Energy Harvester
+                        Group 3: Automated Blackjack Dealer
+                        Group 4: Inverted pendulum balancer
+                        Group 5: Wireless Charger Air Gap Actuation System
+                        Group 6: Automatic Card Dealer
+                        Group 7: Botanical Buddy
+                        Group 8: Couchopy
+                        Group 9: Jerry the New York Rat
+                        Group 10: Autonomous Drink Shooter
+                        Group 11: Sauce-EZ
+                        Group 12: Tears of Ocean
+                        Group 13: FAFA: Food Accessibility for All
+                        Group 14: Plant Nanny
+                        Group 15: Little Buddy Inverted Pendulum
+                        Group 16: SkyPal Automatic Telescope
+                        Group 17: Autonomous Sun Shade Tracking
+                        Group 18: Automated Tennis Ball Launcher
+                        Group 19:  Drawing Robot
+                        Group 20: Ping Pong Catcher
+                        Group 21: Golf Ball Collector and Sorter
+                        Group 22: Mechatronic Wrist
+                        Group 23: Automatic Ramen Maker
+                        Group 24: BottleRevive
+                        Group 25: Trendy Vendy
+                        Group 26: Bike Security Alarm
+                        Group 27: Prometheus
+                        Group 28: Industrial waste optimizer
+                        Group 29: Magnetic Submersible Transmission
+                        Group 30: Soft Tentacle
+                        Group 31: Buggy mini cart
+                #tablepress-12 from cache
+              2022 Fall Semester
+                The first 2/3 of the semester covered a wide range of topics, from gears to embedded programming. The last 1/3 of the semester was almost all dedicated to fulltime work on an independent team capstone project.
+                During the live Showcase, a set of impartial judges selected award winners from among the class. The winners were:
+                  : Group 12 (Runners up 9)
+                  : Group 11 (Runners up 21)
+                  : Group 19 (Runners up 18)
+                  : Group 6 (Runners up 1)
+                  : Group 5 (Runners up 28)
+                        Group 1: WalkerAssist
+                        Group 2: Pet Interaction Extravaganza
+                        Group 3: El Pinatatron
+                        Group 4: Lock Breaker
+                        Group 5: Planty Bot
+                        Group 6: Overhead Obstacle Detection Device for Visually Impaired Individuals
+                        Group 7: Cajonament
+                        Group 8: monkeybot
+                        Group 9: Continuously variable differential transmission
+                        Group 10: Horse racer game
+                        Group 11: The Auto Spice Dispenser
+                        Group 12: Autotrike
+                        Group 13: Mech-E robot
+                        Group 14: Pin Bot
+                        Group 15: Affordable Glasses Prescription
+                        Group 16: Automatic drink and mixing machine
+                        Group 17: Autonomous Cat Toy
+                        Group 18: The Porter transportation solution
+                        Group 19:  Ball Balancing Board
+                        Group 20: Walking linkage
+                        Group 21: AutonoTech
+                        Group 22: Personal Bot, Bot-ler
+                        Group 23: Automatic Pet Care Device
+                        Group 24: Snail Bot
+                        Group 26: Perfect Beer Pour Bot
+                        Group 27: Laser Light Show
+                        Group 28: Autonomous trash
+                        Group 29: TreaToss
+                        Group 30: Automated Cling Wrap Dispenser
+                #tablepress-10 from cache
+              2021 Fall Semester
+                Award winning projects from Fall 2021:
+                The showcase occurred on
+                  Wednesday, 12/8/2021 from 12-1:30pm at Jacobs Hall room 310
+                  . Attendees were able to witness the ingenuity and skill of our amazing mechanical engineering students! The event was live and in-person.
+                This semester, half of the class consisted of individual labs and assignments in order to learn specific mechatronics skills. Therefore, the project represents the second half of the semester’s work, to deepen and apply lessons in a more integrated product. This semester was also the debut of the
+                  [ASME MakerGrant](https://asme.berkeley.edu/student-resources-2/asme-maker-grant/)
+                  system, led by students in the ASME student group, which provided students with funding to help support their project realization.
+                  : Group 7, LightDisc
+                  : Group 12, Billiard Robot
+                  : Group 16, Domino Placer
+                  : Group 17, Assistive Cabinet
+                  : Group 10, Icarus Solar Seeker
+                See below for the complete set of reports and videos submitted by students this year.
+                        Group 1: Autonomous Card Sorting Robot
+                        Group 2: Roll-On-You-Bot
+                        Group 3: Kid Candy Machine
+                        Group 4: DrinkBot
+                        Group 5A: Circoloco
+                        Group 5B: Pipe Inspector
+                        Group 6: Automated Rice Dispenser
+                        Group 7: LightDiscs
+                        Group 8: Pyrovalve
+                        Group 9: Height-adjust desk
+                        Group 10: Icarus
+                        Group 11: Morphing Airfoil
+                        Group 12: Billiard Robot
+                        Group 13: Bear Fold
+                        Group 14: Fully Automated Coffee Machine
+                        Group 15: Wealth Inequality Claw Machine
+                        Group 16: Domino Placer
+                        Group 17: Assistive Cabinet
+                        Group 18: Spice-bot
+                        Group 19: High-rise Glass Cleaner
+                        Group 20: Bio-Inspired Monopedal Jumping Robot
+                        Group 21: Dishwashing robot arm
+                        Group 22: Automated Projector
+                        Group 23: UkƐ
+                        Group 24: Bike Car
+                        Group 25:
+                        Group 26: Boston Terrier
+                        Group 27: Violin-bot
+                        Group 28: Actuated Camera Platform
+                        Group 29: Bear Boost
+                        Group 30: Robotic Cat Toy
+                        Group 31: Pet Feeder Machine
+                        Group 32: Rubble Robot
+                        Group 33: Light Show
+                        Group 34: Self-Playing Guitar
+                #tablepress-5 from cache
+              2020 Fall Semester
+                This semester, the class and showcase were conducted remotely / virtually due to the COVID-19 pandemic. The teaching team included Prof. Stuart, Prof. Kazeooni and GSI Joseph Skelley. The majority of this class consisted of lab assignments using a home lab kit. This
+                  [MicroKit](https://microkit.berkeley.edu/)
+                  is a newly developed tool, featured on the front page of the first ever
+                  [ME Dept. Newsletter](https://edg.berkeley.edu/wp-content/uploads/2020/12/Mechanical-Engineering-Fall-2020-Newsletter.pdf)
+                Then, the mini-project was conducted over the last 3 weeks of class. The students chose to either produce a rough mechatronics product at home (PDF + video) or produce a more detailed mechanical design in CAD (PDF only). These projects are a part of the
+                  [Jacobs Winter Design Showcase](https://jacobsinstitute.berkeley.edu/design-showcase/)
+                  . The Jacob’s staff would like you to be able to connect with the students: “
+                  Help provide student feedback and nominate your favorite projects for our Student Projects page, using our
+                    [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSex6QaHUj0QHEXYIZ8oAjLj-oIzihsqiZB8tW933ajKvUW5HQ/viewform)
+                    – all are welcome to submit!
+                  ” This form is a great way to celebrate the wonderful achievements of the students and let them know if you were impressed with their work. Students are also encouraged to apply for the
+                  [Jacobs Institute Innovation Catalysts](https://jacobsinstitute.berkeley.edu/the-jacobs-institute-innovation-catalysts/)
+                  program to get a “Spark” or “Ignite” grant to continue working on their ideas!
+                See the complete set of reports and videos submitted by students here.
+                        Welcome
+                        Hamster Heating System
+                        Dog Bell
+                        Automated Pour-over Coffee Machine
+                        Rise and Shine
+                        Cellphone Casket Countdown Timer
+                        Mini-Excavator
+                        The “Stokowski” EZ-Conduct
+                        Gyroscope Controlled RC Car
+                        Automatic Dice Roller
+                        Hands Free Stirrer
+                        Cooling Fan for Fried Food
+                        Automatic Nail Filer
+                        ESP32 VU Meter
+                        ToastBot
+                        Ultimate Cat Feeder
+                        Automatic Window Opener and Closer
+                        Bubbles the Clown Animatronic
+                        Quarantine Buddy
+                        Automatic Tea Maker 3000
+                        The Welcomer
+                        Drink Stirrer
+                        Single-Motor Robotic Hand
+                        Merry’Go Round Recycling System
+                        Sonar Alarm Security System
+                        V-12T: Bluetooth Controlled Vehicle
+                        Dynamic Elevate
+                        Ajoy Temperature Control
+                        by Sam Johnson
+                        Package Pick-Up Mechanism
+                        Lifting Spirits
+                        Light Controller
+                        Pet Food Dispenser
+                        Simple Self-Driving Vehicle
+                        Tresspassing Alarm Security System
+                        Butter Buttler
+                        Automatic Clamping Phone Holder for Car
+                        Edge Bikes
+                        Elevator for Air Quality Sensor
+                        3D scanner
+                        Lightweight Staircase Lift
+                        Automatic Plant Watering Device
+                        Prosthetic Joint
+                        Scoop Evener
+                        Shower Temperature Controller
+                        Egg Smasher
+                        Leggy, the Legged Robot
+                        Package Detector
+                        Softball Swing Trainer Prototype
+                        Tea Steeper Prototype
+                        Temperature Operated Summer Fan
+                        Study Helper
+                        Car Autopilot System
+                        Humidifier Assistant Fan
+                        Bluetooth Blinds
+                        Line Follower Robot
+                        Haptic Mouse Bungee
+                        Micro control curtain with weather station
+                        Curtain Assistant
+                        Mini Conveyor Belt
+                        Robotic Arm Prototype with Hand Sanitizer
+                        Literally Just A Sign
+                        Motorized Window Blind
+                        Mechanical Gripper Arm with Touch Sensor
+                        Makeshift Rock Tumbler
+                        Swipe to Squeeze: No-contact Hand Sanitizer Dispenser
+                        Automatic Paper Rotor
+                        Roof Vent
+                        Boxer's Pinata
+                #tablepress-3 from cache
+              2019 Fall Semester
+                The teaching team this semester included GSI’s Wilson Torres and Sareum Kim.
+                  Pictures from ME102B showcase, Fall 2019.
+                  This semester we piloted the brand new California Mechanics for the Greater Good Design Excellence Competition.
+                Cal Athletics video highlighting the work of one student in class this semester, Matthew Messman, and his team:
+          /accordion
+                  Berkeley Engineering
+                  UC Berkeley
+                Privacy
+                Accessibility
+                Nondiscrimination
+        © 2016–2025 UC Regents  |
+          [Log in](https://edg.berkeley.edu/wp-login.php)

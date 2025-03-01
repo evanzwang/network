@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+<meta name="author" content="Nicholas R. Zwart and ISMRM">
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-CHFGG9EQQB"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+		
+			gtag('config', 'G-CHFGG9EQQB');
+		</script>
+
+        <!-- jquery 3.1.1 -->
+        <script src="/js/jquery.min.js"></script>
+
+        <!-- 3.3.7 compiled and minified CSS -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- 3.3.7 Optional theme -->
+        <link rel="stylesheet" href="/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- 3.3.7 Latest compiled and minified JavaScript -->
+        <script src="/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <!-- Word Cloud -->
+        <link rel="stylesheet" type="text/css" href="/css/jqcloud.css" />
+        <script type="text/javascript" src="/js/jqcloud-1.0.4.min.js"></script>
+        <script type="text/javascript">
+        var word_list = [
+
+            { text: "trigger", weight: 1.2 },
+
+            { text: "explored", weight: 1.2 },
+
+            { text: "optimization", weight: 3.8 },
+
+            { text: "recordings", weight: 1.2 },
+
+            { text: "phys", weight: 6.2 },
+
+            { text: "unlabeled", weight: 16.2 },
+
+            { text: "separation", weight: 2.5 },
+
+            { text: "plotted", weight: 1.2 },
+
+            { text: "indicating", weight: 1.2 },
+
+            { text: "speech", weight: 1.2 },
+
+            { text: "influencing", weight: 1.2 },
+
+            { text: "drifting", weight: 1.2 },
+
+            { text: "patterns", weight: 5.0 },
+
+            { text: "configuration", weight: 1.2 },
+
+            { text: "adjusted", weight: 1.2 },
+
+            { text: "long", weight: 1.2 },
+
+            { text: "acceptable", weight: 1.2 },
+
+            { text: "best", weight: 5.0 },
+
+            { text: "deviation", weight: 2.5 },
+
+            { text: "selected", weight: 2.5 },
+
+            { text: "whether", weight: 2.5 },
+
+            { text: "suffices", weight: 1.2 },
+
+            { text: "bars", weight: 3.8 },
+
+            { text: "patient", weight: 1.2 },
+
+            { text: "qualitatively", weight: 2.5 },
+
+            { text: "predicting", weight: 2.5 },
+
+            { text: "mathematically", weight: 1.2 },
+
+            { text: "consent", weight: 1.2 },
+
+            { text: "free", weight: 2.5 },
+
+            { text: "datapoint", weight: 3.8 },
+
+            { text: "lawrence", weight: 2.5 },
+
+            { text: "sedation", weight: 2.5 },
+
+            { text: "autocorrelation", weight: 3.8 },
+
+            { text: "abdomen", weight: 2.5 },
+
+            { text: "gamma", weight: 5.0 },
+
+            { text: "support", weight: 5.0 },
+
+            { text: "segment", weight: 13.8 },
+
+            { text: "stanford", weight: 2.5 },
+
+            { text: "labeled", weight: 21.2 },
+
+            { text: "abdominal", weight: 2.5 },
+
+            { text: "dataset", weight: 3.8 },
+
+            { text: "prediction", weight: 7.5 },
+
+            { text: "since", weight: 2.5 },
+
+            { text: "patients", weight: 2.5 },
+
+            { text: "adequate", weight: 2.5 },
+
+            { text: "breathing", weight: 21.2 },
+
+            { text: "performance", weight: 8.8 },
+
+            { text: "feasible", weight: 1.2 },
+
+            { text: "example", weight: 2.5 },
+
+            { text: "variability", weight: 2.5 },
+
+            { text: "separated", weight: 2.5 },
+
+            { text: "pediatric", weight: 2.5 },
+
+            { text: "price", weight: 1.2 },
+
+            { text: "sensor", weight: 1.2 },
+
+            { text: "experience", weight: 1.2 },
+
+            { text: "preprocessed", weight: 1.2 },
+
+            { text: "least", weight: 1.2 },
+
+            { text: "linear", weight: 3.8 },
+
+            { text: "synopsis", weight: 1.2 },
+
+            { text: "acknowledgements", weight: 1.2 },
+
+            { text: "achieved", weight: 3.8 },
+
+            { text: "mirrors", weight: 1.2 },
+
+            { text: "head", weight: 1.2 },
+
+            { text: "carl", weight: 1.2 },
+
+            { text: "error", weight: 5.0 },
+
+            { text: "randomly", weight: 5.0 },
+
+            { text: "quality", weight: 25.0 },
+
+            { text: "trained", weight: 6.2 },
+
+            { text: "voluntary", weight: 1.2 },
+
+            { text: "machine", weight: 5.0 },
+
+            { text: "unsupervised", weight: 1.2 },
+
+            { text: "gating", weight: 2.5 },
+
+            { text: "representative", weight: 2.5 },
+
+            { text: "hypothesize", weight: 2.5 },
+
+            { text: "radial", weight: 3.8 },
+
+            { text: "slow", weight: 1.2 },
+
+            { text: "slice", weight: 1.2 },
+
+            { text: "training", weight: 2.5 },
+
+            { text: "learning", weight: 3.8 },
+
+            { text: "somewhat", weight: 1.2 },
+
+            { text: "equivalent", weight: 1.2 },
+
+            { text: "clusters", weight: 7.5 },
+
+            { text: "intervals", weight: 1.2 },
+
+            { text: "dynamic", weight: 1.2 },
+
+            { text: "reconstruction", weight: 1.2 },
+
+            { text: "predictions", weight: 1.2 },
+
+            { text: "doss", weight: 1.2 },
+
+            { text: "prior", weight: 2.5 },
+
+            { text: "though", weight: 1.2 },
+
+            { text: "predicted", weight: 1.2 },
+
+            { text: "conical", weight: 1.2 },
+
+            { text: "withheld", weight: 3.8 },
+
+            { text: "establish", weight: 1.2 },
+
+            { text: "deemed", weight: 1.2 },
+
+            { text: "required", weight: 2.5 },
+
+            { text: "compromises", weight: 2.5 },
+
+            { text: "golden", weight: 3.8 },
+
+            { text: "prone", weight: 1.2 },
+
+            { text: "necessarily", weight: 1.2 },
+
+            { text: "characterized", weight: 2.5 },
+
+            { text: "chetty", weight: 1.2 },
+
+            { text: "minimally", weight: 1.2 },
+
+            { text: "accuracy", weight: 18.8 },
+
+            { text: "sampling", weight: 2.5 },
+
+            { text: "scores", weight: 2.5 },
+
+            { text: "vector", weight: 3.8 },
+
+            { text: "cycle", weight: 2.5 },
+
+            { text: "monitoring", weight: 2.5 },
+
+            { text: "remaining", weight: 2.5 },
+
+            { text: "function", weight: 3.8 },
+
+            { text: "trial", weight: 3.8 },
+
+            { text: "acquisition", weight: 2.5 },
+
+            { text: "segments", weight: 2.5 },
+
+            { text: "kernel", weight: 8.8 },
+
+            { text: "scanning", weight: 3.8 },
+
+            { text: "early", weight: 2.5 },
+
+            { text: "waveform", weight: 13.8 },
+
+            { text: "learn", weight: 2.5 },
+
+            { text: "detected", weight: 2.5 },
+
+            { text: "repeated", weight: 2.5 },
+
+            { text: "clustering", weight: 13.8 },
+
+            { text: "save", weight: 2.5 },
+
+            { text: "label", weight: 2.5 },
+
+            { text: "highest", weight: 2.5 },
+
+            { text: "decision", weight: 5.0 },
+
+            { text: "model", weight: 17.5 },
+
+            { text: "categories", weight: 2.5 },
+
+            { text: "predict", weight: 3.8 },
+
+            { text: "extracted", weight: 3.8 },
+
+            { text: "instead", weight: 2.5 },
+
+            { text: "curvature", weight: 5.0 },
+
+            { text: "length", weight: 10.0 },
+
+            { text: "hundred", weight: 2.5 },
+
+            { text: "balter", weight: 2.5 },
+
+            { text: "distribution", weight: 3.8 },
+
+            { text: "cluster", weight: 13.8 },
+
+            { text: "sample", weight: 2.5 },
+
+            { text: "trials", weight: 8.8 },
+
+            { text: "motion", weight: 11.2 },
+
+            { text: "respiratory", weight: 18.8 },
+
+            { text: "waveforms", weight: 30.0 },
+
+            { text: "respiration", weight: 2.5 },
+
+            { text: "varied", weight: 2.5 },
+
+            { text: "labels", weight: 2.5 },
+
+            { text: "pattern", weight: 3.8 },
+
+            { text: "boundary", weight: 5.0 },
+
+            { text: "utilized", weight: 5.0 },
+
+            { text: "cyan", weight: 2.5 },
+
+            { text: "dimensional", weight: 2.5 },
+
+        ];
+        $(function() {
+            $("#word_cloud").jQCloud(word_list);
+        });
+        </script>
+
+        <title>(ISMRM 2023) Predicting MR Image Quality from Breathing Patterns</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+		<style>
+			* { box-sizing: border-box; }
+			html, body {
+				height: 100%;
+				min-height: 100%;
+			}
+			body {
+				margin: 0;
+				padding: 0;
+				color: #19305c;
+				font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+				font-size: 16px;
+				line-height: 1.4;
+			}
+			.list-group {
+				box-shadow: none;
+			}
+			.list-group .list-group-item {
+				display: inline-block;
+				font-size: 115%;
+				width: 40%;
+				background-color: #42a9dc;
+				color: #fff;
+				font-weight: 600;
+				border: 3px solid #19305c;
+				border-radius: 0.66em;
+				margin: 1em;
+				vertical-align: top;
+				padding: 0.55em 1em 0.66em;
+			}
+			ul.navbar-right {
+				display: none;
+			}
+		</style>
+    </head>
+    <body>
+
+        <!-- NAV -->
+        <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+
+            <ul class="nav navbar-nav navbar-left">
+
+            <li><a href="index.html">Index</a></li>
+            <li><a href="/customsearch.html">Custom Search</a></li>
+            <li><a href="/sitesearch.html">Site Search</a></li>
+            <li><a href="/educational/index.html">Educational</a></li>
+            <li><a href="https://ismrm.github.io/web/">About</a></li>
+
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+            <li><a href="3423_FPpK7MQXf.html">Prev</a></li>
+            <li><a href="3424_UJCrJxQ3W.html">Next</a></li>
+            </ul>
+
+        </div>
+        </nav>
+
+        <!-- BANNER -->
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <a href="https://www.ismrm.org/23m/"><img src="https://archive.ismrm.org/banners/2023m.jpg" class="img-responsive" alt="Meeting Banner"></a>
+        </div>
+        </div>
+        </div>
+
+        <!-- HEADER -->
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            <div>Abstract #3424</div>
+
+            <h1>Predicting MR Image Quality from Breathing Patterns</h1>
+
+            <div><div class="AffiliationBlockContainer" id="ctl00_MainContent_ctl00_AuthorsAndAffiliationsBlock_divBlockContainer"> Soham S Vasanawala<sup>1</sup> and John M Pauly<sup>1</sup></div></div>
+
+            <div><small><sup>1</sup>Electrical Engineering, Stanford University, Stanford, CA, United States</small></div><br>
+
+            <div><div class="divSectionBlock"><h3>Synopsis</h3><p class="synopsis"><p><b>Keywords:</b> Artifacts, Motion Correction, abdomen, respiration<p>Motion, particularly from breathing, compromises the quality of magnetic resonance images. In this work, we hypothesize that detected breathing patterns can be utilized to predict whether adequate MR image quality will be obtained. With a K-means clustering algorithm, 9 in 10 forty-second breathing waveforms were correctly predicted as either resulting in a high or low image quality image; this finding can save time from unnecessary scans. Other models achieved similar results as K-means clusterings.</div></div>
+
+            <div>
+				<div style="background: #CAF1FF; padding: 1em 1.5em; border-radius: 0.5em; border: 1px solid #ECFAFF; margin: 2em auto; font-size: 93%;">
+					<p style="font-size: 118%; font-weight: 600;">How to access this content:</p>
+					<p><b>For one year</b> after publication, abstracts and videos are only open to registrants of this annual meeting. Registrants should use their existing login information. Non-registrant access can be purchased via the <a href="https://www.ismrm.org/e-library/" style="color: blue; text-decoration: underline; font-weight: 600;" target="_blank" rel="noopener">ISMRM E-Library</a>.</p>
+					<p><b>After one year,</b> current ISMRM & ISMRT members get free access to both the abstracts and videos. Non-members and non-registrants must purchase access via the <a href="https://www.ismrm.org/e-library/" style="color: blue; text-decoration: underline;" target="_blank" rel="noopener">ISMRM E-Library</a>.</p>
+					<p><b>After two years,</b> the meeting proceedings (abstracts) are opened to the public and require no login information. Videos remain behind password for access by members, registrants and <a href="https://www.ismrm.org/e-library/" style="color: blue; text-decoration: underline;" target="_blank" rel="noopener">E-Library</a> customers.</p>
+					<p class="text-center" style="color: blue;"><b><a href="http://www.ismrm.org/membership-journals/membership/" style="color: blue; text-decoration: underline;">Click here for more information on becoming a member</a>.</b></p>
+				</div>
+			</div>
+        </div>
+        </div>
+        </div>
+
+        <!-- LINKS-->
+
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            <div class="text-center">
+                <div class="list-group">
+
+                    <a class="list-group-item" href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/3424_UJCrJxQ3W.html">Abstract</a>
+
+                    <a class="list-group-item" href="https://cds.ismrm.org/protected/23MPresentations/videos/3424.htm">Presentation Video</a>
+
+                </div>
+            </div>
+
+        </div>
+        </div>
+        </div>
+
+        <!-- PDF -->
+
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            
+        </div>
+        </div>
+        </div>
+
+        <!-- WORD CLOUD -->
+
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			<p style="text-align: center; font-size: 130%; margin: 1.5em 0 0 0 !important; color: #3399dd;"> Keywords </p>
+			<div id="word_cloud" style="max-width: 100%; min-height: 400px; border: 0px solid #ccc; overflow: scroll; overflow-x: hidden; overflow-y: hidden; margin-top: 2em; margin-bottom: 10em;">
+			<div id="static_words">
+            <noscript>
+
+                trigger
+
+                explored
+
+                optimization
+
+                recordings
+
+                phys
+
+                unlabeled
+
+                separation
+
+                plotted
+
+                indicating
+
+                speech
+
+                influencing
+
+                drifting
+
+                patterns
+
+                configuration
+
+                adjusted
+
+                long
+
+                acceptable
+
+                best
+
+                deviation
+
+                selected
+
+                whether
+
+                suffices
+
+                bars
+
+                patient
+
+                qualitatively
+
+                predicting
+
+                mathematically
+
+                consent
+
+                free
+
+                datapoint
+
+                lawrence
+
+                sedation
+
+                autocorrelation
+
+                abdomen
+
+                gamma
+
+                support
+
+                segment
+
+                stanford
+
+                labeled
+
+                abdominal
+
+                dataset
+
+                prediction
+
+                since
+
+                patients
+
+                adequate
+
+                breathing
+
+                performance
+
+                feasible
+
+                example
+
+                variability
+
+                separated
+
+                pediatric
+
+                price
+
+                sensor
+
+                experience
+
+                preprocessed
+
+                least
+
+                linear
+
+                synopsis
+
+                acknowledgements
+
+                achieved
+
+                mirrors
+
+                head
+
+                carl
+
+                error
+
+                randomly
+
+                quality
+
+                trained
+
+                voluntary
+
+                machine
+
+                unsupervised
+
+                gating
+
+                representative
+
+                hypothesize
+
+                radial
+
+                slow
+
+                slice
+
+                training
+
+                learning
+
+                somewhat
+
+                equivalent
+
+                clusters
+
+                intervals
+
+                dynamic
+
+                reconstruction
+
+                predictions
+
+                doss
+
+                prior
+
+                though
+
+                predicted
+
+                conical
+
+                withheld
+
+                establish
+
+                deemed
+
+                required
+
+                compromises
+
+                golden
+
+                prone
+
+                necessarily
+
+                characterized
+
+                chetty
+
+                minimally
+
+                accuracy
+
+                sampling
+
+                scores
+
+                vector
+
+                cycle
+
+                monitoring
+
+                remaining
+
+                function
+
+                trial
+
+                acquisition
+
+                segments
+
+                kernel
+
+                scanning
+
+                early
+
+                waveform
+
+                learn
+
+                detected
+
+                repeated
+
+                clustering
+
+                save
+
+                label
+
+                highest
+
+                decision
+
+                model
+
+                categories
+
+                predict
+
+                extracted
+
+                instead
+
+                curvature
+
+                length
+
+                hundred
+
+                balter
+
+                distribution
+
+                cluster
+
+                sample
+
+                trials
+
+                motion
+
+                respiratory
+
+                waveforms
+
+                respiration
+
+                varied
+
+                labels
+
+                pattern
+
+                boundary
+
+                utilized
+
+                cyan
+
+                dimensional
+
+
+            </noscript>
+            </div>
+            </div>
+
+        </div>
+        </div>
+        </div>
+
+
+    </body>
+</html>

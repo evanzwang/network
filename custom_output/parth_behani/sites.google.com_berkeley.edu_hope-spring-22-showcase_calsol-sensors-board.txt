@@ -1,0 +1,39 @@
+                      Search this site
+                  Embedded Files
+                Skip to main content
+                Skip to navigation
+                    HOPE Spring '22 Final Project Showcase
+                          [Home](/berkeley.edu/hope-spring-22-showcase/home)
+                          [Music Synthesizer](/berkeley.edu/hope-spring-22-showcase/music-synthesizer)
+                          [HOPE Watch](/berkeley.edu/hope-spring-22-showcase/hope-watch)
+                          [HOPE Bug](/berkeley.edu/hope-spring-22-showcase/hope-bug)
+                          [Overuse Warning Glove for Carpal Tunnel Syndrome](/berkeley.edu/hope-spring-22-showcase/overuse-warning-glove-for-carpal-tunnel-syndrome)
+                          [Musical Note Detector](/berkeley.edu/hope-spring-22-showcase/musical-note-detector)
+                          [DJ Launchpad](/berkeley.edu/hope-spring-22-showcase/dj-launchpad)
+                          [Hotshoe-Mounted Light Meter](/berkeley.edu/hope-spring-22-showcase/hotshoe-mounted-light-meter)
+                          [Smartphone Gimbal](/berkeley.edu/hope-spring-22-showcase/smartphone-gimbal)
+                          [LoRa Rangefinder](/berkeley.edu/hope-spring-22-showcase/lora-rangefinder)
+                          [Crystal-Growing Box](/berkeley.edu/hope-spring-22-showcase/crystal-growing-box)
+                          [Animatronic Eyes](/berkeley.edu/hope-spring-22-showcase/animatronic-eyes)
+                          [CalSol Sensors Board](/berkeley.edu/hope-spring-22-showcase/calsol-sensors-board)
+                          [Harry Potter Inspired Dueling Wand](/berkeley.edu/hope-spring-22-showcase/harry-potter-inspired-dueling-wand)
+                          [Rover Controller](/berkeley.edu/hope-spring-22-showcase/rover-controller)
+                          [Analog Synthesizer](/berkeley.edu/hope-spring-22-showcase/analog-synthesizer)
+                          [SIXT33N: Autonomous Voice Controlled Robot Car](/berkeley.edu/hope-spring-22-showcase/sixt33n-autonomous-voice-controlled-robot-car)
+                          [Project RAIDEN: RGB Audio Integrated Device Except Not-really](/berkeley.edu/hope-spring-22-showcase/project-raiden-rgb-audio-integrated-device-except-not-really)
+                          [Handheld Game Console](/berkeley.edu/hope-spring-22-showcase/handheld-game-console)
+                          [LEGOrama: LEGO Sorter](/berkeley.edu/hope-spring-22-showcase/legorama-lego-sorter)
+                          [Smart Lamp](/berkeley.edu/hope-spring-22-showcase/smart-lamp)
+                          [PCB Drone](/berkeley.edu/hope-spring-22-showcase/pcb-drone)
+                          [Modular Gaming Controller](/berkeley.edu/hope-spring-22-showcase/modular-gaming-controller)
+                          [Breathalyzer](/berkeley.edu/hope-spring-22-showcase/breathalyzer)
+                          [Pocket Telegram](/berkeley.edu/hope-spring-22-showcase/pocket-telegram)
+                                  Sean Yang, Michael Jia, Parth Behani
+                                    We've designed a board to take inputs from multiple sensors over and communicate them with a main vehicle computer via CAN. The data transmitted will be used by CalSol's 10th generation solar power vehicle, Excalibur, to make strategy decisions at race time. Onboard are sensors for humidity, temperature, pressure, an accelerometer, a thermopile sensor and a thermistor.
+                                  MCU and Peripherals
+                                  CAN interface (Left), Voltage Regulators (Right)
+                                  Passives soldered by reflow
+                                  ICs / Connectors hand soldered
+                            Report abuse
+                            Page details
+                      Page updated

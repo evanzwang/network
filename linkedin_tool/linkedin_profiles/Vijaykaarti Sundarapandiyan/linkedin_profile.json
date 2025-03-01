@@ -1,0 +1,271 @@
+[
+  {
+    "fullName": "Vijaykaarti Sundarapandiyan",
+    "linkedin_internal_id": "920124177",
+    "first_name": "Vijaykaarti",
+    "last_name": "Sundarapandiyan",
+    "public_identifier": "vijay-sundarapandiyan",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQHjcX25NUaOLQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728879465732?e=2147483647&v=beta&t=MNjX2VMrQ0b4gYsa0mlj33tjW9iwY8MSk8ZBSagAiAo",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQHlK5CxA501aA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1669788057709?e=2147483647&v=beta&t=EbQKYKYRWoQmKcfcCh3sHWDh3vwY-GmBiYijmSUabgs",
+    "headline": "CS + Math @ UMD",
+    "location": "872 followers\n          \n              500+ connections",
+    "about": "Computer scientist in the making! Current UMD CS/Math student interested in computer vision, concurrent, high-performance computing, networks, quantitative finance, large model efficiency and other cool stuff.I'm always up for a chat: reach out at vsundar1@umd.edu",
+    "experience": [
+      {
+        "position": "Technical Advisor Intern",
+        "company_url": "https://www.linkedin.com/company/scaleai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFUABvcOwaFGg/company-logo_100_100/company-logo_100_100/0/1630493502009/scaleai_logo?e=2147483647&v=beta&t=A1zDJ3B7JLjhsfyO0YhEXlU1ro-q6Q9HNLM8TkDi9DU",
+        "company_name": "Scale AI",
+        "location": null,
+        "summary": "Code reasoning models for Olympiad-level competitive programming problems",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/university-of-maryland/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHrhLnmmZTGjQ/company-logo_100_100/company-logo_100_100/0/1631303360671?e=2147483647&v=beta&t=D4gyMJ553_Y4L1TVqioiwvQbXiArSKWPzMYx136iNOs",
+        "company_name": "University of Maryland",
+        "location": null,
+        "summary": "Large Language Models, Dr. Tom Goldstein",
+        "starts_at": "May 2024",
+        "ends_at": "Present",
+        "duration": "11 months"
+      },
+      {
+        "position": "Lead Architect",
+        "company_url": "https://www.linkedin.com/company/umdsif?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQH9Eqg-kGo0ag/company-logo_100_100/company-logo_100_100/0/1630616760438/umdsif_logo?e=2147483647&v=beta&t=7HbbS-1DXlEhAxJ-DMo37PfM7Pgnyk7wFknZqrwi-fM",
+        "company_name": "Smith Investment Fund",
+        "location": null,
+        "summary": "Automated trading platform",
+        "starts_at": "Sep 2022",
+        "ends_at": "Present",
+        "duration": "2 years 7 months"
+      },
+      {
+        "position": "Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/uber-com?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+        "company_name": "Uber",
+        "location": null,
+        "summary": "Software networking infrastructure (Envoy proxy)",
+        "starts_at": "May 2024",
+        "ends_at": "Aug 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/hack4impact?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGDbdhpmxRmrg/company-logo_100_100/company-logo_100_100/0/1633548685050/hack4impact_logo?e=2147483647&v=beta&t=qGA0cvf4i5mG69qsLHQsvdZGzfM2W-ifsZatJweC-l4",
+        "company_name": "Hack4Impact",
+        "location": null,
+        "summary": "Web applications for nonprofit organizations",
+        "starts_at": "Jan 2023",
+        "ends_at": "Dec 2023",
+        "duration": "1 year"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/university-of-maryland/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHrhLnmmZTGjQ/company-logo_100_100/company-logo_100_100/0/1631303360671?e=2147483647&v=beta&t=D4gyMJ553_Y4L1TVqioiwvQbXiArSKWPzMYx136iNOs",
+        "company_name": "University of Maryland",
+        "location": "College Park, Maryland, United States",
+        "summary": "Computer Vision, Dr. Jia-Bin Huang",
+        "starts_at": "Aug 2022",
+        "ends_at": "Aug 2023",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Machine Learning Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFVygtQGU-lIA/company-logo_100_100/company-logo_100_100/0/1630600188706/johns_hopkins_university_applied_physics_laboratory_logo?e=2147483647&v=beta&t=a901Q2atjr3gWkbbE615RLBEtH__yzKQR0Nuz6WcEl4",
+        "company_name": "The Johns Hopkins University Applied Physics Laboratory",
+        "location": null,
+        "summary": "Force Projection Sector",
+        "starts_at": "May 2023",
+        "ends_at": "Jul 2023",
+        "duration": "3 months"
+      },
+      {
+        "position": "Machine Learning Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/nonexomics?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEMt_TJ3gCuvg/company-logo_100_100/company-logo_100_100/0/1654044531486/nonexomics_logo?e=2147483647&v=beta&t=Q9K4QGe_2gEMqvdz9MFVh74cut6RwvhxSBhLsOSYO3A",
+        "company_name": "NonExomics",
+        "location": null,
+        "summary": "Deep learning models for cancer prediction",
+        "starts_at": "Jun 2021",
+        "ends_at": "Jun 2023",
+        "duration": "2 years 1 month"
+      },
+      {
+        "position": "SIG Discovery Day",
+        "company_url": "https://www.linkedin.com/company/susquehanna-international-group?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGRndfnf-vqyg/company-logo_100_100/company-logo_100_100/0/1725734450282/susquehanna_international_group_llp_sig_logo?e=2147483647&v=beta&t=LVCCWArMPxS7ER0QiXtwj5gXNYhppI7v5BwYltMvxPI",
+        "company_name": "Susquehanna International Group, LLP (SIG)",
+        "location": null,
+        "summary": "",
+        "starts_at": "Mar 2023",
+        "ends_at": "Mar 2023",
+        "duration": "1 month"
+      },
+      {
+        "position": "Computer Science Instructor, Director of Operations",
+        "company_url": "https://www.linkedin.com/company/elevatethefuture?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEuAZZqiftp3g/company-logo_100_100/company-logo_100_100/0/1630609601491?e=2147483647&v=beta&t=xzsG7Cb1Q-6BZXHbb8N53RKq2K1T9knsREBgcyNV-sw",
+        "company_name": "Elevate the Future",
+        "location": null,
+        "summary": "Object-oriented programming and web development",
+        "starts_at": "Jun 2020",
+        "ends_at": "Aug 2022",
+        "duration": "2 years 3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-maryland/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Maryland",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHrhLnmmZTGjQ/company-logo_100_100/company-logo_100_100/0/1631303360671?e=2147483647&v=beta&t=D4gyMJ553_Y4L1TVqioiwvQbXiArSKWPzMYx136iNOs",
+        "college_degree": "B.S. Computer Science, B.S. Mathematics",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/abrhs/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Acton-Boxborough Regional High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHa3AwVlgAYyQ/company-logo_100_100/company-logo_100_100/0/1631371522439/abrhs_logo?e=2147483647&v=beta&t=U1ZjftNRO0Rcu6QRkCXUwfPaAofYj98-SvtYc0EKFTQ",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": "SAT: 1590/1600; AP Exams (5/5): Computer Science A, Calculus BC, Physics C: Mechanics, Statistics, Biology, English Literature and Composition, Psychology, United States History."
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/russian-school-of-mathematics/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Russian School of Mathematics",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQGOFuNrzhlOAg/company-logo_100_100/company-logo_100_100/0/1631369848588?e=2147483647&v=beta&t=CVuAt7RlTlcKnhLMFUp0ASEdGLPKQSGqkQuwhN1_wkg",
+        "college_degree": "MATHEMATICS AND STATISTICS",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": "Took advanced mathematics courses through multivariable calculus and linear algebra."
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Scale AI",
+      "description1_link": "https://www.linkedin.com/company/scaleai?trk=public_profile_topcard-current-company",
+      "description2": "University of Maryland",
+      "description2_link": "https://www.linkedin.com/school/university-of-maryland/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models",
+        "sub_title": "ICLR 2023",
+        "summary": "",
+        "date": "",
+        "link": "https://www.linkedin.com/in/phillip-guo?trk=public_profile_publication_contributor-image"
+      }
+    ],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Tamil",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "ICPC Mid-Atlantic Regionals - 7th Place",
+        "organization": "ICPC Foundation",
+        "duration": "Nov 2024",
+        "summary": "Placed 7th (out of 68 Division 1 teams)"
+      },
+      {
+        "name": "ICLR 2023 Notable TinyPaper",
+        "organization": "International Conference on Learning Representations",
+        "duration": "Apr 2023",
+        "summary": "Top 10%, invited to present."
+      },
+      {
+        "name": "Eagle Scout",
+        "organization": "Scouts BSA, Troop 32 Acton",
+        "duration": "Jul 2022",
+        "summary": ""
+      },
+      {
+        "name": "Presidential Scholar Candidate",
+        "organization": "United States Department of Education",
+        "duration": "Jan 2022",
+        "summary": ""
+      },
+      {
+        "name": "National Science Olympiad Competitor",
+        "organization": "National Science Olympiad",
+        "duration": "May 2021",
+        "summary": "ABRHS Science Team (15 competitors, including me + 5 alternates,) placed a cumulative 5th place at the National Science Olympiad, 2021 Season"
+      },
+      {
+        "name": "Massachusetts State Science Olympiad Medalist & Winner",
+        "organization": "Massachusetts State Science Olympiad",
+        "duration": "Mar 2021",
+        "summary": "1st Place in Astronomy, 2021 season3rd Place in Experimental Design, 2021 seasonTeam placed a cumulative 1st"
+      },
+      {
+        "name": "AP Scholar with Distinction",
+        "organization": "College Board",
+        "duration": "",
+        "summary": ""
+      },
+      {
+        "name": "National Merit Finalist",
+        "organization": "National Merit Scholarship Corporation",
+        "duration": "",
+        "summary": ""
+      },
+      {
+        "name": "Silver President\u2019s Volunteer Service Award x2",
+        "organization": "Acton-Boxborough Regional High School",
+        "duration": "",
+        "summary": "175-249 hours of annual community service"
+      },
+      {
+        "name": "UKG Global Scholarship Recipient",
+        "organization": "UKG (Ultimate Kronos Group)",
+        "duration": "",
+        "summary": "One of twenty students awarded financial grant towards undergraduate tuition"
+      }
+    ],
+    "score": [
+      {
+        "name": "PSAT",
+        "score": "Score: 1520/1520",
+        "duration": "",
+        "summary": ""
+      },
+      {
+        "name": "SAT",
+        "score": "Score: 1590/1600",
+        "duration": "",
+        "summary": ""
+      }
+    ]
+  }
+]

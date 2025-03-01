@@ -1,0 +1,36 @@
+        Main menu
+              [Home](https://gallowaylab.mgh.harvard.edu/)
+              [Research](https://gallowaylab.mgh.harvard.edu/research/)
+              [Lab Members](https://gallowaylab.mgh.harvard.edu/?page_id=9)
+                  [Current](https://gallowaylab.mgh.harvard.edu/?page_id=9)
+                  [Alumni](https://gallowaylab.mgh.harvard.edu/alumni/)
+              [Publications](https://gallowaylab.mgh.harvard.edu/publications/)
+              [Resources](https://gallowaylab.mgh.harvard.edu/resources/)
+              [Contact](https://gallowaylab.mgh.harvard.edu/contact/)
+      #site-navigation
+              [Galloway Laboratory](https://gallowaylab.mgh.harvard.edu)
+              Jessica Chen
+                Jessica Chen received her B.A. in Biology from Barnard College and is currently a Ph.D. candidate in the Biological and Biomedical Sciences program at Harvard University. Her undergraduate research was performed in the laboratory of Dr. Jennifer Mansfield in the Department of Biology at Barnard College, where she worked on understanding the role of Hox transcription factors in differential somite patterning and differentiation in vertebrates. For her Ph.D., she joined the laboratories of Dr. Jenna Galloway in the Center for Regenerative Medicine at Massachusetts General Hospital, and Dr. Clifford Tabin in the Department of Genetics at Harvard Medical School. Currently, she is working on understanding the genetic pathways involved in patterning tendon and ligament development in vertebrates.
+              .entry-content
+              .entry
+            #post-121
+            #comments .comments-area
+              Default Widget
+              This is just a default widget. It'll disappear as soon as you add your own widgets on the
+                [Widgets admin page](https://gallowaylab.mgh.harvard.edu/wp-admin/widgets.php)
+                .
+              Below is an example of an unordered list.
+                List item one
+                List item two
+                List item three
+                List item four
+          #secondary.widget-area
+    main
+            Copyright © 2025
+              . All Rights Reserved.
+              [bavotasan.com](https://themes.bavotasan.com/themes/arcade)
+          .col-lg-12
+        .row
+      #footer-content.container
+    #footer
+  #page

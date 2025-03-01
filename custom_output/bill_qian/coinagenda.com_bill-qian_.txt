@@ -1,0 +1,72 @@
+  Header
+        <div class="ht flex-center jt-1">
+         		<p>Tokenize Tickets</p>
+				         		<ul class="hsm">
+					         			<li><a href="https://www.facebook.com/TokenizeCon"><i class="fa fa-facebook"></i></a></li>
+         			         			<li><a href="https://twitter.com/TokenizeCon"><i class="fa fa-twitter"></i></a></li>
+         			         			<li><a href="https://www.instagram.com/TokenizeCon"><i class="fa fa-instagram"></i></a></li>
+         			         		</ul>
+				         	</div>
+                  Open menu
+                    [EMMA 2023](https://coinagenda.com/emea23/)
+                    [Global 2023](https://coinagenda.com/coinagenda-global-2023/)
+                    [Caribbean 2022](https://coinagenda.com/coinagenda-caribbean-2022/)
+                    [Global 2022](https://coinagenda.com/coinagenda-global-2022/)
+                    [Europe 2022](https://coinagenda.com/europe-2022/)
+                    [Caribbean 2021](https://coinagenda.com/coinagenda-caribbean-2021/)
+                    [Global 2021](https://coinagenda.com/coinagenda-global-2021/)
+                    [Middle East Africa 2021](https://coinagenda.com/coinagenda-middle-east-africa-2021/)
+                    [Verified Investor Tickets](https://coinagenda.com/verified-investor-tickets/)
+                    [Speak](https://sessionize.com/tokenize-2024/)
+                    [Sponsorships](https://coinagenda.com/sponsorships/)
+                    [Media](https://tokenizeconference.com/apply-for-media-credentials/)
+                [Contact](https://coinagenda.com/contact/)
+                [Newsfeed](https://coinagenda.com/newsfeed/)
+          [Buy Tickets](https://www.eventbrite.com/e/663433757227)
+    /.Sticky-Header
+  /.Main-Title
+                Bill Qian
+                Chairman Cypher Capital
+                Before joining Cypher Capital, Bill was the Global Head of Fundraising, Binance Labs, and M&A for Binance ‒ the largest global crypto platform holding 55% of the global market share, with $34 trillion in transactions in 2021. Before this, Bill was the Head of Investment of Fintech/Tech for JD.COM ‒ an Asian internet tycoon with more than $400 billion in annual e-commerce transactions. Bill has also worked with Trustbridge Partners, a leading technology-focused private equity fund with more than $15 billion in assets under management, and has deployed and managed over $20 billion across Web 1.0, Web 2.0, and Web 3.0 projects in his career. Bill sees himself as a “web-native investor”, looking for phenomenal founders in the Web 3.0 industry.
+      /.Next-Article
+      «
+        [Joel Comm](https://coinagenda.com/joel-comm-2/)
+        [Bruce Fenton](https://coinagenda.com/bruce-fenton/)
+        »
+    /.Container
+  FOOTER
+          <ul class="csm flex-center">
+        				<li><a href="#/"><i class="fa fa-facebook"></i></a></li>
+         			    <li><a href="#/"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#/"><i class="fa fa-linkedin"></i></a></li>
+        				</ul>
+          ©
+							2025
+            [CoinAgenda](https://coinagenda.com/)
+          Upcoming Events
+          Past Events
+              [Caribbean 2023](https://coinagenda.com/caribbean-2023/)
+              [Global23](https://coinagenda.com/coinagenda-global-2023/)
+              [Middle East & Africa 2021](https://coinagenda.com/coinagenda-middle-east-africa-2021/)
+          <div class="min-gap">
+                  <h3>Get Involved</h3>
+                  <ul class="ft-menu">
+                                       </ul>
+              </div>
+          Get Involved
+        <div class="col-5 col">
+                  <h3>Stay Connected</h3>
+                  <p>Stay informed about the most exclusive events in CoinAgenda</p>
+                  <div class="sub-form">
+                     <form name="">
+                        <input type="text" placeholder="Email Address" name="email">
+                        <button type="submit" class="btn">Subscribe</button>
+                     </form>
+                  </div>
+               </div>
+  /.Footer
+              Sponsor CoinAgenda
+              To get our brand new CoinAgenda Fall 2023 Deck and talk about customized sponsorship opportunities to connect with key investors in Blockchain, Crypto, NFT and more just let us know where to send it.
+              Send it to me!
+          You have Successfully Subscribed!

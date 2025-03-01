@@ -1,0 +1,12 @@
+{
+  "title": "Full Abstract",
+  "meta_description": "",
+  "main_content": "ISEF | Projects Database | Finalist Abstract Back to Search Results | Print PDF Analyzing the Effect of Mid-Circuit Measurement (MCM) on Spectator Qubits Booth Id: SOFT045 Category: Systems Software Year: 2023 Finalist Names: Avlani, Harshil (School: BASIS Chandler) Abstract: Mid-Circuit Measurements (MCMs) are a key component in many quantum information algorithms. As such, ways to characterize their performance are of great interest. Specifically, it is important to determine what impact MCM has on nearby, unmeasured, spectator qubits. Here, I present a novel benchmarking method consisting of a variation of the Interleaved Randomized Benchmarking Technique. I then use this method to evaluate MCM-induced spectator qubit error on various qubits inside IBM\u2019s quantum computer \u201cibm_nairobi\u201d. I then examine the effect of qubit position on this error, test if IBM\u2019s widely-used quantum simulators account for this error, and analyze potential causes of this error. This project has far reaching implications as it sheds light on a never before seen type of quantum error and discovers a major deficiency in current quantum simulators. Awards Won: First Award of $5,000 Lawrence Technological University: STEM Scholar Award, a tuition scholarship of $19,650 per year, renewable for up to four years and applicable to any major National Security Agency Research Directorate : Third Place Award \u201cPrinciples of Security and Privacy\u201d",
+  "links": [
+    {
+      "url": "/Home/PrintPdf?projectId=24498",
+      "text": "Print PDF"
+    }
+  ],
+  "images": []
+}

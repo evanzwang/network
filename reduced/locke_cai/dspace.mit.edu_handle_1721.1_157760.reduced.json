@@ -1,0 +1,109 @@
+{
+  "title": "Identifying Money Laundering Subgraphs on the Blockchain",
+  "meta_description": "",
+  "main_content": "View Item DSpace@MIT Home MIT Open Access Articles MIT Open Access Articles View Item DSpace@MIT Home MIT Open Access Articles MIT Open Access Articles View Item JavaScript is disabled for your browser. Some features of this site may not work without it. Toggle navigation Identifying Money Laundering Subgraphs on the Blockchain Author(s) Song, Kiwhan ; Dhraief, Mohamed Ali ; Xu, Muhua ; Cai, Locke ; Chen, Xuhao ; Mithal, Arvind ; Chen, Jie ; ... Show more Show less Download 3677052.3698635.pdf (1.671Mb) Publisher with Creative Commons License Publisher with Creative Commons License Creative Commons Attribution Terms of use Creative Commons Attribution https://creativecommons.org/licenses/by/4.0/ Metadata Show full item record Abstract Anti-Money Laundering (AML) involves the identification of money laundering crimes in financial activities, such as cryptocurrency transactions. Recent studies advanced AML through the lens of graph-based machine learning, modeling the web of financial transactions as a graph and developing graph methods to identify suspicious activities. For instance, a recent effort on opensourcing datasets and benchmarks, Elliptic2, treats a set of Bitcoin addresses, considered to be controlled by the same entity, as a graph node and transactions among entities as graph edges. This modeling reveals the \u201cshape\u201d of a money laundering scheme\u2014a subgraph on the blockchain, such as a peeling chain or a nested service. Despite the attractive subgraph classification results benchmarked by the paper, competitive methods remain expensive to apply due to the massive size of the graph; moreover, existing methods require candidate subgraphs as inputs which may not be available in practice. In this work, we introduce RevTrack, a graph-based framework that enables large-scale AML analysis with a lower cost and a higher accuracy. The key idea is to track the initial senders and the final receivers of funds; these entities offer a strong indication of the nature (licit vs. suspicious) of their respective subgraph. Based on this framework, we propose RevClassify, which is a neural network model for subgraph classification. Additionally, we address the practical problem where subgraph candidates are not given, by proposing RevFilter. This method identifies new suspicious subgraphs by iteratively filtering licit transactions, using RevClassify. Benchmarking these methods on Elliptic2, a new standard for AML, we show that RevClassify outperforms state-of-the-art subgraph classification techniques in both cost and accuracy. Furthermore, we demonstrate the effectiveness of RevFilter in discovering new suspicious subgraphs, confirming its utility for practical AML. Description ICAIF \u201924, November 14\u201317, 2024, Brooklyn, NY, USA Date issued 2024-11-14 URI https://hdl.handle.net/1721.1/157760 Department Massachusetts Institute of Technology. Department of Electrical Engineering and Computer Science Publisher ACM|5th ACM International Conference on AI in Finance Citation Song, Kiwhan, Dhraief, Mohamed Ali, Xu, Muhua, Cai, Locke, Chen, Xuhao et al. 2024. \"Identifying Money Laundering Subgraphs on the Blockchain.\" Version: Final published version ISBN 979-8-4007-1081-0 Collections MIT Open Access Articles The following license files are associated with this item: Creative Commons Show Statistical Information Search DSpace This Collection Browse All of DSpace Communities & Collections By Issue Date Authors Titles Subjects This Collection By Issue Date Authors Titles Subjects My Account Login Statistics OA Statistics Statistics by Country Statistics by Department",
+  "links": [
+    {
+      "url": "/",
+      "text": "DSpace@MIT Home"
+    },
+    {
+      "url": "/handle/1721.1/49432",
+      "text": "MIT Open Access Articles"
+    },
+    {
+      "url": "/handle/1721.1/49433",
+      "text": "MIT Open Access Articles"
+    },
+    {
+      "url": "/",
+      "text": "DSpace@MIT Home"
+    },
+    {
+      "url": "/handle/1721.1/49432",
+      "text": "MIT Open Access Articles"
+    },
+    {
+      "url": "/handle/1721.1/49433",
+      "text": "MIT Open Access Articles"
+    },
+    {
+      "url": "/bitstream/handle/1721.1/157760/3677052.3698635.pdf?sequence=1&isAllowed=y",
+      "text": "Download"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "text": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "url": "/handle/1721.1/157760?show=full",
+      "text": "Show full item record"
+    },
+    {
+      "url": "https://hdl.handle.net/1721.1/157760",
+      "text": "https://hdl.handle.net/1721.1/157760"
+    },
+    {
+      "url": "/handle/1721.1/49433",
+      "text": "MIT Open Access Articles"
+    },
+    {
+      "url": "/community-list",
+      "text": "Communities & Collections"
+    },
+    {
+      "url": "/browse?type=dateissued",
+      "text": "By Issue Date"
+    },
+    {
+      "url": "/browse?type=author",
+      "text": "Authors"
+    },
+    {
+      "url": "/browse?type=title",
+      "text": "Titles"
+    },
+    {
+      "url": "/browse?type=subject",
+      "text": "Subjects"
+    },
+    {
+      "url": "/handle/1721.1/49433/browse?type=dateissued",
+      "text": "By Issue Date"
+    },
+    {
+      "url": "/handle/1721.1/49433/browse?type=author",
+      "text": "Authors"
+    },
+    {
+      "url": "/handle/1721.1/49433/browse?type=title",
+      "text": "Titles"
+    },
+    {
+      "url": "/handle/1721.1/49433/browse?type=subject",
+      "text": "Subjects"
+    },
+    {
+      "url": "/login",
+      "text": "Login"
+    },
+    {
+      "url": "/oastats",
+      "text": "OA Statistics"
+    },
+    {
+      "url": "/handle/1721.1/49433/most-popular/country",
+      "text": "Statistics by Country"
+    },
+    {
+      "url": "/handle/1721.1/49433/most-popular/department",
+      "text": "Statistics by Department"
+    }
+  ],
+  "images": [
+    {
+      "src": "/bitstream/handle/1721.1/157760/3677052.3698635.pdf.jpg?sequence=6&isAllowed=y",
+      "alt": "Thumbnail"
+    }
+  ]
+}

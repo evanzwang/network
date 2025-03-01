@@ -1,0 +1,97 @@
+                    Main navigation
+                        [Academics](//seas.harvard.edu/academics)
+                        [Faculty & Research](//seas.harvard.edu/faculty)
+                        [News](//seas.harvard.edu/news/home)
+                        [Events](http://harvardseas.enterprise.localist.com/)
+                        [Offices & Services](//seas.harvard.edu/offices-services)
+                        [About Us](//seas.harvard.edu/about-us)
+                    Information For
+                        [Alumni](//seas.harvard.edu/alumni)
+                        [Industry Partners & Recruiters](//seas.harvard.edu/office-industry-partnerships)
+                        [Prospective Students](//seas.harvard.edu/prospective-students)
+                    Shortcuts
+                        [Employment & Jobs](//seas.harvard.edu/about-us/employment-jobs)
+                        [Visit Us](//seas.harvard.edu/about-us/visit-us)
+                        [Make a Gift](https://community.alumni.harvard.edu/give/15323800)
+                        Search
+                    Menu
+                          News Events
+                              [All News Stories](//seas.harvard.edu/news)
+                          A new phase for Harvard Quantum Computing Club
+                              SEAS students place second at MIT quantum hackathon
+                        By
+                          [Matt Goisman](/news?search="Matt Goisman")
+                          |
+                              February 23, 2024
+                              Facebook
+                              Twitter
+                              Email
+                              LinkedIn
+                                                            Harvard Undergraduate Quantum Computing Association
+                                              vice president
+                                                        Ricardo Skewes Zorrilla, second from left, and president Emma Yang, second from right, with Quantinuum employees
+                                              Vanya Eccles and Kathrin Spendier
+                                                        at the MIT 2024 Interdisciplinary Quantum Hackathon (Emma Yang)
+                                                When MIT held its annual quantum hackathon last year, the
+                                                (HUQCA) was barely a semester old. Club founder and president Emma Yang was able to meet up with more established clubs from other colleges who’d traveled to Cambridge, with the goal of expanding their contacts and gaining insights as to how to engage students on campus and grow their club.
+                                                “It gave us a lot of ideas for new programming,” said Yang.
+                                                Those ideas have paid off. The club, whose mission is to make quantum computing more accessible at the undergraduate level, now boasts a membership of over 300 undergraduate students concentrating in quantitative fields such as computer science, applied math and physics. It regularly holds info sessions and talks with researchers, start-up CEOs, and industry professionals in quantum computing.
+                                                “There are so many things people can engage with on campus,” said Yang. “The fact that students are coming to our events, that we’re starting to see people who engage regularly and are asking really great questions at every talk, is really exciting. It really speaks to the intellectual curiosity on campus.”
+                                                As a sign of just how much the club has grown, Yang, vice president Ricardo Skewes Zorrilla and treasurer and director of events William Hu – all computer science concentrators at the
+                                                      Harvard John A. Paulson School of Engineering and Applied Sciences
+                                                (SEAS) – recently returned to MIT as a competitive team in the 2024 Interdisciplinary Quantum Hackathon (iQuHACK). The HUQCA trio and teammate Ervin Grimaldi, from the University of California-Irvine, took second place in their challenge, which involved simulating a critical algorithm in quantum computing, called “quantum phase estimation,” on a computing cluster run by UK-based company Quantinuum.
+                                                “It’s not an everyday experience where you get to build a quantum circuit and actually execute it on real hardware,” Hu said. “That was pretty unique.”
+                                                Hackathon teams could choose from among several challenges. While others sought to apply quantum computing to settings such as financial portfolio optimization or narrative storytelling, the HUQCA team chose Quantinuum because of its focus on pure algorithmic analysis. The team’s final submission stood out in part thanks to what they called an “experimental harness,” which allowed them to run a large number of quantum simulations at scale and efficiently collect data from the results.
+                                                “Given the skillset of our team, we decided to work on something closer to the quantum algorithms side that also branched out to software engineering, experimentation and research,” Yang said. “It’s a series of experiments with numerical results, and as a deliverable we provided an implementation of a better way to use Quantinuum’s compiler and interface. It has a lot of applications, such as other well-known quantum algorithms like Shor’s algorithm or computational chemistry.”
+                                                Along with designing and running simulations, the SEAS team also got to work closely with software engineers from Quantinuum.
+                                                “We got one-on-one tech support, and it was really cool to see their visions for the future and how they designed their systems,” said Hu. “I found the specific challenge of the weekend to be fun, inspiring, and definitely something I’d want to learn more about.”
+                                                Skewes also came away from the experience hoping to compete in more hackathons in the future. Quantum phase estimation is a concept he first learned about in an MIT class last semester, but the hackathon was his first chance to apply what he learned using cutting-edge hardware.
+                                    It’s one thing to learn something in a classroom, and another to try to code one and see if it runs. That’s different, and I think it adds an extra layer to fully mastering the concepts we learned in class.
+                                      Ricardo Skewes Zorrilla
+                                      HUQCA vice president
+                                                The pressure of a 24-hour deadline also required the students to be more deliberate and efficient in their approach to their work in a way a longer-term school project typically wouldn’t. The HUQCA team had to divide tasks such as research, simulations and writing in order to optimize how they spent their time, while also making sure each member’s work could still combine with the others’ into a coherent final product. And with so little time to experiment, the team also had to be ready to pivot and change approaches if something wasn’t working.
+                                                “It definitely requires a lot of spur-of-the-moment creativity,” Yang said. “The fun and challenging part is that really nothing goes to plan. I’m someone who likes to road-map things. I err on the side of being organized, where you plan out each part of a project. It never goes that way, but it’s great, and in the end it’s fun.”
+                        Topics:
+                        [Computer Science](/news?topic[541]=541)
+                        ,
+                        [Quantum Engineering](/news?topic[536]=536)
+                        [Undergraduate Student Profile](/news?topic[1106]=1106)
+                              Cutting-edge science delivered direct to your inbox.
+                              Join the Harvard SEAS mailing list.
+                            Begin Mailchimp Signup Form
+                                  Subscribe
+                                  real people should not fill this in and expect good things - do not remove this or risk form bot signups
+                            End mc_embed_signup
+                      Press Contact
+                        [mgoisman@g.harvard.edu](mailto:mgoisman@g.harvard.edu)
+                      Related News
+                                          Feb 27, 2025
+                                      [Spinning into quantum](https://gsas.harvard.edu/news/spinning-quantum-research)
+                                        research
+                                    Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+                                          Ph.D. student Aaron Day shares some key everyday items he uses in researching semiconductors for quantum applications
+                                      [Applied Physics](/news?topic[551]=551)
+                                      [Electrical Engineering](/news?topic[556]=556)
+                                      [Graduate Student Profile](/news?topic[1111]=1111)
+                                      [Materials](/news?topic[591]=591)
+                                      [Technology](/news?topic[631]=631)
+                                          Feb 11, 2025
+                                        Identity in a digital age
+                                                      Conflux winter residency explores what comes after AI
+                                      [AI / Machine Learning](/news?topic[521]=521)
+                                      [Student Organizations](/news?topic[767]=767)
+                                          Nov 18, 2024
+                                        From SEAS to the stars
+                                                      Prainito spends summer building astrophotography mount.
+                                      [Active Learning Labs](/news?topic[1226]=1226)
+                                      [Materials Science & Mechanical Engineering](/news?topic[1223]=1223)
+                              150 Western Ave, Allston, MA 02134
+                        Footer - Social Media Links
+                            [Instagram](https://www.instagram.com/harvardseas/)
+                            [YouTube](https://www.youtube.com/c/harvardengineering)
+                  © 2025 President and Fellows of Harvard College
+                        Footer
+                            [Diversity Mission](//seas.harvard.edu/office-diversity-inclusion-and-belonging/about-us)
+                            [Trademark Notice](https://trademark.harvard.edu/pages/trademark-notice)
+                            [Accessibility Policy](https://accessibility.huit.harvard.edu/digital-accessibility-policy)
+                            [Privacy Policy](//seas.harvard.edu/privacy-policy)

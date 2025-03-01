@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Research Group - Priya L. Donti</title>
+
+  <meta name="author" content="Priya L. Donti" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Priya L. Donti - Priya L. Donti, Ph.D. Student in Computer Science and Public Policy, Carnegie Mellon University" href="/feed.xml" />
+
+  
+
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/font-awesome.css" />
+    
+      <link rel="stylesheet" href="/css/academicons.min.css" />
+    
+      <link rel="stylesheet" href="/css/custom-styles.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Research Group - Priya L. Donti" />
+  
+
+   
+  <meta property="og:description" content="## Research Group {% for grp in site.data.people %} {{grp.group}} {% for p in grp.members %} {% if p.website_url %} {% else %} {% endif %} {% if p.image_url %} {% else %} {% endif %} {{p.name}}({{p.type}}) {% if p.website_url %} {% else %} {% endif %} {% endfor %}...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://priyald17.github.io/group/" />
+  <link rel="canonical" href="https://priyald17.github.io/group/" />
+  
+
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@priyald17" />
+  <meta name="twitter:creator" content="@priyald17" />
+
+  
+  <meta name="twitter:title" content="Research Group - Priya L. Donti" />
+  
+
+  
+  <meta name="twitter:description" content="## Research Group {% for grp in site.data.people %} {{grp.group}} {% for p in grp.members %} {% if p.website_url %} {% else %} {% endif %} {% if p.image_url %} {% else %} {% endif %} {{p.name}}({{p.type}}) {% if p.website_url %} {% else %} {% endif %} {% endfor %}...">
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="http://priyald17.github.io">Priya L. Donti</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+
+
+
+
+
+  
+  <a href="/publications">Publications</a>
+
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+  
+  <a href="/group">Group</a>
+
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+  
+  <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a>
+
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+  
+  <a href="/bio">Bio & CV</a>
+
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <div class="intro-header"></div>
+
+<div role="main" class="container">
+  <h2 id="research-group">Research Group</h2>
+
+<!-- 
+<h3 id="current-members">Current Members</h3>
+<div class="person__list">
+
+
+<a class="person__item" href="https://www.linkedin.com/in/adeoluwa-adekanmbi/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/adekanmbi_ade.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Adeoluwa Adekanmbi</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/alvaro-carbonero-9b7567252/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/carbonero_alvaro.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Alvaro Carbonero</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/ana-rivera-4105a1137/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/rivera_ana.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Ana Rivera</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://anvibhagavathula.github.io/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/bhagavathula_anvi.png">
+</div>
+<div class="person__info">
+<div class="person__name">Anvita Bhagavathula</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.mit.edu/~arsam" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/aryandoust_arsam.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Arsam Aryandoust</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://emarche.github.io/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/marchesini_enrico.png">
+</div>
+<div class="person__info">
+<div class="person__name">Enrico Marchesini</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/haley-nakamura/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/nakamura_haley.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Haley Nakamura</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/hoang-nguyen-971519201/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/nguyen_hoang.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Hoang Nguyen</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://james-y-chen.github.io/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/chen_james.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">James Chen</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/lcbooth/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/booth_lara.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Lara Booth</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/maria-alder/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/alder_maria.png">
+</div>
+<div class="person__info">
+<div class="person__name">Maria Alder</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+</div>
+
+<h3 id="past-members">Past Members</h3>
+<div class="person__list">
+
+
+<a class="person__item" href="https://www.mit.edu/~aliciali/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/li_alicia.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Alicia Li</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+
+<a class="person__item" href="https://www.linkedin.com/in/cam-cowperthwaite-8090232a4/" target="_blank">
+
+<div class="person__pic-wrapper">
+<img class="person__pic" src="/img/group/cowperthwaite_cam.jpg">
+</div>
+<div class="person__info">
+<div class="person__name">Cameron Cowperthwaite</div>
+<div class="person__affil"></div>
+
+</div>
+
+</a>
+
+
+</div>
+ -->
+
+<h3 id="current-members">Current Members</h3>
+<div class="member__list">
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/adeoluwa-adekanmbi/" target="_blank">
+
+
+
+<img src="/img/group/adekanmbi_ade.jpg" />
+
+
+<name>Adeoluwa Adekanmbi</name><br /><member_type>(undergrad)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/alvaro-carbonero-9b7567252/" target="_blank">
+
+
+
+<img src="/img/group/carbonero_alvaro.jpg" />
+
+
+<name>Alvaro Carbonero</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/ana-rivera-4105a1137/" target="_blank">
+
+
+
+<img src="/img/group/rivera_ana.jpg" />
+
+
+<name>Ana Rivera</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://anvibhagavathula.github.io/" target="_blank">
+
+
+
+<img src="/img/group/bhagavathula_anvi.png" />
+
+
+<name>Anvita Bhagavathula</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.mit.edu/~arsam" target="_blank">
+
+
+
+<img src="/img/group/aryandoust_arsam.jpg" />
+
+
+<name>Arsam Aryandoust</name><br /><member_type>(postdoc)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://emarche.github.io/" target="_blank">
+
+
+
+<img src="/img/group/marchesini_enrico.png" />
+
+
+<name>Enrico Marchesini</name><br /><member_type>(postdoc)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/haley-nakamura/" target="_blank">
+
+
+
+<img src="/img/group/nakamura_haley.jpg" />
+
+
+<name>Haley Nakamura</name><br /><member_type>(MEng)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/hoang-nguyen-971519201/" target="_blank">
+
+
+
+<img src="/img/group/nguyen_hoang.jpg" />
+
+
+<name>Hoang Nguyen</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://james-y-chen.github.io/" target="_blank">
+
+
+
+<img src="/img/group/chen_james.jpg" />
+
+
+<name>James Chen</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/lcbooth/" target="_blank">
+
+
+
+<img src="/img/group/booth_lara.jpg" />
+
+
+<name>Lara Booth</name><br /><member_type>(Ph.D. student)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/maria-alder/" target="_blank">
+
+
+
+<img src="/img/group/alder_maria.png" />
+
+
+<name>Maria Alder</name><br /><member_type>(undergrad)</member_type>
+
+
+
+</a>
+
+
+
+</div>
+
+<h3 id="past-members">Past Members</h3>
+<div class="member__list">
+
+
+
+
+<a class="member" href="https://www.mit.edu/~aliciali/" target="_blank">
+
+
+
+<img src="/img/group/li_alicia.jpg" />
+
+
+<name>Alicia Li</name><br /><member_type>(undergrad, 2024)</member_type>
+
+
+
+</a>
+
+
+
+
+<a class="member" href="https://www.linkedin.com/in/cam-cowperthwaite-8090232a4/" target="_blank">
+
+
+
+<img src="/img/group/cowperthwaite_cam.jpg" />
+
+
+<name>Cameron Cowperthwaite</name><br /><member_type>(undergrad, 2024)</member_type>
+
+
+
+</a>
+
+
+
+</div>
+
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <!-- <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/priyald17" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/priyald17" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:donti@mit.edu" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://linkedin.com/in/priya-donti" title="LinkedIn">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">LinkedIn</span>
+            </a>
+          </li>
+          
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul> -->
+        <p class="copyright text-muted">
+		  Priya L. Donti
+      <!-- &nbsp;&bull;&nbsp; -->
+		  <!-- 2025 -->
+      
+      &nbsp;&bull;&nbsp;
+      donti [at] mit [dot] edu
+      
+		  
+      
+      <br>
+      Office: 45-601F
+      
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

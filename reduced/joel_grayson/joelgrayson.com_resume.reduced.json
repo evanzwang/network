@@ -1,0 +1,97 @@
+{
+  "title": "Joel's Resume",
+  "meta_description": "Joel Grayson's resume",
+  "main_content": "Joel Grayson Go to Site PDF Projects Buseroo.com 2021\u201323 kiosk and website for students to find closest bus to any address. Homework Checker 2021\u201322 Chrome extension helping 2,000 students manage homework. Focus 2022 Chrome extension helping 1,000 people write distraction-free. Edit Time 2024 App with 4,000 installs that changes file date created and modified properties LirongArt.com 2020 online gallery showcasing my mom\u2019s paintings. Venderoo 2023 built a vending machine that sold snacks in school hallway. YouTube channel 2018\u2013now father-and-son comedy, project records, and claymation. Climate Change Brought 493 kW solar installation to Riverdale, enough to power 50 households. 2021\u20132024 Collected rooftop measurements, created solar models in HelioScope, gathered quotes from several installers, researched legal and financial aspects, and presented to administration and Board of Trustees. Founded Students for Electric Buses to electrify school bus fleets. 2021\u20132024 Gave a TEDx talk on combating climate change . 2024 Worked on connecting NYC street vendors to the electrical grid. 2023\u201324 En-ROADS Ambassador (climate educator). 2022\u2013now Activities Manhattan Community Board 1 member: Environmental and Youth & Ed Committees. 2023\u201324 Researched novel compound for organic solar cells at NYU's Molecular Design Institute. 2023 Grade representative for five years in student government. 2019\u2013now Violin: recitals (e.g., Praeludium & Allegro, Spring) and compositions . 2011\u2013now Interned for the Stone House Group (energy efficiency consultants). 2021 Education Stanford University 2024\u201328 Riverdale Country School 2017\u201324 Honors: Geometry, Algebra II, Precalculus, Spanish I\u2013VII, Biology II, Chemistry II, Physics II GPA: 3.94 (out of 4.0), SAT: 1560 Technical Skills Full-Stack Web Development: Next.js/React, TypeScript, SQL, Docker, Express, PHP, Node App Development: Swift, SwiftUI, Java, React Native, Supabase Embedded Systems: Arduino, Raspberry Pi, ESP32, Python, C++",
+  "links": [
+    {
+      "url": "/",
+      "text": "Go to Site"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1BZ4zuOEKgKcglOQbSWBilAfFkNWgqBFW0BElgroysyI/export?format=pdf&tab=t.0",
+      "text": "PDF"
+    },
+    {
+      "url": "https://buseroo.com",
+      "text": "Buseroo.com"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/homework-checker-schoolog/aflepcmbhmafadnddmdippaajhjnmohj",
+      "text": "Homework Checker"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/focus-for-google-docs/djnloioaddlnmagobbcnjpppmbelfocf",
+      "text": "Focus"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/edit-time/id6464405876?mt=12",
+      "text": "Edit Time"
+    },
+    {
+      "url": "https://lirongart.com",
+      "text": "LirongArt.com"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bHHk2FL5Ujs",
+      "text": "Venderoo"
+    },
+    {
+      "url": "https://youtube.com/@JoelGrayson",
+      "text": "YouTube channel"
+    },
+    {
+      "url": "https://studentsforelectricbuses.org",
+      "text": "Students for Electric Buses"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rV_8xB7rGyQ",
+      "text": "TEDx talk on combating climate change"
+    },
+    {
+      "url": "/research/organic-optoelectronics",
+      "text": "Researched novel compound"
+    },
+    {
+      "url": "/music",
+      "text": "compositions"
+    }
+  ],
+  "images": [
+    {
+      "src": "/image/home/buseroo-logo.png",
+      "alt": "buseroo-logo"
+    },
+    {
+      "src": "/image/home/homework-checker-logo.png",
+      "alt": "homework-checker-logo"
+    },
+    {
+      "src": "/image/home/focus-logo.png",
+      "alt": "focus-logo"
+    },
+    {
+      "src": "/image/home/edit-time-logo.png",
+      "alt": "focus-logo"
+    },
+    {
+      "src": "/image/lirong-art/lirong-art.png",
+      "alt": "lirongart-logo"
+    },
+    {
+      "src": "/image/ccc/solar-for-riverdale/solar-panel.png",
+      "alt": "solar panel"
+    },
+    {
+      "src": "/image/home/seb-logo/optimized/entire.avif",
+      "alt": "Students for Electric Buses Logo"
+    },
+    {
+      "src": "/image/home/seb-logo/optimized/inner.avif",
+      "alt": "Inner Logo Piece"
+    },
+    {
+      "src": "/image/home/seb-logo/optimized/outer.avif",
+      "alt": "Spinning Outer logo Piece"
+    }
+  ]
+}

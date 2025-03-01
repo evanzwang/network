@@ -1,0 +1,49 @@
+{
+  "title": "Reploverse",
+  "meta_description": "The Reploverse Community is a place where you can join fellow merchants, partners, Replo team members, and other folks in the E-commerce community. We'll share ideas, learn new skills, and stay connected.",
+  "main_content": "",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "https://airtable.com/appzX9luz6we5Lfnk/shrMjIEMhWsbKnFqT",
+      "text": "Join Our Community"
+    },
+    {
+      "url": "/x/discussions",
+      "text": "\ud83d\udcacDiscussionsThis is the one channel that will always include everyone. It\u2019s a great spot for announcements and team-wide conversations."
+    },
+    {
+      "url": "/x/events",
+      "text": "\ud83d\udcc6Events"
+    },
+    {
+      "url": "/x/feature-announcements",
+      "text": "\ud83d\udc96Feature AnnouncementsKeep up to date with the latest changes to the Replo platform!"
+    },
+    {
+      "url": "/x/job-board",
+      "text": "\ud83d\ude80Job BoardThis channel serves as a space for both companies to post job openings and job seekers to find their next career opportunity."
+    },
+    {
+      "url": "/x/promote-your-stuff",
+      "text": "\ud83d\udc4dPromote Your StuffDrop your shameless plugs here! New launches, sales, events, podcasts, and more!"
+    },
+    {
+      "url": "/x/replo-questions",
+      "text": "\u2754Replo Questions\u25e2 Replo AMA \u2014 questions, support, bugs, features"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://tightknit.dev/cdn-cgi/image/width=3840/https://pthsiwxwiiowghdtkwlv.supabase.co/storage/v1/object/public/slack_files/T038LQ6TFNX/0c5c9f0b-1404-41db-b811-23211e4adc2d/F0832D2265V/Group%2014.png",
+      "alt": "Reploverse Logo"
+    },
+    {
+      "src": "https://tightknit.dev/cdn-cgi/image/width=256/https://avatars.slack-edge.com/2023-01-04/4590050522790_76e3676a42b54ae163cb_230.png",
+      "alt": "Reploverse Icon"
+    }
+  ]
+}

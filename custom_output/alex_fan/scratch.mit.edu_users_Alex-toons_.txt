@@ -1,0 +1,197 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+  [if lte IE 8]>
+  <div class="unsupported-browser banner" data-cue="unsupported_browser">
+    <div class="container">
+      <span>Scratch supports Internet Explorer 9+. We suggest you upgrade to <a href="/info/faq/#requirements">a supported browser</a>, <a href="/scratch2download/">download the offline editor</a>, or <a href="https://en.scratch-wiki.info/wiki/List_of_Bug_Workarounds">read about common workarounds</a>.</span>
+    </div>
+  </div>
+  <![endif]
+              [Create](/projects/editor/?tip_bar=home)
+              [Explore](/explore/projects/all)
+              [Ideas](/ideas)
+              [About](/about/)
+        <html><head></head><body></body></html>
+      innerwrap
+        The Scratch privacy policy has been updated, effective May 25, 2023. You can see the new policy
+          [here](/privacy_policy)
+          .
+        x
+          to enable sharing.
+          [Having trouble?](/info/faq/#accounts)
+        We are experiencing a disruption with email delivery. If you are not receiving emails from us, please try after 8am EST.
+      templates/profiles/profile_detail.html block main-content
+            Alex-toons
+              New Scratcher
+              Joined
+              1 day, 7 hours
+              ago
+              South Georgia and the South Sandwich Islands
+                About me
+                    SOCCER FAN\ Player⭐️
+                What I'm working on
+                    Only thing that I’m gonna be working on Animations
+                Featured Project
+                  [skittle animation](/projects/1140271440/)
+              What I've been doing
+          Shared Projects (3)
+          [View all](/users/Alex-toons/projects/)
+              templates/carousel/project-thumb.html
+                  [Tv problems](/projects/1140673674/)
+                by
+              end templates/carousel/project-thumb.html
+                  [Talking to siri be like](/projects/1140645308/)
+          Favorite Projects
+              Alex-toons hasn't favorited any projects
+          Studios I'm Following
+              templates/carousel/gallery-thumb.html
+                  [Comments open's at 5,000 followers](/studios/36367563/)
+              end templates/carousel/gallery-thumb.html
+                  [Animators club ✅ can I go to 7k ?](/studios/36276728/)
+          Following
+              templates/carousel/user-thumb.html
+                  [Dhilly](/users/Dhilly/)
+              end templates/carousel/user-thumb.html
+                  [-BoyMcBoy-](/users/-BoyMcBoy-/)
+                  [SharkyMAPs](/users/SharkyMAPs/)
+                  [Galaxy_Hamster](/users/Galaxy_Hamster/)
+                  [allwaysbro2](/users/allwaysbro2/)
+                  [Fuzzle_Mah](/users/Fuzzle_Mah/)
+                  [F_M_alt](/users/F_M_alt/)
+                  [MMB-Animations](/users/MMB-Animations/)
+                  [aina_animations](/users/aina_animations/)
+                  [Huntermeme](/users/Huntermeme/)
+          Followers
+                  [Alex-memes](/users/Alex-memes/)
+                  [Ivannawhite](/users/Ivannawhite/)
+                  [Huntermeme24](/users/Huntermeme24/)
+                  [Lallaymeme24](/users/Lallaymeme24/)
+                  [sunflower548](/users/sunflower548/)
+                  [MaterialGirl810](/users/MaterialGirl810/)
+          Comments
+                  You have
+                    500
+                    characters left.
+              Sorry, comment posting has been turned off for this user profile.
+                  Comments loading...
+      end block main-content
+              [About Scratch](/about/)
+              [For Parents](/parents/)
+              [For Educators](/educators/)
+              [For Developers](/developers)
+              [Our Team](/info/credits/)
+              [Donors](https://www.scratchfoundation.org/supporters)
+              [Jobs](/jobs/)
+              [Donate](/donate)
+          Community
+              [Community Guidelines](/community_guidelines/)
+              [Discussion Forums](/discuss/)
+              [Scratch Wiki](http://wiki.scratch.mit.edu/)
+              [Statistics](/statistics/)
+          Resources
+              [Starter Projects](/starter-projects)
+              [FAQ](/info/faq/)
+              [Download](/download)
+              [Contact Us](/contact-us/)
+          Legal
+              [Terms of Use](/terms_of_use/)
+              [Privacy Policy](/privacy_policy/)
+              [Cookies](/cookies/)
+              [DMCA](/DMCA/)
+              [DSA Requirements](https://www.scratchfoundation.org/dsa/)
+              [MIT Accessibility](https://accessibility.mit.edu/)
+          Scratch Family
+              [ScratchEd](http://scratched.gse.harvard.edu/)
+              [ScratchJr](http://www.scratchjr.org/)
+              [Scratch Day](http://day.scratch.mit.edu/)
+              [Scratch Conference](/conference/)
+              [Scratch Foundation](http://www.scratchfoundation.org/)
+              [Scratch Store](/store)
+              Аҧсшәа
+              Afrikaans
+              العربية
+              Asturianu
+              አማርኛ
+              Aragonés
+              Azeri
+              Bahasa Indonesia
+              বাংলা
+              Беларуская
+              Български
+              Català
+              Česky
+              Cymraeg
+              Dansk
+              Deutsch
+              Eesti
+              Ελληνικά
+              English
+              Español (España)
+              Español Latinoamericano
+              Esperanto
+              Euskara
+              فارسی
+              Filipino
+              Français
+              Frysk
+              Gaeilge
+              Gàidhlig
+              Galego
+              한국어
+              Hausa
+              Հայերեն
+              עִבְרִית
+              हिंदी
+              Hrvatski
+              isiXhosa
+              isiZulu
+              Íslenska
+              Italiano
+              ქართული ენა
+              қазақша
+              Kichwa
+              Kiswahili
+              Kreyòl ayisyen
+              Kurdî
+              کوردیی ناوەندی
+              Latviešu
+              Lietuvių
+              Magyar
+              Māori
+              Монгол хэл
+              Nederlands
+              日本語
+              にほんご
+              Norsk Bokmål
+              Norsk Nynorsk
+              Occitan
+              ଓଡ଼ିଆ
+              Oʻzbekcha
+              ไทย
+              ភាសាខ្មែរ
+              Polski
+              Português
+              Português Brasileiro
+              Rapa Nui
+              Română
+              Русский
+              Sepedi
+              Setswana
+              Slovenčina
+              Slovenščina
+              Српски
+              Suomi
+              Svenska
+              Tiếng Việt
+              Türkçe
+              Українська
+              简体中文
+              繁體中文
+  templates/modal-login.html block
+          Sign in
+            Username
+            Password
+  end templates/modal-login.html
+  templates/profiles/profile_detail.html block js
+  end block js
+  load javascript translation catalog, and javascript fuzzy date library

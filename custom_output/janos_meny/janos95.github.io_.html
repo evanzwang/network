@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Janos Meny - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .about-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        .about-image {
+            max-width: 100%;
+            border-radius: 5px;
+        }
+        .social-links a {
+            margin-right: 10px;
+        }
+        @media (min-width: 768px) {
+            .about-section {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+            .about-image {
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Janos Meny</h1>
+        
+        <h2>About Me</h2>
+        <div class="about-section">
+            <div>
+                <p>Hello! I'm Janos Meny, a mathematician who turned programmer, specializing in geometry processing, optimization, and computer graphics. I studied mathematics at the University of Bonn, focusing on algebraic geometry in my bachelor's and PDE-constrained optimization in my master's. Currently, I'm working at <a href="https://www.roblox.com" target="_blank">Roblox</a> on realtime, fully networked solid modeling tools and geometry processing algorithms. Previously, I was at <a href="https://ntop.com" target="_blank">nTop</a>, working on implicit modeling and latticing tools for high performance 3D printing applications.</p>
+            </div>
+            <img src="janos_selfi.jpg" alt="Janos Meny" class="about-image">
+        </div>
+        
+        <h2>Interests</h2>
+        <p>I am broadly interested in various fields, including:</p>
+        <ul>
+            <li>Computational Geometry</li>
+            <li>Computer Graphics</li>
+            <li>Numerical Optimization</li>
+            <li>Robotics</li>
+            <li>Compilers and Programming Languages</li>
+            <li>Applied Mathematics</li>
+        </ul>
+        
+        <h2>Projects</h2>
+        <p>A few projects I've worked on:</p>
+        <div>
+            <h3><a href="https://github.com/Janos95/mantis" target="_blank">Mantis</a></h3>
+            <p>A blazing fast, SIMD-accelerated implementation for computing distance to triangle mesh.</p>
+        </div>
+        <div>
+            <h3><a href="https://github.com/Janos95/Phasefields" target="_blank">Phasefield</a></h3>
+            <p>A phasefield-based optimization framework for 3D surface segmentation.</p>
+        </div>
+        
+        <h2>Contact</h2>
+        <p>If you'd like to discuss math, technology, or any interesting projects, feel free to reach out to me.</p>
+        <div class="social-links">
+            <a href="https://github.com/janos95" target="_blank">GitHub</a>
+            <a href="https://twitter.com/MenyJanos" target="_blank">Twitter</a>
+            <a href="mailto:janos.meny@googlemail.com">Email</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,209 @@
+{
+  "title": "(PDF) Derivation of a Function for Velocity for Falling Objects with Non-Negligible Air Resistance",
+  "meta_description": "PDF | For many falling objects, air resistance can be assumed to be negligible; however, this assumption is not a valid one to make in many cases. Thus,... | Find, read and cite all the research you need on ResearchGate",
+  "main_content": "Home Internal Medicine Geriatrics Medicine Falls Preprint PDF Available Derivation of a Function for Velocity for Falling Objects with Non-Negligible Air Resistance December 2021 DOI: 10.13140/RG.2.2.23260.05765 Authors: Leonhard Nagel University of California, Berkeley Download file PDF Read file Preprints and early-stage research may not have been peer reviewed yet. Download file PDF Read file Download citation Copy link Link copied Read file Download citation Copy link Link copied Abstract For many falling objects, air resistance can be assumed to be negligible; however, this assumption is not a valid one to make in many cases. Thus, a function relating velocity to time, under consideration of drag, can be used to better estimate the velocity of a falling object.In an idealized sense, two forces act upon a falling object: weight and drag. These two forces can be assumed to act in opposite direction to each other. This means that a simple equation for acceleration based on Newton\u2019s Second Law of Motion can be found, which can then be derived to yield an expression for velocity Discover the world's research 25+ million members 160+ million publication pages 2.3+ billion citations Join for free Content uploaded by Leonhard Nagel Author content All content in this area was uploaded by Leonhard Nagel on Jul 10, 2022 Content may be subject to copyright. Deriv ation of a F unction for V elocity for F alling Ob jects with Non-Negligible Air Resistance Leonhard Nagel Novem ber 2021 Abstract F or many falling objects, air resistance can b e assumed to be negligible; however, this assumption is not a valid one to mak e in many cases. Thus, a function relating velocity to time, under consideration of drag, can b e used to better estimate the velocity of a falling object. In an idealized sense, two forces act upon a falling object: weight and drag. These two forces can be assumed to act in opposite direction to each other. This means that a simple equation for acceleration based on Newton\u2019s Second Law of Motion can be found, which can then be derived to yield an expression for velocity . As stated in the abstract, the goal of this paper is it to \ufb01nd a function relating velocity ( v ) to time ( t ) in terms of the mass of the object ( m ), gravitational acceleration ( g ) and the proportion- ality constant betw een velocity squared and drag ( z ). This paper assumes that the only two forces acting on the object are weight ( F G ) and drag ( F D ). To get the magnitude of these t wo forces, the following tw o equations are used, respectively. F G = mg F D = zv 2 Note that this paper accepts the common assumption that drag is proportional to the square of the velocity . The prop ortionalit y constant is said to be equal to the following, whereby C D is the drag coe\ufb03cient, \u03c1 is the density of the medium and A is the reference area of the body. z = C D A\u03c1 2 Newton\u2019s Second Law of Motion can be stated as the following relationship of net force ( F net ), mass ( m ), and acceleration ( a ). F net = ma \u21d0 \u21d2 a = F net m In the case of this falling object, drag and weight act on it in opposite directions. Thus, net force equals the following. (Note: for the purposes of this calculation, moving in a positive direction is considered to be moving towards the surface of the earth.) F net = F G \u2212 F D F G and F D can now also be substituted with their respective formulae. F net = mg \u2212 zv 2 This expression can now be substituted into Newton\u2019s Second Law. a = mg \u2212 zv 2 m a can thereby be rewritten as the derivativ e of v with respect to t , d v d t , which yields the following di\ufb00erential equation. d v d t = mg \u2212 zv 2 m This di\ufb00erential equation is considered to be separable, which means that it is helpful to mov e all terms involving v to the left side, while leaving all other terms on the other. After moving the 1 terms, the left side can be integrated with respect to v and the right side can be integrated with respect to t . Z 1 mg \u2212 zv 2 d v = Z 1 m d t The integral on the right-hand side can be ev aluated with relative ease. T o evaluate the integral on the left-hand side, 1 mg can be \ufb01rstly factored out of the fraction and placed in front of the integral, as it is a constant. 1 mg Z 1 1 \u2212 z mg v 2 d v = t m The z mg term in the denominator of the fraction in the integral can be combined into the v 2 term to yield the following. 1 mg Z 1 1 \u2212 ( v q z mg ) 2 d v = t m The integral on the right-hand side can be simpli\ufb01ed by performing a u -substitution, whereby the function u is de\ufb01ned as u = q z mg v . The derivative of this function can be found using the power rule. d u d v = d d v r z mg v = 1 \u00b7 r z mg v 1 \u2212 1 = r z mg An expression for d u can be found by rearranging the equation. d u d v = r z mg \u21d0 \u21d2 d u = r z mg d v In the oringinal equation, the fraction inside the integral can be multiplied by p mg z \u00b7 q z mg . 1 mg Z 1 1 \u2212 ( v q z mg ) 2 \u00b7 r mg z \u00b7 r z mg d v = t m In this equation, v q z mg can be substituted by u , as per de\ufb01nition of u . q z mg d v can be substituted with d u , as per a relationship established two equations ago. The p mg z , as a constant, can be placed in front of the integral and com bined with 1 mg . 1 \u221a zmg Z 1 1 \u2212 u 2 d u = t m The following identit y can now be used to evaluate the in tegral on the left-hand side, whereby x \u2208 R\u29f9 { 1 , \u2212 1 } . d d x tanh \u2212 1 ( x ) = 1 1 \u2212 x 2 \u21d0 \u21d2 Z 1 1 \u2212 x 2 d x = tanh \u2212 1 ( x ) Thus, using the identity to solv e the integral, substituting u for x , will yield the following expression. 1 \u221a zmg \u00b7 tanh \u2212 1 ( u ) = t m q z mg v can be substituted for u , and the fraction can be recombined. tanh \u2212 1 ( q z mg v ) \u221a zmg = t m Both sides can now be multiplied by \u221a zmg , after which the hyperbolic tangent function can also applied to both sides. v r z mg = tanh( r zg m t ) Finally , both sides are multiplied by p mg z to yield an expression for v as a function of t . v ( t ) = r mg z tanh( r zg m t ) 2 ResearchGate has not been able to resolve any citations for this publication. ResearchGate has not been able to resolve any references for this publication.",
+  "links": [
+    {
+      "url": "directory/publications",
+      "text": "Home"
+    },
+    {
+      "url": "topic/Internal-Medicine/publications",
+      "text": "Internal Medicine"
+    },
+    {
+      "url": "topic/Geriatrics/publications",
+      "text": "Geriatrics"
+    },
+    {
+      "url": "topic/Medicine/publications",
+      "text": "Medicine"
+    },
+    {
+      "url": "topic/Falls/publications",
+      "text": "Falls"
+    },
+    {
+      "url": "http://dx.doi.org/10.13140/RG.2.2.23260.05765",
+      "text": "10.13140/RG.2.2.23260.05765"
+    },
+    {
+      "url": "profile/Leonhard-Nagel-5",
+      "text": ""
+    },
+    {
+      "url": "profile/Leonhard-Nagel-5",
+      "text": "Leonhard Nagel"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University-of-California-Berkeley",
+      "text": "University of California, Berkeley"
+    },
+    {
+      "url": "profile/Leonhard-Nagel-5/publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance/links/62cb1de13bbe636e0c5389b0/Derivation-of-a-Function-for-Velocity-for-Falling-Objects-with-Non-Negligible-Air-Resistance.pdf",
+      "text": "Download file PDF"
+    },
+    {
+      "url": "publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance#read",
+      "text": "Read file"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Leonhard-Nagel-5/publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance/links/62cb1de13bbe636e0c5389b0/Derivation-of-a-Function-for-Velocity-for-Falling-Objects-with-Non-Negligible-Air-Resistance.pdf",
+      "text": "Download file PDF"
+    },
+    {
+      "url": "publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance#read",
+      "text": "Read file"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance/citation/download",
+      "text": "Download citation"
+    },
+    {
+      "url": "publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance#read",
+      "text": "Read file"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance/citation/download",
+      "text": "Download citation"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "publication/361892835_Derivation_of_a_Function_for_Velocity_for_Falling_Objects_with_Non-Negligible_Air_Resistance#read-preview",
+      "text": ""
+    },
+    {
+      "url": "profile/Leonhard-Nagel-5",
+      "text": "Leonhard Nagel"
+    },
+    {
+      "url": "topic/Falls",
+      "text": "Falls"
+    },
+    {
+      "url": "publication/354397382_Do_It_Yourself_Air_Drag_Force_Experiment_Using_Paper_and_Scraper_Sheet",
+      "text": "Do It Yourself: Air Drag Force Experiment Using Paper and Scraper Sheet"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rizki-Zakwandi",
+      "text": "Rizki Zakwandi"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Ariswan-Ariswan-2",
+      "text": "Ariswan Ariswan"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Syifa-Nurfala-2200750550",
+      "text": "Syifa Nurfala"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Ade-Nuryantini",
+      "text": "Ade Yeti Nuryantini"
+    },
+    {
+      "url": "publication/354397382_Do_It_Yourself_Air_Drag_Force_Experiment_Using_Paper_and_Scraper_Sheet",
+      "text": "Read more"
+    },
+    {
+      "url": "publication/296130362_Equations_of_motion_of_vertically_thrown_and_falling_particles_for_Newton's_drag_law",
+      "text": "Equations of motion of vertically thrown and falling particles for Newton's drag law."
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sebastian-Petho",
+      "text": "Sebastian Petho"
+    },
+    {
+      "url": "publication/296130362_Equations_of_motion_of_vertically_thrown_and_falling_particles_for_Newton's_drag_law",
+      "text": "Read more"
+    },
+    {
+      "url": "publication/344135309_Chapter_8_Applications_to_Physics",
+      "text": "Chapter 8. Applications to Physics"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Keith-D-Stroyan-2285040311",
+      "text": "Keith D. Stroyan"
+    },
+    {
+      "url": "publication/344135309_Chapter_8_Applications_to_Physics",
+      "text": "Read more"
+    },
+    {
+      "url": "publication/354035016_On_the_fall_of_an_object_with_both_linear_and_quadratic_air_resistance",
+      "text": "On the fall of an object with both linear and quadratic air resistance"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Jorge-Andrade-22",
+      "text": "Jorge Andrade"
+    },
+    {
+      "url": "publication/354035016_On_the_fall_of_an_object_with_both_linear_and_quadratic_air_resistance",
+      "text": "View full-text"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "go.GetApp.html?_sg=FbabeR_gc1QQnd7qc1huNc_c-9S-a8vUtTXwR03-cdvlkIo2vG8-4TVSs5OxU9lS8m57ch46DJoWvdNP9A7eQBglfSJ7eFugY4LaHS9Gla4&originCh=bannerStatsCopy&relativePath=publicationLoggedOut&interested=true",
+      "text": ""
+    },
+    {
+      "url": "go.GetApp.html?_sg=FbabeR_gc1QQnd7qc1huNc_c-9S-a8vUtTXwR03-cdvlkIo2vG8-4TVSs5OxU9lS8m57ch46DJoWvdNP9A7eQBglfSJ7eFugY4LaHS9Gla4&originCh=bannerStatsCopy&relativePath=publicationLoggedOut&interested=true",
+      "text": "ResearchGate iOS AppGet it from the App Store now."
+    },
+    {
+      "url": "go.GetApp.html?_sg=FbabeR_gc1QQnd7qc1huNc_c-9S-a8vUtTXwR03-cdvlkIo2vG8-4TVSs5OxU9lS8m57ch46DJoWvdNP9A7eQBglfSJ7eFugY4LaHS9Gla4&originCh=bannerStatsCopy&relativePath=publicationLoggedOut&interested=true",
+      "text": "Install"
+    },
+    {
+      "url": "go.GetApp.html?_sg=FbabeR_gc1QQnd7qc1huNc_c-9S-a8vUtTXwR03-cdvlkIo2vG8-4TVSs5OxU9lS8m57ch46DJoWvdNP9A7eQBglfSJ7eFugY4LaHS9Gla4&originCh=bannerStatsCopy&relativePath=publicationLoggedOut&interested=true",
+      "text": "Keep up with your stats and more"
+    },
+    {
+      "url": "go.GetApp.html?_sg=FbabeR_gc1QQnd7qc1huNc_c-9S-a8vUtTXwR03-cdvlkIo2vG8-4TVSs5OxU9lS8m57ch46DJoWvdNP9A7eQBglfSJ7eFugY4LaHS9Gla4&originCh=bannerStatsCopy&relativePath=publicationLoggedOut&interested=true",
+      "text": "Access scientific knowledge from anywhere"
+    }
+  ],
+  "images": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Leonhard Nagel at University of California, Berkeley"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "ResearchGate Logo"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rizki Zakwandi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ariswan Ariswan"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ade Yeti Nuryantini"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sebastian Petho"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jorge Andrade"
+    },
+    {
+      "src": "https://www.researchgate.net/images/nativeApp/rg_app_ios_logo_small.png",
+      "alt": "RG Logo"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Liangze Li -     Language Technologies Institute -     School of Computer Science - Carnegie Mellon University",
+  "meta_description": "Bio of Liangze Li, Student at Carnegie Mellon University's Language Technologies Institute",
+  "main_content": "School of Computer Science \u203a Language Technologies Institute \u203a People \u203a Students \u203a Liangze Li Liangze Li Contact liangzel(through)andrew.cmu.edu Master of Language Technologies Academic Advisor: Robert Frederking",
+  "links": [
+    {
+      "url": "https://www.cs.cmu.edu/",
+      "text": "School of Computer Science"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Language Technologies Institute"
+    },
+    {
+      "url": "../index.html",
+      "text": "People"
+    },
+    {
+      "url": "index.html",
+      "text": "Students"
+    },
+    {
+      "url": "../faculty/frederking-robert.html",
+      "text": "Robert Frederking"
+    }
+  ],
+  "images": [
+    {
+      "src": "student-bio-images/li-liangze.gif",
+      "alt": "Liangze Li"
+    }
+  ]
+}

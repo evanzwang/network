@@ -1,0 +1,37 @@
+{
+  "title": "Justin Ji",
+  "meta_description": "Justin Ji's personal website.",
+  "main_content": "Hi! I\u2019m Justin, AKA Juji. I\u2019m a junior studying Computer Science at Harvard University (c/o 2026). I\u2019m interested in AI research and building products that leave a lasting impact. In my free time, I enjoy playing volleyball, reading, and eating Chipotle. Read more about me ! Contact me You can reach me via LinkedIn (preferred) or email . Always happy to meet new people!",
+  "links": [
+    {
+      "url": "/about-me",
+      "text": "about me"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jujipotle",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "mailto:justinji@college.harvard.edu",
+      "text": "email"
+    },
+    {
+      "url": "mailto:%6A%75%73%74%69%6E%6A%69@%63%6F%6C%6C%65%67%65.%68%61%72%76%61%72%64.%65%64%75",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/jujipotle",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jujipotle",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/img/headshot.png?6d7a2bbe1136d3bbd958d0b52e9e08d1",
+      "alt": "headshot.png"
+    }
+  ]
+}

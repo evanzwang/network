@@ -1,0 +1,153 @@
+    lab members
+    header section open
+      menu start
+              [home](/index.php)
+              [research](/research.php)
+              [members](/lab_members.php)
+                  [current](/lab_members.php)
+                  [alumni](/lab_alumni.php)
+              [publications](/publications_our_lab.php)
+                  [our lab](/publications_our_lab.php)
+                  [collaboration](/publications_collaboration.php)
+                  [lab resources](/lab_resources.php)
+                  [diversity](/diversity.php)
+      menu end
+    header section close
+  main section open
+        Duane Wesemann, M.D., Ph.D.
+        Founder
+        Associate Professor of Medicine, Harvard Medical School
+        Associate Physician, Brigham and Women's Hospital
+        From: Rocky Mountains, USA
+        Duane worked odd jobs throughout high school, including paper boy, dishwasher, janitor, wallpaperer, mailbox painter, and ring resizer to pay for flying lessons. He was turned on to biology from a young age and received his M.D. and Ph.D. with Tika Benveniste studying cell biology and learned B cell biology from Max Cooper and Fred Alt. He currently sees patients that suffer from problems of the immune system. His favorite thing is doing science with his lab team studying the wonders of adaptive immunity.
+        Avneesh Kumar Gautam, Ph.D.
+        Joined 2018
+        Ph.D. Biotechnology, National Center for Cell Sciences, 2015
+        M. Sc. Biotechnology, IIT Bombay, 2009
+        From: Uttar Pradesh, India
+        Avneesh did his Ph.D. in the field of complement biology by using a viral complement regulator as model protein to understand its regulation. Later he became interested in antibody research which brought him to the Wesemann Lab where he worked on different aspects of antibody biology including antibody response to SARS-cov2 spike. Currently, he is more interested to understand the depth and breadth of antibody somatic hypermutation reach. Outside the lab, he likes to learn different aspects of science and go for walks.
+        Duck-Kyun “DK” Yoo, Ph.D.
+        Joined 2022
+        Ph.D. Biomedical Science, Seoul National University, 2021
+        B.Sc. Plant Science, Seoul National University, 2015
+        From: Seoul, South Korea
+        Duck-Kyun’s doctoral studies involved the development of high-throughput antibody discovery methods utilizing antibody repertoire sequencing. As a postdoc in the Wesemann Lab, his research interests are focused on designing analytical tools in understanding the principles shaping the antibody-antigen interactome. Outside the lab, he loves heavy-eating and long-distance walking/running while listening to music. Let’s share the playlists!
+        Keerti Fnu, Ph.D.
+        Ph.D. Life Sciences, Central Drug Research Institute, 2018
+        M.Sc Biochemistry, G.B. Pant University of Agriculture & Technology, 2011
+        From: Dehradun, India
+        Keerti inclined towards biological science research during her Master's studies. She's felt motivated in solving puzzled mysteries of biological science. Her doctoral thesis focuses on evaluating the therapeutic efficacy of parasite-derived proteins against experimental leishmaniasis. Further she also gained experience in studying the crosstalk between xenophagy and the immune system. Presently, she's unraveling the functional and physiological relevance of perplexed B- cell immune response during viral infection. Outside the lab, she enjoys gathering with friends, hiking and cooking.
+        Caihong Bi, Ph.D.
+        Ph.D. Preventive Veterinary Medicine, Chinese Academy of Agricultural Sciences, 2021
+        M.V.Sc. Veterinary Medicine, Chinese Academy of Agricultural Sciences, 2017
+        From: Qingdao, Shandong, China
+        Caihong's MVSc studies are related to the structural analysis of epitopes recognized by mAbs against viral proteins. His Ph.D. studies focus on viral regulation on innate immunity. The research experience he possessed makes him addicted to virology and immunology. Currently, he is exploring the immune response to SARS-CoV-2. When he is not thinking about science, he can be found learning new things and listening to music.
+        Sachin Kumar, Ph.D.
+        Ph.D. Biological sciences, CSIR-Indian Institute of Toxicology Research, 2019
+        M.Sc. Toxicology, C C S University, Meerut, India
+        From: Meerut, Uttar Pradesh, India
+        Sachin was born and raised in the city of Meerut, Uttar Pradesh, India. Previously he has worked in the field of food allergy as well as immunotoxicology. Sachin’s doctoral studies were focused on evaluating the allergic potential of Buchanania lanzan. Currently, he has worked in Wesemann’s lab as postdoctoral fellow and is indulged in exploring various aspects of food allergy such as role of gut microbiota in emergence of allergic reactions. He is inquisitive about Alpha Gal allergy that develops on induction or sensitization by tick bite as tick’s saliva have oligosaccharides antigen and after eating meat develop anaphylactic response. Sachin is trying and determined to solve this main problem. When Sachin is not working, he enjoys playing cricket, watches movies, tries good food and loves spending time with family/friends.
+        Zahra Allahyari, Ph.D.
+        Ph.D. Microsystems Engineering, Rochester Institute of Technology
+        M.Sc. Tissue Engineering, Tehran Polytechnic, 2015
+        From: Iran
+        Zahra was born in Iran and moved from city to city because of the requirement of her father’s job as an air force electronics engineer. She is a little bit shy but loves to meet new people and make friends. She loves math, and at the same time, she is fascinated by biology. She chose to pursue biomedical engineering in college to satisfy both of her interests. She obtained her first bachelor's in biomechanics in 2013, and the second one in biomaterials in 2014 both from Tehran Polytechnic. She also acquired her master’s in tissue engineering from the same school in 2015. Zahra joined the microsystems engineering program in Rochester Institute of Technology in 2017, focusing on understanding cell-substrate interactions in microphysiological systems using experimental and computational tools. She completed her Ph.D. in 2022 before joining Wesemann lab as a postdoctoral research fellow. When she is not doing research, she enjoys reading fiction books, watching Sci-Fi movies, and practicing photography.
+        Fang Tian, Ph.D.
+        Ph.D. Chemical Biology, Nanjing University, 2022
+        M.Sc. Medicinal Chemistry, Lanzhou University, 2017
+        From: Jiuquan, Gansu, China
+        Fang Tian's Ph.D. studies focused on the mechanics of the cell adhesion by COVID-19 using atomic force microscopy-based single-cell force spectroscopy. Currently, she will investigate infection-induced and vaccine-induced antibodies over time to determine the recognition patterns on SARS-CoV-2 spike protein.
+        Rahaman Ahmed, Ph.D.
+        Ph.D. Cell Biology and Genetics, University of Lagos, 2022
+        M.Sc. Cell Biology and Genetics, University of Lagos, 2013
+        From: Lagos, Nigeria
+        Rahaman grew up in a water-surrounded city in the west southern part of Nigeria. He has had a passion for biology since when he was in high college, presently developing his career in the field of Cell biology and Genetics, mastering immunogenomics. He is ⁸keen on understanding how the empirical components of the adaptive immune cells are associated with, and how they may contribute better to, the development of efficacious vaccines and therapeutics for human diseases. Rahaman likes to gain new useful ideas from people irrespective of their status, and loves brisk-walking when he intends to do physical exercise.
+        Abdulrahman Idoko Adam, Ph.D.
+        Joined 2023
+        Ph.D. Cell and Molecular Biophysics, King's College London, 2023
+        M.Sc. Biotechnology, University of Glasgow, 2016
+        B.Sc. Microbiology, Al-Hikmah University, Ilorin, Nigeria, 2013
+        From: Enugu, Nigeria
+        Abdulrahman was born in Nigeria, where he obtained an undergraduate degree. He then worked as a Lecturer in a university in Nigeria before moving to the United Kingdom where he obtained a master's degree. He returned to Nigeria to continue his career at the university, and was later awarded a scholarship at King's College London, where he completed a P.hD. His P.hD. research was focused on structural and functional characterisation of the interactions between parasite antigens and parasite-specific antibodies using biophysical techniques like surface plasmon resonance (SPR), and cell-based assays. His research interests include studying immune responses to allergy and infectious diseases using biophysical and immunological techniques, and developing therapeutics to tackle allergies and infections. He is also very passionate about biotech innovation. This led to him being selected to attend events such as the GapSummit in Cambridge, UK, and the Novartis International Biotechnology Leadership Camp in Basel, Switzerland. Outside the lab, he spends his time traveling, attending biotech events, visiting museums and art galleries, and is a big football fan.
+        Aida Alirezaee, M.D.
+        Internal Medicine Specialist, Mashhad University of Medical Sciences, 2018
+        M.D. Birjand University of Medical Sciences, 2010
+        Aida Alirezaee, finished Internal Medical Residency in 2018 and then served as a physician visiting patients, and followed her interests in the field of research in the Student Research Committee of Mashhad Medical School. Her main interests are Immunology and Rheumatology. Her hobbies are spending time with her son, traveling and listening to music.
+        Wenyan Guan, Ph.D.
+        Joined 2024
+        Ph.D. Molecular and Cell Biology, Materials and Biomaterials Science and Engineering, University of California, Merced, 2024
+        From: China
+        Wenyan was born and grew up in China. Her PhD research mainly focuses on studying the interactions of CC chemokines and its inhibitor vCCI (viral CC chemokine inhibitor), SARS-CoV-2 spike protein, and silk-based scaffolds for drug delivery. She joined Wesemann’s lab as a postdoc researcher right after graduation. Wenyan is interested in B cell development, such as B cell evolution, maturation, and regulation. Her hobbies include reading, cooking, working out, hiking, etc.
+        John Dingus, Ph.D.
+        Ph.D. Biological and Biomedical Sciences, Harvard University, 2021
+        From: California/Boston
+        John grew up in southern California but moved to Boston for college and has lived there ever since. His graduate research focused on nanobody engineering for the development of intracellularly active tools, which bred a further interest in antibody structure/function and adaptive immunity. He is fascinated by molecular recognition, structure modeling, and protein evolution, and is determined to leverage structural insights to help develop protein-based tools and therapeutics. In his down time, John loves spending time with his wife and daughter, and playing games of all sorts.
+        Aritra Mahapatra, Ph.D.
+        Ph.D. Computational Phylogeny, Indian Institute of Technology Kharagpur, 2022
+        From: West Bengal, India
+        Aritra’s interest in academics bloomed at a very young age while teaching students during his high-school education. Although a Bachelors, Masters, and PhD in Computer Science, his deep interest in medical sciences brought him to the path of computational biology and bioinformatics-related research. During his PhD in computational phylogeny, Aritra worked on several computational methods and machine learning approaches to infer phylogenetic trees from whole genome sequences. Also he taught computer science to undergrad students as a faculty. After his PhD, he joined the Technical University of Munich, Germany, as a postdoctoral research fellow, where he analyzed the effect of gut microbiome on inflammatory bowel diseases. Currently, his research interest focuses on applying his computational expertise to explore the evolution of the adaptive immune system.  When he is not found in the lab, he might be spotted in a coffee shop or a restaurant with his wife.
+        Shahab Saghaei M.Sc.
+        M.Sc. Bioinformatics and Molecular Biotechnology, University of Milan, 2021
+        From: Tehran, Iran
+        Having spent years of his career in Italy at the Center for Omics Sciences, San Raffaele Hospital, Milan, Shahab developed MetaSHA—a metagenomic pipeline using Snakemake that integrates three classifiers, benchmarks their performance, and generates insightful reports. Outside of his professional endeavors, he seeks tranquility in nature, delights in refreshing swims, and enjoys the camaraderie of soccer.
+        Jessica W. Chen
+        Ph.D. student, Harvard Virology
+        B.S. Molecular Cell Biology, University of Hawaiʻi at Mānoa, 2018
+        B.A. Studio Art, University of Hawaiʻi at Mānoa, 2018
+        From: From Honolulu, Hawaiʻi
+        Jessica was born in Honolulu, Hawaiʻi and spent most her life in the summery state. Her first experience with snow was when she moved to Bethesda, Maryland to become a postbaccalaureate fellow at the National Institutes of Health (NIH). Jessica has prior experiences in marine biology research from her undergraduate and respiratory syncytial virus (RSV) vaccine development from the NIH. Her hobbies include pottery, baking, spending time with her cat, and playing video games.
+        Gaspar A. Pacheco
+        Ph.D. student, Harvard Immunology
+        B.S. Biochemistry, Pontifical Catholic University of Chile, 2022
+        From: Santiago, Chile
+        Gaspar was born in Santiago, Chile. As an undergraduate student, he worked in experimental vaccines against the respiratory syncytial virus (RSV). He later worked as a research assistant in phase III clinical trials evaluating the magnitude and breadth of humoral and cellular responses elicited by an inactivated vaccine against SARS-CoV-2. Gaspar is broadly interested in B cell function and regulation - how antigen recognition impacts B cell responses, factors shaping affinity maturation, how is germinal center lifespan and affinity maturation potential controlled, and what controls humoral differentiation. When he is not in the lab, Gaspar enjoys baking, playing the piano, watching TV series, and playing video games.
+        Natalie Caputo
+        B.S. Biology, College of William and Mary, 2021
+        B.S. Psychology, College of William and Mary, 2021
+        From: Centreville, VA
+        Natalie was born in Virginia, grew up in Virginia, and went to college in Virginia. As an undergraduate student, she investigated the effects of low-level, chronic methylmercury exposure on zebra finch embryonic development. After graduation, she finally left Virginia to spend two years as a postbaccalaureate fellow at the National Institutes of Health (NIH) in Bethesda, Maryland studying viral pathogenesis. While there, she helped develop high-throughput approaches for characterizing antibody repertoires generated against flaviviruses and bunyaviruses. Natalie is broadly interested in B cell immunology, specifically how viral pathogens trigger germinal cell formation and subsequent plasma cell and memory cell differentiation. When she is not at the bench, Natalie enjoys exploring her new Boston home, playing with her cat, reading sci-fi novels, testing out new baking recipes, and attending cycling classes!
+        Kenneth Green
+        Ph.D. student, Aarhus University, Molecular Biology / Fulbright Exchange (Denmark)
+        BSc and MSc in Molecular Biology, Aarhus University, Denmark
+        From: Aarhus, Denmark
+        Kenneth is an integrated MSc and Ph.D. student with Assoc. Prof. Søren Degn and Prof. Jørgen Kjems at Aarhus University, Denmark, joining the Wesemann Lab as a visiting student researcher for a 6-months exchange. During his studies, Kenneth emerged himself in the field of Immunology as the field embracing the complexity and interdisciplinarity to answer the challenges of today and tomorrow. In those endeavors B cells have been the common denominator and the prime example of the intricate network of the immune system which is needed to be understood and harnessed. This belief was exactly what motivated Kenneth to join the Wesemann Lab. Apart from nerding out about B cells, Kenneth enjoys teaching, working out and attending to his - not at all unhealthy - coffee hobby.
+        Sweta Khobragade
+        Lab Manager, Senior Research Lab Technician
+        M.Sc. in Biotechnology
+        From: Mumbai, India
+        Sweta completed her M.Sc. in Biotechnology, where she developed a fascination for the vast scientific world out there. As a research fellow at NCCS, Pune, India, she studied the apoptotic (cell death) pathway in the Leishmania parasite, which causes leishmaniasis. She also collaborated on proteogenomic studies of Leishmania. Her interest in the immunological aspect of infection biology led her to research the Complement biology (innate arm) of the immune system, using the viral complement regulator Kaposica of the KSHV virus. To further explore the adaptive arm of immunology, she then joined the Wesemann lab. Where she is currently studying B cell evolution for de novo recognitions also investigating the HIV-1 Env protein for immunogen design. Sweta also manages the lab’s inventory, mice facility, and general maintenance. Outside the lab, she enjoys exploring new places, cooking, eating food from different cultures, gardening, and spending time with friends and family.
+        Meydan "Mey" Kronrod
+        Research Technician
+        M.S. in Biotechnology
+        From: Sudbury, MA
+        Mey recently completed her M.S degree in Applied Molecular Biotechnology at UMass Amherst. She also holds a B.S in Dietetics, and her research interests are epigenetic influences of the gut microbiome and diet on human disease. She worked as a research assistant for 3 years with the New Mom’s Wellness study at UMass Amherst, as well as interned at the Biomedical lab of Dr. Soumita Das at UMass Lowell during the summer of 2023. Outside of work, Mey enjoys any sort of visual arts (painting, drawing, sculpting, clothing modifications/sewing, you name it, she is probably game!), as well as getting outside for a hike, run, swim, or a skiing or boating adventure :)
+        We want you!
+        We have amazing members from all around the world and are always looking to recruit enthusiastic individuals to join us! Please send an email to dwesemann@bwh.harvard.edu.
+  main section close
+  footer open
+  <P style="padding-top: 15px;" ></P>
+              Follow us
+            End Social link
+          End Footer info
+        End Col
+                End contact Icon
+                  New Research Building (NRB)
+                  77 Avenue Louis Pasteur
+                  4th Floor
+                  Boston, MA 02115
+                End Contact Info
+              End Contact Us
+                  Lab Phone:
+                  617-525-1285
+                  Office Phone:
+                  617-525-1295
+          End Contact Row
+          End Row
+      End Widget Row
+    End Contact Container
+            Copyright ©2024 Wesemann laboratory. All Right Reserved. Designed and developed by Shahab, content managed by Jessica.
+      End Copyright Container
+    End Copyright
+    Back to top
+    End Back to top
+  footer close

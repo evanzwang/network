@@ -1,0 +1,39 @@
+        [Home](/)
+        [About](/about)
+        [Research](/publications)
+        [Blog](/blog)
+    Andrew Ye
+    叶安迪
+        [dog](/assets/images/son.jpg)
+        . I also like to write down things of interest – or of no interest – in my
+        [blog](/blog)
+        .
+      In particular, some fields I enjoy learning about include neural architectures, human-computer interaction, probability/combinatorics, metacognition, and learning theory. I am currently involved in several projects that lie at the heart of the intersections of these topics (see
+        [publications](/publications)
+        ), including:
+        Founding
+          quant[at]CWRU
+          , a student-led research group supported by professors
+          [Shuai Xu](https://engineering.case.edu/about/school-directory/shuai-xu)
+          and
+          [Vipin Chaudhary](https://engineering.case.edu/about/school-directory/vipin-chaudhary)
+          focused on integrating current paradigms in machine learning to solve complex financial tasks.
+        Reducing post hoc error rates in low-precision language models with Professor
+          [Zhaozhuo Xu](https://ottovonxu.github.io/)
+        Designing pruning and knowledge editing algorithms for convolutional and graph neural networks with Reseachers at
+          [Rice AI](https://d2k.rice.edu/)
+          [MIT](https://imes.mit.edu/)
+      Broadly, some questions in AI that I am interested in addressing include:
+        How can we ensure that the systems we build are faithful and secure?
+        Models improve with size, yet they are often overparameterized and inefficient. How do we effectively balance this scale-bloat tradeoff?
+        How do neural networks fundamentally reason, think, and
+          learn
+          ?
+        On that topic, where do we draw the line for artificial general intelligence as it grows nearer?
+      In the past, I…
+        Taught data analytics and statistics at DigiPen Institute of Technology.
+        Worked with
+          [Angel Alban](https://www.linkedin.com/in/angelalban/)
+          to create better healthcare systems as an intern for
+          [Zventus](https://www.zventus.com/)
+        Did the first half of my undergrad education at Case Western Reserve University.

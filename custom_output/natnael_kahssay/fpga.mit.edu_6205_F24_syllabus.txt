@@ -1,0 +1,109 @@
+        [6.205](https://fpga.mit.edu/6205/F24)
+      [Log In](https://fpga.mit.edu/6205/F24/syllabus?loginaction=login)
+          [Home](https://fpga.mit.edu/6205/F24)
+          [Information](https://fpga.mit.edu/6205/F24/syllabus)
+          6.205 Fall 2024 Syllabus
+            You are not logged in.
+          [Log
+In](https://fpga.mit.edu/6205/F24/syllabus?loginaction=login)
+          for full access to the web site.
+          https://shimmer.mit.edu
+          ) to authenticate, and then you will be redirected
+back to this page.
+        Catalog Description
+        6.205/[6.111] investigates digital design in the context of Field Programmable Gate Arrays (FPGAs), however many of the topics we go over are applicable to the field of digital design as a whole.  The class uses the Verilog Hardware Description Language, iVerilog for simulations, and the Vivado/Xilinx/AMD ecosystem for a toolchain and hardware.  The primary goal is to actually get in and build something and get it working and to see the good and the bad and the beautiful of hardware design. The first half of the class is devoted to lectures, problem sets, and labs.  The latter half of the class is focused on large final projects.  There are no exams. The class has a significant technical communication component and therefore counts as a CI-M.
+        Prerequisites
+        The prerequisite for class is 6.191/[6.004]. If you don't have it, we'd prefer you be taking it at the same time. If you don't do that, you need to email me because we'll need a very good reason as to why you do not have the prerequisite.
+        Units
+        3-7-2
+        Lectures
+        Tuesday, Thursday 2:30-4:00 pm in 4-270. They will be recorded; I make no promise about quality; whatever MIT's auto-capture thing gives us is what we get. We will try to post these in a timely manner, but for whatever reason lectures recorded in the latter half of the day sometimes get backlogged and don't show up until later in the evening.
+        Lab Space
+        The lab room is the left (southern) portion of building 38's 6th floor. Office hours will take place here.  You can work at any lab benches. A few notes on in-lab resources. There are two sets of computers in the lab:
+          Machines 31-47 run Ubuntu 22.04 LTS and have Vivado and other class software on them.  You can use them if you can't get your laptop working. These are communal machines, however so don't abuse them.
+        Lab Kit
+        You will be provided a Real Digital Urbana FPGA development board for this class for 2024 which you must take care of and return.  This will be used in all labs and will likely form the center of your final project.
+        Piazza
+        The class piazza will be used for all important announcements as well as our official help forum for the class. It is your responsibility to make sure to join it and to set their email up so they see these announcements in a timely manner.
+        Textbook
+        There are Verilog textbooks out there, but we don't have an official required one. Internet searches and StackOverflow are good starting points for most questions/references.  In terms of particular Verilog things:
+            [This is a good site with System/Verilog basics](http://www.asic-world.com/systemverilog/tutorial.html)
+            [This one is as good or better actually](https://www.chipverify.com/systemverilog/)
+        Staff
+            Show/Hide:
+            Instructors
+            TAs
+            LAs
+                  M.Subhi
+                LA
+                  Marco
+                  Richard
+                  Monica
+                  Ian
+                  Kailas
+                TA
+                  Natnael
+                  Stephen
+                  Andrew
+                  Jan
+                  Andi
+                  You
+                  Joe
+                Instructor
+                EE
+                  Walter
+                  Kiran
+                  Ryan
+                  Hasan
+        Grading
+        Your overall grade is based on the following breakdown:
+            ~Eight Weekly Assignments: 48%
+            Final Project: 52%
+            (Including the technical and communication components of abstract, proposal, revisions, meetings, and final report)
+        A large number of students do "A" level work and are, indeed, rewarded with a grade of "A". The corollary to this is that, since average performance levels are so high, punting any part of the subject can lead to a disappointing grade.
+        Weekly Assignments
+        Every week after class on Thursday, the upcoming week's assignments will be released. They will be due the following Wednesday night at 11:59:00pm Boston time. The assignment for the week is comprised of a number of chunks, specifically:
+            Exercises:
+            Smaller assignments that look at digital design concepts as well as Verilog practice and other related topics. These are generally completed without your lab kit.
+            Labs:
+            An (often) multi-part set of tasks you complete using your labkit.
+        Assignments should generally be completed in the order that they appear on the assignment page.  The order is assumed and very important in some weeks, so be cautious in skipping around.
+        We expect to have eight weeks of assignments for Fall 2024 before we start final projects. See the calendar for particular dates of when they are released and when they are due, but it will largely be a Thursday-to-Wednesday pattern. You are to work on these assignments in your own time (there are no "lab" sessions), though you should feel free to come to office hours and utilize Piazza. Parts of labs will contain checkoffs with a staff member to get credit for the lab portions.  This will usually involve demonstrating your simulations, device, and answering questions.
+        Each week of assignments is worth 6% of your final grade (8 weeks of pre-project assignments). You must have a non-zero score for
+            all
+          labs and all labs must be checked off in order to pass the class.
+          A missing lab will result in a failing grade.
+        Labs will have in-person components. There is a help queue in class, however remote usage is only reserved for extenuating circumstances pre-arranged with staff. If you need remote help, please use Piazza.
+        For 2024, labs can be done remotely since you have a kit, however checkoffs must be done in person in lab!
+        Final Project
+        Collectively this makes up approximately 52% of your grade. There will be more details as we get closer to final projects
+        (No) Exams
+        There will be no exams in 6.205. You are welcome.
+        Late Submissions
+          Non-Project-related assignments have due dates. However they can be turned in late with an increasing point penalty based on lateness. Every day late, they lose 20%. Some clarifications:
+          Lateness is calculated to the day (minutes and seconds do not come into play) and rolls over immediately. So if an assignment is due on Wednesday at 11:59:00pm Boston time, and you do not finish it by then, instead turning it in at some point on Thursday (including 12:00am midnight on that Thursday), the incomplete portions will get 80% maximum credit.
+          Lateness is applied to each assignment individually. For hypothetical Lab N, if you get Checkoffs 1 and 2 done on time, and get Checkoff 3 done one day late, the lateness is only applied to Checkoff 3.
+          There is a 48-hour freeze on the accrual of late days from 11:59:00pm on Friday to 11:59:00pm on Sunday. Consequently assignments due Wednesday night can be turned in on Saturday or Sunday for 60% credit (the same as on Friday), and turning in on Monday would be 40%, Tuesday 20%, the following Wednesday 0%, the following Thursday -20% (lol/jk).
+          If you feel you need an extension on a assignment, email me (jodalyst@mit.edu) >= 48 hours in advance of the assignment deadline. Let me know what's going on / how the lab is coming / a general reason why you need some extra time, and as long as you get to me before that 48-hour mark you can generally assume we will grant you a 1 day (24 hour) extension on the lab. Do not abuse this policy. Be careful with pushing work back; things can snowball quickly.
+          If you have any additional extenuating circumstances that warrant additional extensions please go to
+            S^3
+            and then reach out to Joe (jodalyst@mit.edu)
+        CI-M Status
+        6.205 counts as a CI-M. There will be a significant amount of writing and presentation going on with projects to satisfy the requirements that come with being a CI-M. Tons of details to follow when final projects show up.
+        Collaboration and Work that is Not Your Own
+          Do the Work, Don.
+        To make it short and simple: Everything in this class should be your own work. You can work together, of course, at a high level, but do not copy someone else's work. This includes using some online tool that generates answers for you. Do not email working code to "help" one another. Do not submit somebody else's code. Do not use "your" "friend"'s module because it works and is easier or you're tired. Your work should be your own. You should not use tools like ChatGPT when creating code or reports or presentations. Your work needs to be your own. The point of you doing assignments is to improve yourself. The point is not to provide me with a working design. If I just wanted to get a working design, I would do it myself and not ask you to do it. If we catch you, it will result in a grade of zero on the assignment, and it will be reported to the Committee on Discipline (COD). Just don't do it.
+      \            
+/    /\__/\  
+\__=(  o_O )=
+(__________) 
+ |_ |_ |_ |_
+      Powered by
+      [CAT-SOOP](https://catsoop.org)
+      v19.0.6+git.3.26e8b68c "Korat" (LTS) (development snapshot).
+      [Free/Libre Software](https://www.fsf.org/about/what-is-free-software)
+      , available under the terms
+      [GNU Affero General Public License, version 3](https://fpga.mit.edu/6205/_util/license)
+      .
+      [Download Source Code](https://fpga.mit.edu/6205/_util/source.zip)
+      [Javascript License Information](https://fpga.mit.edu/6205/_util/jslicense.html)

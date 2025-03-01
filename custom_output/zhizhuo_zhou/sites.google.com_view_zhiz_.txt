@@ -1,0 +1,92 @@
+                      Search this site
+                  Embedded Files
+                Skip to main content
+                Skip to navigation
+                                    Zhizhuo (Z) Zhou
+                                    I am a first year PhD student at Stanford University working on 3D generative AI.
+                                    I was an
+                                    MSR student at Carnegie Mellon University, where I am grateful to have worked with
+                                      Shubham Tulsiani
+                                    . I was also fortunate to work with
+                                      David Fouhey
+                                    during my undergrad at the University of Michigan.
+                                    I
+                                    am thankful to receive funding from NSF GRFP.
+                                      X
+                                    |
+                                      Email
+                                      CV
+                                      Google Scholar
+                                      Blog
+                                      Github
+                                      News
+                                    Apr 2024
+                                    - [
+                                      MVD-Fusion
+                                    ] Single image to multi-view RGB-D in seconds at CVPR 2024!
+                                    Dec 2022
+                                      SparseFusion
+                                    ] Check out our latest work that unifies advances in neural rendering and image generation!
+                                    Oct 2022
+                                      Talk
+                                    ] Won Meta-AI CO3D Challenge few-view reconstruction track at ECCV 2022
+                                      NGR-CO3D
+                                    workshop!
+                                    Jul 2022
+                                    - TA for AI4ALL@CMU 2022!
+                                    June 2021
+                                      Paper
+                                    ] Quantifying Bird Skeletons accepted at CV4Animals Workshop In conjunction with CVPR 2021!
+                                    Mar 2021
+                                    - Awarded NSF GRFP.
+                                    Jan 2021
+                                    - Won
+                                      ProjectX
+                                    ML research competition focused on climate change, advised by Sindhu Kutty.
+                                    Mar 2020
+                                      Article
+                                    ] Michigan Alexa Prize team entered semi-finals.
+                                      Research
+                                    I am interested in understanding and generating 3D scenes from casual videos, images, and text.
+                                      MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation
+                                    Hanzhe Hu*,
+                                    Zhizhuo Zhou*
+                                    , Varun Jampani, Shubham Tulsiani
+                                    *Equal contribution
+                                    CVPR 2024
+                                    We propose a novel depth-aware 3D attention mechanism for generating multi-view consistent RGB-D images given a single RGB image.
+                                      SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction
+                                    Zhizhuo Zhou
+                                    ,
+                                    CVPR 2023
+                                    We propose a 3D neural mode-seeking formulation that combines probabilistic generation of unseen regions with faithful reprojection of seen regions in a consistent 3D representation.
+                                      Quantifying Bird Skeletons
+                                    , Gemmechu Hassena, Brian C. Weeks, David F. Fouhey
+                                    CV4Animals Workshop
+                                    in conjunction with CVPR 2021
+                                    We can measure bird skeleton specimens extraordinarily accurately and quite fast with deep learning. This system can unlock datasets of birds at unprecedented scales.
+                                      Projects
+                                        [
+                                          Class Project
+                                        ] OpenGIT: Open-Domain Compositional Image Editing with Text
+                                        ] MasterChef: Using Instagram to Train a Text-to-Image Generator
+                                        ]
+                                        The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning (
+                                        won projectx2020!
+                                        )
+                                          Hackathon Project
+                                        ] ZeroHero: Fruit and Vegetable Object Detection and Recipe Recommendation
+                                        ] trAnSLate: American Sign Language Translator with Image Classification
+                                        ] Raspberry Pi Powered Autonomous Car
+                                        Life RPG: Gamifying Goal Tracking with an Alexa skill
+                                        Fruitful: Fruit Ripeness Detection App
+                                        Unlimited Field: Website with EEG Brain Computer Interface
+                                      Volunteering
+                                        Lead TA, AI4ALL Carnegie Mellon University, 2022
+                                        Project Mentor, AI4ALL University of Michigan, 2021
+                                      Awards and Honors
+                                        NSF GRFP, 2021-2024
+                                        Best Paper Award, ProjectX 2020 ML for Climate Change Competition, 2020-2021
+                                        Undergraduate Scholarship, University of Michigan College of Engineering, 2018 - 2021
+                            Google Sites
+                            Report abuse

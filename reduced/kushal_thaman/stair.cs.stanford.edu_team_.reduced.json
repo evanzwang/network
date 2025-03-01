@@ -1,0 +1,805 @@
+{
+  "title": "Team | Stanford Trustworthy AI Research",
+  "meta_description": "STAIR",
+  "main_content": "Principal Investigator Sanmi Koyejo Principal Investigator Postdocs Anastasia Koloskova Andy Haupt Angelina Wang Hejie Cui Yu Sun PhD Students Ahmed Ahmed Alyssa Unell Anka Reuel Brando Miranda Joshua Kazdan Ken Liu Natalie Dullerud Nicole Chiou Nikil Roashan Selvam Ruhana Azam Rylan Schaeffer Sang T. Truong Suhana Bedi Yibo Zhang Zachary Robertson Visiting Students Debora Caldarola Haolun Wu Isha Gupta Luca Morlok Martin Nguyen Muhammad Ahmed Chaudhry Sally Ky Dinh Youssef Allouah Zeyu Tang Zhanke Zhou Master Students Animesh Jha Dhananjay Balakrishnan Pura Peetathawatchai Saumya Goyal Shiny Weng Sudharsan Sundar Zhoujie Ding Rotating PhD Students Steven Dillman Undergraduate Students Jonas Pao Muhideen Postdoc Alumni Farnaz Jahanbakhsh Jing Liu Pablo D Robles Granda Pedro Cisneros-Velarde PhD Alumni Berivan Isik Cong Xie Gaurush Hiranandani Juho Kim Katherine Tsai Olawale Salaudeen Peiye Zhuang Master Alumni AiLing Zhang Andrew Chen Ashwin Ramesh Cary Murray Daniel Calzada Duke Vijitbenjaronk Enyi Jiang Francis Roxas Haroun Habeeb Meilu Yuan Patrick Cole Paul Ruales Rosero Ping-Ko Chiu Raj Kiriti Velicheti Rishika Agarwal Rittika Adhikari Sameer Manchanda Shovik Guha Christopher Settles Yizhi Zhu Yuxuan Zou Undergraduate Alumni Andr\u00e9s Carranza-Moreno Bliss Chapman Bowen Jiang Dhruv Pai Diwen Xu Harshay Shah Heling Zhang Jatin Mathur Kabir Manghnani Kshitij Gupta Kushal Thaman Maaz Jedh Maohao Shen Nika Zahedi Ran Li Sam Pal Samuel Kriman Xiaoyan Wang Yun Wu Other Alumni & Visitors Aaron Christson Ahmed Elsayed Carmen Araujo Chase Duncan Forest Yang Zengjie Song Alumni Rotating PhD Students HyunJi (Alex) Nam Krista Opsahl-Ong",
+  "links": [
+    {
+      "url": "/members/sanmi_koyejo.html",
+      "text": "Sanmi Koyejo\n          \n\n\nPrincipal Investigator"
+    },
+    {
+      "url": "/members/anastasia_koloskova.html",
+      "text": "Anastasia Koloskova"
+    },
+    {
+      "url": "/members/andy_haupt.html",
+      "text": "Andy Haupt"
+    },
+    {
+      "url": "/members/angelina_wang.html",
+      "text": "Angelina Wang"
+    },
+    {
+      "url": "/members/hejie_cui.html",
+      "text": "Hejie Cui"
+    },
+    {
+      "url": "/members/yu_sun.html",
+      "text": "Yu Sun"
+    },
+    {
+      "url": "/members/ahmed.html",
+      "text": "Ahmed Ahmed"
+    },
+    {
+      "url": "/members/alyssa_unell.html",
+      "text": "Alyssa Unell"
+    },
+    {
+      "url": "/members/anka_reuel.html",
+      "text": "Anka Reuel"
+    },
+    {
+      "url": "/members/brando_miranda.html",
+      "text": "Brando Miranda"
+    },
+    {
+      "url": "/members/joshua_kazdan.html",
+      "text": "Joshua Kazdan"
+    },
+    {
+      "url": "/members/ken_liu.html",
+      "text": "Ken Liu"
+    },
+    {
+      "url": "/members/natalie_dullerud.html",
+      "text": "Natalie Dullerud"
+    },
+    {
+      "url": "/members/nicole_chiou.html",
+      "text": "Nicole Chiou"
+    },
+    {
+      "url": "/members/nikil.html",
+      "text": "Nikil Roashan Selvam"
+    },
+    {
+      "url": "/members/ruhana_azam.html",
+      "text": "Ruhana Azam"
+    },
+    {
+      "url": "/members/rylan_schaeffer.html",
+      "text": "Rylan Schaeffer"
+    },
+    {
+      "url": "/members/sang_truong.html",
+      "text": "Sang T. Truong"
+    },
+    {
+      "url": "/members/suhana_bedi.html",
+      "text": "Suhana Bedi"
+    },
+    {
+      "url": "/members/yibo_zhang.html",
+      "text": "Yibo Zhang"
+    },
+    {
+      "url": "/members/zachary_robertson.html",
+      "text": "Zachary Robertson"
+    },
+    {
+      "url": "/members/debora_caldarola.html",
+      "text": "Debora Caldarola"
+    },
+    {
+      "url": "/members/haolun_wu.html",
+      "text": "Haolun Wu"
+    },
+    {
+      "url": "/members/isha_gupta.html",
+      "text": "Isha Gupta"
+    },
+    {
+      "url": "/members/luca_morlok.html",
+      "text": "Luca Morlok"
+    },
+    {
+      "url": "/members/martin_nguyen.html",
+      "text": "Martin Nguyen"
+    },
+    {
+      "url": "/members/muhammad_ahmed_chaudhry.html",
+      "text": "Muhammad Ahmed Chaudhry"
+    },
+    {
+      "url": "/members/sally_ky_dinh.html",
+      "text": "Sally Ky Dinh"
+    },
+    {
+      "url": "/members/youssef_allouah.html",
+      "text": "Youssef Allouah"
+    },
+    {
+      "url": "/members/zeyu_tang.html",
+      "text": "Zeyu Tang"
+    },
+    {
+      "url": "/members/zhanke_zhou.html",
+      "text": "Zhanke Zhou"
+    },
+    {
+      "url": "/members/animesh_jha.html",
+      "text": "Animesh Jha"
+    },
+    {
+      "url": "/members/dhananjay_balakrishnan.html",
+      "text": "Dhananjay Balakrishnan"
+    },
+    {
+      "url": "/members/pura_peetathawatchai.html",
+      "text": "Pura Peetathawatchai"
+    },
+    {
+      "url": "/members/saumya_goyal.html",
+      "text": "Saumya Goyal"
+    },
+    {
+      "url": "/members/shiny_weng.html",
+      "text": "Shiny Weng"
+    },
+    {
+      "url": "/members/sudharsan_sundar.html",
+      "text": "Sudharsan Sundar"
+    },
+    {
+      "url": "/members/zhoujie_ding.html",
+      "text": "Zhoujie Ding"
+    },
+    {
+      "url": "/members/steven_dillman.html",
+      "text": "Steven Dillman"
+    },
+    {
+      "url": "/members/jonas_pao.html",
+      "text": "Jonas Pao"
+    },
+    {
+      "url": "/members/muhideen.html",
+      "text": "Muhideen"
+    },
+    {
+      "url": "/members/farnaz_jahanbakhsh.html",
+      "text": "Farnaz Jahanbakhsh"
+    },
+    {
+      "url": "/members/jing_liu.html",
+      "text": "Jing Liu"
+    },
+    {
+      "url": "/members/pablo.html",
+      "text": "Pablo D Robles Granda"
+    },
+    {
+      "url": "/members/pedro_cisneros_velarde.html",
+      "text": "Pedro Cisneros-Velarde"
+    },
+    {
+      "url": "/members/berivan_isik.html",
+      "text": "Berivan Isik"
+    },
+    {
+      "url": "/members/cong_xie.html",
+      "text": "Cong Xie"
+    },
+    {
+      "url": "/members/gaurush_hiranandani.html",
+      "text": "Gaurush Hiranandani"
+    },
+    {
+      "url": "/members/juho_kim.html",
+      "text": "Juho Kim"
+    },
+    {
+      "url": "/members/katherine_tsai.html",
+      "text": "Katherine Tsai"
+    },
+    {
+      "url": "/members/olawale_salaudeen.html",
+      "text": "Olawale Salaudeen"
+    },
+    {
+      "url": "/members/peiye_zhuang.html",
+      "text": "Peiye Zhuang"
+    },
+    {
+      "url": "/members/ailing.html",
+      "text": "AiLing Zhang"
+    },
+    {
+      "url": "/members/andrew_chen.html",
+      "text": "Andrew Chen"
+    },
+    {
+      "url": "/members/ashwin_ramesh.html",
+      "text": "Ashwin Ramesh"
+    },
+    {
+      "url": "/members/cary_m.html",
+      "text": "Cary Murray"
+    },
+    {
+      "url": "/members/daniel_calzada.html",
+      "text": "Daniel Calzada"
+    },
+    {
+      "url": "/members/duke_vij.html",
+      "text": "Duke Vijitbenjaronk"
+    },
+    {
+      "url": "/members/enyi.html",
+      "text": "Enyi Jiang"
+    },
+    {
+      "url": "/members/francis_roxas.html",
+      "text": "Francis Roxas"
+    },
+    {
+      "url": "/members/haroun.html",
+      "text": "Haroun Habeeb"
+    },
+    {
+      "url": "/members/meily_yuan.html",
+      "text": "Meilu Yuan"
+    },
+    {
+      "url": "/members/patrick_cole.html",
+      "text": "Patrick Cole"
+    },
+    {
+      "url": "/members/paul_ruales.html",
+      "text": "Paul Ruales Rosero"
+    },
+    {
+      "url": "/members/pingko_chiu.html",
+      "text": "Ping-Ko Chiu"
+    },
+    {
+      "url": "/members/raj_kiriti.html",
+      "text": "Raj Kiriti Velicheti"
+    },
+    {
+      "url": "/members/rishika.html",
+      "text": "Rishika Agarwal"
+    },
+    {
+      "url": "/members/rittika.html",
+      "text": "Rittika Adhikari"
+    },
+    {
+      "url": "/members/sameer.html",
+      "text": "Sameer Manchanda"
+    },
+    {
+      "url": "/members/shovik.html",
+      "text": "Shovik Guha"
+    },
+    {
+      "url": "/members/tmp.html",
+      "text": "Christopher Settles"
+    },
+    {
+      "url": "/members/yizhi_zhu.html",
+      "text": "Yizhi Zhu"
+    },
+    {
+      "url": "/members/yuxuan_zou.html",
+      "text": "Yuxuan Zou"
+    },
+    {
+      "url": "/members/andres_moreno.html",
+      "text": "Andr\u00e9s Carranza-Moreno"
+    },
+    {
+      "url": "/members/bliss_chapman.html",
+      "text": "Bliss Chapman"
+    },
+    {
+      "url": "/members/bowen_jiang.html",
+      "text": "Bowen Jiang"
+    },
+    {
+      "url": "/members/dhruv_pai.html",
+      "text": "Dhruv Pai"
+    },
+    {
+      "url": "/members/diwen.html",
+      "text": "Diwen Xu"
+    },
+    {
+      "url": "/members/harshay.html",
+      "text": "Harshay Shah"
+    },
+    {
+      "url": "/members/heling_zhang.html",
+      "text": "Heling Zhang"
+    },
+    {
+      "url": "/members/jatin_mathur.html",
+      "text": "Jatin Mathur"
+    },
+    {
+      "url": "/members/kabir.html",
+      "text": "Kabir Manghnani"
+    },
+    {
+      "url": "/members/kshitij.html",
+      "text": "Kshitij Gupta"
+    },
+    {
+      "url": "/members/kushal_thaman.html",
+      "text": "Kushal Thaman"
+    },
+    {
+      "url": "/members/maaz_jedh.html",
+      "text": "Maaz Jedh"
+    },
+    {
+      "url": "/members/maohao.html",
+      "text": "Maohao Shen"
+    },
+    {
+      "url": "/members/nika_zahedi.html",
+      "text": "Nika Zahedi"
+    },
+    {
+      "url": "/members/ran_li.html",
+      "text": "Ran Li"
+    },
+    {
+      "url": "/members/sam_pal.html",
+      "text": "Sam Pal"
+    },
+    {
+      "url": "/members/samuel.html",
+      "text": "Samuel Kriman"
+    },
+    {
+      "url": "/members/xiaoyan_wang.html",
+      "text": "Xiaoyan Wang"
+    },
+    {
+      "url": "/members/yun_wu.html",
+      "text": "Yun Wu"
+    },
+    {
+      "url": "/members/aaron_christson.html",
+      "text": "Aaron Christson"
+    },
+    {
+      "url": "/members/ahmed_elsayed.html",
+      "text": "Ahmed Elsayed"
+    },
+    {
+      "url": "/members/carmen_araujo.html",
+      "text": "Carmen Araujo"
+    },
+    {
+      "url": "/members/chase_duncan.html",
+      "text": "Chase Duncan"
+    },
+    {
+      "url": "/members/forest_yang.html",
+      "text": "Forest Yang"
+    },
+    {
+      "url": "/members/zengjie.html",
+      "text": "Zengjie Song"
+    },
+    {
+      "url": "/members/alex_nam.html",
+      "text": "HyunJi (Alex) Nam"
+    },
+    {
+      "url": "/members/krista_opsahl_ong.html",
+      "text": "Krista Opsahl-Ong"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/sanmi_koyejo.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/anastasia_koloskova.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/andy_haupt.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/angelina_wang.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/hejie_cui.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/yu_sun.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ahmed.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/alyssa_unell.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/anka_reuel.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/brando_miranda.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/joshua_kazdan.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ken_liu.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/natalie_dullerud.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/nicole_chiou.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/nikil.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ruhana_azam.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ryan_shaeffer.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/sang_truong.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/suhana_bedi.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/yibo_zhang.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/zach_robertson.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/debora_caldarola.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/haolun_wu.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/isha_gupta.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/luca_morlok.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/martin_nguyen.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/muhammad_ahmed_chaudhry.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/sally_ky_dinh.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/youssef_allouah.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/zeyu_tang.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/zhanke_zhou.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/animesh_jha.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/dhananjay_balakrishnan.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/pura_peetathawatchai.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/saumya_goyal.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/shiny_weng.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/sudharsan_sundar.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/zhoujie_ding.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/steven_dillman.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/jonas_pao.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/muhideen.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/farnaz_jahanbakhsh.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/jing_liu.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/pablo.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/pedro_cisneros_velarde.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/berivan_isik.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/cong_xie.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/gaurush.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/katherine_tsai.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/olawale_salaudeen.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/peiye_zhuang.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ailing.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/andrew_chen.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ashwin.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/cary.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/duke.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/enyi.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/haroun.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/patrick_cole.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ping_ko_chiu.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/rishika.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/rittika.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/shovik.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/christopher.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/andres_moreno.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/bliss_chapman.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/dhruv_pai.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/diwen.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/harshay.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/jatin.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/kshitij.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/kushal_thaman.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/maaz.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/maohao.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ran_li.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/samuel.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/xiaoyan.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/aaron_christson.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/ahmed_elsayed.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/carmen_araujo.jpg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/placeholder.png",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/alex_nam.jpeg",
+      "alt": "member portrait"
+    },
+    {
+      "src": "/images/krista_opsahl_ong.jpg",
+      "alt": "member portrait"
+    }
+  ]
+}

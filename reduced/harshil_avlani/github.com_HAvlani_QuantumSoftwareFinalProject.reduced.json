@@ -1,0 +1,172 @@
+{
+  "title": "GitHub - HAvlani/QuantumSoftwareFinalProject",
+  "meta_description": "Contribute to HAvlani/QuantumSoftwareFinalProject development by creating an account on GitHub.",
+  "main_content": "HAvlani / QuantumSoftwareFinalProject Public Notifications You must be signed in to change notification settings Fork 0 Star 0 0 stars 0 forks Branches Tags Activity Star Notifications You must be signed in to change notification settings HAvlani/QuantumSoftwareFinalProject main Branches Tags Go to file Code Folders and files Name Name Last commit message Last commit date Latest commit History 77 Commits qaoa_q# qaoa_q# Max-Cut_Resource_Estimation.ipynb Max-Cut_Resource_Estimation.ipynb QAOA_Max-Cut.ipynb QAOA_Max-Cut.ipynb README.md README.md qaoa_qiskit_tsp.ipynb qaoa_qiskit_tsp.ipynb View all files Repository files navigation Quantum Software Final Project by Harshil Avlani, Christina Trinh, Vibusha Vadivel, Audrey Wei Description QAOA (Quantum Approximate Optimization Algorithm) is a quantum algorithm for solving combinatorial optimization problems, such as the Maximum Cut Problem (MAXCUT). The algorithm was first introduced by Farhi, Goldstone, and Gutmann in 2014. It is a hybrid quantum-classical algorithm that uses a quantum computer to find the approximate solution to an optimization problem and classical optimization to find the best parameters. The basic idea behind QAOA is to use a quantum computer to find the approximate solution to an optimization problem. The algorithm starts by initializing the quantum state of a set of qubits (the basic unit of quantum information) to a simple state, such as the equal superposition state. The qubits are then evolved under a series of unitary operations, known as the QAOA circuit, which are chosen to encode the problem of interest. The final state of the qubits encodes the approximate solution to the optimization problem. The QAOA circuit is parameterized by a set of angles $\\boldsymbol{\\beta}$ and $\\boldsymbol{\\gamma}$ , which determine the evolution of the qubits. The circuit can be represented mathematically as: $$ U(\\boldsymbol{\\beta},\\boldsymbol{\\gamma}) = \\prod_{i=1}^p e^{-i\\beta_i C} e^{-i\\gamma_i B} $$ Where $C$ and $B$ are the cost and mixing Hamiltonians, respectively. The cost Hamiltonian $C$ encodes the problem of interest and the mixing Hamiltonian $B$ is chosen to spread the information of the cost Hamiltonian over all qubits. QAOA uses a parameterized circuit, which can be optimized using classical optimization techniques to find the best parameters that minimize the cost function of the problem. The algorithm can be run multiple times with different initial parameters to increase the probability of finding the global minimum. This implementation of QAOA includes modifications of $C$ and $B$ to solve both the MAXCUT problem and the Travelling Salesman Problem (TSP). About No description, website, or topics provided. Resources Readme Activity Stars 0 stars Watchers 0 watching Forks 0 forks Report repository Releases No releases published Packages 0 No packages published Contributors 3 Languages Jupyter Notebook 90.4% C# 9.2% Q# 0.4%",
+  "links": [
+    {
+      "url": "/HAvlani",
+      "text": "HAvlani"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject",
+      "text": "QuantumSoftwareFinalProject"
+    },
+    {
+      "url": "/login?return_to=%2FHAvlani%2FQuantumSoftwareFinalProject",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2FHAvlani%2FQuantumSoftwareFinalProject",
+      "text": "Fork\n    0"
+    },
+    {
+      "url": "/login?return_to=%2FHAvlani%2FQuantumSoftwareFinalProject",
+      "text": "Star\n 0"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/stargazers",
+      "text": "0\n          stars"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/forks",
+      "text": "0\n          forks"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/login?return_to=%2FHAvlani%2FQuantumSoftwareFinalProject",
+      "text": "Star"
+    },
+    {
+      "url": "/login?return_to=%2FHAvlani%2FQuantumSoftwareFinalProject",
+      "text": "Notifications"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/branches",
+      "text": ""
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/tags",
+      "text": ""
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/commits/main/",
+      "text": "77 Commits"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/commits/main/",
+      "text": ""
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/tree/main/qaoa_q%23",
+      "text": "qaoa_q#"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/tree/main/qaoa_q%23",
+      "text": "qaoa_q#"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/Max-Cut_Resource_Estimation.ipynb",
+      "text": "Max-Cut_Resource_Estimation.ipynb"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/Max-Cut_Resource_Estimation.ipynb",
+      "text": "Max-Cut_Resource_Estimation.ipynb"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/QAOA_Max-Cut.ipynb",
+      "text": "QAOA_Max-Cut.ipynb"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/QAOA_Max-Cut.ipynb",
+      "text": "QAOA_Max-Cut.ipynb"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/qaoa_qiskit_tsp.ipynb",
+      "text": "qaoa_qiskit_tsp.ipynb"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/blob/main/qaoa_qiskit_tsp.ipynb",
+      "text": "qaoa_qiskit_tsp.ipynb"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maximum_cut",
+      "text": "MAXCUT"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Travelling_salesman_problem",
+      "text": "Travelling Salesman Problem"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/stargazers",
+      "text": "0\n      stars"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/watchers",
+      "text": "0\n      watching"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/forks",
+      "text": "0\n      forks"
+    },
+    {
+      "url": "/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHAvlani%2FQuantumSoftwareFinalProject&report=HAvlani+%28user%29",
+      "text": "Report repository"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/releases",
+      "text": "Releases"
+    },
+    {
+      "url": "/users/HAvlani/packages?repo_name=QuantumSoftwareFinalProject",
+      "text": "Packages\n      0"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/graphs/contributors",
+      "text": "Contributors\n      3"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/search?l=jupyter-notebook",
+      "text": "Jupyter Notebook\n90.4%"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/search?l=c%23",
+      "text": "C#\n9.2%"
+    },
+    {
+      "url": "/HAvlani/QuantumSoftwareFinalProject/search?l=q%23",
+      "text": "Q#\n0.4%"
+    }
+  ],
+  "images": []
+}

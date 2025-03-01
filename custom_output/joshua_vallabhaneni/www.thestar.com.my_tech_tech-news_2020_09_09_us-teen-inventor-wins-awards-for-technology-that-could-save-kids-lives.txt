@@ -1,0 +1,293 @@
+      ×
+      View
+  END: article.blade.php
+  CSRF Token
+  Global Header scripts
+  Start Header Script
+  hide globalbar for tablet
+  Cx FB user linking script begin
+  Cx FB user linking script end
+  Start Deco masthead
+  End Deco masthead
+  Sharethis
+  Clarity 20241121
+  End Header Script
+  theme includes js_extra.blade.php
+  Admiral
+  End Admiral
+  PPID
+  End PPID
+  CDP Web Insight script
+  End of CDP Web Insight script
+  Chartbeat
+  End Chartbeat
+  resources common css_includes.blade.php
+  theme includes css_includes.blade.php
+  Widget CSS links
+  Page Header scripts
+  Start of Survicate (www.survicate.com) code
+  End of Survicate code
+  Main THEME Content
+  page content
+  HEADER OF THEME
+  header_menu
+          <li>
+                    <a href="https://newsstand.thestar.com.my/epaper/" target="_blank" class="epaper"
+                       data-list-type="Header"
+                       data-content-type="App Download"
+                       data-content-title="ePaper"
+                       data-content-id="https://newsstand.thestar.com.my/epaper/ ">
+                        <i class="icon sprite-icon"></i> The Star ePaper
+                    </a>
+                </li>
+            [Subscriptions](/subscription)
+            [Log In](https://sso.thestar.com.my/?lng=en&channel=1&ru=HNQ8Auw31qgZZU47ZjHUhHKJStkK3H51/pPcFdJ1gQ9cFgPiSalasDvF6DeumuZwrrQddniDQZNzj8LzVeD2e66vUFfLel9ldPBXPZ4YmccmkAUZq38Pt0R/hymh2OITGEUhjk8/168TEvKnlw7GZS677d+LSZCZdTNoNoZWfBiLF2ekY4GQK41utimTRrxBhKmJOgWl4JdKl24vVy2Xt9RgfunaIwOkolSh7leAorOz1BK5h+kBDkp29X3zloL5xWfOJfnRtYndhM5o4ApVfCq0Wi+ek33rPj5GYOv33JdHae3h1U3nFnBcvtxPw4stkLlUMiuQLGNVkqIZiPmiJg==)
+                [Manage Profile](https://login.thestar.com.my/accountinfo/profile.aspx)
+                [Change Password](https://login.thestar.com.my/accountinfo/changepassword.aspx)
+                [Manage Logins](https://login.thestar.com.my/accountinfo/sessions.aspx)
+                [Manage Subscription](https://login.thestar.com.my/accountinfo/subscriptioninfo.aspx)
+                [Transaction History](https://login.thestar.com.my/accountinfo/transhistory.aspx)
+                [Manage Billing Info](https://login.thestar.com.my/accountinfo/billing.aspx)
+                [Manage For You](https://www.thestar.com.my/foryou/edit)
+                [Manage Bookmarks](https://www.thestar.com.my/saved-articles)
+                [Package & Pricing](https://www.thestar.com.my/subscribe)
+                [FAQs](https://www.thestar.com.my/faqs/)
+            Toggle navigation
+              [StarPlus](/starplus)
+              [News](/news)
+              [Asean+](/aseanplus)
+              [ESG](/esg)
+              [Business](/business)
+              [Sport](/sport)
+              [Metro](/metro)
+              [Lifestyle](/lifestyle)
+              [Food](/food)
+              [Tech](/tech)
+              [Education](/education)
+              [Opinion](/opinion)
+              [Videos](https://www.thestartv.com/c/news)
+              [Photos](/photos)
+              [StarPicks](/starpicks)
+            [Home](/)
+                [Latest](/news/latest)
+                [Nation](/news/nation)
+                [World](/news/world)
+                [Environment](/news/environment)
+                [In Other Media](/news/in-other-media)
+                [True or Not](/news/true-or-not)
+                [Focus](/news/focus)
+                [SMEBiz](/business/smebiz)
+                [Insight](/business/insight)
+                [Unit Trust](/business/unit-trust)
+                [Exchange Rates](/business/exchange-rates)
+                [My Portfolio](http://biz.thestar.com.my/portfolio/)
+            [Market Watch](/business/marketwatch)
+                [Bursa Overview](/business/marketwatch)
+                [Market Movers](/business/martketwatch/Stock-List)
+                [Financial Results](/business/martketwatch/Financial-Results)
+                [Dividends](/business/martketwatch/Dividends)
+                [Bonus](/business/martketwatch/Bonus)
+                [IPO](/business/martketwatch/IPO)
+                [Athletics](/sport/athletics)
+                [Hockey](/sport/hockey)
+                [Football](/sport/football)
+                [Golf](/sport/golf)
+                [Badminton](/sport/badminton)
+                [Tennis](/sport/tennis)
+                [Motorsport](/sport/motorsport)
+                [Other Sports](/sport/other-sport)
+                [Say What](/sport/say-what)
+                [Metro News](/metro/metro-news)
+                [Community Sports](/metro/community-sports)
+                [Views](/metro/views)
+                [Entertainment & Style](/lifestyle/entertainment-and-style)
+                [People & Living](/lifestyle/people-and-living)
+                [Health & Family](/lifestyle/health-and-family)
+                [Travel & Culture](/lifestyle/travel-and-culture)
+                [Viewpoints](/lifestyle/viewpoints)
+                [Food for Thought](/food/food-for-thought)
+                [Food News](/food/food-news)
+                [Eating Out](/food/eating-out)
+                [Kuali](https://www.kuali.com/)
+                [Tech Thoughts](/tech/tech-thoughts)
+                [Columnists](/opinion/columnists)
+                [Letters](/opinion/letters)
+                [Classifieds](https://starsearch.thestar.com.my/)
+                [Events](https://events.thestar.com.my/)
+                [StarCherish.com](https://www.starcherish.com/)
+  Navigation Class Selection
+  Auto Complete Library
+  Auto Complete Lookup Table
+  Search Box Configuration
+        ****************************** BOOTSTRAP WIDGETS *********************************
+              widget-4614
+              widget-1325
+              widget-4071
+                Begin HighImpact Ads
+                End HighImpact Ads
+              breaking-news-widget.blade.php
+                BreakingNewsBar
+                /BreakingNewsBar
+              menu-widget.blade.php
+              wide-headline-image-widget.blade.php
+              Related News Output
+              Trending News Output
+              article-details.blade.php
+                  US teen inventor wins awards for technology that could save kids’ lives
+                        sharethis
+                      BookmarkButton
+                      /BookmarkButton
+                    By
+                      [Marc Narducci](/authors?q=Marc+Narducci)
+                      [Technology](/tag/technology)
+                      Wednesday, 09 Sep 2020
+                      11:30 AM MYT
+                    Related Articles Side
+                        Related News
+                              [AI](https://www.thestar.com.my/tag/ai)
+                              1d ago
+                                [OpenAI unveils technology for ‘natural conversation’](https://www.thestar.com.my/tech/tech-news/2025/02/28/openai-unveils-technology-for-natural-conversation)
+                                [Southern African countries urged to harness technology to boost inter-regional trade](https://www.thestar.com.my/news/world/2025/02/28/southern-african-countries-urged-to-harness-technology-to-boost-inter-regional-trade)
+                              26 Feb 2025
+                                [21 federal technology staffers resign rather than help Elon Musk and DOGE slash size of US government](https://www.thestar.com.my/tech/tech-news/2025/02/26/21-federal-technology-staffers-resign-rather-than-help-elon-musk-and-doge-slash-size-of-us-government)
+                    /Related Articles Side
+                        Pranavh Joshua Vallabhaneni with his Baby Saver prototype invention at his home. He won first place in his grade category and also the Safety Award for his invention, Baby Saver – Hot Car Alert Device from Invention Convention Worldwide. — The Philadelphia Inquirer/TNS
+                      Content data
+                        PHILADELPHIA:
+                        Pranavh Joshua Vallabhaneni and his family were preparing for a new addition – Pranavh’s baby brother – and it got his inventive juices flowing.
+                      “My parents were shopping for car seats and other baby products,” said Pranavh, 15, who is entering his sophomore year at Unionville High School in Kennett Square, Philadelphia. “I realised that there was a lot of emphasis on child safety.”
+                        Already a subscriber?
+                          [Log in](https://sso.thestar.com.my/?lng=en&channel=1&ru=HNQ8Auw31qgZZU47ZjHUhHKJStkK3H51/pPcFdJ1gQ9cFgPiSalasDvF6DeumuZw70eO3osqfRYt9bpw91/7YQ==)
+                          .
+                          Save 30% for ads-free and full access now!
+                                      Monthly Plan
+                                        RM13.90/month
+                                      [Subscribe](/subscribe/review?dc=GOPREMIUM30&pkg=F0UGmenhHOiSNCa0pDXpmQ==&pw=1&pkgid=losxDRIVayfktS3M5zjclA==)
+                                  Billed as RM9.73 for the 1st month then RM13.90 thereafters.
+                                      Annual Plan
+                                        RM12.33/month
+                                  Billed as RM103.60 for the 1st year then RM148 thereafters.
+                                      1 month
+                                      Free Trial
+                                      For new subscribers only
+                        Cancel anytime. No ads. Auto-renewal. Unlimited access to the web and app. Personalised features. Members rewards.
+                    /Review data
+                    /GSC Weekly Top 10 data
+                    /Pagination
+                      Related stories
+                      /Related stories
+                      Newsletter
+                      /Newsletter
+                      /Content data
+                      End Line
+                          Follow us on our official
+                            [WhatsApp channel](https://whatsapp.com/channel/0029Va5zqNVLCoWsM8VWSc2k)
+                            for breaking news alerts and key updates!
+                      /End Line
+                          Tagging Keywords
+                            Tags / Keywords:
+                            [Baby car seats](/search?query=Baby car seats)
+                            ,
+                            [hot car child deaths](/search?query=hot car child deaths)
+                          /Tagging Keywords
+                            Topic:
+                            [Children](/tag/children)
+                      UserEngagement
+                        NEW
+                                          What is the issue about?
+                                          This field is mandatory.
+                                          Please provide details of the report.
+                                          Email (optional)
+                                          Please enter valid email.
+                                        Report issue
+                                        Cancel
+                                        Invalid captcha response. Please re-try again.
+                                        Thank you for your report!
+                        ENDNEW
+                      Article Feedback
+                      /Related News
+                      Related Responsive News
+                      /Related Responsive News
+                      StarBiz Premium More Stories
+                      /StarBiz Premium More Stories
+                    END article__widgets
+              starpicks-random
+                    [EU-Malaysia Business Day boosts Penang’s prospects](https://www.thestar.com.my/starpicks/2025/02/18/eu-malaysia-business-day-boosts-penangs-prospects)
+              slider-story-preview
+                  Next In Tech News
+                        [Vietnam PM vows quick licensing for Musk's Starlink amid tariff threats](https://www.thestar.com.my/tech/tech-news/2025/03/01/vietnam-pm-vows-quick-licensing-for-musk039s-starlink)
+                        [Influencers call these medical tests lifesaving. Here’s what you may not know](https://www.thestar.com.my/tech/tech-news/2025/03/01/influencers-call-these-medical-tests-lifesaving-heres-what-you-may-not-know)
+                        [Using virtual reality to calm pre-surgery nerves](https://www.thestar.com.my/lifestyle/health/2025/03/01/using-virtual-reality-to-calm-pre-surgery-nerves)
+                        [What is Apple’s Advanced Data Protection and why is it controversial?](https://www.thestar.com.my/tech/tech-news/2025/03/01/what-is-apples-advanced-data-protection-and-why-is-it-controversial)
+                        [Opinion: I sold my Tesla for my moral health](https://www.thestar.com.my/tech/tech-news/2025/03/01/opinion-i-sold-my-tesla-for-my-moral-health)
+                        [US judge dismisses SEC fraud lawsuit against Hex crypto founder](https://www.thestar.com.my/tech/tech-news/2025/03/01/us-judge-dismisses-sec-fraud-lawsuit-against-hex-crypto-founder)
+                        [For years she was a perfect wife. Then he learned of her arrest in a deadly dating app scheme](https://www.thestar.com.my/tech/tech-news/2025/03/01/for-years-she-was-a-perfect-wife-then-he-learned-of-her-arrest-in-a-deadly-dating-app-scheme)
+                        [MNTN, adtech platform linked to Ryan Reynolds, files for US IPO](https://www.thestar.com.my/tech/tech-news/2025/03/01/mntn-adtech-platform-with-ties-to-ryan-reynolds-files-for-us-ipo)
+                        [Lawmakers question Musk influence over Verizon FAA contract](https://www.thestar.com.my/tech/tech-news/2025/03/01/lawmakers-question-musk-influence-over-verizon-faa-contract)
+                        [Bumble names Ronald Fior as interim finance chief](https://www.thestar.com.my/tech/tech-news/2025/03/01/bumble-names-ronald-fior-interim-finance-chief)
+              widget-1335
+              widget-1329
+              dynamic-html.blade.php
+                Banner
+                <div style="padding-bottom:20px;width:320px;text-align:center;margin:0 auto"><a data-list-type="Putra Brand Awards" data-list-variant="Story page" data-content-type="Outbound Referral" data-content-title="Putra Brands Award 2023" data-content-id="https://online.ipsosinteractive.com/surveys/?pid=S23036847&SupplierID=10191&CultureInfo=en-my&ReturnCode=NR&IdType=real&id=&qsite=3" href="https://online.ipsosinteractive.com/surveys/?pid=S23036847&SupplierID=10191&CultureInfo=en-my&ReturnCode=NR&IdType=real&id=&qsite=3" target="_blank"><img src="https://cdn.thestar.com.my/Themes/img/PutraBrandAward2023.jpg"></a></div>
+              trending-widget.blade.php
+                StoryPageTrendingStories
+                      Trending in Tech
+                /StoryPageTrendingStories
+                HazeAPI widget article
+              widget-2124
+              sponsored-widget.blade.php
+              Recommended Reading Article Widget Live Output
+              recommended-reading-article-widget-live.blade.php
+                    Others Also Read
+              widget-2164
+              widget-3846
+                newsletterwidget
+              widget-4263
+        ****************************** END BOOTSTRAP WIDGETS *********************************
+  footer_menu
+              [The Star Digital Access](https://www.thestar.com.my/subscribe)
+              [Newsstand](https://newsstand.thestar.com.my/)
+          Advertising
+              [Our Rate Card](https://advertising.thestar.com.my/)
+          Company Info
+              [About Us](/AboutUs)
+              [Job Opportunities](http://starmediagroup.my/careers/life-with-us/)
+              [Investor Relations](https://www.starmediagroup.my/)
+          Help
+              [Contact Us](/ContactUs)
+          Policies
+              [Privacy Statement](/Privacy)
+              [Terms & Conditions](/Terms)
+        Copyright © 1995-
+          Star Media Group Berhad [197101000523 (10894-D)]
+        Best viewed on Chrome browsers.
+  /page content
+  Global Footer scripts
+  Start Footer Script
+  For engagement
+  user dialog tutorial 8/7/2020
+  end user dialog tutorial 8/7/2020
+  vodus here, removed on 2021/09/29
+  End Footer Script
+  BEGIN Flyin Pullout PDF
+        We would love to keep you posted on the latest promotion. Kindly fill the form below
+          Disclaimer: by clicking the Submit button, it is deemed that you consent to the rules and terms set forth in the
+            [Privacy Policy](https://www.thestar.com.my/privacy/)
+            as well as
+            [Terms and Conditions](https://www.thestar.com.my/terms/)
+            set forth by this site.
+          Thank you for downloading.
+          We hope you enjoy this feature!
+          Didn't work? Try
+            again.
+  END Flyin Pullout PDF
+  TSOL Icons
+  Queryly
+  End Queryly
+  resources common js_includes.blade.php
+  theme includes js_includes.blade.php
+  Po.st for social icons in article page
+  NetCore
+  End NetCore
+  Widget JS links

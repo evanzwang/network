@@ -1,0 +1,357 @@
+{
+  "title": "Anush Mutyala",
+  "meta_description": "",
+  "main_content": "Anush Mutyala Anush Mutyala Deep Learning Engineer Brain-Computer Interface Developer Hardware Engineer Full-Stack Developer About Me Anush Mutyala Toronto, Canada I'm a 18-year-old brain-computer interface developer working at the intersection of neuroscience, machine learning, and hardware engineering. Prev: Machine Learning and Digital Design @ ISML Univ. of Toronto ; EEG Research & Dev @ Divergence Neuro ; Core Developer & Co-founder @ NeuraDAO ; Current: Leading bio-inspired spiking neural network research @ LCRAIN YorkU ; Electronics @ General Cybernetics ; Focusing on hardware-software co-design for neural implants. Reach out to me at mutyalaanush@gmail.com Resume You can find the most up-to-date \"CV\" here . Portfolio All AI Brain-computer Interfaces UI/UX Websites ConnexSci Using Graph Neural Networks to Optimize Drug Discovery AI NeuraDAO Marketplace A marketplace for neuroimaging data on Ocean Protocol BCI NeuraDAO Landing Page Archive of DAO's previous ventures Websites EEG Spectral Analysis and Topology Created EEG visualization ReactJS plugins for the Neurosity BCI EEG Presentations Using eyeblink artefacts from EEG to move across a slideshow. BCI MindFrames Summarizing videos based on what you find interesting. BCI Web Browser BCI Controlling chrome with your Brain. BCI Emotion300 A realtime chat application using a P300 speller and emotion detection to improve accesibility of social media to the disabled. BCI Artefact Detection Using K-means Live detection of multiple EEG artefacts using K-Means. BCI Using PCA-CNNs to identify P300 in EEG. Pipeline for P300 extraction from EEG data. AI HEN Pick-Up Mockup UI/UX mockup for HEN. UI/UX Mockup for FoodHaven Mockup for a food delivery app for FoodHaven. UI/UX United Nations Digital Economy Whitepaper Establishing Post-Secondary Digital Pathways for Women in South Africa Websites Optimizing Biomarkers in Adaptive Clinical Trials Bayesian-optimized adaptive clinical trials pitched to BenchSci Websites mPath AI Pipeline Using AI for Triaging. AI Blog A Deeper Look at Neuralink\u2019s N1 Chip 14 July 2022 BCI 20 min read Pain Quantification using fMRI 18 October 2021 BCI 12 min read Fixing Mental Healthcare with Brain Biomarkers 20 August 2021 BCI 18 min read Muse 101 \u2014 How to start Developing with the Muse 2 right now 12 December 2021 BCI 18 min read If Nanotech and Neurotech had a Child; Magnetogenetics 8 May 2021 BCI 10 min read Changing the way we Save Video with our Minds July 3 2021 BCI 9 min read Google\u2019s Project Taara: Fiber Optics without the Fiber 15 May 2020 Moonshots 6 min read Enhancing the Presentation Experience with Brainwaves 10 Mar 2020 AI 9 min read Seeing with your Tongue and the Everchanging Mush inside your Head 10 Dec 2020 BCI 9 min read Prime Editing Oversimplified 20 Oct 2019 Gene Editing 13 min read Hacking at Neurable for a Day 26 May 2021 BCI 5 min read Why we need the Internet X BCI Collab 9 June 2021 BCI 14 min read Using ultrasound waves to blast bacteria back to the stone age 30 Apr 2021 Microbio 8 min read",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/anushmutyala/",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/@anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC1bl8CYSHtwbpKxwceBaTtw",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://www.eecg.utoronto.ca/~roman/lab/index.html",
+      "text": "ISML Univ. of Toronto"
+    },
+    {
+      "url": "https://www.divergenceneuro.com/",
+      "text": "Divergence Neuro"
+    },
+    {
+      "url": "https://neuradao.to/",
+      "text": "NeuraDAO"
+    },
+    {
+      "url": "https://lcrain.eecs.yorku.ca/",
+      "text": "LCRAIN YorkU"
+    },
+    {
+      "url": "https://generalcybernetics.org/",
+      "text": "General Cybernetics"
+    },
+    {
+      "url": "mailto: mutyalaanush@gmail.com",
+      "text": "mutyalaanush@gmail.com"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anushmutyala/",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/@anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC1bl8CYSHtwbpKxwceBaTtw",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/anushmutyala",
+      "text": ""
+    },
+    {
+      "url": "https://docs.google.com/document/d/1UbwUcOVj3MN7lZWLpbqbYDFWPpFbnJY5ftvCspgyr-s/edit?usp=sharing",
+      "text": "here"
+    },
+    {
+      "url": "https://connexsci.vercel.app/",
+      "text": ""
+    },
+    {
+      "url": "https://neuradao-data-mrktplc.vercel.app/",
+      "text": ""
+    },
+    {
+      "url": "https://neuradao-green.vercel.app/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala/DivergenceLiveViz",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oniElx2tXpo",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qB3tEswJ-mg",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A9nrgjZrIoc",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala/EmotivateHackathonEmotionP300",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala/Eyeblink-Presentations",
+      "text": ""
+    },
+    {
+      "url": "https://colab.research.google.com/drive/1L0n4sqeS3_ugRtDdUYDzvTOpmfl_A9cA?usp=sharing",
+      "text": ""
+    },
+    {
+      "url": "https://framer.com/embed/HEN-Case-App--e4sKWab1WMGptsBeWOFH/JgJQomPrw",
+      "text": ""
+    },
+    {
+      "url": "https://framer.com/embed/MealHaven--i8zJi8NWTsI0Yu4oeUjp/uWqGh7fhf",
+      "text": ""
+    },
+    {
+      "url": "https://drive.google.com/file/d/1CMnOoRvFNFZml0IsLBXE9vkwAD-hT4CX/view?usp=sharing",
+      "text": ""
+    },
+    {
+      "url": "https://drive.google.com/file/d/15kuDbMqwLdhnEhs2943EbjNVbcin8JyO/view?usp=sharing",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/anushmutyala/AI-Hackathon",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/@neuronic_img/a-deeper-look-at-neuralinks-n1-chip-f0763ea0a61e",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/@neuronic_img/a-deeper-look-at-neuralinks-n1-chip-f0763ea0a61e",
+      "text": "A Deeper Look at Neuralink\u2019s N1 Chip"
+    },
+    {
+      "url": "https://zaynpatel.medium.com/physicians-the-modern-day-drug-dealers-c5d785c795a8",
+      "text": ""
+    },
+    {
+      "url": "https://zaynpatel.medium.com/physicians-the-modern-day-drug-dealers-c5d785c795a8",
+      "text": "Pain Quantification using fMRI"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/mental-health-needs-a-rework-heres-why-a42da243aa00",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/mental-health-needs-a-rework-heres-why-a42da243aa00",
+      "text": "Fixing Mental Healthcare with Brain Biomarkers"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/muse-101-how-to-start-developing-with-the-muse-2-right-now-a1b87119be5c",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/muse-101-how-to-start-developing-with-the-muse-2-right-now-a1b87119be5c",
+      "text": "Muse 101 \u2014 How to start Developing with the Muse 2 right now"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/if-nanotech-and-neurotech-had-a-child-magnetogenetics-675f609f2aa6",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/if-nanotech-and-neurotech-had-a-child-magnetogenetics-675f609f2aa6",
+      "text": "If Nanotech and Neurotech had a Child; Magnetogenetics"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/mindframes-changing-the-way-we-save-video-8bc64761f19",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/mindframes-changing-the-way-we-save-video-8bc64761f19",
+      "text": "Changing the way we Save Video with our Minds"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/googles-project-taara-fiber-optics-without-the-fiber-434e27495130",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/googles-project-taara-fiber-optics-without-the-fiber-434e27495130",
+      "text": "Google\u2019s Project Taara: Fiber Optics without the Fiber"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/presentations-with-your-brain-117467b36460",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/presentations-with-your-brain-117467b36460",
+      "text": "Enhancing the Presentation Experience with Brainwaves"
+    },
+    {
+      "url": "blog-posts/16.htmlhttps://anushmutyala.medium.com/seeing-with-your-tongue-and-the-everchanging-mush-that-is-the-brain-ef4bb8ca0b58",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/seeing-with-your-tongue-and-the-everchanging-mush-that-is-the-brain-ef4bb8ca0b58",
+      "text": "Seeing with your Tongue and the Everchanging Mush inside your Head"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/prime-editing-oversimplified-680cdd4077c2",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/prime-editing-oversimplified-680cdd4077c2",
+      "text": "Prime Editing Oversimplified"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/hacking-at-neurable-for-a-day-63d9e5379272",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/hacking-at-neurable-for-a-day-63d9e5379272",
+      "text": "Hacking at Neurable for a Day"
+    },
+    {
+      "url": "https://anushmutyala.medium.com/why-we-need-the-internet-x-bci-collab-16fcc562fbd",
+      "text": ""
+    },
+    {
+      "url": "https://anushmutyala.medium.com/why-we-need-the-internet-x-bci-collab-16fcc562fbd",
+      "text": "Why we need the Internet X BCI Collab"
+    },
+    {
+      "url": "https://velmathanalingam.medium.com/using-ultrasound-waves-to-blast-bacteria-back-to-the-stone-age-dafaa66d1400",
+      "text": ""
+    },
+    {
+      "url": "https://velmathanalingam.medium.com/using-ultrasound-waves-to-blast-bacteria-back-to-the-stone-age-dafaa66d1400",
+      "text": "Using ultrasound waves to blast bacteria back to the stone age"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/anmu3-82139da27b953f62d372c2128504c12d?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/frontend_view2-e9bfcfe27829dc654a1f5bf05c5940ed?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/neuradao-88c5ba06ad98fb03011f9b378a93ceea?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/neuradao-lp-ced7559591f31cbf55c5dccc69b68b3c?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/topology-c7a5bf5b7cbf12c0fac240511735af03?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/eyeblink-a8b3a1764e9eb3e114e1c8bd94dbc366?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/mindframelogo-4d37d9d9e252cbaf921c7a675b9aca19?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/webfocus-cb7bd563acec0442f68a1e2ebcb879ba?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/p300spellerEmoti-0ee70f69afe97d97da330b792d812b4d?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/eeg_artefacts-a7e1ccfacb6117412a5a944aa7f214a0?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/cnn-da7feb838f9f558b01f79cb67f2369ec?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/HEN-04ca4206ef3ea8b85824b94eef56b651?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/foodhaven-e3dc033d31f32554e33fabd302673ff1?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/pexels-picha-stock-3894378-8fa51339a9f040e280c0751ff47d8fe4?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/bst_mock-4a45f74ef18d5c7649b62109a16f8c4e?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*WXV8RRuashGQq0LS-22ca97a1a80e812fbb0350270a01ac09?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*NQij-ZKN8qQKNloT-5aea811eb8cdb9bba5ea6d948766a918?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/1*TGDHbkbMaldxa4ieC-qnPw-de04e946bf0a5ee6eb30c5b25f3ba807?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*G-DBN0qaa6obkVCK-ec4cc5af33300c3f44e8f0e8b403aa2a?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*-IJlFdFCNi3EV9io-e511d8bef3749ac4fc73ca750977dae0?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/bci-940x529-335bf4f9c0376d2fdd90df359966883a?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/1*j1AFA9V61kYkj6v0MRpa0A-c1e97d8b20e82d9adf9b361d83c34040?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*0laJ3J2rFq4OQCb0-f83b53bbd31d1f97c95b37a0a07d1d1d?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/1*-1AK4bkv2NThyGEImpEH9Q%402x-8f62f624135cc126dfddb751c499e0ec?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*dqw8jox-blCE5-jp-b4c153f95c9b56954a5d9fc955252633?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/1*ZVl-IUXOXMqaQm3HmZN2jw-230100ab2ab3493a6bbee182464e2df5?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*mTPth8fsz_Ztol-G-22d413fd714fd555810ce6abdad68783?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*Dmi9Lx8dPNF2HTjU-b823ed56fc094ef4b13fc019449f394d?_a=BBFAAAAA0",
+      "alt": ""
+    },
+    {
+      "src": "https://res.cloudinary.com/dz2jvnn9x/image/upload/f_auto,q_auto/v1/wizardly-hamilton-93006b/0*eViw9aNdpnqAAwjR-a069acf0b119fde0184dd2e22ce2ce98?_a=BBFAAAAA0",
+      "alt": ""
+    }
+  ]
+}

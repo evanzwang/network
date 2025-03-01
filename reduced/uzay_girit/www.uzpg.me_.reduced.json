@@ -1,0 +1,129 @@
+{
+  "title": "home | UZPG",
+  "meta_description": "",
+  "main_content": "I\u2019m Uzay (pronounced ooze-eye ), undergrad studying Math & CS , physics at MIT. I do theory of deep learning research in the Isola lab , and am currently particularly interested in a) the dynamics of in context adaptivity, and b) building robust legible world models that allow for improved long horizon performance and human empowerment. I am currently looking for research opportunities for the spring/especially summer period, so feel free to reach out. Interests: poetry/literature, writing , climbing, pure math, programming, mountains Things I get up to: trying to get better at research Amateur poetry, philosophy and writing I think AI will change the world and want to figure out what to do about it at MAIA I want to build better interfaces for learning and creativity using AI. Things I have affiliation to: Pika , Fabric, Emergent Ventures , France. Links: twitter , github , goodreads . Check out my blog - Here is some stuff I\u2019ve written: on climbing , year review , beyond good and evil . Or if you are curious a list of some things I\u2019ve done (research/projects), like this paper or this knowledge management software . I\u2019d recommend my wiki if you want to get a deep dive into a lot of the things I\u2019m interested in. Here\u2019s a subset of my dear friends: Yudhi , Hamidah , Kaivu , Will , Gavin , Euan , Nils , Kai , Atticus . Email: zef (at) mit (dot) edu Copyright \u00a9 2019-2025 Uzay Girit",
+  "links": [
+    {
+      "url": "http://web.mit.edu/phillipi/",
+      "text": "Isola lab"
+    },
+    {
+      "url": "/blog",
+      "text": "writing"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=qvZ_Q_IAAAAJ",
+      "text": "research"
+    },
+    {
+      "url": "/blog",
+      "text": "writing"
+    },
+    {
+      "url": "https://mitalignment.org",
+      "text": "MAIA"
+    },
+    {
+      "url": "https://github.com/Uzay-G",
+      "text": "better interfaces for learning and creativity using AI."
+    },
+    {
+      "url": "https://pika.mit.edu",
+      "text": "Pika"
+    },
+    {
+      "url": "https://www.mercatus.org/emergent-ventures",
+      "text": "Emergent Ventures"
+    },
+    {
+      "url": "https://x.com/uzpg_",
+      "text": "twitter"
+    },
+    {
+      "url": "https://github.com/Uzay-G",
+      "text": "github"
+    },
+    {
+      "url": "https://www.goodreads.com/user/show/171286337-uzay",
+      "text": "goodreads"
+    },
+    {
+      "url": "/blog",
+      "text": "blog"
+    },
+    {
+      "url": "https://www.uzpg.me/2023/10/08/climbing-and-becoming",
+      "text": "on climbing"
+    },
+    {
+      "url": "https://www.uzpg.me/general/2023/12/30/review",
+      "text": "year review"
+    },
+    {
+      "url": "https://www.uzpg.me/literature/2023/04/26/beyond-good-and-evil",
+      "text": "beyond good and evil"
+    },
+    {
+      "url": "/projects",
+      "text": "some things I\u2019ve done"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.13506",
+      "text": "paper"
+    },
+    {
+      "url": "https://archivy.github.io",
+      "text": "knowledge management software"
+    },
+    {
+      "url": "https://knowledge.uzpg.me",
+      "text": "wiki"
+    },
+    {
+      "url": "https://www.yudhister.me/",
+      "text": "Yudhi"
+    },
+    {
+      "url": "https://hamidah.me/",
+      "text": "Hamidah"
+    },
+    {
+      "url": "https://kaivu.org",
+      "text": "Kaivu"
+    },
+    {
+      "url": "https://www.willhath.com/",
+      "text": "Will"
+    },
+    {
+      "url": "https://gleech.org",
+      "text": "Gavin"
+    },
+    {
+      "url": "https://ong.ac",
+      "text": "Euan"
+    },
+    {
+      "url": "https://nilsand.re",
+      "text": "Nils"
+    },
+    {
+      "url": "https://goldenblue.substack.com/",
+      "text": "Kai"
+    },
+    {
+      "url": "https://chry-santhemum.github.io/website/",
+      "text": "Atticus"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/images/zef.png",
+      "alt": "butterfly man in the night"
+    },
+    {
+      "src": "https://queue.simpleanalyticscdn.com/noscript.gif",
+      "alt": ""
+    }
+  ]
+}

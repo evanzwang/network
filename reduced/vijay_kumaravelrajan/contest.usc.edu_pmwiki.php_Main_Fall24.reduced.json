@@ -1,0 +1,165 @@
+{
+  "title": "USC Programming Contest :  | Main / Fall 2024 USC Programming Contest  | browse",
+  "meta_description": "",
+  "main_content": "USC Programming Contest Fall 2024 USC Programming Contest Problems The problems are available as a PDF document . The table below contains sample solutions programmed by participants during the contest, as well as the input data and correct solutions used by the judges. Problem C/C++ solution Java/Python solution Judges' Python solution Input Correct Output A - Sign Restoration Tracy Hu Nathan Sparks restoration.py restoration.in restoration.out B - Sign Pranks Vayun Mathur Gianna Ysabel Besmonte pranks.py pranks.in pranks.out C - Perfect Photos William Xiang Spencer Tran photos.py photos.in photos.out D - Access Control Peiran Qiu no solution access.py access.in access.out E - Land Purchase Shidong Zhang no solution purchase.py purchase.in purchase.out F - 5-Mile Hike Lian Fouse Vijay Kumaravelrajan miles.py miles.in miles.out Results There were 22 participants. Out of these, 19 solved at least one problem, 18 solved at least two problems, 14 students solved at least 3 problems, 7 students solved at least 4 problems, 5 students solved at least 5 problems, and two students solved all six problems. Rank Name Problems solved cumulative time 1 Shidong Zhang (CSCI MS) 6 465 2 William Xiang (CSCI PhD) 6 585 3 Yiming Gao (CSCI MS) 5 384 4 Peiran Qiu (CSCI Sophomore) 5 519 The complete final standings are also available. Pictures from the award ceremony (taken by Nathan Sparks) are available for you to enjoy. We would like to thank VSoE for making the labs available for the contest. David Kempe wrote the problem set. Changyu Zhu, Adhyyan Sekhsaria, and Chenghao Wang provided standard solutions and test cases. Changyu Zhu also worked as contest judge. Daniel Yip and Loc Vo created and installed the contest environment on the machines. Multiple volunteers from ACM and Isabel Fernandez from Viterbi IT helped with running the contest. Overview Details Rules Sponsors in Spring 2019 Electronic Arts Google Northrop Grumman Marconi Foundation About Print Login (contest.usc.edu)",
+  "links": [
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fall2024.pdf",
+      "text": "PDF document"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.tracy.cpp.txt",
+      "text": "Tracy Hu"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.nathan.py.txt",
+      "text": "Nathan Sparks"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.judge.py.txt",
+      "text": "restoration.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.in.txt",
+      "text": "restoration.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.out.txt",
+      "text": "restoration.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.vayun.cpp.txt",
+      "text": "Vayun Mathur"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.gianna.py.txt",
+      "text": "Gianna Ysabel Besmonte"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.judge.py.txt",
+      "text": "pranks.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.in.txt",
+      "text": "pranks.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.out.txt",
+      "text": "pranks.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.william.cpp.txt",
+      "text": "William Xiang"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.spencer.py.txt",
+      "text": "Spencer Tran"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.judge.py.txt",
+      "text": "photos.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.in.txt",
+      "text": "photos.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photors.out.txt",
+      "text": "photos.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.peiran.cpp.txt",
+      "text": "Peiran Qiu"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.judge.py.txt",
+      "text": "access.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.in.txt",
+      "text": "access.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.out.txt",
+      "text": "access.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.shidong.cpp.txt",
+      "text": "Shidong Zhang"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.judge.py.txt",
+      "text": "purchase.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.in.txt",
+      "text": "purchase.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.out.txt",
+      "text": "purchase.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.lian.cpp.txt",
+      "text": "Lian Fouse"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.vijay.py.txt",
+      "text": "Vijay Kumaravelrajan"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.judge.py.txt",
+      "text": "miles.py"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.in.txt",
+      "text": "miles.in"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.out.txt",
+      "text": "miles.out"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.summary.html",
+      "text": "complete final standings"
+    },
+    {
+      "url": "https://photos.app.goo.gl/HcqPvTUqB36mGj379",
+      "text": "Pictures from the award ceremony"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/HomePage",
+      "text": "Overview"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Details",
+      "text": "Details"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Rules",
+      "text": "Rules"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/About",
+      "text": "About"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php?action=print",
+      "text": "Print"
+    },
+    {
+      "url": "https://contest.usc.edu/pmwiki.php/Main/Fall24?action=login",
+      "text": "Login"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://contest.usc.edu/pmwiki.php/Main/HomePage?action=download&upname=usc.gif",
+      "alt": ""
+    },
+    {
+      "src": "https://contest.usc.edu/pmwiki.php/Main/HomePage?action=download&upname=logo.gif",
+      "alt": ""
+    }
+  ]
+}

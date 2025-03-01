@@ -1,0 +1,1193 @@
+{
+  "title": "The dizzying explosion of generative artificial intelligence platforms has been the big business story of the past year, but how they\u2019ll make money and how smart companies can use them wisely are the questions that will dominate the next 12 months.\u201cStudents and executives are no longer asking whether we should adopt AI\u2014but rather, when and how to do so,\u201d says Andy Wu, the Arjun and Minoo Melwani Family Associate Professor of Business Administration at Harvard Business School.Wu\u2019s recent case study and background note, AI Wars and the Generative AI Value Chain, offer a crash course in ChatGPT, Bard, and other AI chatbots\u2014as well as the dueling tech titans behind them\u2014and probe the strategic dilemmas ahead for innovators and users. The public's fascination with the human-like aspects of chatbots may be overshadowing more fundamental questions about how companies can profit from AI, Wu says.I think the basic economics of a generative AI are being overlooked.In an interview, Wu discusses the challenging economics of AI, how business models are likely to differ from traditional software models, and some of the potentially painful tradeoffs ahead for companies such as Google, Microsoft, and others. Wu collaborated on the case study with HBS research associate Matt Higgins; HBS doctoral student Miaomiao Zhang; and Massachusetts Institute of Technology doctoral student Hang Jiang.Ben Rand: What did you find most surprising in preparing this case and why?Andy Wu: I think the basic economics of a generative AI are being overlooked. There are significant unanswered questions in terms of how people will actually make money with this technology. Google and OpenAI and others can't lose money in perpetuity. But it\u2019s not yet obvious to anyone exactly how this will be monetized. At minimum, I can tell you that we are going to need new business models, and the integration of generative AI is going to transform how we monetize software and the business model.Rand: How so?Wu: Our notions of fixed cost and variable costs are different here than they were for any other form of computing we've lived through in the past. The key insight is that the variable cost of delivering generative AI to an end user is not zero\u2026 which means we can't necessarily be handing out future software-as-a-service applications containing generative AI for free to anyone or even as a paid subscription without usage limits as we are used to today. Usage pricing is going to be much more important.A second distinction is that a significant portion of the core technology is open source, and a lot of the data being used to train these models is public data and may be copyrighted but is publicly available online. The barriers to entry for AI are not as high as it may seem. So many companies will be in the game, at least for specific vertical AI models and applications.Rand: Is it too soon to tell which business model will emerge?Wu: The companies are still trying to figure it out. But I think by their actions, we can get some hints about the direction we're going to go. The generative AI companies out there are actually pricing on a usage model, which says to me that they don't think they can make the subscription model work economically today.Rand: Which companies are in the best position right now?Wu: A real standout right now is Meta, in terms of fighting hard for a prominent position on the open-source side with their LLaMA model. Prior to last year, many would have assumed that Google would have been the putative leader in the open-source part of the market. Microsoft also deserves a lot of credit for making a decision to work with OpenAI and getting access to leading technology that they can integrate both into their applications and as a way to sell cloud computing services.But what's interesting here is that none of the big tech providers are in the business of selling the actual model itself. Amazon largely offers its cloud customers the open-source models that others have made. Meta is largely handing its model out for free (with some limits), and Microsoft outsourced much of the core technology to OpenAI. Looking at these decisions together, they are making a real, albeit subtle, statement about what to avoid, which is actually trying to directly monetize the core technology\u2014the AI model\u2014itself.The challenge we face right now with AI is it's very possible that the actual invention of the technology itself is not what people will make money on. It will transform the world, but the money isn't made on the thing that enabled the transformation.The issue is, we normally think of intellectual property as being copyrighted or not copyrighted.Rand: What role will regulation play, do you think?Wu: I understand the interest of regulators, given the risks of this technology. But it's going to be very difficult for regulators to come up with a comprehensive policy that controls things in the way that they would aspire to control them. That comes down to one principal factor, and that is that the barrier to entry is not that high. There are already a significant amount of open-source models that you or I could build on.So, let's say we want to block AI from generating hate speech. To the extent that there is a market for hate speech, some entrepreneur will be able to build that model. It's hard to exactly figure out how you would block it. If there is a market, someone will figure out how to do it.Rand: Are there some areas where regulation may be useful?Wu: Copyright law is one area they can address. The issue is, we normally think of intellectual property as being copyrighted or not copyrighted. But I like to teach my students that we're in a new world. There\u2019s copyrighted and not copyrighted, and then there's also public and private. And so, the issue right now is that you can have copyrighted data that is also public. For instance, any newspaper publisher that allows their news articles to be indexed by search engines has put their intellectual property in this situation of being copyrighted but also public.What do those creators do about their data? You can say it's copyrighted, and say other people can't use it, but you can't really run around proving that all these different models are being trained using your data. This is something that regulators will have to clarify and also something that companies are taking note of themselves, particularly in the music space and image space.To the extent that maybe you don\u2019t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.Rand: With so much to consider, how can managers stay on top of the developments in AI? They seem to be changing so fast.Wu: I would advise managers not to play for the next year. Play for the next 10 years. The idea is that you want to have people inside your company who are on top of the different technologies and experimenting with different things. You need to give them a pathway to communicate with the CEO and top management team about which technologies to invest in.The corollary to that is the integration of data across business units in a company. It\u2019s not being done well enough right now, based on my experience. Companies already have a fairly complicated portfolio of different databases and enterprise products that store their data. That data increasingly needs to be kept track of, and, ideally, integrated. And so, to the extent that maybe you don\u2019t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.Rand: What are some best practices of things companies need to be doing now?Wu: If you\u2019re a company thinking about implementing AI, there are different levels of sophistication to consider. You could wait for other companies to develop the relevant applications, or you could buy an API and build your own application, or you could actually train your own model and then build your own application. And I think companies need to begin the process now of identifying what level of sophistication they want. For example, one early leader in this process is Bloomberg, where they have already gone ahead and built BloombergGPT, a large-language model tailored for financial tasks. They used their own proprietary data to finetune an open-source model. For a company like Bloomberg, providing financial insights is mission critical, and so they cannot wait around for someone else to develop that AI model and application.You Might Also Like:Feedback or ideas to share? Email the Working Knowledge team at hbswk@hbs.edu.Image: AI Generation - Chatting Apps Info",
+  "meta_description": "The dizzying explosion of generative artificial intelligence platforms has been the big business story of the past year, but how they\u2019ll make money and how smart companies can use them wisely are the questions that will dominate the next 12 months.\u201cStudents and executives are no longer asking whether we should\u2026",
+  "main_content": "Meta Shares Latest Insights into Policy Enforcement and Content Engagement Trends February 28, 2025",
+  "links": [
+    {
+      "url": "https://oysterchat.com/2025/02/28/meta-shares-latest-insights-into-policy-enforcement-and-content-engagement-trends/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/meta-shares-latest-insights-into-policy-enforcement-and-content-engagement-trends/",
+      "text": "Meta Shares Latest Insights into Policy Enforcement and Content Engagement Trends"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/linkedin-tests-alternate-feed-of-updates-from-only-your-connections/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/linkedin-tests-alternate-feed-of-updates-from-only-your-connections/",
+      "text": "LinkedIn Tests Alternate Feed of Updates From Only Your Connections"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/apple-implements-new-age-rating-categories-for-apps/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/apple-implements-new-age-rating-categories-for-apps/",
+      "text": "Apple Implements New Age Rating Categories for Apps"
+    },
+    {
+      "url": "https://oysterchat.com/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/category/tech-behind-chat-apps/",
+      "text": "Tech Behind Chat Apps"
+    },
+    {
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=63881",
+      "text": "AI Wars"
+    },
+    {
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=64320",
+      "text": "Generative AI Value Chain"
+    },
+    {
+      "url": "https://www.library.hbs.edu/working-knowledge/mailto:hbswk@hbs.edu",
+      "text": "[email\u00a0protected]"
+    },
+    {
+      "url": "https://oysterchat.com/author/admin45678o/",
+      "text": "admin45678o"
+    },
+    {
+      "url": "https://oysterchat.com/2024/11/30/the-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely/#respond",
+      "text": "No Comments"
+    },
+    {
+      "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://rebrand.ly/allinpn",
+      "text": ""
+    },
+    {
+      "url": "https://rebrand.ly/allinpn",
+      "text": ""
+    },
+    {
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=63881",
+      "text": "AI Wars"
+    },
+    {
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=64320",
+      "text": "Generative AI Value Chain"
+    },
+    {
+      "url": "https://www.library.hbs.edu/working-knowledge/mailto:hbswk@hbs.edu",
+      "text": "[email\u00a0protected]"
+    },
+    {
+      "url": "https://kingselot.com/",
+      "text": "KING SLOT"
+    },
+    {
+      "url": "https://kingselot.com/",
+      "text": "king selot"
+    },
+    {
+      "url": "https://kingslot.bio/",
+      "text": "king slot"
+    },
+    {
+      "url": "https://kingslot.com/",
+      "text": "KING SLOT"
+    },
+    {
+      "url": "https://kingselot.com/",
+      "text": "kingselot"
+    },
+    {
+      "url": "https://pgkingslot.org/",
+      "text": "pg king slot"
+    },
+    {
+      "url": "https://matahari88slot.com/",
+      "text": "matahari88slot"
+    },
+    {
+      "url": "https://matahari88slot.com/",
+      "text": "https://matahari88slot.com/"
+    },
+    {
+      "url": "https://mama88.asia/",
+      "text": "mama88"
+    },
+    {
+      "url": "https://mama88.asia/",
+      "text": "https://mama88.asia/"
+    },
+    {
+      "url": "https://loker88.biz/",
+      "text": "loker88"
+    },
+    {
+      "url": "https://loker88.biz/",
+      "text": "https://loker88.biz/"
+    },
+    {
+      "url": "https://line88.social/",
+      "text": "line88"
+    },
+    {
+      "url": "https://line88.social/",
+      "text": "https://line88.social/"
+    },
+    {
+      "url": "https://lelang88.asia/",
+      "text": "lelang88"
+    },
+    {
+      "url": "https://lelang88.asia/",
+      "text": "https://lelang88.asia/"
+    },
+    {
+      "url": "https://legend88.org/",
+      "text": "legend88"
+    },
+    {
+      "url": "https://legend88.org/",
+      "text": "https://legend88.org/"
+    },
+    {
+      "url": "https://laundry88.org/",
+      "text": "laundry 88"
+    },
+    {
+      "url": "https://laundry88.org/",
+      "text": "https://laundry88.org/"
+    },
+    {
+      "url": "https://laundry88.net/",
+      "text": "laundry 88"
+    },
+    {
+      "url": "https://laundry88.net/",
+      "text": "https://laundry88.net/"
+    },
+    {
+      "url": "https://kota88.asia/",
+      "text": "kota88"
+    },
+    {
+      "url": "https://kota88.asia/",
+      "text": "https://kota88.asia/"
+    },
+    {
+      "url": "https://kawat88.net/",
+      "text": "kawat88"
+    },
+    {
+      "url": "https://kawat88.net/",
+      "text": "https://kawat88.net/"
+    },
+    {
+      "url": "https://kakaotalk.pro/",
+      "text": "kakaotalk"
+    },
+    {
+      "url": "https://kakaotalk.pro/",
+      "text": "https://kakaotalk.pro/"
+    },
+    {
+      "url": "https://kaca88.asia/",
+      "text": "kaca88"
+    },
+    {
+      "url": "https://kaca88.asia/",
+      "text": "https://kaca88.asia/"
+    },
+    {
+      "url": "https://jualbeli88.com/",
+      "text": "jualbeli88"
+    },
+    {
+      "url": "https://jualbeli88.com/",
+      "text": "https://jualbeli88.com/"
+    },
+    {
+      "url": "https://indonesiafc88.com/",
+      "text": "indonesiafc88"
+    },
+    {
+      "url": "https://indonesiafc88.com/",
+      "text": "https://indonesiafc88.com/"
+    },
+    {
+      "url": "https://indofood88.com/",
+      "text": "indofood88"
+    },
+    {
+      "url": "https://indofood88.com/",
+      "text": "https://indofood88.com/"
+    },
+    {
+      "url": "https://guru88.asia/",
+      "text": "guru88"
+    },
+    {
+      "url": "https://guru88.asia/",
+      "text": "https://guru88.asia/"
+    },
+    {
+      "url": "https://grabpay88.org/",
+      "text": "grabpay88"
+    },
+    {
+      "url": "https://grabpay88.org/",
+      "text": "https://grabpay88.org/"
+    },
+    {
+      "url": "https://grab88.info/",
+      "text": "grab88"
+    },
+    {
+      "url": "https://grab88.info/",
+      "text": "https://grab88.info/"
+    },
+    {
+      "url": "https://gopay88.info/",
+      "text": "gopay88"
+    },
+    {
+      "url": "https://gopay88.info/",
+      "text": "https://gopay88.info/"
+    },
+    {
+      "url": "https://gold88.asia/",
+      "text": "gold88"
+    },
+    {
+      "url": "https://gold88.asia/",
+      "text": "https://gold88.asia/"
+    },
+    {
+      "url": "https://gofood88.com/",
+      "text": "gofood88"
+    },
+    {
+      "url": "https://gofood88.com/",
+      "text": "https://gofood88.com/"
+    },
+    {
+      "url": "https://gelas88.info/",
+      "text": "gelas88"
+    },
+    {
+      "url": "https://gelas88.info/",
+      "text": "https://gelas88.info/"
+    },
+    {
+      "url": "https://eth88.org/",
+      "text": "eth88"
+    },
+    {
+      "url": "https://eth88.org/",
+      "text": "https://eth88.org/"
+    },
+    {
+      "url": "https://emas88.biz/",
+      "text": "emas88"
+    },
+    {
+      "url": "https://emas88.biz/",
+      "text": "https://emas88.biz/"
+    },
+    {
+      "url": "https://blockchain88.net/",
+      "text": "blockchain88"
+    },
+    {
+      "url": "https://blockchain88.net/",
+      "text": "https://blockchain88.net/"
+    },
+    {
+      "url": "https://baik888.net/",
+      "text": "baik888"
+    },
+    {
+      "url": "https://baik888.net/",
+      "text": "https://baik888.net/"
+    },
+    {
+      "url": "https://bagus888.info/",
+      "text": "bagus888"
+    },
+    {
+      "url": "https://bagus888.info/",
+      "text": "https://bagus888.info/"
+    },
+    {
+      "url": "https://anorganik88.com/",
+      "text": "anorganik88"
+    },
+    {
+      "url": "https://anorganik88.com/",
+      "text": "https://anorganik88.com/"
+    },
+    {
+      "url": "https://panen96.net/",
+      "text": "panen96"
+    },
+    {
+      "url": "https://panen96.net/",
+      "text": "https://panen96.net/"
+    },
+    {
+      "url": "https://panen69.info/",
+      "text": "panen96"
+    },
+    {
+      "url": "https://panen69.info/",
+      "text": "https://panen69.info/"
+    },
+    {
+      "url": "https://panen69.asia/",
+      "text": "panen96"
+    },
+    {
+      "url": "https://panen69.asia/",
+      "text": "https://panen69.asia/"
+    },
+    {
+      "url": "https://selot.info/",
+      "text": "selot"
+    },
+    {
+      "url": "https://selot.info/",
+      "text": "https://selot.info/"
+    },
+    {
+      "url": "https://selot.asia/",
+      "text": "selot"
+    },
+    {
+      "url": "https://selot.asia/",
+      "text": "https://selot.asia/"
+    },
+    {
+      "url": "https://samsung88.asia/",
+      "text": "samsung88"
+    },
+    {
+      "url": "https://samsung88.asia/",
+      "text": "https://samsung88.asia/"
+    },
+    {
+      "url": "https://raksasa88.info/",
+      "text": "raksasa88"
+    },
+    {
+      "url": "https://raksasa88.info/",
+      "text": "https://raksasa88.info/"
+    },
+    {
+      "url": "https://iphone88.asia/",
+      "text": "iphone88"
+    },
+    {
+      "url": "https://iphone88.asia/",
+      "text": "https://iphone88.asia/"
+    },
+    {
+      "url": "https://gm88.news/",
+      "text": "gm88"
+    },
+    {
+      "url": "https://gm88.news/",
+      "text": "https://gm88.news/"
+    },
+    {
+      "url": "https://selot.biz/",
+      "text": "selot"
+    },
+    {
+      "url": "https://selot.biz/",
+      "text": "https://selot.biz/"
+    },
+    {
+      "url": "https://topdewa88.com/",
+      "text": "topdewa88"
+    },
+    {
+      "url": "https://topdewa88.com/",
+      "text": "https://topdewa88.com/"
+    },
+    {
+      "url": "https://ebook88.org/",
+      "text": "ebook88"
+    },
+    {
+      "url": "https://ebook88.org/",
+      "text": "https://ebook88.org/"
+    },
+    {
+      "url": "https://ebook88.net/",
+      "text": "ebook88"
+    },
+    {
+      "url": "https://ebook88.net/",
+      "text": "https://ebook88.net/"
+    },
+    {
+      "url": "https://sensor88.asia/",
+      "text": "sensor88"
+    },
+    {
+      "url": "https://sensor88.asia/",
+      "text": "https://sensor88.asia/"
+    },
+    {
+      "url": "https://mpo2288.net/",
+      "text": "mpo2288"
+    },
+    {
+      "url": "https://mpo2288.net/",
+      "text": "https://mpo2288.net/"
+    },
+    {
+      "url": "https://lembaga88.net/",
+      "text": "lembaga88"
+    },
+    {
+      "url": "https://lembaga88.net/",
+      "text": "https://lembaga88.net/"
+    },
+    {
+      "url": "https://inti88.biz/",
+      "text": "inti88"
+    },
+    {
+      "url": "https://inti88.biz/",
+      "text": "https://inti88.biz/"
+    },
+    {
+      "url": "https://dokumen88.com/",
+      "text": "dokumen88"
+    },
+    {
+      "url": "https://dokumen88.com/",
+      "text": "https://dokumen88.com/"
+    },
+    {
+      "url": "https://baik88.asia/",
+      "text": "baik88"
+    },
+    {
+      "url": "https://baik88.asia/",
+      "text": "https://baik88.asia/"
+    },
+    {
+      "url": "https://bagus888.asia/",
+      "text": "bagus888"
+    },
+    {
+      "url": "https://bagus888.asia/",
+      "text": "https://bagus888.asia/"
+    },
+    {
+      "url": "https://tiktok888.info/",
+      "text": "tiktok888"
+    },
+    {
+      "url": "https://tiktok888.info/",
+      "text": "https://tiktok888.info/"
+    },
+    {
+      "url": "https://registrasi88.net/",
+      "text": "registrasi88"
+    },
+    {
+      "url": "https://registrasi88.net/",
+      "text": "https://registrasi88.net/"
+    },
+    {
+      "url": "https://registrasi88.com/",
+      "text": "registrasi88"
+    },
+    {
+      "url": "https://registrasi88.com/",
+      "text": "https://registrasi88.com/"
+    },
+    {
+      "url": "https://pstmi88.com/",
+      "text": "pstmi88"
+    },
+    {
+      "url": "https://pstmi88.com/",
+      "text": "https://pstmi88.com/"
+    },
+    {
+      "url": "https://lionsclubs88.com/",
+      "text": "lionsclubs88"
+    },
+    {
+      "url": "https://lionsclubs88.com/",
+      "text": "https://lionsclubs88.com/"
+    },
+    {
+      "url": "https://kompas88.asia/",
+      "text": "kompas88"
+    },
+    {
+      "url": "https://kompas88.asia/",
+      "text": "https://kompas88.asia/"
+    },
+    {
+      "url": "https://jeruk333.com/",
+      "text": "jeruk333"
+    },
+    {
+      "url": "https://jeruk333.com/",
+      "text": "https://jeruk333.com/"
+    },
+    {
+      "url": "https://james88.net/",
+      "text": "james88"
+    },
+    {
+      "url": "https://james88.net/",
+      "text": "https://james88.net/"
+    },
+    {
+      "url": "https://fb888.site/",
+      "text": "fb888"
+    },
+    {
+      "url": "https://fb888.site/",
+      "text": "https://fb888.site/"
+    },
+    {
+      "url": "https://detik888.asia/",
+      "text": "detik888"
+    },
+    {
+      "url": "https://detik888.asia/",
+      "text": "https://detik888.asia/"
+    },
+    {
+      "url": "https://david88.net/",
+      "text": "david88"
+    },
+    {
+      "url": "https://david88.net/",
+      "text": "https://david88.net/"
+    },
+    {
+      "url": "https://danautoba88.com/",
+      "text": "danautoba88"
+    },
+    {
+      "url": "https://danautoba88.com/",
+      "text": "https://danautoba88.com/"
+    },
+    {
+      "url": "https://tebar88.asia/",
+      "text": "tebar88"
+    },
+    {
+      "url": "https://tebar88.asia/",
+      "text": "https://tebar88.asia/"
+    },
+    {
+      "url": "https://slotbom777.asia/",
+      "text": "slotbom777"
+    },
+    {
+      "url": "https://slotbom777.asia/",
+      "text": "https://slotbom777.asia/"
+    },
+    {
+      "url": "https://padi88.com/",
+      "text": "padi88"
+    },
+    {
+      "url": "https://padi88.com/",
+      "text": "https://padi88.com/"
+    },
+    {
+      "url": "https://padi77.asia/",
+      "text": "padi77"
+    },
+    {
+      "url": "https://padi77.asia/",
+      "text": "https://padi77.asia/"
+    },
+    {
+      "url": "https://muara88.asia/",
+      "text": "muara88"
+    },
+    {
+      "url": "https://muara88.asia/",
+      "text": "https://muara88.asia/"
+    },
+    {
+      "url": "https://muara77.asia/",
+      "text": "muara77"
+    },
+    {
+      "url": "https://muara77.asia/",
+      "text": "https://muara77.asia/"
+    },
+    {
+      "url": "https://maxwin777.asia/",
+      "text": "maxwin777"
+    },
+    {
+      "url": "https://maxwin777.asia/",
+      "text": "https://maxwin777.asia/"
+    },
+    {
+      "url": "https://bigpot888.org/",
+      "text": "bigpot888"
+    },
+    {
+      "url": "https://bigpot888.org/",
+      "text": "https://bigpot888.org/"
+    },
+    {
+      "url": "https://bigpot888.net/",
+      "text": "bigpot888"
+    },
+    {
+      "url": "https://bigpot888.net/",
+      "text": "https://bigpot888.net/"
+    },
+    {
+      "url": "https://sumo88.net/",
+      "text": "sumo88"
+    },
+    {
+      "url": "https://sumo88.net/",
+      "text": "https://sumo88.net/"
+    },
+    {
+      "url": "https://sumo77.org/",
+      "text": "sumo77"
+    },
+    {
+      "url": "https://sumo77.org/",
+      "text": "https://sumo77.org/"
+    },
+    {
+      "url": "https://sumo77.net/",
+      "text": "sumo77"
+    },
+    {
+      "url": "https://sumo77.net/",
+      "text": "https://sumo77.net/"
+    },
+    {
+      "url": "https://sjo88.asia/",
+      "text": "sjo88"
+    },
+    {
+      "url": "https://sjo88.asia/",
+      "text": "https://sjo88.asia/"
+    },
+    {
+      "url": "https://sjo77.asia/",
+      "text": "sjo77"
+    },
+    {
+      "url": "https://sjo77.asia/",
+      "text": "https://sjo77.asia/"
+    },
+    {
+      "url": "https://kudetabet88.asia/",
+      "text": "kudetabet88"
+    },
+    {
+      "url": "https://kudetabet88.asia/",
+      "text": "https://kudetabet88.asia/"
+    },
+    {
+      "url": "https://kudeta99.asia/",
+      "text": "kudeta99"
+    },
+    {
+      "url": "https://kudeta99.asia/",
+      "text": "https://kudeta99.asia/"
+    },
+    {
+      "url": "https://kudeta988.com/",
+      "text": "kudeta988"
+    },
+    {
+      "url": "https://kudeta988.com/",
+      "text": "https://kudeta988.com/"
+    },
+    {
+      "url": "https://kudeta88.asia/",
+      "text": "kudeta88"
+    },
+    {
+      "url": "https://kudeta88.asia/",
+      "text": "https://kudeta88.asia/"
+    },
+    {
+      "url": "https://fufufafa.org/",
+      "text": "fufufafa"
+    },
+    {
+      "url": "https://fufufafa.org/",
+      "text": "https://fufufafa.org/"
+    },
+    {
+      "url": "https://bahagia88.org/",
+      "text": "bahagia88"
+    },
+    {
+      "url": "https://bahagia88.org/",
+      "text": "https://bahagia88.org/"
+    },
+    {
+      "url": "https://bahagia77.club/",
+      "text": "bahagia77"
+    },
+    {
+      "url": "https://bahagia77.club/",
+      "text": "https://bahagia77.club/"
+    },
+    {
+      "url": "https://angin777.inf/",
+      "text": "angin777"
+    },
+    {
+      "url": "https://angin777.inf/",
+      "text": "https://angin777.inf/"
+    },
+    {
+      "url": "https://sunda88.org/",
+      "text": "sunda88"
+    },
+    {
+      "url": "https://sunda88.org/",
+      "text": "https://sunda88.org/"
+    },
+    {
+      "url": "https://slotcc88.com/",
+      "text": "slotcc88"
+    },
+    {
+      "url": "https://slotcc88.com/",
+      "text": "https://slotcc88.com/"
+    },
+    {
+      "url": "https://poskobet88.com/",
+      "text": "poskobet88"
+    },
+    {
+      "url": "https://poskobet88.com/",
+      "text": "https://poskobet88.com/"
+    },
+    {
+      "url": "https://nuri88.asia/",
+      "text": "nuri88"
+    },
+    {
+      "url": "https://nuri88.asia/",
+      "text": "https://nuri88.asia/"
+    },
+    {
+      "url": "https://janjiwin88.com/",
+      "text": "janjiwin88"
+    },
+    {
+      "url": "https://janjiwin88.com/",
+      "text": "https://janjiwin88.com/"
+    },
+    {
+      "url": "https://top99.asia/",
+      "text": "top99"
+    },
+    {
+      "url": "https://top99.asia/",
+      "text": "https://top99.asia/"
+    },
+    {
+      "url": "https://top888.info/",
+      "text": "top888"
+    },
+    {
+      "url": "https://top888.info/",
+      "text": "https://top888.info/"
+    },
+    {
+      "url": "https://terbaik99.com/",
+      "text": "terbaik99"
+    },
+    {
+      "url": "https://terbaik99.com/",
+      "text": "https://terbaik99.com/"
+    },
+    {
+      "url": "https://terbaik88.asia/",
+      "text": "terbaik88"
+    },
+    {
+      "url": "https://terbaik88.asia/",
+      "text": "https://terbaik88.asia/"
+    },
+    {
+      "url": "https://pornhub88.org/",
+      "text": "pornhub88"
+    },
+    {
+      "url": "https://pornhub88.org/",
+      "text": "https://pornhub88.org/"
+    },
+    {
+      "url": "https://pornhub88.com/",
+      "text": "pornhub88"
+    },
+    {
+      "url": "https://pornhub88.com/",
+      "text": "https://pornhub88.com/"
+    },
+    {
+      "url": "https://plastik88.com/",
+      "text": "plastik88"
+    },
+    {
+      "url": "https://plastik88.com/",
+      "text": "https://plastik88.com/"
+    },
+    {
+      "url": "https://partai88.asia/",
+      "text": "partai88"
+    },
+    {
+      "url": "https://partai88.asia/",
+      "text": "https://partai88.asia/"
+    },
+    {
+      "url": "https://panas88.info/",
+      "text": "panas88"
+    },
+    {
+      "url": "https://panas88.info/",
+      "text": "https://panas88.info/"
+    },
+    {
+      "url": "https://minimal88.net/",
+      "text": "minimal88"
+    },
+    {
+      "url": "https://minimal88.net/",
+      "text": "https://minimal88.net/"
+    },
+    {
+      "url": "https://minimal88.com/",
+      "text": "minimal88"
+    },
+    {
+      "url": "https://minimal88.com/",
+      "text": "https://minimal88.com/"
+    },
+    {
+      "url": "https://merk88.net/",
+      "text": "merk88"
+    },
+    {
+      "url": "https://merk88.net/",
+      "text": "https://merk88.net/"
+    },
+    {
+      "url": "https://merk88.com/",
+      "text": "merk88"
+    },
+    {
+      "url": "https://merk88.com/",
+      "text": "https://merk88.com/"
+    },
+    {
+      "url": "https://oysterchat.com/tag/alt/",
+      "text": "alt"
+    },
+    {
+      "url": "https://oysterchat.com/tag/classhbsglobalaligncenter/",
+      "text": "classhbsglobalaligncenter"
+    },
+    {
+      "url": "https://oysterchat.com/tag/classhbsmediaasset/",
+      "text": "classhbsmediaasset"
+    },
+    {
+      "url": "https://oysterchat.com/tag/classhbsmediaasset__wrapperimg/",
+      "text": "classhbsmediaasset__wrapperimg"
+    },
+    {
+      "url": "https://oysterchat.com/tag/divdiv/",
+      "text": "divdiv"
+    },
+    {
+      "url": "https://oysterchat.com/tag/hbshidedropcapfigure/",
+      "text": "hbshidedropcapfigure"
+    },
+    {
+      "url": "https://oysterchat.com/tag/hbsmediaassetimage/",
+      "text": "hbsmediaassetimage"
+    },
+    {
+      "url": "https://oysterchat.com/tag/hbsmediaassetloadedspan/",
+      "text": "hbsmediaassetloadedspan"
+    },
+    {
+      "url": "https://oysterchat.com/tag/hbsrichtext/",
+      "text": "hbsrichtext"
+    },
+    {
+      "url": "https://oysterchat.com/tag/heightauto/",
+      "text": "heightauto"
+    },
+    {
+      "url": "https://oysterchat.com/tag/loadinglazy/",
+      "text": "loadinglazy"
+    },
+    {
+      "url": "https://oysterchat.com/tag/width2800/",
+      "text": "width2800"
+    },
+    {
+      "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Foysterchat.com%2F2024%2F11%2F30%2Fthe-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely%2F",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://oysterchat.com/author/admin45678o/",
+      "text": "admin45678o"
+    },
+    {
+      "url": "https://oysterchat.com",
+      "text": "Website"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/wondering-how-to-make-your-social-media-efforts-more-profitable-looking-for-ways-to-improve-customer-retention-and-acquisition-through-social-platforms-in-this-article-youll-discover-how-to/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/wondering-how-to-make-your-social-media-efforts-more-profitable-looking-for-ways-to-improve-customer-retention-and-acquisition-through-social-platforms-in-this-article-youll-discover-how-to/",
+      "text": "Wondering how to make your social media efforts more profitable? Looking for ways to improve customer retention and acquisition through social platforms?\u00a0 In this article, you\u2019ll discover how to implement a social care strategy that enhances customer experience and drives business growth. Why Social Care Matters for Marketers While algorithms shift and platforms rise and [\u2026]\nThe post Social Care: The Path to Happier Customers and Increased Sales appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/social-care-the-path-to-happier-customers-and-increased-sales/",
+      "text": "Social Care: The Path to Happier Customers and Increased Sales"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/25/wondering-where-you-should-begin-using-ai-in-your-work-are-you-overwhelmed-by-the-number-of-ai-tools-available-and-unsure-which-to-try-in-this-article-youll-discover-a-practical-framework-for-prio/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/25/wondering-where-you-should-begin-using-ai-in-your-work-are-you-overwhelmed-by-the-number-of-ai-tools-available-and-unsure-which-to-try-in-this-article-youll-discover-a-practical-framework-for-prio/",
+      "text": "Wondering where you should begin using AI in your work? Are you overwhelmed by the number of AI tools available and unsure which to try? In this article, you\u2019ll discover a practical framework for prioritizing where to use AI and finding the right solutions to streamline your business processes. Why You Need a System for [\u2026]\nThe post The Smart Marketer\u2019s Guide to Streamlining Work with AI appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/the-smart-marketers-guide-to-streamlining-work-with-ai/",
+      "text": "The Smart Marketer\u2019s Guide to Streamlining Work with AI"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/20/marketers-need-more-than-great-copy-to-capture-attention-they-need-messaging-that-connects-on-a-psychological-level-thats-where-neuro-linguistic-programming-nlp-comes-in-in-this-article/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/20/marketers-need-more-than-great-copy-to-capture-attention-they-need-messaging-that-connects-on-a-psychological-level-thats-where-neuro-linguistic-programming-nlp-comes-in-in-this-article/",
+      "text": "Marketers need more than great copy to capture attention\u2014they need messaging that connects on a psychological level. That\u2019s where neuro-linguistic programming (NLP) comes in. In this article, we\u2019ll break down two key NLP techniques to help you refine your marketing strategy and attract more customers. Why Marketers Should Care About Neuro-Linguistic Programming A marketer\u2019s job [\u2026]\nThe post Using Neuro-Linguistic Programming for More Influence and Sales appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/using-neuro-linguistic-programming-for-more-influence-and-sales/",
+      "text": "Using Neuro-Linguistic Programming for More Influence and Sales"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/18/are-you-a-content-creator-or-marketer-looking-to-improve-your-content-wondering-how-ai-can-help-you-produce-high-quality-content-in-this-article-youll-discover-the-best-ai-tools-for-research/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/18/are-you-a-content-creator-or-marketer-looking-to-improve-your-content-wondering-how-ai-can-help-you-produce-high-quality-content-in-this-article-youll-discover-the-best-ai-tools-for-research/",
+      "text": "Are you a content creator or marketer looking to improve your content? Wondering how AI can help you produce high-quality content?\u00a0 In this article, you\u2019ll discover the best AI tools for research, image generation, video creation, and audio production to enhance your content creation process. Who Should Use Tools for AI-Generated Content Not everyone needs [\u2026]\nThe post Top AI Tools for Creators for 2025 appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/top-ai-tools-for-creators-for-2025/",
+      "text": "Top AI Tools for Creators for 2025"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/13/tired-of-your-content-getting-lost-in-social-media-noise-wondering-how-top-creators-consistently-produce-videos-that-get-noticed-in-this-article-youll-learn-a-proven-methodology-for-dissecti/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/13/tired-of-your-content-getting-lost-in-social-media-noise-wondering-how-top-creators-consistently-produce-videos-that-get-noticed-in-this-article-youll-learn-a-proven-methodology-for-dissecti/",
+      "text": "Tired of your content getting lost in social media noise? Wondering how top creators consistently produce videos that get noticed?\u00a0 In this article, you\u2019ll learn a proven methodology for dissecting successful content formats and adapting them to your own niche. Why Video Storytelling Matters for Marketers With 5 billion people on social media platforms today, [\u2026]\nThe post Viral Short-Form Video Formats for 2025 appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/viral-short-form-video-formats-for-2025/",
+      "text": "Viral Short-Form Video Formats for 2025"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/11/wondering-why-your-ai-results-arent-meeting-expectations-curious-about-the-secret-to-crafting-more-effective-prompts-in-this-article-youll-discover-why-95-of-your-prompt-should-be-dedicated/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/11/wondering-why-your-ai-results-arent-meeting-expectations-curious-about-the-secret-to-crafting-more-effective-prompts-in-this-article-youll-discover-why-95-of-your-prompt-should-be-dedicated/",
+      "text": "Wondering why your AI results aren\u2019t meeting expectations? Curious about the secret to crafting more effective prompts?\u00a0 In this article, you\u2019ll discover why 95% of your prompt should be dedicated to priming and how to implement this strategy for better AI outcomes. Why Prompt Priming Improves AI\u2019s Responses To help us understand the importance of [\u2026]\nThe post AI Priming: Getting Custom and Accurate AI Output appeared first on Social Media Examiner."
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com/ai-priming-getting-custom-and-accurate-ai-output/",
+      "text": "AI Priming: Getting Custom and Accurate AI Output"
+    },
+    {
+      "url": "https://www.socialmediaexaminer.com",
+      "text": "Social Media Examiner"
+    },
+    {
+      "url": "/2024/11/30/the-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely/#respond",
+      "text": "Cancel Reply"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/meta-shares-latest-insights-into-policy-enforcement-and-content-engagement-trends/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/category/chatting-info/",
+      "text": "Chatting Info"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/meta-shares-latest-insights-into-policy-enforcement-and-content-engagement-trends/",
+      "text": "Meta Shares Latest Insights into Policy Enforcement and Content Engagement Trends"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/linkedin-tests-alternate-feed-of-updates-from-only-your-connections/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/28/linkedin-tests-alternate-feed-of-updates-from-only-your-connections/",
+      "text": "LinkedIn Tests Alternate Feed of Updates From Only Your Connections"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/apple-implements-new-age-rating-categories-for-apps/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/apple-implements-new-age-rating-categories-for-apps/",
+      "text": "Apple Implements New Age Rating Categories for Apps"
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/tiktok-sets-dedaline-for-the-switch-to-its-iktok-one-creative-suite/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2025/02/27/tiktok-sets-dedaline-for-the-switch-to-its-iktok-one-creative-suite/",
+      "text": "TikTok Sets Dedaline for the Switch to its \u2018ikTok One\u2019 Creative Suite"
+    },
+    {
+      "url": "https://oysterchat.com/2024/11/30/best-chatgpt-app-our-2024-top-picks/",
+      "text": ""
+    },
+    {
+      "url": "https://oysterchat.com/2024/11/30/best-chatgpt-app-our-2024-top-picks/",
+      "text": "Best ChatGPT app \u2013 our 2024 top picks"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oysterchat.com/wp-content/uploads/2024/11/a-logo-with-the-text-oysterchat-in-a-sans-serif-fo-8pdZ2z31SySsqEQixDv95g-R4aKLnrySOCaUrwSEiSUHw-removebg-preview.png",
+      "alt": "Chatting Apps Info"
+    },
+    {
+      "src": "https://oysterchat.com/wp-content/uploads/2024/11/a-logo-with-the-text-oysterchat-in-a-sans-serif-fo-8pdZ2z31SySsqEQixDv95g-R4aKLnrySOCaUrwSEiSUHw-removebg-preview.png",
+      "alt": "Chatting Apps Info"
+    },
+    {
+      "src": "https://oysterchat.com/wp-content/uploads/2024/11/a-logo-with-the-text-oysterchat-in-a-sans-serif-fo-8pdZ2z31SySsqEQixDv95g-R4aKLnrySOCaUrwSEiSUHw-removebg-preview.png",
+      "alt": "Chatting Apps Info"
+    },
+    {
+      "src": "https://www.library.hbs.edu/working-knowledge/aspect-ratio:2800/1297;object-fit:cover;object-position:center center",
+      "alt": ""
+    },
+    {
+      "src": "https://secure.gravatar.com/avatar/e85a7dde2ceded6ee5d0d17123a8a892?s=32&d=mm&r=g",
+      "alt": "admin45678o"
+    },
+    {
+      "src": "https://gambarapaantuh.site/seo-pn/bannerbpn-02.webp",
+      "alt": "PANEN96 promo"
+    },
+    {
+      "src": "https://gambarapaantuh.site/seo-pn/bannerbpn-01.webp",
+      "alt": "PANEN96 promo"
+    },
+    {
+      "src": "https://www.library.hbs.edu/working-knowledge/aspect-ratio:2800/1297;object-fit:cover;object-position:center center",
+      "alt": ""
+    },
+    {
+      "src": "https://secure.gravatar.com/avatar/e85a7dde2ceded6ee5d0d17123a8a892?s=95&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/02/SMMP655_2aARTICLE.jpg",
+      "alt": "Social Care: The Path to Happier Customers and Increased Sales by Social Media Examiner"
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/02/Ai_Explored_42_2aARTICLE.jpg",
+      "alt": "The Smart Marketer\u2019s Guide to Streamlining Work with AI by Social Media Examiner"
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/02/SMMP654_2aARTICLE.jpg",
+      "alt": "Using Neuro-Linguistic Programming for More Influence and Sales by Social Media Examiner"
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/02/Ai_Explored_41_2aARTICLE.jpg",
+      "alt": "Top AI Tools for Creators for 2025 by Social Media Examiner"
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/01/SMMP653_2aARTICLE.jpg",
+      "alt": "Viral Short-Form Video Formats for 2025 by Social Media Examiner"
+    },
+    {
+      "src": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/01/AI_Explored_40_2aARTICLE.jpg",
+      "alt": "AI Priming: Getting Custom and Accurate AI Output by Social Media Examiner"
+    }
+  ]
+}

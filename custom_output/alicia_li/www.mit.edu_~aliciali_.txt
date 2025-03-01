@@ -1,0 +1,31 @@
+    basic info abt me
+    Alicia Li
+    Hi! I'm an MIT undergraduate double majoring in course 6-4 (AI and Decision Making) and 18 (Math)
+      add in a bio here eventually...
+      Contact
+      My email is (myname) at mit.edu ! (email me for CV)
+      contact + email me for CV
+      projects
+      Projects
+          Adversarial Attacks against Online Learning Agents
+        2022-2023 MIT PRIMES research project. I constructed adversarial streaming algorithms against Epsilon-Greedy and Epsilon-Annealing 
+                    sampling victims. I proved theoretical guarantees for the performance of these algorithms and coded them in Python.
+          Play To Donate
+        I made an app that lets people donate to charity when they play my games by leveraging ad revenue!
+          Watch To Donate
+        I created the first and only nonprofit student organization that enables people to donate without using any of their money by utilizing ad revenue from social media videos, mobile apps (iOS & Android),
+                    and collaborations with artists and businesses.
+      Publications
+        add pubs
+          Adversarial Attacks Against Online Learning Agents
+          Subsight, Inquiries in the Subversion of the Attention Economy
+          The Post Correspondence Problem
+          The Classification of Magic SET Squares
+          Confirming the Labels of Coins in One Weighing
+        hobbies
+        Hobbies
+        I'm on MIT Asian Dance Team, Ridonkulous (MIT's competitive hip hop dance team), and was previously on Fixation (MIT's competitive contemporary dance team) in the fall semester. I also enjoy figure skating and watching movies with friends in my free time!
+        <img class="" src="figs/fixationpic.jpg" width="24%">
+        <img class="" src="figs/fixationwod.png" width="30%">
+        <img class="" src="figs/donkpic.jpg" width="12%">
+        <img class="" src="figs/donkwod.png" width="30%">

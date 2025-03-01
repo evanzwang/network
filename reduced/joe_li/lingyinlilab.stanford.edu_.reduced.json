@@ -1,0 +1,85 @@
+{
+  "title": "Li lab",
+  "meta_description": "",
+  "main_content": "Scroll Welcome to the Li lab We combine chemistry, biochemistry, immunology, and physiology to uncover basic mechanisms in innate immunity and, in parallel, develop therapeutic hypotheses and lead molecules. Innate immune pathways are a rich source of novel chemistry: they involve diverse molecular patterns in pathogens, little-explored second messengers, and drugs with poorly understood mechanism. Activation of innate immunity is a proven therapeutic strategy for vaccination, viral infection, and cancer, while inhibition is a strategy for treating autoimmune diseases and neurodegeneration. To date, however, most modulators of innate immunity are broad, non-specific, and poorly characterized. We seek to improve understanding of these pathways and facilitate the development of more precise drugs for preventing or treating specific diseases. We are affiliated with Stanford Biochemistry, Sarafan ChEM-H and Arc Institute. LAB NEWS New preprint on the cGAMP transporter in T cells 09/26/2024 Why do T cells die in response to uptake of cGAMP and related STING agonists? In work led by immunology grad student Valentino, we report the role of SLC7A1 as the transporter of cGAMP in T cells. Read the preprint here Dr. Yu Li and Dr. Tong Lan join us as postdocs 09/25/2024 Yu is an immunologist from Westlake University, while Tong is a chemical biologist coming from UChicago. We are so excited to have you with us! Congratulations to Chris on the publication of his work on PELI2 and its regulation of the STING pathway! 06/24/2024 Chris\u2019 work sheds new light on the negative regulation of STING, revealing how it is restrained from causing unwanted inflammation and unleashed in the presence of real threats. Read the paper here . Congratulations to lead author Rachel on the publication of her discovery of ENPP3! 05/14/2024 We now add ENPP3 to our discovery of innate immune checkpoints that can be target to enhance the effects of immunotherapy. This also represents the continuation of our fruitful collaboration with the Goodarzi Lab (UCSF and Arc). Congratulations to Rachel and all the authors! Read the paper here . See all news LAB TWITTER Tweets by Lingyin_Lab JOIN US! We would love to hear from trainees from any scientific discipline and background. Through our multidisciplinary research program, lab members will be trained in synthetic chemistry, biochemistry, molecular biology, innate immunology, and drug development. Want to learn more? Contact us here",
+  "links": [
+    {
+      "url": "/",
+      "text": "Li lab"
+    },
+    {
+      "url": "/search",
+      "text": ""
+    },
+    {
+      "url": "/publications-1",
+      "text": "Publications"
+    },
+    {
+      "url": "/preprints",
+      "text": "Preprints"
+    },
+    {
+      "url": "/lab-photos",
+      "text": "Lab Photos"
+    },
+    {
+      "url": "/heroines",
+      "text": "Heroines in Chemistry"
+    },
+    {
+      "url": "/easter-egg-page",
+      "text": ""
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.1101/2024.09.21.614248v1.full.pdf",
+      "text": "here"
+    },
+    {
+      "url": "https://www.cell.com/action/showPdf?pii=S1097-2765%2824%2900479-9",
+      "text": "here"
+    },
+    {
+      "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00537-0",
+      "text": "here"
+    },
+    {
+      "url": "/new-blog",
+      "text": "See all news"
+    },
+    {
+      "url": "https://twitter.com/Lingyin_Lab?ref_src=twsrc%5Etfw",
+      "text": "Tweets by Lingyin_Lab"
+    },
+    {
+      "url": "/contact",
+      "text": "Want to learn more? Contact us here"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/8a3b7518-7094-4bb0-adfc-c07e64056a2f/Screen+Shot+2023-12-26+at+7.49.09+PM.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/9d9d3c1e-77d5-4c27-a364-a4451695c424/Screenshot+2024-10-12+at+8.56.50%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/28a431d0-bbc1-4847-b452-83f7bf94e05b/Screenshot+2024-10-12+at+8.42.48%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/a2bb9aa0-907f-4f10-85f7-7e42c395f26c/Screenshot+2024-10-12+at+8.40.47%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/1ad3730b-2bb2-42c5-a452-beaed8b55a2e/1-s2.0-S1097276524004799-fx1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5616f84ae4b06489ba896f84/d151aa26-4cca-41f1-a04c-7547ec12566a/GNjM0D2bIAAXU5S.jpeg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+          Monash University Home
+              Help & FAQ
+                [Home](/en/)
+                  Profiles
+                  Research units
+                  Equipment
+                  Projects
+                  Outputs
+                  Prizes
+                  Activities
+                  Press/Media
+                      Search by expertise, name or affiliation
+                        View Scopus Profile
+                    Ian Lim
+                      Dr
+                          Senior Lecturer
+                          ,
+                            Malaysia Sch of Information Technology
+                      [https://orcid.org/0000-0002-3354-5467](https://orcid.org/0000-0002-3354-5467)
+                        Email
+                    Accepting PhD Students
+                  2010
+                  2024
+                Research activity per year
+                        Overview
+                        Network
+                        (2)
+                        (13)
+                        (11)
+                        (4)
+                  Biography
+                      Wern Han Lim (Ian) has been teaching computer science with the School of Information Technology since 2015; achieving teaching recognition from student association, school, faculty and campus such as: - 2020 PVC Awards for Excellence in Education: Outstanding Educator - 2019 Faculty of Information Technology Teaching Award: Teaching Excellence - 2018 Monash Student Association (MSA) Teaching Awards - Faculty Teaching Excellence Award: Information Technology. - 2017 Faculty of Information Technology Teaching Award 2017: Citation for Outstanding Contribution to Student Learning. His teaching experience includes: - FIT1008 Introduction to Computer Science - FIT2004 Algorithms and Data Structures - FIT2014 Theory of Computation - FIT3140 Advanced Programming - FIT3152 Data Science - FIT3155 Advanced Data Structures and Algorithms Ian is also the student experience coordinator for the school. He often initiate, coordinates and act as the advisor for student enhancement programs -- having mentored student teams successfully in various local, regional and international events particularly hackathons and datathons. Besides that, he also contributes to community outreach programs such as the Campus Community Engagement (CCE) as one of the academic advisors. On the research front, Ian’s area of interest and expertise includes (not limited to): - Information Retrieval (IR) and Knowledge Discovery particularly on User-Generated Content (UGC) platforms. His work in this area also includes Natural Language Processing (NLP), Data Science (DS) and Machine Learning (ML). - Graph Algorithms for a wide range of use cases such as knowledge graph, social engineering and flow optimization with capacity constraint. To date, he has been involved in a number of research projects in these research areas including postgraduate supervision, industry collaborations and industry consultancy.
+                  Research interests
+                    Ian has a strong research interest to bring order to the World Wide Web (WWW) today – estimating the reliability and information quality of User-Generated Content (UGC). He aims to enhance the information retrieval (IR) experience on the WWW, leveraging the Wisdom of the Crowd (WotC). To do so, he utilizes various data science techniques in conjunction with machine learning (ML) to produce powerful models such as:
+                      Classification of WWW resources using user annotations/ tags.
+                      Identifying experts on community question-answering (CQA) platforms and reliable product reviewers for improved recommender systems.
+                      Prediction of best answer in a CQA environment.
+                      Identifying high quality comments on Reddit and filtering out unwanted comments/ fake news.
+                      Identifying malicious users/ spammers on various UGC platforms including fake news.
+                      Extraction of tacit knowledge from UGC platforms, towards enhancing existing knowledge graphs.
+                    Besides that, he also work on other areas such as:
+                      Analytics and design of novel flow networks (humans and vehicles) for route optimization with capacity constraints and a wide range of use cases.
+                  Monash teaching commitment
+                      FIT1008 Introduction to Computer Science
+                      FIT2004 Algorithms and Data Structures
+                      FIT2014 Theory of Computations
+                      FIT3134 Entrepreneurship
+                      FIT3152 Data Science
+                      FIT3155 Advanced Data Structures and Algorithms
+                  Community service
+                    As a student experience coordinator, Ian as been a part of various community services involving SoIT students such as:
+                      The Campus Community Engagement (CCE) program with NGOs such as Tzu Chi.
+                      Deloitte-Monash KidsEdu initiative to provide computing devices for children education.
+                    He also contribute his expertise as for the research into the primary care for the elderly with the Institute of Health System Research (IHSR) of the Malaysia National Institute of Health (NIH).
+                  Consulting
+                    Ian has provided his services both paid and unpaid to the following:
+                      MIMOS Berhad, the Malaysia National Applied R&D Centre.
+                      Institute for Health System Research (IHSR), for the Malaysia National Institute of Health (NIH).
+                  Expertise related to UN Sustainable Development Goals
+                  In 2015, UN member states agreed to 17 global
+                    [Sustainable Development Goals (SDGs)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+                    to end poverty, protect the planet and ensure prosperity for all. This person’s work contributes towards the following SDG(s):
+                  Education/Academic qualification
+                    Computer Science, Doctor of Philosophy, Bringing Order to the Web,
+                        Faculty of Information Technology
+                      1 Nov 2010
+                      →
+                      22 May 2018
+                    Award Date: 23 May 2018
+                    Computer Science, Bachelor Degree,
+                      26 Feb 2007
+                      4 Dec 2009
+                    Award Date: 4 Dec 2009
+                    Research area keywords
+                        Knowledge representation and reasoning
+                        Modelling and simulation
+                        Natural language processing
+                        Data management and data science
+                        nformation modelling, management and ontologies
+                        Knowledge and information management
+                        User-Generated Content
+                        Graph algorithms
+                        Fake News
+                        Misinformation
+                        Fact checking
+                        Digital Health
+                Collaborations and top research areas from the last five years
+              Recent external collaboration on country/territory level. Dive into details by clicking on the dots or
+                Select a country/territory from the list
+                  Dive into details
+                Select a country/territory to view shared publications and projects
+              Close
+                  Explore network further
+                    Projects per year
+                      2021
+                          2022
+                      2025
+                        2
+                      Finished
+                            A Novel Context-Aware Model for Relation Extractions from Conversational Texts using Graph Convolutional Networks
+                            Lay Ki, S.
+                            Wong, K. S.
+                            Lim, I.
+                          , Chun Yong, C. & Tan, I. K. T.
+                          1/09/22
+                          28/02/25
+                          Project
+                            :
+                          Research
+                            Fake News Detection on Social Networking Services using Tacit Knowledge Graph with User Reliability Estimates
+                            Eu Gene, S.
+                          , Carman, M. J. & Wong, S. M.
+                          7/09/21
+                          6/09/24
+                  Research output
+                    Research output per year
+                          2011
+                          2017
+                        11
+                      Conference Paper
+                        1
+                      Article
+                      Review Article
+                            A Transformer-free signal encoding module for efficient networked AI systems
+                        Vu, L.
+                          Lim, W. H.
+                        &
+                          Phan, R. C. W.
+                        Proceedings of the 2024 2nd International Workshop on Networked AI Systems.
+                        Morabito, R., Jang, S. & M.A. Sayed, A. (eds.). New York NY USA:
+                          Association for Computing Machinery (ACM)
+                        p. 1-6
+                        6 p.
+                          Chapter in Book/Report/Conference proceeding
+                            ›
+                            peer-review
+                        Open Access
+                        File
+                            Cryptocurrency analysis: Price prediction of cryptocurrency using user sentiments and quantitative data
+                        Perera, D.
+                        Lim, J.
+                        Gunraku, S.
+                        Proceedings of the 16th International Conference on Agents and Artificial Intelligence - (Volume 3).
+                        Paula Rocha, A., Steels, L. & van den Herik, J. (eds.). Setubal Portugal:
+                          Scitepress
+                        p. 210-217
+                        8 p.
+                        (International Conference on Agents and Artificial Intelligence; vol. 3).
+                            Machine learning-based risk prediction model for medication administration errors in neonatal intensive care units: A prospective direct observational study
+                        Henry Basil, J.
+                        Syed Ahmad, S. M.
+                        Menon Premakumar, C.
+                        Mohd Tahir, N. A.
+                        Mhd Ali, A.
+                        Seman, Z.
+                        Ishak, S.
+                        Mohamed Shah, N.
+                        18 Oct 2024
+                        In:
+                            Digital Health.
+                        10
+                        19 p.
+                          Contribution to journal
+                            Caching transient data in Information-Centric Internet-of-Things (IC-IoT) networks: A survey
+                        Al-Ward, H.
+                          Tan, C. K.
+                        Oct 2022
+                            Journal of Network and Computer Applications.
+                        206
+                        22 p.
+                        , 103491.
+                              16
+                            Citations
+(Scopus)
+                            Improved speech emotion recognition based on music-related audio features
+                        Vu, L. N.
+                          Phung, D.
+                        Proceedings of the 30th European Signal Processing Conference (EUSIPCO 2022).
+                        Routtenberg, T. & Tadic, P. (eds.).
+                          European Association for Signal Processing
+                        p. 120-124
+                        5 p.
+                        (European Signal Processing Conference; vol. 2022-August).
+                              4
+                    View all 13 research outputs
+                    Activities per year
+                          2023
+                      Executive education programs
+                        3
+                      External research organisation, centre or institute
+                      Contribution to conference
+                      Contribution to workshop, seminar, course
+                      More
+                                External HDR Supervision
+                                Peer review responsibility
+                            NDA with SBDR of NIH Malaysia
+                          (Fellow)
+                          29 Sept 2023
+                          29 Sept 2025
+                          Activity
+                          External Academic Engagement
+                            PLoS ONE (Journal)
+                          (Peer reviewer)
+                          6 Apr 2023
+                          17 Apr 2023
+                          Publication peer-review and editorial work types
+                            Medical Administration Errors (MAE) Risks in Neonatal Intensive Care Unit (NICU)
+                          17 Oct 2023
+                          31 Dec 2024
+                            Python: Foundation to Intermediate
+                          (Speaker)
+                          20 Jun 2023
+                          22 Jun 2023
+                          Other Teaching Engagements and non-HDR Supervisions
+                            Python: From Management to Modelling
+                          26 Jun 2023
+                          28 Jun 2023
+                    View all 11 activities
+                            Prebunking fake news with the wisdom of the crowd
+                            Nazirul Hazim A. Khalim
+                          26/10/23
+                        1 item of Media coverage
+                          Article/Feature
+                            Monash builds platform to fight misinformation
+                          15/10/20
+                            Social credit, but for forums: Monash Malaysia's answer to managing misinformation
+                          14/10/20
+                            Managing online forums in the age of misinformation
+                          13/10/20
+              Powered by
+                [Pure](http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure)
+                [Scopus](http://www.scopus.com/)
+                [Elsevier Fingerprint Engine™](https://www.elsevier.com/products/elsevier-fingerprint-engine)
+              All content on this site: Copyright © 2025 Monash University, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply
+              We use cookies to help provide and enhance our service and tailor content. By continuing you agree to the
+                [use of cookies](/en/about/cookies/)
+                [Monash University data protection policy](https://www.monash.edu/privacy-monash/privacy-collection-statements)
+                [About web accessibility](/en/web-accessibility/)
+                [Report vulnerability](https://elsevier.responsibledisclosure.com/hc/en-us/requests/new)
+                [Contact us](/cdn-cgi/l/email-protection#25485c574056404457464d65484a4b44564d0b404150)

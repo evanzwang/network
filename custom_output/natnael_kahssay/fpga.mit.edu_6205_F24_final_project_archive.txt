@@ -1,0 +1,846 @@
+        [6.205](https://fpga.mit.edu/6205/F24)
+      [Log In](https://fpga.mit.edu/6205/F24/final_project_archive?loginaction=login)
+          [Home](https://fpga.mit.edu/6205/F24)
+          [Final Project Archive](https://fpga.mit.edu/6205/F24/final_project_archive)
+          Projects of Yesteryear
+            You are not logged in.
+          [Log
+In](https://fpga.mit.edu/6205/F24/final_project_archive?loginaction=login)
+          for full access to the web site.
+          https://shimmer.mit.edu
+          ) to authenticate, and then you will be redirected
+back to this page.
+        Fall 2023
+              Walkie Talkie FPGA
+                Keawe Mann, Khang Le, Khoa Huynh
+                [video](https://fpga.mit.edu/videos/2023/team00/video.mp4)
+                [report](https://fpga.mit.edu/videos/2023/team00/report.pdf)
+              Glow Trails on FPGA
+                Kiran Vuksanaj, Eugeniya Artemova
+              13.56 MHz RFID Emulator
+                Matthew Cox, Nathan Shwatal
+              DigiSketch
+                Lydia Patterson, Edwin O. Ouko, Fahnmusa J. Edwards
+              FPGA Minigolf
+                Sebastien Lohier, Abhinav Goel, Lawrence Shi
+              FPGA-based Accelerator for Vector Search
+                Lasya Balachandran, Sanjay Seshan
+              Riscalar
+                Bill Wang, Catherine Tang
+              RISCY ML
+                Armando Moncada, Lee Morgan
+              RSA FPGA Implementation
+                Joseph Kim, Stephen Campbell
+              FencePGA
+                Gaurab Das, Muhender Raj Rajvee
+              Poor Man’s VR: Raymarching with Stereoscopic Offset and Gyroscopic Control
+                Marco Andrade, Aidan Zev Blum Levine, Aidan Zev Blum Levine
+              SIFTPGA
+                Evelyn Fu, Shruti Garg
+              FPGA-Based Real-Time ADS-B Scanner
+                Youran Gao, Hasan Zeki Yıldız, Yichen Gao
+              Minimalist GPU on an FPGA
+                Laker Newhouse, Hanfei Cui
+              RFID Duplicator
+                Kyle Heinz, Walter Truitt, Christina Crow
+              Photomosaica
+                Andrew Weinfeld, Marilyn Meyers, Isaac (Zack) Duitz
+              Flat Earth Project
+                Nathan Jones, Samuel Calvert, Sawyer Sands
+              Orca: Optimized RISC-V Cryptographic Accelerator
+                Kosi Nwabueze, Haoran Wen
+              Frito: an FPGA Chip-8 Multiplexing Emulator
+                Linh Nguyen, Vetri Vel, Vetri Vel
+              FPGA Royale Final Report
+                Maxwell Jiang, Frederick Tang
+              Digital Sundial Final Project Report
+                Moaaz Fayumy, Asaad Mohammedsaleh, Hamza Raniwala
+              PictoChatGPA – Real-Time Draw Sharing On Low-Level Hardware
+                Fatema Zaman, Abdullah Negm
+              FPGA Autonomus Vehicle
+                Juan Antonio Luera, Juan Angel Luera, Manuel Valencia
+              Finding, Parsing, and Generating Audio Transcriptions
+                Monica Chan, Cynthia Zhang, Ian Hueston
+              FPGA Video Dithering
+                Nadia Frieden, Erin Zhang
+              Feline Programmable Gate Array
+                Andi Qu, Richard Beattie
+              Fitness Program of Guided Activities
+                Ayyub Abdulrezak, Esha Ranade
+              Aurras: Active Environmental Noise Cancellation Using an FPGA
+                Matthew Caren, Bryan Jangeesingh, Jonas Rajagopal
+              Crappy Car Simulator
+                Teonezcayotl GutieRuiz, Jose H. Cerritos Arevalo
+              Bespoke: an ONNX to FPGA compiler for Rapid Development of ML Stream Processors
+                Thelonious Cooper
+              VOXOS: Vocoder on FPGA
+                Andrew Li
+              FPGesture–Controlled Video Enhancement
+                Soojung Bae, Jorge Tomaylla Eme
+              MOS6502 Final Report
+                Kelly Xu, Jan Strzeszynski
+              Anglerfish: A Novel Pacing System for Swimmers with Stereo Camera Tracking
+                Brian Li, Viveca Pannell
+              Nintendo Etherstream
+                Vassilios Kaxiras, Christine Imogu, Karen Liberman
+              3D PONG!
+                Zitong Chen, Eugene Lee
+              Real-Time Interactive Block World
+                Bowen Wu, Ali Cy
+              3D Model Interfacing Final Report
+                Ryan Xiao, Jessica Pan, Annie Giroux
+              FPGA QR Code Scanner Final Report
+                M.Subhi Abo Rdan, Ayana Alemayehu
+              NeuroVision: A Neuromorphic Computing Accelerator for Image Processing
+                Franck Belemkoabga
+        Fall 2022
+              FPGA Digital Audio Workstation
+                Charalampos Georgiou and Nader Jemel
+              Audio Transmission via S/PDIF over TOSLINK
+                Eric Bui, Alyssa Keirn, and Luis Martinez
+              Beat Saber
+                Shreya Karpoor, Darren Lim, and Monica Liu
+              Radio Society Defense Network
+                Oliver Trevor
+              Stealthoscope
+                Sophie Guo, Kevin Qian, and Maggie Zhang
+              TOT (Terminal-on-TOT)
+                Stephen Kandeh and Julio Rodriguez
+              FPGA Virtual Lightboard
+                Ivy Liu and Melissa Stok
+              Waveshine
+                Jonas Cameron and Aklilu Aron
+              FPGA Fractal Ray Marcher
+                Thanadol Chomphoochan and Dillon DuPont
+              A Really Long Extension Cord: Final Report
+                Miles Silva and Jordan Wilke
+              FPGA Accelerated Tactile Sensing Textiles
+                Austin White and Tiffany Louie
+              H.264 Video Compression and Transmission
+                Elena Su and Reinaldo Figueroa
+              F.A.V.S. - FPGA Audio Visual Synthesizer
+                Andrew Sepulveda and Jenzel Freeman
+              Nonogram Solver
+                Nina Gerszberg, Veronica Grant, and Dana Rubin
+              FPGA 360
+                Kailas Kahler and Ritik Patnaik
+              Medium Distance Livestream with Shape Detection
+                Robin Mia Tian and Brady Sullivan
+              SpeedyAR
+                Max Katz-Chrsity and Miles Kaming-Thanassi
+              Bit by Bit: An FPGA-assisted Bitcoin Miner
+                Sabiyyah Ali and Joshua Herrera
+              FPGArio Kart Preliminary Report
+                Kiersten Mitzel and Ragulan Sivakumar
+              FPGA-Based “Sounds of Music”
+                Sahil Pontula and Benjamin Wu
+              Undertale on FPGA
+                Shun Yoshikawa
+              The Soul Reader
+                Nick Hougardy
+              XILINX Shuffle
+                Alex Abate and Samuel Kravtiz
+              REND3R: Raytracing Engine and Networked Device for 3D Rendering
+                Dev Chheda and Moruph Osuolale
+              Adversarial Tetris
+                Aishah Jones and Elmer Cruz
+              Loading Dock Orchestra
+                Tanner Packham and Tzu-An Sheng
+              FPGA Photobooth
+                Diego Rodriguez, Ellie Rabenold, and Kojo Anane-Fordjour
+              Xilinx FPGA Augmented Reality Cards
+                Omozusi Guobadia and Ezra Kang
+              SkyLocator
+                Masarah Ahmadhussein, Vanessa Gonzalez, and Lejla Skelic
+              FPGA Omnichord
+                Rachel Chae and Keilee Northcutt
+              FPGAbility: Spatially-Aware Writing
+                Annie Liu and Kristoff Misquitta
+              High Frequency Trading on FPGA
+                Kaustubh Dighe
+              On-Chip Neural Chess Analyzer (ONe-ChAn)
+                Haihan Wu and Muhammad Abdullah
+              Mirror Me
+                Janette (Jan) Park and Thienan Nguyen
+        Fall 2021
+              SLIME: Single Lonely Instrumentalist Music Enhancer
+                Michal Szurek and Carine You
+              Infinite Run
+                Lili Sun and Alex Studer
+              Battleship
+                Kade Bose and Edward Jin
+              day-of-Flight Planning Guidance Simulator (FPGA)
+                Pranav Arunandhi and Sophia Wang
+              Gesture Controlled Music Player
+                Elaine Pham and Tiffany Tran
+              Acoustic Levitator
+                William Luo and David Li
+              Sound Localization
+                Joseph Feld and John Poliniak
+              Digital Storage Oscilloscope
+                Rolando Gonzalez
+              Nonogrammer: A Nonogram Platform for FPGA
+                Adrianna Wojtyna and Joules Ferguson
+              ENIGMA on an FPGA
+                Bianca Hanly and Sabina Tontici
+              Dig Dug
+                Leif Clark and Rachel Anderson
+              FPGA Light Zapper
+                Aiden Padilla and Griffin Duffy
+              FPGA-Time
+                Peyton Shields and Jade Sund
+        Fall 2020
+              Overcooked: Food-programmable Gate Array
+                Lacthu Vu, Kye Burchard, and Julia Arnold
+              FPGAmp20
+                Dongjoon Lee and Allan Garcia-Zych
+              Grid Shuffle
+                Amadou Bah and Mussie Demisse
+              3D Music Visualizer
+                Miguel Gomez and Nancy Vargas
+              Sign Language Translator
+                Marc Felix and Deb Torres
+              Network Attached Laser Projector
+                Fischer Moseley and Jay Lang
+              FPGA: Fast Paced Gameplay Automator
+                Jaeyoung Jung and Silvia Knappe
+              Internet Controlled Robot
+                Babuabel Wanyeki and Brandon Perez
+              FPGA-based Artificial Intelligence: A Low-Latency FPGA MNIST Digit Classifier
+                Syamantak Payra
+                Julian Espada and Nathan Ramesh
+              SpaceSynth
+                Prajwal Tumkur Mahesh and Sage Simhon
+              KABOOM
+                Devin Murphy, Emma Griffiths, and Willie Zhu
+              Image Feature Detection and Matching
+                Matthew Conover
+              Tiny World: A Verilog Life Simulation Game
+                Albert Garcia, Mario Peraza, and Nailah Smith
+              FPGAirPods: Implementing Active Noise Cancellation on a Xilinx Artix-7 FPGA
+                Ben Kettle, Nicholas Ramirez, and Gokul Kolady
+              The Game of Go on Two FPGAs
+                Bill Kusters and Josh Talbot
+              FPGA based GPS Receiver
+                Pedro Sales and Osvy Rodriguez
+              NES Audio Synthesizer
+                Jackson Snowden and Victor Oliveira
+                Matt Bradford and Alex Craig
+              Instantaneous Frequency Estimation and Data Conversion for IEPE-compatible Transducers
+                Łukasz Huchel
+        Fall 2019
+              Mario Bros Classic in Real Life
+                Isabelle Chong, Jose Guajardo, and Nancy Hidalgo
+              Stereoscopic Observation System (SOS)
+                Jeana Choi, Ryan Mansilla, and Leilani Trautman
+              Gim’s Labyrinth
+                Gian Delfin, Vivian Huang, and Luis Terrones-Verastegui
+              Gesture Control Fighting Game
+                Ray Dedhia, Diana Hernandez, and Petra Hernandez
+              Dance Dance Revolution
+              Freeform Production of Gorgeous Audio
+                Jacob Pritzker and Rahul Yesantharao
+              FPGA Software Define Radio (SDR)
+                Colin Chaney and Charles Lindsay
+              Chase-bot
+                Emmanuel Havugimana and Shuto Ogihara
+              FPGA Minesweeper
+                Roderick Bayliss and Brandon John
+              QAM Receiver for Video Signals from a Quadcopter Camera
+                James Abel and Jacob McGuire
+              FPGA RFID Utility
+                Miles Dai and Hannah Field
+              An Electronic Drum
+                Evan Gabhart, Roberto Gauna, and Benjamin Sheffer
+              E.D.I.T.H.
+                Olutimilehin Omotunde and Roberto Ramirez
+              The DiGuitar
+                Ishaan Govindarajan and Eric Pence
+              FPGA Ray Tracer
+                Cecelia Chu and Parker Huntington
+              FPGA Piano-Playing Robot
+                Brendan Ashworth, Max Hardy, and Anthony Nardomarino
+              FPGA Light Controller
+                Rhian Chavez and Miles Johnson
+              FPGA Auto-Tune
+                Kika Arias and Elaine Ng
+              Nintendo Entertainment System Emulation
+                Israel Bonilla, Sidne Gregory, and Daniel Klahn
+              An HFT Accelerator
+                Endrias Kahssay, Natnael Kahssay, and Ziheng Wang
+              FPGuitAr Hero
+                Alejandro Diaz and Sarah Spector
+              The Beep Boop 9000
+                Matthew Johnston, Tyler Moroso, and Brandon Motes
+              digitEyes
+                Kendall Garner and Claire Traweek
+              3D Tetris
+                Charity Midenyo, Jenessa Rodriguez, and Bradley Seymour
+              Pepper’s Ghost Approximation
+                Jeremy McCulloch, Adam Potter, and Sreya Vangara
+              ChessAI -  Real Life Chess against AI
+                Grayson King and Bahrudin Trbalic
+              FPGA Brushless Motor Controller
+                Jackson Gray and Aaron Yeiser
+        Fall 2018
+              FPGA Qubit Package
+                Megan Yamoah and Francisca Vasconcelos
+              Robotic Air Hockey
+                Katherine Camenzind, Alexander Huang, and Xavier Zapien
+              Verilog Sudoku Solver
+                Magson Gao and Shreeyam Kacker
+              Check Yourself
+                Suzanne O'Meara, Elijah Stanger-Jones, and August Trollback
+              Encrypted Communications over Ethernet
+                Ashley Hyo Won Kim and Mark Theng
+              Laser Cyclops
+                Carlos Cuevas and Cody Winkleblack
+              Hardware Neural Net Entertainment System (HNES)
+                Sebastian Bartlett and Joshua Noel
+              Digital Supersaw Synthesizer
+                Jacob Brown and Isabelle Liu
+              Spherical Persistence of Vision Display
+                Noah Moroze and Luis Torres
+              FPGA 6-DOF Motion Platform
+                Kaname Favier, Cameron Ordone, and Adam Rodriguez
+              Interactive Minecraft
+                Alexis Camacho and Chenkai Mao
+              Bitcoin Script Validation Accelerator
+                Jonathan Buschel and James Lovejoy
+              AirPong
+                Sabina Chen, Bret Heaslet, and David Mueller
+              Auditory Localization
+                Keshav Gupta and Francis Wang
+              Audio Laser Light Show
+                Samuel Cherna, Joshua Gruenstein, and Matthew Reeve
+              Scream-y Bird
+                Joanna Sands and Margaret Sands
+              FPGA Fruit Ninja
+                Nadia Salahuddin and Lydia Sun
+              Basic Processor
+                Bradley Jomard and Quinn Magendanz
+              Self Balancing Voice Controlled Robot
+                Dominik Martinez and Alexander Peraire-Bueno
+              FPGA Camera-Controlled Traffic Lights
+                Jessica Quaye and Premila Rowles
+              MAMBO - Multiplayer Arrow Matching Ballroom Orchestrator
+                James Bloxham and Matthew Tung
+              FPGA Tuner
+                Jeremy Sogo
+              Audio Controlled Levitator
+                Raul Largaespada and David Mejorado
+              Gesture Controlled Music Playback System
+                Jenny Li and Shana Mathew
+              The Music Box
+                Phoebe Piercy and Elina Sendonaris
+                [abstract](https://fpga.mit.edu/videos/2018/team25/abstract.pdf)
+                [presentation](https://fpga.mit.edu/videos/2018/team25/presentation.pdf)
+                [proposal](https://fpga.mit.edu/videos/2018/team25/proposal.pdf)
+                [checklist](https://fpga.mit.edu/videos/2018/team25/checklist.pdf)
+              FPGA Synthesizer
+                Sarah Pohorecky
+        Fall 2017
+              Motion Controlled Driving Game
+                Venita Boodhoo, Janie Liu, and Jing Wang
+              DDR Pad-Controlled Game
+                Aradhana Adhikari, Victoria Ouyang, and Davis Tran
+              Computer Vision Pipeline For Motion Tracking
+                Felipe Hofmann and Kevin Zhang
+              Fast N-body Simulation And Display
+                Scott McCuen and Kade Phillips
+              FPGA iPad
+                Alexander Leffell and Sienna Ramos
+              JAW dropping Visual Effects via Audio Spectral Analysis
+                Julian Chacon-Castano, Aaron Wubshet, and Wings Yeung
+              PAC-MAN Extrememeeeeeeee!!!!
+                Kimberly Dauber and Rachael Devlin
+              Modular Capacitive TouchPads
+                Aaron Pfitzenmaier and Daniel Sheen
+              Touch Projector
+                Alan Cheng and Shannon Hope Harrison
+              Projected Floor Piano
+                Liam Cohen, Sarah Flanagan, and Zoe Klawans
+              Motion Capturing System for Game Control
+                Ziwen Jackie Jiang and Emanuel Perez
+              GameBoy FPGA Emulator
+                Walaa Alkhanaizi and Kenneth Collins
+              Audio - Visual Matching System
+                Faysal Shair and Ertem Tas
+              Live-Action Pong
+                Nicholas Waltman and Mike Wang
+              Virtual Softball
+                Katherine Shade and Melinda Szabo
+              Guitar Effects
+                Haris Brkic
+              Rubik's Cube Solver
+                Nathaniel Knopf and Jacob Swiezy
+              Pool Table Game
+                Justin Graves and Matthew Guthmiller
+              FPGA Robot Arm Projector
+                Jack Erdozain, Nicholas Klugman, and Mark Vrablic
+              Obstacle Avoiding Mobile Vehicle
+                Jonathan Garcia
+              FPGA Spectrum Analyzer
+                Hojin Jeon
+        Fall 2016
+              Spatial Digital Equalizer
+                Priya Kikani and Alex Sludds
+              FPGA Passport
+                Lorenzo Vigano and Diana Wofk
+              LASERNET
+                Allan Ko and Amanda Ke
+              Pivot: A Motion Based User Interface
+                Andrew Kurtz and Nestor Franco
+              Lightsaber Training
+                Landon Carter, Rachel S Yang, and Linda E Zhang
+              Touch & Go
+                Tianye Chen and Natalie Mionis
+              3D Scanner
+                Jessy Lin and Evan Tey
+              Voice Controlled Car System
+                Driss Hafdi and Ekin Karasan
+              FPGA Air Brush
+                Oscar A Guevara and Weerachai Neeranartvong
+              FPGA Beethoven
+                Henry Love and Yuechen Nark Yang
+              FPDJ: Music Performance
+                Elena Byun, Angus MacMullen, and Baltazar Ortiz
+              Keep Talking and Nobody's FPGA Explodes!
+                Amelia Becker and Mitchell Hwang
+              Laser Conductor
+                James Noraky and Scott Skirlo
+              Extended Sight with an EOG
+                Elizabeth Mittmann and Crystal Wang
+              Spectris
+                Jose Salazar, Alfredo Yanez, and Benny Zhang
+              3D Multiplayer Pong
+                Paul Kalebu, Miguel Rodriguez, and Louis Tao
+              Space Invader with a Twist
+                Edwin Africano and Tuan Phan
+              MIT ID Card Reader
+                Aneesh Agrawal and Paige Studer
+              FPGA EKG
+                Jeremy Ellison and Stone Montegomery
+              Sound Source Localizer
+                Changping Chen and Joren Lauwers
+              LED Pathfinder
+                Druck Green and Andre' Walker
+              Harry Potter Spell Game
+                Lotta Blumberg and Marayna Martinez
+              La PC-na
+                Matt Basile and Zareen Choudhury
+              Visible Light Communication with FPGAs
+                Mehmet Tugrul Savran and Zachary Zumbo
+              Digital Shooting Range
+                Emmanuel Azuh and Mubarik Mohamoud
+                Daniel Richman and Jorge A Troncoso
+              Pong: 2 Player, First Person
+                Emmanuel Ayooluwa Akinbo and William Navarre
+              FPGA Telephone Exchange
+                Tristan Honscheid
+        Fall 2015
+              A Hardware-based
+                Matthew Dominic Hollands and Patrick Yang
+              Interactive 1 Player Checkers
+                Amelia Becker and Harrison Okun
+              Flying Pegasus Ground Attack
+                Yini (Kelly) Qi and Tania Yu
+              Guitar Hero: Fast Fourier Edition
+                Mitchell Gu and Ryan Berg
+              Surfing on a Sine Wave
+                Sam Jacobs and Valerie Sarge
+              Immersive 3D World
+                Christine Konicki and Mikhail Rudoy
+              Snappa Referee
+                Juan De Jesus and Matt Orton
+              Self-Correcting Hover Table
+                Ryan King-Shepard and Diana Lamaute
+              Music Visualization with Audio BeatMatching
+                Maggie Reagan and Liz Schell
+              Digital Audio Workstation
+                Germain Martinez, Gerzain Mata, and Michelle Qiu
+              FPGA-capella: A Real-Time Audio FX Unit
+                Cosma Kufa and Justin Xiao
+              DSP Dude:
+                Valentina Chamorro and Yanni Coroneos
+              Autonomous RC Car
+                Kevin Chan, David Gomez, and Battushig Myanganbayar
+              FPGA DJ
+                Alex Sloboda and Madeline Weller
+              Fpglappy Bird: A side-scrolling game
+                Wei Low, Nicholas McCoy, and Julian Mendoza
+              INVISMAZE
+                Stephanie Pavlick and Libby Zhang
+              3D Reconstruction by Stereo Imaging
+                Brian Axelrod, Amartya Shankha Biswas, and Xinkun (Sheena) Nie
+              HeartAware
+                Michael Holachek and Nalini Singh
+              Delta-Sigma Heart Rate Monitor
+                Joe Griffin and Hugo Malpica
+              FPGA Radar:
+                Brian Plancher
+              Hologram of Computer Vision Feature Abstraction
+                Juan Huertas and Andrs Salgado-Bierman
+              Multiple Connection Telephone System
+                Rumen Hristov and Alan Medina
+              3D City
+                Grace Cassidy and Khalil M Elgaggari
+        Fall 2014
+              Live-Action RC Mario Kart
+                Bradley Gross, Jonathan Matthews, and Nathaniel Rodman
+              Automatic Projector Tilt Compensation
+                Ganesh Ajjanagadde, Shawn Jain, and James J Thomas
+              A Motion-Tracking DMX512 Controller
+                Miren Bamforth
+              Maestro
+                Evie Kyritsis, Sabina Maddila, and Janelle Wellons
+              Chroma Key Compositing with FPGA
+                Daniel H Moon and Thipok Rak-amnouykit
+              Laser Pinball
+                Weston Braun, Jake Isenhart, and Pauline Varley
+              2-Player 3D Air Hockey
+                Alex Chen, Abraham Shin, and Yuqing Zhang
+              Cryptographically Protected Telephone System
+                Andres Erbsen and Adam Yedidia
+              Gesture Controlled Drone
+                Lee Gross and Benjamin Schreck
+              Digital Controller for a Small VTOL UAV
+                Gregory D Kravit
+              Digital Debussy: A Hardware-Based Music Composition Tool
+                Jordan Addison and Erin Ibarra
+              Rifle Arcade Game
+                Austin Phillips-Brown and Casey Wessel
+              Function Generator with laser waveform projection
+                Ciara Kamahele and Brandon Vasquez
+              Chordination
+                Jacqui De Sa, Zixi Liu (Zeo), and CK Ong
+              Real-time Auto-Tune
+                Ishwarya Ananthabhotla and Trevor Walker
+              Table Tennis Video Game
+                Angel Carvajal and Sarah Leu
+        Fall 2013
+                Katharine Daly and Jack Hutchinson
+              Brick Breaker
+                Jonathan Abbott and Jemale Lockett
+              The Hard Core Digital Oscilloscope
+                Tyler Christensen and Ali AlShehab
+              Hexapods and Localization
+                Rebecca Greene and Kelly Snyder
+              Real-Time Animated Video
+                Ariana Eisenstein, Woo Hyeok Kang, and Tarun Malik
+              Motion Capture
+                Lauren Gresko and David Williams
+              Virtual Pitch and Catch
+                Matthew Fox, Michael Kelessoglou, and Evangelos Taratoris
+              Voice-controlled Video Console
+                Benjamin Horkley and Jonathan Surick
+              Virtual Rock Climbing
+                Turner Bohlen and Christopher Lang
+              Voice Controlled Game Sprite
+                William Huffman and Aakanksha Sarda
+              Digital Oscilloscope with HDMI Display
+                Danielius Kramnik
+              Interactive Checkers
+                Ahmet Musabeyoglu and Michael Rodriguez
+              Virtual Piano
+                Lisa Liu and Sheldon Trotman
+              An Interactive Plug-in Game For Electric Keyboard
+                Daniel Mendelsohn
+        Fall 2012
+              Gestural Remote Control Using FPGA
+                Ricardo Jasinski, Vladimir Eremin, and Andres Hasfura
+              Spatio-Temporal Video Amplification
+                Rishi Patel, Pranav Kaundinya, and Akashnil Dutta
+              Recorder Hero
+                Paul Hemberger and Andres Romero
+              Asteroids
+                Daniel Hawkins and Anna Waldo
+              Augmented Reality Fruit Ninja
+                tm
+                Nathan M. Monroe, Isaac Evans, and Drew Dennison
+              Self Parking Car
+                Kevin Hsiue and Frank Ni
+              Conference Audio and Video Communication
+                Saher Ahwal, Xianzhen Zhu, and Wegene Tadele
+              Field-Programmable Gate Array Telephony
+                Kiarash Adl, Sachin Shinde, and Nandi Bugg
+              Virtual Drum Set
+                Luis Fernandez and Rishi Naidu
+              Auralization of the visual world
+                Adam Suhl, Clark Della Silva, and Gabriel Karpman
+        Fall 2011
+              FPGA Oscilliscope
+                Kevin Linke and Anartya Mandal
+              Augmented XBOX Controller
+                Justin Schmelzer and Christy Swartz
+              Recursive Augmented Reality
+                Logan Williams and Jose Cruz Serralles
+              Image Capture and Processing for TESS and REXIS
+                Harrison Bralower
+              Audio Effects Box
+                Dylan Sherry and Devon Rosner
+              3D Wire-frame Scanning and Stereoscopic Re-rendering
+                Adam Gleitman, Andrew Shum, and Tim Balbekov
+              Asteriods Video Game
+                Phil Mercer and Richard Agbeyibor
+              Action Tracking System
+                Raghavendra Srinivasan and Shubhang Chaudhary
+              Improv Tetris
+                Ray Li and Scott Bezek
+                Scott Bezek and Ray Li
+        Fall 2010
+              Crash Avoidance System
+                Kristen Anderson and Ekaterina Kononov
+              Portable Dance Dance Revolution Game
+                Daniel Kim and Gabriel Ha
+              Hardware Parametric Equalizer
+                Joseph Colosimo
+              High Striker
+                Jennifer Chan and Michael Stunes
+              Virtual Board Breaking
+                Erika Lee and Christine Chen
+              Real Time Harmonizer and Mixer
+                Elizabeth Hass and Christopher Chin
+              Training-Sequence-Indifferent Decision Feedback Equalizer
+                Zhipeng Li and Yan Huang
+              Vehicle Control Using Video Surveillance
+                Jorge Simosa, Krishna Settaluri, and Shijie Zheng
+              A Controllable Function Generator
+                Sarah Ferguson and Gavin Darcey
+              Laser Lighting display and 3D Scanning
+                Shuyi Chen and Gaston De Zarraga
+              Deterministic Cache for a Multiprocessing System
+                David Greenberg
+              FPGzam: Song Identification System
+                Pranav Sood and Yafim Landa
+              Modular Audio Effects Box
+                Andrew Shapiro and Marc Resnick
+        Fall 2009
+              Super FPGA Bros.
+                Douglas Albert and Kevin Marengo
+              Ambisonic Surround Sound System
+                Ben Bloomberg
+              Gestural Interface for Image Browsing
+                Prannay Budhraja and Mary Knapp
+              Beat Gunner
+                Stephanie Cheng, TungShen Chew, and An Li
+              Space Vehicle Simulator
+                Charlie Devivero and Javier Garcia
+              Real-time Face Detection
+                Dember Giraldez, Jon Losh, and Somani Patnaik
+              iSing Voice Harmonizer
+                Cyril Lan, Jessie Li, and Darren Yin
+              Bellagio Fountain Simulation
+                Joe Lane, George Rossick, and Allen Yin
+              Finger Photo Editor
+                Nadia Makan
+              FFT and Filters for Audio
+                Samantha Palazzolo
+        Fall 2008
+              Mixing Setup
+                Nathan Artz, Adam Goldstein, and Matthew Putnam
+              Auto-Targeting in a Remote Sentry Turret
+                Jacky Chang, Stephanie Paige, and Eli Stickgold
+              Voice-Controlled Chess Game on FGPA Using Dynamic Time Warping
+                Varun Chirravuri and Michael Kuo
+              Phantom Sight Reader
+                Lance Collins, Jing Han, and Dilini Warnakulasuriyarachchi
+              Kirby Laser Attack
+                Daniel Gerber and Tynan Smith
+              Vertex
+                Don Goldin and Mark Sullivan
+              Voice Recognition in Hardware
+                Nicholas Harrington and Tao Ben Schardl
+              3D Ray-cast Pong
+                Richard Hughes and Elizabeth Power
+              Real-Time Visual Audio Composition
+                Tyler Hutchinson, Bryan Newbold, and Dimitri Turbiner
+              Finger Art
+                Grace Li and Sean Liu
+              Peer-to-Peer Phone
+                Karim Liman-Tinguiri, Isabel Pesce Mattos, and Alexandre Oliveira
+              Modular Synthesizer
+                Michael Miller, Andrew Muth, and Tejasvi Vishwanadha
+              Musical Feet: A Step-by-Step Approach to Music Generation
+                Rajeev Nayak and Harley Zhang
+              Gesture Recognition Remote Control
+                Wolfe Styke
+              Realistic 3D Gaming
+                Ranbel Sun and Daniel Whitlow
+        Fall 2007
+              Real-time Video Processing
+                Obinna Anyanwu and Jyotsna Venkataramanan
+              F.P.G.A Hunt
+                Syed Ahmed, Pete Kruskall, and Yuetian Xu
+              Optical Input Targeting Game
+                Rachel Bainbridge and Dan Southern
+              Virtual Postcards
+                Jessica Barber and Andrew Meyer
+              Hardware Platform for JPEG Compression/Decompression
+                Evan Broder and Christopher Post
+              Need for Speed: Hacker's Trail
+                Richard Chan, Calvin Chung, and Fan Yang
+              Digital Theremin Synthesizer and Visualizer
+                Jeffrey Chang, Daniel Rodgers, and Alexander Spicer
+              PerfectPitch
+                Grace Cheung and Karl Rieb
+              Conductor Hero
+                Natalie Cheung, Yuta Kuboyama, and Edgar Twigg
+              Virtual Ping Pong
+                Zachary Clifford and Mark Stevens
+              FPGA Video Game
+                Telmo Correa
+              Termanator
+                Donald Eng, Rodrigo Ipince, and Kevin Luu
+              Tetris
+                Igor Geller and Lily Wang
+              SNGH's Not Guitar Hero
+                Rhys Hiltner and Ruth Shewmon
+              Guitar Hero: Nursery Rhyme Edition
+                Judy Ho and Emily Hwang
+              A Simple Digital Sonar System
+                Zhen Li, Bryan Morrissey, and Brian Wong
+              6.111 Slot Machine
+                Laura Roberts and Daneaya Wallace
+              A Morse Code Decoder
+                Chris Stephenson
+        Fall 2006
+              Labyrinth
+                Laplie Anderson, Mihalis Papalampros
+              Bacteria "Colonalyzer"
+                Yaw Anku
+              Full Motion Dance Machine
+                Jonathan Burnham, Christopher Hoffman, Kevin Miu
+              Digital Player Piano
+                Stephen Chait, Josh Runge
+              Realtime Light-Saber Generator
+                Joyce Chen, Michael Price, Hui Ying Wen
+              Laser Shot: Video-based Alternative to Arcade Light Guns
+                Tiffany Chen, Spencer Sugimoto, Paul Yang
+              Sound Blocks: an interactive environment for
+                Iris Cheung, Dennis Miaw
+              A Theater Lighting Board
+                Maura Cordial, Irene Zhang
+              Bass Hero
+                Humberto Evans, Alex Guzman
+              An Intuitive Video Game System
+                Edward Fagin, Irene Fan
+              "Squash Yourself"
+                Will Fotsch, Sumit Khatod, Azadeh Moini
+              SkiFree controlled by user's hand motions
+                Eric Grebing, Erik Stafl
+              Windows Manager Responsive to User Hand Gestures
+                Lydia Gu, Yunjie Ma
+              Virtual Surround Sound from a Dolby Digital Source
+                Harrison Hall
+              Writing Recognition
+                Stephanie Hsu
+              Keytar Hero
+                Hubert Hwang, Hui Tang
+              Virtual Conducting
+                Andy Lin, Brandon Yoshimoto
+              Pong Pong Revolution
+                Dan Lopuch, Zachary Remscrim
+              Interactive Adventure Game
+                Greg Luthman, Akash Shah
+              Hand-Controlled Digital Audio Synthesizer
+                Behram Mistree, Alex Sanchez
+              Point-to-point Data Link, Collaborative Whiteboard
+                Scott Ostler, Michael Robbins
+              Donkey Kong
+                Stephen Pueblo, Yi Wang
+              Serpent
+                Holli Rachall
+              Virtual Knockout!
+                Giovanni Reveles, Chuan Zhang
+              Newtonian N-body Simulator
+                Michelle Teh, Michael Witten
+              GPS Data Logger and Visualization System
+                Alexander Valys
+              Interactive Vertically-Scrolling Shooter
+                Danny Vo, Jeff Yuan
+              A Floating Point Unit for Numerical Calculations
+                Jeff Walden
+        Fall 2005
+              Interactive Video Effects and Games
+                Rebecca Arvanites and Cristina Domnisoru
+              Duckhunter
+                Taylor Barton, Andrew Lisy
+              RFID Tag Reader System
+                Katonia Butler, Akua Nti
+              Music Transcriber
+                Roberto Carli, Alessandro Yamhure
+              An FPGA Software Radio
+                Dexter Chan
+              Real-Time Video Effects Processor
+                Venkat Chandar, Benjamin Gelb
+              Hand Motion Control of an Audio Player
+                Diana Cheng, Doris Lin
+              A Photogrammetry System
+                Miles Colman
+              Digital Tuner
+                Roshni Cooper, Linda Fang
+              The Sound of Music -- Gone Digital!
+                Sarah-Jean Cunningham, Anne Romeo
+              Pacman
+                Michael D'Ambrosio, Haiyao Huang
+              Digital Poker
+                Amy Daitch, Elizabeth Murnane
+              Music Visualization System
+                Bradley Edwards, Aston Motes, Stephen Oney
+              Automated Dart Board
+                Michael Ehrenberg, Ankush Patel
+              Tilting Maze Game
+                Matthew Fishburn, Hongyi Hu
+              System on a Chip
+                Steven Hall
+              Gesture Recognition using Video
+                Alex Hornstein
+              Object Position and Orientation Tracker
+                Andrew Lee, Tiffany Wang
+              Digital Percusion and Entertainment System
+                David Levenson, Daniel Malconian
+              Perfect Pitch Sheet Music Maker
+                Adam McCaughan, John O'Brien
+              Digital Stereoscope
+                Joshua Jen Monzon, Tony Ng, Hao Zhou
+              Soil-water Characterization Unit
+                Ben Mussi
+              Digital Effects Box for Guitar
+                Matthew Moskwa, Schuyler Senft-Grupp
+              The Dorm Room Genie
+                David Nedzel, Aaron Stonely
+              Ogg Vorbis Audio Decoder
+                Matthew Papi, Jonathan Stritar
+              Programmable Audio Visualizer
+                Dany Qumsiyeh, Michael Spindel
+              Virtual Juggling
+                David Rush, Christopher Wilkens
+              Voice over LAN
+                Brian Schmidt, Matthew Welsh
+              Sentry Surveillance Camera
+                Robert Speaker, Raymond Wu, Bo Zhu
+              The Wumpus
+                Mark Tobenkin, Damon Vander Lind
+              A Virtual Pet
+                Chen Hau Tong
+              A Volumetric LED Dot-matrix Display
+                Lawrence Wujanto, David Wyatt
+                James Verrill, Dun Xiao
+    This page was last updated on Monday August 05, 2024 at 02:18:27 PM (revision
+      2799087
+      ).
+      \            
+/    /\__/\  
+\__=(  o_O )=
+(__________) 
+ |_ |_ |_ |_
+      Powered by
+      [CAT-SOOP](https://catsoop.org)
+      v19.0.6+git.3.26e8b68c "Korat" (LTS) (development snapshot).
+      [Free/Libre Software](https://www.fsf.org/about/what-is-free-software)
+      , available under the terms
+      [GNU Affero General Public License, version 3](https://fpga.mit.edu/6205/_util/license)
+      .
+      [Download Source Code](https://fpga.mit.edu/6205/_util/source.zip)
+      [Javascript License Information](https://fpga.mit.edu/6205/_util/jslicense.html)

@@ -1,0 +1,357 @@
+{
+  "title": "Web Technologies used by Spike.codes",
+  "meta_description": "Software stack used by the spike.codes website",
+  "main_content": "advertise here provided by Q-Success Home Technologies Reports API Sites Quality Users Blog Forum FAQ Search Featured products and services advertise here lookup another site: Get our site info tools or use our site info API . Site Info - Spike.codes Overview of web technologies used by Spike.codes. Website Background Spike O'Carroll - Portfolio Description on Homepage not ranked Popularity rank Website Quality Alerts Found on page https://blog.spike.codes/build-a-template-engine At our the last visit we found the server time to be approximately 32 minutes slow. Incorrect server time Are you the webmaster of this site? Register as user to get quality alerts per email. Server-side Programming Language JavaScript is a lightweight, object-oriented, cross-platform scripting language. JavaScript used on a subdomain Client-side Programming Language JavaScript is a lightweight, object-oriented, cross-platform scripting language, often used within web pages. JavaScript JavaScript Library Next.js is an open source JavaScript framework based on React and Node.js. Next.js used on a subdomain Web Server Node.js is a server-side JavaScript environment for writing network programs such as web servers, originally developed by Ryan Dahl. Node.js used on a subdomain Web Hosting Provider Vercel (formerly Zeit) offers hosting for web applications and static websites. Vercel hosting info partly based on data from ipinfo.io, see details Data Center Provider Amazon is a US-based e-commerce and cloud computing provider. Amazon DNS Server Provider Cloudflare provides DNS servers and other web services. Cloudflare Email Server Provider Gmail is the email service provided by Google. Gmail SSL Certificate Authority Let\u2019s Encrypt is a free, automated, and open certificate authority provided by the Internet Security Research Group. Let\u2019s Encrypt Social Widgets A Twitter/X Button allows a Twitter user to post a tweet from the visited site. Twitter/X used on a subdomain Reddit Buttons allow web pages to be submitted to and discussed on Reddit. Reddit used on a subdomain Site Elements External Cascading Style Sheets define style rules in a separate CSS file. External CSS Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page. Embedded CSS used on a subdomain Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute. Inline CSS Brotli is a lossless compression algorithm developed by Google. Brotli Compression used on a subdomain A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache. Strong ETag A weak ETag is an HTTP header field for validation of cached web pages, that indicates a semantically equivalent page in the cache. Weak ETag used on a subdomain HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections. HTTP Strict Transport Security The websites redirects visitors to use SSL encryption, e.g. from http://example.com/ to https://example.com/. Default protocol https Structured Data Formats The Open Graph protocol, originally developed by Facebook, is an RDFa-based format that enables any web page to become a rich object in a social graph. Open Graph used on a subdomain Twitter/X Cards enable automatic attachment of photos, videos and media elements to tweets. Twitter/X Cards used on a subdomain JSON-LD (JavaScript Object Notation for Linked Data) is a method of encoding Linked Data using JSON. JSON-LD used on a subdomain Generic RDFa (Resource Description Framework in attributes) is RDFa without further specialization. Generic RDFa used on a subdomain Markup Language HTML5 is the fifth revision of the HTML standard. HTML5 Character Encoding UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII. UTF-8 Image File Formats PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF. PNG JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images. JPEG Scalable Vector Graphics (SVG) is an XML-based vector image format. SVG Top Level Domain Codes .codes Server Location United States Content Language English Share this page About Us Disclaimer Terms of Use Privacy Policy Advertising Contact W3Techs on LinkedIn Mastodon Bluesky Copyright \u00a9 2009-2025 Q-Success",
+  "links": [
+    {
+      "url": "https://w3techs.com/",
+      "text": ""
+    },
+    {
+      "url": "https://b.w3techs.com/",
+      "text": "advertise here"
+    },
+    {
+      "url": "https://q-success.com/web_services",
+      "text": "Q-Success"
+    },
+    {
+      "url": "https://w3techs.com/",
+      "text": "Home"
+    },
+    {
+      "url": "https://w3techs.com/technologies",
+      "text": "Technologies"
+    },
+    {
+      "url": "https://w3techs.com/reports",
+      "text": "Reports"
+    },
+    {
+      "url": "https://w3techs.com/apidoc",
+      "text": "API"
+    },
+    {
+      "url": "https://w3techs.com/sites",
+      "text": "Sites"
+    },
+    {
+      "url": "https://w3techs.com/quality",
+      "text": "Quality"
+    },
+    {
+      "url": "https://w3techs.com/users",
+      "text": "Users"
+    },
+    {
+      "url": "https://w3techs.com/blog",
+      "text": "Blog"
+    },
+    {
+      "url": "https://w3techs.com/forum",
+      "text": "Forum"
+    },
+    {
+      "url": "https://w3techs.com/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://w3techs.com/search",
+      "text": "Search"
+    },
+    {
+      "url": "https://b.w3techs.com/",
+      "text": "advertise here"
+    },
+    {
+      "url": "https://w3techs.com/sites",
+      "text": "site info tools"
+    },
+    {
+      "url": "https://w3techs.com/apidoc",
+      "text": "site info API"
+    },
+    {
+      "url": "https://w3techs.com/quality/alert/31",
+      "text": "Incorrect server time"
+    },
+    {
+      "url": "https://w3techs.com/users",
+      "text": "Register as user"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/programming_language",
+      "text": "Server-side Programming Language"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/pl-js",
+      "text": "JavaScript"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/client_side_language",
+      "text": "Client-side Programming Language"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/cp-javascript",
+      "text": "JavaScript"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/javascript_library",
+      "text": "JavaScript Library"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/js-nextjs",
+      "text": "Next.js"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/web_server",
+      "text": "Web Server"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ws-nodejs",
+      "text": "Node.js"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/web_hosting",
+      "text": "Web Hosting Provider"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ho-vercel",
+      "text": "Vercel"
+    },
+    {
+      "url": "https://ipinfo.io/AS16509",
+      "text": "see details"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/data_center",
+      "text": "Data Center Provider"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/dc-amazon",
+      "text": "Amazon"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/dns_server",
+      "text": "DNS Server Provider"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/dn-cloudflare",
+      "text": "Cloudflare"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/email_server",
+      "text": "Email Server Provider"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/em-gmail",
+      "text": "Gmail"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/ssl_certificate",
+      "text": "SSL Certificate Authority"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/sc-letsencrypt",
+      "text": "Let\u2019s Encrypt"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/social_widget",
+      "text": "Social Widgets"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/so-twitterwidgets",
+      "text": "Twitter/X"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/so-redditwidgets",
+      "text": "Reddit"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/site_element",
+      "text": "Site Elements"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-externalcss",
+      "text": "External CSS"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-embeddedcss",
+      "text": "Embedded CSS"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-inlinecss",
+      "text": "Inline CSS"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-brotlicompression",
+      "text": "Brotli Compression"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-strongetag",
+      "text": "Strong ETag"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-weaketag",
+      "text": "Weak ETag"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-hsts",
+      "text": "HTTP Strict Transport Security"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ce-httpsdefault",
+      "text": "Default protocol https"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/structured_data",
+      "text": "Structured Data Formats"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/da-opengraph",
+      "text": "Open Graph"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/da-twittercards",
+      "text": "Twitter/X Cards"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/da-jsonld",
+      "text": "JSON-LD"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/da-genericrdfa",
+      "text": "Generic RDFa"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/markup_language",
+      "text": "Markup Language"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/ml-html5",
+      "text": "HTML5"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/character_encoding",
+      "text": "Character Encoding"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/en-utf8",
+      "text": "UTF-8"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/image_format",
+      "text": "Image File Formats"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/im-png",
+      "text": "PNG"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/im-jpeg",
+      "text": "JPEG"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/im-svg",
+      "text": "SVG"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/top_level_domain",
+      "text": "Top Level Domain"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/tld-codes-",
+      "text": ".codes"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/server_location",
+      "text": "Server Location"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/sl-us-",
+      "text": "United States"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/content_language",
+      "text": "Content Language"
+    },
+    {
+      "url": "https://w3techs.com/technologies/details/cl-en-",
+      "text": "English"
+    },
+    {
+      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fw3techs.com%2Fsites%2Finfo%2Fspike.codes&title=",
+      "text": ""
+    },
+    {
+      "url": "https://bsky.app/intent/compose?text= - https%3A%2F%2Fw3techs.com%2Fsites%2Finfo%2Fspike.codes&via=W3Techs",
+      "text": ""
+    },
+    {
+      "url": "https://w3techs.com/about",
+      "text": "About Us"
+    },
+    {
+      "url": "https://w3techs.com/disclaimer",
+      "text": "Disclaimer"
+    },
+    {
+      "url": "https://w3techs.com/terms_of_use",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://w3techs.com/privacy_policy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://b.w3techs.com/",
+      "text": "Advertising"
+    },
+    {
+      "url": "https://w3techs.com/feedback",
+      "text": "Contact"
+    },
+    {
+      "url": "https://www.linkedin.com/company/w3techs",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://techhub.social/@w3techs",
+      "text": "Mastodon"
+    },
+    {
+      "url": "https://bsky.app/profile/w3techs.com",
+      "text": "Bluesky"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://m.q-success.com/mtp?idsite=2&rec=1",
+      "alt": ""
+    },
+    {
+      "src": "https://w3techs.com/logo1.gif",
+      "alt": "W3Techs"
+    },
+    {
+      "src": "https://w3techs.com/pictures/LinkedIn.svg",
+      "alt": "Share on LinkedIn"
+    },
+    {
+      "src": "https://w3techs.com/pictures/Bluesky.png",
+      "alt": "Post on Bluesky"
+    },
+    {
+      "src": "https://w3techs.com/pictures/LinkedIn.svg",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "https://w3techs.com/pictures/Mastodon.svg",
+      "alt": "Mastodon"
+    },
+    {
+      "src": "https://w3techs.com/pictures/Bluesky.png",
+      "alt": "Bluesky"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+                              [Home](https://www.researchgate.net/)
+                              Rex Liu
+                                  CoreTech System Co. Ltd. (Moldex3D)
+                                Doctor of Philosophy
+                            Contact
+                                  Connect with experts in your field
+                                Join ResearchGate to contact this researcher and connect with your scientific community.
+                                      Join for free
+                                      Log in
+                              [About](profile/Rex-Liu#about)
+                              [Publications](profile/Rex-Liu#publications)
+                                7
+                              [Network](profile/Rex-Liu#network)
+                  436
+                  Reads
+                          How we measure 'reads'
+                        A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text.
+                          [Learn more](https://explore.researchgate.net/display/support/Reads)
+                  43
+                  Citations
+              Introduction
+                    Skills and Expertise
+                      [Computational Fluid Dynamics](topic/Computational-Fluid-Dynamics)
+                      [Fortran](topic/Fortran)
+                      [Direct Numerical Simulation](topic/Direct-Numerical-Simulation)
+                      [C++](topic/f6f87c9fdcf8b3c3f07f93f1ee8712c9)
+                      [Discrete Element Method](topic/Discrete-Element-Method)
+                      [Smoothed Particle Hydrodynamics](topic/Smoothed-Particle-Hydrodynamics)
+              Additional affiliations
+                                October 2019 -
+                                present
+                                    CoreTech System Co. Ltd.
+                                          Research and Development Division
+                                          Hsinchu, Taiwan
+                                    Position
+                                          Engineer
+                                February 2019 -
+                                September 2019
+                                    CR Classification Society
+                                          Research Department
+                                          Taiwan
+                                          Surveyor
+                Publications (7)
+                              [A volume of solid implicit forcing immersed boundary method for solving incompressible Navier-Stokes equations in complex domain](https://www.researchgate.net/publication/348827726_A_volume_of_solid_implicit_forcing_immersed_boundary_method_for_solving_incompressible_Navier-Stokes_equations_in_complex_domain)
+                                Article
+                                    Jan 2021
+                                    Khai Ching Ng
+                                    Tony Wen-Hann Sheu
+                            In this study, a new implicit forcing immersed boundary (IFIB) method is proposed to solve incompressible viscous fluid flow problems involving complex domains. In the conventional immersed boundary (IB) method, a forcing term computed from the volume of solid (VOS) is added to the incompressible Navier-Stokes equations in order to satisfy the velo...
+                                    View
+                              [Analytical Solution for Froude–Krylov Force of Triangulated Geometry in Linear Waves](https://www.researchgate.net/publication/347368053_Analytical_Solution_for_Froude-Krylov_Force_of_Triangulated_Geometry_in_Linear_Waves)
+                                    Dec 2020
+                                    Tsung-Yueh Lin
+                            For wave exciting load on offshore structures, Froude-Kyrlov (FK) force is easier to evaluate than diffracting force. But current nonlinear FK models suffer low computational speed. Conventionally, FK force is calculated by performing Gaussian quadrature (GQ) on each surface mesh and the choice of the mesh size is important in order to resolve wave...
+                              [Acceleration of high-order combined compact finite difference scheme for simulating three-dimensional flow and heat transfer problems in GPUs](https://www.researchgate.net/publication/342749745_Acceleration_of_high-order_combined_compact_finite_difference_scheme_for_simulating_three-dimensional_flow_and_heat_transfer_problems_in_GPUs)
+                                    Jul 2020
+                                    Neo Shih-Chao Kao
+                            In this article, the high-order upwinding combined compact difference scheme developed in a three-point grid stencil is applied to solve the incompressible Navier-Stokes (NS) and energy equations in three dimensions. The time integrator with symplectic property is employed to approximate the temporal derivative term in inviscid Euler equation so as...
+                              [An improved mixed Lagrangian-Eulerian (IMLE) method for modelling incompressible Navier-Stokes flows with CUDA programming on multi-GPUs](https://www.researchgate.net/publication/332043023_An_improved_mixed_Lagrangian-Eulerian_IMLE_method_for_modelling_incompressible_Navier-Stokes_flows_with_CUDA_programming_on_multi-GPUs)
+                                    Mar 2019
+                                    Cheng-Tao Wu
+                            In this study, a GPU-accelerated improved mixed Lagrangian–Eulerian (IMLE) method is proposed to solve the three-dimensional incompressible Navier–Stokes equations. To improve the prediction accuracy, the proposed IMLE method approximates the total derivative term in Lagragian sense, and the spatial derivative terms are approximated on Eulerian coo...
+                              [A new high-order particle method for solving high Reynolds number incompressible flows](https://www.researchgate.net/publication/329694946_A_new_high-order_particle_method_for_solving_high_Reynolds_number_incompressible_flows)
+                                    Dec 2018
+                            In this study, a new high-order particle method is proposed to solve the incompressible Navier–Stokes equations. The proposed method combines the advantages of particle and mesh methods to approximate the total and the spatial derivative terms under the Lagrangian and the Eulerian frameworks. Our aim is to avoid convective instability and increase...
+                              [A time marching strategy for solving parabolic and elliptic equations with Neumann boundary conditions](https://www.researchgate.net/publication/328548735_A_time_marching_strategy_for_solving_parabolic_and_elliptic_equations_with_Neumann_boundary_conditions)
+                                    Oct 2018
+                            In the community of computational fluid dynamics, pressure Poisson equation with Neumann boundary condition is usually encountered when solving the incompressible Navier–Stokes equations in a segregated approach such as SIMPLE, PISO, and projection methods. To deal with Neumann boundary conditions more naturally and to retain high order spatial acc...
+                              [High-order particle method for solving incompressible Navier-Stokes equations within a mixed Lagrangian-Eulerian framework](https://www.researchgate.net/publication/318445345_High-order_particle_method_for_solving_incompressible_Navier-Stokes_equations_within_a_mixed_Lagrangian-Eulerian_framework)
+                                    Jul 2017
+                                    Tony W. H. Sheu
+                                    Yao-Hsin Hwang
+                            Owing to the fact that the Poisson equation of pressure for incompressible fluid flow is purely elliptic, it is therefore computationally improper to compute pressure on irregularly distributed moving particles as addressed in the recent Moving Particle with embedded Pressure Mesh (MPPM) method. In the current work, a modified MPPM method known as...
+                              Cited
+                                              [Xiangyu Hu](profile/Xiangyu-Hu-2)
+                                                Technical University of Munich
+                                              [Sofiane KHELLADI](profile/Sofiane-Khelladi)
+                                                École nationale supérieure d'arts et métiers
+                                              [Xesús Nogueira](profile/Xesus-Nogueira)
+                                                Universidade da Coruña
+                                              [John Ringwood](profile/John-Ringwood)
+                                                Maynooth University
+                                              [G. Fairweather](profile/G-Fairweather)
+                                                University of Kentucky
+                              Cited By
+                                              [Julien Reveillon](profile/Julien-Reveillon)
+                                                Université de Rouen Normandie
+                                              [Mahdi Nili-Ahmadabadi](profile/Mahdi-Nili-Ahmadabadi)
+                                                Isfahan University of Technology
+                                              [Kyung Chun Kim](profile/Kyung-Kim-25)
+                                                Pusan National University
+                                              [Vincent Moureau](profile/Vincent-Moureau)
+                                                Complexe de Recherche Interprofessionnel en Aérothermochimie, French National Centre for Scientific Research
+                                              [Li Xuhui](profile/Li-Xuhui-2)
+                                                Harbin Engineering University
+                Current institution
+                              Current position
+                            Tony W. H. Sheu's Lab
+                Co-authors
+                      Top co-authors
+                                          University of Nottingham Malaysia Campus
+                                          National Taiwan University
+                          All co-authors (7)
+                  Advertisement
+                          Join ResearchGate to find the people and research you need to help your work
+                              25+ million
+                              members
+                              160+ million
+                              publication pages
+                              2.3+ billion
+                              citations
+                        Loading...
+                    Lab members
+                    Current journal roles
+                        What type of researcher are you?
+                        Only verified researchers can join ResearchGate and send messages to other members.
+                                      Academic or student
+                                      University students and faculty, institute members, and independent researchers
+                                      Corporate, government, or NGO researcher
+                                      Technology or product developers, R&D specialists, and government or NGO employees in scientific roles
+                                      Medical
+                                      Health care professionals, including clinical researchers
+                                      Not a researcher
+                                      Journalists, citizen scientists, or anyone interested in reading and discovering research
+                      You may be eligible for a free account
+                          Sorry, you need to be a researcher to join ResearchGate.
+                          Due to our privacy policy, only current members can send messages to people on ResearchGate.
+                      Already a member?
+                            Back
+                            Close
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=W-yd9mkYr_Mon1ymZa7br6iZyBtqTmvv1igMKjCdhmw5vuJHBcu5VLH4eLZDrCAlDqZHFp5tExVmGHzXNQofDMrJkc4)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

@@ -1,0 +1,65 @@
+{
+  "title": "Rivas Lab: People",
+  "meta_description": "",
+  "main_content": "Rivas Lab: People Elena Rivas elenarivas@fas.harvard.edu Senior Research Fellow and Lecturer Agata Kilar akilar@fas.harvard.edu Postdoc Marcell Szikszai marcellszikszai@fas.harvard.edu Postdoc Marcin Magnus mmagnus@fas.harvard.edu Postdoc Ipsa Mittra ipsam001@gmail.com Summer Undergraduate Intern Aayush Karan akaran@college.harvard.edu Undergraduate research (Harvard College, 2023) Alumni Max Ward Lecturer at the University of Western Australia, Perth, Australia. Ann Yang Harvard, 2022 Graduate Student, MIT Biology. William Gao Harvard, 2020 MD. PhD. student at University of Pennsylvania. Amanda Zhang Harvard, 2018 Undergraduate researcher, 2015-16. Audrey Dalgarno University of Wisconsin-Madison, 2017 Undergraduate researcher, 2016-2017. Mattia Mah\u2019moud Harvard, 2020 Undergraduate researcher, 2017-2018.",
+  "links": [
+    {
+      "url": "/",
+      "text": "Rivas Lab: People"
+    },
+    {
+      "url": "mailto:elenarivas@fas.harvard.edu",
+      "text": "elenarivas@fas.harvard.edu"
+    },
+    {
+      "url": "mailto:akilar@fas.harvard.edu",
+      "text": "akilar@fas.harvard.edu"
+    },
+    {
+      "url": "mailto:marcellszikszai@fas.harvard.edu",
+      "text": "marcellszikszai@fas.harvard.edu"
+    },
+    {
+      "url": "mailto:mmagnus@fas.harvard.edu",
+      "text": "mmagnus@fas.harvard.edu"
+    },
+    {
+      "url": "mailto:akaran@college.harvard.edu",
+      "text": "ipsam001@gmail.com"
+    },
+    {
+      "url": "mailto:akaran@college.harvard.edu",
+      "text": "akaran@college.harvard.edu"
+    }
+  ],
+  "images": [
+    {
+      "src": "photos/elena_rivas.png",
+      "alt": "Elena Rivas"
+    },
+    {
+      "src": "photos/agata_july2023.jpg",
+      "alt": "\u201cAgata"
+    },
+    {
+      "src": "photos/marcell-szikszai.jpeg",
+      "alt": "\u201cMarcell"
+    },
+    {
+      "src": "photos/marcin-magnus_2055_edit_cr-300x300.jpg",
+      "alt": "\u201cMarcin"
+    },
+    {
+      "src": "photos/IpsaMitra.webp",
+      "alt": "\u201cIpsa"
+    },
+    {
+      "src": "photos/akaran.png",
+      "alt": "\u201cAayush"
+    },
+    {
+      "src": "photos/lab_july2023.JPG",
+      "alt": "\u201c\u201d"
+    }
+  ]
+}

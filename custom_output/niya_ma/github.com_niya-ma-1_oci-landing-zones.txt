@@ -1,0 +1,213 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fniya-ma-1%2Foci-landing-zones)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=niya-ma-1%2Foci-landing-zones)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                    [niya-ma-1](/niya-ma-1)
+                  /
+                    [oci-landing-zones](/niya-ma-1/oci-landing-zones)
+                  Public
+                forked from
+                  [oci-landing-zones/oracle-enterprise-landingzone](/oci-landing-zones/oracle-enterprise-landingzone)
+                    You must be signed in to change notification settings
+                      0
+                        Star
+                OCI Landing Zones
+                License
+                    stars
+                    46
+                    forks
+                    Branches
+                    Tags
+                    Activity
+                    Code
+                    Pull requests
+                    Projects
+                    Insights
+                    Additional navigation options
+              niya-ma-1/oci-landing-zones
+                                    $
+                                    /$
+                                        Go to file
+                                Folders and files
+                                          Last commit message
+                                          Last commit date
+                                          Latest commit
+                                              History
+                                                    369 Commits
+                                                  .github/
+                                                  workflows
+                                                [Official_Documentation](/niya-ma-1/oci-landing-zones/tree/main/Official_Documentation)
+                                                [examples](/niya-ma-1/oci-landing-zones/tree/main/examples)
+                                                [images](/niya-ma-1/oci-landing-zones/tree/main/images)
+                                                [modules](/niya-ma-1/oci-landing-zones/tree/main/modules)
+                                                [templates](/niya-ma-1/oci-landing-zones/tree/main/templates)
+                                                [test](/niya-ma-1/oci-landing-zones/tree/main/test)
+                                                [.gitignore](/niya-ma-1/oci-landing-zones/blob/main/.gitignore)
+                                                [.gitlab-ci.yml](/niya-ma-1/oci-landing-zones/blob/main/.gitlab-ci.yml)
+                                                [CONTRIBUTING.md](/niya-ma-1/oci-landing-zones/blob/main/CONTRIBUTING.md)
+                                                [LICENSE.txt](/niya-ma-1/oci-landing-zones/blob/main/LICENSE.txt)
+                                                [README.md](/niya-ma-1/oci-landing-zones/blob/main/README.md)
+                                                [RELEASE.md](/niya-ma-1/oci-landing-zones/blob/main/RELEASE.md)
+                                                [SECURITY.md](/niya-ma-1/oci-landing-zones/blob/main/SECURITY.md)
+                                          View all files
+                                    Repository files navigation
+                                            README
+                                        Landing Zones
+                                      This repository contains different types of Landing Zones to deploy to the Oracle Cloud Infrastructure platform. The landing zones are assembled from modules and templates that users can use in their default configuration or fork this repo and customize for your own scenarios.
+                                        Oracle Enterprise Landing Zone v2 (OELZ v2)
+                                      The Oracle Enterprise Landing Zone v2 (OELZ v2) deploys a typical architecture used by enterprise customers. The root template for this landing zone is located at
+                                        . Users can use the guides below to get started with the Oracle Enterprise Landing Zone v2 (OELZ v2).
+                                          [Architecture Guide](/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/Architecture_Guide.md)
+                                          [Implementation Guide](/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/IMPLEMENTATION.md)
+                                          [Configuration Guide](/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/CONFIGURATION.md)
+                                        Workload Expansion
+                                      The Oracle Enterprise Landing Zone v2 (OELZ v2) deploys a workload in each environment (Prod and Non-Prod) by default.
+The user can use the workload expansion stack to deploy additional customized workload. The template for the workload expansion is located
+                                      at
+                                        [Official_Documentation/OELZ_Workload_Deployment](/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Workload_Deployment)
+                                        . Users can use the guides below to get started with Workload Expansion.
+                                        Deploy Using Oracle Resource Manager
+                                        Click to deploy the stack
+                                          If you aren't already signed in, when prompted, enter the tenancy and user credentials. Review and accept the terms and conditions.
+                                        Select the region where you want to deploy the stack.
+                                        For Working directory, select
+                                          templates/enterprise-landing-zone
+                                        Follow the on-screen prompts and instructions to create the stack.
+                                        After creating the stack, click Terraform Actions, and select Plan.
+                                        Wait for the job to be completed, and review the plan.
+                                        To make any changes, return to the Stack Details page, click Edit Stack, and make the required changes. Then, run the Plan action again.
+                                        If no further changes are necessary, return to the Stack Details page, click Terraform Actions, and select Apply.
+                                        The Team
+                                      This repository is developed and supported by the Oracle OCI Landing Zones team.
+                                        How to Contribute
+                                      Interested in contributing?  See our contribution
+                                        [guidelines](/niya-ma-1/oci-landing-zones/blob/main/CONTRIBUTING.md)
+                                        for details.
+                                      Copyright (c) 2022,2023 Oracle and/or its affiliates.
+                                      Licensed under the Universal Permissive License (UPL), Version 1.0.
+                                      See
+                                        [LICENSE](/niya-ma-1/oci-landing-zones/blob/main/LICENSE)
+                                        for more details.
+                              About
+                              Security policy
+                              Stars
+                              Watchers
+                                  watching
+                              Forks
+                                [Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fniya-ma-1%2Foci-landing-zones&report=niya-ma-1+%28user%29)
+                              [Releases](/niya-ma-1/oci-landing-zones/releases)
+                            No releases published
+                              [Packages](/users/niya-ma-1/packages?repo_name=oci-landing-zones)
+                            No packages published
+                            Languages
+                                  HCL
+                                  91.7%
+                                  Python
+                                  7.9%
+                                  Shell
+                                  0.4%
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

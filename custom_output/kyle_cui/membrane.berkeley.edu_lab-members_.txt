@@ -1,0 +1,225 @@
+            [Hurley Lab](https://membrane.berkeley.edu/)
+          University of California, Berkeley
+                  [Home](https://membrane.berkeley.edu/)
+                  [Research](https://membrane.berkeley.edu/research/)
+                      [ESCRTs](https://membrane.berkeley.edu/research#ESCRT)
+                      [Autophagy](https://membrane.berkeley.edu/research#autophagy)
+                      [Coated Vesicles](https://membrane.berkeley.edu/research#coated-vesicles)
+                      [Lysosomal Regulation](https://membrane.berkeley.edu/research/#lysosome)
+                  [News](https://membrane.berkeley.edu/blog/)
+                  [Publications](https://membrane.berkeley.edu/publications/)
+                  [People](https://membrane.berkeley.edu/lab-members/)
+                  [Group Photos](https://membrane.berkeley.edu/lab-photos/)
+                  [Join the Lab](https://membrane.berkeley.edu/contact-us/)
+                  [Internal](https://membrane.berkeley.edu/hurley-lab-internal/)
+          #site-navigation
+        .site-branding
+      .layout-wrap
+    #masthead
+              Lab Members and Alumni
+                    Jim Hurley
+                  jimhurley [at] berkeley.edu
+                      [Short CV](https://live-hurley-lab.pantheon.berkeley.edu/wp-content/uploads/2024/06/short-cv.pdf)
+                        Physics
+                        Profile
+                        PNAS
+              Grad Students
+                        Rachel Jansen
+                        rachel_jansen [at] berkeley.edu
+                  NSF Graduate Research Fellow
+                  Originally from the East Coast, Rachel completed her BS in Biochemistry at the University of Massachusetts – Amherst where she studied the structure and function of the chaperone DnaK. In the Hurley lab, she uses cryo-electron microscopy to understand lysosomal regulation. Outside of lab, Rachel enjoys hiking, puzzles and playing the cello.
+                        Kevin Rose
+                        kevin_rose [at] berkeley.edu
+                  Kevin completed a BS in Microbiology from UMD, College Park where he worked with Dr. Jeffrey DeStefano selecting for nucleic acid inhibitors against HIV Gag and Pol proteins. He is now working towards understanding viral co-option mechanisms of ESCRTs during virus budding and assembly using structural biology techniques.
+                        Zeke Cook
+                        zeke_cook [at] berkeley.edu
+                  Zeke is a Pennsylvania Amish country native with a BS in physics from Penn State.  He will be working on piecing together the structural organization of autophagy machinery using cryo-electron microscopy.  When not in the lab, Zeke enjoys trail running, rock climbing, and donkey racing.
+              Post-Docs
+                        Sankalp Shukla
+                  BrightFocus Foundation Fellow
+                  Sankalp received his Ph.D. at the University of Pennsylvania under the guidance of Tobias Baumgart. He is broadly interested in the mechanistic studies of membrane-protein interactions and their effect on membrane mechanics. His life outside the lab involves playing recreational sports, cooking spicy food, and practicing mindfulness.
+                        Zhicheng Cui
+                  Zhicheng(Chen) received his Ph.D. from Texas A&M University under the guidance of Junjie Zhang. He used cryoEM to study ssRNA phage and translational regulation of Mycobaterium tuberculosis. In the Hurley lab, he focuses on the lysosomal biogenesis and lysosome mitochondria crosstalk. Outside the lab, he enjoys spending time with his family and biking.
+                        Eric Herrmann
+                  Eric received his Ph.D. in the lab of Daniel Kuemmel at the University of Münster in Germany. His dissertation focused on the recruitment mechanisms of GEFs to membranes to mediate nucleotide exchange of small GTPases. He is currently working on the structural analysis of the autophagy maturation pathway. Outside of the lab, Eric enjoys weightlifting, progressive metal, and anime.
+                        Yongjia Duan
+                  Yongjia received his Ph.D. from Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, under the guidance of Yanshan Fang. He then worked as a postdoctoral researcher in Baoxue Ge’s lab at Tongji University. His previous research focused on the role of phase separation in the pathogenesis of ALS and tuberculosis. He joined the Hurley lab in 2024 and is currently working on the regulation of autophagy initiation by protein condensation. Outside the lab, he enjoys playing basketball and traveling.
+                        Yuchao Zhang
+                  Yuchao received his Ph.D. from Shanghai Institute of Organic Chemistry, CAS under the guidance of Lifeng Pan. He used crystallography to study the mechanism of glycophagy and studied on the quality control of glycogen. In Hurley lab, he is currently working on the regulation of membrane sealing process by using structural biology techniques. Outside of lab, he enjoys staying with his family and playing with his cat.
+                        Rick Hooy
+                        rhooy1 [at] berkeley.edu
+                  Ruth Kirschstein Fellow
+                  Rick completed his Ph.D. work in the lab of Jungsan Sohn at the Johns Hopkins University. His research strives to understand the molecular basis for immunity, including mechanisms used by pathogens to thwart the immune system. Rick, a native Californian, has a love/hate relationship with the Giants and Niners, and spends as much time as possible outdoors.
+                        Aaron Joiner
+                  Miller Institute Fellow
+                  Aaron earned his Ph.D. from Cornell University while working in the lab of Dr. Chris Fromme. His doctoral work unveiled the mechanisms of GEF-mediated nucleotide exchange of small GTPases. He is broadly interested in using structural and biochemical approaches to understand the molecular logic of protein functions at the surface of a membrane.
+                        Minghao Chen
+                  Minghao received his Ph.D. at Hokkaido University in Japan and learned cryo-EM at the Max-Planck Institute of Molecular Physiology / University of Münster in Germany. He joined Hurley Lab in 2022 and is currently working on the investigation of the autophagy initiation pathway from a structural aspect. In his off time, he is an enthusiastic player of table tennis.
+                        Bin Xie
+                  Bin earned his Ph.D. in Biophysics from UC Davis in the Sivasankar lab, where he studied antibody regulation of cell adhesion. Now in the Hurley lab, he uses Cryo-EM to examine protein complexes in the mTORC pathway. Outside the lab, he’s an avid Celtics basketball fan.
+                        Shuixia Tan
+                  Shuixia got her Ph.D. in cell biology from Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences. Then, she received postdoctoral training at Fudan University in China. In 2024, She joined the Hurley lab, where her research focuses on lysosome repair and Tau spread. Outside the lab, she finds pleasure in listening to music and taking leisurely strolls in the park.
+                        Ye Lu
+                  Ye earned her Ph.D. from Tsinghua University under the mentorship of Hong-Wei Wang, where she developed various functionalized graphene grids to optimize sample preparation for Cryo-EM. In 2025, she joined the Hurley Lab, focusing her research on observing native membrane structures during autophagy. Outside the lab, Ye enjoys reading, hiking, running, and practicing yoga. She is a passionate marathon enthusiast.
+              Project Scientist
+                        Xuefeng Ren
+                  snowren [at] berkeley.edu
+              Undergraduates
+                        Grayce Yang
+                        grayceyang [at] berkeley.edu
+                  Grayce is an undergrad in MCB and Stats, interested in bioinformatics and structural biology. She joined the Hurley lab to explore her areas of interest and gain more lab experience. During her free time, she enjoys dancing, playing video games, and traveling.
+                        Wonjae Lee
+                        wonjaelee [at] berkeley.edu
+                  Bakar Ignite Scholar
+                  Wonjae Lee is an undergraduate researcher working with Dr. Sankalp Shukla. He is pursuing a Bachelor’s degree in Molecular and Cellular Biology with an emphasis in CDP. He is particularly interested in studying the cellular mechanisms underlying neuronal dysfunction and their impacts on human health. Outside the lab, he enjoys teaching and mentoring aspiring students, as well as playing tennis and exploring new restaurants in his free time.
+                        Alexia Puerta Cordova
+                        alexiascordova [at] berkeley.edu
+                  Alexia is an undergraduate researcher curious about protein reaction pathways, development, and application in human health. As she works with graduate student Dan Tudorica, she learns various techniques and enjoys seeing material from class practically applied in research. During her time off, she spends time playing video and board games, exploring the city, and crafting.
+                        Karla Tapia
+                        karla.tapia [at] berkeley.edu
+                  Karla is intended MCB interested in exploring the different fields in molecular biology especially through the Hurley Lab. During her free time, she likes going to escape rooms, reading, and just watching random shows.
+                        Selina Wu
+                        selinawu [at] berkeley.edu
+                  Selina is an undergrad pursuing studies in MCB, Business, and Data Science. She is passionate about exploring molecular therapeutics and the connection between science and business. Selina joined the Hurley Lab to gain insight into generating innovative scientific solutions and advancements that positively impact human health. During her free time, she enjoys snowboarding, playing video games, and watching shows and anime.
+                        Qingyang Ni
+                        qingyangni [at] berkeley.edu
+                  Qingyang is an undergraduate researcher exploring the initiation pathway of autophagy from a structural perspective. As she works with Dr. Minghao Chen, she learns various techniques and intends to explore more interdisciplinary approach through the Hurley lab. In her spare time, she enjoys traveling to different cities and watching shows.
+              Alumni
+                Dan Alexandru Tudorica
+                – Velocity Bio
+                Kevin Larsen
+                – Scientist, Kieft Lab, New York Structural Biology Center
+                Isabella Alfonso
+                – Lab Technician, Kortemme Lab, UCSF
+                Isabella Murray
+                – Student Assistant, Mutalik Lab, Berkeley Lab (LBNL)
+                Yuichiro Iwamoto
+                – Scientist, Vitra Labs
+                Owen Ong
+                Liv Jensen
+                – Postdoc, Brunger Lab, Stanford
+                Chenxi Ou
+                – Graduate Student, MIT
+                Albert Tran
+                Lisa Strong
+                – Scientist, Neomorph
+                Emma Garst
+                – Scientist I, Vir Biotechnology
+                King Cada
+                – Postdoc, National Heart, Lung and Blood Institute
+                Adam Yokom
+                – Assistant Professor, Department of Biochemistry, University of Missouri
+                Cosmo Buffalo
+                – Principal Scientist, Novartis
+                Chunmei Chang
+                – Assistant Professor, Institute of Metabolism and Integrative Biology, Fudan University, Shanghai, China.
+                Ming-Yuan Su
+                – Associate Professor, School of Medicine, Southern University of Science and Technology, Shenzhen, China
+                Xiaoshan Shi
+                – Professor, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+                Simon Fromm
+                – Cryo-EM Specialist, EMBL Heidelberg
+                Thomas Flower
+                – Head of Protein Science, NovAliX
+                Mark Remec Pavlin
+                Lindsey Young
+                –  Postdoc, Villa Lab, UCSD
+                Nicholas Tjahjono
+                – Graduate Student, Rice University Materials Science and NanoEngineering Program, Yakobson Lab
+                Hersh Bhargava
+                – Graduate Student, UCSF Biophysics Program, El-Samad and Lim Labs
+                Jamie Shiah
+                – Graduate Student, Yale University
+                Johannes Schöneberg
+                – Assistant Professor, UCSD
+                Felix Goerdeler
+                – Ph.D Student, Berlin, Germany
+                Kyle Morris
+                – EMDB Team Leader, EMBL-EBI
+                Goran Stjepanovic
+                – Group Leader, University of Hong Kong
+                Ursula Schulze-Gahmen
+                – Staff Research Scientist, Gladstone Institute
+                Mary Lin
+                – Science Writer, Path AI
+                Eli Il-Hyung Lee
+                – Assistant Professor, Chemistry and Biochemistry, Montclair State University
+                Lars-Anders Carlson
+                – Associate Professor, Wallenberg Centre for Molecular Medicine, Department of Medical Biochemistry and Biophysics, Umeå University, Sweden
+                Shiqian Qi
+                – Professor, State Key Laboratory of Biotherapy, Sichuan University
+                Qingtao Shen
+                – Associate Professor, SUSTech
+                Robin Stanley
+                – Senior Investigator, NIEHS Intramural Program
+                Michael Ragusa
+                – Associate Professor, Department of Chemistry, Dartmouth College
+                Thomas Leonard
+                – Associate Professor, Max F. Perutz Laboratories, Vienna, Austria
+                Evzen Boura
+                – Group Leader, Institute of Organic Chemistry and Biochemistry of the Academy of Sciences
+                Young Jun Im
+                – Professor, Biochemistry Section, College of Pharmacy, Chonnam National University
+                Dong Yang
+                – University Researcher, China
+                Hyung Ho Lee
+                – Associate Professor, Department of Chemistry, College of Natural Sciences, Seoul National University
+                Aitor Hierro
+                – Group Leader, Structural Biology Unit, CIC BIOGUNE Ed. 800, Parque Tecnológico de Vizcaya
+                Sangho Lee
+                – Associate Professor, Department of Biological Sciences, Sungkyunkwan (“SKK”) University
+                Gali Prag
+                – Principal Investigator, Dept. of Biochemistry, Faculty of Life Sciences, Tel Aviv University, Israel
+                Gregory J. Miller
+                – Associate Professor, Department of Chemistry, Catholic University of America, Washington, DC
+                Raymond Trievel
+                – Professor, Department of Biological Chemistry, University of Michigan Medical School, Ann Arbor, MI
+                Saurav Misra
+                – Scientist, Ventria Bioscience
+                Gongyi Zhang
+                – Professor, National Jewish Medical and Reseach Center, Denver, CO
+                Bei Yang
+                – Assistant Professor, Shanghai Institute for Advanced Immunochemical Studies, Shanghai, China
+                Do Jin Kim
+                – Denali Therapeutics, Inc.
+                Sulochanadevi Baskaran
+                – Director of Protein Science and Molecular Biology, Santa Ana Bio
+                Chris Davies
+                – Manager, Business Development, Genentech
+                Yeon-Gil Kim
+                – Pohang Accelerator Laboratory, Pohang University of Science and Technology, Pohang, 7 Kyungbuk 790-784, Republic of Korea
+                Adriana Rojas Cardona
+                – Platform Manager, Building 800, PARQUE TECNOLÓGICO DE BIZKAIA, Spain
+                Daniel Kloer
+                – Domain Head R&D, Syngenta
+                Yosuke Tsujishita
+                – Director, Izumi Hospital, Izumi Institute of Health Science, Okinawa, Japan
+                Jaewon Kim
+                – Scientist, Industry, US
+                Michael Kostelansky
+                – Senior Director, Commercial Planning, Pfizer
+                Darrell E. Hurt
+                – Computational Biology Section Head, Bioinformatics and Computational Biosciences Branch (BCBB), OCICB/OSMO/OD/NIAID/NIH
+                Christine Jao
+                – Genentech
+                Bertram Canagarajah
+                – Staff Scientist, NIH
+                David Murray
+                – Wellcome Trust and Royal Society Sir Henry Dale Fellow, School of Life Sciences, Dundee, Scotland
+                Thomas Wollert
+                – Researcher, Europe
+            .entry-content
+          #post-20
+        #main
+      #primary
+    #content
+            Find Us
+              University of California, Department of Molecular & Cell Biology
+              Office Phone: (510) 643-9483
+              Email: jimhurley [at] berkeley.edu
+      .widget-area
+        ,
+        [Proudly powered by WordPress.](https://wordpress.org/)
+      .site-info
+    #colophon
+  #page

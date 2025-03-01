@@ -1,0 +1,24 @@
+          Toggle navigation
+                (current)
+              [About Me](/about-me/)
+              [Projects](/projects/)
+              [Coursework](/coursework/)
+        Justin Ji
+          Hi! I’m Justin, AKA Juji. I’m a junior studying Computer Science at Harvard University (c/o 2026). I’m interested in AI research and building products that leave a lasting impact.
+          In my free time, I enjoy playing volleyball, reading, and eating Chipotle.
+          Read more
+            [about me](/about-me)
+            !
+          Contact me
+          You can reach me via
+            [LinkedIn](https://www.linkedin.com/in/jujipotle)
+            (preferred) or
+            [email](mailto:justinji@college.harvard.edu)
+            . Always happy to meet new people!
+    © Copyright 2025 Justin Ji. Powered by
+      [Jekyll](https://jekyllrb.com/)
+      with
+      [al-folio](https://github.com/alshedivat/al-folio)
+      theme. Hosted by
+      [GitHub Pages](https://pages.github.com/)
+      . Last updated: January 25, 2025.

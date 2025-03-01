@@ -1,0 +1,649 @@
+{
+  "title": "Faculty and Staff Directory",
+  "meta_description": "",
+  "main_content": "All All Faculty Staff Construction Engineering Environmental Engineering Geotechnical Engineering Structural Engineering Transportation Engineering Water Resources Engineering Mohamed Abdel-Aty Pegasus Professor m.aty@ucf.edu Hatem Abou-Senna Associate Professor habousenna@ucf.edu Shaurya Agarwal Associate Professor shaurya.agarwal@ucf.edu Haitham Al-Deek Professor haitham.al-deek@ucf.edu Luis Arboleda Associate Professor luis.arboleda@ucf.edu Natalia Barbour Assistant Professor natalia.barbour@ucf.edu Erin Burns Laboratory Manager erin.burns@ucf.edu Necati Catbas Professor catbas@ucf.edu Ni-bin Chang Professor nchang@ucf.edu Jiannan Chen Assistant Professor jiannan.chen@ucf.edu Manoj Chopra Professor and Associate Dean for Undergraduate Affairs manoj.chopra@ucf.edu Steven Duranceau Professor steven.duranceau@ucf.edu Naveen Eluru Professor and Department Graduate Program Director naveen.eluru@ucf.edu Dennis Filler Associate Lecturer dennis.filler@ucf.edu Christian Flores Carreras Lecturer christian.florescarreras @ucf.edu Nicholas Garber Professor nicholas.garber@ucf.edu Samiul Hasan Associate Professor samiul.hasan@ucf.edu Jing Hu Assistant Professor jing.hu@ucf.edu Robert Andrew Jane Assistant Professor r.jane@ucf.edu Kelly Kibler Associate Professor kelly.kibler@ucf.edu Yeong-Ren Lin Laboratory Manager yeong-ren.lin@ucf.edu Woo Hyoung Lee Associate Professor woo.hyounglee@ucf.edu Kevin Mackie Professor and Department Chair kevin.mackie@ucf.edu Farzaneh Nosouhian Lecturer farzaneh.nosouhian@ucf.edu Amr Oloufa Professor amr.oloufa@ucf.edu Andrew Randall Professor andrew.randall@ucf.edu Mary L. Rush Academic Program Coordinator III mary.rush@ucf.edu AHM Anwar Sadmani Associate Professor sadmani@ucf.edu Stacey Shearrion Administrative Assistant stacey.shearrion@ucf.edu Arvind Singh Associate Professor arvind.singh@ucf.edu Patrick Sun Assistant Professor peng.sun@ucf.edu Omer Tatari Associate Professor tatari@ucf.edu Thomas Wahl Associate Professor t.wahl@ucf.edu Dingbao Wang Professor and Department Associate Chair dingbao.wang@ucf.edu Shaohua Xie Research Assistant Professor shaohua.xie@ucf.edu Samar Younes Lecturer samar.younes@ucf.edu Haofei Yu Associate Professor haofei.yu@ucf.edu Hae-Bum Yun Associate Professor hae-bum.yun@ucf.edu Ricardo Zaurin Senior Lecturer ricardo.zaurin@ucf.edu Weiwei Zhan Assistant Professor weiwei.zhan@ucf.edu No Items Found Emeritus Faculty David Cooper Robert D. Kersten Shiaou-san Kuo Essam Radwan Debra Reinhart James Taylor Marty Wanielista Gour Tsyh Yeh",
+  "links": [
+    {
+      "url": "https://www.cece.ucf.edu/person/abdelaty/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/abdelaty/",
+      "text": "Mohamed Abdel-Aty"
+    },
+    {
+      "url": "mailto:m.aty@ucf.edu",
+      "text": "m.aty@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/hatemabousenna/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/hatemabousenna/",
+      "text": "Hatem Abou-Senna"
+    },
+    {
+      "url": "mailto:habousenna@ucf.edu",
+      "text": "habousenna@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/shauryaagarwal/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/shauryaagarwal/",
+      "text": "Shaurya Agarwal"
+    },
+    {
+      "url": "mailto:shaurya.agarwal@ucf.edu",
+      "text": "shaurya.agarwal@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/haithamaldeek/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/haithamaldeek/",
+      "text": "Haitham Al-Deek"
+    },
+    {
+      "url": "mailto:haitham.al-deek@ucf.edu",
+      "text": "haitham.al-deek@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/luisarboleda/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/luisarboleda/",
+      "text": "Luis Arboleda"
+    },
+    {
+      "url": "mailto:luis.arboleda@ucf.edu",
+      "text": "luis.arboleda@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/nataliabarbour/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/nataliabarbour/",
+      "text": "Natalia Barbour"
+    },
+    {
+      "url": "mailto:natalia.barbour@ucf.edu",
+      "text": "natalia.barbour@ucf.edu"
+    },
+    {
+      "url": "mailto:erin.burns@ucf.edu",
+      "text": "erin.burns@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/necati-catbas/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/necati-catbas/",
+      "text": "Necati Catbas"
+    },
+    {
+      "url": "mailto:catbas@ucf.edu",
+      "text": "catbas@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/nibinchang/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/nibinchang/",
+      "text": "Ni-bin Chang"
+    },
+    {
+      "url": "mailto:nchang@ucf.edu",
+      "text": "nchang@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/jiannenchen/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/jiannenchen/",
+      "text": "Jiannan Chen"
+    },
+    {
+      "url": "mailto:jiannan.chen@ucf.edu",
+      "text": "jiannan.chen@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/manoj-chopra/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/manoj-chopra/",
+      "text": "Manoj Chopra"
+    },
+    {
+      "url": "mailto:manoj.chopra@ucf.edu",
+      "text": "manoj.chopra@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/stevenduranceau/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/stevenduranceau/",
+      "text": "Steven Duranceau"
+    },
+    {
+      "url": "mailto:steven.duranceau@ucf.edu",
+      "text": "steven.duranceau@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/naveeneluru/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/naveeneluru/",
+      "text": "Naveen Eluru"
+    },
+    {
+      "url": "mailto:naveen.eluru@ucf.edu",
+      "text": "naveen.eluru@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/filler/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/filler/",
+      "text": "Dennis Filler"
+    },
+    {
+      "url": "mailto:dennis.filler@ucf.edu",
+      "text": "dennis.filler@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/christianflorescarreras/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/christianflorescarreras/",
+      "text": "Christian Flores Carreras"
+    },
+    {
+      "url": "mailto:christian.florescarreras@ucf.edu",
+      "text": "christian.florescarreras@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/nicholasgarber/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/nicholasgarber/",
+      "text": "Nicholas Garber"
+    },
+    {
+      "url": "mailto:nicholas.garber@ucf.edu",
+      "text": "nicholas.garber@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/samiulhasan/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/samiulhasan/",
+      "text": "Samiul Hasan"
+    },
+    {
+      "url": "mailto:samiul.hasan@ucf.edu",
+      "text": "samiul.hasan@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/jinghu/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/jinghu/",
+      "text": "Jing Hu"
+    },
+    {
+      "url": "mailto:jing.hu@ucf.edu",
+      "text": "jing.hu@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/robertandrewjane/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/robertandrewjane/",
+      "text": "Robert Andrew Jane"
+    },
+    {
+      "url": "mailto:r.jane@ucf.edu",
+      "text": "r.jane@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/kellykibler/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/kellykibler/",
+      "text": "Kelly Kibler"
+    },
+    {
+      "url": "mailto:kelly.kibler@ucf.edu",
+      "text": "kelly.kibler@ucf.edu"
+    },
+    {
+      "url": "mailto:yeong-ren.lin@ucf.edu",
+      "text": "yeong-ren.lin@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/woohyounglee/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/woohyounglee/",
+      "text": "Woo Hyoung Lee"
+    },
+    {
+      "url": "mailto:woo.hyounglee@ucf.edu",
+      "text": "woo.hyounglee@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/kevinmackie/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/kevinmackie/",
+      "text": "Kevin Mackie"
+    },
+    {
+      "url": "mailto:kevin.mackie@ucf.edu",
+      "text": "kevin.mackie@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/farzaneh-nosouhian/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/farzaneh-nosouhian/",
+      "text": "Farzaneh Nosouhian"
+    },
+    {
+      "url": "mailto:farzaneh.nosouhian@ucf.edu",
+      "text": "farzaneh.nosouhian@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/amroloufa/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/amroloufa/",
+      "text": "Amr Oloufa"
+    },
+    {
+      "url": "mailto:amr.oloufa@ucf.edu",
+      "text": "amr.oloufa@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/andrewrandall/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/andrewrandall/",
+      "text": "Andrew Randall"
+    },
+    {
+      "url": "mailto:andrew.randall@ucf.edu",
+      "text": "andrew.randall@ucf.edu"
+    },
+    {
+      "url": "mailto:mary.rush@ucf.edu",
+      "text": "mary.rush@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/anwarsadmani/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/anwarsadmani/",
+      "text": "AHM Anwar Sadmani"
+    },
+    {
+      "url": "mailto:sadmani@ucf.edu",
+      "text": "sadmani@ucf.edu"
+    },
+    {
+      "url": "mailto:stacey.shearrion@ucf.edu",
+      "text": "stacey.shearrion@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/arvindsingh/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/arvindsingh/",
+      "text": "Arvind Singh"
+    },
+    {
+      "url": "mailto:arvind.singh@ucf.edu",
+      "text": "arvind.singh@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/pengsun/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/pengsun/",
+      "text": "Patrick Sun"
+    },
+    {
+      "url": "mailto:peng.sun@ucf.edu",
+      "text": "peng.sun@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/omertatari/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/omertatari/",
+      "text": "Omer Tatari"
+    },
+    {
+      "url": "mailto:tatari@ucf.edu",
+      "text": "tatari@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/thomaswahl/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/thomaswahl/",
+      "text": "Thomas Wahl"
+    },
+    {
+      "url": "mailto:t.wahl@ucf.edu",
+      "text": "t.wahl@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/dingbaowang/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/dingbaowang/",
+      "text": "Dingbao Wang"
+    },
+    {
+      "url": "mailto:dingbao.wang@ucf.edu",
+      "text": "dingbao.wang@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/shaohuaxie/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/shaohuaxie/",
+      "text": "Shaohua Xie"
+    },
+    {
+      "url": "mailto:Shaohua.Xie@ucf.edu",
+      "text": "shaohua.xie@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/samaryounes/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/samaryounes/",
+      "text": "Samar Younes"
+    },
+    {
+      "url": "mailto:samar.younes@ucf.edu",
+      "text": "samar.younes@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/haofei-yu/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/haofei-yu/",
+      "text": "Haofei Yu"
+    },
+    {
+      "url": "mailto:haofei.yu@ucf.edu",
+      "text": "haofei.yu@ucf.edu"
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/haebumyun/",
+      "text": ""
+    },
+    {
+      "url": "https://www.cece.ucf.edu/person/haebumyun/",
+      "text": "Hae-Bum Yun"
+    },
+    {
+      "url": "mailto:hae-bum.yun@ucf.edu",
+      "text": "hae-bum.yun@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/ricardozaurin/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/ricardozaurin/",
+      "text": "Ricardo Zaurin"
+    },
+    {
+      "url": "mailto:ricardo.zaurin@ucf.edu",
+      "text": "ricardo.zaurin@ucf.edu"
+    },
+    {
+      "url": "http://cece.ucf.edu/person/weiweizhan/",
+      "text": ""
+    },
+    {
+      "url": "http://cece.ucf.edu/person/weiweizhan/",
+      "text": "Weiwei Zhan"
+    },
+    {
+      "url": "mailto:weiwei.zhan@ucf.edu",
+      "text": "weiwei.zhan@ucf.edu"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/03/Untitled-design-2024-03-27T194635.983.png",
+      "alt": "Mohamed Abdel-Aty"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/01/Untitled-design-2024-01-23T114946.010.png",
+      "alt": "Hatem Abou-Senna"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/03/2024-AgarwalS-3-1x1-1.jpg",
+      "alt": "Shaurya Agarwal"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Al-Deek-Haitham1-6-29-12-HI-Res-scaled.jpg",
+      "alt": "Haitham Al-Deek"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/01/Untitled-design-2024-01-23T082822.681.png",
+      "alt": "Natalia Barbour"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/09/Erin-Burns_Headshots-1x1_1.jpg",
+      "alt": "Erin Burns"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-13T120622.059.png",
+      "alt": "Necati Catbas"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Chang-16.jpg",
+      "alt": "Ni-bin Chang"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T140855.296.png",
+      "alt": "Jiannen Chen"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T084520.938.png",
+      "alt": "Manoj Chopra"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/Untitled-design-2023-11-02T165621.054.png",
+      "alt": "Steve Duranceau"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T141607.139.png",
+      "alt": "Naveen Eluru"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/1.png",
+      "alt": "Nicholas Garber"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T135817.867.png",
+      "alt": "Samiul Hasan"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/01/Untitled-design-2024-01-23T114908.433.png",
+      "alt": "Jing Hu"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T084815.526.png",
+      "alt": "Robert Andrew Jane"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-08T155421.488.png",
+      "alt": "Kevin Mackie"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/01/Headshot-Farzaneh-Nosouhian.jpg",
+      "alt": "Farzaneh Nosouhian"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/4.png",
+      "alt": "Andrew Randall"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-08T160309.688.png",
+      "alt": "Mary L. Rush"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/Untitled-design-2023-11-02T164732.380.png",
+      "alt": "Anwar Sadmani"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-08T160156.176.png",
+      "alt": "Stacey Shearrion"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T131823.944.png",
+      "alt": "Arvid Singh"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T134434.496.png",
+      "alt": "Patrick Sun"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T130150.650.png",
+      "alt": "Thomas Wahl"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T085647.987.png",
+      "alt": "Dingbao Wang"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T134137.528.png",
+      "alt": "Shaohua Xie"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T102205.302.png",
+      "alt": "Haofei Yu"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/Untitled-design-2023-12-11T135735.626.png",
+      "alt": "Hae-Bum Yun"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/12/1.png",
+      "alt": "Ricardo Zaurin"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/04/emeritus.jpg",
+      "alt": "David Cooper"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/knight-scaled.jpg",
+      "alt": "knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/10/Untitled-design-18.png",
+      "alt": "Knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/knight-scaled.jpg",
+      "alt": "knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2024/04/deb-r-scaled.jpg",
+      "alt": "Debra Reinhart"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/knight-scaled.jpg",
+      "alt": "knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/knight-scaled.jpg",
+      "alt": "knight"
+    },
+    {
+      "src": "https://www.cece.ucf.edu/wp-content/uploads/2023/11/knight-scaled.jpg",
+      "alt": "knight"
+    }
+  ]
+}

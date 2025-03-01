@@ -1,0 +1,137 @@
+{
+  "title": "Great technology!. I have two questions at this stage\u2026 | by Giles Pirio | Medium",
+  "meta_description": "Great technology! I think Codius is an important building block and will make it possible to build a strong and distributed Codius network by incentivizing people to start new nodes.",
+  "main_content": "Giles Pirio \u00b7 Follow 1 min read \u00b7 Jun 12, 2018 -- Listen Share Great technology! I think Codius is an important building block and will make it possible to build a strong and distributed Codius network by incentivizing people to start new nodes. I have two questions at this stage though: As the network grows, how will bad actors be eliminated given there is no concept similar to say, proof of work? For example an actor could run a fake node from an AWS micro instance \u2014 the node would take the XRP and fake the start of the application, and always return 200 with an empty page on requests? Will we have a higher-level protocol that will solve that problem? More importantly, how do you assess the efficiency of a network of Codius nodes vs a smart-contract platform like Ethereum. Even if it\u2019s a stretch, this could be compared to the efficiency of a general-purpose processor (CPU) vs a specialized processor (say, GPU). It is clear that for some specialized loads, the GPU is drastically more efficient and I\u2019m wondering if the fact that Codius can run arbitrary code will not play negatively when looking at the economics.",
+  "links": [
+    {
+      "url": "https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F4c38a6697c9d&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------",
+      "text": "Open in app"
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------",
+      "text": "Write"
+    },
+    {
+      "url": "/search?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/coil/codius-smart-contracts-made-from-containers-b3b16c3e3890?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Codius: Smart Contracts Made From Containers2.7K10Stefan Thomas"
+    },
+    {
+      "url": "/@gilespirio?source=post_page---byline--4c38a6697c9d---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@gilespirio?source=post_page---byline--4c38a6697c9d---------------------------------------",
+      "text": "Giles Pirio"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7ba3312b752c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&user=Giles+Pirio&userId=7ba3312b752c&source=post_page-7ba3312b752c--byline--4c38a6697c9d---------------------post_header------------------",
+      "text": "Follow"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F4c38a6697c9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&user=Giles+Pirio&userId=7ba3312b752c&source=---header_actions--4c38a6697c9d---------------------clap_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4c38a6697c9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&source=---header_actions--4c38a6697c9d---------------------bookmark_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "/@gilespirio?source=post_page---post_author_info--4c38a6697c9d---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@gilespirio?source=post_page---post_author_info--4c38a6697c9d---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@gilespirio?source=post_page---post_author_info--4c38a6697c9d---------------------------------------",
+      "text": "Written by Giles Pirio"
+    },
+    {
+      "url": "/@gilespirio/followers?source=post_page---post_author_info--4c38a6697c9d---------------------------------------",
+      "text": "1 Follower"
+    },
+    {
+      "url": "/@gilespirio/following?source=post_page---post_author_info--4c38a6697c9d---------------------------------------",
+      "text": "3 Following"
+    },
+    {
+      "url": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--4c38a6697c9d---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://help.medium.com/hc/en-us?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Help"
+    },
+    {
+      "url": "https://medium.statuspage.io/?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Status"
+    },
+    {
+      "url": "/about?autoplay=1&source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "About"
+    },
+    {
+      "url": "/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Careers"
+    },
+    {
+      "url": "mailto:pressinquiries@medium.com",
+      "text": "Press"
+    },
+    {
+      "url": "https://blog.medium.com/?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Blog"
+    },
+    {
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Terms"
+    },
+    {
+      "url": "https://speechify.com/medium?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Text to speech"
+    },
+    {
+      "url": "/business?source=post_page-----4c38a6697c9d---------------------------------------",
+      "text": "Teams"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png",
+      "alt": ""
+    },
+    {
+      "src": "https://miro.medium.com/v2/da:true/resize:fill:88:88/0*99UGz6I2TiRO0pCT",
+      "alt": "Giles Pirio"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:96:96/0*99UGz6I2TiRO0pCT",
+      "alt": "Giles Pirio"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:128:128/0*99UGz6I2TiRO0pCT",
+      "alt": "Giles Pirio"
+    }
+  ]
+}

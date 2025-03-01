@@ -1,0 +1,339 @@
+[
+  {
+    "fullName": "Bill Qian",
+    "linkedin_internal_id": "1018109421",
+    "first_name": "Bill",
+    "last_name": "Qian",
+    "public_identifier": "billqian",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQGCspEK4X7apw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1671855339597?e=2147483647&v=beta&t=k4XEhPKbyUTJx_hGgAjE5HbS0_7ycjntf5YWFgTMhVQ",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQFuvpckqH_xlA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671856178480?e=2147483647&v=beta&t=O22AHOlZfVDbUBNhxCILRBfEShje3nUY4s0sqA57KJA",
+    "headline": "Yale '26 | Incoming CitSec SWE Intern | LLM Researcher",
+    "location": "553 followers\n          \n          \n              500+ connections",
+    "followers": "Issued Jan 2023",
+    "connections": "Issued Jan 2023",
+    "about": "Hello! I'm a student at Yale University (Class of 2026), majoring in computer science along the BS/MS program. My background stems from competitive programming (USACO/ICPC) and mathematics (USAMO/Putnam) and full stack development. More recently, I've taken a greater focus in systems and machine learning. At Yale, I've published multiple papers pertaining to natural language processing and code generation, and plan to continue my work.In my free time, I love to sing with the Yale Glee Club, make short films, and explore creative outlets. I also love to support and help others, too! Whether it's being a teaching assistant or helping people realize their dreams, I'm committed to making the world a better place to be.",
+    "experience": [
+      {
+        "position": "Incoming Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/citadel-securities?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGEXIzoPly7ug/company-logo_100_100/company-logo_100_100/0/1688579596328/citadel_securities_logo?e=2147483647&v=beta&t=0ocSWMOyzdmPisdfDFEefIuWcXx39SaQQWSeXV6lYC4",
+        "company_name": "Citadel Securities",
+        "location": "New York City Metropolitan Area",
+        "summary": "High performance C++",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/the-new-york-times?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEp-f9Ptu2yVQ/company-logo_100_100/company-logo_100_100/0/1631319717018?e=2147483647&v=beta&t=aK__8ao5Q48j1owbCgbxBpnfChf9q4NSfLi7_jNDu8U",
+        "company_name": "The New York Times",
+        "location": "New York, New York, United States",
+        "summary": "Research and Development Team, working on ethical applications of AI and LLMs into journalism",
+        "starts_at": "Jun 2024",
+        "ends_at": "Nov 2024",
+        "duration": "6 months"
+      },
+      {
+        "position": "Project Manager",
+        "company_url": "https://www.linkedin.com/company/student-technology-collaborative?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEVewBJDojBcA/company-logo_100_100/company-logo_100_100/0/1630664045802/student_technology_collaborative_logo?e=2147483647&v=beta&t=ZN1Uujiy6K0sZE9YNuH7dXFPMhWqbwhFR_YYmScz9Ug",
+        "company_name": "Student Technology Collaborative",
+        "location": "New Haven, Connecticut, United States",
+        "summary": "- Managed development of knowledge base Wiki regarding hardware and software support for students. - Successfully diagnosed and fixed issues across Windows, macOS, and Linux systems utilizing Bash and Powershell scripts.",
+        "starts_at": "Oct 2022",
+        "ends_at": "Oct 2024",
+        "duration": "2 years 1 month"
+      },
+      {
+        "position": "Gerstein Laboratory Research Assistant",
+        "company_url": "https://www.linkedin.com/school/yale-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_100_100/company-logo_100_100/0/1631385636084?e=2147483647&v=beta&t=HJuRQU0iSF6PHT11JcO0lVfn8vylHhAxBNFoDepriXA",
+        "company_name": "Yale University",
+        "location": "New Haven, CT",
+        "summary": "Developed expertise in Large Language Models and Code Generation. Took a pivotal role in building, training, and evaluating these models to consistently achieve industry-leading results.Designed distributed computing infrastructure using AWS, Azure, and on-premise hardware. This infrastructure handled large-scale model training, inference, and scientific workloads. Tools include Docker, Kubernetes, and SQS.Worked closely with researchers from Google DeepMind, among other prominent companies, published pioneering papers in NLP and LLM fields.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Dec 2022",
+        "ends_at": "Sep 2024",
+        "duration": "1 year 10 months"
+      },
+      {
+        "position": "Machine Learning Intern",
+        "company_url": "https://www.linkedin.com/company/deepmedia-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGZjncrqiNgFA/company-logo_100_100/company-logo_100_100/0/1714415359875/deepmedia_ai_logo?e=2147483647&v=beta&t=NKwXwB5q7SkL8vpH1JE72_ASz_KcwtpQ2vKAqJQ0gpY",
+        "company_name": "DeepMedia",
+        "location": "Oakland, California, United States",
+        "summary": "Designed and optimized algorithms for the analysis of  heterogeneous data, including text, video, and audio data. Successfully created machine translation model, with 10% better translation performance than competition. Tools used: Transformers, Python, PyTorch, and Rust.",
+        "starts_at": "Jun 2023",
+        "ends_at": "Dec 2023",
+        "duration": "7 months"
+      },
+      {
+        "position": "Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/thomas-ho-company?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFK95IsRFtWRQ/company-logo_100_100/company-logo_100_100/0/1690836262648/thomas_ho_company_logo?e=2147483647&v=beta&t=zj_VRkX_DgosKhY3gB7q2NjfCc0nqOJbpBTPWqVmmH4",
+        "company_name": "Thomas Ho Company Ltd",
+        "location": "New York, New York, United States",
+        "summary": "- Applied neural networks to assess performance of mortgage loan pricing models. Development based on Python and TensorFlow.- Implemented Extract, Transform, Load (ETL) pipelines for analyzing time series data. Achieved a 30% improvement in data processing efficiency. Used pandas and NumPy.- This work has been published in a prestigious finance handbook (pending publishing)",
+        "starts_at": "Jun 2021",
+        "ends_at": "Aug 2021",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/yale-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Yale University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_100_100/company-logo_100_100/0/1631385636084?e=2147483647&v=beta&t=HJuRQU0iSF6PHT11JcO0lVfn8vylHhAxBNFoDepriXA",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2022 - 2026",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/carmel-high-school-54/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Carmel High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHM1hnAftpOrQ/company-logo_100_100/company-logo_100_100/0/1673639892331/carmel_high_school_54_logo?e=2147483647&v=beta&t=_YN7RNmpjf8ox4jq8ciDxa29CzmXt-F9BFlE_YJQk4U",
+        "college_degree": "High School Diploma",
+        "college_degree_field": "4.57",
+        "college_duration": "2018 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Citadel Securities",
+      "description1_link": "https://www.linkedin.com/company/citadel-securities?trk=public_profile_topcard-current-company",
+      "description2": "Yale University",
+      "description2_link": "https://www.linkedin.com/school/yale-university/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flilbillbiscuit%2Ecom&urlhash=sJVL&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/sarah-konrad-068096269_on-november-20th-i-got-the-life-changing-activity-7275613709102641152-i_OQ",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGmiF-C_GZAjw/feedshare-shrink_2048_1536/B4EZPgsHVcGcAo-/0/1734641481476?e=2147483647&v=beta&t=iiNczgZh6oU8CKgz1AhACRu175tde2L1X8aDsZzsQ1k",
+        "title": "On November 20th, I got the life-changing call from the British Embassy notifying me that I had been selected as a Marshall Scholar for 2025. Three\u2026",
+        "activity": "Liked by Bill Qian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/justinhtech_tech-internship-notion-activity-7224161625316954112-jUlq",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFXst2t02D0bA/feedshare-shrink_800/feedshare-shrink_800/0/1722374348570?e=2147483647&v=beta&t=zrfN5zUzzpKz7xmNh7eAblszZ01Fv2OCsGodjnd46bE",
+        "title": "\ud83d\udce3\ud83d\udce3\ud83d\udce3 Calling all CS students!\n\nNotion has just released their applications for their 2025 Software Engineering internship program. \n\nThis\u2026",
+        "activity": "Liked by Bill Qian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/citadel-llc_discover-citadel-activity-7079511429636132864-Joi8",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQEHMBoMQnCmTA/videocover-high/videocover-high/0/1687886821676/20230511-CIT-TAL-Discover2023-ALL-lowresmp4?e=2147483647&v=beta&t=URxBDfpBnicrevH8DbAtZM9Ge9bpQhfNHUadaI11oTM",
+        "title": "Exposure is critical to helping students identify the right first step in their career. Our Discover Citadel and Citadel Securities program brings\u2026",
+        "activity": "Liked by Bill Qian"
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+        "certification": "Confronting Bias: Thriving Across Our Differences",
+        "company_url": "https://www.linkedin.com/company/linkedin?trk=public_profile_profile-section-card_image-click",
+        "company_name": "LinkedIn",
+        "issue_date": "Issued Jan 2023",
+        "credential_id": "See credential",
+        "credential_url": "https://www.linkedin.com/learning/certificates/e081f2babde4e143c8e715a74c7823096e7a9fb4406f139a64a9bb902a020334?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGLKj3JHcof0w/company-logo_100_100/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=2147483647&v=beta&t=jr8AVurt4Ehlv1Gh9_1ms9Lm4j50Uc_pcVfe3BkKG0A",
+        "certification": "JavaScript Algorithms and Data Structures",
+        "company_url": "https://www.linkedin.com/school/free-code-camp/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "freeCodeCamp",
+        "issue_date": "Issued Jan 2023",
+        "credential_id": "See credential",
+        "credential_url": "https://freecodecamp.org/certification/lilbillbiscuit/javascript-algorithms-and-data-structures?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=2147483647&v=beta&t=OZG6TFGHaiu0-IazkwLYMxAfZ4u_LGMAYSSlnyQp8bY",
+        "certification": "AWS Certified Cloud Practitioner",
+        "company_url": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Amazon Web Services (AWS)",
+        "issue_date": "Issued Oct 2022",
+        "credential_id": "See credential",
+        "credential_url": "https://www.credly.com/badges/671d5505-bdfd-4dd1-9fbf-ccda0a85616a/linked_in_profile?trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://in.linkedin.com/in/pratham-soneja?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Pratham Soneja\n        \n              \n          Day 5 of learning in public \ud83d\ude80 \n\nTraditional fine-tuning methods for large language models often face challenges like high computational requirements, catastrophic forgetting, and single-task specialization. Enter LoRA (Low-Rank Adaptation), a game-changing technique that addresses these limitations, enabling efficient and practical fine-tuning of large language models.\n\nLoRA introduces a novel approach to fine-tuning by adding a small number of task-specific weights to the pre-trained model instead of updating all the weights. Here's how it works:\n\n1. Low-Rank Matrices: For each layer in the pre-trained model, LoRA introduces a pair of low-rank matrices: one for the weights and one for the biases.\n\n2. Adaptation: During fine-tuning, LoRA updates these low-rank matrices instead of modifying the pre-trained weights directly.\n\n3. Composition: At inference time, the low-rank matrices are composed with the pre-trained weights to produce the final, adapted weights for the fine-tuned model.\n\nThe low-rank nature of these matrices is the key to LoRA's efficiency, dramatically reducing the memory and computational requirements for fine-tuning. This makes it possible to adapt large language models even on consumer-grade hardware like CPUs or edge devices.\n\nBut LoRA's advantages don't stop there. It can match or even outperform the performance of full fine-tuning while using far fewer updatable parameters. Additionally, the LoRA updates are reversible, allowing the model to revert to its original state, and composable, enabling a single pre-trained model to be fine-tuned for multiple tasks simultaneously.\n\nTo illustrate the power of LoRA, let's dive into a practical example. Here, I'll demonstrate how to implement LoRA from scratch and fine-tune the DistilBERT model using LoRA on the IMDB dataset for sentiment analysis.\n\nhttps://lnkd.in/g-Tz2NU7\n\nAs you can see, LoRA is a remarkable technique that addresses the limitations of traditional fine-tuning methods, making it more efficient, practical, and versatile. By introducing low-rank, task-specific updates, LoRA enables efficient adaptation while preserving the model's original knowledge and allowing for multi-task specialization.\n\nAs the demand for deploying large language models on resource-constrained devices continues to grow, techniques like LoRA will make these powerful models more accessible and practical.",
+        "location": "4"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/joey-cherisea?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Joey Cherisea\n        \n              \n          AI/ML models have become so popular and work so well today that most people just treat them as a black box that magically does what we want from them. \n\nWhile you may not need to know the nuts and bolts of artificial neural network to use applications like ChatGPT, it's fascinating to dig into its very basic component of neuron -- a mathematical function that simply outputs a number, and wonder how such a simple concept could mimic the functions of our biological brain. \n\nIn this introductory article, I try to explain what they are and what it means when we say they are \"learning\".",
+        "location": "15"
+      },
+      {
+        "link": "https://id.linkedin.com/in/erland-r-ramadhan?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Erland Rachmad Ramadhan\n        \n              \n          It is as Cybenko and Hornik said in \u201890s. You can \u2018densely approximate\u2019 any continuous function on any compact subset of n-dimensional Real space.\n\nIt\u2019s just that we are not thorough implementing the \u2018crucial mathematics aspects\u2019 in current AI development.\n\nAgain, it\u2019s just how we implement the \u2018math\u2019 considering the target \u2018computing architecture\u2019.",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/company/scaleai?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Scale AI\n        \n              \n          LLMs have become more capable with better training and data. But they haven\u2019t figured out how to \u201cthink\u201d through problems at test-time.\n\nThe latest research from Scale finds that simply scaling inference compute\u2013meaning, giving models more time or attempts to solve a problem\u2013is not effective because the attempts are not diverse enough from each other. \n\n\ud83d\udc49 Enter PlanSearch, a novel method for code generation that searches over high-level \"plans\" in natural language to encourage response diversity. PlanSearch enables the model to \u201cthink\u201d through various strategies before generating code, making it more likely to solve the problem correctly.\n\nThe Scale team tested PlanSearch on major coding benchmarks (HumanEval+, MBPP+, and LiveCodeBench) and found it consistently outperforms baselines, particularly in extended search scenarios. Overall performance improves by over 16% on LiveCodeBench from 60.6% to 77%. \n\nHere\u2019s how it works:\n\n\u2705  PlanSearch first generates high-level strategies, or \"plans,\" in natural language before proceeding to code generation. \n\n\u2705  These plans are then further broken down into structured observations and solution sketches, allowing for a wider exploration of possible solutions. This increases diversity, reducing the chance of the model recycling similar ideas.\n\n\u2705  These plans are then combined before settling on the final idea and implementing the solution in code.\n\nEnabling LLMs to reason more deeply at inference time via search is one of the most exciting directions in AI right now. When PlanSearch is paired with filtering techniques\u2014such as submitting only solutions that pass initial tests\u2014we can get better results overall and achieve the top score of 77% with only 10 submission attempts.\n\nBig thanks to all collaborators on this paper including: Evan Wang, Hugh Zhang, Federico Cassano, Catherine Wu, Yunfeng Bai, William Song,  Vaskar Nath, Ziwen H., Sean Hendryx, Summer Yue\n\n\ud83d\udc49 Read the full paper here: arxiv.org/abs/2409.03733",
+        "location": "180\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/anushakalbande?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Anusha Kalbande\n        \n              \n          No 1 on my list of cool stuff in AI for this week  is 'LangFair'\n -  A new Python library designed to assess bias and fairness in LLMs at the use-case level! Unlike traditional evaluation methods like GEval and MMLU, which focus on general model performance, LangFair takes a tailored approach that\u2019s better suited for customized LLMs in real-world scenarios.\n\nWith a Bring Your Own Prompt (BYOP) feature, LangFair enables use-case-specific evaluations across tasks like text generation, classification, and recommendation\u2014going beyond general benchmarks to capture context-specific fairness and bias. Its comprehensive set of metrics, covering toxicity, stereotype associations, and counterfactual fairness, allows for a full-spectrum view of LLM behavior that traditional tools can miss.\n\nI can\u2019t wait to apply LangFair in my own projects and see how it helps manage risks in real-world applications! Huge shoutout to Dylan Bouchard, PhD and the team for bringing this to life. \ud83d\udc4f\n\nhttps://lnkd.in/eaPrhRpa\n\n#AI #LLMs #BiasAndFairness #MachineLearning #LangFair #Python #CVSHealth",
+        "location": "38"
+      },
+      {
+        "link": "https://www.linkedin.com/in/bhalajikg?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Bhalaji K.G.\n        \n              \n          Comet - LLM model monitoring, trace every step along with the evaluation & ranking to see which models provide more value for our problem is really an advantage to stay ahead in the solution offering process.",
+        "location": "1"
+      },
+      {
+        "link": "https://in.linkedin.com/in/raj-abhijit-dandekar-67a33118a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Raj Abhijit Dandekar\n        \n              \n          What society values may not be the best thing for you.\n\nWhen I applied for grad school, I got admits from MIT, Stanford, Purdue, CMU and UIUC.\n\nI knew I wanted to do a PhD.\u00a0I chose MIT immediately, because it was ranked number 1. \n\nI never thought whether it was a good decision or not. \n\nI just assumed that it\u2019s a good decision because it\u2019s rated higher than the other universities.\n\nWhen I joined MIT, all that rank 1 noise disappeared.\n\nAll I was surrounded by was my lab, my lab group members and my advisor. \n\nI had never carefully considered whether this research group was a good fit for me. I just joined the first MIT research group which came my way.\n\nThis led to a miserable first 2 years of PhD for me. \n\nThe group was not a good fit and the research topic was also not a good fit.\n\nThese lost 2 years were a result of choosing what society values more (university ranking) rather than what is a better thing for me.\n\nWhen I look back, I should have done the following:\n\n(1) I should have made a list of all research groups I was interested in, from all universities I was selected to.\n\n(2) I should have spoken with the lab advisor from all these research groups and understood their vision.\n\n(3) I should have learnt more about the group culture by talking to past members of the group. Graduating members are usually very honest. They would tell you if the culture is toxic, if the advisor is micromanaging etc.\n\n(4) I should have looked at the group website to look at the publication rate, what do the alumni end up doing etc? If the average graduation time is 8 years, it\u2019s a red flag.\n\nAfter doing the above 4 things, I should have selected the best research group for me.\n\nI should have selected the research group whose culture aligns well with my personality.\n\nSociety values ranking. \n\nHowever, when you enter the university for a PhD, the ranking does not matter. Your research group matters. What you do every day after waking up matters.\n\nAnd if you blindly select universities based on the ranking, the research group won\u2019t be a good fit and it would lead to a terrible PhD experience.\n\nIt turns out that society misguides people in many other professions including:\n\n- Choosing to prepare for IIT-JEE just because society prefers that you are an IITian\n- Choosing a job just because society prefers higher salary\n- Choosing to not do a startup because the society (your parents) don\u2019t approve\n\nAlways question yourself before blindly making decisions based on what the society values. It might not be the best thing for you.\n\nGoing against traditional societal values is hard in the short term, but it pays off in the long run.\n\nP.S: In the photo, you can see me during my first day at MIT!",
+        "location": "308\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/steve-gerken-67b73910?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Steve Gerken\n        \n              \n          I have my first ever co-authorship on a scientific work!\n\nhttps://lnkd.in/gDuA8dYG\n\nYes, it's a preprint. We all start somewhere.\n\nThis work grew out of a volunteer position I've held for a couple of years, in which I serve on the steering committee of a medical research project. As fancy as that sounds, most of the actual work is document review, reading and marking up governance papers, research proposals, and other such matters. \n\nAnd if there's something programmers do a lot of, it's document review. Ninety percent of programming is writing and editing text files. (To steal from a Yogi, the other half of programming is learning new stuff.) Scientific document review differs somewhat, in that the inputs don't compile and the logic can't be stepped through in a debugger. Instead, the logic needs to be inferred from the text and surrounding context, and then examined for omission or other defect as a primarily mental construct. In that regard it's a little more like embedded work.\n\nIn any case, I'm pleased that in thirty-five years of programming, I've developed and brought to bear some skills for the advancement of scientific knowledge and medicine. Hats off to all my co-authors; together we do what none could do alone.",
+        "location": "6\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://in.linkedin.com/in/debjyoti-paul-6a41ab47?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "DEBJYOTI PAUL\n        \n              \n          If you want to get the most out of your Large Language Models (LLM) applications you need to start think of LLMs  as compound AI System and not just standalone models. \n\nIn a recent interview Sam Altman told \"Something about the way we currently talk about [AI] & think about it feels wrong. Maybe if I had to describe it, we will shift from talking about models to talking about systems. But that will take a while.\"\n\nThe principles of system design and system level thinking is needed at the core to design a fully functional LLM application. Here are some of the examples:\n\n1. LLMs inherently comes with different moving parts like sampling method, tuning temperature, specific instruction finetuning. \n2. LLMs are sensitive to prompt design. Small changes in prompt has show drastic difference in performance.\n3. Small and Focused Language model embedded in a well-designed system has been found to outperform LLMs in simple system.\nMost of the current LLM applications are already implemented along with a RAG system or agentic framework with access to in-context information leading to more accurate and relevant responses.\nWe saw in the deep learning era, adopting a model might require a lot of juggling with hyper-paramaters and fine tuning. In case of LLMs similar principles will apply, where instead of fine tuning we need adaptive optimization of other moving parts like RAG infrastructure, knowledge base, sampling method, prompt design etc. Hence we need to start thinking of the LLM along with these moving parts are \"systems\".\n\nA great talk and paper on this topic by Professor Christopher Potts is provided in the comment.\n\n#LLM #System #RAG #Agents #openai",
+        "location": "29\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/engink?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Engin Kayraklioglu\n        \n              \n          Life is parallel. We multitask in our daily routines without even noticing. We communicate with each other and synchronize. Coincidentally, computer hardware is also parallel. Processing units multitask, communicate, and synchronize. However, programming languages are almost always sequential. Parallelism is something you add on top, based on the kind of parallelism you want to leverage.\n\nIn his ChapelCon '24 keynote, Paul Sathre made a solid case for parallel-first programming languages in day-to-day development and teaching programming. This was an amazing and truly inspiring talk, especially if you are interested in computational science or parallel programming.\n\nI strongly recommend watching Paul's keynote.",
+        "location": "14"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vijoy?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vijoy Pandey\n        \n              \n          6 papers at NeurIPS!!\n\nEver since I walked through Jeff Dean's seminal presentation on \"ML for Systems and Systems for ML\" at NIPS '17 (it was NIPS before it became NeurIPS), I have been fascinated by how many ground-breaking research papers are presented at this conference [1]. \n\nKnowing this fact, I am very proud to share that our Cisco Research team has 6 papers accepted at NeurIPS 2024! The research papers accepted span critical areas, including AI privacy, security, compliance, problem-solving, content protection, and infrastructure management. \n\nCongratulations, team. You're highlighting Cisco's commitment to pushing the boundaries of AI! \nAli Payani, Ashish Kundu, Ph.D., Gaowen Liu, Jayanth Srinivasa,  Myungjin Lee, Ramana Kompella\n\n[1] PS: That Jeff Dean paper also started the whole \"X for AI and AI for X\" narrative which is super cliched and commonplace nowadays. Where X could be Software, Security, Systems, Networking, Compute, Cloud etc. Paper linked comments. \nhttps://lnkd.in/gnxVaaiG  \n#NeurIPS2024 #AIResearch\u00a0#OutshiftbyCisco",
+        "location": "52\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/modatlasmedia?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Christian Ortiz \u270a\ud83c\udffd\n        \n              \n          Okay so Luma AI is generating impressive work, but you know when we talk about bias and racism within AI, I have to put it through the test. \n\nToday, I used the following prompt using Luma AI: \n\n\"A Latino Indigenous man addressing the crowd as the first Latino Indigenous President of the United States. He is speaking to millions of people. Start the camera on him, and then pan out to show the crowd.\"\n\nThis straightforward prompt resulted in a \"Failed to create generation for requested prompt\" response. \n\nThis raises several important questions for me: \n1.) Is this a security measure? \n2.)Does Luma AI believe that people are incapable of discerning that these are AI-generated videos and could misuse them? \n3.) Or is there an underlying reluctance to present people of color in positions of such high esteem?\n\nTo explore this further, I adjusted the prompt to:\n\n\"A Latino Indigenous man in a suit speaking to a large crowd in front of the US Capitol.\"\n\nThis prompt was accepted, and the video was successfully generated.  (See Comments for video)\n\nThis discrepancy prompts the critical question: Why can an AI represent a Latino man in a suit addressing a crowd at the Capitol but not as the President? If the initial prompt's failure is due to specific policies, transparency is necessary. Exact reasons should be provided for such denials, especially because representation matters profoundly, even in hypothetical scenarios.\n\nThe ability for users to envision and portray marginalized communities in prestigious roles is essential for fostering inclusivity and breaking down systemic biases. \n\nThis incident suggests an implicit bias in how AI platforms determine acceptable scenarios, highlighting the urgent need for AI companies to reassess their algorithms and ensure they support diverse and equitable representations.\n\n#lumaai #oyemira #representation #biasinai #aibias #justiceai",
+        "location": "4\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/prajwal-landge-057aa2159?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Prajwal Landge\n        \n              \n          \ud83c\udf4e Building an AI-Powered Calorie Counter with Hugging Face Spaces \ud83d\ude80\nDeploying Large Language Models (LLMs) for real-world applications can be tricky, but Hugging Face Spaces makes it effortless! I\u2019m excited to share my latest Medium blog, where I detail how I created an AI-powered calorie counter app \ud83e\udd57 using Hugging Face Spaces.\n\ud83d\udca1 Why Hugging Face Spaces?\n Traditional LLM deployment involves challenges like:\n\u2699\ufe0f Managing hardware and infrastructure.\n\ud83d\udcc8 Scaling apps for high traffic.\n\ud83d\udda5\ufe0f Building intuitive user interfaces.\nHugging Face Spaces tackles these head-on with:\n\u26a1 Quick Deployment: Get started with frameworks like Gradio in minutes.\n\ud83d\udee0\ufe0f Managed Infrastructure: Handles hardware, scaling, and backend setup.\n\ud83c\udf10 Instant Sharing: Generates a public link to showcase your app effortlessly.\n\u2728 How My App Works\n Using image-to-text models, my app identifies food items from photos \ud83d\udcf8 and delivers detailed nutritional insights like calorie, fat, and carb counts. Hugging Face Spaces enabled me to focus on building the app\u2019s core features while taking care of the backend complexities.\n\ud83d\udd17 Explore the Full Journey\n In my Medium blog, I cover:\n 1\ufe0f\u20e3 The step-by-step guide to deploying the calorie counter app.\n 2\ufe0f\u20e3 Challenges in hosting LLMs and how Spaces resolves them.\n 3\ufe0f\u20e3 Tips for creating scalable, user-friendly AI apps.\n\ud83d\udcd6 Read the blog here: https://lnkd.in/dxb9uR-S \u00a0\n \ud83d\udcbb Try the calorie counter app and see my other projects here: \nhttps://lnkd.in/durbADd2\n\nHugging Face Spaces is a game-changer for developers and researchers, democratizing access to powerful AI tools. Whether you're building a calorie tracker, chatbot, or any innovative solution, this platform has you covered! \ud83d\udca1\n\ud83d\udcac Let me know what you think, and feel free to share ideas for future projects!\n#AI #MachineLearning #LLM #HuggingFace #CalorieCounter #Innovation #Tech",
+        "location": "17"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nutan-sahoo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nutan Sahoo\n        \n              \n          Ever ran into numerical errors while doing matrix computations?\n\nRecently, I was using Mahalanobis distance, to determine how similar a sentence is to a reference text. To my surprise, some of the distances came out to be NANs. This means there were negative values inside the square root:\n\ud835\udde0\ud835\uddee\ud835\uddf5\ud835\uddee\ud835\uddf9\ud835\uddee\ud835\uddfb\ud835\uddfc\ud835\uddef\ud835\uddf6\ud835\ude00 \ud835\uddf1\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2 = \ud835\ude00\ud835\uddfe\ud835\uddff\ud835\ude01((\ud835\uddec - \ud835\uddfa\ud835\ude02)^\ud835\udde7 * \ud835\uddf6\ud835\uddfb\ud835\ude03(\ud835\udde6\ud835\uddf6\ud835\uddf4\ud835\uddfa\ud835\uddee) * (\ud835\uddec - \ud835\uddfa\ud835\ude02)), \nmu is the centroid of X (data matrix containing the embeddings of some reference text), and Sigma is the covariance matrix of X.\n\nAfter some investigation, I realized that the issue arose while inverting the covariance matrix.\n\n\ud835\uddea\ud835\uddf5\ud835\ude06 \ud835\uddf1\ud835\uddf6\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddf5\ud835\uddee\ud835\uddfd\ud835\uddfd\ud835\uddf2\ud835\uddfb?\n\nIf the values inside the covariance matrix are very small, it can lead to numerical instability when computing its inverse. This is because very small values can cause the matrix to be nearly singular (i.e., close to having a determinant of zero).\n\nTo mitigate this, add a very small value (say, 0.00001) to the diagonal of the covariance matrix. This is also known as the Tikhonov regularization:",
+        "location": "82"
+      },
+      {
+        "link": "https://in.linkedin.com/in/poojapalod?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Pooja Palod\n        \n              \n          \u00a0Focal Loss vs. Cross-Entropy Loss:\n\nImagine you\u2019re a student. Some subjects are easy, and some are hard. Think of your grades as a way of showing how well you\u2019re learning. In deep learning, models learn using tools like cross-entropy loss and focal loss.\n\n\ud83d\udd0d Cross-Entropy Loss: Treating Everything Equally\nCross-entropy loss is like looking at your grades across all subjects and averaging them. It doesn\u2019t pay special attention to the subjects you struggle with; it just looks at everything the same way. This works fine if all your subjects are equally hard, but it doesn\u2019t help much if you\u2019re consistently struggling in one area.\n\n\ud83d\udca1 Focal Loss: Focusing on the Tough Subjects\nNow, think of focal loss as your teacher advising you to focus more on the subjects where you\u2019re struggling and less on the ones where you\u2019re already doing well. Focal loss helps you improve where you need it most, leading to better overall performance.\n\n\ud83c\udfc6 The Difference\nCross-Entropy Loss: Treats all subjects equally, giving you an average score.\nFocal Loss: Helps you focus on the difficult subjects, so you can improve where it matters.\n\n\ud83c\udfaf The Takeaway\n\nJust like in school, it\u2019s important to know where to focus your efforts. Cross-entropy loss keeps track of your overall performance, while focal loss helps you improve in the areas where you struggle. Both are important, but focusing on the hard parts can lead to real growth and success.\n\nCheck out this article to learn more .Happy learning!\n\n#DeepLearning #AI #FocalLoss #CrossEntropy #Learning #StudentLife",
+        "location": "42\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kurtcagle?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Kurt Cagle\n        \n              \n          This points to something I saw a few weeks ago at an AI conference here in Seattle. One presenter talked about neural net patterns that were much closer in structure to the way that neurons in our brain work, essentially reducing or even eliminating the back-propagation layer in favor of a trained stateful neuron system. It's both faster and requires far less energy to do many of the same the same things that one would use transformers for.\n\nOverall, this is what we need to be focusing on. It's becoming obvious that the transformer model architecture is simply not scalable - financial, ecologically, or even physically. What is beginning to emerge (and sadly getting far less funding) are some truly remarkable ways of building neural nets that don't require half the planet to run.",
+        "location": "69\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/harsh-bhatt-8638041b1?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Harsh Bhatt\n        \n              \n          Let's go",
+        "location": "7"
+      },
+      {
+        "link": "https://www.linkedin.com/in/rakshitbhardwaaj?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Rakshit Bhardwaj\n        \n              \n          Exploring the two leading large language models (LLMs) \u2014 Anthropic\u2019s Claude 3 and OpenAI\u2019s GPT-4. I delve into their strengths, weaknesses, and how they stack up against each other.\n\nClaude 3\u00a0boasts impressive capabilities, including three sizes for tailored use cases and advanced skills for completing extensive tasks. However, access to its different models varies.\n\nGPT-4, on the other hand, offers a vast feature set, including diverse tasks, multimodal analysis, and human-like responses across 25+ languages. Access requires an OpenAI Plus subscription.\n\n\nIn terms of performance, Claude 3 Opus outperforms the base GPT-4 model but falls behind GPT-4 Turbo. When it comes to input/output, Claude 3 analyzes text and visuals and generates textual outputs only, while GPT-4 analyzes text, visuals, audio, and generates textual or visual outputs.\nFor those seeking a customizable AI assistant with features exceeding both Claude 3 and GPT-4, TextCortex\u2019s ZenoChat offers a compelling solution.\n\n\nWhile both Claude 3 and GPT-4 are powerful LLMs, their strengths lie in different areas. Consider your specific needs \u2014 performance, input/output types, or prompt following \u2014 to determine the ideal choice for you. If customizability is a priority, ZenoChat emerges as a strong contender.",
+        "location": "19\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://th.linkedin.com/in/siwarat-laoprom-69608226a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Siwarat Laoprom\n        \n              \n          Hi, Soccer here! \ud83d\udc4b\n\nI just published a new blog post on Medium this week where I dive into one of the foundational concepts in robotics: Rodney Brooks' \u201cIntelligence Without Representation.\u201d \ud83d\ude80\n\nThis theory challenges traditional approaches to AI, focusing on how intelligent behavior can emerge without complex internal models. \ud83e\udd16 \n\nCheck it out here \ud83d\udc47\n- https://lnkd.in/gZ-3nbjG\n\n#Robotics #AI #ArtificialIntelligence #IntelligenceWithoutRepresentation #RodneyBrooks #Innovation #TechExploration",
+        "location": "6"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/bill-qian-615065196?trk=public_profile_samename-profile",
+        "name": "Bill Qian",
+        "summary": "",
+        "location": "Greater Houston"
+      },
+      {
+        "link": "https://www.linkedin.com/in/williamqian1?trk=public_profile_samename-profile",
+        "name": "William Qian",
+        "summary": "Economics & Statistics and Data Science @ Yale '28",
+        "location": "El Paso, TX"
+      },
+      {
+        "link": "https://www.linkedin.com/in/bill-qian-1290a320?trk=public_profile_samename-profile",
+        "name": "Bill Qian",
+        "summary": "Owner, Runfa",
+        "location": "Los Gatos, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/bill-qian-23297b163?trk=public_profile_samename-profile",
+        "name": "Bill Qian",
+        "summary": "Assistant Professor at Wenzhou University",
+        "location": "Goleta, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Data Structures and Programming Techniques"
+      },
+      {
+        "name": "Discrete Mathematics"
+      },
+      {
+        "name": "Introduction to Microeconomic Analysis"
+      },
+      {
+        "name": "Object Oriented Programming"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+        "duration": "Feb 2023"
+      },
+      {
+        "title": "BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge",
+        "duration": "Jan 2022"
+      },
+      {
+        "title": "ToolLLaMA-UI",
+        "duration": "-"
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

@@ -1,0 +1,121 @@
+                  [About](/about)
+                        [What Happens at YC?](/about)
+                        [Apply](/apply)
+                        [YC Interview Guide](/interviews)
+                        [FAQ](/faq)
+                        [People](/people)
+                        [YC Blog](/blog)
+                  [Companies](/companies)
+                        [Startup Directory](/companies)
+                        [Founder Directory](/companies/founders)
+                        [Launch YC](/launches)
+                  [Startup Jobs](/jobs)
+                        [All Jobs](/jobs)
+                        [◦ Engineering](/jobs/role/software-engineer)
+                        [◦ Operations](/jobs/role/operations)
+                        [◦ Marketing](/jobs/role/marketing)
+                        [◦ Sales](/jobs/role/sales)
+                        [Startup Job Guide](/startup-job-guide)
+                        [YC Startup Jobs Blog](/blog/jobs)
+                  [Find a Co-Founder](/cofounder-matching)
+                  [Library](/library)
+                  [SAFE](/documents)
+                  [Resources](/library)
+                        [Startup School](https://startupschool.org?utm_source=yc&utm_campaign=ycdc_header)
+                        [Newsletter](/subscribe)
+                        [For Investors](/investors)
+                        [Hacker News](https://news.ycombinator.com/)
+                        [Bookface](https://bookface.ycombinator.com)
+                  Open main menu
+                Apply for
+                  X2025
+                  batch.
+          [Home](/home)
+          ›
+          General Analysis
+                  Automated AI Safety and Red Teaming Tools
+                          Y Combinator Logo
+                        S24
+                    artificial-intelligence
+                    saas
+                    trust-&-safety
+                    San Francisco
+                    [Company](/companies/general-analysis)
+                    [Jobs](/companies/general-analysis/jobs)
+                    0
+                    https://generalanalysis.com
+                General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks—financial, ethical, and otherwise—where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness.
+                  Founded:
+                  2024
+                  Team Size:
+                  2
+                  Status:
+                  Location:
+                  Group Partner:
+                  [Jared Friedman](https://www.ycombinator.com/people/jared-friedman)
+            Active Founders
+                Rez Havaei
+                  Rez is the Co-Founder and CEO @ General Analysis. Previously he worked at Jane Street as a trader, as well as NVIDIA and Cohere as an AI researcher. He also helped build an LLM evaluation platform and benchmark at vals.ai as the founding engineer.
+          Company Launches
+            General Analysis: Finding Failure Modes for AI Models
+            [See original launch post ›](/launches/Mey-general-analysis-finding-failure-modes-for-ai-models)
+              TL;DR
+              General Analysis provides safety and performance reports for enterprise AI models, offering businesses clear insights into model vulnerabilities. Using a growing repository of automated red-teaming, jailbreaking, and interpretability techniques, we uncover and address critical failure modes.
+              Challenge
+              As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks—financial, ethical, and otherwise—where errors can lead to substantial consequences. We predict that a large percentage of the world’s cognitive tasks will soon be performed by AI systems across industries. However, this shift brings critical challenges:
+                  Safety and performance efforts are not keeping pace with AI capabilities:
+                  Research and tools to evaluate AI systems have not kept up with the complexity and impact of modern models.
+                  The field is fragmented:
+                  Approaches to AI safety and evaluation are scattered, lacking a unified framework.
+                  Methods lack scalability and automation:
+                  Many current techniques are labor-intensive and fail to provide consistent, repeatable insights at scale.
+              Our approach
+              To address these challenges, we offer access to a unified set of tools and methodologies designed to systematically find model failure modes and enhance model robustness.
+                  Providing Comprehensive Safety and Performance Reports:
+                  We deliver detailed reports to our customers, identifying novel failure modes in their models and providing actionable methods to mitigate them.
+                  A Living Knowledge Base:
+                  Our repository collects and refines evaluation techniques while keeping pace with emerging exploits and vulnerabilities. This ensures our tools remain effective and relevant across diverse industries and evolving AI applications.
+              An example of our work: Eliciting legal hallucinations in GPT-4o
+              In our recent work, we show how GPT-4o is susceptible to hallucinating when asked about certain legal cases or concepts. The
+                [report, data and code are publicly available.](https://github.com/General-Analysis/GA)
+              We train an attacker model that causes GPT-4o to hallucinate on more than 35% of prompts on a diverse set of legal questions.
+              Learn more at
+                [generalanlysis.com](http://generalanalysis.com)
+                or read the full report
+                [here](https://generalanalysis.com/blog/legal_ai_red_teaming)
+                .
+                We are looking to connect with:
+                Startups creating LLMs or AI Agents in different sectors (Customer Support, Legal Tech, Medicine, foundation models) for design partnerships.
+                AI Safety, Interpretability, and Evaluation Researchers.
+              If you are interested in working with us or just want to chat please email us at
+                [founders@generalanalysis.com](https://mailto:founders@generalanalysis.com)
+          Other Company Launches
+          Kart AI: The AI shopping assistant for all e-commerce brands
+          We build assistants like Amazon Rufus for your catalog.
+          [Read Launch ›](/launches/Lkt-kart-ai-the-ai-shopping-assistant-for-all-e-commerce-brands)
+          Kart AI – Your new electronics shopping assistant
+          We help you find and compare electronic products.
+      Footer
+              Y Combinator
+              Programs
+                  [YC Program](/about)
+                  [Work at a Startup](/jobs)
+                  [Co-Founder Matching](/cofounder-matching)
+                  [Contact](/contact)
+                  [Press](/press)
+                  [Careers](/careers)
+                  [Privacy Policy](/legal#privacy)
+                  [Notice at Collection](/legal#notice-at-collection)
+                  [Security](/security)
+                  [Terms of Use](/legal#tou)
+                  [Startup Library](/library)
+                  [Investors](/investors)
+                  [YC Deals](https://deals.ycombinator.com)
+            Make something people want.
+              Twitter
+              Facebook
+              Instagram
+              LinkedIn
+              Youtube
+                YouTube
+          ©

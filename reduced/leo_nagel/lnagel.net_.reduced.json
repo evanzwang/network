@@ -1,0 +1,48 @@
+{
+  "title": "Leo Nagel",
+  "meta_description": "",
+  "main_content": "About Me Hi, I'm Leo Nagel. My current focus is on GPU kernels, but I am equally fascinated by quantitative finance, computing theory, mathematics, and physics. I'm German and I live in Berkeley, California. I've spent about 8 years of my life in Germany, 10 years in China, and coming up on 2 years in the United States. I enjoy playing chess and hiking up the Berkeley Hills (at night, especially). Projects cuBogo Collaborated with Bradley Hsu to develop the fastest bogosort implementation (measured by permutations per second) ever run on a single device. This involved optimizing a custom CUDA (C++) kernel for the Nvidia H100, and an article detailing the work is coming soon! cuDream Rewriting DreamCoder to leverage GPU optimizations using CUDA (C++) and PTX. This project aims to make the system significantly faster and more efficient. cuPrimes Developing a custom kernel to perform the Fermat test of pseudo-primality . This implementation incorporates the Sch\u00f6nhage-Strassen algorithm for long integer multiplication and a highly optimized Fast Fourier Transform using Nvidia H100 tensor cores . Education University of California, Berkeley B. Sc. in Electrical Engineering & Computer Sciences Class of 2025 Achievements Berkeley Trading Invitational 2024: Placed first out of 130+ participants in this quantitative finance competition. The Residency : Participated in Chapter 3 during the summer of 2024. Global Society of Young Physicists : Founded a physics nonprofit that organizes a summer program and publishes a journal in 2022. Contact If you're interested in collaborating or have any questions (or want to challenge me in chess), feel free to reach out! Always happy to bring more people on for my projects! Email: leo (at) lnagel (dot) net LinkedIn: linkedin.com/in/leonhardn X (formerly Twitter): x.com/leo_nagel_",
+  "links": [
+    {
+      "url": "https://bradleyhsu.com/",
+      "text": "Bradley Hsu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bogosort",
+      "text": "bogosort"
+    },
+    {
+      "url": "https://arxiv.org/abs/2006.08381",
+      "text": "DreamCoder"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fermat_pseudoprime",
+      "text": "Fermat test of pseudo-primality"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/BF02242355",
+      "text": "Sch\u00f6nhage-Strassen algorithm"
+    },
+    {
+      "url": "https://arxiv.org/abs/2104.11471",
+      "text": "Fast Fourier Transform using Nvidia H100 tensor cores"
+    },
+    {
+      "url": "https://www.livetheresidency.com/",
+      "text": "The Residency"
+    },
+    {
+      "url": "https://www.gsyp.xyz",
+      "text": "Global Society of Young Physicists"
+    },
+    {
+      "url": "https://www.linkedin.com/in/leonhardn/",
+      "text": "linkedin.com/in/leonhardn"
+    },
+    {
+      "url": "https://x.com/leo_nagel_",
+      "text": "x.com/leo_nagel_"
+    }
+  ],
+  "images": []
+}

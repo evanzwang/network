@@ -1,0 +1,5408 @@
+{
+  "title": "6.205: Digital Systems Laboratory I",
+  "meta_description": "",
+  "main_content": "Final Project Archive Projects of Yesteryear You are not logged in. Please Log In for full access to the web site. Note that this link will take you to an external site ( https://shimmer.mit.edu ) to authenticate, and then you will be redirected back to this page. Fall 2023 Walkie Talkie FPGA Keawe Mann, Khang Le, Khoa Huynh video report Glow Trails on FPGA Kiran Vuksanaj, Eugeniya Artemova video report 13.56 MHz RFID Emulator Matthew Cox, Nathan Shwatal video report DigiSketch Lydia Patterson, Edwin O. Ouko, Fahnmusa J. Edwards video report FPGA Minigolf Sebastien Lohier, Abhinav Goel, Lawrence Shi video report FPGA-based Accelerator for Vector Search Lasya Balachandran, Sanjay Seshan video report Riscalar Bill Wang, Catherine Tang video report RISCY ML Armando Moncada, Lee Morgan video report RSA FPGA Implementation Joseph Kim, Stephen Campbell video report FencePGA Gaurab Das, Muhender Raj Rajvee video report Poor Man\u2019s VR: Raymarching with Stereoscopic Offset and Gyroscopic Control Marco Andrade, Aidan Zev Blum Levine, Aidan Zev Blum Levine video report SIFTPGA Evelyn Fu, Shruti Garg video report FPGA-Based Real-Time ADS-B Scanner Youran Gao, Hasan Zeki Y\u0131ld\u0131z, Yichen Gao video report Minimalist GPU on an FPGA Laker Newhouse, Hanfei Cui video report RFID Duplicator Kyle Heinz, Walter Truitt, Christina Crow video report Photomosaica Andrew Weinfeld, Marilyn Meyers, Isaac (Zack) Duitz video report Flat Earth Project Nathan Jones, Samuel Calvert, Sawyer Sands video report Orca: Optimized RISC-V Cryptographic Accelerator Kosi Nwabueze, Haoran Wen video report Frito: an FPGA Chip-8 Multiplexing Emulator Linh Nguyen, Vetri Vel, Vetri Vel video report FPGA Royale Final Report Maxwell Jiang, Frederick Tang video report Digital Sundial Final Project Report Moaaz Fayumy, Asaad Mohammedsaleh, Hamza Raniwala video report PictoChatGPA \u2013 Real-Time Draw Sharing On Low-Level Hardware Fatema Zaman, Abdullah Negm video report FPGA Autonomus Vehicle Juan Antonio Luera, Juan Angel Luera, Manuel Valencia video report Finding, Parsing, and Generating Audio Transcriptions Monica Chan, Cynthia Zhang, Ian Hueston video report FPGA Video Dithering Nadia Frieden, Erin Zhang video report Feline Programmable Gate Array Andi Qu, Richard Beattie video report Fitness Program of Guided Activities Ayyub Abdulrezak, Esha Ranade video report Aurras: Active Environmental Noise Cancellation Using an FPGA Matthew Caren, Bryan Jangeesingh, Jonas Rajagopal video report Crappy Car Simulator Teonezcayotl GutieRuiz, Jose H. Cerritos Arevalo video report Bespoke: an ONNX to FPGA compiler for Rapid Development of ML Stream Processors Thelonious Cooper video report VOXOS: Vocoder on FPGA Andrew Li video report FPGesture\u2013Controlled Video Enhancement Soojung Bae, Jorge Tomaylla Eme video report MOS6502 Final Report Kelly Xu, Jan Strzeszynski video report Anglerfish: A Novel Pacing System for Swimmers with Stereo Camera Tracking Brian Li, Viveca Pannell video report Nintendo Etherstream Vassilios Kaxiras, Christine Imogu, Karen Liberman video report 3D PONG! Zitong Chen, Eugene Lee video report Real-Time Interactive Block World Bowen Wu, Ali Cy video report 3D Model Interfacing Final Report Ryan Xiao, Jessica Pan, Annie Giroux video report FPGA QR Code Scanner Final Report M.Subhi Abo Rdan, Ayana Alemayehu video report NeuroVision: A Neuromorphic Computing Accelerator for Image Processing Franck Belemkoabga video report Fall 2022 FPGA Digital Audio Workstation Charalampos Georgiou and Nader Jemel video report Audio Transmission via S/PDIF over TOSLINK Eric Bui, Alyssa Keirn, and Luis Martinez video report Beat Saber Shreya Karpoor, Darren Lim, and Monica Liu video report Radio Society Defense Network Oliver Trevor video report Stealthoscope Sophie Guo, Kevin Qian, and Maggie Zhang video report TOT (Terminal-on-TOT) Stephen Kandeh and Julio Rodriguez video report FPGA Virtual Lightboard Ivy Liu and Melissa Stok video report Waveshine Jonas Cameron and Aklilu Aron video report FPGA Fractal Ray Marcher Thanadol Chomphoochan and Dillon DuPont video report A Really Long Extension Cord: Final Report Miles Silva and Jordan Wilke video report FPGA Accelerated Tactile Sensing Textiles Austin White and Tiffany Louie video report H.264 Video Compression and Transmission Elena Su and Reinaldo Figueroa video report F.A.V.S. - FPGA Audio Visual Synthesizer Andrew Sepulveda and Jenzel Freeman video report Nonogram Solver Nina Gerszberg, Veronica Grant, and Dana Rubin video report FPGA 360 Kailas Kahler and Ritik Patnaik video report Medium Distance Livestream with Shape Detection Robin Mia Tian and Brady Sullivan video report SpeedyAR Max Katz-Chrsity and Miles Kaming-Thanassi video report Bit by Bit: An FPGA-assisted Bitcoin Miner Sabiyyah Ali and Joshua Herrera video report FPGArio Kart Preliminary Report Kiersten Mitzel and Ragulan Sivakumar video report FPGA-Based \u201cSounds of Music\u201d Sahil Pontula and Benjamin Wu video report Undertale on FPGA Shun Yoshikawa video report The Soul Reader Nick Hougardy video report XILINX Shuffle Alex Abate and Samuel Kravtiz video report REND3R: Raytracing Engine and Networked Device for 3D Rendering Dev Chheda and Moruph Osuolale video report Adversarial Tetris Aishah Jones and Elmer Cruz video report Loading Dock Orchestra Tanner Packham and Tzu-An Sheng video report FPGA Photobooth Diego Rodriguez, Ellie Rabenold, and Kojo Anane-Fordjour video report Xilinx FPGA Augmented Reality Cards Omozusi Guobadia and Ezra Kang video report SkyLocator Masarah Ahmadhussein, Vanessa Gonzalez, and Lejla Skelic video report FPGA Omnichord Rachel Chae and Keilee Northcutt video report FPGAbility: Spatially-Aware Writing Annie Liu and Kristoff Misquitta video report High Frequency Trading on FPGA Kaustubh Dighe video report On-Chip Neural Chess Analyzer (ONe-ChAn) Haihan Wu and Muhammad Abdullah video report Mirror Me Janette (Jan) Park and Thienan Nguyen video report Fall 2021 SLIME: Single Lonely Instrumentalist Music Enhancer Michal Szurek and Carine You video report Infinite Run Lili Sun and Alex Studer video report Battleship Kade Bose and Edward Jin video report day-of-Flight Planning Guidance Simulator (FPGA) Pranav Arunandhi and Sophia Wang video report Gesture Controlled Music Player Elaine Pham and Tiffany Tran video report Acoustic Levitator William Luo and David Li video report Sound Localization Joseph Feld and John Poliniak video report Digital Storage Oscilloscope Rolando Gonzalez video report Nonogrammer: A Nonogram Platform for FPGA Adrianna Wojtyna and Joules Ferguson video report ENIGMA on an FPGA Bianca Hanly and Sabina Tontici video report Dig Dug Leif Clark and Rachel Anderson video report FPGA Light Zapper Aiden Padilla and Griffin Duffy video report FPGA-Time Peyton Shields and Jade Sund video report Fall 2020 Overcooked: Food-programmable Gate Array Lacthu Vu, Kye Burchard, and Julia Arnold video report FPGAmp20 Dongjoon Lee and Allan Garcia-Zych video report Grid Shuffle Amadou Bah and Mussie Demisse video report 3D Music Visualizer Miguel Gomez and Nancy Vargas video report Sign Language Translator Marc Felix and Deb Torres video report Network Attached Laser Projector Fischer Moseley and Jay Lang video report FPGA: Fast Paced Gameplay Automator Jaeyoung Jung and Silvia Knappe video report Internet Controlled Robot Babuabel Wanyeki and Brandon Perez video report FPGA-based Artificial Intelligence: A Low-Latency FPGA MNIST Digit Classifier Syamantak Payra video report FPGA Digital Audio Workstation Julian Espada and Nathan Ramesh video report SpaceSynth Prajwal Tumkur Mahesh and Sage Simhon video report KABOOM Devin Murphy, Emma Griffiths, and Willie Zhu video report Image Feature Detection and Matching Matthew Conover video report Tiny World: A Verilog Life Simulation Game Albert Garcia, Mario Peraza, and Nailah Smith video report FPGAirPods: Implementing Active Noise Cancellation on a Xilinx Artix-7 FPGA Ben Kettle, Nicholas Ramirez, and Gokul Kolady video report The Game of Go on Two FPGAs Bill Kusters and Josh Talbot video report FPGA based GPS Receiver Pedro Sales and Osvy Rodriguez video report NES Audio Synthesizer Jackson Snowden and Victor Oliveira video report Sound Localization Matt Bradford and Alex Craig video report Instantaneous Frequency Estimation and Data Conversion for IEPE-compatible Transducers \u0141ukasz Huchel video report Fall 2019 Mario Bros Classic in Real Life Isabelle Chong, Jose Guajardo, and Nancy Hidalgo video report Stereoscopic Observation System (SOS) Jeana Choi, Ryan Mansilla, and Leilani Trautman video report Gim\u2019s Labyrinth Gian Delfin, Vivian Huang, and Luis Terrones-Verastegui video report Gesture Control Fighting Game Ray Dedhia, Diana Hernandez, and Petra Hernandez report Dance Dance Revolution Andrea Bolivar Matos and Grace Quaratiello report Freeform Production of Gorgeous Audio Jacob Pritzker and Rahul Yesantharao video report FPGA Software Define Radio (SDR) Colin Chaney and Charles Lindsay video report Chase-bot Emmanuel Havugimana and Shuto Ogihara video report FPGA Minesweeper Roderick Bayliss and Brandon John report QAM Receiver for Video Signals from a Quadcopter Camera James Abel and Jacob McGuire report FPGA RFID Utility Miles Dai and Hannah Field video report An Electronic Drum Evan Gabhart, Roberto Gauna, and Benjamin Sheffer report E.D.I.T.H. Olutimilehin Omotunde and Roberto Ramirez video report The DiGuitar Ishaan Govindarajan and Eric Pence video report FPGA Ray Tracer Cecelia Chu and Parker Huntington video report FPGA Piano-Playing Robot Brendan Ashworth, Max Hardy, and Anthony Nardomarino video report FPGA Light Controller Rhian Chavez and Miles Johnson report FPGA Auto-Tune Kika Arias and Elaine Ng report Nintendo Entertainment System Emulation Israel Bonilla, Sidne Gregory, and Daniel Klahn report An HFT Accelerator Endrias Kahssay, Natnael Kahssay, and Ziheng Wang report FPGuitAr Hero Alejandro Diaz and Sarah Spector video report The Beep Boop 9000 Matthew Johnston, Tyler Moroso, and Brandon Motes report digitEyes Kendall Garner and Claire Traweek video report 3D Tetris Charity Midenyo, Jenessa Rodriguez, and Bradley Seymour report Pepper\u2019s Ghost Approximation Jeremy McCulloch, Adam Potter, and Sreya Vangara video report ChessAI - Real Life Chess against AI Grayson King and Bahrudin Trbalic report FPGA Brushless Motor Controller Jackson Gray and Aaron Yeiser report Fall 2018 FPGA Qubit Package Megan Yamoah and Francisca Vasconcelos video report Robotic Air Hockey Katherine Camenzind, Alexander Huang, and Xavier Zapien video report Verilog Sudoku Solver Magson Gao and Shreeyam Kacker video report Check Yourself Suzanne O'Meara, Elijah Stanger-Jones, and August Trollback video report Encrypted Communications over Ethernet Ashley Hyo Won Kim and Mark Theng video report Laser Cyclops Carlos Cuevas and Cody Winkleblack report Hardware Neural Net Entertainment System (HNES) Sebastian Bartlett and Joshua Noel report Digital Supersaw Synthesizer Jacob Brown and Isabelle Liu video report Spherical Persistence of Vision Display Noah Moroze and Luis Torres video report FPGA 6-DOF Motion Platform Kaname Favier, Cameron Ordone, and Adam Rodriguez report Interactive Minecraft Alexis Camacho and Chenkai Mao video report Bitcoin Script Validation Accelerator Jonathan Buschel and James Lovejoy report AirPong Sabina Chen, Bret Heaslet, and David Mueller report Auditory Localization Keshav Gupta and Francis Wang video report Audio Laser Light Show Samuel Cherna, Joshua Gruenstein, and Matthew Reeve video report Scream-y Bird Joanna Sands and Margaret Sands video report FPGA Fruit Ninja Nadia Salahuddin and Lydia Sun video report Basic Processor Bradley Jomard and Quinn Magendanz report Self Balancing Voice Controlled Robot Dominik Martinez and Alexander Peraire-Bueno report FPGA Camera-Controlled Traffic Lights Jessica Quaye and Premila Rowles report MAMBO - Multiplayer Arrow Matching Ballroom Orchestrator James Bloxham and Matthew Tung video report FPGA Tuner Jeremy Sogo video report Audio Controlled Levitator Raul Largaespada and David Mejorado video report Gesture Controlled Music Playback System Jenny Li and Shana Mathew video report The Music Box Phoebe Piercy and Elina Sendonaris abstract presentation video proposal checklist report FPGA Synthesizer Sarah Pohorecky abstract presentation proposal checklist report Fall 2017 Motion Controlled Driving Game Venita Boodhoo, Janie Liu, and Jing Wang abstract presentation proposal checklist report DDR Pad-Controlled Game Aradhana Adhikari, Victoria Ouyang, and Davis Tran abstract presentation video proposal checklist report Computer Vision Pipeline For Motion Tracking Felipe Hofmann and Kevin Zhang abstract presentation video proposal checklist report Fast N-body Simulation And Display Scott McCuen and Kade Phillips abstract presentation checklist report FPGA iPad Alexander Leffell and Sienna Ramos abstract presentation proposal checklist report JAW dropping Visual Effects via Audio Spectral Analysis Julian Chacon-Castano, Aaron Wubshet, and Wings Yeung abstract presentation video proposal checklist report PAC-MAN Extrememeeeeeeee!!!! Kimberly Dauber and Rachael Devlin abstract video checklist report Modular Capacitive TouchPads Aaron Pfitzenmaier and Daniel Sheen abstract presentation proposal checklist report Touch Projector Alan Cheng and Shannon Hope Harrison abstract presentation video proposal checklist report Projected Floor Piano Liam Cohen, Sarah Flanagan, and Zoe Klawans abstract presentation video proposal checklist report Motion Capturing System for Game Control Ziwen Jackie Jiang and Emanuel Perez abstract presentation proposal checklist report GameBoy FPGA Emulator Walaa Alkhanaizi and Kenneth Collins abstract presentation video proposal checklist report Audio - Visual Matching System Faysal Shair and Ertem Tas abstract presentation checklist report Live-Action Pong Nicholas Waltman and Mike Wang abstract presentation video proposal checklist report Virtual Softball Katherine Shade and Melinda Szabo abstract presentation video proposal checklist report Guitar Effects Haris Brkic abstract presentation video proposal checklist report Rubik's Cube Solver Nathaniel Knopf and Jacob Swiezy abstract presentation video proposal checklist report Pool Table Game Justin Graves and Matthew Guthmiller abstract presentation proposal checklist report FPGA Robot Arm Projector Jack Erdozain, Nicholas Klugman, and Mark Vrablic abstract presentation checklist Obstacle Avoiding Mobile Vehicle Jonathan Garcia abstract presentation proposal checklist report FPGA Spectrum Analyzer Hojin Jeon abstract proposal checklist Fall 2016 Spatial Digital Equalizer Priya Kikani and Alex Sludds abstract presentation video checklist report FPGA Passport Lorenzo Vigano and Diana Wofk abstract presentation video proposal checklist report LASERNET Allan Ko and Amanda Ke abstract presentation video proposal checklist report Pivot: A Motion Based User Interface Andrew Kurtz and Nestor Franco abstract presentation video checklist report Lightsaber Training Landon Carter, Rachel S Yang, and Linda E Zhang abstract proposal checklist report Touch & Go Tianye Chen and Natalie Mionis abstract presentation video proposal checklist report 3D Scanner Jessy Lin and Evan Tey abstract presentation proposal checklist report Voice Controlled Car System Driss Hafdi and Ekin Karasan abstract presentation video proposal checklist FPGA Air Brush Oscar A Guevara and Weerachai Neeranartvong abstract presentation video checklist report FPGA Beethoven Henry Love and Yuechen Nark Yang abstract presentation video proposal checklist report FPDJ: Music Performance Elena Byun, Angus MacMullen, and Baltazar Ortiz abstract presentation proposal checklist report Keep Talking and Nobody's FPGA Explodes! Amelia Becker and Mitchell Hwang abstract presentation video checklist report Laser Conductor James Noraky and Scott Skirlo abstract presentation video proposal checklist report Extended Sight with an EOG Elizabeth Mittmann and Crystal Wang abstract presentation video proposal checklist report Spectris Jose Salazar, Alfredo Yanez, and Benny Zhang abstract presentation video proposal checklist report 3D Multiplayer Pong Paul Kalebu, Miguel Rodriguez, and Louis Tao abstract presentation proposal checklist report Space Invader with a Twist Edwin Africano and Tuan Phan abstract presentation video proposal checklist report MIT ID Card Reader Aneesh Agrawal and Paige Studer abstract presentation video proposal checklist report FPGA EKG Jeremy Ellison and Stone Montegomery abstract presentation video proposal checklist report Sound Source Localizer Changping Chen and Joren Lauwers abstract presentation video proposal LED Pathfinder Druck Green and Andre' Walker abstract presentation report Harry Potter Spell Game Lotta Blumberg and Marayna Martinez abstract presentation video checklist report La PC-na Matt Basile and Zareen Choudhury abstract presentation video proposal checklist report Visible Light Communication with FPGAs Mehmet Tugrul Savran and Zachary Zumbo abstract presentation checklist report Digital Shooting Range Emmanuel Azuh and Mubarik Mohamoud abstract presentation checklist report Digital Storage Oscilloscope Daniel Richman and Jorge A Troncoso abstract presentation video proposal checklist report Pong: 2 Player, First Person Emmanuel Ayooluwa Akinbo and William Navarre abstract presentation checklist report FPGA Telephone Exchange Tristan Honscheid abstract presentation video checklist report Fall 2015 A Hardware-based Matthew Dominic Hollands and Patrick Yang abstract presentation video proposal checklist report Interactive 1 Player Checkers Amelia Becker and Harrison Okun abstract presentation video proposal checklist report Flying Pegasus Ground Attack Yini (Kelly) Qi and Tania Yu abstract presentation video proposal checklist report Guitar Hero: Fast Fourier Edition Mitchell Gu and Ryan Berg abstract presentation video proposal checklist report Surfing on a Sine Wave Sam Jacobs and Valerie Sarge abstract presentation video proposal checklist report Immersive 3D World Christine Konicki and Mikhail Rudoy abstract presentation video proposal checklist report Snappa Referee Juan De Jesus and Matt Orton abstract presentation video proposal checklist report Self-Correcting Hover Table Ryan King-Shepard and Diana Lamaute abstract presentation proposal checklist report Music Visualization with Audio BeatMatching Maggie Reagan and Liz Schell abstract presentation video proposal checklist report Digital Audio Workstation Germain Martinez, Gerzain Mata, and Michelle Qiu abstract presentation video proposal checklist report FPGA-capella: A Real-Time Audio FX Unit Cosma Kufa and Justin Xiao abstract presentation video proposal checklist report DSP Dude: Valentina Chamorro and Yanni Coroneos abstract presentation video proposal checklist report Autonomous RC Car Kevin Chan, David Gomez, and Battushig Myanganbayar abstract presentation video proposal checklist report FPGA DJ Alex Sloboda and Madeline Weller abstract presentation video proposal checklist report Fpglappy Bird: A side-scrolling game Wei Low, Nicholas McCoy, and Julian Mendoza abstract presentation video proposal checklist report INVISMAZE Stephanie Pavlick and Libby Zhang abstract presentation video proposal checklist report 3D Reconstruction by Stereo Imaging Brian Axelrod, Amartya Shankha Biswas, and Xinkun (Sheena) Nie abstract presentation proposal checklist report HeartAware Michael Holachek and Nalini Singh abstract presentation video proposal checklist report Delta-Sigma Heart Rate Monitor Joe Griffin and Hugo Malpica abstract presentation proposal checklist report FPGA Radar: Brian Plancher abstract presentation video proposal checklist report Hologram of Computer Vision Feature Abstraction Juan Huertas and Andrs Salgado-Bierman abstract presentation proposal checklist report Multiple Connection Telephone System Rumen Hristov and Alan Medina abstract presentation video proposal checklist report 3D City Grace Cassidy and Khalil M Elgaggari abstract presentation video proposal checklist report Fall 2014 Live-Action RC Mario Kart Bradley Gross, Jonathan Matthews, and Nathaniel Rodman abstract presentation video proposal checklist report Automatic Projector Tilt Compensation Ganesh Ajjanagadde, Shawn Jain, and James J Thomas abstract presentation video proposal checklist report A Motion-Tracking DMX512 Controller Miren Bamforth abstract presentation video proposal checklist report Maestro Evie Kyritsis, Sabina Maddila, and Janelle Wellons abstract presentation video proposal checklist report Chroma Key Compositing with FPGA Daniel H Moon and Thipok Rak-amnouykit abstract presentation video proposal checklist report Laser Pinball Weston Braun, Jake Isenhart, and Pauline Varley abstract presentation video proposal checklist report 2-Player 3D Air Hockey Alex Chen, Abraham Shin, and Yuqing Zhang abstract presentation proposal checklist report Cryptographically Protected Telephone System Andres Erbsen and Adam Yedidia abstract presentation video proposal checklist report Gesture Controlled Drone Lee Gross and Benjamin Schreck abstract presentation video proposal checklist report Digital Controller for a Small VTOL UAV Gregory D Kravit abstract presentation video proposal checklist report Digital Debussy: A Hardware-Based Music Composition Tool Jordan Addison and Erin Ibarra abstract presentation video proposal checklist report Rifle Arcade Game Austin Phillips-Brown and Casey Wessel abstract presentation video proposal checklist report Function Generator with laser waveform projection Ciara Kamahele and Brandon Vasquez abstract presentation proposal checklist report Chordination Jacqui De Sa, Zixi Liu (Zeo), and CK Ong abstract presentation proposal checklist report Real-time Auto-Tune Ishwarya Ananthabhotla and Trevor Walker abstract presentation proposal checklist report Table Tennis Video Game Angel Carvajal and Sarah Leu abstract presentation video proposal Fall 2013 Rubik's Cube Solver Katharine Daly and Jack Hutchinson abstract presentation video checklist report Brick Breaker Jonathan Abbott and Jemale Lockett abstract video proposal checklist report The Hard Core Digital Oscilloscope Tyler Christensen and Ali AlShehab abstract presentation video proposal checklist report Hexapods and Localization Rebecca Greene and Kelly Snyder abstract presentation video proposal checklist report Real-Time Animated Video Ariana Eisenstein, Woo Hyeok Kang, and Tarun Malik abstract presentation video checklist report Motion Capture Lauren Gresko and David Williams abstract presentation video proposal checklist report Virtual Pitch and Catch Matthew Fox, Michael Kelessoglou, and Evangelos Taratoris abstract presentation video proposal checklist report Voice-controlled Video Console Benjamin Horkley and Jonathan Surick abstract presentation video proposal checklist report Virtual Rock Climbing Turner Bohlen and Christopher Lang abstract presentation video proposal checklist report Voice Controlled Game Sprite William Huffman and Aakanksha Sarda abstract presentation proposal checklist report Digital Oscilloscope with HDMI Display Danielius Kramnik abstract presentation video proposal checklist report Interactive Checkers Ahmet Musabeyoglu and Michael Rodriguez abstract presentation video proposal checklist report Virtual Piano Lisa Liu and Sheldon Trotman abstract presentation video proposal checklist report An Interactive Plug-in Game For Electric Keyboard Daniel Mendelsohn abstract presentation proposal checklist report Fall 2012 Gestural Remote Control Using FPGA Ricardo Jasinski, Vladimir Eremin, and Andres Hasfura abstract presentation proposal checklist report Spatio-Temporal Video Amplification Rishi Patel, Pranav Kaundinya, and Akashnil Dutta abstract presentation proposal checklist report Recorder Hero Paul Hemberger and Andres Romero abstract presentation proposal checklist report Asteroids Daniel Hawkins and Anna Waldo abstract presentation proposal checklist report Augmented Reality Fruit Ninja tm Nathan M. Monroe, Isaac Evans, and Drew Dennison abstract presentation proposal checklist report Self Parking Car Kevin Hsiue and Frank Ni abstract presentation proposal checklist report Conference Audio and Video Communication Saher Ahwal, Xianzhen Zhu, and Wegene Tadele abstract presentation proposal checklist report Field-Programmable Gate Array Telephony Kiarash Adl, Sachin Shinde, and Nandi Bugg abstract presentation proposal checklist report Virtual Drum Set Luis Fernandez and Rishi Naidu abstract presentation proposal checklist report Auralization of the visual world Adam Suhl, Clark Della Silva, and Gabriel Karpman abstract presentation proposal checklist report Fall 2011 FPGA Oscilliscope Kevin Linke and Anartya Mandal abstract presentation video proposal checklist report Augmented XBOX Controller Justin Schmelzer and Christy Swartz abstract presentation video proposal checklist report Recursive Augmented Reality Logan Williams and Jose Cruz Serralles abstract presentation video proposal checklist Image Capture and Processing for TESS and REXIS Harrison Bralower abstract presentation video proposal checklist report Audio Effects Box Dylan Sherry and Devon Rosner abstract proposal 3D Wire-frame Scanning and Stereoscopic Re-rendering Adam Gleitman, Andrew Shum, and Tim Balbekov abstract presentation video proposal checklist report Asteriods Video Game Phil Mercer and Richard Agbeyibor abstract presentation video proposal checklist report Action Tracking System Raghavendra Srinivasan and Shubhang Chaudhary abstract presentation video proposal checklist report Improv Tetris Ray Li and Scott Bezek abstract presentation video proposal checklist report Improv Tetris Scott Bezek and Ray Li abstract presentation video proposal checklist report Fall 2010 Crash Avoidance System Kristen Anderson and Ekaterina Kononov abstract presentation video video proposal checklist report Portable Dance Dance Revolution Game Daniel Kim and Gabriel Ha abstract presentation video video proposal checklist report Hardware Parametric Equalizer Joseph Colosimo abstract presentation video video proposal checklist report High Striker Jennifer Chan and Michael Stunes abstract presentation video video proposal checklist report Virtual Board Breaking Erika Lee and Christine Chen abstract presentation video video proposal checklist report Real Time Harmonizer and Mixer Elizabeth Hass and Christopher Chin abstract presentation video video proposal checklist report Training-Sequence-Indifferent Decision Feedback Equalizer Zhipeng Li and Yan Huang abstract presentation proposal checklist report Vehicle Control Using Video Surveillance Jorge Simosa, Krishna Settaluri, and Shijie Zheng abstract presentation proposal checklist report A Controllable Function Generator Sarah Ferguson and Gavin Darcey abstract presentation video video proposal checklist report Laser Lighting display and 3D Scanning Shuyi Chen and Gaston De Zarraga abstract presentation video video proposal checklist report Deterministic Cache for a Multiprocessing System David Greenberg abstract presentation video video proposal checklist report FPGzam: Song Identification System Pranav Sood and Yafim Landa abstract presentation video video proposal checklist report Modular Audio Effects Box Andrew Shapiro and Marc Resnick abstract presentation video video proposal checklist report Fall 2009 Super FPGA Bros. Douglas Albert and Kevin Marengo abstract presentation proposal checklist report Ambisonic Surround Sound System Ben Bloomberg abstract presentation proposal checklist report Gestural Interface for Image Browsing Prannay Budhraja and Mary Knapp abstract presentation proposal checklist report Beat Gunner Stephanie Cheng, TungShen Chew, and An Li abstract presentation proposal checklist report Space Vehicle Simulator Charlie Devivero and Javier Garcia abstract presentation proposal checklist report Real-time Face Detection Dember Giraldez, Jon Losh, and Somani Patnaik abstract presentation proposal checklist report iSing Voice Harmonizer Cyril Lan, Jessie Li, and Darren Yin abstract presentation proposal checklist report Bellagio Fountain Simulation Joe Lane, George Rossick, and Allen Yin abstract presentation proposal checklist report Finger Photo Editor Nadia Makan abstract presentation proposal checklist report FFT and Filters for Audio Samantha Palazzolo abstract presentation proposal checklist report Fall 2008 Mixing Setup Nathan Artz, Adam Goldstein, and Matthew Putnam abstract presentation proposal checklist report Auto-Targeting in a Remote Sentry Turret Jacky Chang, Stephanie Paige, and Eli Stickgold abstract presentation proposal checklist report Voice-Controlled Chess Game on FGPA Using Dynamic Time Warping Varun Chirravuri and Michael Kuo abstract presentation proposal checklist report Phantom Sight Reader Lance Collins, Jing Han, and Dilini Warnakulasuriyarachchi abstract presentation proposal checklist report Kirby Laser Attack Daniel Gerber and Tynan Smith abstract presentation proposal checklist report Vertex Don Goldin and Mark Sullivan abstract presentation proposal checklist report Voice Recognition in Hardware Nicholas Harrington and Tao Ben Schardl abstract presentation proposal checklist report 3D Ray-cast Pong Richard Hughes and Elizabeth Power abstract presentation proposal checklist report Real-Time Visual Audio Composition Tyler Hutchinson, Bryan Newbold, and Dimitri Turbiner abstract presentation proposal checklist report Finger Art Grace Li and Sean Liu abstract presentation proposal checklist report Peer-to-Peer Phone Karim Liman-Tinguiri, Isabel Pesce Mattos, and Alexandre Oliveira abstract presentation proposal checklist report Modular Synthesizer Michael Miller, Andrew Muth, and Tejasvi Vishwanadha abstract presentation proposal checklist report Musical Feet: A Step-by-Step Approach to Music Generation Rajeev Nayak and Harley Zhang abstract presentation proposal checklist report Gesture Recognition Remote Control Wolfe Styke abstract presentation proposal checklist report Realistic 3D Gaming Ranbel Sun and Daniel Whitlow abstract presentation proposal checklist report Fall 2007 Real-time Video Processing Obinna Anyanwu and Jyotsna Venkataramanan abstract presentation proposal checklist report F.P.G.A Hunt Syed Ahmed, Pete Kruskall, and Yuetian Xu abstract presentation checklist report Optical Input Targeting Game Rachel Bainbridge and Dan Southern abstract presentation proposal checklist report Virtual Postcards Jessica Barber and Andrew Meyer abstract presentation proposal checklist report Hardware Platform for JPEG Compression/Decompression Evan Broder and Christopher Post abstract presentation proposal checklist report Need for Speed: Hacker's Trail Richard Chan, Calvin Chung, and Fan Yang abstract presentation proposal checklist report Digital Theremin Synthesizer and Visualizer Jeffrey Chang, Daniel Rodgers, and Alexander Spicer abstract presentation proposal checklist report PerfectPitch Grace Cheung and Karl Rieb abstract presentation proposal checklist report Conductor Hero Natalie Cheung, Yuta Kuboyama, and Edgar Twigg abstract presentation proposal checklist report Virtual Ping Pong Zachary Clifford and Mark Stevens abstract presentation proposal checklist report FPGA Video Game Telmo Correa abstract presentation proposal checklist report Termanator Donald Eng, Rodrigo Ipince, and Kevin Luu abstract presentation proposal checklist report Tetris Igor Geller and Lily Wang abstract presentation proposal checklist report SNGH's Not Guitar Hero Rhys Hiltner and Ruth Shewmon abstract presentation proposal checklist report Guitar Hero: Nursery Rhyme Edition Judy Ho and Emily Hwang abstract presentation proposal checklist report A Simple Digital Sonar System Zhen Li, Bryan Morrissey, and Brian Wong abstract presentation proposal checklist report 6.111 Slot Machine Laura Roberts and Daneaya Wallace abstract presentation proposal checklist report A Morse Code Decoder Chris Stephenson abstract presentation proposal checklist report Fall 2006 Labyrinth Laplie Anderson, Mihalis Papalampros abstract presentation proposal checklist report Bacteria \"Colonalyzer\" Yaw Anku abstract presentation proposal checklist report Full Motion Dance Machine Jonathan Burnham, Christopher Hoffman, Kevin Miu abstract presentation proposal checklist report Digital Player Piano Stephen Chait, Josh Runge abstract presentation proposal checklist report Realtime Light-Saber Generator Joyce Chen, Michael Price, Hui Ying Wen abstract presentation proposal checklist report Laser Shot: Video-based Alternative to Arcade Light Guns Tiffany Chen, Spencer Sugimoto, Paul Yang report Sound Blocks: an interactive environment for Iris Cheung, Dennis Miaw report A Theater Lighting Board Maura Cordial, Irene Zhang report Bass Hero Humberto Evans, Alex Guzman report An Intuitive Video Game System Edward Fagin, Irene Fan report \"Squash Yourself\" Will Fotsch, Sumit Khatod, Azadeh Moini report SkiFree controlled by user's hand motions Eric Grebing, Erik Stafl report Windows Manager Responsive to User Hand Gestures Lydia Gu, Yunjie Ma report Virtual Surround Sound from a Dolby Digital Source Harrison Hall report Writing Recognition Stephanie Hsu report Keytar Hero Hubert Hwang, Hui Tang report Virtual Conducting Andy Lin, Brandon Yoshimoto report Pong Pong Revolution Dan Lopuch, Zachary Remscrim report Interactive Adventure Game Greg Luthman, Akash Shah report Hand-Controlled Digital Audio Synthesizer Behram Mistree, Alex Sanchez report Point-to-point Data Link, Collaborative Whiteboard Scott Ostler, Michael Robbins report Donkey Kong Stephen Pueblo, Yi Wang report Serpent Holli Rachall report Virtual Knockout! Giovanni Reveles, Chuan Zhang report Newtonian N-body Simulator Michelle Teh, Michael Witten checklist GPS Data Logger and Visualization System Alexander Valys report Interactive Vertically-Scrolling Shooter Danny Vo, Jeff Yuan report A Floating Point Unit for Numerical Calculations Jeff Walden report Fall 2005 Interactive Video Effects and Games Rebecca Arvanites and Cristina Domnisoru report Duckhunter Taylor Barton, Andrew Lisy report RFID Tag Reader System Katonia Butler, Akua Nti report Music Transcriber Roberto Carli, Alessandro Yamhure report An FPGA Software Radio Dexter Chan report Real-Time Video Effects Processor Venkat Chandar, Benjamin Gelb report Hand Motion Control of an Audio Player Diana Cheng, Doris Lin report A Photogrammetry System Miles Colman report Digital Tuner Roshni Cooper, Linda Fang report The Sound of Music -- Gone Digital! Sarah-Jean Cunningham, Anne Romeo report Pacman Michael D'Ambrosio, Haiyao Huang report Digital Poker Amy Daitch, Elizabeth Murnane report Music Visualization System Bradley Edwards, Aston Motes, Stephen Oney report Automated Dart Board Michael Ehrenberg, Ankush Patel report Tilting Maze Game Matthew Fishburn, Hongyi Hu report System on a Chip Steven Hall report Gesture Recognition using Video Alex Hornstein report Object Position and Orientation Tracker Andrew Lee, Tiffany Wang report Digital Percusion and Entertainment System David Levenson, Daniel Malconian report Perfect Pitch Sheet Music Maker Adam McCaughan, John O'Brien report Digital Stereoscope Joshua Jen Monzon, Tony Ng, Hao Zhou report Soil-water Characterization Unit Ben Mussi report Digital Effects Box for Guitar Matthew Moskwa, Schuyler Senft-Grupp report The Dorm Room Genie David Nedzel, Aaron Stonely report Ogg Vorbis Audio Decoder Matthew Papi, Jonathan Stritar report Programmable Audio Visualizer Dany Qumsiyeh, Michael Spindel report Virtual Juggling David Rush, Christopher Wilkens report Voice over LAN Brian Schmidt, Matthew Welsh report Sentry Surveillance Camera Robert Speaker, Raymond Wu, Bo Zhu report The Wumpus Mark Tobenkin, Damon Vander Lind report A Virtual Pet Chen Hau Tong report A Volumetric LED Dot-matrix Display Lawrence Wujanto, David Wyatt report Asteroids James Verrill, Dun Xiao report",
+  "links": [
+    {
+      "url": "https://fpga.mit.edu/6205/F24/final_project_archive?loginaction=login",
+      "text": "Log\nIn"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team17/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team18/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team19/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team20/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team21/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team23/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team24/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team26/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team27/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team28/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team28/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team31/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team31/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team32/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team32/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team34/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team34/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team35/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team35/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team37/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team37/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team38/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team38/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team40/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team40/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team41/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team41/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team42/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team42/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team43/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team43/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team44/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team44/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team45/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team45/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team46/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2023/team46/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team17/video.mov",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team18/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team19/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team20/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team23/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team24/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team26/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team27/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team28/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team28/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team29/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team29/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team30/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team30/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team32/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team32/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team33/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team33/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team34/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team34/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team35/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team35/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team36/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team36/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team37/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2022/team37/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team19/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team20/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team26/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2021/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team18/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team21/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team24/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team27/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team28/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team28/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team30/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team30/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team31/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team31/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team32/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2020/team32/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team20/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team24/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2019/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team21/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team23/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team24/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team26/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team26/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team26/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team26/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2018/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team17/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team17/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team17/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team17/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team18/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team18/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team18/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team19/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team19/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team19/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team19/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team20/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team20/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2017/team20/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team15/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team15/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team15/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team15/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team19/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team19/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team19/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team19/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team20/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team20/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team21/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team21/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team21/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team21/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team23/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team23/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team23/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team24/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team24/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team24/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team26/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team26/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team26/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team27/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team27/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team27/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team27/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2016/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team16/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team16/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team16/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team16/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team18/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team18/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team18/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team18/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team20/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team20/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team20/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team20/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2015/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team15/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team15/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team15/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2014/team15/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2013/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2012/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2011/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/video.wmv",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/video.mp4",
+      "text": "video"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2010/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2009/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2008/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team05/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team05/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team05/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team05/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team06/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team06/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team06/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team06/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team07/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team07/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team07/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team07/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team08/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team08/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team08/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team08/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team09/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team09/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team09/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team09/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team10/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team10/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team10/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team10/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team11/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team11/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team11/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team11/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team12/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team12/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team12/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team12/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team13/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team13/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team13/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team13/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team14/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team14/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team14/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team14/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team15/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team15/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team15/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team15/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team16/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team16/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team16/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team16/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team17/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team17/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team17/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team17/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2007/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team00/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team00/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team00/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team00/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team01/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team01/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team01/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team01/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team02/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team02/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team02/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team02/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team03/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team03/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team03/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team03/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team04/abstract.pdf",
+      "text": "abstract"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team04/presentation.pdf",
+      "text": "presentation"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team04/proposal.pdf",
+      "text": "proposal"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team04/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team24/checklist.pdf",
+      "text": "checklist"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2006/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team00/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team01/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team02/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team03/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team04/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team05/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team06/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team07/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team08/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team09/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team10/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team11/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team12/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team13/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team14/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team15/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team16/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team17/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team18/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team19/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team20/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team21/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team22/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team23/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team24/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team25/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team26/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team27/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team28/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team29/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team30/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team31/report.pdf",
+      "text": "report"
+    },
+    {
+      "url": "https://fpga.mit.edu/videos/2005/team32/report.pdf",
+      "text": "report"
+    }
+  ],
+  "images": []
+}

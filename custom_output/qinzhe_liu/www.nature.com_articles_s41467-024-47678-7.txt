@@ -1,0 +1,964 @@
+        Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+        Advertisement
+                  View all journals
+                  Search
+                  Log in
+                    Explore
+                    content
+                  About
+                    the journal
+                  Publish
+                    with us
+                  Sign up for alerts
+                  RSS feed
+              nature
+              nature communications
+              articles
+            article
+          A fine-scale
+            Arabidopsis
+            chromatin landscape reveals chromatin conformation-associated transcriptional dynamics
+              Download PDF
+              Article
+                [Open access](https://www.springernature.com/gp/open-research/about/the-fundamentals-of-open-access-and-open-research)
+              Published:
+                16 April 2024
+                    ORCID:
+                    orcid.org/0000-0002-8678-3135
+                  ,
+                    orcid.org/0000-0001-9577-812X
+                    orcid.org/0000-0003-0215-9077
+                    orcid.org/0000-0002-3178-590X
+                    orcid.org/0000-0002-5184-2430
+                    orcid.org/0000-0001-9871-0753
+                    orcid.org/0000-0003-4319-7424
+                    orcid.org/0000-0003-4161-6365
+                &
+              …
+                    orcid.org/0000-0002-4292-9040
+              Show authors
+                Nature Communications
+                volume
+                15
+              , Article number:
+              3253
+              (
+              2024
+              )
+                  6806
+                    Accesses
+                  19
+                    Altmetric
+                    [Metrics](/articles/s41467-024-47678-7/metrics)
+                      details
+            Subjects
+                [Abiotic](/subjects/abiotic)
+                [Chromatin structure](/subjects/chromatin-structure)
+                [Plant molecular biology](/subjects/plant-molecular-biology)
+              Abstract
+                Plants, as sessile organisms, deploy transcriptional dynamics for adapting to extreme growth conditions such as cold stress. Emerging evidence suggests that chromatin architecture contributes to transcriptional regulation. However, the relationship between chromatin architectural dynamics and transcriptional reprogramming in response to cold stress remains unclear. Here, we apply a chemical-crosslinking assisted proximity capture (CAP-C) method to elucidate the fine-scale chromatin landscape, revealing chromatin interactions within gene bodies closely associated with RNA polymerase II (Pol II) densities across initiation, pausing, and termination sites. We observe dynamic changes in chromatin interactions alongside Pol II activity alterations during cold stress, suggesting local chromatin dynamics may regulate Pol II activity. Notably, cold stress does not affect large-scale chromatin conformations. We further identify a comprehensive promoter-promoter interaction (PPI) network across the genome, potentially facilitating co-regulation of gene expression in response to cold stress. Our study deepens the understanding of chromatin conformation-associated gene regulation in plant response to cold.
+            Similar content being viewed by others
+                      [Global profiling of RNA–chromatin interactions reveals co-regulatory gene expression networks in](https://www.nature.com/articles/s41477-021-01004-x?fromPaywallRec=false)
+                      14 October 2021
+                      [HSFA1a modulates plant heat stress responses and alters the 3D chromatin organization of enhancer-promoter interactions](https://www.nature.com/articles/s41467-023-36227-3?fromPaywallRec=false)
+                      28 January 2023
+                      [Genome-wide identification of accessible chromatin regions by ATAC-seq upon induction of the transcription factor bZIP11 in Arabidopsis](https://www.nature.com/articles/s41597-023-02395-6?fromPaywallRec=false)
+                      27 July 2023
+                Introduction
+                  As sessile organisms, plants have developed adaptive strategies to thrive under diverse environmental pressures, including harsh growth conditions. In recent years, significant effort has focussed on unraveling the molecular mechanisms that underlie plant response and adaptation to environmental stress
+                      [1](/articles/s41467-024-47678-7#ref-CR1)
+                    . Cold stress is a critical factor that affects plant growth and development, often limiting the geographical range of plant species. During cold stress, plants undergo global transcriptional reprogramming, resulting in the upregulation or downregulation of many genes
+                    . In addition to changes in steady-state gene expression levels, a recent study has shown that Pol II activities during transcription elongation, such as Pol II pausing, are dynamically altered in response to cold
+                      [2](/articles/s41467-024-47678-7#ref-CR2)
+                    . It has been suggested that Pol II activities, including Pol II pausing, are closely linked to chromatin organization
+                      [3](/articles/s41467-024-47678-7#ref-CR3)
+                    . However, it is poorly understood whether changes in chromatin dynamics occur in response to cold and contribute to this global transcriptional reprogramming.
+                  Furthermore, among all upregulated or downregulated genes, genes associated with metabolic pathways and photosynthesis were upregulated or downregulated in parallel, alongside those genes involved in cold response
+                    . These genes are suggested to be co-regulated by cold-responsive transcription factors in balancing the trade-off between plant growth and cold tolerance
+                      [4](/articles/s41467-024-47678-7#ref-CR4)
+                    . However, it is unclear how these transcription factors can co-regulate different genes with distinct functions. Chromatin interactions may offer a potential explanation for how transcription factors can co-regulate genes with distinct functions by bringing together different regions of the genome.
+                  The latest advances in high-throughput chromatin conformation capturing technologies, such as Hi-C, have revolutionized our comprehension of chromatin architecture in plants
+                      [5](/articles/s41467-024-47678-7#ref-CR5)
+                      [6](/articles/s41467-024-47678-7#ref-CR6)
+                    . However, Hi-C with its several kilobase (kb) resolution along with protein-mediated crosslinking has limited capability for exploring either chromatin conformations at the gene level or promoter-promoter interaction (PPI) networks at the genome-wide scale. To decipher whether chromatin interactions contribute to transcriptional reprogramming in plant response to cold, here, we leveraged chemical-crosslinking assisted proximity capture (CAP-C) methodology that directly crosslinks DNAs
+                      [7](/articles/s41467-024-47678-7#ref-CR7)
+                    . CAP-C provided a chromatin contact map with high resolution and low background noise
+                    . Thus, we generated the first fine landscape of
+                    chromatin interactions with high resolution and accuracy. Our CAP-C determined that chromatin interactions were significantly associated with Pol II activities at the gene level. We observed chromatin dynamics coupled with transcriptional reprogramming in response to cold treatments (3-h and 12-h at 4 °C). We also captured a comprehensive PPI network primed in the genome that may facilitate gene expression co-regulation in response to cold. Together, our study suggested that plants adopted distinct and multi-level chromatin conformations in tuning transcriptions in response to cold.
+                Results
+                  CAP-C successfully captured global chromatin conformational features at high resolution and low background noise in
+                  To examine high-resolution chromatin conformational features at the gene level, we applied chemical-crosslinking assisted proximity capture (CAP-C). This method enables the identification of short-range interactions without the mediation of proteins using a new type of crosslinker, poly (amidoamine) (PAMAM) dendrimers
+                    . A small-sized dendrimer favors finer interactions
+                    . Here, we used the smallest G3 dendrimer (3.6 nm diameter) to obtain a fine chromatin conformational map in
+                    (Fig.
+                    [1a](/articles/s41467-024-47678-7#Fig1)
+                    ). Nuclei from 10-day-old
+                    seedlings growing at 22 °C were extracted and incubated with dendrimers. After UV crosslinking the dendrimers with double-stranded DNAs (Fig.
+                    and Supplementary Fig.
+                    ), the complex was digested into ~200 bp. Bifunctional bridging linkers were added to the reaction, ligating to dendrimers via “click chemistry”
+                      [8](/articles/s41467-024-47678-7#ref-CR8)
+                    . The ligated products were enriched by capturing the biotin on the bridge linker before subjecting to library construction and high-throughput sequencing (Fig.
+                    ). We termed the read pairs that contain the bridge linker in the middle as the valid “chromatin contacts”. Two independent biological replicates were generated with high reproducibility (Supplementary Fig.
+                    [1b](/articles/s41467-024-47678-7#MOESM1)
+                    ).
+                        Fig. 1: CAP-C for the high-resolution chromatin conformations in
+                          Arabidopsis.
+                            a
+                            Shown schematically here, the CAP experimental procedure involved extracting nuclei from seedlings and incubating them with dendrimer. Multi-functional dendrimers and chromatin were photo-crosslinked by UV light irradiation. Following global fragmentation, the azide handle (N3 group) attached to the dendrimer-chromatin complex was then reacted with a bi-functional bridge linker oligonucleotide for two-step proximity ligation. The resulting chimeric fragments (one end labeled blue, another end labeled red, with the biotin-labeled bridge linker in the middle) were then purified for library construction, sequencing, and data analysis to obtain chromatin contact profiles.
+                            b
+                            4C-like inter-chromosomal interaction profiles showing the average contact probabilities across the centromeres and telomeres regions for each chromosome.
+                            c
+                            Normalized contact matrix maps of CAP-C (upper panel) and Hi-C
+                              [12](/articles/s41467-024-47678-7#ref-CR12)
+                            (bottom panel) at various resolutions of the centromeric region of chromosome 1.
+                            d
+                            Relative contact frequency versus genomic distance curves of CAP-C and Hi-C
+                            .
+                            X
+                            -axis: the distance between contact loci from 1 kb to 10 Mb.
+                            Y
+                            -axis: contact density normalized by sequencing depth.
+                          Full size image
+                  To verify the efficacy of our CAP-C approach, we first evaluated the overall characteristics of chromatin conformations. Prior cytological investigations revealed that the chromatin architecture of
+                    exhibits significant interaction patterns that encompass pericentromeres and telomeres
+                      [11](/articles/s41467-024-47678-7#ref-CR11)
+                    . Our CAP-C data showed strong chromatin contacts at both telomeric ends of all five chromosomes (Fig.
+                    , upper panel), consistent with previous Hi-C data
+                    . Notably, our CAP-C also detected strong chromatin contacts in centromeric regions (Fig.
+                    , lower panel) that were not detectable in Hi-C
+                    . Further comparisons across the centromeric regions between CAP-C and Hi-C at different resolutions (20 kb, 10 kb, and 2 kb) (Fig.
+                    [1c](/articles/s41467-024-47678-7#Fig1)
+                    ) revealed that our CAP-C chromatin contacts signals were stronger and finer with lower background noise compared to Hi-C (Fig.
+                    ). Our CAP-C clearly captured chromatin contacts toward ~200 bp resolution, enabling us to identify local chromatin contacts (Supplementary Fig.
+                    ). We further assessed the effectiveness of our CAP-C by averaging the genome-wide contact frequency. In contrast to Hi-C data
+                    (Supplementary Data
+                    ), our CAP-C data showed more short-range chromatin contacts (Fig.
+                    [1d](/articles/s41467-024-47678-7#Fig1)
+                    ). Together, our results confirmed that we had successfully applied CAP-C in
+                    , generating a fine chromatin conformational map at ~200 bp resolution with low background noise.
+                  CAP-C efficiently identified local chromatin conformational features in
+                  Our high-resolution chromatin contact map enabled us to characterize local chromatin organizational features and to validate these features on individual gene loci, enhancer-promoter (E-P) and promoter-promoter (P-P) interactions. To facilitate comparison with the previous studies
+                      [13](/articles/s41467-024-47678-7#ref-CR13)
+                      [14](/articles/s41467-024-47678-7#ref-CR14)
+                    , we used Fit-Hi-C
+                    to identify highly enriched chromatin contacts (termed as stable chromatin contacts). Previously reported chromatin interactions across the
+                    FLOWERING LOCUS C
+                    FLC
+                    ) locus
+                    were identified from our CAP-C (Fig.
+                    [2a](/articles/s41467-024-47678-7#Fig2)
+                    , red curve) data. Additionally, we identified short-range stable chromatin contacts enriched in the first intron region of
+                    proposed to be associated with promoter-proximal Pol II pausing
+                      [16](/articles/s41467-024-47678-7#ref-CR16)
+                    . Another interaction loop between the promoter region of
+                    PINOID
+                    PID
+                    ) and the loci of lnc RNA
+                    APOLO
+                    AT2G34655
+                      [17](/articles/s41467-024-47678-7#ref-CR17)
+                    was also apparent in our CAP-C (Fig.
+                    [2b](/articles/s41467-024-47678-7#Fig2)
+                    , red curve) data, further supporting that our CAP-C accurately captured chromatin contacts at the gene level.
+                        Fig. 2: Characterization of chromatin conformations.
+                            The stable chromatin contacts around
+                            ) and
+                            and
+                            ) loci. The schematic gene structure was aligned to stable chromatin contacts (loops) captured by CAP-C and coverage results, with boxes representing exons and lines representing introns. The red curve shows the reported chromatin contacts validated experimentally, and the black curves show the newly identified stable chromatin contacts by CAP-C, associated with which are the CAP-C reads shown under the chromatin contacts.
+                            Representative examples demonstrating enhancer-promoter interactions. Black boxes represent gene loci, arrows show the promoter regions and transcription directions. Brown boxes represent active enhancer loci. Interactions between an enhancer and a promoter are shown in the red curve. GRO-seq reads (GRO+ represents the sense strand, while GRO− represents the antisense strand) and the corresponding histone ChIP-seq tracks (H3K36me3, H3K4me3, H3K9Ac) were shown underneath each enhancer and gene locus. GIVE plots showing representative short-range (
+                            e
+                            RPP7
+                            ) and long-range (
+                            f
+                            REC
+                            ) intra-chromosomal DNA-DNA interactions based on our CAP-C data under normal growth conditions. To depict interactions, the chromosomes were plotted horizontally twice, producing a top and a bottom track. Each red line represents a chromatin contact, with the color scale indicating the strength of the contacts. The black boxes and lines indicate genes on the chromosomes.
+                  E-P interactions are another form of fine-scale chromatin contacts
+                      [18](/articles/s41467-024-47678-7#ref-CR18)
+                    . As critical regulatory components, enhancers can regulate gene expression through E-P interactions
+                      [21](/articles/s41467-024-47678-7#ref-CR21)
+                    . To verify the accuracy of our CAP-C data, we took advantage of the global nuclear run-on sequencing (GRO-seq) data that defined active enhancer sites across
+                    genomes
+                      [22](/articles/s41467-024-47678-7#ref-CR22)
+                    . We observed that chromatin contacts were highly enriched across active enhancer sites (Supplementary Fig.
+                    ). It was suggested that the
+                    AT3G03850
+                    Small auxin up RNA26
+                    SAUR26
+                    ) forms E-P interactions with those enhancers with the E-box (CANNTG)-like motif CAAGT(T/G)G, targeted by a transcription factor KANADI1 (
+                    KAN1
+                      [23](/articles/s41467-024-47678-7#ref-CR23)
+                    . Here, we identified that one active enhancer with the E-box (CANNTG)-like motif CAAGT(T/G)G exists immediately downstream of the
+                    . We found this active enhancer site that was highly transcribed and associated with active histone markers such as H3K36me3, H3K4me3, and H3K9ac (Fig.
+                    [2c](/articles/s41467-024-47678-7#Fig2)
+                    ). This active enhancer locus directly interacted with the promoter region of the
+                    , leading to its associated high expression (Fig.
+                    ). Another example of the chromatin interaction between an active enhancer site and the promoter region of its adjacent gene
+                    AT1G31910
+                    GHMP kinase
+                    ) is illustrated in Fig.
+                    [2d](/articles/s41467-024-47678-7#Fig2)
+                    . Therefore, these results further support that our CAP-C is robust and sensitive. We further conducted comprehensive characterizations of E-P chromatin contacts (Supplementary Data
+                    [9](/articles/s41467-024-47678-7#MOESM12)
+                    ). Previous studies showed that enhancers work as transcriptional regulatory elements, orchestrating gene expression from a distance
+                      [24](/articles/s41467-024-47678-7#ref-CR24)
+                      [25](/articles/s41467-024-47678-7#ref-CR25)
+                    . We then conducted an analysis on the distribution of the distances for all E-P chromatin contacts determined in our CAP-C libraries in all the chromosomes (Supplementary Fig.
+                    and Supplementary Data
+                    ). We found that the majority (89%) of E-P chromatin contacts were distal while 11% were proximal, aligning with previous findings
+                    . Among proximal contacts, 62% were upstream and 38% downstream of the interacting promoter, while distal contacts exhibited 51% upstream and 49% downstream orientation (Supplementary Fig.
+                    ). Taken together, our CAP-C detected both proximal and distal E-P chromatin contacts with a predominant tandem orientation.
+                  Our CAP-C was able to capture interactions between different gene loci. Several genes engaging in many intra-chromosomal interactions using Bridge Linker-Hi-C (BL-Hi-C) were reported as a single gene locus interacting with multiple loci across the same chromosome
+                      [26](/articles/s41467-024-47678-7#ref-CR26)
+                    . Intra-chromosomal interactions representative of protein-coding genes
+                    AT1G58602
+                    Recognition of Peronospora Parasitica 7
+                    AT1G01320
+                    Reduced Chloroplast Coverage 1
+                    REC1
+                    ) are illustrated in Fig.
+                    [2e](/articles/s41467-024-47678-7#Fig2)
+                    , respectively.
+                    AT3G56825
+                    AT4G13495
+                    , which are responsible for transcribing snRNA
+                    U2.4
+                    and lncRNA, respectively, are two additional gene examples that contain numerous known intra-chromosomal interactions (Supplementary Fig.
+                    [2b, c](/articles/s41467-024-47678-7#MOESM1)
+                    ). Our CAP-C not only verified the interactions previously reported by BL-Hi-C but also enabled us to identify more short-range interactions. We closely examined these interactions and identified another fine-scale type of chromatin contact known as promoter-promoter interaction (PPI). PPI pinpointed the promoter region of a particular gene interacting with the promoter region(s) of one or more other genes
+                      [27](/articles/s41467-024-47678-7#ref-CR27)
+                    . With regards to
+                    , they interacted with 108 and 120 genes, respectively, on the same chromosome that engaged in PPIs (Fig.
+                    [2e, f](/articles/s41467-024-47678-7#Fig2)
+                    ). These PPIs may facilitate the RNA-mediated chromatin interactions reported at these loci
+                    . Thus, our CAP-C data has successfully shown genes engaging in many distinguishable intra-chromosomal interactions, supporting the high resolution and sensitivity of our CAP-C method. Our collective findings suggested that our CAP-C approach can accurately and sensitively detect intricate chromatin conformational characteristics.
+                  Local chromatin contacts at the gene level are significantly associated with Pol II activities
+                  Local interactions at the gene level are proposed to be closely linked with RNA polymerase II (Pol II) activities
+                      [28](/articles/s41467-024-47678-7#ref-CR28)
+                    . In our CAP-C study, we examined the association between chromatin contacts and Pol II activities. As nascent RNA expression levels can indicate overall Pol II activities
+                    , we investigated our CAP-C chromatin data and found that gene chromatin contacts are significantly associated with transcriptional levels (Fig.
+                    [3a](/articles/s41467-024-47678-7#Fig3)
+                    , Spearman’s
+                    R
+                      s
+                    = 0.39). We have also observed an association between chromatin accessibilities and local chromatin interactions as measured by our CAP-C (Supplementary Fig.
+                    ). We further explored relationship between representative histone modifications/variants and chromatin contact density at the gene level. Our results demonstrate that active histone modifications, including H3K18Ac, H2A.Z, H3K9Ac, H3PanAc, H3K36me2, H3K4me3, and H3K4me2, are significantly linked with gene chromatin contacts (Fig.
+                    [3b](/articles/s41467-024-47678-7#Fig3)
+                    ). Moreover, repressive modifications, such as H3K27me3, H3K27me1, and H3K9me2, are negatively associated with gene chromatin contacts (Fig.
+                        Fig. 3: CAP-C association between local chromatin contacts and Pol II activities.
+                            Correlation between gene chromatin contacts with transcriptional activities. The gene chromatin contact was measured by normalized chromatin contact density per gene. The transcription activity was measured by GRO-seq
+                            signal enrichment. The correlation between gene chromatin contacts and Pol II activities was 0.39,
+                            p
+                            value = 8.150194e
+                            −224
+                            , two-sided Spearman’s rank correlation.
+                            Based on Spearman’s rank correlation, coefficient correlations with significant
+                            values between CAP-C gene chromatin contacts and different histone modifications are shown, two-sided Spearman’s rank correlation.
+                            Meta-profile shows CAP-C interaction signal profiles of highly (pink) and weakly (light blue) transcribed genes, as shown by 10% of the highest (
+                            n
+                            = 2739) and lowest (
+                            = 2769) transcribed genes, which are calculated using GRO-seq
+                            . mRNAs were aligned by the transcription start site (TSS) and the transcription termination site (TTS).
+                            Correlation between gene chromatin contact and Pol II elongation activity. The gene chromatin contact was measured by normalized chromatin contact density per gene. The Pol II elongation activity was measured by Ser 5p Pol II pNET-seq
+                            . The correlation between gene chromatin contacts and Ser 5p Pol II activities was 0.27,
+                            value < 1.7e
+                            −308
+                            , two-sided Spearman’s rank correlation. Meta-profiles show the CAP-C chromatin contacts signal profile of 10% of the highly (red,
+                            = 10,663) and weakly (blue,
+                            = 10,511) Ser 5p Pol II activities across the (
+                            ) 5’SS or (
+                            ) the 1st 5’SS, as shown by 10% of the highest (
+                            = 1933) and lowest (
+                            = 1944) Ser 5p Pol II activities.
+                  Notably, histone modifications were shown to affect Pol II elongation during transcription
+                      [29](/articles/s41467-024-47678-7#ref-CR29)
+                    . Thus, we examined the distribution of these chromatin contacts across the gene bodies. We ranked our mRNAs according to expression levels and found that highly expressed genes contain overall more chromatin contacts across the gene bodies compared to weakly expressed genes (Fig.
+                    [3c](/articles/s41467-024-47678-7#Fig3)
+                    ). In particular, there were more chromatin contacts around transcription start sites (TSSs) and transcription termination sites (TTSs) (Fig.
+                    ) where transcriptional activities were higher
+                    . We then explored the regions between TSS and TTS by dividing genes into groups with and without introns. We found that chromatin contacts were significantly more intense in those genes containing introns than those without (Supplementary Fig.
+                    [6a](/articles/s41467-024-47678-7#MOESM1)
+                    ). After partitioning the exons and introns, we observed that the frequency of chromatin contacts within introns is significantly greater than those within exons (Supplementary Fig.
+                    [6b](/articles/s41467-024-47678-7#MOESM1)
+                    ). Notably, the chromatin contacts were not evenly distributed across exon and intron regions but rather were enhanced at the start and end of the introns (Supplementary Fig.
+                    [6c](/articles/s41467-024-47678-7#MOESM1)
+                    ). This feature reminds us of Pol II pausing signatures across the 5’ Splicing Site (5’SS) located ~25 bp downstream of the 5’SS
+                    . To investigate any association between gene-body chromatin contacts and Pol II pausing signatures, we measured the correlation between CAP-C gene chromatin contacts with Pol II activities across the gene body. The phosphorylation of Ser5 inside the carboxyl-terminal domain (CTD) representing transcriptional activity during Pol II elongation is well-documented
+                    . Notably, we found a significant positive correlation (Fig.
+                    [3d](/articles/s41467-024-47678-7#Fig3)
+                    = 0.27) between gene chromatin contacts and Ser5P Pol II density, indicating a potential link between these two features. After ranking Ser5P Pol II density, we investigated the chromatin contact frequency across exon-intron junction sites. Our results indicated that the regions with high Ser5P Pol II densities exhibited more chromatin contacts than those with low Ser5P Pol II densities (Fig.
+                    [3e](/articles/s41467-024-47678-7#Fig3)
+                    ). Notably, this disparity was most prominent at the first exon-intron junction, which is critical to Pol II elongation activity (Fig.
+                    [3f](/articles/s41467-024-47678-7#Fig3)
+                    ). Our findings thus shed light on pervasive associations between chromatin contacts and Pol II activities during initiation, elongation, and termination at the gene level.
+                  Chromatin conformation-associated Pol II activities are dynamically altered in plant response to cold
+                  A previous study found that the Pol II densities across exon-intron junction sites dynamically changed in response to cold treatments (3-h and 12-h at 4 °C)
+                    . The Pol II pausing signal dropped rapidly during cold treatment for 3 h and gradually restored during cold treatment for 12 h
+                    . This result suggested a dynamic reprogramming of nascent Pol II activities in plant response to cold stress. Thus, we speculated whether these transcriptional dynamics of Pol II activities during elongation were linked to chromatin conformations. To test this, we generated CAP-C libraries corresponding to the same cold treatments of seedlings at 4 °C for 3 and 12 h, respectively (Fig.
+                    [4a](/articles/s41467-024-47678-7#Fig4)
+                    , Supplementary Fig.
+                    ). We compared the correlation between gene chromatin contacts obtained from CAP-C libraries and Pol II densities derived from previous plant native elongating transcripts sequencing (plaNET-seq) libraries for varying cold treatment durations (Fig.
+                    [4b, c](/articles/s41467-024-47678-7#Fig4)
+                    [7a](/articles/s41467-024-47678-7#MOESM1)
+                    ). We found significant positive correlations between gene chromatin contacts and Pol II densities at normal temperature (22 °C), and at 4 °C for 3 h and 4 °C for 12 h, respectively (Fig.
+                    Spearman’s
+                    = 0.47, Spearman’s
+                    = 0.44, Spearman’s
+                    = 0.41, respectively). These findings suggested that the relationship between chromatin contacts and Pol II activities at the gene level was likely to be pervasive across diverse conditions.
+                        Fig. 4: Chromatin contacts dynamically coordinate with Pol II activities in response to cold stress.
+                            Schematic illustration of plant cold treatments. 10 day-old seedlings were exposed to low temperature (4 °C) for 3 or 12 h. Samples were collected for CAP-C library constructions.
+                            Correlations between gene chromatin contacts and transcriptional activities under 3 h and 12 h cold treatments, respectively. The gene chromatin contact was measured by normalized chromatin contact density per gene. The transcription activity was measured by the plaNET-seq
+                            . The correlation between gene chromatin contacts and Pol II activities was 0.44,
+                            value < 1.7e−308 for 3 h cold treatment and 0.41,
+                            value < 1.7e−308 for 12 h cold treatment, two-sided Spearman’s rank correlation. Meta-profiles show the CAP-C chromatin contact profile 100 bp upstream and 200 bp downstream of the (
+                            ) the 1st 5’SS (22 °C in red, 4 °C treatment for 3 h in dark blue, 4 °C treatment for 12 h in light blue).
+                            Z
+                            -score normalization was applied to normalize the difference of the sequencing depths in the libraries of three conditions. Examples show the chromatin contacts and Pol II density signal profiles across the gene AT5G09310 (
+                            PEN-2
+                            ) (
+                            ) and AT1G31830 (
+                            PUT2
+                            g
+                  Next, we assessed chromatin contact densities across exon-intron junction sites and found that the changes in chromatin contacts were notably similar to Pol II density changes under cold treatments (Fig.
+                    [4d](/articles/s41467-024-47678-7#Fig4)
+                    , e and Supplementary Fig.
+                    [7b, c](/articles/s41467-024-47678-7#MOESM1)
+                    ). Specifically, the chromatin contacts located downstream of 5’SS dropped sharply during 3 h in the cold, but gradually reverted to control levels during 12 h in the cold (Fig.
+                    ). In particular, these dynamic changes of local chromatin contacts were more prominent across the first exon-intron junctions (Fig.
+                    [4e](/articles/s41467-024-47678-7#Fig4)
+                    ). This associative evidence between local chromatin interactions and Pol II activities implied that local chromatin conformations may facilitate transcriptional reprogramming in plant response to cold stress. Example associations across the first 5’SS of genes
+                    AT5G09310
+                    Probable gamma-secretase subunit
+                    AT1G31830
+                    Paraquat resistant 2
+                    ), between corresponding dynamic changes of both local chromatin contacts and Pol II activities, are illustrated in Fig.
+                    [4f, g](/articles/s41467-024-47678-7#Fig4)
+                    . Hence, our findings suggested that during extreme growth conditions, such as cold stress, dynamic changes in local chromatin contacts within the gene locus occur that may contribute to the reprogramming of transcriptional activities.
+                  CAP-C revealed a comprehensive PPI network that pervaded the genome
+                  After discovering alterations of local chromatin conformations in response to cold, we then assessed large-scale chromatin conformations. We found that most large-scale chromatin conformations remain stable (Supplementary Fig.
+                    ). We then investigated PPIs across the whole genome and identified PPIs that existed concurrently in three sets of CAP-C libraries under different temperature conditions that were likely to be thermo-stable and primed. Notably, we found a considerable number of PPIs, including intra-chromosomal and inter-chromosomal interactions, across all five chromosomes, forming a comprehensive PPI network (Fig.
+                    [5a, b](/articles/s41467-024-47678-7#Fig5)
+                    ). Furthermore, two PPI network hotspots were determined (Fig.
+                    [5a](/articles/s41467-024-47678-7#Fig5)
+                    ) connecting one gene locus to multiple genes. One of these hotspots was found on chromosome 2, where the promoter of
+                    AT2G01023
+                    interacted with the promoters of 4827 genes. The other hotspot was situated on chromosome 3, where the promoter of
+                    AT3G41768
+                    (rDNA) interacted with the promoters of 5407 genes (Fig.
+                    ). These two PPI networks might be primed to assist the extensive RNA-mediated chromatin contacts in these loci
+                    . We also did a comprehensive analysis on the PPIs (Supplementary Fig.
+                    [10](/articles/s41467-024-47678-7#MOESM13)
+                    ). A notable majority (77%) of these interactions occurred in a
+                    cis
+                    manner, where interactions take place on the same chromosome, while 23% were
+                    trans
+                    PPIs (Supplementary Fig.
+                    ). Among these
+                    PPIs, the most prevalent orientation was tandem PPIs (51%), characterized by genes with PPIs being transcribed in the same direction. Divergent PPIs accounted for 40% and convergent PPIs constitute 9%.
+                        Fig. 5: The primed promoter-promoter interaction network may harbor transcription factors.
+                            A genome-wide promoter-promoter interaction (PPI) map of
+                            for the PPIs present under three temperature conditions was displayed using Cytoscape 3.9.1
+                              [50](/articles/s41467-024-47678-7#ref-CR50)
+                            . The dark pink and purple dots inside the network were two PPI hotspots in chromosomes 2 and 3, respectively. The five individual chromosomes were shown in different colors. The size of the dots indicated the number of PPIs.
+                            An enlarged region of the PPI network on chromosome 2.
+                            Histogram of chromatin contacts over the PPIs across the binding sites of 422 transcription factor (TF). TF binding sites were obtained from previous ChIP experiments
+                              [31](/articles/s41467-024-47678-7#ref-CR31)
+                              [52](/articles/s41467-024-47678-7#ref-CR52)
+                            (see Supplementary Data
+                            Heatmap showing strengths of PPIs across the binding sites of the bHLH, NAC, and WRKY transcription factor families, respectively.
+                  Previous chromatin linkage studies in humans suggested that binding sites of transcription factors (TFs) may be involved in chromatin interactions in regulating gene expressions
+                      [30](/articles/s41467-024-47678-7#ref-CR30)
+                    . Therefore, we examined extensive ChIP-seq datasets for experimentally identified TF binding sites
+                    and plotted our CAP-C chromatin contacts across these specific TF binding sites. We found that PPIs were highly enriched at these TF binding sites (Fig.
+                    [5c](/articles/s41467-024-47678-7#Fig5)
+                    ). Notably, these enrichments occurred for most transcription factors such as the well-documented TF families bHLH, NAC, and WRKY (Fig.
+                    [5d](/articles/s41467-024-47678-7#Fig5)
+                    ), suggesting that these primed PPIs preferentially formed at the TF binding sites that may habor these transcription factors.
+                  Primed promoter-promoter interactions may facilitate the co-regulation of gene expression in response to cold
+                  To test the notion that primed PPIs may be involved in co-regulating gene expression, we performed the co-expression analysis for all three conditions
+                      [32](/articles/s41467-024-47678-7#ref-CR32)
+                    . We calculated the Pearson correlation coefficient for expression of all gene pairs involved in PPIs. Randomly selected gene pairs with the same number and similar distance distribution of the PPI connected gene pairs were built as control groups. We found that the Pearson correlation coefficients for expression of all gene pairs with PPIs for all three conditions were significantly higher than those from the random gene pairs (Fig.
+                    ), indicating that the gene pairs with PPIs tend to be co-expressed. Thus, our results suggest that the primed PPIs may contribute to the co-regulations of gene expression in response to cold treatments.
+                        Fig. 6: Promoter-promoter interactions may facilitate co-regulation of gene expression in response to cold.
+                            Pearson correlation coefficients of expressions from random gene pairs and PPI connected gene pairs at 22 °C. The Pearson correlation coefficients for gene pairs connected by promoter-promoter interaction (PPI) are significantly higher compared to those for randomly selected genes pairs. Randomly selected gene pairs with the same number and similar distance distribution of the PPI connected gene pairs were built as control groups. Random gene pairs A: random gene pairs with the same number; random gene pairs B: random gene pairs with similar distance distribution of PPI gene pairs. Both random procedures were repeated 1000 times.
+                            < 0.0001, two-sided Spearman’s rank correlation.
+                            A circus plot showed the interactions between the promoters of
+                            (rDNA) and 313 genes in the inner circle. From inner to outside, the second circle (blue) showed the co-downregulation of gene expression between 22 °C and 3-h cold treatment (4 °C). The third circle (red) showed co-upregulation of gene expression between 3-h and 12-h cold treatments (4 °C). The outermost circle displayed the five
+                            chromosomes.
+                            Examples showed PPIs of each gene pair. plaNET-seq profile
+                            showed the transcriptional level of each gene locus at 22 °C, 3-h, and 12-h cold treatments (4 °C).
+                  Notably, among these gene pairs, there was one primed PPI hotspot where the promoter of the rDNA gene (
+                    ) interacted with promoters of 313 genes. Interestingly, the 313 genes and the rDNA gene were co-downregulated after 3 h of cold treatment and co-upregulated after 12 h of cold treatment (Fig.
+                    ). This co-regulation of gene expression might assist the extensive RNA-mediated chromatin interactions in these loci
+                    . Thus, our results suggested that this primed PPI network comprising the promoters of the rDNA gene and other 313 genes together formed the transcription factories for co-regulating gene expression in response to cold.
+                  Further assessment of other co-regulatory gene pairs containing primed PPIs showed that for many gene pairs where one gene was involved in stress response, its co-regulatory gene partner was mainly involved in either cellular metabolic processes or developmental processes (Supplementary Data
+                    ). To better visualize PPI-mediated co-regulation of gene expression, we plotted the primed PPIs in examples of gene pairs. In Fig.
+                    , we illustrate three co-differentially expressed gene pairs with primed PPIs: (1)
+                    AT1G60220
+                    AT1G60230
+                    encode a stress-responsive SUMO protease and a SAM superfamily protein which participates in chloroplast function, respectively. We found their expression levels were co-downregulated after 3 h of cold treatment and co-upregulated after 12 h of cold treatment (Fig.
+                    ). (2)
+                    AT1G78210
+                    AT1G78230
+                    respectively encode alpha/beta-Hydrolases for enhancing tolerance to freezing and the outer arm dynein light chain 1 (ODALC1) protein that regulates intracellular transport, cell division, and organelle positioning. We found both genes were co-upregulated after 3 h of cold treatment and recovered back to control levels after 12 h of cold treatment. (3)
+                    AT1G80940
+                    AT1G80950
+                    encode a SNF1-RELATED PROTEIN KINASE that regulates stomatal closure in response to stress and LYSOPHOSPHATIDYLETHANOLAMINE involved in cell membrane metabolism, respectively. Both gene expression levels were strongly suppressed after 3 h of cold treatment and returned to control levels after 12 h of cold treatment.
+                  We further assessed the T-DNA inserted mutants where a previous study suggested that T-DNA insertion is capable of disrupting chromatin interactions
+                      [33](/articles/s41467-024-47678-7#ref-CR33)
+                    . We identified a T-DNA insertion mutant, the
+                    lpeat1-1
+                    mutant (SALK_065009), with the T-DNA inserted into the promoter of gene
+                    across the PPI sites (Supplementary Fig.
+                    [12a](/articles/s41467-024-47678-7#MOESM1)
+                    ). We then confirmed the PPIs detected in our CAP-C in the wild-type plants using 3C and reciprocal 3C experiments
+                      [34](/articles/s41467-024-47678-7#ref-CR34)
+                    (Supplementary Fig.
+                    [12b, c](/articles/s41467-024-47678-7#MOESM1)
+                    ). The PPIs between the gene pair
+                    were disrupted in the T-DNA insertion mutant (Supplementary Fig.
+                    ). Similarly, we confirmed another two T-DNA inserted mutants: the
+                    oadlc-1
+                    (SALK_093069) (Supplementary Fig.
+                    [12d](/articles/s41467-024-47678-7#MOESM1)
+                    ) and the
+                    rssp-1
+                    [12g](/articles/s41467-024-47678-7#MOESM1)
+                    ). The identified PPIs between the gene pair
+                    , and PPIs between the gene pair
+                    were also disrupted in these T-DNA insertion mutants (Supplementary Fig.
+                    [12e, f](/articles/s41467-024-47678-7#MOESM1)
+                    [h, i](/articles/s41467-024-47678-7#MOESM1)
+                  Following the validations of abolished PPIs in these T-DNA mutants, we further measured the co-regulation of gene expressions. In the comparison of 3-h 4 °C vs. 22 °C in the Col-0 wild-type plants, a distinct co-downregulation trend was observed in the gene pair
+                    , consistent with the results from the plaNET-seq data (Fig.
+                    [13a, b](/articles/s41467-024-47678-7#MOESM1)
+                    ). Similarly, in the comparison of 12-h 4 °C vs. 3-h 4 °C, a co-upregulation pattern was observed (Fig.
+                    ). In the
+                    mutant, the gene expression of
+                    was significantly reduced at 22 °C along with significantly different cold responses (Supplementary Fig.
+                    [13b](/articles/s41467-024-47678-7#MOESM1)
+                    ). Interestingly, in the
+                    mutant, the expression of the PPI paired gene
+                    was also significantly decreased at 22 °C (Supplementary Fig.
+                    ). The corresponding plant response expression patterns under different cold treatments were very different from those observed in the wild-type plants (Supplementary Fig.
+                    ). Similar results were observed in the other two T-DNA mutants (Supplementary Fig.
+                    [13c–f](/articles/s41467-024-47678-7#MOESM1)
+                    ). To further validate the effect of PPI disruption, we also successfully generated the CRISPR/Cas9 stable transgenic lines for the two sets of gene pairs connected by PPIs. For the gene pair
+                    connected by PPIs, we obtained a CRISPR/Cas9 stable transgenic line with a 512-bp region within the promoter of
+                    [14a](/articles/s41467-024-47678-7#MOESM1)
+                    ). This deletion was confirmed by gel analysis and Sanger sequencing (Supplementary Fig.
+                    [14b, c](/articles/s41467-024-47678-7#MOESM1)
+                    ). In the context of the promoter deletion mutants for
+                    , the expression patterns of both genes in plant response to the different cold treatments were very different from those in the wild-type plants (Supplementary Fig.
+                    [14d](/articles/s41467-024-47678-7#MOESM1)
+                    ). Similarly, we have also validated our identified PPIs in the gene pair of
+                    [14e](/articles/s41467-024-47678-7#MOESM1)
+                    ). For the gene pair
+                    connected by PPIs, guide RNAs were designed to target and delete a 565-bp region within the promoter of
+                    [14f, g](/articles/s41467-024-47678-7#MOESM1)
+                    ). In the promoter deletion mutants for
+                    , the expression patterns of both genes in response to cold were also dramatically different from those in the wild-type plants (Supplementary Fig.
+                    [14h](/articles/s41467-024-47678-7#MOESM1)
+                    ). The significant impacts on the co-regulatory gene expression we observed further underscore the importance of PPIs in co-regulating gene expressions. Taken together, these results indicated that PPIs are important for the gene expressions of these gene pairs and their co-regulations in response to cold.
+                  Taken together, our validations from both T-DNA mutants and CRISPR-Cas9-based deletion mutants indicate the importance of PPIs in the co-regulations of gene pair expression in response to cold stress.
+                Discussion
+                  Recent effort has improved our understanding of chromatin architectures in plants
+                      [35](/articles/s41467-024-47678-7#ref-CR35)
+                    . Whether plant chromatin conformations have a regulatory impact on gene expression remains largely unknown. As sessile organisms, plants deploy global transcription reprogramming in response to environmental changes such as cold stress
+                    . It is unclear whether chromatin conformations alter in response to cold stress. If conformational changes occur, are these chromatin dynamics responsive to transcriptional reprogramming? Here, we applied CAP-C methodology in
+                    to chemically crosslink proximal genomic DNA loci directly. We generated the first high-resolution chromatin contact map and identified fine-scale chromatin features that were associated with transcription dynamics, contributing to plant response to the cold. We also uncovered comprehensive PPI networks prewired in the genome, that may facilitate cold-responsive gene expression co-regulation.
+                  Our study successfully generated the first high-resolution chromatin contact map with fine-scale details of ~200 base pairs in
+                    ). The use of direct DNA crosslinking with bridge linker ligation has enabled us to detect short-range chromatin contacts with low background noise, resulting in high accuracy and sensitivity (Figs.
+                    and Supplementary Figs.
+                    ). Our CAP-C approach had a distinct advantage over traditional Hi-C as it reduced reliance on protein-DNA crosslinking. Thus, we were able to capture strong chromatin contacts at centromeric regions that were not observed in Hi-C (Fig.
+                    ), consistent with the DNA FISH fluorescent pattern
+                    . As a result, CAP-C uncovered intrinsic chromatin conformation features with high reproducibility (Supplementary Fig.
+                    ). Using CAP-C, we identified well-established chromatin contacts at the gene level (Fig.
+                    [2a, b](/articles/s41467-024-47678-7#Fig2)
+                    ) as well as E-P interactions between active enhancers and neighboring gene promoters (Fig.
+                    [2c, d](/articles/s41467-024-47678-7#Fig2)
+                    ). Notably, our CAP-C detected E-P chromatin contacts on enhancer-transcribed RNA (eRNAs)
+                      [36](/articles/s41467-024-47678-7#ref-CR36)
+                    , further supporting CAP-C’s sensitivity for identifying local
+                    -regulatory elements. Therefore, we found CAP-C to be well suited for discovering intrinsic local chromatin conformations and Hi-C better suited for exploring protein-mediated long-range chromatin interactions. Combining both approaches could be applied to systematically decipher chromatin features at different scales.
+                  Our high-resolution chromatin contact map enabled us to reveal that fine-scale chromatin contacts were responsive to transcriptional activities (Fig.
+                    ) at the gene level. High chromatin contacts positively correlated with active histone modifications and negatively correlated with repressive histone modifications (Fig.
+                    ), similar to observations in mammals
+                    . Additionally, the association between chromatin accessibility and chromatin interactions (Supplementary Fig.
+                    ) may indicate the gene folding between TSS and the TTS
+                      [37](/articles/s41467-024-47678-7#ref-CR37)
+                    . Besides transcription-associated enrichment of chromatin contacts around transcription start and termination sites (Fig.
+                    ), we found significant positive correlations between Pol II pausing and local chromatin contacts (Fig.
+                    ), indicating a potential link between these two features. Moreover, our results indicated that genes with high Pol II densities across exon-intron junction sites exhibited more chromatin contacts than those with low Pol II densities (Fig.
+                    ). Notably, this disparity was most prominent at the first exon-intron junction, which is critical for Pol II elongation activity (Fig.
+                    ), suggesting that local chromatin conformations may be finely primed across the gene body to define transcription activity.
+                  Interestingly, we found these local chromatin conformations changed dynamically in response to cold, consistent with changes in Pol II pausing signals, particularly downstream of the 5’SS (Fig.
+                    ). The Pol II pausing signal downstream of the 5’SS is an important checkpoint during Pol II elongation
+                    , thus affecting transcription activity. Therefore, being able to dynamically tune local chromatin conformations inside the gene may offer a novel way of regulating cold-responsive transcription activity to enhance plant thermo-resilience to environmental temperature stress.
+                  In contrast to the plasticity of local chromatin conformations, we did not find large-scale chromatin conformations altered in response to cold (Supplementary Fig.
+                    ). Instead, we found a large thermo-stable PPI network across all five chromosomes that is likely primed in the genome (Fig.
+                    ). Notably, ChIP-seq experimental data showed these PPI sites were highly enriched across TF binding sites, (Supplementary Data
+                    and Fig.
+                    [5c, d](/articles/s41467-024-47678-7#Fig5)
+                    ), suggesting these PPIs are primed across the genome that may harbor transcription factors. We also found that the gene pairs with PPIs tend to be co-expressed in three conditions (Fig.
+                    ), implying the PPIs may participate in the co-regulations of gene expression in response to cold treatments. Due to chromatin interactions enabling the connectivity between two genes, certain transcription factors may bind with these interacting PPI sites and co-regulate the gene pair. For instance, the PPI sites of the three gene pairs in Fig.
+                    were across the binding sites of a cold-responsive transcription factor ICE1 (
+                    Inducer of CBF Expression 1
+                    , suggesting that these PPIs may harbor ICE1 for co-regulating gene expression in plant response to cold. This hypothesis needs to be further proved in future work. Notably, those PPI-mediated co-regulated genes are not only associated with stress response functions, but also cellular metabolites and developmental processes (Supplementary Data
+                    ), suggesting that PPI may contribute to balancing the trade-off between plant development and stress response. The principle of trade-off in plants underscores a strategic allocation of resources, directing plants toward either a stress response or growth contingent upon prevailing conditions. The trade-off mechanism exemplifies how resource allocation is dynamically modulated to enhance plant adaptability and fitness, even amid challenging environmental circumstances
+                      [38](/articles/s41467-024-47678-7#ref-CR38)
+                      [39](/articles/s41467-024-47678-7#ref-CR39)
+                    . The primed PPIs captured in our CAP-C library have revealed a diverse array of pathways, particularly noteworthy were pathways associated with stress responses, anatomical structure development, biosynthesis, and metabolic pathways. Within these categories, we identified a delicate interplay of genes that function as positive and negative regulators within their respective pathways. The co-regulation of these genes could possibly be a mechanism for the trade-off phenomenon.
+                  In plant cold-responsiveness, we observed dynamic changes of local chromatin conformations contributing to the fine-tuning of transcription activities, in contrast to the large-scale chromatin conformations which remained largely stable, possibly due to maintaining global genome integrity in cold. A prior Hi-C investigation revealed that rice chromosomal configurations underwent significant changes at a large scale under the cold treatment at 16 °C, resulting in a reduction of long-range interactions exceeding 1 Mb and an increase in A-B compartment interactions
+                      [40](/articles/s41467-024-47678-7#ref-CR40)
+                    . Another previous Hi-C study of heat stress in metazoans reported a similar observation that global chromatin architectures remain unchanged while local distal chromatin interactions were relatively plastic
+                      [41](/articles/s41467-024-47678-7#ref-CR41)
+                    . A recent Hi-C study on tomato chromatin organization reported that heat stress strongly affected global chromatin reorganization and the Heat Shock Factor (HSF) transcription factor HSFA1a was required for chromatin reorganization
+                      [42](/articles/s41467-024-47678-7#ref-CR42)
+                    . Our observation of the unchanged large-scale chromatin conformations in response to cold may be due to the unique chromatin architecture of
+                    , which is topologically associated domain (TAD) deficient or thermodynamically stable under conditions at 4 °C that preferably maintain genome integrity. It is also possible that plants adopt different strategies in response to different stresses.
+                  In summary, our study generated the first fine-scale
+                    intrinsic chromatin landscape with high resolution and low background noise, facilitating both the determination of local chromatin contacts at the gene level as well as an extensive, globally primed PPI network. Our successful demonstration of CAP-C application in
+                    should stimulate future exploration of intrinsic fine-scale chromatin architecture, particularly local chromatin conformations in other plant species. Our findings of cold-responsive local chromatin conformation-associated transcriptional dynamics open a novel pathway for investigating plant stress-responsive regulatory transcription. Our primed PPI network across the genome may be involved in balancing the trade-off between plant development and stress response.
+                Methods
+                  Plants and growth conditions
+                  The
+                    Arabidopsis thaliana
+                    ecotype Columbia (Col-0) and T-DNA insertion mutants (SALK_065009, SALK_093069, SALK_126003) were obtained from the Nottingham Arabidopsis Stock Centre (NASC),
+                    ecotype Columbia (Col-0) seeds were sterilized using 70% ethanol for 10 min, washed with distilled water three times, and plated on one-half strength Murashige and Skoog medium supplemented with 1% sucrose. Plates were stratified for 4 days at 4 °C and then moved to long-day conditions with 16 h light/8 h dark for 10 days. The seedlings were then harvested and fixed for CAP-C library construction. The cold treatment was performed as described
+                  The CAP-C library construction
+                  Seedlings were crosslinked in 1% formaldehyde for 15 min under a vacuum and kept on ice throughout the process. Crosslinking was then quenched with 0.125 M glycine for 5 min under a vacuum. The seedling tissues were rinsed three times and dried with paper towels, fast-frozen, and stored at −80 °C for nuclei isolation later. To start nuclei isolation, frozen tissue was ground into a fine powder, and Honda buffer (20 mM HEPES, 0.44 M sucrose, 1.25% Ficoll 400, 2.5% Dextran T40, 10 mM MgCl
+                    , 0.5% Triton X-100, 5 mM Dithiothreitol (DTT), and 1× Protease inhibitor cocktail) added. The homogenate was then centrifuged at 3000 ×
+                    under 4 °C and washed several times at 2000 ×
+                    until the pellet turned gray. The resulting pellet was resuspended in 1 ml CAP-C buffer (50 mM Tris·HCl pH 7.5, 100 mM NaCl, 1% Triton X-100, 1 mM MgCl
+                    , 0.1 mM CaCl
+                    , 1× protease inhibitor mixture). Purified nuclei were then photo-crosslinked with dendrimer by irradiating under 365 nm UV light for 30 min. Crosslinked chromatin was then digested with proteinase K overnight. After purification with phenol/chloroform, the digested DNA-Dendrimer complexes were then fragmented by DNaseI into 50–200 bp fragments. The bridge linker (customized with IDT: F: /5Phos/GTCAGA/iDBCON/AAGATATCGCGT, R:/5Phos/CGCGATATC/iBiodT/TATCTGACT) was then added to the reaction at 37 °C for 2 h to allow for the click reaction with the Et3N branch of the dendrimer. After the removal of the free adapters, ligation was performed between the DNA-dendrimer-adapter complex by T4 DNA ligase. Chimeric fragments were then pulled down by the biotin label on the adapter. Sequencing libraries were constructed using the NEB Library prep kit. Libraries were then subjected to the MGI platform (BGI) for 150 bp pair-end sequencing.
+                  The CAP-C data processing
+                  The 150 bp pair-end FASTQ formatted files were aligned to the TAIR10 reference genome using HiC-Pro
+                      [43](/articles/s41467-024-47678-7#ref-CR43)
+                    (version 3.0.0). The linker sequence was trimmed by cutadapt
+                      [44](/articles/s41467-024-47678-7#ref-CR44)
+                    (version 1.18). R1 and R2 were merged according to the previous method
+                    . The mapping result was filtered using MAPQ ≥ 10 for each sample. Juicer
+                      [45](/articles/s41467-024-47678-7#ref-CR45)
+                    was then used to convert the merged-sorted file into a.hic formatted file. All contact matrices at the 200 bp resolution were visually represented as contact maps using HiCExplorer
+                      [46](/articles/s41467-024-47678-7#ref-CR46)
+                    (version 3.5.1) and Genomic-Interactive-Visualization-Engine (GIVE)
+                      [47](/articles/s41467-024-47678-7#ref-CR47)
+                    . Genome-wide contact decaying was shown using hicPlotDistVsCounts from HiCExplorer
+                    . Only valid and filtered contact pairs were used for all downstream analyses. The characterization of CAP-C mapped reads of all replicates from all growth conditions used in this study was summarized in Supplementary Data
+                  A pre-formatted text file was prepared before converting it into a.hic formatted file with the following resolutions (200 bp, 2 Kb, 10 Kb, 20 Kb). To generate a CAP-C merge file, G3 replicated libraries in the pre-formatted text file were concatenated and merged-sorted. Juicer
+                    was then used for converting the merged-sorted file into a.hic formatted file. All contact matrices visually represented as contact maps were VC-normalized with Juicer
+                    . The reproducibility between two biological replicates was calculated using hicCorrelate from HiCExplorer
+                  The stable chromatin contacts calling
+                  Genome-wide stable chromatin contacts were identified using Fit-Hi-C
+                      [48](/articles/s41467-024-47678-7#ref-CR48)
+                    (version 2.0.7) at the 200 bp resolution, following a previously reported method
+                      [49](/articles/s41467-024-47678-7#ref-CR49)
+                  The promoter–promoter network illustration
+                  The promoter-promoter interaction network was integrated into a global network using Cytoscape (version 3.9.1)
+                    as shown in Fig.
+                    , the network was visualized by the third-party application AllegroLayout. Gephi
+                      [51](/articles/s41467-024-47678-7#ref-CR51)
+                    (version 0.10.0) with ForceAtlas 2 was used for a closer look visualization of the promoter-promoter interaction network.
+                  ChIP-seq and ATAC-seq data processing
+                  ChIP-seq datasets for different histone modifications
+                    were processed using the reported pipeline
+                      [53](/articles/s41467-024-47678-7#ref-CR53)
+                    . ATAC-seq data were processed according to the previous report
+                      [54](/articles/s41467-024-47678-7#ref-CR54)
+                    . We followed the methodology used by the authors from which the data originated. The downloaded data were removed adapters by using trim_galore. The cleaned data were mapped to
+                    reference genome (TAIR10) by using bowtie, with parameters: -X 2000 -m 1. Samtools were used to remove duplicate reads, and reads located on the mitochondria and chloroplasts were removed.
+                  plaNET-seq, pNET-seq and GRO-seq data processing
+                  plaNET-seq datasets were processed following the reported method
+                    . GRO-seq and pNET-seq datasets were processed based on a previously reported study
+                    . Calculation of differentially expressed genes was performed using htseq-count
+                      [55](/articles/s41467-024-47678-7#ref-CR55)
+                    and DESeq2
+                      [56](/articles/s41467-024-47678-7#ref-CR56)
+                    . Htseq-count was run with the default parameters and the addition of –stranded=yes.
+                  3C quantification, normalization and controls
+                  3C experiment was done by following the previous study
+                    . Relative interaction frequencies were determined by qPCR. Normalization for differences in DNA concentration among samples was achieved through a loading control (LC) employing primer sets that do not span any restriction site. To address variations in primer efficiency during PCR, normalization was performed against a control template (CT) DNA, which contained all potential ligation products in equimolar proportions. The CT DNA was produced by digesting BAC plasmids with ApoI and subsequent random ligation without dilution. All figures presented in this study reflect the mean values from a minimum of two distinct biological samples. Each 3C DNA preparation underwent quantification through independent qPCR assays, and each qPCR experiment consisted of triplicate analyses for all DNA samples. The complete list of primers and BAC plasmids employed in the experiment can be found in Supplementary Data
+                  Generation of CRISPR mutants
+                  Specific sgRNAs were chosen for the generation of CRISPR/Cas9 constructs and were subsequently cloned into the pICSL002217A plasmid (TSLSynBio). A comprehensive list of sgRNA primers can be found in Supplementary Data
+                  Quantitative real-time PCR
+                  RNA was extracted using RNeasy Plant Mini Kit. First-strand cDNA was synthesized using reverse transcriptase Superscript III (Invitrogen) and oligo dT primer. Quantitative qRT-PCR was performed with LightCycler® 480 SYBR Green I Master (Roche) using CFX96 Touch Real-Time PCR Detection System (BIORAD) according to the manufacturer’s protocol.
+                    ACTIN2
+                    was used as the internal control. All Primers used in the experiment are listed in Supplementary Data
+                  Reporting summary
+                  Further information on research design is available in the
+                    [Nature Portfolio Reporting Summary](/articles/s41467-024-47678-7#MOESM16)
+                    linked to this article.
+                Data availability
+                  Sequencing data in this study were deposited in the Sequence Read Archive (SRA) (
+                    [https://www.ncbi.nlm.nih.gov/sra](https://www.ncbi.nlm.nih.gov/sra)
+                    ) under BioProject ID number
+                    [PRJNA912614](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA912614)
+                    . A full list of primers is available in Supplementary Table
+                    [Source data](/articles/s41467-024-47678-7#Sec23)
+                    are provided with this paper.
+                Code availability
+                  The code used for analyses is available at
+                    [https://github.com/Huakun-Lab/CAP-C-in-Arabidopsis](https://github.com/Huakun-Lab/CAP-C-in-Arabidopsis)
+                  References
+                          Kidokoro, S., Shinozaki, K. & Yamaguchi-Shinozaki, K. Transcriptional regulatory network of plant cold-stress responses.
+                            Trends Plant Sci.
+                            , 922–935 (2022).
+                            [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB38XivF2jt7s%3D)
+                            [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35210165)
+                            [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptional%20regulatory%20network%20of%20plant%20cold-stress%20responses&journal=Trends%20Plant%20Sci.&doi=10.1016%2Fj.tplants.2022.01.008&volume=27&pages=922-935&publication_year=2022&author=Kidokoro%2CS&author=Shinozaki%2CK&author=Yamaguchi-Shinozaki%2CK)
+                          Kindgren, P., Ivanov, M. & Marquardt, S. Native elongation transcript sequencing reveals temperature dependent dynamics of nascent RNAPII transcription in Arabidopsis.
+                            Nucleic Acids Res.
+                            , 2332–2347 (2020).
+                          Jonkers, I. & Lis, J. T. Getting up to speed with transcription elongation by RNA polymerase II.
+                            Nat. Rev. Mol. Cell Biol.
+                            , 167–177 (2015).
+                            [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4782187)
+                          Ding, Y., Shi, Y. & Yang, S. Advances and challenges in uncovering cold tolerance regulatory mechanisms in plants.
+                            N. Phytol.
+                            222
+                            , 1690–1704 (2019).
+                          Ouyang, W., Xiao, Q., Li, G. & Li, X. Technologies for capturing 3D genome architecture in plants.
+                            , 196–197 (2021).
+                          Ouyang, W., Xiong, D., Li, G. & Li, X. Unraveling the 3D genome architecture in plants: present and future.
+                            Mol. Plant
+                            , 1676–1693 (2020).
+                          You, Q. et al. Direct DNA crosslinking with CAP-C uncovers transcription-dependent chromatin organization at high resolution.
+                            Nat. Biotechnol.
+                            , 225–235 (2021).
+                          Kolb, H. C., Finn, M. G. & Sharpless, K. B. Click chemistry: diverse chemical function from a few good reactions.
+                            Angew. Chem. Int. Ed. Engl.
+                            , 2004–2021 (2001).
+                          Moissiard, G. et al. MORC family ATPases required for heterochromatin condensation and gene silencing.
+                            Science
+                            336
+                            , 1448–1451 (2012).
+                            [ADS](http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2012Sci...336.1448M)
+                          Schubert, V., Berr, A. & Meister, A. Interphase chromatin organisation in Arabidopsis nuclei: constraints versus randomness.
+                            Chromosoma
+                            121
+                            , 369–387 (2012).
+                          Feng, S. et al. Genome-wide Hi-C analyses in wild-type and mutants reveal high-resolution chromatin interactions in Arabidopsis.
+                            Mol. Cell
+                            , 694–707 (2014).
+                          Liu, C. et al. Genome-wide analysis of chromatin packing in Arabidopsis thaliana at single-gene resolution.
+                            Genome Res.
+                            , 1057–1068 (2016).
+                          Ariel, F. et al. R-Loop mediated trans action of the APOLO long noncoding RNA.
+                            77
+                            , 1055 (2020).
+                          Crevillén, P., Sonmez, C., Wu, Z. & Dean, C. A gene loop containing the floral repressor FLC is disrupted in the early phase of vernalization.
+                            EMBO J.
+                            , 140–148 (2013).
+                          Kaul, A., Bhattacharyya, S. & Ay, F. Identifying statistically significant chromatin contacts from Hi-C data with FitHiC2.
+                            Nat. Protoc.
+                            , 991–1012 (2020).
+                          Wu, Z. et al. Quantitative regulation of FLC via coordinated transcriptional initiation and elongation.
+                            Proc. Natl Acad. Sci. USA
+                            113
+                            , 218–223 (2016).
+                          Ariel, F. et al. Noncoding transcription by alternative RNA polymerases dynamically regulates an auxin-driven chromatin loop.
+                            , 383–396 (2014).
+                          Hsieh, T. S. et al. Resolving the 3D landscape of transcription-linked mammalian chromatin folding.
+                            78
+                            , 539–553.e8 (2020).
+                          Beagan, J. A. et al. YY1 and CTCF orchestrate a 3D chromatin looping switch during early neural lineage commitment.
+                            , 1139–1152 (2017).
+                          Weintraub, A. S. et al. YY1 is a structural regulator of enhancer-promoter loops.
+                            Cell
+                            171
+                            , 1573–1588.e28 (2017).
+                          Phillips-Cremins, J. E. et al. Architectural protein subclasses shape 3D organization of genomes during lineage commitment.
+                            153
+                            , 1281–1295 (2013).
+                          Zhu, J., Liu, M., Liu, X. & Dong, Z. RNA polymerase II activity revealed by GRO-seq and pNET-seq in Arabidopsis.
+                            Nat. Plants
+                            , 1112–1123 (2018).
+                          Xie, Y. et al. Meta-analysis of arabidopsis KANADI1 direct target genes identifies a basic growth-promoting module acting upstream of hormonal signaling pathways.
+                            Plant Physiol.
+                            169
+                            , 1240–1253 (2015).
+                          Stadhouders, R. et al. Transcription regulation by distal enhancers: who’s in the loop?
+                            Transcription
+                            , 181–186 (2012).
+                          Xie, Y. et al. Enhancer transcription detected in the nascent transcriptomic landscape of bread wheat.
+                            Genome Biol.
+                            , 109 (2022).
+                          Li, L. et al. Global profiling of RNA-chromatin interactions reveals co-regulatory gene expression networks in Arabidopsis.
+                            , 1364–1378 (2021).
+                          Li, G. et al. Extensive promoter-centered chromatin interactions provide a topological basis for transcription regulation.
+                            148
+                            , 84–98 (2012).
+                          Harlen, K. M. & Churchman, L. S. The code and beyond: transcription regulation by the RNA polymerase II carboxy-terminal domain.
+                            , 263–273 (2017).
+                          Li, B., Carey, M. & Workman, J. L. The role of chromatin during transcription.
+                            128
+                            , 707–719 (2007).
+                          Kim, S. & Shendure, J. Mechanisms of interplay between transcription factors and the 3D genome.
+                            76
+                            , 306–319 (2019).
+                          Hammal, F., de Langen, P., Bergon, A., Lopez, F. & Ballester, B. ReMap 2022: a database of Human, Mouse, Drosophila and Arabidopsis regulatory regions from an integrative analysis of DNA-binding sequencing experiments.
+                            , D316–d325 (2022).
+                          Peng, Y. et al. Chromatin interaction maps reveal genetic regulation for quantitative traits in maize.
+                            Nat. Commun.
+                            , 2632 (2019).
+                          Zhu, B., Zhang, W., Zhang, T., Liu, B. & Jiang, J. Genome-wide prediction and validation of intergenic enhancers in Arabidopsis using open chromatin signatures.
+                            Plant Cell
+                            , 2415–2426 (2015).
+                          Jamge, S., Stam, M., Angenent, G. C. & Immink, R. G. H. A cautionary note on the use of chromosome conformation capture in plants.
+                            Plant Methods
+                            , 101 (2017).
+                          Domb, K., Wang, N., Hummel, G. & Liu, C. Spatial features and functional implications of plant 3D genome organization.
+                            Annu. Rev. Plant Biol.
+                            73
+                            , 173–200 (2022).
+                          Zhang, Y. et al. Dynamic enhancer transcription associates with reprogramming of immune genes during pattern triggered immunity in Arabidopsis.
+                            BMC Biol.
+                            20
+                            , 165 (2022).
+                          Lee, H. & Seo, P. J. Accessible gene borders establish a core structural unit for chromatin architecture in Arabidopsis.
+                            , 10261–10277 (2023).
+                          Monson, R. K., Trowbridge, A. M., Lindroth, R. L. & Lerdau, M. T. Coordinated resource allocation to plant growth-defense tradeoffs.
+                            233
+                            , 1051–1066 (2022).
+                          Huot, B., Yao, J., Montgomery, B. L. & He, S. Y. Growth-defense tradeoffs in plants: a balancing act to optimize fitness.
+                            , 1267–1287 (2014).
+                          Liu, C., Cheng, Y. J., Wang, J. W. & Weigel, D. Prominent topologically associated domains differentiate global chromatin packing in rice from Arabidopsis.
+                            , 742–748 (2017).
+                          Ray, J. et al. Chromatin conformation remains stable upon extensive transcriptional changes driven by heat shock.
+                            116
+                            , 19431–19439 (2019).
+                          Huang, Y. et al. HSFA1a modulates plant heat stress responses and alters the 3D chromatin organization of enhancer-promoter interactions.
+                            , 469 (2023).
+                          Servant, N. et al. HiC-Pro: an optimized and flexible pipeline for Hi-C data processing.
+                            , 259 (2015).
+                          Martin, M. Cutadapt removes adapter sequences from high-throughput sequencing reads.
+                            EMBnet J.
+                            , 3 (2011).
+                          Durand, N. C. et al. Juicer provides a one-click system for analyzing loop-resolution Hi-C experiments.
+                            Cell Syst.
+                            , 95–98 (2016).
+                          Wolff, J. et al. Galaxy HiCExplorer 3: a web server for reproducible Hi-C, capture Hi-C and single-cell Hi-C data analysis, quality control and visualization.
+                            , W177–W184 (2020).
+                          Cao, X., Yan, Z., Wu, Q., Zheng, A. & Zhong, S. GIVE: portable genome browsers for personal websites.
+                            , 92 (2018).
+                          Ay, F., Bailey, T. L. & Noble, W. S. Statistical confidence estimation for Hi-C data reveals regulatory chromatin contacts.
+                            , 999–1011 (2014).
+                          Wang, M. et al. Genomic innovation and regulatory rewiring during evolution of the cotton genus Gossypium.
+                            Nat. Genet.
+                            , 1959–1971 (2022).
+                          Shannon, P. et al. Cytoscape: a software environment for integrated models of biomolecular interaction networks.
+                            , 2498–2504 (2003).
+                          Bastian, M., Heymann, S. & Jacomy, M. Gephi: an open source software for exploring and manipulating networks. In
+                            Proceedings of the International AAAI Conference on Web and Social Media
+                            3, 361–362 (2009).
+                          Liu, Q. et al. The characterization of Mediator 12 and 13 as conditional positive gene regulators in Arabidopsis.
+                            , 2798 (2020).
+                          Park, S. J., Kim, J. H., Yoon, B. H. & Kim, S. Y. A ChIP-Seq data analysis pipeline based on bioconductor packages.
+                            Genomics Inf.
+                            , 11–18 (2017).
+                          Potok, M. E. et al. Arabidopsis SWR1-associated protein methyl-CpG-binding domain 9 is required for histone H2A.Z deposition.
+                            , 3352 (2019).
+                          Putri, G. H., Anders, S., Pyl, P. T., Pimanda, J. E. & Zanini, F. Analysing high-throughput sequencing data in Python with HTSeq 2.0.
+                            Bioinformatics
+                            , 2943–2945 (2022).
+                          Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2.
+                            , 550 (2014).
+                        [Download references](https://citation-needed.springer.com/v2/references/10.1038/s41467-024-47678-7?format=refman&flavour=references)
+                Acknowledgements
+                  The study is supported by the National Key R&D Program of China (2023ZD04073), the National Key Research and Development Program of China (2021YFF1000900), the National Natural Science Foundation of China (32170229 and 32000178), the Fundamental Research Funds for the Central Universities (2412023YQ005), the United Kingdom Biotechnology and Biological Sciences Research Council (BBSRC: BB/X01102X/1, BBS/E/J/000PR9788, BB/L025000/1, and BB/N022572/1), and the European Research Council (ERC: 680324). We thank Dr Yilin Xie (Guangzhou) for providing us with the active enhancer data derived from the Arabidopsis pNET-seq data. We thank Dr. Sebastian Marquardt (Copenhagen Plant Science Centre) for his support in analyzing the plaNET-seq data. We thank Dame Professor Caroline Dean (John Innes Centre) for her discussions regarding this work. This research was supported by the Key Laboratory of Molecular Epigenetics’ High-Performance Computing Cluster.
+                Author information
+                  Author notes
+                      These authors contributed equally: Yueying Zhang, Qianli Dong, Zhen Wang, Qinzhe Liu.
+                  Authors and Affiliations
+                      Key Laboratory of Molecular Epigenetics of Ministry of Education, Northeast Normal University, Changchun, 130024, China
+                      Yueying Zhang, Qianli Dong, Wenqing Sun, Ling Ding & Huakun Zhang
+                      Department of Cell and Developmental Biology, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK
+                      Yueying Zhang, Zhen Wang, Haopeng Yu, Jitender Cheema & Yiliang Ding
+                      Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 100101, Beijing, China
+                      Zhen Wang & Xiaofeng Cao
+                      Howard Hughes Medical Institute, The University of Chicago, Chicago, IL, 60637, USA
+                      Qinzhe Liu, Qiancheng You & Chuan He
+                      Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, The University of Chicago, Chicago, IL, 60637, USA
+                    Authors
+                        Yueying Zhang
+                            [View author publications](/search?author=Yueying%20Zhang)
+                            You can also search for this author in
+                        Qianli Dong
+                        Zhen Wang
+                        Qinzhe Liu
+                        Haopeng Yu
+                        Wenqing Sun
+                        Jitender Cheema
+                        Qiancheng You
+                        Ling Ding
+                        Xiaofeng Cao
+                        Chuan He
+                        Yiliang Ding
+                        Huakun Zhang
+                  Contributions
+                  Y.D., C.H. and H.Z. conceived the study; Y.Z., Q.D., Q.L., Q.Y., Y.D., C.H. and H.Z. designed the study; Y.Z., H.Z., Z.W., Q.L., W.S., Q.Y. and L.D. performed the experiments; Y.Z., H.Z., Q.D., H.Y. and J.C. conducted the data analyses; Y.D., C.H., X.C. and H.Z. supervised the analyses; Y.Z. and H.Z. wrote the paper with input from all authors.
+                  Corresponding authors
+                  Correspondence to
+                    or
+                Ethics declarations
+                  Competing interests
+                  The authors declare no competing interests.
+                Peer review
+                  Peer review information
+                    thanks Chang Liu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available.
+                Additional information
+                    Publisher’s note
+                    Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+                Supplementary information
+                        [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM1_ESM.pdf)
+                        [Peer Review File](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM2_ESM.pdf)
+                        [Description of Additional Supplementary Files](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM3_ESM.pdf)
+                        [Supplementary Data 1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM4_ESM.xlsx)
+                        [Supplementary Data 2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM5_ESM.xlsx)
+                        [Supplementary Data 3](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM6_ESM.xlsx)
+                        [Supplementary Data 4](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM7_ESM.xlsx)
+                        [Supplementary Data 5](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM8_ESM.xlsx)
+                        [Supplementary Data 6](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM9_ESM.xlsx)
+                        [Supplementary Data 7](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM10_ESM.xlsx)
+                        [Supplementary Data 8](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM11_ESM.xlsx)
+                        [Supplementary Data 9](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM12_ESM.xlsx)
+                        [Supplementary Data 10](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM13_ESM.xlsx)
+                        [Supplementary Data 11](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM14_ESM.xlsx)
+                        [Supplementary Data 12](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM15_ESM.xlsx)
+                        [Reporting Summary](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM16_ESM.pdf)
+                        [Source Data](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM17_ESM.xlsx)
+                Rights and permissions
+                    Open Access
+                    This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+                    [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
+                    [Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=A%20fine-scale%20Arabidopsis%20chromatin%20landscape%20reveals%20chromatin%20conformation-associated%20transcriptional%20dynamics&author=Yueying%20Zhang%20et%20al&contentID=10.1038%2Fs41467-024-47678-7&copyright=The%20Author%28s%29&publication=2041-1723&publicationDate=2024-04-16&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+                About this article
+                      Cite this article
+                      Zhang, Y., Dong, Q., Wang, Z.
+                        et al.
+                        chromatin landscape reveals chromatin conformation-associated transcriptional dynamics.
+                        Nat Commun
+                        , 3253 (2024). https://doi.org/10.1038/s41467-024-47678-7
+                        [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41467-024-47678-7?format=refman&flavour=citation)
+                          Received
+                            :
+                              24 March 2023
+                          Accepted
+                              08 April 2024
+                          Published
+                            DOI
+                            https://doi.org/10.1038/s41467-024-47678-7
+                          Share this article
+                          Anyone you share the following link with will be able to read this content:
+                          Get shareable link
+                            Sorry, a shareable link is not currently available for this article.
+                            Copy to clipboard
+                          Provided by the Springer Nature SharedIt content-sharing initiative
+      Explore content
+          [Research articles](/ncomms/research-articles)
+          [Reviews & Analysis](/ncomms/reviews-and-analysis)
+          [News & Comment](/ncomms/news-and-comment)
+          [Videos](/ncomms/video)
+          [Collections](/ncomms/collections)
+          [Follow us on Facebook](https://www.facebook.com/NatureCommunications)
+          [Follow us on Twitter](https://twitter.com/NatureComms)
+      About the journal
+          [Aims & Scope](/ncomms/aims)
+          [Editors](/ncomms/editors)
+          [Journal Information](/ncomms/journal-information)
+          [Open Access Fees and Funding](/ncomms/open-access)
+          [Calls for Papers](/ncomms/calls-for-papers)
+          [Editorial Values Statement](/ncomms/editorial-values-statement)
+          [Journal Metrics](/ncomms/journal-impact)
+          [Editors' Highlights](/ncomms/editorshighlights)
+          [Contact](/ncomms/contact)
+          [Editorial policies](/ncomms/editorial-policies)
+          [Top Articles](/ncomms/top-articles)
+      Publish with us
+          [For authors](/ncomms/submit)
+          [For Reviewers](/ncomms/for-reviewers)
+          [Language editing services](https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022)
+          [Submit manuscript](https://mts-ncomms.nature.com/)
+        Search articles by subject, keyword or author
+              Show results from
+                All journals
+                This journal
+        [Advanced search](/search/advanced)
+      Quick links
+          [Explore articles by subject](/subjects)
+          [Find a job](/naturecareers)
+          [Guide to authors](/authors/index.html)
+            Nature Communications (
+              ISSN
+              2041-1723
+              (online)
+        nature.com sitemap
+              About Nature Portfolio
+                  [About us](https://www.nature.com/npg_/company_info/index.html)
+                  [Press releases](https://www.nature.com/npg_/press_room/press_releases.html)
+                  [Press office](https://press.nature.com/)
+                  [Contact us](https://support.nature.com/support/home)
+              Discover content
+                  [Journals A-Z](https://www.nature.com/siteindex)
+                  [Articles by subject](https://www.nature.com/subjects)
+                  [protocols.io](https://www.protocols.io/)
+                  [Nature Index](https://www.natureindex.com/)
+              Publishing policies
+                  [Nature portfolio policies](https://www.nature.com/authors/editorial_policies)
+              Author & Researcher services
+                  [Reprints & permissions](https://www.nature.com/reprints)
+                  [Research data](https://www.springernature.com/gp/authors/research-data)
+                  [Language editing](https://authorservices.springernature.com/language-editing/)
+                  [Scientific editing](https://authorservices.springernature.com/scientific-editing/)
+                  [Nature Masterclasses](https://masterclasses.nature.com/)
+                  [Research Solutions](https://solutions.springernature.com/)
+              Libraries & institutions
+                  [Librarian service & tools](https://www.springernature.com/gp/librarians/tools-services)
+                  [Librarian portal](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal)
+                  [Open research](https://www.nature.com/openresearch/about-open-access/information-for-institutions)
+                  [Recommend to library](https://www.springernature.com/gp/librarians/recommend-to-your-library)
+              Advertising & partnerships
+                  [Advertising](https://partnerships.nature.com/product/digital-advertising/)
+                  [Partnerships & Services](https://partnerships.nature.com/)
+                  [Media kits](https://partnerships.nature.com/media-kits/)
+                  [Branded
+                        content](https://partnerships.nature.com/product/branded-content-native-advertising/)
+              Professional development
+                  [Nature Careers](https://www.nature.com/naturecareers/)
+                  [Nature](https://conferences.nature.com)
+              Regional websites
+                  [Nature Africa](https://www.nature.com/natafrica)
+                  [Nature China](http://www.naturechina.com)
+                  [Nature India](https://www.nature.com/nindia)
+                  [Nature Italy](https://www.nature.com/natitaly)
+                  [Nature Japan](https://www.natureasia.com/ja-jp)
+                  [Nature Middle East](https://www.nature.com/nmiddleeast)
+              [Privacy
+                Policy](https://www.nature.com/info/privacy)
+              [Use
+                of cookies](https://www.nature.com/info/cookies)
+              Your privacy choices/Manage cookies
+              [Legal
+                notice](https://www.nature.com/info/legal-notice)
+              [Accessibility
+                statement](https://www.nature.com/info/accessibility-statement)
+              [Terms & Conditions](https://www.nature.com/info/terms-and-conditions)
+              [Your US state privacy rights](https://www.springernature.com/ccpa)
+        © 2025 Springer Nature Limited
+      ?xml version="1.0" encoding="UTF-8"?
+            Close banner
+          Close
+            Sign up for the
+              Nature Briefing
+              newsletter — what matters in science, free to your inbox daily.
+              Email address
+                Sign up
+                I agree my information will be processed in accordance with the
+                  and Springer Nature Limited
+                  [Privacy Policy](https://www.nature.com/info/privacy)
+        Get the most important science stories of the day, free in your inbox.
+        [Sign up for Nature Briefing](https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner)

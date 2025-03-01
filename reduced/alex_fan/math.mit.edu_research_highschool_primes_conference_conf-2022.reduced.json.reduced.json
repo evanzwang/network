@@ -1,0 +1,637 @@
+{
+  "title": "Twelfth Annual PRIMES Conference, 2022",
+  "meta_description": "",
+  "main_content": "Twelfth Annual Fall Term PRIMES Conference, October 15-16, 2022 October conference abstracts booklet See also 2022 Spring Term conference and 2022 December mini-conference PRIMES Math students Saturday, October 15 Mathematics 10:00 am: Welcoming Remarks Prof. Michel Goemans, Head of the MIT Mathematics Department Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director Grace Wang 10:15-11:40 am: Session 1: Applied Mathematics Grace Wang, \u201cCorrelations between COVID-19 and dengue\u201d (mentor Prof. Laura Schaposnik, University of Illinois at Chicago) ( slides ) Linda He, \u201cSearch of primordial black holes in extrasolar systems\u201d (mentor Prof. James Unwin, University of Illinois at Chicago) ( slides ) Ethan Zhou, \u201cOnline learning of smooth functions\u201d (mentor Dr. Jesse Geneson, SJSU) ( slides ) Andrew Tung and Karthik Vedula, \u201cNew properties of the intrinsic information and their relation to bound secrecy\u201d (mentor Andrey Khesin) ( slides ) Benjamin Fan and Edward Qiao, \u201cDeep learning for partial differential equations in economics\u201d (mentor Prof. Lu Lu, University of Pennsylvania) ( slides ) Edward Qiao 12:00-12:50 pm: Session 2: Combinatorics I Matvey Borodin, Ethan Liu, and Justin Zhang, \u201cVanishing polynomials and polynomial functions\u201d (mentor Prof. Jim Coykendall, Clemson University) ( slides ) Jeffrey Chen, \u201cPositivity properties for $q$-hit numbers\u201d (mentors Prof. Alejandro Morales and Jesse Selover, UMass Amherst) ( slides ) Rich Wang, \u201cEnding states of a special variant of the chip-firing algorithm\u201d (mentor Dr. Tanya Khovanova) ( slides ) Rich Wang 1:00-2:00 pm: Session 3: Combinatorics II Advay Goel, \u201cThe geometry and limits of Young partition flow polytopes\u201d (mentor Zoe Wellner, Carnegie Mellon University) ( slides ) Derek Liu, \u201cArrangements of simplices in fine mixed subdivisions\u201d (mentor Yuan Yao) ( slides ) Anthony Wang, \u201cConsecutive patterns in Coxeter groups\u201d (mentor Yibo Gao) ( slides ) Nilay Mishra, \u201cOn the uniqueness of certain types of circle packings on translation surfaces\u201d (mentor Prof. Sergiy Merenkov, CCNY \u2013 CUNY) ( slides ) Advay Goel 2:00-2:30 pm: Virtual Chat with PRIMES Chief Research Advisor Prof. Pavel Etingof and Head Mentor Dr. Tanya Khovanova (for students and parents) Prof. Pavel Etingof Dr. Tanya Khovanova 3:00-3:55 pm: Session 4: Miscellaneous Max Misterka, \u201cA generalization of q-calculus using formal group laws\u201d (mentor Sanath Devalapurkar, Harvard University) Eric Chen and Alexander Zitzewitz, \u201cUnitarity conditions of Heun and Lam\u00e9 differential operators\u201d (mentor David Darrow) ( slides ) Eric Shen and Kevin Wu, \u201cCongruences between logarithms of Heegner points\u201d (mentor Dr. Daniel Kriz, Institut de Math\u00e9matiques de Jussieu \u2013 Paris Rive Gauche) ( slides ) Eric Chen 4:05-5:10 pm: Session 5: Graph Theory Paul Gutkovich, \u201cComputing truncated metric dimension on trees\u201d (mentor Zi Song Yeoh) ( slides ) Max Xu, \u201cGonality sequences of multipartite graphs\u201d (mentors Amanda Burcroff, Harvard University, and Dr. Felix Gotti) ( slides ) Edward Yu, \u201cA Tur\u00e1n-type problem in mixed graphs\u201d (mentor Nitya Mani) ( slides ) David Dong, Alan Lee, and Michelle Wei, \u201cConnectedness and cycle spaces of friends-and-strangers graphs\u201d (mentor Dr. Colin Defant) ( slides ) Michelle Wei 5:20-6:10 pm: Session 6: Algebra I Sophie Zhu, \u201cPointed fusion categories over non-algebraically closed fields\u201d (mentors Prof. Julia Plavnik and Sean Sanford, Indiana University Bloomington) ( slides ) Brendan Halstead, \u201cModuli spaces of tropical and logarithmic morphisms\u201d (mentor Jeffery Yu) Alan Bu, Joseph Vulakh, and Alex Zhao, \u201cLength-factoriality and pure irreducibility\u201d (mentor Dr. Felix Gotti) ( slides ) Annie Wang 6:20-7:10 pm: Session 7: Algebra II Annie Wang, \u201cThe Hilbert series of the irreducible quotient for the polynomial representation of the rational Cherednik algebra of type A\u201d (mentor Serina Hu) ( slides ) George Cao, \u201cThe indecomposable summands of the tensor products of monomial modules over finite 2-groups\u201d (mentor Dr. Kent Vashaw) ( slides ) Caroline Liu, Annabel Ma, and Andrew Zhang, \u201cFactorization invariants of arithmetical congruence monoids\u201d (mentor Prof. Scott Chapman, Sam Houston State University) ( slides ) PRIMES Math students Sunday, October 16 Computer Science and Computational Biology 9:00 am: Welcoming Remarks Dr. Slava Gerovitch, PRIMES Program Director Prof. Srini Devadas, PRIMES Computer Science Section Coordinator PRIMES CS/Bio students 9:10-10:10 am: Session 8: Computer Science I Alicia Li and Matan Yablon, \u201cHow optimal can you get: Stochastic and adversarial reinforcement learning\u201d (mentor Mayuri Sridhar) ( slides ) Eric Chen and Boyan Litchev, \u201cTruly anonymous sealed sender in Signal\u201d (mentors Kyle Hogan and Simon Langowski) ( slides ) Simon Beyzerov, Hyojae Park, and Eliyahu Yablon, \u201cPrivate access control for function secret sharing\u201d (mentor Sacha Servan-Schreiber) Alicia Li Eric Chen 10:30-11:20 am: Session 9: Computational Biology I Anish Mudide, \u201cUncovering the genomic basis for extinction risk via practical machine learning\u201d (mentor Dr. Ayshwarya Subramanian, Broad Institute) Achyuta Rajaram, \u201cComparative analysis of mouse and human podocytes with scRNA-seq\u201d (mentor Dr. Ayshwarya Subramanian, Broad Institute) Tanmay Gupta and Raj Saha, \u201cSurveying the presence and diversity of coronaviruses in mammalian transcriptomes\u201d (mentor Dr. Ayshwarya Subramanian, Broad Institute) Anish Mudide Steven Tan 11:40 am - 12:30 pm: Session 10: Computational Biology II Steven Tan, \u201cModels for somatic CAG repeat expansion in the onset and progression of Huntington\u2019s disease\u201d (mentors Bob Handsaker and Seva Kashin, Broad Institute) ( slides ) Rianna Santra, \u201cDiagnosing brain cancers with gene expression data using a novel neural network method\u201d (mentor Prof. Gil Alterovitz) ( slides ) Ho Tin (Alex) Fan and Rianna Santra, \u201cLeveraging statistical distributions for RNA sequencing across time\u201d (mentor Prof. Gil Alterovitz) ( slides ) Rianna Santra 12:30-1:00 pm: Virtual Chat with PRIMES Computer Science Section Coordinator Prof. Srini Devadas and mentors (for students and parents) Michael Huang Joey Dong 1:30-2:25 pm: Session 11: Computer Science I Michael Huang, \u201cTheoretically efficient parallel density-peaks clustering\u201d (mentors Prof. Julian Shun and Shangdi Yu) ( slides ) Joey Dong and Anshul Rastogi, \u201cLocating regions of uncertainty in distributed systems using aggregate trace data\u201d (mentors Prof. Raja Sambasivan, Darby Huye, and Max Liu, Tufts University) ( slides ) Coleman DuPlessie and Eddie Wei, \u201cDeep learning transformers for non-cyclical kinematics\u201d (mentor Andrew Gritsevskiy, University of Toronto) ( slides ) PRIMES CS students Twelfth Annual Spring Term PRIMES Conference, May 21-22, 2022 Room 2-190 , MIT Open to the public May conference abstracts booklet Download conference poster Saturday, May 21 Prof. Pavel Etingof and Dr. Slava Gerovitch with PRIMES Circle students and mentors Mathematics 10:00 am: Welcoming Remarks Prof. Michel Goemans, Head of the MIT Mathematics Department Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director Crystal Egbunike & Wintana Tewolde 10:15-11:15 am: Session 1. PRIMES Circle Crystal Egbunike & Wintana Tewolde, \u201cGraph Theory and Its Applications\u201d (mentor Victor Chu) ( slides ) Pete Olhava & Alexander Gil Osorio, \u201cAn Introduction to Knot Theory\u201d (mentor Preston Cranford) ( slides ) Sebastian Cuervo & Ben Stokes, \u201cTriangles in Various Geometries\u201d (mentor Paige Dote) ( slides ) Zoe Awa 11:25 am-12:45 pm: Session 2. PRIMES Circle Ling (Esther) Fu & Sarah Pan, \u201cThe Busy Beaver Problem\u201d (mentor Alexandra Hoey) ( slides ) Jessica Guo & Audrey Wei, \u201cNP-Completeness\u201d (mentor Kerri Lu) ( slides ) Zoe Awa & Ankita Varigonda, \u201cGame Theory\u201d (mentor Yuyuan Luo) ( slides ) Elena Baskakova & Alice He, \u201cProbability Theory: Why You Are Falsely Convicted, Lonely, and in Debt\u201d (mentor Jeremy Smithline) ( slides ) Elena Baskakova & Alice He 1:45-2:45 pm: Session 3. PRIMES Circle Maya Koreth & Dania Rustom, \u201cNumber Theory and Divisibility Issues\u201d (mentor Ariana Park) ( slides ) Sophia Hou & Jaeyi Song, \u201cGroup Theory\u201d (mentor Merrick Cai) ( slides ) Gracie Sheng & Evelyn Zhu, \u201cSymmetry and Simplicity in Finite Group Theory\u201d (mentor Gabrielle Kaili-May Liu) ( slides ) PRIMES STEP Junior group PRIMES STEP Senior group 3:00-3:40 pm: Session 4. PRIMES STEP Hwiseo Choi, Shreyas Ekanathan, Aidan Gao, Sylvia Zia Lee, Rajarshi Mandal, Vaibhav Rastogi, Daniel Sheffield, Michael Yang, Angela Zhao, and Corey Zhao (PRIMES STEP Junior group), \u201cThe Struggles of Chessland\u201d (mentor Dr. Tanya Khovanova) ( slides ) Eric Chen, Adam Ge, Andrew Kalashnikov, Ella Kim, Evin Liang, Mira Lubashev, Matthew Qian, Rohith Raghavan, Benjamin Taycher, Samuel Wang (PRIMES STEP Senior group), \u201cDisarray in the Tribarray: A Tribsploration\u201d (mentor Dr. Tanya Khovanova) ( slides ) Dr. Tanya Khovanova with PRIMES STEP students 3:40-4:00 pm: auction in support of Yulia's Dream , a new PRIMES section for students from Ukraine Dr. Tanya Khovanova at the auction PRIMES head mentor Tanya Khovanova has created beautiful mathematical crochets in the colors of Ukrainian flag \u2013 hyperbolic surfaces and Whitehead links . We will auction them off to support PRIMES efforts to help students from Ukraine study advanced topics and do math research. Since it\u2019s a PRIMES auction, we will accept bids in prime numbers only! Whitehead links Hyperbolic surfaces 4:00-4:55 pm: Session 5. Math Reading Groups Anuj Sakarda and Jerry Tan, \u201cThe Probabilistic Method\u201d (mentor YounHun Kim) ( slides ) Yi (Alex) Liang, \u201cRepresentation Theory and Quantum Systems\u201d (mentor Sanjay Raman) ( slides ) Ilaria Seidel, Nathan Xiong, and William Yue, \u201cDynkin Quivers and Their Representations\u201d (mentor Dr. Aleksandra Utiralova) ( slides ) Prof. Pavel Etingof and Dr. Slava Gerovitch with math reading group students Sunday, May 22 Mathematics 10:00 am: Welcoming Remarks Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director Leisha Fortunat 10:10-10:45 am: Session 6. Math Reading Groups Joshua Guo, Andrew Lee, and Karthik Seetharaman, \u201cGalois Theory and the Insolvability of the Quintic\u201d (mentor Chun Hong Lo) ( slides ) Kevin Zhao, \u201cLie Matrices\u201d (mentor Sanjay Raman) ( slides ) Palak Yadav & Zoe Siegelnickel 10:10-10:45 am: Session 6. Math Reading Groups Leisha Fortunat, \u201cA Simple Introduction to Graph Theory\u201d (mentor Rachana Madhukara) ( slides ) Daniela Yablon & Ayelet Yablon, \u201cIntroduction to Cryptography\u201d (mentor Aparna Gupte) ( slides ) Zoe Siegelnickel & Palak Yadav, \u201cAlgorithm Analysis\u201d (mentor John Shackleton) ( slides ) PRIMES Circle students and mentors Computer Science and Computational Biology 1:00 pm: Welcoming Remarks Prof. Srini Devadas, PRIMES Computer Science Section Coordinator Abigail Thomas Tanisha Saxena 1:05-2:05 pm: Session 8. Computer Science Rachel Chen, \u201cUotchi: A Hardware Platform to Create and Exchange Non Fungible Objects\u201d (mentor Jules Drean) Abigail Thomas, \u201cThe Implementation of Model Pruning to Optimize zk-SNARKs in Machine Learning\u201d (mentor Yu Xia) ( slides ) Tanisha Saxena, \u201cA Systematic Study on the Difference and Conversion Between Synchronous and Asynchronous Protocols\u201d (mentor Jun Wan) ( slides ) Zifan (Carl) Guo, \u201cUnderstanding High-Level Properties of Low-Level Programs through Transformers\u201d (mentor William Moses) ( slides ) Neil Chowdhury 2:15-2:45 pm: Session 9. Computer Science and Computational Biology Kevin Edward Zhao, \u201cLife after BERT: What Do Other Muppets Understand about Language?\u201d (mentors Prof. Anna Rumshisky and Vladislav Lialin, UMass Lowell) ( slides ) Neil Chowdhury, \u201cA Mechanism of Formation for a Unique Compartment in the Silkworm Genome\u201d (mentor Sameer Abraham) Prof. Srini Devadas and Dr. Slava Gerovitch with PRIMES Computer Science and Computational Biology students December mini-conference Tuesday, December 6 Hybrid in-person/Zoom format Mathematics Reading Groups 7:00 pm Welcoming Remarks Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director Prof. Pavel Etingof and Dr. Tanya Khovanova with reading group students and mentors 7:05 pm Shane Lee, Rishi Gujjar, and Henry Stepanyants, \u201cAbel\u2019s Theorem\u201d (mentor Tang-Kai L\u0435\u0435) ( slides ) Yifan Kang, Henrick Rabinovitz, and Yifei Zhao, \u201cRepresentation Theory of Symmetric Groups\u201d (mentor Arun Kannan) ( slides ) Arvind Murty and Yichen (Cedric) Xiao, \u201cThe Probabilistic Method and the Lov\u00e1sz Local Lemma\u201d (mentor Dr. Jimmy He) ( slides ) Isha Agarwal, Seo Yeon (Gloria) Chun, and Kaylee Ji, \u201cFrom Loops to Differential Forms: A Sampler of Algebraic Invariants of Topological Spaces\u201d (mentor Adela Zhang) ( slides ) Seo Yeon (Gloria) Chun, \u201cMotion Analysis via Topological Tools\u201d ( slides ) Isha Agarwal, Seo Yeon (Gloria) Chun, and Kaylee Ji PRIMES Computer Science Circle 8:50 pm Welcoming Remarks Prof. Srini Devadas, PRIMES Computer Science Section Coordinator Garima Rastogi and Priscilla Zhu 8:55 pm Garima Rastogi and Priscilla Zhu, \u201cHow To Share Your Secrets\u201d (mentors Lalita Devadas and Alexandra Henzinger) ( slides ) Andria Bao and Sophia Lichterfeld, \u201cVarious Neural Network Architectures for Modeling the Effects of Non-coding DNA\u201d (mentors Lalita Devadas and Alexandra Henzinger) ( slides ) Alexa Wingate, \u201cApplying ML to Lung X-ray Images for Real-Time Diagnosis\u201d (mentors Lalita Devadas and Alexandra Henzinger) ( slides ) Andria Bao and Sophia Lichterfeld Alexa Wingate PRIMES Computer Science Circle students and mentors Contact With questions, contact PRIMES Program Director Slava Gerovitch at",
+  "links": [
+    {
+      "url": "../materials/2022/PRIMES-2022-October-abstracts.pdf",
+      "text": "October conference abstracts booklet"
+    },
+    {
+      "url": "../images/2022/group-math.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/1-1-Wang.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/1-1-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/1-2-He.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/1-3-Zhou.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/1-4-Tung-Vedula.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/1-5-Fan-Qiao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/1-5-Qiao.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/2-1-Borodin-Liu-Zhang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/2-2-Chen.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/2-3-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/2-3-Wang.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/3-1-Goel.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/3-2-Liu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/3-3-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/3-4-Mishra.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/3-1-Goel.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/32.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/29.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/4-2-Chen-Zitzewitz.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/4-3-Shen-Wu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/4-2-Chen.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/5-1-Gutkovich.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/5-2-Xu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/5-3-Yu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/5-4-Dong-Lee-Wei.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/5-4-Wei.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/6-1-Zhu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/6-3-Bu-Vulakh-Zhao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/7-1-Wang.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/7-1-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/7-2-Cao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/7-3-Liu-Ma-Zhang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/group-math2.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/group-CS-bio.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/8-1-Li-Yablon.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/8-2-Chen-Litchev.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/8-1-Li.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/8-2-Chen.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/9-1-Mudide.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/10-1-Tan.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/10-1-Tan.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/10-2-Santra.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/10-3-Fan-Santra.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/10-2-Santra.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/11-1-Huang.png",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/11-2-Dong.png",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/October/11-1-Huang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/11-2-Dong-Rastogi.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/October/11-3-DuPlessie-Wei.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/group-CS-bio2.png",
+      "text": ""
+    },
+    {
+      "url": "http://whereis.mit.edu/?go=2",
+      "text": "2-190"
+    },
+    {
+      "url": "../materials/2022/PRIMES-2022-May-abstracts.pdf",
+      "text": "May conference abstracts booklet"
+    },
+    {
+      "url": "../materials/2022/2022-May-PRIMES-Conference 24x36.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "../images/2022/IMG_1556.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_1483.jpg",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/1-1-Egbunike-Tewolde.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/1-2-Olhava-Osorio.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/1-3-Cuervo-Stokes.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1541.jpg",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/2-1-Fu-Pan.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/2-2-Guo-Wei.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/2-3-Awa-Varigonda.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/2-4-Baskakova-He.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1546.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/3-1-Koreth-Rustom.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/3-2-Hou-Song.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/3-3-Sheng-Zhu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1613.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_1638.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/4-1-STEP-Junior.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/4-2-STEP-Senior.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1676.JPG",
+      "text": ""
+    },
+    {
+      "url": "/research/highschool/primes/YuliasDream/index.php",
+      "text": "Yulia's Dream"
+    },
+    {
+      "url": "../images/2022/IMG_1660.JPG",
+      "text": ""
+    },
+    {
+      "url": "https://blog.tanyakhovanova.com/2022/05/hyperbolic-surfaces-for-ukraine/",
+      "text": "hyperbolic surfaces"
+    },
+    {
+      "url": "https://blog.tanyakhovanova.com/2022/05/whitehead-links-for-ukraine/",
+      "text": "Whitehead links"
+    },
+    {
+      "url": "../materials/2022/May/5-1-Sakarda-Tan.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/5-2-Liang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/5-3-Seidel-Xiong-Yue.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1685.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_1748.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/6-1-Guo-Lee-Seetharaman.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/6-2-Zhao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1766.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/7-1-Fortunat.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/7-2-Yablon-Yablon.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/7-3-Siegelnickel-Yadav.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1792.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_1803.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_1820.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/8-2-Thomas.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/8-3-Saxena.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/May/8-4-Guo.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1843.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/May/9-1-Zhao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_1849.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_9732.jpg",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/December/1-Gujjar-Lee-Stepanyants.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/2-Kang-Zhao-Rabinovitz.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/3-Murty-Xiao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/4-Agarwal-Chun-Ji.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/5-Chun.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_9720.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_9743.JPG",
+      "text": ""
+    },
+    {
+      "url": "../materials/2022/December/6-Zhu-Rastogi.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/7-Bao-Lichterfeld.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2022/December/8-Wingate.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../images/2022/IMG_9748.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_9750.JPG",
+      "text": ""
+    },
+    {
+      "url": "../images/2022/IMG_9756.JPG",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "/research/highschool/primes/images/primesLogo100.jpg",
+      "alt": "Primes Logo"
+    },
+    {
+      "src": "../images/2022/group-math1.png",
+      "alt": "PRIMES Math students"
+    },
+    {
+      "src": "../images/2022/1-1-Wang1.png",
+      "alt": "Grace Wang"
+    },
+    {
+      "src": "../images/2022/1-5-Qiao1.png",
+      "alt": "Edward Qiao"
+    },
+    {
+      "src": "../images/2022/2-3-Wang1.png",
+      "alt": "Rich Wang"
+    },
+    {
+      "src": "../images/2022/3-1-Goel1.png",
+      "alt": "Advay Goel"
+    },
+    {
+      "src": "../images/2022/Etingof1.png",
+      "alt": "Prof. Pavel Etingof"
+    },
+    {
+      "src": "../images/2022/Khovanova1.png",
+      "alt": "Dr. Tanya Khovanova"
+    },
+    {
+      "src": "../images/2022/4-2-Chen1.png",
+      "alt": "Eric Chen"
+    },
+    {
+      "src": "../images/2022/5-4-Wei1.png",
+      "alt": "Michelle Wei"
+    },
+    {
+      "src": "../images/2022/7-1-Wang1.png",
+      "alt": "Annie Wang"
+    },
+    {
+      "src": "../images/2022/group-math21.png",
+      "alt": "PRIMES Math students"
+    },
+    {
+      "src": "../images/2022/group-CS-bio1.png",
+      "alt": "PRIMES CS/Bio students"
+    },
+    {
+      "src": "../images/2022/8-1-Li1.png",
+      "alt": "Alicia Li"
+    },
+    {
+      "src": "../images/2022/8-2-Chen1.png",
+      "alt": "Eric Chen"
+    },
+    {
+      "src": "../images/2022/9-1-Mudide1.png",
+      "alt": "Anish Mudide"
+    },
+    {
+      "src": "../images/2022/10-1-Tan1.png",
+      "alt": "Steven Tan"
+    },
+    {
+      "src": "../images/2022/10-2-Santra1.png",
+      "alt": "Rianna Santra"
+    },
+    {
+      "src": "../images/2022/11-1-Huang1.png",
+      "alt": "Michael Huang"
+    },
+    {
+      "src": "../images/2022/11-2-Dong1.png",
+      "alt": "Joey Dong"
+    },
+    {
+      "src": "../images/2022/group-CS-bio21.png",
+      "alt": "PRIMES CS students"
+    },
+    {
+      "src": "../images/2022/IMG_1556-500.JPG",
+      "alt": "Prof. Pavel Etingof and Dr. Slava Gerovitch with PRIMES Circle students and mentors"
+    },
+    {
+      "src": "../images/2022/IMG_1483-500.jpg",
+      "alt": "Crystal Egbunike & Wintana Tewolde"
+    },
+    {
+      "src": "../images/2022/IMG_1541-400.jpg",
+      "alt": "Zoe Awa"
+    },
+    {
+      "src": "../images/2022/IMG_1546-500.jpg",
+      "alt": "Elena Baskakova & Alice He"
+    },
+    {
+      "src": "../images/2022/IMG_1613-500.jpg",
+      "alt": "PRIMES STEP Junior group"
+    },
+    {
+      "src": "../images/2022/IMG_1638-500.jpg",
+      "alt": "PRIMES STEP Senior group"
+    },
+    {
+      "src": "../images/2022/IMG_1676-500.jpg",
+      "alt": "Dr. Tanya Khovanova with PRIMES STEP students"
+    },
+    {
+      "src": "../images/2022/IMG_1660-400.jpg",
+      "alt": "Dr. Tanya Khovanova at the auction"
+    },
+    {
+      "src": "../images/2022/WhiteheadLink2Sm.jpg",
+      "alt": "Whitehead links"
+    },
+    {
+      "src": "../images/2022/HyperbolicSurfaces2Sm.jpg",
+      "alt": "Hyperbolic surfaces"
+    },
+    {
+      "src": "../images/2022/IMG_1685-500.jpg",
+      "alt": "Prof. Pavel Etingof and Dr. Slava Gerovitch with math reading group students"
+    },
+    {
+      "src": "../images/2022/IMG_1748-400.jpg",
+      "alt": "Leisha Fortunat"
+    },
+    {
+      "src": "../images/2022/IMG_1766-500.jpg",
+      "alt": "Palak Yadav & Zoe Siegelnickel"
+    },
+    {
+      "src": "../images/2022/IMG_1792-500.jpg",
+      "alt": "PRIMES Circle students and mentors"
+    },
+    {
+      "src": "../images/2022/IMG_1803-500.jpg",
+      "alt": "Abigail Thomas"
+    },
+    {
+      "src": "../images/2022/IMG_1820-500.jpg",
+      "alt": "Tanisha Saxena"
+    },
+    {
+      "src": "../images/2022/IMG_1843-500.jpg",
+      "alt": "Neil Chowdhury"
+    },
+    {
+      "src": "../images/2022/IMG_1849-500.jpg",
+      "alt": "Prof. Srini Devadas and Dr. Slava Gerovitch with PRIMES Computer Science and Computational Biology students"
+    },
+    {
+      "src": "../images/2022/IMG_9732-500.jpg",
+      "alt": "Prof. Pavel Etingof and Dr. Tanya Khovanova with reading group students and mentors"
+    },
+    {
+      "src": "../images/2022/IMG_9720-500.jpg",
+      "alt": "Isha Agarwal, Seo Yeon (Gloria) Chun, and Kaylee Ji"
+    },
+    {
+      "src": "../images/2022/IMG_9743-500.jpg",
+      "alt": "Garima Rastogi and Priscilla Zhu"
+    },
+    {
+      "src": "../images/2022/IMG_9748-500.jpg",
+      "alt": "Andria Bao and Sophia Lichterfeld"
+    },
+    {
+      "src": "../images/2022/IMG_9750-500.jpg",
+      "alt": "Alexa Wingate"
+    },
+    {
+      "src": "../images/2022/IMG_9756-500.jpg",
+      "alt": "PRIMES Computer Science Circle students and mentors"
+    }
+  ]
+}

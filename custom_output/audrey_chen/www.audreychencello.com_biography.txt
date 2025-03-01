@@ -1,0 +1,44 @@
+  pageHtmlEmbeds.bodyStart start
+  pageHtmlEmbeds.bodyStart end
+        top of page
+      $
+      /$
+                                      [AUDREY CHEN, CELLO](https://www.audreychencello.com)
+                                      [Home](https://www.audreychencello.com)
+                                      [About](https://www.audreychencello.com/biography)
+                                      [Events](https://www.audreychencello.com/events)
+                                      [News](https://www.audreychencello.com/news)
+                                      [Gallery](https://www.audreychencello.com/gallery)
+                                      [Music/Videos](https://www.audreychencello.com/videos)
+                                      [Terra String Quartet](https://www.terrastringquartet.com/)
+                                    BIOGRAPHY
+                                Washington native and cellist Audrey Chen is forging a dynamic solo and chamber music career with a commitment to inspire audiences and future generations of musicians through performance and education. She has been featured at chamber music festivals across the United States, including at Yellowbarn, Olympic Music Festival, Music@Menlo, Ravinia Steans Music Institute, Perlman Music Program, Tanglewood Music Center, Four Seasons Chamber Music, Taos School of Music, and Sarasota Music Festival. As a soloist, she has concertized with the Seattle Symphony and the Harvard-Radcliffe Orchestra and appeared on NPR’s From the Top Radio Show. Audrey is highly sought after as a guest artist and
+                                  has
+                                  collaborated with groups including Jupiter Chamber Players, Cantori NYC, the Parker Quartet, Borromeo Quartet, and Argus Quartet. She performs actively as cellist of the Osaka and Melbourne Competition prize-winning Terra String Quartet.
+                                Beyond her performing career, Audrey is committed to educating and promoting music through an interdisciplinary lens. She is currently on faculty at CUNY Hunter College, where she has taught A Thousand Years of Listening, an introduction course to music history, and currently coaches chamber music. As a Doctoral candidate in Musical Arts at the CUNY Graduate Center, she is exploring the social structures underlying classical music and the question of how individuals will inherit and define the tradition in years to come. On account of her studies, Audrey was named a 2022 recipient of the prestigious Paul and Daisy Soros Fellowship for New Americans and a 2021 recipient of the Baisley Powell Elebash Performance Grant Award.
+                                A graduate of the Harvard/NEC dual degree program, Audrey received her B.A. from Harvard
+                                  ​
+                                Updated Feb 2024
+                        ©2020 by Audrey Chen, cello. Proudly created with Wix.com
+        bottom of page
+  Polyfills check
+  initCustomElements # 1
+  preloading pre-scripts
+  Add the rest of the ViewerModel
+  renderIndicator
+  versionIndicator
+  used platform apis start
+  used platform apis end
+  Business Manager
+  initCustomElements #2
+  initial scripts
+  lodash script
+  react
+  react-dom
+  scriptTagsToPreload
+  Old Browsers Deprecation
+  bi
+  pageHtmlEmbeds.bodyEnd start
+  pageHtmlEmbeds.bodyEnd end
+  warmup data start
+  warmup data end

@@ -1,0 +1,64 @@
+{
+  "title": "cv | Ryan Y. Lin",
+  "meta_description": "Caltech undergraduate, software engineer, student researcher.",
+  "main_content": "Basics Name Ryan Lin Email rylin@caltech.edu Phone (415) 866-0174 Url https://rlin232.github.io/ Summary Motivated undergraduate student at Caltech pursuing a B.S. in Computer Science. Work Caltech - Anima AI + Science Lab Researcher 2023.10 - Present Selected as a Caltech Summer Undergraduate Research Fellow Tuned hyperparameters for neural operator models to improve performance in solving PDEs Improving code quality and flexibility of the neural operator repository. Configured development environment to interface with High Performance Computing (HPC) cluster for training large models. The MITRE Corporation Software Engineering & Machine Learning Intern 2024.06 - 2024.09 Designed a pipeline leveraging Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) to enhance domain-specific knowledge retrieval and automate the creation of security tests from STIGs, accelerating security profile delivery by 500%. Utilized OpenAI API and LangChain's Chroma vector store, and custom embeddings to optimize context retrieval from various security resource documentations. Software Development & DevSecOps Intern 2023.06 - 2023.09 Engineered an end-to-end DevSecOps pipeline for SAF using applications, libraries, and tools developed by MITRE and the security community. Hosted pipeline on EC2. Automated pipeline for key tasks (hardening, validation, visualization) to inform platform owners of security risks and accelerate capability deployment in development, test, and production environments. Presented and demonstrated the prototype pipeline directly to corporate partners and government sponsors, articulating intricate technical details while highlighting its operational benefits and simplicity. Software Engineering Intern 2022.06 - 2022.09 Developed an initial, modern reimplementation for STIGViewer within Heimdall (a full-stack application for viewing security results). The backend uses PostgreSQL, JavaScript, and Typescript. The frontend uses Vue and Typescript. Expanded the enterprise capabilities of Heimdall, a flagship application within the SAF, and validated/tested server-side Rest API calls to the Heimdall PostgreSQL database. Software Engineering Intern 2021.06 - 2021.09 Authored the SAF CLI (Command Line Interface), a software that streamlines security automation for IT Systems and DevOps pipelines. The tool has over 25,000 downloads by the security community. Created and published libraries to normalize outputs from various cybersecurity scanning tools into Heimdall Data Format (HDF) for various government sponsors and commercial partners. Education 2023 - 2026 B.S. Computer Science California Institute of Technology Graduate Technical Courses ACM 116: Probability Models CS 163: Projects in Machine Learning CS 155: Machine Learning and Data Mining CS 156a: Learning Systems CS 159: Advanced Topics in Machine Learning: Large Language Models for Reasoning Undergraduate Technical Courses CS 1: Computer Programming CS 2: Programming Methods (Data Structures) CS 3: Software Design Ma 1abc: Calculus of One and Several Variables and Linear Algebra Ma 2: Differential Equations Ma 3: Probability and Statistics CS 13: Mathematical Foundations of Computer Science (Discrete Mathematics) CS 24: Computer Systems Publications 2024.09.19 Strategic Collusion of LLM Agents: Market Division in Multi-Commodity Competitions We find that LLM agents specialize and divide markets in a multi-commodity Cournot competition setting even without explicit instructions to collude. Awards 2023 National Merit Scholarship Finalist National Merit Scholarship Corporation 2022 FIRST Tech Challenge Dean's Award Semi-Finalist FIRST 2020 USACO Silver USA Computing Olympiad 2020 Stanford Online High School Math Division Award Stanford Online High School Skills Programming Languages Java Python Typescript JavaScript R Ruby C C++ HTML/CSS Shell Script Batch Developer Practices Continuous Integration (CI) Agile Development Test-Driven Development Machine Learning Code Review Developer Tools PyTorch Jupyter Weights & Biases SLURM GitHub Android Studios AWS Brew Bash/Shell Docker Eclipse Firebase NodeJS VSCode PyCharm RStudio PostgreSQL Jenkins Vuex Chef Ansible Languages English Native speaker Chinese Fluent Burmese Fluent (speaker) Projects 2023-05 Quantum ML Models Explored structural and mathematical parallels of a Convolutional Neural Network and a Quantum Circuit. Implemented a hybrid quantum/classical binary classification model using Pennylane and TensorFlow Quantum Computing Machine Learning 2023-05 Lattice Point Geometry Proof Portfolio A collection of 100+ proofs exploring the fundamental properties of the lattice plane. Number Theory Graph Theory Abstract Algebra 2022-04 Stock Prediction Using LSTMs With Sentiment Analysis Implemented a multivariable LSTM model in R to predict the trajectory of any given ticker. Notable considered variables include previous time series data and a sentiment analysis on news headers. Machine Learning LSTM Finance 2022-05 Y86 Architecture Simulation Programmed and implemented a simulator of a processor and assembler in Y86, a simplified version of X86. Computer Systems and Architecture Assembly",
+  "links": [
+    {
+      "url": "mailto:rylin@caltech.edu",
+      "text": "rylin@caltech.edu"
+    },
+    {
+      "url": "tel:(415)%20866-0174",
+      "text": "(415) 866-0174"
+    },
+    {
+      "url": "https://rlin232.github.io/",
+      "text": "https://rlin232.github.io/"
+    },
+    {
+      "url": "http://tensorlab.cms.caltech.edu/users/anima/",
+      "text": "Caltech - Anima AI + Science Lab"
+    },
+    {
+      "url": "https://www.mitre.org/",
+      "text": "The MITRE Corporation"
+    },
+    {
+      "url": "https://www.caltech.edu/",
+      "text": "B.S. Computer Science"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.00031",
+      "text": "Strategic Collusion of LLM Agents: Market Division in Multi-Commodity Competitions"
+    },
+    {
+      "url": "https://www.nationalmerit.org/",
+      "text": "National Merit Scholarship Finalist"
+    },
+    {
+      "url": "https://www.firstinspires.org/robotics/ftc",
+      "text": "FIRST Tech Challenge Dean's Award Semi-Finalist"
+    },
+    {
+      "url": "https://usaco.org/",
+      "text": "USACO Silver"
+    },
+    {
+      "url": "https://rlin232.github.io/projects/QuantumML/",
+      "text": "Quantum ML Models"
+    },
+    {
+      "url": "https://rlin232.github.io/projects/LPGPortfolio/",
+      "text": "Lattice Point Geometry Proof Portfolio"
+    },
+    {
+      "url": "https://rlin232.github.io/projects/StockLSTM/",
+      "text": "Stock Prediction Using LSTMs With Sentiment Analysis"
+    },
+    {
+      "url": "https://github.com/Rlin232/Y-86",
+      "text": "Y86 Architecture Simulation"
+    }
+  ],
+  "images": []
+}

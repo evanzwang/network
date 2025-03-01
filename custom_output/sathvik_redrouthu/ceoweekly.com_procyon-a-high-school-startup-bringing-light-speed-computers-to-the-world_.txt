@@ -1,0 +1,58 @@
+  The Main Wrapper
+    =============================================
+      HEADER
+                  Search Icon
+                    jeg_search_hide with_result no_result
+                      No Result
+      /.jeg_header
+                        Menu
+                            [Business](https://ceoweekly.com/business/)
+                            [News](https://ceoweekly.com/news/)
+                            [Politics](https://ceoweekly.com/politics/)
+                            [Leadership](https://ceoweekly.com/leadership/)
+                            [Entertainment](https://ceoweekly.com/entertainment/)
+                            [Lifestyle](https://ceoweekly.com/lifestyle/)
+                            [Contact Us](https://ceoweekly.com/contact-us/)
+                          Search
+                            Close this search box.
+                  Procyon– A High School Startup Bringing Light-Speed Computers to the World
+                    Image commercially licensed from: https://unsplash.com/photos/black-computer-keyboard-on-brown-wooden-desk-XP9JF6jyRGc
+                                    [CEO Weekly Staff](https://ceoweekly.com/author/contributors1/)
+                                          October 18, 2023
+                                      6:50 pm
+                            Artificial Intelligence has been undergoing transformations throughout the last several years since its integration to workforces and creative platforms. Recently, AI has taken hold of the world,  reshaping it in profound ways, showcasing its evolution from a concept in science fiction to a powerful force driving technological innovation. From enhancing healthcare with medical diagnosis and personalized treatments to revolutionizing industries through automation and predictive analytics, AI has unleashed unprecedented capabilities.
+                            As an industry, AI is growing at an exponential rate. However, the hardware that it runs on is not being innovated nearly as quickly. As models grow in size, AI companies are forced to shell out millions for chips that can support the software. This is where we see emerging enterprises such as Procyon, leading a charge in the Artificial Intelligence landscape with a very unique concept: photonic computing. Procyon’s mission is to create processors that run on light (rather than electricity) to perform dense computations, dramatically increasing speed and efficiency.
+                            Procyon is a deep tech startup led by two high school students, Jagadeepram (Jag) Maddipatla and Sathvik Redrouthu. The two co-founders have dedicated most of their time to developing the future of computing, all while still navigating their young adulthood and schooling.
+                            “Without a university education,”Co-founder Maddipatla explains, “it was a difficult journey to go from having an idea of a light-speed chip to actually making one. For months, we stayed up late  scouring through textbooks, courses, and online lectures, all while trying to balance our academics.,”
+                            In the early days of Procyon, the founders funded the venture through their own pockets. However, as costs for software tools, lab work, and travel started adding up, they soon realized that they needed additional support. As a result, Maddipatla started teaching AI classes on the weekend, bringing in a few thousand dollars to get Procyon through its first year.
+                            Image internally provided
+                            “In developing new algorithms,” Redrouthu says, “researchers are forced to spend millions on cooling infrastructure and computer clusters. Even though our traction so far consists of only a prototype, our chip has the ability to make the future of AI accessible to anyone through light-speed calculations and high energy efficiency.” Developing the training aspects of machine learning models is of paramount importance in the field of artificial intelligence. It is the foundation upon which the entire model’s performance hinges. Well crafted hardware ensures that the training process is fast and efficient, two qualities that are becoming increasingly important as AI engrains itself within society. Procyon believes that it can deliver on these demands with its hardware.
+                            The company is currently a venture backed by the 1517 fund (created by the cofounder of the Thiel fellowship). The startup has also received interest from Sam Altman (CEO of OpenAI), and its founders have talked with numerous companies regarding the use of their revolutionary chips, including the Aerospace corporation, Tesla, and various data centers.
+                            Procyon’s photonic computing hardware offers a new way to navigate the AI platforms that are growing increasingly popular  in our modern era. Photonic processors are many orders of magnitude faster than the current state-of-the-art, and they expel very little heat. Two of the biggest problems plaguing AI and high-performance computing today (slow processors and cooling costs) are directly combated by photonics, which is one of the biggest draws for investors to Procyon’s stage.
+                            In a few years, these high schoolers turned entrepreneurial tech moguls hope to have developed a photonic chip capable of supporting high-performance computing and the future of AI. The prototypes that they are working on currently are laying the groundwork for this final chip, and they hope to have it integrated throughout the world in data centers, satellite networks, and AI research labs; essentially, everywhere that AI and high-performance computing is required.
+                            Of course, Procyon would not have been possible without the underlying engineering and financial teams. Students Pranav Velleleth, Pranav Vadde, Rishi Athavale, Shaurya Jain, Vaibhav Vasudevan, Jay Khandelwal, and Karthik Thyagarajan currently work as engineers and financial officers on the team, helping Jag and Sathvik build chips and pitch to investors.
+                            Procyon is actively seeking corporations and individuals who want to join them on the ground floor of this revolutionary venture. With AI continuing to grow its roots in our current systems, Procyon stands to be one of the most valuable semiconductor enterprises coming to fruition.
+                          Vertical Display Ads 1
+                                    [Recent News](https://ceoweekly.com/all-post/)
+                                          [From Officer to Entrepreneur: Ben Singleton’s Dedication to Combating Cybercrime](https://ceoweekly.com/from-officer-to-entrepreneur-ben-singletons-dedication-to-combating-cybercrime/)
+                                          March 1, 2025
+                                          [How Marisa Wong Built MW Experiences—and What We Can Learn from Her CEO Mindset](https://ceoweekly.com/how-marisa-wong-built-mw-experiences-and-what-we-can-learn-from-her-ceo-mindset/)
+                                          February 28, 2025
+                                          [April Tyner: The Trusted, Results-Driven Realtor Bringing a Fresh Approach to North Carolina Real Estate](https://ceoweekly.com/april-tyner-the-trusted-results-driven-realtor-bringing-a-fresh-approach-to-north-carolina-real-estate/)
+                                          [The Small Business Bringing Big Caribbean Flavor to America](https://ceoweekly.com/the-small-business-bringing-big-caribbean-flavor-to-america/)
+                  Horizontal Display Ads 1
+                          (Ambassador)
+                          This article features
+                            [branded content](https://ceoweekly.com/terms-of-use/#branded-content-disclosure)
+                            from a third party. Opinions in this article do not reflect the opinions and beliefs of CEO Weekly.
+              “In developing new algorithms,” Redrouthu says, “researchers are forced to spend millions on cooling infrastructure and computer clusters. Even though our traction so far consists of only a prototype, our chip has the ability to make the future of AI accessible to anyone through light-speed calculations and high energy efficiency.” Developing the training aspects of machine learning models is of paramount importance in the field of artificial intelligence. It is the foundation upon which the entire model's performance hinges. Well crafted hardware ensures that the training process is fast and efficient, two qualities that are becoming increasingly important as AI engrains itself within society. Procyon believes that it can deliver on these demands with its hardware.
+      /.footer
+  Mobile Navigation
+    =============================================
+          Search Form
+            © 2022  CEO Weekly. All Rights Reserved
+                  A Matrix Global Publication
+                  Legal
+                          [About Us](https://ceoweekly.com/about-us/)
+                          [Legal and Privacy Center](https://ceoweekly.com/legal-and-privacy-center/)
+                  Copyright ©2025 Matrix Global, LLC. All Rights Reserved.

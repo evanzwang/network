@@ -1,0 +1,101 @@
+{
+  "title": "About Min Xu - Xu lab@CBD_SCS_CMU",
+  "meta_description": "Xu Lab of Computational Biology",
+  "main_content": "About Min Xu Min Xu, Ph.D. Associate Professor, Computational Biology Department Courtesy Faculty, Robotics Institute School of Computer Science Courtesy Faculty, Department of Electrical and Computer Engineering Carnegie Mellon University Office: GHC 7709, 5000 Forbes Avenue, Pittsburgh, PA 15213 Email: mxu1 @ cs.cmu.edu Curriculum Vitae , Google Scholar , DBLP , Research Gate , Twitter , and Linkedin pages. Biography Dr. Min Xu (\u5f90\u65fb) is an Associate Professor at the Computational Biology Department within the School of Computer Science at Carnegie Mellon University . He also has Courtesy Appointments at the Robotics Institute and Department of Electrical and Computer Engineering . He serves as training faculty at the Joint CMU-Pitt Ph.D. Program in Computational Biology . He also serves as co-director at the Master of Science in Computational Biology (MSCB) program and training faculty at the Master of Science in Computer Vision (MSCV) program at CMU. He is an investigator at the National Center for Multiscale Modeling of Biological Systems . He is also affiliated with the Computer Vision Department at the Mohamed bin Zayed University of Artificial Intelligence , UAE. Dr. Xu has a career centered around the development of computer vision and machine learning methods for the analysis of cellular systems using imaging and omics data. While his early work (2000-2009) focused on developing machine learning methods for the analysis of functional genomics data, he later on (2008) moved onto developing computer vision methods for the analysis of Cellular Cryo-Electron Tomography (Cryo-ET) 3D image data. Dr. Xu and his team have designed novel structural pattern mining methods. He has been the first to demonstrate the feasibility of De Novo extraction of structures and spatial organizations of macromolecular complexes in single cells using Cryo-ET data. His current research focuses on Cryo-ET derived modelling of cellular organization at molecular resolution. Dr. Xu has published papers in peer-reviewed top journals and conferences, such as PNAS, Structure, ISMB, CVPR, NeurIPS, and MICCAI. He serves as PI of US NIH R01 and NSF awards. He received an NSF CAREER award in 2023. Dr. Xu received a B.E. in Computer Science from the Beihang University, M.Sc from School of Computing at the National University of Singapore, M.A. in Applied Mathematics from the University of Southern California (USC), and Ph.D. in Computational Biology and Bioinformatics from USC. He was a postdoctoral researcher at USC. Dr. Xu researches for fun, and he enjoys working with highly talented and motivated students.",
+  "links": [
+    {
+      "url": "http://cbd.cmu.edu",
+      "text": "Computational Biology Department"
+    },
+    {
+      "url": "http://www.ri.cmu.edu",
+      "text": "Robotics Institute"
+    },
+    {
+      "url": "http://cs.cmu.edu",
+      "text": "School of Computer Science"
+    },
+    {
+      "url": "http://www.ece.cmu.edu",
+      "text": "Department of Electrical and Computer Engineering"
+    },
+    {
+      "url": "http://www.cmu.edu",
+      "text": "Carnegie Mellon University"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQOw1_7_1a6HuyyvcwmtOzfliOmyz4L7giYkp3-i0MOxh-ASU0ZCjNtdYZZ4KC3UlFHdC9Gb-gzXMsi/pub",
+      "text": "Curriculum Vitae"
+    },
+    {
+      "url": "http://scholar.google.com/citations?hl=en&user=Y3Cqt0cAAAAJ&view_op=list_works&sortby=pubdate",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://dblp.org/pid/09/0-9",
+      "text": "DBLP"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Min_Xu21",
+      "text": "Research Gate"
+    },
+    {
+      "url": "https://twitter.com/xumin100",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://www.linkedin.com/in/min-xu-45b7315",
+      "text": "Linkedin"
+    },
+    {
+      "url": "http://cbd.cmu.edu",
+      "text": "Computational Biology Department"
+    },
+    {
+      "url": "https://www.cs.cmu.edu",
+      "text": "School of Computer Science"
+    },
+    {
+      "url": "http://www.cmu.edu",
+      "text": "Carnegie Mellon University"
+    },
+    {
+      "url": "https://www.ri.cmu.edu",
+      "text": "Robotics Institute"
+    },
+    {
+      "url": "http://www.ece.cmu.edu",
+      "text": "Department of Electrical and Computer Engineering"
+    },
+    {
+      "url": "http://www.compbio.cmu.edu",
+      "text": "Joint CMU-Pitt Ph.D. Program in Computational Biology"
+    },
+    {
+      "url": "https://www.cmu.edu/ms-compbio/people/index.html",
+      "text": "Master of Science in Computational Biology"
+    },
+    {
+      "url": "https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision",
+      "text": "Master of Science in Computer Vision"
+    },
+    {
+      "url": "https://mmbios.pitt.edu",
+      "text": "National Center for Multiscale Modeling of Biological Systems"
+    },
+    {
+      "url": "https://mbzuai.ac.ae/",
+      "text": "Mohamed bin Zayed University of Artificial Intelligence"
+    },
+    {
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238093",
+      "text": "NSF CAREER award"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://xulabs.github.io/images/min-xu-2025.jpg",
+      "alt": ""
+    }
+  ]
+}

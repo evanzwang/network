@@ -1,0 +1,24 @@
+{
+  "title": "Advait Iyer",
+  "meta_description": "Advait's website",
+  "main_content": "I like computer systems. You can find me on X , Github , and (unfortunately) LinkedIn . Here\u2019s a parting gift .",
+  "links": [
+    {
+      "url": "https://x.com/advaitsi",
+      "text": "X"
+    },
+    {
+      "url": "https://github.com/adviyer",
+      "text": "Github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/advaitiyer",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "/spotify",
+      "text": "gift"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,221 @@
+{
+  "title": "Liangze Li | Papers With Code",
+  "meta_description": "Papers by Liangze Li with links to code and results.",
+  "main_content": "Search Results for author: Liangze Li Found 3 papers, 3 papers with code Date Published Date Published Github Stars Token Prediction as Implicit Classification to Identify LLM-Generated Text 1 code implementation \u2022 15 Nov 2023 \u2022 Yutian Chen , Hao Kang , Vivian Zhai , Liangze Li , Rita Singh , Bhiksha Raj This paper introduces a novel approach for identifying the possible large language models (LLMs) involved in text generation. text-classification Text Classification +1 21 Paper Code Listener Model for the PhotoBook Referential Game with CLIPScores as Implicit Reference Chain 1 code implementation \u2022 16 Jun 2023 \u2022 Shih-Lun Wu , Yi-Hui Chou , Liangze Li PhotoBook is a collaborative dialogue game where two players receive private, partially-overlapping sets of images and resolve which images they have in common. 1 Paper Code GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content 2 code implementations \u2022 13 May 2023 \u2022 Yutian Chen , Hao Kang , Vivian Zhai , Liangze Li , Rita Singh , Bhiksha Raj This paper presents a novel approach for detecting ChatGPT-generated vs. human-written text using language models. text-classification Text Classification 9 Paper Code Cannot find the paper you are looking for? You can Submit a new open access paper.",
+  "links": [
+    {
+      "url": "/newsletter",
+      "text": "Read previous issues"
+    },
+    {
+      "url": "/accounts/login?next=/search",
+      "text": "log in"
+    },
+    {
+      "url": "/accounts/register?next=/search",
+      "text": "create a new account"
+    },
+    {
+      "url": "?q=author%3ALiangze+Li&order_by=date",
+      "text": "Date Published"
+    },
+    {
+      "url": "?q=author%3ALiangze+Li&order_by=stars",
+      "text": "Github Stars"
+    },
+    {
+      "url": "?q=author%3ALiangze+Li&order=asc",
+      "text": ""
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification",
+      "text": ""
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification",
+      "text": "Token Prediction as Implicit Classification to Identify LLM-Generated Text"
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification#code",
+      "text": "1 code implementation"
+    },
+    {
+      "url": "/author/yutian-chen",
+      "text": "Yutian Chen"
+    },
+    {
+      "url": "/author/hao-kang",
+      "text": "Hao Kang"
+    },
+    {
+      "url": "/author/vivian-zhai",
+      "text": "Vivian Zhai"
+    },
+    {
+      "url": "/author/liangze-li",
+      "text": "Liangze Li"
+    },
+    {
+      "url": "/author/rita-singh",
+      "text": "Rita Singh"
+    },
+    {
+      "url": "/author/bhiksha-raj",
+      "text": "Bhiksha Raj"
+    },
+    {
+      "url": "/task/text-classification-1",
+      "text": "text-classification"
+    },
+    {
+      "url": "/task/text-classification",
+      "text": "Text Classification"
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification#tasks",
+      "text": "+1"
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification",
+      "text": "Paper"
+    },
+    {
+      "url": "/paper/token-prediction-as-implicit-classification#code",
+      "text": "Code"
+    },
+    {
+      "url": "/paper/listener-model-for-the-photobook-referential",
+      "text": ""
+    },
+    {
+      "url": "/paper/listener-model-for-the-photobook-referential",
+      "text": "Listener Model for the PhotoBook Referential Game with CLIPScores as Implicit Reference Chain"
+    },
+    {
+      "url": "/paper/listener-model-for-the-photobook-referential#code",
+      "text": "1 code implementation"
+    },
+    {
+      "url": "/author/shih-lun-wu",
+      "text": "Shih-Lun Wu"
+    },
+    {
+      "url": "/author/yi-hui-chou",
+      "text": "Yi-Hui Chou"
+    },
+    {
+      "url": "/author/liangze-li",
+      "text": "Liangze Li"
+    },
+    {
+      "url": "/paper/listener-model-for-the-photobook-referential",
+      "text": "Paper"
+    },
+    {
+      "url": "/paper/listener-model-for-the-photobook-referential#code",
+      "text": "Code"
+    },
+    {
+      "url": "/paper/gpt-sentinel-distinguishing-human-and-chatgpt",
+      "text": ""
+    },
+    {
+      "url": "/paper/gpt-sentinel-distinguishing-human-and-chatgpt",
+      "text": "GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content"
+    },
+    {
+      "url": "/paper/gpt-sentinel-distinguishing-human-and-chatgpt#code",
+      "text": "2 code implementations"
+    },
+    {
+      "url": "/author/yutian-chen",
+      "text": "Yutian Chen"
+    },
+    {
+      "url": "/author/hao-kang",
+      "text": "Hao Kang"
+    },
+    {
+      "url": "/author/vivian-zhai",
+      "text": "Vivian Zhai"
+    },
+    {
+      "url": "/author/liangze-li",
+      "text": "Liangze Li"
+    },
+    {
+      "url": "/author/rita-singh",
+      "text": "Rita Singh"
+    },
+    {
+      "url": "/author/bhiksha-raj",
+      "text": "Bhiksha Raj"
+    },
+    {
+      "url": "/task/text-classification-1",
+      "text": "text-classification"
+    },
+    {
+      "url": "/task/text-classification",
+      "text": "Text Classification"
+    },
+    {
+      "url": "/paper/gpt-sentinel-distinguishing-human-and-chatgpt",
+      "text": "Paper"
+    },
+    {
+      "url": "/paper/gpt-sentinel-distinguishing-human-and-chatgpt#code",
+      "text": "Code"
+    },
+    {
+      "url": "/submit-paper",
+      "text": "Submit"
+    },
+    {
+      "url": "mailto:hello@paperswithcode.com",
+      "text": "hello@paperswithcode.com"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "text": "CC-BY-SA"
+    },
+    {
+      "url": "/site/terms",
+      "text": "Terms"
+    },
+    {
+      "url": "/site/data-policy",
+      "text": "Data policy"
+    },
+    {
+      "url": "/site/cookies-policy",
+      "text": "Cookies policy"
+    },
+    {
+      "url": "/about#team",
+      "text": "from"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://production-media.paperswithcode.com/tasks/default.gif",
+      "alt": ""
+    },
+    {
+      "src": "https://production-media.paperswithcode.com/thumbnails/task/989eda69-ebd1-4415-bdd1-d9c25c109b1a.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://production-media.paperswithcode.com/tasks/default.gif",
+      "alt": ""
+    },
+    {
+      "src": "https://production-media.paperswithcode.com/thumbnails/task/989eda69-ebd1-4415-bdd1-d9c25c109b1a.jpg",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,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",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,1236 @@
+﻿
+  <link rel="icon" href="https://www.informistmedia.com/assets/img/favicon.ico" type="image/x-icon">
+  Twitter Share
+  for night mode
+  for day mode
+  <link href="https://www.informistmedia.com/assets/css/test.less" rel="stylesheet">
+            <div class="dates-details" style="margin-top:40px;">
+            <p>Saturday, March 01, 2025</p>
+          </div>
+            pls put here search box if required
+            <ul></ul>
+            <div class="footer-social">
+            <ul>
+               <li><a href="https://twitter.com/informistmedia?s=11" target="_blank"><img src="https://www.informistmedia.com/assets/img/twitter.png" width="20" height="20"></a></li>
+               <li><a href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            </ul>
+         </div>
+          Navbar links
+                  <form id="form_id" action="https://www.informistmedia.com/search" method="POST">
+                      Search
+                      <h3 class="advance-search">Advanced Search</h3>
+                    </form>
+                        Wire Wise
+                            MoneyWire
+                            EquityWire
+                            CommodityWire
+                        Category
+                            Economy & Policy
+                            MSS Tracker
+                            Strike
+                            Subsidiary companies
+                            Supply contracts/charters, long-term, spot
+                            Tax
+                            Technology sharing pacts
+                            Tenders
+                            Subject-Top stories, primarily for media clients
+                            TREND STORY
+                            Commodity
+                            Corporate
+                            NCDEX
+                            General
+                            Markets
+                            Special Stories
+                            SPOTLIGHT
+                            Analyst Concall
+                            NSE
+                            Order wins
+                            Pledged Shares Monitor
+                            RBI Policy
+                            SEBI Watch
+                            SpotWatch
+                            TEXT
+                            TIMELINE
+                            World Commodity Exchanges
+                            World Markets At A Glance
+                            Earnings Outlook
+                            Earnings Review
+                            Market News (MoneyWire)
+                            Reserve Bank Of India
+                            Advisory
+                            Basic-Alerts
+                            Basic-Analysis
+                            Basic-Breaking News
+                            Basic-Calendar
+                            Communication
+                            Demise
+                            Disaster (for all accidents other than natural)
+                            Basic-Environment
+                            For standard items on specific news products
+                            Basic-Exclusive
+                            Basic-Flash
+                            Basic-Focus/Analysis
+                            Foreign companies
+                            Basic-Forecasts
+                            General news not covered by any code
+                            Health
+                            Help, Will generate story with Basic Codes
+                            Basic-Interview
+                            Lifestyle/Entertainment/Features
+                            Natural Disaster
+                            Basic-One-line headline only
+                            Basic-Opinion
+                            Politics
+                            Basic-Poll
+                            Sports
+                            Basic-Statistics
+                            Basic-Summary
+                            Basic-Survey
+                            Basic-Technical Analysis
+                            Terrorism
+                            Basic-Top stories, primarily for media clients
+                            Basic-Transportation
+                            Travel
+                            Weather
+                            CommodiryWire-Active
+                            Agricultural Commodities BASIC CODE
+                            Alert
+                            Dry Fruits, Almonds. C/AGR, C/DRF
+                            Metals, Base, Aluminum
+                            CommodityWire-Analysis
+                            Soft Commodities, Coffee Arabica
+                            Arecanut
+                            Grains, Rice. Basmati
+                            Metals, Base BASIC CODE
+                            Metals, Base, Iron and Steel, Billets
+                            Biofuels
+                            CommodityWire-Breaking News
+                            Dry Fruits, Cashewnut. C/AGR, C/DRF
+                            Plantation, Cashew
+                            CommodityWire-Calendar
+                            Spices, Cardamon
+                            Oils & Oilseeds, Castorseed
+                            Carbon Credits, certified emission reductions
+                            Grains, Pulses, Chana
+                            Spices, Chilli
+                            Energy, Coal
+                            Soft Commodities, Cocoa
+                            Soft Commodities, Coffee, BASIC CODE
+                            Spices, Coriander
+                            Oils, Coconut. C/AGR
+                            Coconut, Dry
+                            Metals, Base, Copper BASIC CODE
+                            Grains, Corn
+                            Grains, Minor Coarse, Bajra
+                            Cotton
+                            Crops
+                            Energy, Crude Oil
+                            CommodityWire-Domestic Institutional Investor/Investment
+                            Dry Fruits. BASIC CODE
+                            Commodity Derivatives
+                            Dry Cargo not covered under any other commodity
+                            Metals, Base, Copper, Electrolytic Copper Cathode
+                            Energy, Electricity
+                            Energy BASIC CODE
+                            Commodity Exchange News (About Market, Trade, Margins)
+                            CommodityWire-Exclusive
+                            Oils & Oilseeds, FeedMeal
+                            CommodityWire-Fertiliser
+                            CommodityWire-Foreign Institutional Investor/Investment
+                            CommodityWire-Flash
+                            Metals, Base, Iron and Steel, Flat
+                            CommodtyWire-Focus/Analysis
+                            CommodityWire-Forecasts
+                            Fruit, Fruit Products
+                            Energy, Furnace Oil
+                            Spices, Garlic
+                            Energy, Gas
+                            Gems & Jewellery, Diamond
+                            General commodity news not covered by any code
+                            Metals, Precious, Gold
+                            Grains BASIC CODE
+                            Grains, Minor Coarse (Barley, Sorghum, Oats)
+                            Oils & Oilseeds, Groundnut
+                            Mutual Funds
+                            Guar
+                            Gur
+                            Energy, Petroleum Products, High Density Poly Ethylene
+                            Energy, Heating oils
+                            Help, Will generate story with Commodity Codes
+                            Horticulture
+                            Index
+                            Metals, Base, Iron and Steel, Ingots
+                            Metals, Base, Iron and Steel
+                            CommodityWire-Interview
+                            Reliance
+                            Spices, Jeera
+                            Jute
+                            Metals, Base, Lead
+                            Livestock news
+                            Commodity Market News BASIC CODE.
+                            Grains, Pulses, Masur
+                            Mentha Oil
+                            CommodityWire-Metals BASIC CODE
+                            Milk and Milk Products
+                            Grains, Pulses, Moong
+                            SIP
+                            Mulberry.
+                            Oils & Oilseeds, Mustard/Rapeseed
+                            Metals, Base, Nickel
+                            Oils & Oilseeds, Nigerseed
+                            CommodityWire-One-line headline only
+                            Vegetables, Onion
+                            CommodityWire-Opinion
+                            Mineral ores
+                            Oils & Oilseeds, BASIC CODE
+                            Oils & Oilseeds, Other/ Minor (Safflower (Kardi), Linseed, Sesame(Til), Nigerseed, Cottonseed)
+                            Other Commodities, not covered by any specific code
+                            Metals, Others
+                            CommodityWire-Market outlook
+                            Oils & Oilseeds, Palm Oil
+                            Grains, Pulses, Pea
+                            Spices, Pepper
+                            Energy, Petroleum Products
+                            Metals, Precious, Platinum, Palladium
+                            Plantation BASIC CODE
+                            CommodityWire-Poll
+                            Ports
+                            Vegetables, Potato
+                            Poultry
+                            Energy, Petroleum Products, Poly Propylene Tabular Quenched
+                            Metals, Precious, BASIC CODE
+                            Grains, Pulses
+                            Ratings and Recommendations
+                            CommodityWire-Research
+                            Grains, Rice
+                            Soft Commodities, Coffee Robusta
+                            Plantation, Rubber
+                            CommodityWire-Shipping
+                            Metals, Precious, Silver
+                            Soft Commodities
+                            Oils & Oilseeds, Soybean
+                            Spices
+                            CommodityWire-Statistics
+                            Soft Commodities, Sugar
+                            CommodityWire-Summary
+                            Oils & Oilseeds, Sunflower
+                            CommodityWire-Survey
+                            Soft Commodities, Tea
+                            CommodityWire-Technical Analysis
+                            Metals, Base, Tin
+                            Tobacco
+                            CommodityWire-Top stories, primarily for media clients
+                            Trade (such as disruption, resumption, extension)
+                            Spices, Turmeric
+                            Grains, Pulses, Tur
+                            Grains, Pulses, Urad
+                            Vegetables
+                            Oils & Oilseeds, Vegetable Oils
+                            Weather Futures
+                            Grains, Wheat
+                            Metals, Base, Zinc
+                            Agricultural news
+                            Econony-Alerts
+                            Economy-Analysis
+                            Econony-Breaking News
+                            Economy-Calendar
+                            Capital Spending
+                            Consumer Spending
+                            Confidence
+                            Debt, for economy--sectoral, internal, external
+                            Economy News  BASIC CODE
+                            Employment
+                            Economy-Exclusive
+                            External Sector, all reserves, balance of payments
+                            Economy-Flash
+                            Economy-Focus/Analysis
+                            Economy-Forecasts
+                            General economic news not covered by any code
+                            Growth, GDP
+                            Help, Will generate story with Economy Codes
+                            Economy-Housing
+                            Indicators, Economic
+                            Inflation
+                            Economy-Interest Rates
+                            Economy-Inventories
+                            Economy-Interview
+                            Economy-Manufacturing
+                            Money Supply
+                            Economy-One-line headline only
+                            Economy-Opinion
+                            Orders
+                            Economy-Poll
+                            Productivity
+                            Economy-Research (only to be used for pdf attachments)
+                            Economy-Statistics
+                            Economy-Summary
+                            Economy-Survey
+                            Economy-Technical Analysis
+                            Economy-Top stories, primarily for media clients
+                            Trade. Including internal
+                            Agriculture
+                            Government-Alerts
+                            Government-Analysis
+                            Civil Aviation
+                            Central Bank, Bank of England
+                            Central Bank, Bank of Japan
+                            More Stories
+                            Government-Breaking News
+                            Cabinet
+                            Government-Calendar
+                            Central Bank  BASIC CODE
+                            Commissions of Enquiry, quasi legal. Eg Srikrishna, Liberhan.
+                            Communications
+                            Government-Defence
+                            Divestment, Privatisation, Disinvestment
+                            Domestic Trade
+                            Central Bank, European Central Bank
+                            INTERVIEW
+                            Education
+                            Energy
+                            Government-Environment
+                            Executive Branch
+                            Government-Exclusive
+                            Food and Drug Administration
+                            Central Bank, U.S. Federal Reserve
+                            Finance Commission
+                            Finance Ministry
+                            Government-Flash
+                            Alerts
+                            Forward Markets Commission
+                            Government-Focus/Analysis
+                            Help, Will generate story with Government Codes
+                            Government-Housing
+                            India Meteorological Department
+                            Infrastructure
+                            Government-Interview
+                            Joint Parliamentary Committee
+                            Labour
+                            Law, Justice/Courts
+                            FOCUS
+                            Parliament, Lower House/Lok Sabha
+                            Multilateral Organisations, All. E.g. UN, IMF, WB, UNICEF, WTO, NATO, SAARC, MERCUSOR, OPEC, G7, G10
+                            Government-One-line headline only
+                            Government-Opinion
+                            Parliamentary Panel
+                            Parliament BASIC CODE
+                            Public Distribution System
+                            Pension/Social Security
+                            Planning Commission
+                            Government-Policy
+                            Forex
+                            Politics/Elections
+                            Public Spending
+                            Railways
+                            Central Bank, Reserve Bank of India
+                            Regulators, All except  RBI, SEBI, FMC. E.g. TRAI, PFRDA, Electricity Commissions, SAT, TDSAT etc.
+                            Roads, Highways
+                            Securities & Exchange Board of India
+                            Government-Shipping
+                            Social Sector
+                            Space
+                            RBI Watch
+                            Government-Statistics
+                            States
+                            Subsidy
+                            Government-Summary
+                            Government-Survey
+                            Taxation, Budget, Govt Finances
+                            Government-Top stories, primarily for media clients
+                            Trade, including trade pacts
+                            Government-Transportation
+                            Parliament, Upper House/Rajya Sabha
+                            Market
+                            Industry-Accounting
+                            Consumer Durables, Air Conditioners, Coolers
+                            Advertising
+                            Chemicals, Agrochemicals, Pesticides
+                            Agro Foods Industries
+                            Infrastructure, Airport service providers
+                            Infrastructure, Airport
+                            Transport, Aircraft Makers & Airlines
+                            Industry-Alerts
+                            Amusement and entertainment complexes
+                            Industry-Analysis
+                            Information Technology, Software Animation
+                            Aquaculture
+                            Transport, Automobile Parts Makers
+                            Transport, Automobiles Makers
+                            Finance, Banking
+                            Metals, Base Metals
+                            Batteries
+                            Chemicals, Biochemicals
+                            Bio-technology
+                            Breaking News
+                            Pharmaceuticals, Biosimilars
+                            Media, Books and Magazines
+                            Bottlers
+                            Industry-Breaking News
+                            Media, Broadcasters, Cable, DTH Companies
+                            Pharmaceuticals, Bulk drugs
+                            Transport, Automobiles, Bus
+                            Cable Makers
+                            Industry-Calendar
+                            Transport, Automobiles, Cars, SUVs
+                            Flash
+                            Castings and Forgings
+                            Ceramics
+                            Cement and related, building materials
+                            Cargo, Logistics
+                            Energy, Petrochemicals
+                            Chemicals BASIC CODE
+                            Media, Cinema exhibitors, movie makers, production houses
+                            Construction
+                            Fast Moving Consumer Goods, Coffee
+                            Consumer Durables BASIC CODE
+                            Focus/Analysis
+                            Metals, Base, Copper
+                            Pharmaceuticals, Contract research
+                            Courier
+                            Finance, Credit cards
+                            Consulting
+                            Custodians, depositories
+                            Data hosting centres
+                            Data companies
+                            Industry-Defence
+                            Energy, Electricity Distribution and Transmission
+                            Forecasts
+                            Diversified, conglomerate
+                            Information Technology, Software Education, Training
+                            Education and related, other than IT training
+                            Electrical equipment
+                            Effluent, sewerage treatment
+                            Consumer Durables, Other Electronic Home Appliances (Mixers, Grinders, Blenders, Vaccum Cleaners, Fa
+                            Electronic equipment
+                            Transport, Automobiles, Electric Car
+                            Energy.  BASIC CODE
+                            Engineering, Capital goods
+                            Industry-Exclusive
+                            Sector-Fertiliser
+                            Finance, Foreign Institutional Investors
+                            Finance Financial Services BASIC CODE
+                            Finance, Financial Institutions
+                            Industry-Flash
+                            Floriculture
+                            Fast Moving Consumer Goods BASIC CODE
+                            Footwear
+                            Fast Moving Consumer Goods, Food Products
+                            General news
+                            Consumer Durables, Refrigerators
+                            Information Technology, Software Gaming
+                            Gaming, Gambling, Lottery, Casinos
+                            Energy, Gas supply and transportation
+                            Pharmaceuticals, Generics
+                            Gems & Jewellery
+                            General Industry News. Not covered by any other code
+                            Glass
+                            Information Technology, Hardware
+                            Transport, Automobiles. Heavy Commercial Vehicles, trucks
+                            Opinion
+                            Health BASIC CODE
+                            Finance, Hedge Funds
+                            Health, Healthcare Service Providers
+                            Help, Will generate story with Industry Codes
+                            Fast Moving Consumer Goods, Home Care
+                            Finance, Home Loan Companies
+                            Health, Hospitals
+                            Hotels, including restaurants
+                            Transport, Automobiles, Hybrid Car
+                            Energy, Electricity Hydel
+                            Infrastructure. BASIC CODE
+                            Finance, Insurance, General
+                            Finance, Insurance, Life
+                            Finance, Insurance BASIC CODE
+                            Telecommunications, Internet Service Providers
+                            Information Technology, IT-Enabled Services, including BPOs
+                            Information Technology BASIC CODE
+                            industry-Interview
+                            Fast Moving Consumer Goods, Fruit Juices
+                            Telecommunication, Landline or Basic Service Providers
+                            Poll
+                            Law, Law Firms
+                            Transport, Automobiles. Light Commercial Vehicles
+                            Finance, Leasing, hire purchase
+                            Leather
+                            Fast Moving Consumer Goods, Beverages. Liquor
+                            Energy, Lubricants
+                            Media  Entertainment, Publishing. BASIC CODE
+                            Health, Medical equipment
+                            Industry-Metals BASIC CODE
+                            Industry-Manufacturing
+                            Specials
+                            Finance, Micro-Finance
+                            Fast Moving Consumer Goods, Milk and Milk Products
+                            Mining, mineral resources
+                            Telecommunication, Mobile Service Providers
+                            Media, Music
+                            Finance, Mutual Funds
+                            Finance, Non-Bank Finance Companies
+                            Internet, E-commerce
+                            Media, Newspapers
+                            Energy, Electricity, Nuclear
+                            Infrastructure, Offshore service provider
+                            Industry-One-line headline only
+                            Industry-Opinion
+                            Packaging
+                            Paper and Paper Products
+                            Finance, Pension
+                            Finance, Private Equity
+                            Fast Moving Consumer Goods, Personal Care
+                            Energy, Petroleum Products Petrol, Diesel, Kerosene, Aviation Fuel
+                            Pharmaceuticals. BASIC CODE
+                            Calendar
+                            Plantation
+                            Infrastructure, Port
+                            Finance, Provident Fund
+                            Media, Radio
+                            Infrastructure, Rail
+                            Transport, Rail Wagons, Locomotives
+                            Rating agencies
+                            Real Estate
+                            Energy, Refiners
+                            Media, Real-time news & data companies. I/MED
+                            Energy, Electricity renewable other than hydel, wind
+                            Industry-Research, analysis, and think-tanks
+                            Retail
+                            Pharmaceuticals, R&D
+                            Infrastructure, Road
+                            Telecommunication, Satellite Communications
+                            Finance, Securities Brokerages
+                            Seed
+                            Special Economic Zones
+                            Fast Moving Consumer Goods, Soft Drinks, Colas
+                            Transport, Shipping
+                            Transport, Shipmakers, Shipyards
+                            Fast Moving Consumer Goods, Soaps & Detergents
+                            Information Technology, Software
+                            Chemicals, Specialty Chemicals, Paints
+                            Industry-Statistics
+                            Stationery and Office Equipment
+                            Sugar
+                            Industry-Summary
+                            Information Technology, Support Services
+                            Industry-Survey
+                            Fast Moving Consumer Goods, Tea
+                            Telecommunication, BASIC CODE
+                            Telecommunication, Equipment Makers
+                            Textiles, Includes all Fabrics and Jute
+                            Energy, Electricity, Thermal
+                            Consumer Durables, Televisions, Audio & Video systems, Cameras
+                            Fast Moving Consumer Goods, Tobacco
+                            Infrastructure, Road Toll companies
+                            Travel and Tourism
+                            Crude Oil
+                            Telecommunication, Infrastructure Tower
+                            Toy Companies
+                            Trading Companies
+                            Transport BASIC CODE
+                            Trust companies
+                            Media, Television News Channel
+                            Transport, Transportation Service Providers, only fleet operators
+                            Pipe, tube makers
+                            Transport, Automobiles. 2-wheelers, 3-wheelers
+                            Tyres
+                            Foreign Institutional Investor/Investment
+                            Finance, Venture Capital
+                            Consumer Durables, Watches
+                            Consumer Durables, Washing Machines
+                            Fast Moving Consumer Goods, Bottled Water
+                            Media, Web media companies
+                            Energy, Electricity, Wind
+                            Water
+                            Asset Backed Securities
+                            MoneyWire-Active
+                            MoneyWire-Alerts
+                            Call/Notice Money Market
+                            MoneyWire-Analysis
+                            Block Trades
+                            Bond Pricings, all
+                            MoneyWire-Breaking News
+                            MoneyWire-Calendar
+                            Convertible debt
+                            Debt, Corporate, Domestic
+                            Debt, Coupons
+                            Debt News  BASIC CODE
+                            MoneyWire-Domestic Institutional Investor/Investment
+                            Domestic Institutional Investor/Investment
+                            MoneyWire-Derivatives
+                            Debt, External Commercial Borrowings or loans
+                            MoneyWire-Exclusive
+                            MoneyWire-Foreign Institutional Investor/Investment
+                            MoneyWire-Flash
+                            MoneyWire-Focus/Analysis
+                            MoneyWire-Forecasts
+                            Foreign Exchange BASIC CODE
+                            Foreign Exchange currency futures
+                            Foreign Exchange Swaps
+                            Foreign Exchange
+                            Debt, Sovereign domestic issues
+                            Help, Will generate story with Money Market Codes
+                            Indices (specific money/debt indices or benchmarks)
+                            MoneyWire-Interest Rates
+                            Debt, Public issues
+                            Interest Rate Futures
+                            Interest Rate Swaps
+                            MoneyWire-Interview
+                            Money Market News BASIC CODE
+                            Debt, Mortgage/Mortgage Backed Securities
+                            Debt, Municipal
+                            Money-One-line headline only
+                            MoneyWire-Opinion
+                            MoneyWire-Market outlook
+                            Debt, Corporate, Overseas
+                            Debt, Private placement
+                            MoneyWire-Policy
+                            MoneyWire-Poll
+                            Debt,  Ratings
+                            Outlook
+                            Debt, Redemptions
+                            MoneyWire-Research
+                            Debt, Sovereign guarantees or guaranteed bonds
+                            Debt, Sovereign overseas issues
+                            Debt, Special bonds. Oil, food, fertiliser, etc bonds
+                            MoneyWire-Statistics
+                            MoneyWire-Summary
+                            MoneyWire-Survey
+                            MoneyWire-Technical Analysis
+                            MoneyWire-Top stories, primarily for media clients
+                            Summary
+                            EquityWire-Active
+                            EquityWire-American Depositary Receipt
+                            EquityWire-Alerts
+                            EquityWire-Analysis
+                            Shares, Block Trades
+                            Shares, Bonus Issues Add Q/MAR for listed companies
+                            EquityWire-Breaking News
+                            Shares, Bulk Deals
+                            Shares, Buyback
+                            EquityWire-Calendar
+                            Shares, Circuit breaker
+                            Shares, Creeping acquisition
+                            Shares, Delisting. Q/MAR
+                            EquityWire-Domestic Institutional Investor/Investment
+                            Shares, Dividend
+                            Derivatives
+                            Shares, Differential voting rights
+                            Shares, Pricing Of. Add Q/MAR for listed companies
+                            Stock Exchange News (About Market, Trade, Margins)
+                            EquityWire-Exclusive
+                            Top stories
+                            Shares, Price Fifty-Two-Week High
+                            EquityWire-Foreign Institutional Investor/Investment
+                            Shares, Price Fifty-Two-Week Low
+                            EquityWire-Flash
+                            EquityWire-Focus/Analysis
+                            Shares, Futures, including index futures
+                            Top Gainer/s of the day
+                            Global Depositary Receipt
+                            Help, Will generate story with Equity Market Codes
+                            Shares, Recommendations, Hold
+                            COVID-19
+                            Shares, Holdings of FIIs/Funds/FIs etc. Changes thereto
+                            Indian Depositary Receipt
+                            Indices (specific market indices, not stocks)
+                            Shares, Insider Transactions
+                            Shares, Initial Public Offerings.
+                            EquityWire-Interview
+                            Shares, Listing
+                            Top Loser/s of the day
+                            Shares, Contract/lot size, changes therein
+                            Shares News about  BASIC CODE
+                            Analysis
+                            Shares, Recommendations, Neutral
+                            NIFTY
+                            EquityWire-One-line headline only
+                            Shares, Open offer
+                            EquityWire-Opinion
+                            Shares, Options, including index
+                            Equitywire-Market outlook
+                            Shares, Recommendations, Overweight
+                            Participatory Notes
+                            Shares, Private Placement. Add Q/MAR for listed companies
+                            TREND
+                            Shares, Pledging of shares
+                            EquityWire-Poll, Earnings and other
+                            Shares, Promoters stake increase/decrease.Add Q/MAR for listed cos
+                            Shares, Recommendations, Buy
+                            Shares, Recommendations
+                            Shares, Price Record High
+                            Shares, Price Record Low
+                            EquityWire-Research
+                            Shares, Rights Issues. Add Q/MAR for listed companies
+                            Shares, Secondary Offerings
+                            WRAP
+                            Shares, Recommendations, Sell
+                            Shares, Splits. Add Q/MAR for listed companies
+                            EquityWire-Statistics
+                            EquityWire-Summary
+                            Equitywire-Survey
+                            Shares, Recommendations, Price target
+                            EquityWire-Technical Analysis
+                            EquityWire-Top stories, primarily for media clients
+                            Shares, Recommendations, Underweight
+                            Video
+                            Informist Poll
+                            Top volume/s of the day
+                            Andorra
+                            United Arab Emirates
+                            Afghanistan
+                            Africa
+                            Antigua & Barbuda
+                            Anguilla
+                            Albania
+                            Armenia
+                            Netherlands Antilles
+                            First View
+                            Angola
+                            Antarctica
+                            Argentina
+                            Asia
+                            Austria
+                            Australia
+                            Azerbaijan
+                            Bosnia-Herzegovina
+                            Barbados
+                            Bangladesh
+                            COLUMN
+                            Belgium
+                            Burkina Faso
+                            Bulgaria
+                            Bahrain
+                            Burundi
+                            Bermuda
+                            Brunei
+                            Benin
+                            Bolivia
+                            Brazil
+                            EXCLUSIVE
+                            Bahamas
+                            Bhutan
+                            Botswana
+                            Belarus
+                            Belize
+                            Canada
+                            Cocos Islands
+                            Chad
+                            Chechnya
+                            Central African Republic
+                            Congo
+                            Switzerland
+                            Cayman Islands
+                            Chile
+                            Cameroon
+                            China
+                            Colombia
+                            Costa Rica
+                            Comoros
+                            Cuba
+                            Cape Verde
+                            Cyprus
+                            Czech Republic
+                            Germany
+                            Djibouti
+                            Denmark
+                            Dominica
+                            Dominican Republic
+                            Algeria
+                            Ecuador
+                            Estonia
+                            Eastern Europe
+                            Egypt
+                            Western Sahara
+                            Equatorial Guinea
+                            Eritrea
+                            Spain
+                            Ethiopia
+                            European Union
+                            Europe
+                            Stocks To Watch
+                            French Guiana
+                            Fiji
+                            Finland
+                            Micronesia
+                            France
+                            Gabon
+                            Great Britain
+                            Grenada
+                            Georgia
+                            Ghana
+                            Greenland
+                            Gambia
+                            Guinea
+                            Guadeloupe
+                            Greece
+                            Guatemala
+                            Guinea-Bissau
+                            Guyana
+                            Hong Kong (China)
+                            Help, Will generate story with Geographical Codes
+                            Honduras
+                            Croatia
+                            Haiti
+                            Hungary
+                            Ivory Coast
+                            Indonesia
+                            Ireland
+                            Israel
+                            India
+                            Iraq
+                            Iran
+                            Iceland
+                            Italy
+                            Jamaica
+                            Jordan
+                            Japan
+                            Kenya
+                            Kyrgyzstan
+                            Cambodia (Kampuchea)
+                            Kiribati
+                            Data Alert
+                            St. Kitts & Nevis
+                            North Korea
+                            South Korea
+                            Kuwait
+                            Kazakhstan
+                            Laos
+                            Lebanon
+                            St. Lucia
+                            Liechtenstein
+                            Sri Lanka
+                            Bond Club
+                            Liberia
+                            Lesotho
+                            Lithuania
+                            Latin America & Region
+                            Luxembourg
+                            Latvia
+                            Libya
+                            Morocco
+                            Monaco
+                            Moldova (Moldavia)
+                            BSE
+                            Madagascar
+                            Marshall Islands
+                            Middle East/West Asia
+                            Macedonia
+                            Mali
+                            Myanmar (Burma)
+                            Mongolia
+                            Macao
+                            Martinique
+                            Mauritania
+                            Montserrat
+                            Malta
+                            Mauritius
+                            Maldives
+                            Malawi
+                            Mexico
+                            Malaysia
+                            Mozambique
+                            Namibia
+                            New Caledonia
+                            Data Watch
+                            Niger
+                            Nigeria
+                            Nicaragua
+                            Netherlands
+                            Norway
+                            Nepal
+                            Nauru
+                            New Zealand
+                            Oman
+                            Panama
+                            EDITORIAL
+                            Peru
+                            Papua New Guinea
+                            Philippines
+                            Pakistan
+                            Poland
+                            Pacific Rim
+                            Palestine
+                            Portugal
+                            Paiau
+                            Paraguay
+                            First Person
+                            Qatar
+                            Reunion
+                            Romania
+                            Russia
+                            Rwanda
+                            Saudi Arabia
+                            Solomon Islands
+                            Seychelles
+                            Scandinavia
+                            Sudan
+                            For The People
+                            Sweden
+                            Singapore
+                            South Asia
+                            Slovenia
+                            Slovakia
+                            Sierra Leone
+                            Senegal
+                            Somalia
+                            Suriname
+                            Sao Tome & Principe
+                            Global Central Bank Monitor
+                            Southeast Asia
+                            El Salvador
+                            Syria
+                            Swaziland
+                            Tibet
+                            Turks & Caicos Islands
+                            Togo
+                            Thailand
+                            Tajikistan (Tadzhikistan)
+                            Turkmenistan (Turkmenia)
+                            Global M&As
+                            Tunisia
+                            Tonga
+                            Turkey
+                            Trinidad & Tobago
+                            Tuvalu
+                            Taiwan
+                            Tanzania
+                            Ukraine
+                            Uganda
+                            United States
+                            Good Morning India
+                            Uruguay
+                            Uzbekistan
+                            Vatican City
+                            St. Vincent & The Grenadines
+                            Venezuela
+                            Vietnam
+                            Vanuatu
+                            Western Samoa
+                            Yemen
+                            Yugoslavia
+                            Govt Debt Monitor:
+                            South Africa
+                            Zambia
+                            Dem. Congo (Zaire)
+                            Zimbabwe
+                            Subject-Accounting
+                            Subject-American Depositary Receipt
+                            Associations, Trade Bodies etc. E.g. Nasscom, CII, FICCI, FIMMDA, FX Association, Solvent Extractors
+                            Cogencis Benchmark
+                            Bids, expression of interest. NOT tenders
+                            Bankruptcy
+                            ICEX
+                            Capital expenditure
+                            Capacity expansion, brownfield, greenfield
+                            Capacity utilisation
+                            CEO News
+                            Corporate Fundamental Database
+                            Collateral. Creating, clearing charge on assets other than shares
+                            Conference Call (only to be used for pdf attachments)
+                            Corporate Governance
+                            Price cut
+                            Production, Output decrease
+                            India Bond Placements
+                            Diversification
+                            Dividends
+                            Earnings Guidance by company
+                            Earnings Forecast
+                            Earnings
+                            Earnings Surprise, 10% deviation from consensus
+                            Earnings Table
+                            Exchange News (Corporate News about Exchange, not Market)
+                            Subject-Exclusive
+                            Foreign Direct Investment
+                            India Budget
+                            Foreign Exchange loss/gains.
+                            First view
+                            Subject-Focus/Analysis
+                            Franchisee, dealers, marketing agents
+                            Corporate fraud
+                            Freight
+                            Financing, fund infusion
+                            Genetically modified organism
+                            Price hike
+                            Help, Will generate story with Subject Codes
+                            India Data Watch
+                            Holding company news
+                            Indonesia stock exchange notices only
+                            Investment announcement
+                            Production, Output increase
+                            Index changes
+                            Insider Transactions
+                            Subject-Inventories
+                            Irrigation
+                            Subject-Interview
+                            Jobs, hirings, layoffs, VRS
+                            India IPO Watch
+                            Joint Ventures
+                            Land buying, acquisition, sale
+                            Law, Lawsuits, arbitration, class action suit, winding down petition
+                            Marketing and distribution alliances
+                            Margins, but not exchange margins
+                            Mergers & Acquisitions, takeovers
+                            Meetings, board meeting, conferences
+                            MoU
+                            Internet
+                            Bad loans, Non Performing Loans
+                            India M&As
+                            Order wins or losses
+                            Orderbook
+                            Outsourcing
+                            Patents, trademarks
+                            Products, Services launch
+                            Personnel & Director changes
+                            Product recall
+                            Price changes. Price changes except stocks/bonds/market prices.
+                            Production,sales in units/volume not in value
+                            Privately Held Companies
+                            MCX
+                            Rainfall
+                            Raw materials
+                            Restructuring capital, debt
+                            Regulatory
+                            Restructuring, organisational
+                            Subject-Research and Development
+                            Royalty, licence fee
+                            Shutdown
+                            Special purpose vehicles
+                            Stake buy/sale other than M&As
+                        Reporter
+                          <div class="overflow-dropdown overflow-dropdown-author">
+                   </div>
+                            Select Name
+                            Aaryan Khanna
+                            Aayushi Parag Parekh
+                            Abhijit Doshi
+                            Abhinaba Saha
+                            Abhishek Saini
+                            Adarsh Jaiswar
+                            Aditya Sakorkar
+                            Aditya Saroha
+                            Afra Abubacker
+                            Aiswarya Santhosh
+                            Ajay Ramanathan
+                            Akshata Gorde
+                            Akul Nishant Akhoury
+                            Alekh Angre
+                            Alekh Archana
+                            Alina Geogy
+                            Aman Shahi
+                            Ananya Chaudhuri
+                            Ananya Grover
+                            Anindya Thakuria
+                            Anjali
+                            Anjali Lavania
+                            Anjali Singh
+                            Anjana Therese Antony
+                            Ankika Biswas
+                            Anshul Choudhary
+                            Anupreksha Jain
+                            Apoorva Choubey
+                            Arshad Hussain
+                            Arunima Bharadwaj
+                            Arushi Jain
+                            Ashish Shirke
+                            Ashtha Tiwari
+                            Asmita Patil
+                            Avishek Dutta
+                            Avishek Rakshit
+                            Ayanti Bera
+                            Bhakti Tambe
+                            C H Unnikrishnan
+                            Chinmay Mungse
+                            Darshan Nakhwa
+                            Deepshikha Bharadwaj
+                            Deepshikha Bhardwaj
+                            Dhanya Nagasundaram
+                            Dhruvaksh Saha
+                            Dinesh Sawant
+                            Ishan Rathi
+                            Janaki Krishnan
+                            Jatin Grover
+                            Joe Milton
+                            Kabir Sharma
+                            Kasthuri Akhil
+                            Kaustubh Bagalkote
+                            Kavita Desai
+                            Kiran Murali
+                            Krishna Prasad M
+                            Krishnadevan Vijayaraghavan
+                            Krity Ambey
+                            Kshipra Petkar
+                            M C Adhiinthran
+                            Maheswaran Parameswaran
+                            Mahika Taya
+                            Maitri Seth
+                            Manisha Baxla
+                            Mayur Bhalerao
+                            Michael Correya
+                            Mridula Lathan
+                            Namrata Rao
+                            Narayana Krishna
+                            Navdha Ahuja
+                            Navya Sruthi
+                            Neeshita Beura
+                            Nikhil Singh
+                            Nikita Periwal
+                            Nikunj Chaudhary
+                            Nishat Anjum
+                            Nithyashree Kannan
+                            Nivedita Yadav
+                            Noel John
+                            Padmini Dhruvaraj
+                            Pankaj Jaiswar
+                            Parth Singh
+                            Pooja Sawant
+                            Pradeep Suresh V
+                            Pranav Joshi
+                            Pratigya Vajpayee
+                            Pratiksha
+                            Praveen Kumar
+                            Preeti Bhagat
+                            Priyansh Verma
+                            Priyasmita Dutta
+                            Puja Das
+                            Rahul Dhuri
+                            Rajeev Pai
+                            Rajesh Gajra
+                            Ranjana Chauhan
+                            Reshab Shaw
+                            Richard Fargose
+                            Romeo M. Raj
+                            S. Anirudh Iyer
+                            Sachi Pandey
+                            Sagar Sen
+                            Sai Ishwarbharath
+                            Saji George Titus
+                            Sandeep Sinha
+                            Sanjana Raina
+                            Satyanarayan Iyer
+                            Sayantan Sarkar
+                            Shahid K Abbas
+                            Shahid K. Abbas
+                            Shiladitya Pandit
+                            Shirsha Thakur
+                            Shivangi Chadha
+                            Shreejit Nair
+                            Shubham Rana
+                            Siddharth Gurav
+                            Siddhi Chauhan
+                            Snigdha Kuttikat
+                            Sonali Devagade
+                            Sony
+                            Sourabh Kumar
+                            Sparsh Bansal
+                            Sreejiraj Eluvangal
+                            Srija Basu Roy
+                            Srijonee Bhattacharjee
+                            Subhana Shaikh
+                            Sukalp Sharma
+                            Sunil Raghu
+                            Surya Tripathi
+                            Sushmita Mukherjee
+                            T. Bijoy Idicheriah
+                            Tanima Banerjee
+                            Taniva Singha Roy
+                            Tanya Rana
+                            Uddipta Banerjee
+                            Vaibhav Chakraborty
+                            Vaibhavi
+                            Vaishali Tyagi
+                            Vandana Hingorani
+                            Varnika Thakur
+                            Vidhi Verma
+                            Vidya Sreedhar
+                            Vijay Malkar
+                            Vinay Khulbe
+                            Vipul Vivek
+                            Vishal Sangani
+                            Vivek Das
+                            Vivek Kumar
+                            Yukta Mudgal
+                            Yukta Singh
+                            Team Informist
+                            Aakar Patel
+                            Kuldeep Singh
+                            Pallavi Singhal
+                            Akash Mandal
+                            Akshay Johnson
+                            Akshita Kumar
+                            Aman Aryan
+                            Apratim Sarkar
+                            Arjun Chugh
+                            Arya Biju
+                            Ashna George
+                            Ashutosh Pati
+                            Ayush Kumar
+                            Ayushman Mishra
+                            Cassandra Carvalho
+                            Gopika B
+                            Jahanvi Kothari
+                            Jovan Thomas
+                            Ketan Barot
+                            Noopur Bhandiwad
+                            Gowri Lakshmi
+                            Shreya Shetty
+                            Shrutika Patil
+                            Simran Rede
+                            Srijita Bose
+                            Steffy Paul
+                            Sweta Roy
+                            Vidushi Rajpurohit
+                            Christina Titus
+                            Siddharth Upasani
+                            Anand Chandrasekar
+                        Date
+                [PageOne](https://www.informistmedia.com/Home)
+                [Careers](https://www.informistmedia.com/careers)
+                [Contact Us](https://www.informistmedia.com/contactus)
+                [Products](https://www.informistmedia.com/product)
+                    [Who We Are](https://www.informistmedia.com/aboutus)
+                    [Team Members](https://www.informistmedia.com/team/Team_Members)
+                    [Leadership Team](https://www.informistmedia.com/team/Leadership_Team)
+                    [Board Members](https://www.informistmedia.com/team/Board_Members)
+                  <span class="search-icon-list">
+                  <i id="fa" class="fa fa-arrow-righ"
+                                        aria-hidden="true"></i>
+                  </span>
+                  Login&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    [EquityWire LinerWire](https://realtime.informistmedia.com/)
+                    [EquityWire PreOpen](https://preopen.informistmedia.com/)
+                    [EquityWire Research](https://rr.informistmedia.com/)
+                  <li><a href="rt.infromistmedia.com" target="_blank">Real-Time News</a></li>
+            <div class="search-group">
+               <form id="form_id" action="https://www.informistmedia.com/search" method="POST">
+                   <input type="hidden" class="txt_csrfname" name="csrf_hash_name" value="6027d9b74f00b733b5398f0bc5a118fc" />
+               <div class="search-icon"><a href="javascript:$('#form_id').submit();"><i class="fa fa-search" aria-hidden="true"></i></a></div>
+               <div class="search-input">
+                  <input type="text" name="keyword" placeholder="Search News" />
+               </div>
+               </form>
+            </div>
+  INTERVIEW: High leverage a deterrent to rate cuts, says YES Bank's Nambiar
+                      details-title
+                      High leverage a deterrent to rate cuts, says YES Bank's Nambiar
+                  font-family: Courier New;
+                  That India's interest rate cut cycle is likely to be shallow is almost a consensus view by now, premised on the stickiness of inflation. YES Bank's head of trading Sudarshan Nambiar adds another dimension to the discussion: the Monetary Policy Committee would be cautious in easing monetary conditions due to the high leverage in the economy.
+                  Register to read
+                Share this Story:
+                    <a href="https://twitter.com/intent/tweet?url=https://www.informistmedia.com/CommodityWire/INTERVIEW--High-leverage-a-deterrent-to-rate-cuts--says-YES-Bank-s-Nambiar" target="_blank" data-toggle="tooltip" title="Twitter"><i class="fa fa-twitter twitter" aria-hidden="true"></i></a>
+                    <a title="Share to Twitter" target="_blank" href="http://twitter.com/share?text=INTERVIEW%3A+High+leverage+a+deterrent+to+rate+cuts%2C+says+YES+Bank%27s+Nambiar&url=https://www.informistmedia.com/CommodityWire%2FINTERVIEW--High-leverage-a-deterrent-to-rate-cuts--says-YES-Bank-s-Nambiar"><img src="https://www.informistmedia.com/assets/img/twitter.png" width="20" height="20"></a>
+                      FOCUS: MPC's Apr repo rate decision clear as Oct-Dec growth far from robust
+                      Soaring High: India's economy on verge of crossing $4 tln mark in FY25, says CEA
+                      Sales Growth: Maruti Suzuki Feb despatches growth lowest since Aug, up 1% YoY
+                      Data Alert: GDP growth rose to 6.2% Oct-Dec on better mfg, farm sector show
+                      India Apr-Jan fiscal deficit jumps to 74.5% of revised FY25 aim
+                      Trade Talks: India, EU asked respective teams to close FTA talks this year, says PM Modi
+                      India Stocks Review: Market down 2% amid sell-off in IT cos on US growth concerns
+                      Exclusive: Coal India may miss output target for 8th straight month in Feb, say sources
+                      Status Quo: EPFO central board recommends retaining interest rate for FY25 at 8.25%
+                      Growth Outlook: India needs faster reforms to become high-income nation by 2047: World Bank
+              <div style="text-align:right;">
+                             <a href="https://www.informistmedia.com/Morestories/Home" style="text-align: center;">                                        
+                                <h2 class="sidebar-title">View More</h2>
+                            </a> 
+                        </div>
+              [Terms of Services](https://www.informistmedia.com/terms_of_services)
+              [Privacy Policy](https://www.informistmedia.com/privacy_policy)
+                  <img src="https://www.informistmedia.com/assets/img/twitter.png" width="20" height="20">

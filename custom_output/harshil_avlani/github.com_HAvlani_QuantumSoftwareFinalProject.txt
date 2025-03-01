@@ -1,0 +1,185 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2FHAvlani%2FQuantumSoftwareFinalProject)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=HAvlani%2FQuantumSoftwareFinalProject)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                    [HAvlani](/HAvlani)
+                  /
+                    [QuantumSoftwareFinalProject](/HAvlani/QuantumSoftwareFinalProject)
+                  Public
+                    You must be signed in to change notification settings
+                      0
+                        Star
+                    stars
+                    forks
+                    Branches
+                    Tags
+                    Activity
+                    Code
+                    Pull requests
+                    Projects
+                    Insights
+                    Additional navigation options
+              HAvlani/QuantumSoftwareFinalProject
+                                    $
+                                    /$
+                                        Go to file
+                                Folders and files
+                                          Last commit message
+                                          Last commit date
+                                          Latest commit
+                                              History
+                                                    77 Commits
+                                                [qaoa_q#](/HAvlani/QuantumSoftwareFinalProject/tree/main/qaoa_q%23)
+                                                [Max-Cut_Resource_Estimation.ipynb](/HAvlani/QuantumSoftwareFinalProject/blob/main/Max-Cut_Resource_Estimation.ipynb)
+                                                [QAOA_Max-Cut.ipynb](/HAvlani/QuantumSoftwareFinalProject/blob/main/QAOA_Max-Cut.ipynb)
+                                                [README.md](/HAvlani/QuantumSoftwareFinalProject/blob/main/README.md)
+                                                [qaoa_qiskit_tsp.ipynb](/HAvlani/QuantumSoftwareFinalProject/blob/main/qaoa_qiskit_tsp.ipynb)
+                                          View all files
+                                    Repository files navigation
+                                            README
+                                        Quantum Software Final Project
+                                      by Harshil Avlani, Christina Trinh, Vibusha Vadivel, Audrey Wei
+                                        Description
+                                      QAOA (Quantum Approximate Optimization Algorithm) is a quantum algorithm for solving combinatorial optimization problems, such as the Maximum Cut Problem (MAXCUT). The algorithm was first introduced by Farhi, Goldstone, and Gutmann in 2014. It is a hybrid quantum-classical algorithm that uses a quantum computer to find the approximate solution to an optimization problem and classical optimization to find the best parameters.
+                                      The basic idea behind QAOA is to use a quantum computer to find the approximate solution to an optimization problem. The algorithm starts by initializing the quantum state of a set of qubits (the basic unit of quantum information) to a simple state, such as the equal superposition state. The qubits are then evolved under a series of unitary operations, known as the QAOA circuit, which are chosen to encode the problem of interest. The final state of the qubits encodes the approximate solution to the optimization problem.
+                                      The QAOA circuit is parameterized by a set of angles
+                                        and
+                                        , which determine the evolution of the qubits. The circuit can be represented mathematically as:
+                                      Where
+                                        $C$
+                                        $B$
+                                        are the cost and mixing Hamiltonians, respectively. The cost Hamiltonian
+                                        encodes the problem of interest and the mixing Hamiltonian
+                                        is chosen to spread the information of the cost Hamiltonian over all qubits.
+                                      QAOA uses a parameterized circuit, which can be optimized using classical optimization techniques to find the best parameters that minimize the cost function of the problem. The algorithm can be run multiple times with different initial parameters to increase the probability of finding the global minimum.
+                                      This implementation of QAOA includes modifications of
+                                        to solve both the
+                                        [MAXCUT](https://en.wikipedia.org/wiki/Maximum_cut)
+                                        problem and the
+                                        [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+                                        (TSP).
+                              About
+                              No description, website, or topics provided.
+                              Stars
+                              Watchers
+                                  watching
+                              Forks
+                                [Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHAvlani%2FQuantumSoftwareFinalProject&report=HAvlani+%28user%29)
+                              [Releases](/HAvlani/QuantumSoftwareFinalProject/releases)
+                            No releases published
+                              [Packages](/users/HAvlani/packages?repo_name=QuantumSoftwareFinalProject)
+                            No packages published
+                              [Contributors](/HAvlani/QuantumSoftwareFinalProject/graphs/contributors)
+                                3
+                            Languages
+                                  Jupyter Notebook
+                                  90.4%
+                                  C#
+                                  9.2%
+                                  Q#
+                                  0.4%
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

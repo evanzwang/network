@@ -1,0 +1,34 @@
+            [Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F4c38a6697c9d&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------)
+                  Sign up
+                    [Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+                      Write
+                              Codius: Smart Contracts Made From Containers
+                                2.7K
+                                10
+                          Stefan Thomas
+                                                          [Giles Pirio](/@gilespirio?source=post_page---byline--4c38a6697c9d---------------------------------------)
+                                                    ·
+                                                      [Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7ba3312b752c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gilespirio%2Fgreat-technology-4c38a6697c9d&user=Giles+Pirio&userId=7ba3312b752c&source=post_page-7ba3312b752c--byline--4c38a6697c9d---------------------post_header------------------)
+                                                  1 min read
+                                                  Jun 12, 2018
+                                                --
+                                                            Listen
+                                                  Share
+                            Great technology! I think Codius is an important building block and will make it possible to build a strong and distributed Codius network by incentivizing people to start new nodes.
+                            I have two questions at this stage though:
+                              As the network grows, how will bad actors be eliminated given there is no concept similar to say, proof of work? For example an actor could run a fake node from an AWS micro instance — the node would take the XRP and fake the start of the application, and always return 200 with an empty page on requests? Will we have a higher-level protocol that will solve that problem?
+                              More importantly, how do you assess the efficiency of a network of Codius nodes vs a smart-contract platform like Ethereum. Even if it’s a stretch, this could be compared to the efficiency of a general-purpose processor (CPU) vs a specialized processor (say, GPU). It is clear that for some specialized loads, the GPU is drastically more efficient and I’m wondering if the fact that Codius can run arbitrary code will not play negatively when looking at the economics.
+                          Written by
+                            [1 Follower](/@gilespirio/followers?source=post_page---post_author_info--4c38a6697c9d---------------------------------------)
+                          [3 Following](/@gilespirio/following?source=post_page---post_author_info--4c38a6697c9d---------------------------------------)
+                  No responses yet
+                        Help
+                        Status
+                        About
+                        Careers
+                        Press
+                        Blog
+                        Privacy
+                        Terms
+                        Text to speech
+                        Teams

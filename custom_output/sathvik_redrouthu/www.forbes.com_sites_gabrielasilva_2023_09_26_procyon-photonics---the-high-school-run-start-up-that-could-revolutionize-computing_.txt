@@ -1,0 +1,80 @@
+                Subscribe To Newsletters
+              Procyon Photonics — The High School Run Start Up That Could Revolutionize Computing
+                By
+                [Gabriel A. Silva](https://www.forbes.com/sites/gabrielasilva/)
+                Follow
+                Save Article
+                Comment
+            BETA
+          This is a BETA experience. opt-out
+            here
+                  [Innovation](https://www.forbes.com/innovation/)
+                  [Science](https://www.forbes.com/science/)
+                        , Contributor.
+                  Follow Author
+            Sep 26, 2023, 05:10pm EDT
+                            Rendering of Procyon's Tachyon optical matrix processing unit chip.
+                          Procyon Photonics
+                      Founded in 2021, Virginia-based
+                        is a startup aiming to change the future of computing hardware with its focus on optical computing. What makes the company unique is that their entire team consists of current high school students, and its co-founder, CEO, and CTO, Sathvik Redrouthu, holds the distinction of being the world's youngest CEO in the photonic and optical computing sector.
+                      Optical computing represents an innovative leap from traditional computing, which relies on electrons moving through wires and transistors. Instead, this relatively nascent field seeks to harness photons — particles of light — as the fundamental elements in computational processes. The promise of optical computing is compelling enough that industry giants like
+                        [IBM](https://www.zdnet.com/article/ibm-is-using-light-instead-of-electricity-to-create-ultra-fast-computing/)
+                        and
+                        [Microsoft](https://www.pcgamer.com/microsofts-light-based-computer-marks-the-unravelling-of-moores-law/)
+                        , among others, are heavily investing in its research and development.
+                      Procyon is attempting to differentiate itself in this competitive landscape not just by its youth, but with their technology. The team is pioneering a unique, industry-leading optical chip, and has
+                        [published a conference paper](https://link.springer.com/chapter/10.1007/978-3-031-37717-4_3)
+                        detailing how a specialized form of matrix algebra could be executed on an optoelectronic chip.
+                      Procyon recently closed a funding seed round with
+                        [1517 Fund](https://www.1517fund.com/)
+                        , a venture capital fund backed by Peter Thiel, famous for co-founding PayPal and for being the first external investor in Facebook. 1517 Fund states on their website that they back “dropouts, renegade students & sci-fi scientists at the earliest stages of their companies”. The fund has a track record of successfully backing non-traditional breakout companies and individuals. Procyon fits the fund’s profile of highly ambitious ventures not afraid of pushing the boundaries of science and engineering. As Redrouthu explains “our business is a pioneer in this revolution - my aspiration is to someday power the world with light”.
+                      Indeed, despite their early stage, Procyon’s hardware has caught the attention of Sam Altman, CEO of OpenAI, the company responsible for ChatGPT. Procyon believes it might be possible to run ChatGPT’s large language model neural networks on their hardware. If successful, it could a trigger a paradigm shift in how very large artificial neural networks are implemented, and change the landscape of scalable computing.
+                            Co-founders. Sathvik Redrouthu (left) and Jagadeepram Maddipatla (right). PROCYON PHOTONICS
+                        MORE FROM
+                          FORBES ADVISOR
+                              [Best High-Yield Savings Accounts Of September 2023](https://www.forbes.com/advisor/banking/savings/best-high-yield-savings-accounts/?utm_source=forbes&utm_medium=recirc&utm_campaign=tiger-sept23)
+                              [Kevin Payne](https://www.forbes.com/advisor/author/kevin-payne/)
+                              [Best 5% Interest Savings Accounts of September 2023](https://www.forbes.com/advisor/banking/savings/best-5-percent-interest-savings-accounts/?utm_source=forbes&utm_medium=recirc&utm_campaign=tiger-sept23)
+                              [Cassidy Horton](https://www.forbes.com/advisor/author/cassidy-horton)
+                      The Opportunities and Challenges of Optical Computing
+                      While there are a number of key advantages to optical computing that would potentially fundamentally change how computation, machine learning, and artificial intelligence are done, there are also many technical scientific and engineering challenges that need to be addressed.
+                      One of the greatest advantages is speed. Light travels incredibly fast, in fact, faster than anything else, including electrons. So computers that use light as their fundamental basis for physical computation would be potentially much faster than existing electronic hardware.
+                      Another important consideration is energy efficiency. Light-based computation would use less power and produce less heat than conventional computing. Less heat would translate into computers that do not need as much cooling, making it cheaper, quieter, and potentially better for the environment.
+                      Yet another advantage is parallel processing. Light can do a form of ‘multi-tasking’ computation, effectively doing many computations simultaneously. For example, light can encode different information in different colors (wavelengths) at the same time. This makes it easier to perform many calculations simultaneously in parallel.
+                      In fact, parallel processing is one of the key advantages being targeted by Procyon. Because their technology uses light, they are not constrained by the digital requirements of representing information in strictly digital form encoded in 0’s and 1’s. Light can take advantage of continuous values and, therefore, analog computing. The company is developing what they call their Tachyon MPU — or matrix processing unit. Rather than sequentially processing strings of data, Procyon’s technology is capable of processing grids of data encoded in matrix form at each clock cycle.
+                      At the same time though, there are a number of significant challenges that will need to be overcome before optical computing becomes a practical reality. There exist technical hardware limitations that pose challenges to the fabrication of crucial components in order to make them small enough and efficient enough to compete with existing state of the art electronic components. And some researchers have questioned how realistic it is for optical computing hardware to compete with the physical properties of existing electronic transistors and circuits.
+                      There are also questions about compatibility and market adoptability. Current computers are designed for electrical signals, so a lot would need to change to fully adopt optical computing in order to make it mainstream. Finally, cost is also a consideration. Developing any new technology is often expensive, and it will likely be awhile before optical computers are affordable or cost efficient.
+                      Beyond Moore’s Law
+                      In 1965, Gordon Moore, co-founder of Intel, made the observation that the number of transistors that could fit onto a computer chip was roughly doubling every two years. This trend is evident in the seemingly unbounded increase in computer power over the decades since.
+                      However, there's a catch. As smaller and smaller and more and more transistors are packed onto chips, the ability to continue the trend seems to have reached physical and technical limits. Transistors cannot get much smaller without running into issues such as overheating and even interference from quantum mechanical effects. This implies that continued increases in computing power may not be possible at the same pace moving forward. The CEO of GPU manufacturing giant Nvidia recently made headlines for
+                        [declaring Moore’s law dead](https://www.cnbc.com/2022/09/27/intel-says-moores-law-is-still-alive-nvidia-says-its-ended.html)
+                        .
+                      Redrouthu envisions that Procyon and optical computing will be able to provide an alternative computing path that is more scalable and efficient to power the increasing demands of large machine learning and artificial intelligence models: “Now that Moore’s Law is dying, unconventional breakthroughs (in computing) are required. What we’ve built at Procyon Photonics leads me to believe that this unconventional breakthrough relies in harnessing photons for a new computing paradigm that doesn’t rely on transistors and can shatter the decline of Moore’s Law, reboot computing, and possibly pave the way towards super-intelligence.”
+                      How a Couple of High School Students Bootstrapped an Optical Computing Startup
+                      As if Procyon’s ambitions and what they have accomplished to date were not impressive enough, how Redrouthu and Procyon co-founder and COO Jagadeepram Maddipatla started the entire thing is an equally impressive lesson in unwavering resolve. What are now patent pending prototype optical electronic chips were initially self-funded by tutoring other students.
+                      “Something perhaps even more special is that our first prototype was built with extraordinary resourcefulness. Sathvik and I went from investor to investor and university to university with designs in hand, hoping to find someone to listen to us. It made sense (we were being ignored), as we were high schoolers claiming to have designs for revolutionary photon based computing technology, and wanted to use their million dollar equipment for ourselves. We almost got kicked off of campus before we finally found someone that listened, provided we paid for all the materials ourselves” said Maddipatla.
+                      Redrouthu and Maddipatla taught AI classes to other students in order to make enough money to buy the materials they needed.
+                      Arguably, if the engineering challenges facing the field as a whole turn out to be surmountable, adoptability will follow and costs will go down. Procyon hopes to enter the hardware side of the artificial intelligence market in the next three to five years. They are working towards offering cloud computing solutions to allow access to photonic-grade neural network acceleration. And have plans to develop more specialized applications such as artificial intelligence for autonomous vehicles — conversations they are already starting to have with select car companies.
+                      The potential and impact of optical computing is significant. It could completely change practical computation and artificial intelligence systems. Given their trajectory to date, anyone with an interest would be smart to keep a close eye on what Procyon does next.
+                      Follow me on
+                      [LinkedIn](https://www.linkedin.com/in/gabriel-a-silva-3a57744b/)
+                      Check out
+                      my
+                      [website](https://www.silva.ucsd.edu)
+                      [Editorial Standards](https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/)
+                      [Forbes Accolades](https://www.parsintl.com/publications/forbes/)
+            © 2025 Forbes Media LLC. All Rights Reserved.
+              [AdChoices](https://youradchoices.com/control)
+              [Privacy Statement](https://www.forbes.com/fdc/privacy.html)
+              [Do Not Sell or Share My Personal Information](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true)
+              [Limit the Use of My Sensitive Personal Information](https://www.forbes.com/consent/editprivacy/?consent_limit=true)
+              [Privacy Preferences](https://www.forbes.com/consent/editprivacy/?consent_all_preferences=true)
+              [Digital Terms of Sale](https://www.forbes.com/digital-terms-of-sale)
+              [Terms of Service](https://www.forbes.com/terms/)
+              [Contact Us](https://www.forbes.com/fdc/contact.html)
+              [Send Us Feedback](mailto:feedback@forbes.com)
+              [Report a Security Issue](https://www.forbes.com/contact/)
+              [Jobs At Forbes](https://www.forbes.com/sites/careers-at-forbes/)
+              [Reprints & Permissions](http://forbesreprints.magreprints.com/)
+              [Forbes Press Room](https://www.forbes.com/sites/forbespr/)
+              [Advertise](http://www.forbesmedia.com/)

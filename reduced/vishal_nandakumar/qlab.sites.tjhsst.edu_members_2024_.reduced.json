@@ -1,0 +1,469 @@
+{
+  "title": "Q Lab",
+  "meta_description": "",
+  "main_content": "Alumni - Graduation Year: 2024 Aditya Sengar Quantum Holography University of Maryland Alec Riso Implementing Quantum Key Distribution using Photonics Cornell University Alina Chen BlochAR: Developing a Manipulative Bloch Sphere Implemented as an Augmented Reality (AR) Application Ananya Pamal Building a Magneto-Optical Trap Carnegie Mellon University Anirudh Mantha Tracking Microplastics with Quantum Machine Learning and Dynamics University of Maryland Arjun Bhat Chaos Modeling: A Comparison of Classical and Quantum Reservoir Computer Capabilities College of William and Mary Benjamin Rubin Optimization of Traffic Lights Using Quantum Behaving Particles Brandon Le Exploring Geometrical Properties of Chaotic Systems Through an Analysis of the Rulkov Neuron Maps University of Virginia Brian Zhou Using Quantum Agents to Model Simple Economies Constrained Deep Learning Methods for Optimization of Autonomous Systems Harvard University Christopher Qian Exploring a Model of Quantum Cognition University of Notre Dame Daniel Sprintson Using Quantum Agents to Model Simple Economies Yale University Danielle Riekse Transferring Quantum Populations Using STIRAP University of Chicago David Cao On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter Harvard University David Wei Generative Modeling with the Yukawa Potential Massachusetts Institute of Technology Dhruv Anurag Simulating Self-Gravitating Dark Matter with Variational Quantum Computing University of Illinois Urbana-Champaign Emi Zhang Using Physics-Informed Neural Networks to Model the 2D Heat Equation Georgia Institue of Technology Geoffrey Whiting Implementing Quantum Key Distribution using Photonics University of Illinois Urbana-Champaign Ishara Shanmugasundaram Transferring Quantum Populations Using STIRAP University of Maryland Kai Wang Hydrodynamic Quantum Field Theory Analogs Standford University Kanjonavo Sabud Chaos Modeling: A Comparison of Classical and Quantum Reservoir Computer Capabilities University of Maryland Karthik Thyagarajan Implementing Quantum Key Distribution using Photonics Purdue University Katherine Jimenez Implementing Quantum Key Distribution using Photonics University of Michigan Krish Malik Teaching Bell's Theorem and Entanglement Through Online Simulations Georgetown University Laura Zhang Using Physics-Informed Neural Networks to Model the 2D Heat Equation Massachusetts Institute of Technology Laura Guo Transferring Quantum Populations Using STIRAP University of California, Berkeley Lindsay Hwang Quantum Holography Georgia Institue of Technology Lucas Marschoun Building and Entangled Photon Pair Source University of Illinois Urbana-Champaign Max Wang Generative Modeling with the Yukawa Potential Michelle Kang Using Physics-Informed Neural Networks to Model the 2D Heat Equation Massachusetts Institute of Technology Mihika Dusad Using Physics-Informed Neural Networks to Model the 2D Heat Equation Massachusetts Institute of Technology Mohib Ahmed An Exploration into Dynamic Spin Chemistry: Improving NMR Resolution George Washington University Naisha Patel Using Quantum ML and Analyzing Electro-Optical vs SAR Image Classification Through Polarizati Purdue University Nivika Gandhi Exploring Geometrical Properties of Chaotic Systems Through an Analysis of the Rulkov Neuron Maps Barnard College Parth Gupta Partial Least-Squares Quantum Optimization Purdue University Pranav Velleleth Development of a Scalable Silicon Photonic On-Chip Memory Architecture University of Maryland Pranav Panicker Hydrodynamic Quantum Field Theory Analogs University of Maryland Pranav Kuppa Generative Modeling with the Yukawa Potential University of Maryland Pranav Vadde Development of a Scalable Silicon Photonic On-Chip Memory Architecture Rishabh Prabhu On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter Carnegie Mellon University Rishabh Chhabra BlochAR: Developing a Manipulative Bloch Sphere Implemented as an Augmented Reality (AR) Application University of Illinois Urbana-Champaign Ronit Kapur On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter Duke University Ryan Kim Implementing QKD-Encrypted Hybrid Quantum Machine Learning for Dementia Detection Columbia University Sankarshanaram Vempati Engineering Artificial Muscles Georgia Institue of Technology Sathvik Redrouthu Development of a Scalable Silicon Photonic On-Chip Memory Architecture Shashank Cheruvu Detecting and Identifying Floor Vibrations through Interferometers Siddhita Krishnan Building a Magneto-Optical Trap College of William and Mary Siri Duddella Engineering Artificial Muscles University of Maryland Srimaye Peddinti Exploring Fischer Koch S as a Photonic Crystal University of Chicago Steven Lu Building and Entangled Photon Pair Source Johns Hopkins University Taohan Lin Using Quantum Control to Achieve Spectral Super-resolution Analyzing Complexity in Variational Quantum Algorithms Massachusetts Institute of Technology Thomas Winston Exploring Quantum Finance College of William and Mary Vishal Nandakumar Hydrodynamic Quantum Field Theory Analogs Massachusetts Institute of Technology William Kerr Optimization of Traffic Lights Using Quantum Behaving Particles University of Virginia Zani Xu Generative Modeling with the Yukawa Potential Harvard University Alumni Click on a year to see alumni that graduated in that year. 2022 2023 2024",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/projects/detail/69/",
+      "text": "Quantum Holography"
+    },
+    {
+      "url": "/projects/detail/45/",
+      "text": "Implementing Quantum Key Distribution using Photonics"
+    },
+    {
+      "url": "/projects/detail/53/",
+      "text": "BlochAR: Developing a Manipulative Bloch Sphere Implemented as an Augmented Reality (AR) Application"
+    },
+    {
+      "url": "/projects/detail/41/",
+      "text": "Building a Magneto-Optical Trap"
+    },
+    {
+      "url": "/projects/detail/71/",
+      "text": "Tracking Microplastics with Quantum Machine Learning and Dynamics"
+    },
+    {
+      "url": "/projects/detail/70/",
+      "text": "Chaos Modeling: A Comparison of Classical and Quantum Reservoir Computer Capabilities"
+    },
+    {
+      "url": "/projects/detail/46/",
+      "text": "Optimization of Traffic Lights Using Quantum Behaving Particles"
+    },
+    {
+      "url": "/projects/detail/48/",
+      "text": "Exploring Geometrical Properties of Chaotic Systems Through an Analysis of the Rulkov Neuron Maps"
+    },
+    {
+      "url": "/projects/detail/64/",
+      "text": "Using Quantum Agents to Model Simple Economies"
+    },
+    {
+      "url": "/projects/detail/74/",
+      "text": "Constrained Deep Learning Methods for Optimization of Autonomous Systems"
+    },
+    {
+      "url": "/projects/detail/67/",
+      "text": "Exploring a Model of Quantum Cognition"
+    },
+    {
+      "url": "/projects/detail/64/",
+      "text": "Using Quantum Agents to Model Simple Economies"
+    },
+    {
+      "url": "/projects/detail/44/",
+      "text": "Transferring Quantum Populations Using STIRAP"
+    },
+    {
+      "url": "/projects/detail/57/",
+      "text": "On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter"
+    },
+    {
+      "url": "/projects/detail/50/",
+      "text": "Generative Modeling with the Yukawa Potential"
+    },
+    {
+      "url": "/projects/detail/35/",
+      "text": "Simulating Self-Gravitating Dark Matter with Variational Quantum Computing"
+    },
+    {
+      "url": "/projects/detail/47/",
+      "text": "Using Physics-Informed Neural Networks to Model the 2D Heat Equation"
+    },
+    {
+      "url": "/projects/detail/45/",
+      "text": "Implementing Quantum Key Distribution using Photonics"
+    },
+    {
+      "url": "/projects/detail/44/",
+      "text": "Transferring Quantum Populations Using STIRAP"
+    },
+    {
+      "url": "/projects/detail/56/",
+      "text": "Hydrodynamic Quantum Field Theory Analogs"
+    },
+    {
+      "url": "/projects/detail/70/",
+      "text": "Chaos Modeling: A Comparison of Classical and Quantum Reservoir Computer Capabilities"
+    },
+    {
+      "url": "/projects/detail/45/",
+      "text": "Implementing Quantum Key Distribution using Photonics"
+    },
+    {
+      "url": "/projects/detail/45/",
+      "text": "Implementing Quantum Key Distribution using Photonics"
+    },
+    {
+      "url": "/projects/detail/66/",
+      "text": "Teaching Bell's Theorem and Entanglement Through Online Simulations"
+    },
+    {
+      "url": "/projects/detail/47/",
+      "text": "Using Physics-Informed Neural Networks to Model the 2D Heat Equation"
+    },
+    {
+      "url": "/projects/detail/44/",
+      "text": "Transferring Quantum Populations Using STIRAP"
+    },
+    {
+      "url": "/projects/detail/69/",
+      "text": "Quantum Holography"
+    },
+    {
+      "url": "/projects/detail/61/",
+      "text": "Building and Entangled Photon Pair Source"
+    },
+    {
+      "url": "/projects/detail/50/",
+      "text": "Generative Modeling with the Yukawa Potential"
+    },
+    {
+      "url": "/projects/detail/47/",
+      "text": "Using Physics-Informed Neural Networks to Model the 2D Heat Equation"
+    },
+    {
+      "url": "/projects/detail/47/",
+      "text": "Using Physics-Informed Neural Networks to Model the 2D Heat Equation"
+    },
+    {
+      "url": "/projects/detail/42/",
+      "text": "An Exploration into Dynamic Spin Chemistry: Improving NMR Resolution"
+    },
+    {
+      "url": "/projects/detail/43/",
+      "text": "Using Quantum ML and Analyzing Electro-Optical vs SAR Image Classification Through Polarizati"
+    },
+    {
+      "url": "/projects/detail/48/",
+      "text": "Exploring Geometrical Properties of Chaotic Systems Through an Analysis of the Rulkov Neuron Maps"
+    },
+    {
+      "url": "/projects/detail/68/",
+      "text": "Partial Least-Squares Quantum Optimization"
+    },
+    {
+      "url": "/projects/detail/49/",
+      "text": "Development of a Scalable Silicon Photonic On-Chip Memory Architecture"
+    },
+    {
+      "url": "/projects/detail/56/",
+      "text": "Hydrodynamic Quantum Field Theory Analogs"
+    },
+    {
+      "url": "/projects/detail/50/",
+      "text": "Generative Modeling with the Yukawa Potential"
+    },
+    {
+      "url": "/projects/detail/49/",
+      "text": "Development of a Scalable Silicon Photonic On-Chip Memory Architecture"
+    },
+    {
+      "url": "/projects/detail/57/",
+      "text": "On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter"
+    },
+    {
+      "url": "/projects/detail/53/",
+      "text": "BlochAR: Developing a Manipulative Bloch Sphere Implemented as an Augmented Reality (AR) Application"
+    },
+    {
+      "url": "/projects/detail/57/",
+      "text": "On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter"
+    },
+    {
+      "url": "/projects/detail/62/",
+      "text": "Implementing QKD-Encrypted Hybrid Quantum Machine Learning for Dementia Detection"
+    },
+    {
+      "url": "/projects/detail/65/",
+      "text": "Engineering Artificial Muscles"
+    },
+    {
+      "url": "/projects/detail/49/",
+      "text": "Development of a Scalable Silicon Photonic On-Chip Memory Architecture"
+    },
+    {
+      "url": "/projects/detail/72/",
+      "text": "Detecting and Identifying Floor Vibrations through Interferometers"
+    },
+    {
+      "url": "/projects/detail/41/",
+      "text": "Building a Magneto-Optical Trap"
+    },
+    {
+      "url": "/projects/detail/65/",
+      "text": "Engineering Artificial Muscles"
+    },
+    {
+      "url": "/projects/detail/51/",
+      "text": "Exploring Fischer Koch S as a Photonic Crystal"
+    },
+    {
+      "url": "/projects/detail/61/",
+      "text": "Building and Entangled Photon Pair Source"
+    },
+    {
+      "url": "/projects/detail/54/",
+      "text": "Using Quantum Control to Achieve Spectral Super-resolution"
+    },
+    {
+      "url": "/projects/detail/73/",
+      "text": "Analyzing Complexity in Variational Quantum Algorithms"
+    },
+    {
+      "url": "/projects/detail/60/",
+      "text": "Exploring Quantum Finance"
+    },
+    {
+      "url": "/projects/detail/56/",
+      "text": "Hydrodynamic Quantum Field Theory Analogs"
+    },
+    {
+      "url": "/projects/detail/46/",
+      "text": "Optimization of Traffic Lights Using Quantum Behaving Particles"
+    },
+    {
+      "url": "/projects/detail/50/",
+      "text": "Generative Modeling with the Yukawa Potential"
+    },
+    {
+      "url": "/members/2022/",
+      "text": "2022"
+    },
+    {
+      "url": "/members/2023/",
+      "text": "2023"
+    },
+    {
+      "url": "/members/2024/",
+      "text": "2024"
+    }
+  ],
+  "images": [
+    {
+      "src": "/static/img/logos/long.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Cornell_University_seal.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/cmu.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/wm.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uva.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Harvard_University_coat_of_arms.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/us_u_nod2.gif",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/yale_CegjecT.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uc_Rj7GHcS.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Harvard_University_coat_of_arms.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uiuc_6YaLJlG.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Georgia_Tech_seal.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uiuc_6YaLJlG.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/SU_SealColor_web3.webp",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/purdue-university-logo-8AA5B0CE10-seeklogo.com.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/um.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/images.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/Seal_of_University_of_California_Berkeley.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Georgia_Tech_seal.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uiuc_6YaLJlG.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/150px-formal_seal_of_george_washington_university_dc_usa-svg_.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/purdue-university-logo-8AA5B0CE10-seeklogo.com.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/barnard-seal-blue.webp",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/purdue-university-logo-8AA5B0CE10-seeklogo.com.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/cmu.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uiuc_6YaLJlG.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/Duke-University-logo-500x425_Y86WsIN.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/203118e697d02179bac0eb234dff3fdb.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Georgia_Tech_seal.svg.png",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/static/img/moose/moose.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/wm.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/umd.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uc_Rj7GHcS.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/university.shield.small_.blue_.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/wm.png",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/mit.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/media/student_photos/uva.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/media/college_logos/Harvard_University_coat_of_arms.svg.png",
+      "alt": ""
+    }
+  ]
+}

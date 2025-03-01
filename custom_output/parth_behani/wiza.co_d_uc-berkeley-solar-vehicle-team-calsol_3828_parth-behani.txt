@@ -1,0 +1,109 @@
+  qv q:id=e q:key=e0ss:3H_1
+  qv q:key=zl_1
+  qv q:id=f q:key=jYSz:zl_0
+  qv q:key=wv_3
+  qv q:id=g q:key=YDIL:wv_0
+      qv q:key=ot_9
+      /qv
+          qv q:key=ot_10
+            qv q:key=ot_11
+            Solutions
+              qv q:key=ot_14
+            qv q:id=j q:key=fR0w:ot_15
+                    qv q:key=ot_0
+                    Sales
+                    Find validated prospect information
+                    Recruiting
+                    Source candidate contact information
+                    Marketing
+                    Build targeted custom audiences
+                    API
+                    Realtime data with API calls
+                    Managed Services
+                    Let our team do the heavy lifting
+                  How it works
+                        qv q:key=ot_1
+                    Watch a helpful video on Wiza and
+                    Watch video
+            Resources
+            qv q:id=k q:key=4BRV:ot_16
+                Support Line
+                qv q:key=ot_5
+                    qv q:key=ot_3
+                    Knowledge base
+                    Find an answer for a question
+                    qv q:key=ot_4
+                    Support
+                    Get in touch with our team
+                Learn & Grow
+                    qv q:key=ot_6
+                    Blog
+                    Helpful ideas to succeed in sales
+                    Watch our demo
+                    See Wiza in action
+                    Book a meeting
+                    Get a 1 on 1 product tour
+            [Pricing](/pricing)
+          qv q:id=l q:key=B1f6:ot_17
+              qv q:s q:sref=l q:key=
+              Get a demo
+          qv q:id=n q:key=B1f6:ot_18
+              qv q:s q:sref=n q:key=
+              Get started for free
+        qv q:id=p q:key=B1f6:ot_19
+            qv q:s q:sref=p q:key=
+            Log in
+        qv q:id=s q:key=B1f6:ot_20
+            qv q:s q:sref=s q:key=
+        qv q:id=u q:key=B1f6:ot_21
+            qv q:s q:sref=u q:key=
+            Sign up
+  qv q:s q:sref=f q:key=
+  qv q:id=1h q:key=pL45:zl_0
+    qv q:id=1j q:key=oI6N:c9_3
+        qv q:id=1k q:key=r3sx:wi_0
+          qv q:id=1l q:key=5QXx:HG_0
+        qv q:s q:sref=1j q:key=above-title
+        qv q:id=1m q:key=6001:wi_3
+            One more step
+          Please complete the security check to access this page.
+        qv q:s q:sref=1j q:key=
+            qv q:id=1q q:key=B1f6:c9_2
+                qv q:s q:sref=1q q:key=
+                Submit
+  qv q:id=w q:key=xHo6:wv_2
+      qv q:id=x q:key=e1MT:4r_0
+      qv q:key=Z7_1
+      The future of prospecting © 2025 Wiza
+      “Wiza is a sales prospecting & engagement platform.”
+    qv q:id=z q:key=e1MT:4r_1
+          qv q:key=4r_2
+          hello@wiza.co
+          qv q:key=4r_3
+          qv q:key=4r_6
+            qv q:id=13 q:key=e1MT:4r_4
+            qv q:id=15 q:key=e1MT:4r_4
+            qv q:id=17 q:key=e1MT:4r_4
+            qv q:id=19 q:key=e1MT:4r_4
+              [Wiza for Sales](/)
+              [Wiza for Recruiting](/recruiting)
+              [Integrations](/integrations)
+              [Status](https://status.wiza.co/)
+              [Free email finder](/find-email-free)
+              [Free email verifier](/verify-email-free)
+              [Company directory](/directory)
+          Company
+              [Feature Requests](https://feedback.wiza.co/features)
+              [Changelog](https://feedback.wiza.co/changelog)
+              [Become an affiliate](https://affiliates.wiza.co/signup)
+              [Terms of service](/tos)
+              [Privacy policy](/privacy)
+              [Vulnerability disclosure](/vdp)
+              [Opt out](/optout_directory)
+    qv q:id=1b q:key=e1MT:4r_8
+    Disclaimer: Wiza, Inc is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Microsoft or LinkedIn, or any of their subsidiaries or affiliates.
+  qv q:key=3H_2
+  qv q:id=1f q:key=cCEY:3H_3
+  qv q:key=qR_1
+  qv q:id=1g q:key=o041:3H_4
+  qv q:key=7x_7

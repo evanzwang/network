@@ -1,0 +1,221 @@
+  <form runat="server"></form>
+<WebPartPages:SPWebPartManager runat="server"/>
+  WCMAuthoringReact
+            [HBS Home](https://www.hbs.edu/Pages/default.aspx)
+                [About](https://www.hbs.edu/about/Pages/default.aspx)
+                [Academic Programs](https://www.hbs.edu/about/academic-programs/Pages/default.aspx)
+                [Alumni](https://www.alumni.hbs.edu/Pages/default.aspx)
+                [Faculty & Research](https://www.hbs.edu/faculty/Pages/default.aspx)
+                [Baker Library](https://www.library.hbs.edu/)
+                [Giving](https://www.alumni.hbs.edu/giving/Pages/default.aspx)
+                [Harvard Business Review](https://hbr.org/)
+                [Initiatives](https://www.hbs.edu/about/initiativesandprojects/Pages/default.aspx)
+                [News](https://www.hbs.edu/news/Pages/landing.aspx)
+                [Recruit](https://www.hbs.edu/recruiting/Pages/default.aspx)
+                [Map / Directions](https://www.hbs.edu/maps/)
+                [Login](https://cas.hbs.edu/cas/login?service=https%3A%2F%2Fwww.alumni.hbs.edu%2Fstories%2FPages%2Fstory-bulletin.aspx%3Fnum%3D9438)
+                [Volunteer](/volunteer/)
+                [Clubs](/clubs/)
+                [Reunions](/events/reunions/)
+                [Magazine](/magazine/)
+                [Class Notes](/magazine/class-notes/)
+                [Help](/help/)
+                [Give Now](https://community.alumni.harvard.edu/give/16040805?appealcode=BW001)
+                  [Stories](/stories/)
+                  [Alumni Directory](/community/Pages/directory.aspx)
+                  [Lifelong Learning](/learning/)
+                  [Careers](/careers/)
+                  [Programs & Events](/events/)
+      STARTINDEX
+        ?xml version="1.0" encoding="UTF-8"?
+                    →
+                    [Harvard Business School](https://www.hbs.edu/Pages/default.aspx)
+                      01 Jun 2024
+                      The Exchange: Chance Encounters
+                      On the value of bringing people together—and why that’s still so hard to do
+                      Re: Andy Wu (Arjun and Minoo Melwani Family Associate Professor of Business Administration);
+                        Maria P. Roche (Assistant Professor of Business Administration); By: Jen McFarland
+                        Flint
+                      Topics:
+                      [Psychology-Social and Collaborative Networks](/stories/Pages/default.aspx?HBSTopic=Psychology-Social and Collaborative Networks)
+                      [Forms of Communication-General](/stories/Pages/default.aspx?HBSTopic=Forms of Communication-General)
+                      [Labor-Working Conditions](/stories/Pages/default.aspx?HBSTopic=Labor-Working Conditions)
+                    ShareBar
+                      Assistant Professor Maria Roche and Associate Professor Andy Wu; image by John Ritter
+                      L
+                      ate one day in the fall of 2021, as she was packing up to head home, Assistant Professor
+                        Maria Roche
+                      bumped into
+                        Andy Wu
+                      , a colleague in the Strategy Unit whose office is next to hers. Roche asked how his research was going, and in the conversation that followed the pair quickly realized the extent to which their work overlapped.  If they could combine findings from across their assorted research projects, they could fit together a big-picture view of office-space configurations and how well they support different kinds of organizations.
+                      div class="mobile-hidden"
+                        “There continues to be a wasted opportunity to think about workplace design more strategically.”
+                      /div
+                      That hallway encounter evolved into a
+                      article, “What’s the Optimal Workplace for Your Organization?” The article itself, with its two-by-two matrix of strategic space configurations, is an illustration of the value of face time. “This project would very much not exist were we not literally next door to each other,” says Wu, an associate professor.
+                    In the following conversation with the
+                      Bulletin
+                      , Roche and Wu talk about the contest between physical proximity and virtual connection, and the increasing human tendency to isolate oneself.
+                      You write that this moment represents a rare opportunity to reimagine the workplace. What does the landscape look like now, and how strategic is the decision-making around office space?
+                      Maria Roche:
+                      I think there was a lot more experimentation earlier, in terms of letting people be at home, but now you can see more large establishments requiring folks to come back. I’ve been talking to the largest technology firms about this: They’ve created task forces to think about how they want to bring people back to the office, when, and why. Based on my own research, especially in knowledge work, I’m not surprised that organizations are realizing they need workers to be physically present, in person, at least several days a week and that they need to coordinate the timing of this so they have shared time to work with each other.
+                      Andy Wu:
+                      Broadly, we’ve seen a lot of transformation in how we think about the workplace over the last few years, but there continues to be a wasted opportunity to think about workplace design more strategically. I see executives fall into two patterns: The first is the older generation of executives who are demanding to go back in-person—Wall Street falls into this category. They’re trying to go back to what they know well; but I am not certain that they’ve really considered the alternatives and what workplace would fit into their broader strategy. And then you have other companies and executives that went remote during the pandemic and are still scared to ask their employees to come back to the office. They don’t want to fight with their employees and risk losing people. They will end up being remote or hybrid as a consequence of that tension but, again, that is often not a strategic decision in terms of what is best for the company.
+                      What about that tension, when what works best for employees is different from what delivers the most value for the business?
+                      Roche:
+                      Microsoft conducted an internal survey where they asked employees how they felt about working remotely and how productive they were. It was striking to see that people thought they were much more productive at home. But they also used real numbers to measure productivity and saw the exact opposite in the non-subjective evaluations, so there was a disconnect between what was perceived to be going on by employees vs. what the actual numbers were saying. Some of this also comes from definitions. What is being productive? When you’re at home, you might have a list of things to do, and you can check everything off and feel like you accomplished a lot. But for knowledge workers, productivity is often about new ideas, new products, new services, or even just improvements in the ways things have been done. It’s hard to quantify that, at least for the individual employee.
+                      Wu:
+                      For the companies that have been remote in the pandemic, it’s also a very, very difficult conversation to have with the employees, to even consider the possibility of an in-person working environment. I think there’s a deep fear that employees will protest or leave if they tried to do that. And a lot of companies were able to hire from a broad geographic scope that they wouldn’t have otherwise done outside of the pandemic. What do you even do about people who are in distant cities, if you want to be in person? These are all constraints and fears that prevent executives from taking a big-picture, strategic view.
+                      There are some strong generational differences at play, with younger generations prioritizing flexibility over almost anything else. How do those trade-offs factor into the decision-making?
+                      As we look broadly at Gen Z and the younger generations entering the workforce in the coming years and decade, they prioritize the ability to work from home and the flexibility to be with their families. I don’t want to discount all the benefits they get out of that arrangement. That said, my main skepticism of that preference comes from other research I’ve done on the metaverse, a vision for a 3D internet, and other digital technologies that allow people to isolate themselves in a digital environment. There are some real concerns we’ll have to reckon with, as a society, if we end up in a world where people spend both their social and their professional lives by themselves, at home on their computers or mobile devices. We’re losing aspects of our culture as a consequence of not being together.
+                    To use the analogy of a DJ concert: There are big concerts where DJs perform and—I used to be a DJ, so I’ll admit this fully—the DJ is mostly just clicking a bunch of buttons. The audience has no real way of knowing what the DJ is doing because the music is all pre-recorded. But what they
+                      are
+                      doing is bringing together thousands of people and allowing them to have a shared experience. We can translate that analogy to the workplace: Some of what happens at work may just be the equivalent of clicking buttons on pre-recorded songs, but more important is the fact that you’re bringing people together.
+                      And proximity breeds trust. Especially in a decision-making context, having that trust—and having a shared understanding of how to make these decisions—is really critical.
+                      What other research are you doing to better understand virtual and physical spaces?
+                      Besides analyzing how very short distances—here, I really mean short distances of 20 meters—can impact technology-adoption decisions, I’ve been examining how the virtual space can substitute for the physical space, by looking at tech adoption at Stack Overflow, which is like a Q&A website for coders. It’s been surprising to see that coders will adopt a new technology only if they’re actually close to other coders
+                      physically
+                      . Even though you have this virtual place where you can ask questions, there’s still something about the physical going on.
+                          “If we miss this opportunity, we’ll go back to our paths-already-taken approach.”
+                    Other contexts that I’ve been looking at are really established, super high-tech companies. One of them makes the optical solutions that go into the most sophisticated big-chip printers. They have a huge campus, like a university. They told me that it’s becoming more and more important to be physically close because they’re afraid of knowledge leakage. If you know everyone, and that’s the only way you share your information, then you can better protect your work.
+                      One of the things I find striking about the metaverse is how compelling the metaverse narrative is over the real world. The more I research it, the more convinced I am that, at an individual level, we will choose a 3D-internet world over the physical world, particularly in any instance where there’s a minor inconvenience to being in person—whether that’s a fear of social interaction or perhaps having to drive more than 30 minutes. That is a huge barrier to in-person interaction, and people will almost always pick the virtual over the in-person option if they have a choice. That is a general secular trend some companies will have to fight against for their success. I used to believe that people have a strong preference for being together, but I increasingly feel like our base core tendency, actually, is to isolate ourselves. It’s funny because Maria is literally on the other side of this wall, and I could have gone to her office to take this meeting but I decided to stay at my desk.
+                      I wish we were able to do these studies and get them out faster, because managers need to make these choices right now, and if we miss this opportunity, we’ll go back to our paths-already-taken approach.
+                    Post a Comment
+                  Featured Faculty
+                  Arjun and Minoo Melwani Family Associate Professor of Business Administration
+                    [Maria P. Roche](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284955)
+                  Assistant Professor of Business Administration
+                  Related Stories
+                        04 Nov 2019
+                        Making A Difference
+                        [A Home for Startups](https://www.alumni.hbs.edu/stories/Pages/story-bulletin.aspx?num=7135)
+                      Re: Ankit Samdariya (MBA 2013)
+                        28 May 2019
+                        HBS Alumni Bulletin
+                        [A More Perfect Union](https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=7033)
+                      Re: Daniella Ballou-Aares (MBA 2001); David A. Moss (Paul Whiton Cherington Professor
+                        of Business Administration Unit Head, Business, Government and the International Economy);
+                        By: Jen McFarland Flint; illustration by Dan Bejar
+                        01 Jun 2018
+                        [The Long Run](https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=6665)
+                      Re: Jim Langford (MBA 1984); Ralph Edwards (MBA 1967); By: Julia Hanna; photographed
+                        by Melissa Golden
+                    [More Related Stories](/stories/Pages/default.aspx?HBSTopic=Psychology-Social and Collaborative Networks)
+                    <div class="shim15"></div>
+
+<div class="carousel-container has-random has-shuffle">
+
+<ul class="carousel-panels" style="left:0px">
+ 
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-1-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/HBSjourney_staticbanner1.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-1-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-2-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-charewhatyouknow.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-2-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-3-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-comeandjoinus.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-3-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-4-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-gofartherfaster.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-4-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-5-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-improveyourapporach.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-5-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-6-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-jointheparty.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-6-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-7-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-makeanimpact.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-7-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-8-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-meettheflock.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-8-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+<li style="width:312px;max-height:667px">
+<div class="box-gray">
+<a id="ad-box3-9-image" href="http://wilderness.hbs.edu/" target="_blank"><img src="/PublishingImages/wilderness-shareyourcoordinates.jpg" class="fluid" alt="" /></a>
+<div class="shim15"></div>
+
+<a id="ad-box3-9-button" class="btn-arrow btn-large btn-right" href="http://wilderness.hbs.edu/" target="_blank">Explore<span class="arr"></span></a>
+</div>
+
+</li>
+
+</ul>
+
+</div>
+      ENDINDEX
+              ǁ
+                    External Relations
+                      1.617.495.6890
+                        [Map & Directions](https://www.hbs.edu/maps/)
+                        [More Contact Information](https://www.alumni.hbs.edu/help/Pages/staff-directory.aspx)
+                        [Make a Gift](https://community.alumni.harvard.edu/give/16040805?appealcode=BW004)
+                      [Site Map](https://www.hbs.edu/siteindex/)
+                      [Jobs](https://www.hbs.edu/employment/)
+                      [Harvard University](https://www.harvard.edu/)
+                      [Trademarks](https://trademark.harvard.edu/pages/trademark-notice/)
+                      [Policies](https://www.hbs.edu/about/campus-and-culture/policies/Pages/default.aspx)
+                      [Accessibility](https://accessibility.harvard.edu/)
+                      [Digital Accessibility](https://accessibility.huit.harvard.edu/digital-accessibility-policy)
+                      [Terms of Use](https://www.alumni.hbs.edu/help/Pages/terms-of-use.aspx)
+                  Copyright
+                    ©
+                    President & Fellows of Harvard College.
+      Watchdog=Healthy

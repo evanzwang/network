@@ -1,0 +1,56 @@
+  <![endif]
+  this was dynamic but switched to use static content server instead
+          Stanford
+          Profiles
+            END div#authMenu
+          END div#authDetails
+        END div#auth
+      END div#authBar
+          Page Not Found
+          Please check the URL used in your browser.
+        
+        If you believe the URL is correct, please use the Feedback button on the right to report the problem.
+            Error Details
+              URL: https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=301499
+              Original URI: /profiles/frdActionServlet
+        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        !!!!!!!!!!helpIncludeUrl + templatePage /includes/cap/help/!!!!!!!!!
+      END div#appSpace
+    END div#mainContent
+        © Stanford University. 450 Serra Mall, Stanford, CA 94305. (650) 723-2300
+        [Terms Of Use](http://stanford.edu/site/terms.html)
+        [Copyright Complaints](http://stanford.edu/site/copyright.html)
+  END div#container
+  Feedback widget
+      Show Feedback
+  END #feedbackContainer
+  Be careful to change this file since it is used by public, intranet, admin, subAdmin pages!
+  researchProjectVisiblity:
+  projectVisiblity:
+  presentationVisiblity:
+  opportunitiesVisibility:
+  labAffiliationVisibility:
+  postDoctoralAdvisorsVisiblity:
+  supervisorVisiblity:
+  webLinksVisibility:
+  labAffiliationAdvisorNames:
+  BEGIN: visibiltyDialog
+        BEGIN:
+        OVERALL - overAllProfileVisibility = OVERALL_PROFILE_VISIBILITY
+        OVERALL - priorOverAllProfileVisibility = PRIOR_OVERALL_PROFILE_VISIBILITY
+            This change will take effect only when you click on the 'Save' button
+      below.
+          OVERALL_PROFILE_VISIBILITY non-registry profile
+          <p>DEBUG:OVERALL_PROFILE_VISIBILITY non-registry profile</p>
+            Make my profile visible to
+              Public
+              Stanford
+            only
+            You must make your overall profile publicly visible if you want to display any
+          other content publicly.
+          TODO smells check
+        END:
+  END: visibiltyDialog
+        Your profile is currently not visible to anyone but you.  Would you like to make your profile visible?
+          Don't ask me again
+      You can change your visibility anytime by clicking on the My Profile tab or "edit my profile" and selecting "Profile visibility settings".

@@ -1,0 +1,412 @@
+[
+  {
+    "fullName": "Joe Li",
+    "linkedin_internal_id": "895071271",
+    "first_name": "Joe",
+    "last_name": "Li",
+    "public_identifier": "joe-li-08791120b",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQHbp8Q0BPPi-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720486204712?e=2147483647&v=beta&t=1nM4Zgb-Z7EyvE-vmUYhTyKK1ERqzdFRH69Je0GLfgQ",
+    "headline": "CS + EE @ Stanford | Nous Research | USA IOI Training Camp",
+    "location": "760 followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Machine Learning Researcher",
+        "company_url": "https://www.linkedin.com/company/nousresearch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGybT6VqR2W6w/company-logo_100_100/company-logo_100_100/0/1725298571363/nousresearch_logo?e=2147483647&v=beta&t=EfJCGUR9hWVW3-wLpoQ0r5dDhsY8Flv0hQZKMLOKSYI",
+        "company_name": "Nous Research",
+        "location": null,
+        "summary": "Pre-training LLMs. Reinforcement learning for reasoning models.",
+        "starts_at": "Nov 2024",
+        "ends_at": "Present",
+        "duration": "5 months"
+      },
+      {
+        "position": "ML Compiler",
+        "company_url": "https://www.linkedin.com/company/moffett-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHYP6Fz_keLSQ/company-logo_100_100/company-logo_100_100/0/1630634302765/moffett_ai_logo?e=2147483647&v=beta&t=vYS73r_uz27ZWpgcl4pZRmgd91EVduVDk-PFlqnu9Ho",
+        "company_name": "Moffett.AI",
+        "location": "San Jose, California, United States",
+        "summary": "",
+        "starts_at": "Jul 2024",
+        "ends_at": "Sep 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "Researcher at Hawaii Digital Health Lab",
+        "company_url": "https://www.linkedin.com/school/uhmanoa/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFn8IMzrBbFaw/company-logo_100_100/company-logo_100_100/0/1631310715311?e=2147483647&v=beta&t=Kw3nptuc-WzQF74BbpyzsjmyfxAIIxV50d05yCzzXAw",
+        "company_name": "University of Hawaii at Manoa",
+        "location": null,
+        "summary": "Biosignal-based emotion recognition using artificial intelligence.\u00a0First-authored \"A Comparison of Personalized and Generalized Approaches to Emotion Recognition Using Consumer Wearable Devices: Machine Learning Study\" in JMIR AI.",
+        "starts_at": "Aug 2022",
+        "ends_at": "May 2024",
+        "duration": "1 year 10 months"
+      },
+      {
+        "position": "Researcher at Princeton Power Electronics Lab",
+        "company_url": "https://www.linkedin.com/company/andlingercenter?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG83xiiBm1_nA/company-logo_100_100/company-logo_100_100/0/1630657858972?e=2147483647&v=beta&t=HBfPYwPAbXpgGe6fbVlxbk2ypUg0njgXIpjXdbyE16g",
+        "company_name": "Andlinger Center for Energy and the Environment",
+        "location": "Princeton, New Jersey, United States",
+        "summary": "Princeton Laboratory Learning Program (LLP). Power magnetics modeling.- First-authored \"Investigating the Mutual Impact of Waveform, Temperature, and DC-Bias on Magnetic Core Loss Using Neural Network Models\" in IEEE Applied Power Electronics Conference 2024.- Co-authored \"Multi-Material Power Magnetics Modeling with a Modular and Scalable Machine Learning Framework\" in IEEE Applied Power Electronics Conference 2024.- Co-authored \"A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer\" in IEEE Transactions on Power Electronics.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jun 2023",
+        "ends_at": "Feb 2024",
+        "duration": "9 months"
+      },
+      {
+        "position": "Researcher at Search-based Planning Lab",
+        "company_url": "https://www.linkedin.com/school/carnegie-mellon-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_100_100/company-logo_100_100/0/1656670432790/carnegie_mellon_university_logo?e=2147483647&v=beta&t=aPUYNrOY_aNQ_xYOLYuS6QMkoaAk4TILUhTj-qpZOTs",
+        "company_name": "Carnegie Mellon University",
+        "location": null,
+        "summary": "Computer vision and autonomous planning",
+        "starts_at": "Jun 2021",
+        "ends_at": "Aug 2022",
+        "duration": "1 year 3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Electrical Engineering and Computer Science",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/the-harker-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The Harker School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGDGDcTiJNqVA/company-logo_100_100/company-logo_100_100/0/1631303891593?e=2147483647&v=beta&t=qwYEp67IES98wqsQu2x1rMUfdn6GOzKVG18THlJQtIw",
+        "college_degree": "Valedictorian",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": "Relevant Coursework: Differential Equations II, Signals and Systems, Linear Algebra, Discrete Math, Differential Equations, Multivariable Calculus, Compilers and Interpreters, Neural Networks, AP Physics C Mechanics + Electricity & Magnetism, AP Calculus BC, AP Computer Science A, HAF French Prose, HAF French Literature & Film"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Nous Research",
+      "description1_link": "https://www.linkedin.com/company/nousresearch?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/jcoonradt_ai-blockchain-finance-activity-7299647391836643328-itjt",
+        "title": "My team and I won the\u00a0Harvard Live AI Hackathon Grand Prize\u00a0\ud83c\udfc6\u2014AND\u00a0we swept\u00a0all three competition tracks(Blockchain, AI, and Finance), while also\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jack-dv-carson_im-very-pleased-to-announce-that-ive-accepted-activity-7298866572209659904-aH9o",
+        "title": "I'm very pleased to announce that I've accepted an offer to intern this summer at the amazing Memorial Sloan Kettering Cancer Center in Manhattan as\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/robert05_yolov8-clip-dpt-activity-7297514339123531777-gqHr",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFrvm7SjHb0hA/feedshare-shrink_800/B56ZUX6meqHEAg-/0/1739862995188?e=2147483647&v=beta&t=SyCrEYyNSZoVpgSJlqzKkERgsfW6bsmme6jEtoWFFBU",
+        "title": "first hackathon win turned first linkedin post \ud83d\ude35\ud83e\udd2f\ud83d\ude33\n\nWhen DoorDash forgets the \u2018delivery\u2019 part at 1am, build a 6ft-tall AI-powered butler to do it\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/treehacks-stanford-tesla-activity-7297424725318803458--lWd",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQG3rhuM46K7HQ/feedshare-shrink_2048_1536/B56ZUWpHTWGsAo-/0/1739841632267?e=2147483647&v=beta&t=Cj6cfQMuKTdKOWu6N9fxhoqTdXfU8XEkM5uwHv6AIJk",
+        "title": "Super thrilled to share that this past weekend, my team and I won the Tesla Autonomy Grand Prize at TreeHacks, the largest collegiate hackathon in\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kyleen-liao-ba551b208_simulation-of-global-sea-surface-temperature-activity-7297469534200836097-KDWG",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFqi7-ONfyPhg/articleshare-shrink_800/articleshare-shrink_800/0/1739448106678?e=2147483647&v=beta&t=V95hxzQzvnK0qqtU04kiGH9yP-xx95-de7Sto-MXP6s",
+        "title": "Great to see my first journal paper published! Thank you so much Dr. Jatan Buch, Dr. Kara D. Lamb, and Prof. Pierre Gentine for the past two years of\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nousresearch_recent-ai-breakthroughs-challenge-the-status-activity-7289709371473739778-s7KB",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQHdekKJcQee7A/videocover-high/B56ZSo.lDqHEBs-/0/1738002088538?e=2147483647&v=beta&t=rbjtxIniLsiNwnakOatEZto_OwrMF964PFt6SCi1ILk",
+        "title": "Recent AI breakthroughs challenge the status quo narrative that only closed, mega labs have the ability to push the frontier of\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nousresearch_nous-research-activity-7278484788653473793-Tgbd",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQHrXN39D5lSqA/articleshare-shrink_800/articleshare-shrink_800/0/1735324967200?e=2147483647&v=beta&t=CJA0apjpqR99euDL8GrOaljAeBNIwShAl7sldcGXVIk",
+        "title": "We just launched four new items in the Nous Shop:\u2028 \n1. Nous sweatpants to match our classic hoodie.\n2. Simple cotton t-shirt featuring Hermes on\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mansourtarek_we-are-beyond-excited-to-welcome-donald-trump-activity-7284620826853715968-ljSg",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEfAayP3q1IhQ/feedshare-shrink_800/B4EZRgsCV5GYAg-/0/1736788945021?e=2147483647&v=beta&t=uYLIUbsAHuC3qz3evvdS4IloSE_QvZoHvB_czzi7S8I",
+        "title": "We are beyond excited to welcome Donald Trump Jr. to the Kalshi team. \n\nIn a world where misinformation is rampant, Kalshi's mission is clear: garner\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/philipjohnst_%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%A6-%F0%9D%90%80%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7-just-used-chatgpt4-o1-activity-7270522207485804544-ztO4",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQFdYOAtGE8GzA/videocover-high/videocover-high/0/1733427565844?e=2147483647&v=beta&t=DzjDifi6RnMiOpTl-AS8pK1v6mdQdxt334JUNSlXT-g",
+        "title": "\ud835\udc12\ud835\udc1a\ud835\udc26 \ud835\udc00\ud835\udc25\ud835\udc2d\ud835\udc26\ud835\udc1a\ud835\udc27 just used ChatGPT4-o1 to design a \ud835\udc21\ud835\udc2e\ud835\udc20\ud835\udc1e \ud835\udc1d\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b \ud835\udc22\ud835\udc27 \ud835\udc2c\ud835\udc29\ud835\udc1a\ud835\udc1c\ud835\udc1e! \ud83d\ude80\ud83d\udc40 \u201cI think we should do that but 1GW looks a\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jcoonradt_goldmansachs-possibilitiessummit-pride-activity-7270942702706290688-A3BE",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHA5stedMHJ5A/feedshare-shrink_800/feedshare-shrink_800/0/1733527826085?e=2147483647&v=beta&t=9Z-yU0K_-S6LRbXScIaJkLGp7z7w7wI8BYjJn_gicXI",
+        "title": "Excited to share that I've been accepted to the 2025 Goldman Sachs Possibilities Summit! \ud83c\udf89\n\nThis year-long program is all about expanding our\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aiatmeta_language-modeling-in-a-sentence-representation-activity-7277030314412032000-Hrgn",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQG8851OJSOOrA/feedshare-thumbnail_720_1280/B56ZP00cLBHoA8-/0/1734979208608?e=2147483647&v=beta&t=FGV7CcFw34M--MSJjC7iL8pE64kWKiGZklhkXJ5Otfk",
+        "title": "New research from Meta FAIR: Large Concept Models (LCM) is a fundamentally different paradigm for language modeling that decouples reasoning from\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/alexander-yue_i-am-happy-to-share-that-i-have-completed-activity-7277093315412377600-ALRV",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQFtprGvuoPXqA/videocover-high/B56ZP1tjkKHQBs-/0/1734994222557?e=2147483647&v=beta&t=Co08GM9Khgr4fZNie9Nv0acZ8F8rjwzxY5VdLWpp_9Q",
+        "title": "I am happy to share that I have completed CS 147: Introduction to Human-Computer Interaction Design.\n\nCS 147 is a class where teams of students use\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/allennaliath_heres-how-you-cut-down-the-time-it-takes-activity-7263324916576350208-PWsY",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQFOL2KAw7Maeg/videocover-high/videocover-high/0/1731707967305?e=2147483647&v=beta&t=Bi9z4fDjIyHkarKgpZ4PYgGxE9FgoOkmh3i-_Di3xpY",
+        "title": "Here's how you cut down the time it takes to go through your email from 2 hours to 2 minutes!\n\nGoing through my email is a chore, and it takes\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nousresearch_introducing-the-forge-reasoning-api-beta-activity-7262244906864173057-AsRV",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQHsCCAZvY7Dpw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1732233814204?e=2147483647&v=beta&t=DESwvDuVvP293jXmNbRbeBdIQm1HcrAIRM9wVOTBaHc",
+        "title": "Today we are launching the Forge Reasoning API Beta, an advancement in inference time scaling that can be applied to any model or a set of models\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/alexbaikovitz_we-started-mach9-to-enable-computers-understand-activity-7262880492675383296-GLbG",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQENDL54s2pUFQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731605646238?e=2147483647&v=beta&t=-POQ1eY2S5-RpYqzq2nQIBynpX5WGhswH6G5Ilzw0vw",
+        "title": "We started Mach9 to enable computers understand the physical world in a superhuman way.\n\nJust two years ago, we were a small team of friends\u2026",
+        "activity": "Liked by Joe Li"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rbccawang_golpo-the-stanford-brothers-changing-storytelling-activity-7262225212086132737-Uvgx",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQHGEmZsehC6Zg/articleshare-shrink_800/articleshare-shrink_800/0/1736290579803?e=2147483647&v=beta&t=pkeRdeA7atqnM3_OBnWtPDTyKxth6zm43JWKL-wYN4c",
+        "title": "I first met Shraman Kar a month ago at an Afore Capital dinner I hosted. It was inspiring to hear about his startup Golpo (https://golpo.app), which\u2026",
+        "activity": "Liked by Joe Li"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/teamscode?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Co-President",
+        "company_name": "TeamsCode",
+        "company_duration": "",
+        "starts_at": "Jun 2021",
+        "ends_at": "Jun 2024"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/paragonx-academy?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Founder and President",
+        "company_name": "ParagonX Academy",
+        "company_duration": "",
+        "starts_at": "Jun 2021",
+        "ends_at": "Jun 2024"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://ke.linkedin.com/in/tracy-karanja?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Tracy Karanja\n        \n              \n          \ud83d\ude80 Week 2 Recap: Headstarter AI SWE Fellowship Journey! \ud83d\ude80\n\nI\u2019m excited to share what I\u2019ve been up to in my second week as part of the Headstarter AI Software Engineering Fellowship!\n\nWeek 1: Started off strong by learning how to build a portfolio website, thanks to the incredible guidance from Yasin Ehsan \ud83d\ude80. His insights and support have been invaluable in crafting a standout portfolio.\n\nWeek 2: I dove into a new project \u2013 building a Pantry Tracker application! \ud83c\udf7d\ufe0f The tracker is a comprehensive tool for managing pantry inventory with features such as:\n\nAdd/Remove Items: Easily add or remove items with real-time updates.\nUpdate Quantities: Adjust item quantities as needed.\nSearch Functionality: Quickly find items in your pantry.\n\nTechnologies Used: Leveraged React and Next JS for the frontend, Firebase for real-time database management, and Material UI for a sleek, responsive UI. The app integrates CRUD operations for a seamless user experience.\nThanks to Bill Zhang for his guidance on this project.\n\nHere is the link to the desktop website if you're curious: https://lnkd.in/dydirkvC\n\nAnd the github: https://lnkd.in/dfSWnVrR\n\n\ud83d\udd17 Special Mentions:\nSpeakers: I had the privilege of attending an online panel discussion with industry leaders:\nDennis, Founder of Foursquare, with insights on scaling a $150M revenue company.\nTariq, the first SWE at Applovin, sharing his journey through a $30Bn IPO.\nJulian, Ex-Meta SWE and Intern CEO of Wisdolia, discussing his path in tech.\nHamza, CEO of Olostep, who\u2019s currently hiring Headstarter fellows.\n\n\nFeeling grateful for these learning experiences and the opportunity to connect with such inspiring professionals! Here\u2019s to continued growth and innovation. \ud83c\udf1f\n#HeadstarterFellowship #SoftwareEngineering #PantryTracker #TechCommunity #Networking #Innovation",
+        "location": "5"
+      },
+      {
+        "link": "https://www.linkedin.com/in/prakhar-sinha-57a412201?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Prakhar Sinha\n        \n              \n          A few short days ago, I wrapped up my research position at UC Davis Health with Professor Farzad Fereidouni. My role at the lab entailed a specialization in machine learning and computer vision and I'm excited to share what I was able to accomplish with everyone. \n\nI worked on two projects during my time at the lab. The first one was something I called \"Kernel Generation for Image Similarity\" (https://lnkd.in/ghsY73ts). It was to process an image such that it would look like it was H&E stained. I learned a lot about the basics of histology and digital histology through this process. The most novel part of this approach was using Wiener deconvolution to generate a kernel that would be used to enhance image similarity (typically using SSIM, MSE or a combination of both). \n\nA big part of this process was optimization. I learned how to use Python libraries such as Cupy and other tools to GPU accelerate a lot of these image-processing optimization problems.\n\nMy second project and my most meaningful contribution was called \"FastSAM-needle-biopsy\" (https://lnkd.in/gXXydq-X). The objective of this project was to use the FastSAM image segmentation network to accurately generate image segmentation masks of live tissue such that a microscope would only scan the relevant parts of an image. Here is step by step walkthrough of the image processing pipeline:\n\n1) VB.NET (Darius) application calls a DLL (compiled from csharp.NET)\n2) DLL calls FastSAM image segmentation code using Python.NET\n3) FastSAM segments image and returns image segmentation bitmask and as well as the fastest path to visit every bit (Traveling Salesman Problem)\n4) Python returns values are returned to DLL using JSON as a reliable data transfer solution\u00a0\n5) DLL returns an object that can be parsed by VB.NET\n\nFastSAM is a faster version of Meta Research's Segment Anything Model and I used it to greatly speed up development time on this project. It was a big challenge to integrate such cutting-edge, machine-learning driven, image processing pipelines into a legacy codebase that was written in Visual Basic .NET but thanks to tools such as DLLs, JSON, and C#, I was able to figure it out!\n\nI am very grateful for the time I spent in the lab. I feel like I developed some great programming skills, especially in computer vision, that will prove useful for the rest of my career. I'd like to give special thanks to Professor Fereidouni, Ruby Mascareno, Willy Ju, Dena Sayrafi, Ruben Gnanaruban, Inyola, Antara Mallick, and Jayla. \n\nThe link is here if you'd like to see my lab report going over everything I did in more technical detail and with a few pictures!\n\nhttps://lnkd.in/gRpZVmjG\n\n#computervision #machinelearning #AI #histology",
+        "location": "67\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                10 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/raj-abhijit-dandekar-67a33118a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Raj Abhijit Dandekar\n        \n              \n          What society values may not be the best thing for you.\n\nWhen I applied for grad school, I got admits from MIT, Stanford, Purdue, CMU and UIUC.\n\nI knew I wanted to do a PhD.\u00a0I chose MIT immediately, because it was ranked number 1. \n\nI never thought whether it was a good decision or not. \n\nI just assumed that it\u2019s a good decision because it\u2019s rated higher than the other universities.\n\nWhen I joined MIT, all that rank 1 noise disappeared.\n\nAll I was surrounded by was my lab, my lab group members and my advisor. \n\nI had never carefully considered whether this research group was a good fit for me. I just joined the first MIT research group which came my way.\n\nThis led to a miserable first 2 years of PhD for me. \n\nThe group was not a good fit and the research topic was also not a good fit.\n\nThese lost 2 years were a result of choosing what society values more (university ranking) rather than what is a better thing for me.\n\nWhen I look back, I should have done the following:\n\n(1) I should have made a list of all research groups I was interested in, from all universities I was selected to.\n\n(2) I should have spoken with the lab advisor from all these research groups and understood their vision.\n\n(3) I should have learnt more about the group culture by talking to past members of the group. Graduating members are usually very honest. They would tell you if the culture is toxic, if the advisor is micromanaging etc.\n\n(4) I should have looked at the group website to look at the publication rate, what do the alumni end up doing etc? If the average graduation time is 8 years, it\u2019s a red flag.\n\nAfter doing the above 4 things, I should have selected the best research group for me.\n\nI should have selected the research group whose culture aligns well with my personality.\n\nSociety values ranking. \n\nHowever, when you enter the university for a PhD, the ranking does not matter. Your research group matters. What you do every day after waking up matters.\n\nAnd if you blindly select universities based on the ranking, the research group won\u2019t be a good fit and it would lead to a terrible PhD experience.\n\nIt turns out that society misguides people in many other professions including:\n\n- Choosing to prepare for IIT-JEE just because society prefers that you are an IITian\n- Choosing a job just because society prefers higher salary\n- Choosing to not do a startup because the society (your parents) don\u2019t approve\n\nAlways question yourself before blindly making decisions based on what the society values. It might not be the best thing for you.\n\nGoing against traditional societal values is hard in the short term, but it pays off in the long run.\n\nP.S: In the photo, you can see me during my first day at MIT!",
+        "location": "308\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jon-ouyang?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jonathan Ouyang\n        \n              \n          My name is Jonathan Ouyang. I am a \ud835\udc53\ud835\udc56\ud835\udc5f\ud835\udc60\ud835\udc61 \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f at UCLA studying Computer Science. And I am the \ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc03 \ud835\udc0f\ud835\udc11\ud835\udc08\ud835\udc19\ud835\udc04 \ud835\udc16\ud835\udc08\ud835\udc0d\ud835\udc0d\ud835\udc04\ud835\udc11 \ud835\udc0e\ud835\udc05 \ud835\udc06\ud835\udc0e\ud835\udc0e\ud835\udc06\ud835\udc0b\ud835\udc04\u2019\ud835\udc12 \ud835\udc06\ud835\udc04\ud835\udc0c\ud835\udc08\ud835\udc0d\ud835\udc08 \ud835\udc00\ud835\udc0f\ud835\udc08 \ud835\udc03\ud835\udc04\ud835\udc15\ud835\udc04\ud835\udc0b\ud835\udc0e\ud835\udc0f\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc0e\ud835\udc0c\ud835\udc0f\ud835\udc04\ud835\udc13\ud835\udc08\ud835\udc13\ud835\udc08\ud835\udc0e\ud835\udc0d \ud83c\udf89\ud83c\udf89.\n\nIt still doesn\u2019t feel real to type all of this out. No amount of words in a LinkedIn post can describe exactly how I feel right now. I still can\u2019t believe that I won the grand prize of a CUSTOM 1981 ELECTRIC DELOREAN CAR FROM BACK TO THE FUTURE ($200k Car + $60k Cash)\n\nI am the sole developer of Jayu, a next-generation AI personal assistant that can directly interact with your computer screen. From controlling applications to writing code to giving live translations, Jayu was meant to show the world what Google Gemini is TRULY capable of. More than a chatbot, more than an LLM, Gemini is capable of bringing us into a new era of AI.\n\nLooking back on the competition:\n\n- I beat over \ud835\udfd1,\ud835\udfcf\ud835\udfce\ud835\udfce submissions from over 45,500 developers, which included solo developers like myself, teams of seasoned industry veterans, and even entire companies\n- I beat submissions from \ud835\udfcf\ud835\udfcf\ud835\udfd7 \ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1e\ud835\udc2c, from Canada to Korea to India\n- I spent \ud835\udfd0 \ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc21\ud835\udc2c locked in my room over the summer before coming to college developing Jayu\n- My demo video on YouTube received overwhelming support without any advertisement, raking in over \ud835\udfd2,\ud835\udfd2\ud835\udfce\ud835\udfce \ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30\ud835\udc2c and over \ud835\udfd0\ud835\udfce\ud835\udfce \ud835\udc25\ud835\udc22\ud835\udc24\ud835\udc1e\ud835\udc2c\n- I had \ud835\udfd2 \ud835\udc02\ud835\udc04\ud835\udc0e\ud835\udc2c reach out for technical advice, and many more students from around the world in my email and LinkedIn expressing their excitement\n- I had over 5 mental breakdowns while developing this app and couldn\u2019t sleep properly for months due to stress\u2026\n\nThe journey was scary, to say the least. As a solo developer, Jayu was more than my passion project. Jayu was literally my heart and soul. I cannot find the words to properly thank everyone who supported me on my journey. So to my \ud835\udc1e\ud835\udc27\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc28\ud835\udc2e\ud835\udc2c team of reviewers who I forced to watch my demo video again and again until it was perfect, thank you.\n\n- To my best friend Matthew Rodrigues, thank you for always being there and letting me use your backyard for filming.\n- USACO Platinum Reviewers: Abhinav Arunkumar, Justin Osbey\n- UCLA Researcher Reviewers: William Jiang, Daniel Wu\n- To my dear friends who reviewed my demo: Joseph Hoang, Jan Andrei Ordonez, Alden Santoso, Sunny Vinay,\u00a0Eric Ziyang Zhou, Johnny Zheng, Eshan Velidandla, Kavya Desai, Ishaan Desai, Elysia Du, Ethan Chen, Allyson Li, John Tacuchi, Eric Ju, Clara Yee, Arnav Bhola\n- Tech Influencer Reviewer: Arash Joobandi\n\nAnd most importantly, thank you Lloyd-Bryant Hightower for organizing and communicating with all of us competitors in the competition! And thank you to the teams at Google for selecting me as the winner.\n\n\uac00\uc871\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uce5c\uad6c, \uac00\uc871, \uce5c\uad6c \ubaa8\ub450\uc5d0\uac8c \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \uc9c0\uc18d\uc801\uc778 \uc9c0\uc6d0\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \ubaa8\ub4e0 \uac83\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4.\n\n\uadf8\ub9ac\uace0 \uc5c4\ub9c8\uc5d0\uac8c. \ub9c8\uce68\ub0b4 \ub0b4\uac00 \ub2f9\uc2e0\uc744 \uc790\ub791\uc2a4\ub7fd\uac8c \ub9cc\ub4e4\uc5c8\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.\n\nSee the demo here: https://lnkd.in/gpgxB9_T \n\nGoogle DeepMind\nGoogle for Developers\nGoogle Research\n#Google\n#GoogleGemini",
+        "location": "3,398\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                174 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mleach?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Michael Leach\n        \n              \n          Exciting to see so many University of California, Berkeley students (near my home town) pitching their AI hackathon apps. This is a *great* hotbed for recruiting rising talent with genuine passion and curiosity.\n\nAs much as I love working in all-remote teams, I'm now leaning towards a hybrid East Bay office / remote / AI-focused team environment.\n\nThe Berkeley area is alive with AI ambitions and ideas.\n\nAndrej's keynote brought a human side to AI. Themes of \"AI as OS\" and \"competency takes 10,000 hours\".\n\nhttps://lnkd.in/gKUkguGd",
+        "location": "9"
+      },
+      {
+        "link": "https://www.linkedin.com/in/loganabbott?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Logan Abbott\n        \n              \n          Nurses Say Hospital Adoption of Half-Cooked 'AI' Is Reckless: An anonymous reader quotes a report from Techdirt: Last week, hundreds of nurses protested the implementation of sloppy AI into hospital systems in front of Kaiser Permanente. Their primary concern: that systems incapable of empathy are being integrated into an already dysfunctional sector without much thought toward patient care: \"No computer, no AI can replace a human touch,\" said Amy Grewal, a registered nurse. \"It cannot hold your loved one's hand. You cannot teach a computer how to have empathy.\"\n\nThere are certainly roles automation can play in easing strain on a sector full of burnout after COVID, particularly when it comes to administrative tasks. The concern, as with other industries dominated by executives with poor judgement, is that this is being used as a justification by for-profit hospital systems to cut corners further. From a National Nurses United blog post (spotted by 404 Media): \"Nurses are not against scientific or technological advancement, but we will not accept algorithms replacing the expertise, experience, holistic, and hands-on approach we bring to patient care,\" they added.\n\nKaiser Permanente, for its part, insists it's simply leveraging \"state-of-the-art tools and technologies that support our mission of providing high-quality, affordable health care to best meet our members' and patients' needs.\" The company claims its \"Advance Alert\" AI monitoring system -- which algorithmically analyzes patient data every hour -- has the potential to save upwards of 500 lives a year. The problem is that healthcare giants' primary obligation no longer appears to reside with patients, but with their financial results. And, that's even true in non-profit healthcare providers. That is seen in the form of cut corners, worse service, and an assault on already over-taxed labor via lower pay and higher workload (curiously, it never seems to impact outsized high-level executive compensation).\n\nRead more of this story at Slashdot.",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/in/jerry-cuomo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jerry Cuomo\n        \n              \n          \ud83e\udd14 Curious about the Future of Work? Thrilled to host Matt Beane, professor at UCSB. Listen in as we discuss topics from his new book, \"The Skill Code: How to Save Human Ability in an Age of Intelligent Machines,\" exploring how AI can be a partner to augment human skills, the role of digital apprenticeship in practical skill development, and the nuanced challenges of technology integration that benefit experts but may inadvertently impact novices.",
+        "location": "34\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/andrewcrowder?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Andrew Crowder\n        \n              \n          \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff'\ud835\ude00 \ud835\uddd4\ud835\uddfd\ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddee\ud835\uddf0\ud835\uddf5: \ud835\udde3\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf9\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddfd\ud835\uddfd\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddee\ud835\ude01 \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddee \ud835\udddb\ud835\uddf2\ud835\uddee\ud835\uddf9\ud835\ude01\ud835\uddf5\ud835\uddf0\ud835\uddee\ud835\uddff\ud835\uddf2\n\nAs an engineer with a computer science background, I've always been drawn to the practical application of cutting-edge technology. At Carta, we're pushing the boundaries of what I call \"Applied AI\" \u2013 harnessing existing LLMs to solve real-world problems in innovative ways.\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\ude00\ud835\uddf2\ud835\ude01\n\nIn a broad oversimplification, scientists explore and discover, engineers take existing innovations and apply them.\u00a0The best do it in creative and new ways. This symbiotic relationship drives progress, and it's the philosophy I\u2019ve pushed Carta Healthcare to embraced in our AI initiatives.\n\n\ud835\udde2\ud835\ude02\ud835\uddff \ud835\uddd4\ud835\uddfd\ud835\uddfd\ud835\uddf9\ud835\uddf6\ud835\uddf2\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\udddd\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddfb\ud835\uddf2\ud835\ude06\n\nLast week marked a significant milestone: the 5th iteration of our AI solution went live in production. In our field, real-world testing is crucial \u2013 we need actual medical data to validate accuracy.\u00a0This is because we can\u2019t move medical data off production systems without massive and error prone sanitization methodology that destroys the data quality most time. \n\n\ud835\uddd8\ud835\ude05\ud835\uddf0\ud835\uddf2\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd8\ud835\ude05\ud835\uddfd\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00\nThe results? Our AI-generated answers showed a remarkably high correlation with expert-provided solutions. This success has surpassed our expectations and confirms we're on the right track.\n\n\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01'\ud835\ude00 \ud835\udde1\ud835\uddf2\ud835\ude05\ud835\ude01?\n\nWe're maintaining an aggressive development pace, deploying updates weekly. Last week we also completed the set of MVP features needed to introduce our AI software \u2013 a huge milestone for my engineering teams.\u00a0We can\u2019t wait to get their feedback!!!!\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddfc\ud835\uddf3 \ud835\udde3\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\uddf9 \ud835\udddc\ud835\uddfb\ud835\uddfb\ud835\uddfc\ud835\ude03\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\n\nThis journey underscores the impact of applying cutting-edge technology to real-world challenges. As we continue to refine and expand our AI capabilities, I'm excited to see how it will transform our industry and improve outcomes for our users.\n\u00a0\n\ud835\ude1e\ud835\ude29\ud835\ude22\ud835\ude35 \ud835\ude22\ud835\ude33\ud835\ude26 \ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33 \ud835\ude35\ud835\ude29\ud835\ude30\ud835\ude36\ud835\ude28\ud835\ude29\ud835\ude35\ud835\ude34 \ud835\ude30\ud835\ude2f \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude31\ud835\ude33\ud835\ude22\ud835\ude24\ud835\ude35\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude2d \ud835\ude22\ud835\ude31\ud835\ude31\ud835\ude2d\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude35\ud835\ude2a\ud835\ude30\ud835\ude2f\ud835\ude34 \ud835\ude30\ud835\ude27 \ud835\ude08\ud835\ude10 \ud835\ude2a\ud835\ude2f \ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33 \ud835\ude27\ud835\ude2a\ud835\ude26\ud835\ude2d\ud835\ude25? \ud835\ude10'\ud835\ude25 \ud835\ude2d\ud835\ude30\ud835\ude37\ud835\ude26 \ud835\ude35\ud835\ude30 \ud835\ude29\ud835\ude26\ud835\ude22\ud835\ude33 \ud835\ude22\ud835\ude23\ud835\ude30\ud835\ude36\ud835\ude35 \ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33 \ud835\ude26\ud835\ude39\ud835\ude31\ud835\ude26\ud835\ude33\ud835\ude2a\ud835\ude26\ud835\ude2f\ud835\ude24\ud835\ude26\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude2a\ud835\ude2f\ud835\ude34\ud835\ude2a\ud835\ude28\ud835\ude29\ud835\ude35\ud835\ude34 \ud835\ude2a\ud835\ude2f \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude24\ud835\ude30\ud835\ude2e\ud835\ude2e\ud835\ude26\ud835\ude2f\ud835\ude35\ud835\ude34 \ud835\ude23\ud835\ude26\ud835\ude2d\ud835\ude30\ud835\ude38.\n\n#AppliedAI #EngineeringInnovation #AIinHealthcare #TechLeadership",
+        "location": "6"
+      },
+      {
+        "link": "https://www.linkedin.com/in/varungoyal23?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Varun Goyal\n        \n              \n          \ud83c\udf1f \ud835\udc03\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20, \ud835\udc01\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc20\ud835\udc1e\ud835\udc2b \ud83c\udf1f\n\nLast May, I embarked on an incredible journey with WisdomAI right after graduating from UIUC, and it has been nothing short of a dream run! Starting my career with a passionate, dynamic team like this one has been an amazing experience. \ud83d\ude80\n\nHere\u2019s what I\u2019ve absolutely loved about my time at WisdomAI so far:\n\n1\ufe0f\u20e3 Ownership Sparks Passion\nWhen you\u2019re empowered with the right motivation and a sense of ownership, the task transforms into a pursuit. I\u2019ve cherished the freedom to take charge of my projects, driven by curiosity for achieving results rather than just deadlines.\n\n2\ufe0f\u20e3 Culture of Growth & Impact\nI\u2019m deeply grateful to the founders and my team for cultivating an environment of insane growth while delivering great value to our customers every single day. Huge thanks to the founders - Soham, Sharvanath, Kapil, and Guilherme for fostering this environment.\n\n3\ufe0f\u20e3 The Power of Team Energy\nThe motivation and drive of the people around you can make all the difference. Being surrounded by such an energetic, supportive team has truly set the trajectory for my career. \n\nAs we step into this new year, we\u2019re doubling down with more energy, sharper focus, and even bigger goals for our startup. Here\u2019s to a year of innovation, impact, and scaling new heights together! \ud83d\udca1\ud83c\udf0d\n\n\n\n#StartupJourney #GrowthMindset #WisdomAI #Teamwork #Innovation #NewYearGoals #CareerJourney",
+        "location": "136\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/selin-kocalar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Selin Kocalar\n        \n              \n          Since the YC deadline to hear back for W25 is coming up next week, here\u2019s the story of how we went from 2 students coding in an MIT dorm room to being full-time YC founders building Delve in SF.\n\nFor all you founders anxiously waiting to hear back, just keep building \u2014 you\u2019ll be successful regardless of the decision.\n\n--\n\nIn Fall 2023, my co-founder Karun Kaushik and I were studying AI at MIT and spending all of our free time building an AI medical scribe to help doctors. We had vaguely heard about YC from a friend who had just gotten accepted but had no plans of applying whatsoever.\n\nHowever when the YC deadline rolled around, we spontaneously decided to put in an application on the very last day. We spent that whole day in Karun\u2019s dorm room typing up the application and filming all the required videos. We finally hit submit the minute of the deadline!\n\nBy the next day we had already moved on. We went back to the usual rhythm of coding in the dorm room, calling with doctors, attending conferences, etc. If anything, we were even more motivated now to get more traction and be successful regardless.\n\nLater that week, while we were eating in the dorm kitchen, I noticed I got an email saying we had a YC interview scheduled. My heart rate spiked. I jumped up out of my seat and immediately told Karun. I never seriously considered YC, but for the first time it hit me that it might actually be a possibility.\n\nWhen the day of the interview rolled around, we did mock interviews with former YC founders and focused mostly on calming our nerves. More important than the actual content of the interview, we wanted to show our excitement for building and hacking together as co-founders.\n\nUnfortunately the interview caught us by surprise. The group partners didn't seem to care as much about our actual AI medical scribe. Instead, they seemed more curious about a side idea we had listed in our application that we wrote up in a day. The idea was about streamlining HIPAA compliance (since we had to go through HIPAA for our AI medical scribe).\n\nBy this point, we were already seriously considering pivoting into this and had made a lot of progress on the idea. The YC interview was our tipping point\n\nNot too long after, we got an ominous email titled \u201cYC.\u201d We were freaked out. I could not sleep the entire night. Then, in the middle of class the next day, I got a phone call from Karun with Surbhi on the other end of the line. My heart rate spiked. I ran outside of the classroom.\n\nThat turned out to be our acceptance call:)\n\n--\n\nFor everyone out there still waiting to hear back, just keep grinding. Build as if you\u2019ve been rejected and you might just be pleasantly surprised.\n\nI\u2019m also always here to help with mock interviews/give advice! We\u2019ve helped a handful of friends through the YC app process and are always here to support other founders!",
+        "location": "190\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                20 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/np82?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nishant Pandey\n        \n              \n          Optimize for \ud83d\ude80 Bio Cores First, Silicon \ud83e\udd16 Cores Second\n\nDavid Heinemeier Hansson makes a compelling case: prioritize human programmers (bio cores) over computer processing power (silicon cores).\n\nHere\u2019s why it matters:\n\ud83d\udc49 Investing in programmer efficiency is far more valuable than solely optimizing for computer speed. \n\ud83d\udc49 Human labor costs far exceed computing costs. Boosting human productivity should be the main focus. \n\ud83d\udc49 In the age of AI and high-level programming languages, the bio cores drive your real gains.\n\nBottom line: Make your programmers more productive, and watch your team (and tech) thrive.\n\nRead the full article here:  https://lnkd.in/gK8HEGtk\n\n P.S. :  The image below is brilliantly summarized using Napkin.ai for a quick visual breakdown.",
+        "location": "6"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vick-mahase-pharmd-phd?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vidhyanand (Vick) Mahase PharmD, PhD.\n        \n              \n          Kate Glazko, a graduate student at the University of Washington, discovered during her internship search that recruiters often use AI tools to summarize resumes and rank candidates. A study found that these AI tools consistently ranked resumes with disability-related credentials lower than those without, revealing a bias against disabled individuals. Researchers attempted to mitigate this bias by customizing the tool with specific instructions to avoid ableism, but the improvements were minimal for certain disabilities. The findings were presented at the 2024 ACM Conference on Fairness, Accountability, and Transparency. Jennifer Mankoff, a professor in the Allen School at UW, emphasizes the need for further research on AI biases and their impact on job seekers. Some organizations are working to improve outcomes for disabled job seekers, highlighting the necessity for continuous customization and testing of AI systems to address these biases.\nhttps://lnkd.in/ePShRiXN",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/in/toddremington?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Todd Remington\n        \n              \n          As part of the 2023 George B. Moody PhysioNet Challenge, Team Swarthbeat of Swarthmore College developed an algorithm that could predict the chances of neurological recovery for cardiac arrest patients by using signal processing and machine learning on a large dataset of EEG and patient data. Check out this blog to learn more about their approach! \ud83e\udde0\ud83d\udd2c  #PhysioNetChallenge #EEGAnalysis #MachineLearning #SignalProcessing   \n\n \n\nhttps://spr.ly/6043UJbF5",
+        "location": "1"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/krishivthakuria?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Krishiv Thakuria\n        \n              \n          When I spent the summer in San Francisco, I was shocked to find myself in a culture where many people dismissed artists. \n\nThere's a real status divide between technical and non-technical people in SF, with artists especially being overlooked.\n\nEveryone in SF knows tech is powerful, but too many people in SF underestimate the power art holds in society too. \n\nIronically, understanding that would help them build better technology.\n\nBecause rapid AI progress means taste has never been more important to make your products stand out.\n\nFew understand this because of legacy startup advice which I believe doesn't hold true (or as true) today.\n\nFor example, Reid Hoffman, co-founder of LinkedIn once said \"If you aren't embarrassed by the first version of your product, you shipped too late.\" \n\nBut LinkedIn was founded in 2002.\n\nAnd things have really changed in the last 2 decades.\n\nConsumers have never been more unforgiving. As a result, the bar for aesthetics and design in technology has never been higher.\n\nAs I build out the AI teddy bears I've been working on, I constantly remind myself that functionality is just a start, and making people truly feel something is the goal.\n\nI want to build technology that people hold like art.\n\nSteve Jobs is a phenomenal example of someone who did just that (which I believe was a large contributor to Apple's success).\n\n\u201cIt is in Apple\u2019s DNA that technology alone is not enough\u2014it\u2019s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.\u201d\n\nThe value of great taste increases as progress in AI increases.\n\nAnd artists will soon have the spotlight in San Francisco too.",
+        "location": "87\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                9 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aryanng?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Aryan Gupta\n        \n              \n          It\u2019s been a while since I last posted, so I thought I\u2019d share a few things I\u2019ve been working/worked on over the past 6-7 months:\n\n1)Building a Custom Compiler \nAfter getting really interested in Compiler Design last semester, I took it upon myself to learn how to implement a custom compiler. Spent my summer vacation building different stages of compilation. Honestly, it was challenging but super rewarding.(will be posting about in depth)\n\n2) Exploring Vision Transformers\nAs part of an academic project on diabetic retinopathy. I dived deep into these models and learned a lot about computer vision. \n\n3)Web Scrapers for Placement Forums\nBuilt a few web scrapers for scraping placement-related forums. Unfortunately, I lost the code because I forgot to push it to GitHub before formatting my laptop (tough lesson learned here).\n\n4)YouTube Watch Party App\nI\u2019ve been working on a YouTube Watch Party app to learn WebSockets and WebRTC. It\u2019s nearly finished\u2014just needs a few final touches and some code cleanup before I host it. This project has been a great way to test out some ideas.\n\n5)DSA Practice\nSolved 400+ problems(Leetcode,GFG,Codeforces)\u2014not something to brag about, given the market conditions, but it\u2019s part of staying sharp in DSA.\n\n6)Static Site Generator in Python\nCurrently working on a Static Site Generator in Python as part of Boot.dev\u2019s course. It\u2019s been fun to build, and I\u2019m learning more about how static sites work under the hood.\n\nA couple of things I couldn't finish (but plan to get back to):\n\n1)Redis Clone (C++ - Codecrafters)\nGot through 22/40 tasks but hit a nasty bug that I couldn\u2019t figure out(skills issues!!). Will take it up again when I have more time (or when I level up my debugging skills!).\n\n2)Next.js Application Tracker\nStarted building an app to track all my applications in one place. Definitely want to pick this back up when I have a bit more bandwidth.\n\nRepositories for all the above projects:\nCompiler : https://lnkd.in/gu-ZX6YF\nYoutubeWatchParty : https://lnkd.in/gbQhsafD (Don\u2019t mind the unstructured code\u2014I was testing out ideas!)\nNext.js Application Tracker : https://lnkd.in/gemYMGnu\nRedis-clone : \u00a0https://lnkd.in/gUkXq6tx)\nStatic Site Generator Repo : \u00a0https://lnkd.in/g8Np4Ada\nSwinTransformers : https://lnkd.in/gAHptM2e\nLeetcode Profile : https://lnkd.in/gwer2GNH",
+        "location": "52\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mena-j?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jennifer Mena\n        \n              \n          \ud83d\ude80 Day 2 of the Headstarter AI Software Engineering Fellowship was thought-provoking with Faizan Ahmed and Jack O'Brien! Here are some of my favorite insights:\n\n\ud83d\udd39 \"Distribution eats product for breakfast\" \u2013 Emphasize growth product features and leverage short-form content on platforms like TikTok and Instagram to capture attention.\n\n\ud83d\udd39 Building relationships with startups:\nPlatforms like Y Combinator can help find promising startups that may resonate with our education, interests or experience.\nFocus on building rapport, testing their products, and offering constructive feedback.\n\n\ud83d\udccc Tips to build a project from scratch:\nWaitlists are great: Create a landing page, test engagement with a basic MVP, or provide free credits to gather emails from interested users.\nBlogging and meetings: Write valuable blog posts and network in real life.\n\n\ud83d\udca1 Jack O\u2019Brien\u2019s tips:\nSide projects: Critical for career growth. His personal examples, like a presentation platform for startups and an environmental calculator, were inspiring and motivating. Don\u2019t obsess over the \u201cidea\u201d; just choose a decent one and start practicing.\nGetting first users: Work on projects that excite you, involve friends, and share on as many platforms as possible.\nUsing AI to code: Embrace tools like Cursor AI and ChatGPT, but ensure you understand what your code is doing.\n\nThe overall takeaway was to get in the reps! This event was insightful and inspiring, and I\u2019ll take action on these tips. Thank you, Faizan and Jack, for this great event! Excited for what's next in the program!\n\n#HeadstarterAI",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mirzamdbaig?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Mirza Baig\n        \n              \n          1\ufe0f\u20e32\ufe0f\u20e3 Takeaways from Mofi Rahman's Talk with Headstarter AI SWE Fellows:\nI recently attended a session with Mofi Rahman, a Developer Relations Engineer from Google, and Headstarter AI's CEO, Yasin Ehsan \ud83d\ude80 at a Headstarter AI fellows meeting. Mofi shared invaluable insights from his career journey and practical advice for aspiring software engineers. Here are 12 things I learned:\n\n1\ufe0f\u20e3\u00a0Background and Journey\u00a0\ud83d\udee4\ufe0f\nCareer Path: Mofi graduated in 2017 from City College of New York and held roles at IBM, Vonage, and now Google, focusing on Kubernetes and AI/ML workloads.\n\n2\ufe0f\u20e3\u00a0Hackathon Experience\u00a0\ud83c\udfc6\nParticipation and Judging: Participated in 20-30 hackathons as a student and judged 30-40 more. Fellows should actively join hackathons for skill-building and networking.\n\n3\ufe0f\u20e3\u00a0Industry Insights\u00a0\ud83c\udf10\nBroad Scope: Software engineering spans multiple industries. AI tools boost productivity but require a solid foundation. Fellows should broaden their industry knowledge.\n\n4\ufe0f\u20e3\u00a0Challenges in the Job Market\u00a0\ud83d\udea7\nIncreased Competition: The job market is tough. Fellows should focus on building strong portfolios and staying updated with industry trends.\n\n5\ufe0f\u20e3\u00a0Effective Learning\u00a0\ud83e\udde0\nPractical Approach: Learning should be problem-driven. Fellows should engage in iterative learning through building and breaking projects.\n\n6\ufe0f\u20e3\u00a0Team Collaboration\u00a0\ud83e\udd1d\nDiverse Skill Sets: Successful teams have diverse skills. Fellows should seek team members with complementary skills and collaborate effectively.\n\n7\ufe0f\u20e3\u00a0Accountability and Structure\u00a0\ud83d\uddc2\ufe0f\nStructured Programs: Programs like Headstarter AI provide accountability and structure, essential for consistent progress. Fellows should leverage these programs fully.\n\n8\ufe0f\u20e3\u00a0Navigating Career Paths\u00a0\ud83d\ude80\nMultiple Tracks: Headstarter offers tracks for tech leadership, individual contributors, and entrepreneurs. Fellows should align their efforts with their career goals.\n\n9\ufe0f\u20e3\u00a0Learning AI\u00a0\ud83e\udd16\nPractical Projects: Start with practical projects using tools like LangChain and Llama Index. Fellows will complete 5 AI projects in 7 weeks!\n\n\ud83d\udd1f\u00a0Building Effective Teams\u00a0\ud83d\udee0\ufe0f\nNon-Glorious Tasks: Teams succeed when members handle essential tasks. Fellows should be willing to take on all roles in a project.\n\n1\ufe0f\u20e31\ufe0f\u20e3\u00a0Career Advice\u00a0\ud83c\udfaf\nNetworking and Collaboration: Actively network and participate in discussions. Set and prioritize long-term career goals.\n\n1\ufe0f\u20e32\ufe0f\u20e3\u00a0Feedback and Iteration\u00a0\ud83d\udd04\nContinuous Improvement: Regularly seek and provide feedback. Embrace challenges to grow skills.\n\nMofi Rahman\u2019s insights are invaluable for anyone looking to succeed in the software engineering field, Thanks Mofi Rahman! \ud83e\udde0\ud83e\udd1d\ud83c\udffd\n\nLooking forward to learning more from Top SWE Panels every Thursday night during Headstarter AI's Pathways to Tech Events in the Fellowship Community. Shoutout to Yasin Ehsan \ud83d\ude80 & Faizan Ahmed for putting this all together ! \ud83e\udd1d\ud83c\udffd\u2705\n\n #HeadstarterAI #CareerAdvice #SoftwareEngineering #AI #Hackathons #TeamCollaboration #Google #SWE\n(H.AI.OK Track Day 1 of Posting \u2705)",
+        "location": "193\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kevin-appiah-566230239?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Kevin Appiah\n        \n              \n          \ud83d\ude80\u00a0Excited to share my completed Project 2 for the HeadStarter AI SWE Fellowship!\u00a0\ud83c\udf89\n\nI\u2019ve developed a\u00a0Pantry Tracker app\u00a0using Next.js, Material UI, and Firestore. Key features include:\n\n\ud83d\udd39\u00a0Low Stock Alerts: Background color turns red for items with a quantity below 4.\n\ud83d\udd39\u00a0Search Functionality: Easily filter items by name to quickly find what you need.\n\ud83d\udd39\u00a0Item Management: Increase, decrease, and delete buttons for straightforward updates to your inventory.\n\ud83d\udd39\u00a0Upcoming Enhancements: Plan to add a login page for enhanced security and some improvement on the user interface.\n\nDue to a challenging health issue that led to my hospitalization, there was a delay in submission. I\u2019m now recovering and back on track! \n\nCheck out the app and video demo here:\u00a0 https://lnkd.in/gRsHZvWd\n\nBig thanks to the Headstarter team and Bill Zhang for the invaluable support!\n\n#HeadStarterAI #SoftwareEngineering #NextJS #MaterialUI #Firebase #AppDevelopment #TechCommunity",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jimblomo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jim Blomo\n        \n              \n          \"Why did Santa's AI-driven sleigh keep running into trees?\"\n\nSo much \ud83d\udd25 from Julie Wang and John Allard in today\u2019s OpenAI live stream! They covered Reinforcement Fine-Tuning, medical research, and shared some truly punny jokes. Moments like these remind me why I love my team: brilliant people solving fascinating problems\u2014and having fun along the way! https://lnkd.in/gJnNiTXc\n\nIf you'd like to participate in the Research Program by sharing data, check out https://lnkd.in/gZYehx9T or ping me.\n\nReinforcement Fine-Tuning is a new technique for teaching the new models how to reason. It's kinda like how AlphaGo taught a model how to play by \"grading\" games, then learning what \"good\" moves are by comparing moves in winning vs losing games. This opens up a whole new paradigm for models, where you're not just teaching them the answer, but teaching them how to arrive at the right answer.\n\nWhat is Reinforcement Fine-Tuning (RFT)?\nIt\u2019s a groundbreaking technique for teaching models how to reason. Think of it like AlphaGo: the model learns by being \u201cgraded\u201d on games and understanding what makes moves in winning games better than losing ones.\n\nWith RFT, prompts are like the \u201cgames\u201d and chain-of-thought reasoning is like the \u201cmoves.\u201d By evaluating the \"winning\" reasoning steps, the model learns which ones lead to better answers. This means we\u2019re not just teaching models the answers\u2014we\u2019re teaching them how to think through problems and consistently arrive at the right solutions.\n\nMy team\u2019s mission is simple: give you the world\u2019s best model for your domain. If you\u2019re finding it hard to get API responses to work for your business\u2014whether it\u2019s a performance issue, cost concern, or accuracy challenge\u2014let me know. We have tools to improve outcomes, and I love working with customers to see how we can do even more.\n\nOh, and Santa\u2019s sleigh? Julie gave us the answer: \u201cBecause he hadn\u2019t \u2018pine\u2019-tuned yet!\u201d \ud83e\udd41",
+        "location": "26\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/yaoyuli?trk=public_profile_samename-profile",
+        "name": "Joe L.",
+        "summary": "",
+        "location": "Seattle, WA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/joe-li-8ab4842b2?trk=public_profile_samename-profile",
+        "name": "Joe Li",
+        "summary": "I am a senior financial analyst, currently semi-retired, worked for CITIC Securities investment banking, no full-time job, own studio engaged in online blockchain diversified investment",
+        "location": "Portland, OR"
+      },
+      {
+        "link": "https://www.linkedin.com/in/joe-li-abb3072?trk=public_profile_samename-profile",
+        "name": "Joe Li",
+        "summary": "",
+        "location": "Los Angeles Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/joeyiyang?trk=public_profile_samename-profile",
+        "name": "Joe L.",
+        "summary": "",
+        "location": "Irvine, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "A Comparison of Personalized and Generalized Approaches to Emotion Recognition Using Consumer Wearable Devices: Machine Learning Study",
+        "sub_title": "JMIR AI",
+        "summary": "",
+        "date": "May 10, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fai%2Ejmir%2Eorg%2F2024%2F1%2Fe52171&urlhash=JmlY&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Investigating the Mutual Impact of Waveform, Temperature, and Dc-Bias on Magnetic Core Loss using Neural Network Models",
+        "sub_title": "2024 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "summary": "",
+        "date": "May 2, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fieeexplore%2Eieee%2Eorg%2Fdocument%2F10509194&urlhash=D1bM&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Multi-Material Power Magnetics Modeling with a Modular and Scalable Machine Learning Framework",
+        "sub_title": "2024 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "summary": "",
+        "date": "May 2, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fieeexplore%2Eieee%2Eorg%2Fdocument%2F10509142&urlhash=ldCl&trk=public_profile_publication-title"
+      },
+      {
+        "name": "A Simplified DC-Bias Injection Method for Characterizing Power Magnetics Using a Voltage Mirror Transformer",
+        "sub_title": "IEEE Transactions on Power Electronics",
+        "summary": "",
+        "date": "March 8, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fieeexplore%2Eieee%2Eorg%2Fabstract%2Fdocument%2F10460202&urlhash=67zK&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "USA Physics Olympiad Gold Medalist",
+        "organization": "American Association of Physics Teachers",
+        "duration": "May 2023",
+        "summary": "Ranked top 40 in the nation."
+      },
+      {
+        "name": "USA Computing Olympiad Finalist",
+        "organization": "USA Computing Olympiad",
+        "duration": "May 2022",
+        "summary": "Selected as one of the top 25 students in the nation and invited to a national training camp"
+      },
+      {
+        "name": "5x AIME Qualifier",
+        "organization": "Mathematical Association of America",
+        "duration": "",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

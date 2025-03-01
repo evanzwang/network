@@ -1,0 +1,41 @@
+{
+  "title": "(ISMRM 2023) Predicting MR Image Quality from Breathing Patterns",
+  "meta_description": "",
+  "main_content": "Abstract #3424 Predicting MR Image Quality from Breathing Patterns Soham S Vasanawala 1 and John M Pauly 1 1 Electrical Engineering, Stanford University, Stanford, CA, United States Synopsis Keywords: Artifacts, Motion Correction, abdomen, respiration Motion, particularly from breathing, compromises the quality of magnetic resonance images. In this work, we hypothesize that detected breathing patterns can be utilized to predict whether adequate MR image quality will be obtained. With a K-means clustering algorithm, 9 in 10 forty-second breathing waveforms were correctly predicted as either resulting in a high or low image quality image; this finding can save time from unnecessary scans. Other models achieved similar results as K-means clusterings. How to access this content: For one year after publication, abstracts and videos are only open to registrants of this annual meeting. Registrants should use their existing login information. Non-registrant access can be purchased via the ISMRM E-Library . After one year, current ISMRM & ISMRT members get free access to both the abstracts and videos. Non-members and non-registrants must purchase access via the ISMRM E-Library . After two years, the meeting proceedings (abstracts) are opened to the public and require no login information. Videos remain behind password for access by members, registrants and E-Library customers. Click here for more information on becoming a member . Abstract Presentation Video Keywords trigger explored optimization recordings phys unlabeled separation plotted indicating speech influencing drifting patterns configuration adjusted long acceptable best deviation selected whether suffices bars patient qualitatively predicting mathematically consent free datapoint lawrence sedation autocorrelation abdomen gamma support segment stanford labeled abdominal dataset prediction since patients adequate breathing performance feasible example variability separated pediatric price sensor experience preprocessed least linear synopsis acknowledgements achieved mirrors head carl error randomly quality trained voluntary machine unsupervised gating representative hypothesize radial slow slice training learning somewhat equivalent clusters intervals dynamic reconstruction predictions doss prior though predicted conical withheld establish deemed required compromises golden prone necessarily characterized chetty minimally accuracy sampling scores vector cycle monitoring remaining function trial acquisition segments kernel scanning early waveform learn detected repeated clustering save label highest decision model categories predict extracted instead curvature length hundred balter distribution cluster sample trials motion respiratory waveforms respiration varied labels pattern boundary utilized cyan dimensional",
+  "links": [
+    {
+      "url": "https://www.ismrm.org/23m/",
+      "text": ""
+    },
+    {
+      "url": "https://www.ismrm.org/e-library/",
+      "text": "ISMRM E-Library"
+    },
+    {
+      "url": "https://www.ismrm.org/e-library/",
+      "text": "ISMRM E-Library"
+    },
+    {
+      "url": "https://www.ismrm.org/e-library/",
+      "text": "E-Library"
+    },
+    {
+      "url": "http://www.ismrm.org/membership-journals/membership/",
+      "text": "Click here for more information on becoming a member"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MProceedings/PDFfiles/3424_UJCrJxQ3W.html",
+      "text": "Abstract"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/3424.htm",
+      "text": "Presentation Video"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://archive.ismrm.org/banners/2023m.jpg",
+      "alt": "Meeting Banner"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fniya-ma-1%2Foci-landing-zones%2Fsecurity)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Frepos%2Fsecurity%2Foverview&source=header-repo&source_repo=niya-ma-1%2Foci-landing-zones)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                  [niya-ma-1](/niya-ma-1)
+                /
+                  [oci-landing-zones](/niya-ma-1/oci-landing-zones)
+                Public
+              forked from
+                [oci-landing-zones/oracle-enterprise-landingzone](/oci-landing-zones/oracle-enterprise-landingzone)
+                  You must be signed in to change notification settings
+                    0
+                      Star
+                  Code
+                  Pull requests
+                  Projects
+                  Insights
+                  Additional navigation options
+            Security: niya-ma-1/oci-landing-zones
+                    SECURITY.md
+                        Reporting security vulnerabilities
+                      Oracle values the independent security research community and believes that
+responsible disclosure of security vulnerabilities helps us ensure the security
+and privacy of all our users.
+                      Please do NOT raise a GitHub Issue to report a security vulnerability. If you
+believe you have found a security vulnerability, please submit a report to
+                        [secalert_us@oracle.com](mailto:secalert_us@oracle.com)
+                        preferably with a proof of concept. Please review
+some additional information on
+                        [how to report security vulnerabilities to Oracle](https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html)
+                        .
+We encourage people who contact Oracle Security to use email encryption using
+                        [our encryption key](https://www.oracle.com/security-alerts/encryptionkey.html)
+                      We ask that you do not use other channels or contact the project maintainers
+directly.
+                      Non-vulnerability related security issues including ideas for new or improved
+security features are welcome on GitHub Issues.
+                        Security updates, alerts and bulletins
+                      Security updates will be released on a regular cadence. Many of our projects
+will typically release security fixes in conjunction with the
+Oracle Critical Patch Update program. Additional
+information, including past advisories, is available on our
+                        [security alerts](https://www.oracle.com/security-alerts/)
+                        page.
+                        Security-related information
+                      We will provide security related information such as a threat model, considerations
+for secure use, or any known security issues in our documentation. Please note
+that labs and sample code are intended to demonstrate a concept and may not be
+sufficiently hardened for production use.
+                    There aren’t any published security advisories
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

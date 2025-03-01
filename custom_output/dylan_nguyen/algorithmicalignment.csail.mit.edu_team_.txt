@@ -1,0 +1,87 @@
+  HEADER
+      Algorithmic Alignment Group
+      Researching frameworks for human-aligned AI @ MIT CSAIL.
+  MAIN CONTENT
+      <h1>Group Name and Logo</h1>
+      <head>
+      <meta charset="utf-8">
+      </head>
+                Home
+                Team
+                Research
+                Contact
+      <img src="/docs/assets/sillhouette.jpeg" width="160" height="160" alt="Person 1 Name"> <p>Person 1, person1@gmail.com, website link<br>Bio goes here.</p>
+      Principal Investigator
+        Dylan Hadfield-Menell
+        , dhm[at]csail[dot]mit[dot]edu,
+        [Website](http://people.csail.mit.edu/dhm/)
+      Postdoctoral Researchers
+        Rakshit S. Trivedi
+        , rstrivedi[at]csail[dot]mit[dot]edu,
+      Research Scientists
+        A. Pinar Ozisik
+        , pinaro[at]mit[dot]edu,
+      Ph.D Students
+        Aruna Sankaranarayanan
+        , arunas[at]mit[dot]edu,
+        [Linkedin](https://www.linkedin.com/in/arunasank/)
+        Phillip Christoffersen
+        , philljkc[at]mit[dot]edu,
+        Rachel Ma
+        , rachelm8[at]mit[dot]edu,
+        Stephen Casper
+        , scasper[at]mit[dot]edu,
+        Stewart Slocum
+        , sslocum3[at]mit[dot]edu,
+      Masters Students
+        Adriano Hernandez
+        , adrianoh[at]mit[dot]edu,
+        [LinkedIn](https://www.linkedin.com/in/adriano-hernandez/)
+        Ariba Khan
+        , akhan02[at]mit[dot]edu
+        Timothy Qian
+        , tcqian[at]mit[dot]edu,
+      <h3>Interns and UROPs</h3>
+      <p>
+      <img style="padding-right: 15px;" src="/docs/assets/jessica.jpg" width="160" height="160" alt="Jessica Turner">
+      <strong>Jessica Turner</strong>, jturner3[at]umbc[dot]edu, <a href="https://www.linkedin.com/in/jessica-turner-3353561b1/">LinkedIn</a>
+      <br>
+      Jessica is a member of the class of 2024 at the University of Maryland, Baltimore County (UMBC) with a major of computer science. Her interests lie in Human Computer Interaction research, teaching, as well as playing (piano/guitar) and listening to RnB and soul music.
+      </p>
+      <img style="padding-right: 15px;" src="/docs/assets/Lennart.JPG" width="160" height="160" alt="Lennart Schulze">
+      <strong>Lennart Schulze</strong>, ls3932[at]columbia[dot]edu, <a href="https://www.linkedin.com/in/lennart-schulze/">LinkedIn</a>
+      Lennart’s research aims to promote safe and aligned AI through methods for explainability as well as adversarial robustness of machine learning models. In addition, he works in the Creative Machines Lab on robot perception and self-modeling via neural-implicit 3d vision. He currently finishes his master’s degree in computer science at Columbia University after having worked as research assistant at IBM Research.
+      Former Students
+        Andreas Haupt
+        , haupt[at]csail[dot]mit[dot]edu,
+        [Institute for Human-Centered AI](https://hai.stanford.edu/fellows)
+        where he researches Artificial Intelligence and the economic impacts of its deployment. He completed his Ph.D. in Engineering-Economic Systems in 2024, and is the first Ph.D. student of the Algorithmic Alignment group.
+        Deepika Raman
+        , deepikar[at]mit[dot]edu,
+        Dana Choi
+        , choie[at]mit[dot]edu
+        Hendrik Mayer
+        , hmayer[at]mit[dot]edu
+        Julian Manyika
+        , jmanyika[at]mit[dot]edu,
+        Prajna Soni
+        , prajna[at]mit[dot]edu,
+        Taylor Lynn Curtis
+        , tlcurtis[at]mit[dot]edu,
+        Timothy Kostolandky
+        , timkosto[at]mit[dot]edu,
+        Mehul Damani
+        , mehul42[at]mit[dot]edu,
+        Olivia Siegel
+        , osiegel[at]mit[dot]edu,
+        Rui-Jie Yew
+        , rjy[at]mit[dot]edu,
+        Jovana Kondic
+        , jkondic[at]mit[dot]edu,
+        Magdalena Price
+        , maprice[at]mit[dot]edu
+        Max Langenkamp
+        , maxnz[at]mit[dot]]edu
+      <h4>Undergraduate Students</h4>
+  FOOTER
+      <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>

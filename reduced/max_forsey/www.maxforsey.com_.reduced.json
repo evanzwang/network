@@ -1,0 +1,81 @@
+{
+  "title": "Max Forsey",
+  "meta_description": "I like to research AI and build helpful tools \ud83d\udee0\ufe0f",
+  "main_content": "Max Forsey I like to research AI and build helpful tools \ud83d\udee0\ufe0f I like to research AI and build helpful tools \ud83d\udee0\ufe0f Hi, I'm Max \ud83d\udc4b Co-founder of justbuild , the builder community Studying machine learning at BYU Researching AI in the PCC Lab Learn about me Blog Collections books films music quotes tools longevity Blog Posts Chronotype-based scheduling uv add > pip install From APIs to Model Training: A Deep Learning Guide I Am Becuase We Are Longevity: The New Compound Interest \u2190 1 / 2 \u2192 Projects and Papers Gradient Sparse Autoencoders paper Introduces a novel approach to extracting neural network features by considering both activation values and their downstream effects. This modification to traditional Sparse Autoencoders leads to more faithful reconstructions and more effective model steering capabilities. FreshSesh AI project A developer tool that uses a local LLM to provide personalized context summaries of your previous work sessions. Helps you quickly get back into flow by recapping where you left off. maxforsey.com project This website has become so much fun to work on and to experiment with design principles. It's also how I learned next.js and tailwind CSS! Below are some previous iterations.",
+  "links": [
+    {
+      "url": "https://justbuild.ing/",
+      "text": "justbuild"
+    },
+    {
+      "url": "/blog/books",
+      "text": "books"
+    },
+    {
+      "url": "/blog/films",
+      "text": "films"
+    },
+    {
+      "url": "/blog/music",
+      "text": "music"
+    },
+    {
+      "url": "/blog/quotes",
+      "text": "quotes"
+    },
+    {
+      "url": "/blog/tools",
+      "text": "tools"
+    },
+    {
+      "url": "/blog/longevity",
+      "text": "longevity"
+    },
+    {
+      "url": "/blog/post8",
+      "text": "Chronotype-based scheduling"
+    },
+    {
+      "url": "/blog/post7",
+      "text": "uv add > pip install"
+    },
+    {
+      "url": "/blog/post6",
+      "text": "From APIs to Model Training: A Deep Learning Guide"
+    },
+    {
+      "url": "/blog/post5",
+      "text": "I Am Becuase We Are"
+    },
+    {
+      "url": "/blog/post4",
+      "text": "Longevity: The New Compound Interest"
+    },
+    {
+      "url": "https://arxiv.org/abs/2411.10397",
+      "text": "Gradient Sparse Autoencoderspaper"
+    },
+    {
+      "url": "https://github.com/max4c/freshsesh",
+      "text": "FreshSesh AIproject"
+    }
+  ],
+  "images": [
+    {
+      "src": "/_next/image?url=%2FDigitalProfile_tiny.png&w=384&q=75",
+      "alt": "Max Forsey"
+    },
+    {
+      "src": "/_next/image?url=%2Fpaper.png&w=1920&q=75",
+      "alt": "Gradient analysis visualization"
+    },
+    {
+      "src": "/_next/image?url=%2Ffreshsesh.jpeg&w=1920&q=75",
+      "alt": "FreshSesh AI interface"
+    },
+    {
+      "src": "/_next/image?url=%2Fwebsite.png&w=1920&q=75",
+      "alt": "Website screenshot"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+[
+  {
+    "fullName": "Niya Ma",
+    "linkedin_internal_id": "830948648",
+    "first_name": "Niya",
+    "last_name": "Ma",
+    "public_identifier": "niya-ma",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQEIdH4fEpYJoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1670706041193?e=2147483647&v=beta&t=Oz-BXvFxQE0HDtBNt9YYFAUAgx800e-7MDwCIjJuNmk",
+    "headline": "SWE @ Oracle OCI | Ex Hack@Davidson Director",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "followers": "Issued Jan 2022",
+    "connections": "Issued Jan 2022",
+    "about": "Graduated Davidson College Magna Cum Laude with double major in Computer Sceince and Mathematics.",
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/oracle?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+        "company_name": "Oracle",
+        "location": "Davidson, North Carolina, United States",
+        "summary": "",
+        "starts_at": "Jul 2024",
+        "ends_at": "Present",
+        "duration": "9 months"
+      },
+      {
+        "position": "President",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Association For Women In Mathematics - Davidson Chapter",
+        "location": "Davidson, North Carolina, United States",
+        "summary": "",
+        "starts_at": "Aug 2022",
+        "ends_at": "May 2024",
+        "duration": "1 year 10 months"
+      },
+      {
+        "position": "Director",
+        "company_url": "https://www.linkedin.com/company/hackatdavidson?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGowVABA2EwVw/company-logo_100_100/company-logo_100_100/0/1707146047465/hackatdavidson_logo?e=2147483647&v=beta&t=bj5om7jXjuTZQJJyIsyKTLhYPMymGgrA--TP1PZ9XlA",
+        "company_name": "Hack@Davidson",
+        "location": null,
+        "summary": "",
+        "starts_at": "Mar 2023",
+        "ends_at": "Mar 2024",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/oracle?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+        "company_name": "Oracle",
+        "location": "Santa Clara County, California, United States",
+        "summary": "Software engineer intern on the automation team in Corporate Architecture.- Pioneered a Python script utilizing multiprocessing to accelerate network traffic simulation by 250x.- Engineered MySQL database and Grafana dashboard integration to visualize 3 metrics.- Formulated automated test cases with Pytest, leading to seamless traffic simulation and response tracking.",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/qualtrics?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGMhQcnBkafcQ/company-logo_100_100/company-logo_100_100/0/1721340384074/qualtrics_logo?e=2147483647&v=beta&t=i5imjka5II0fAk-q6_XihYpn-Q9cEcTRKQ1gR8XxjEE",
+        "company_name": "Qualtrics",
+        "location": "Seattle, Washington, United States",
+        "summary": "Interned on the Developer Experience team.- Devised an efficient updating mechanism for 20+ services via Backstage bootstrapping.- Crafted tailor-made templates and actions for bulk Git repository updates, using TypeScript, YAML, and Git.- Made a substantial open-source contribution to the Backstage project with 900+ adopters.",
+        "starts_at": "May 2022",
+        "ends_at": "Aug 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Frontend Developer Intern",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Piie",
+        "location": "Davidson, North Carolina, United States",
+        "summary": "",
+        "starts_at": "Sep 2021",
+        "ends_at": "Nov 2021",
+        "duration": "3 months"
+      },
+      {
+        "position": "Machine Learning Researcher",
+        "company_url": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGhshKt_3pBBg/company-logo_100_100/company-logo_100_100/0/1692818116872/davidson_college_logo?e=2147483647&v=beta&t=mF8LKUrbHdPhPW3Vcq46WW4MFp14Q7TnVgYO9nnL4VM",
+        "company_name": "Davidson College",
+        "location": "Davidson County, North Carolina, United States",
+        "summary": "Student researcher with ALPhA. Applied machine learning methods to process Argon-46 detector images.",
+        "starts_at": "May 2021",
+        "ends_at": "Jun 2021",
+        "duration": "2 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Davidson College",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGhshKt_3pBBg/company-logo_100_100/company-logo_100_100/0/1692818116872/davidson_college_logo?e=2147483647&v=beta&t=mF8LKUrbHdPhPW3Vcq46WW4MFp14Q7TnVgYO9nnL4VM",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Magna Cum Laude",
+        "college_duration": "2020 - 2024",
+        "college_activity": "- Double major in Mathematics and Computer Science.- TA for MAT 315 Numerical Analysis- Notable coursework: Natural Language Processing, Concurrent & Parallel Computing, Deep Learning, Operating Systems, Competitive Coding(C++), Database Systems, Applied Cryptography.- Campus involvements: Women in Math President, Hack@Davidson President, Davidson Chorale, Residence Life Office Student Leader"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2023",
+        "college_activity": "CS229 - Machine Learning"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/st-paul-vi-catholic-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "St. Paul VI Catholic High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHfr1So7uZRkw/company-logo_100_100/company-logo_100_100/0/1630586711037/paul_vi_catholic_high_school_logo?e=2147483647&v=beta&t=h-Q3xN-QhLxmTc6qApn_0f_b_Fi7FGJEDz5MASuu9Lg",
+        "college_degree": "Advanced Diploma",
+        "college_degree_field": null,
+        "college_duration": "2016 - 2020",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Oracle",
+      "description1_link": "https://www.linkedin.com/company/oracle?trk=public_profile_topcard-current-company",
+      "description2": "Davidson College",
+      "description2_link": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=niya-ma%2Ecom&urlhash=FqqE&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/amygascon_i-our-community-some-shots-from-the-most-activity-7300921520774615040-rmMQ",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHW6EP44CjSlw/feedshare-shrink_800/B4DZVIVbU.G4Ao-/0/1740675332795?e=2147483647&v=beta&t=FJUaKs6EfQ3cWQpHpCOOSKaf0sT4pdKr96LIr09wWLY",
+        "title": "I \ud83d\udc9f our community! Some shots from the most recent cohort of the Ice House program and folks from our \"reunion\" night yesterday at The Hurt\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ellie-bailey-b4b23317a_i-am-ecstatic-to-announce-that-i-have-accepted-activity-7300580111320244225-zNGV",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFOpffzJObe-g/feedshare-shrink_1280/B4EZVDe7K3HcAk-/0/1740593935371?e=2147483647&v=beta&t=TW-DvN1UZ8LYtQMu7W1FYdXDsuSTlw5Z-LmiJYsKP-M",
+        "title": "I am ecstatic to announce that I have accepted a position as a legal intern for la Comisi\u00f3n Provincial por la Memoria in the Buenos Aires province of\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/amygascon_last-night-we-had-the-incredible-opportunity-activity-7300587774145974272-aWBy",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHxp4bZO9N7XQ/feedshare-shrink_800/B4EZVDl4zGHgAg-/0/1740595761073?e=2147483647&v=beta&t=GhRAmgh80MO64BlNIrmo03-s7-YCE9DE2zxWPOny5F4",
+        "title": "Last night, we had the incredible opportunity of hosting Stuart Weitzman, the legendary entrepreneur and shoe designer. Stuart shared his remarkable\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dksutton_this-is-my-wife-rita-she-is-a-3x-cancer-activity-7298716785028071424-N9Cp",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEx-uxwN8WiCg/feedshare-shrink_800/B4EZUpAO.dGgAg-/0/1740149683754?e=2147483647&v=beta&t=qLAjyTjodU--LFFi6HKlMbWczCWpp37fe9fRkm6BgFQ",
+        "title": "This is my wife Rita. She is a 3x cancer survivor. She just received great news. \n\n\u201cNO EVIDENCE OF DISEASE.\u201d\n\nThat is 13 years now. \n\nThat\u2019s 13 years\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/shunwelreid106_im-excited-to-share-that-i-graduated-last-activity-7291204985990594560-NJWE",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEeICm19QNqbQ/feedshare-shrink_2048_1536/B4EZS.QSYEHMAo-/0/1738358728823?e=2147483647&v=beta&t=1Z-ySCFZKpvGyaGfhB6qRHiyVsLd4O4pu5x-Be694Rc",
+        "title": "I\u2019m excited to share that I graduated last month with a Bachelor of Science in Computer Science from North Carolina Agricultural and Technical State\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mia-nguyen-8562581b3_had-so-much-fun-working-with-this-team-activity-7295893774084255744-L4Q3",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Had so much fun working with this team!",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/olsenbudanur_aiengineering-hackathon-fintech-activity-7295183405317505027-dfTW",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGh5RNjFCkkLQ/feedshare-shrink_800/B56ZT2yo9vHsAk-/0/1739307258271?e=2147483647&v=beta&t=pDI1wgUeNH9f3J5abJ7sncI9Qy9s3hEAJMKQm6HtgKk",
+        "title": "Just turned my $500/month Devin AI (Cognition) membership into ~$3,000 in value\u2014 including cash, a trip to Vegas, and a Lamborghini drive. Still\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/the-hurt-hub-davidson_hackathon-davidsoncollege-thehurthub-activity-7295088126463492096-pdvO",
+        "image": "https://media.licdn.com/dms/image/v2/D4E10AQGF1napeLvTxw/ads-video-thumbnail_720_1280/B4EZT1bg5jG0AY-/0/1739284424791?e=2147483647&v=beta&t=bWiNWmnJesuKVX9jqW4cVXDYAFCC81gFdNqxEBr5ogI",
+        "title": "We were thrilled to host Hack@Davidson at the Hurt Hub@Davidson! \ud83c\udf89 Watching students bring their innovative ideas to life during this hackathon was\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/eordax_ai-transformers-ml-activity-7294465848717590528-Prid",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHDTXcjeUKZMw/feedshare-shrink_800/B4DZTsmCKWHYAg-/0/1739136181805?e=2147483647&v=beta&t=Gk5HFBFYsRTpKJ6j6Tf78IVbT2gGxQLZgi-s0LTwqTI",
+        "title": "One of the Best Explanations on Transformers and Self-Attention!\n\nExplaining transformers in just 15 minutes is no easy task\u2014doing it in a clear and\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/amygascon_technical-expertise-opens-doors-but-curiosity-activity-7293619563240312832-VFbD",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEI-pYYbC2HlA/feedshare-shrink_800/B4EZTgkV_dGwAg-/0/1738934411956?e=2147483647&v=beta&t=yrI5AsBJDf8Lund7ZNaUe2Rnv7IRmawK65C7jzQSsKQ",
+        "title": "Technical expertise opens doors, but curiosity and determination kick them down. We had a great discussion last weekend at The Hurt Hub@Davidson.",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mia-nguyen-8562581b3_this-past-thursday-the-oracle-professional-activity-7293719316682653696-oCR-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHCLIFpr_81Rw/feedshare-shrink_800/B56ZTh_C6tHEAo-/0/1738958189594?e=2147483647&v=beta&t=B8E8WG5B0H76hOwnxOjZUsztQHllloi8UNOidsCTALo",
+        "title": "This past Thursday, the Oracle Professional Asian Leadership team at Redwood Shores team came together to host our annual Lunar New Year celebration.\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/myan_i-turned-my-living-room-into-our-startup-activity-7290798928453648384-Sn97",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFpPawLutbR1w/feedshare-shrink_800/B56ZS1CGO8GsAk-/0/1738204014868?e=2147483647&v=beta&t=K3JdYd28UD0f3YsP5BORp4N5MbqoQYFjz4pAs4MEvZA",
+        "title": "I turned my living room into our startup office this week.\n\nOur team is in the middle of transitioning offices in SF. Instead of working remotely, we\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/amygascon_what-a-weekend-congratulations-to-hack-davidson-activity-7291962444522897408-UQ2W",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFWXhtJ2uaXOw/feedshare-shrink_800/B4EZTJBLB5HUAg-/0/1738539318373?e=2147483647&v=beta&t=_Wuw4vAWkSiUV-ZO-2Zw_47PEkjlFlH4ucpwTTnSxUE",
+        "title": "What a weekend! Congratulations to Hack Davidson for putting on their annual Hackathon this weekend at The Hurt Hub@Davidson. 32 tech projects were\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/zhu-liang_when-reading-the-deepseek-r1-paper-i-found-activity-7289122636813516800-9HYw",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHJc8nUg4DskQ/feedshare-shrink_800/B56ZSgqaMdHsAg-/0/1737862260860?e=2147483647&v=beta&t=-4YGg9e1GEA3RhO-4ff51LnNBjV80yl5YGwvog_9Kc8",
+        "title": "When reading the DeepSeek R1 paper. I found something absolutely thought-provoking.\n\nIt turns out, CoT often exhibits language mixing, when prompts\u2026",
+        "activity": "Liked by Niya Ma"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/michellekuchera_point-cloud-based-machine-learning-for-classifying-activity-7287310444929667072-2t4C",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQE3Gs0VtOHICA/articleshare-shrink_800/articleshare-shrink_800/0/1736567920399?e=2147483647&v=beta&t=cDhFeVhjjzYCTlpJv9x0-CPHxFpAt8LGyMotaEYC-gI",
+        "title": "ALPhA had a productive winter break :) I'm happy to announce the publication of three papers:\n\n - \u00a0Implicit quantile networks for emulation in jet\u2026",
+        "activity": "Liked by Niya Ma"
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFX0dTNSnGE4w/company-logo_100_100/company-logo_100_100/0/1631361439176/algoexpert_logo?e=2147483647&v=beta&t=L6Nii6Srs2V7QvW7xx70Rz_-jrtcaDWanZ_HJ_jCVOE",
+        "certification": "100 AlgoExpert Questions",
+        "company_url": "https://www.linkedin.com/company/algoexpert?trk=public_profile_profile-section-card_image-click",
+        "company_name": "AlgoExpert",
+        "issue_date": "Issued Jan 2022",
+        "credential_id": "Credential ID b9c44a40c3",
+        "credential_url": "https://certificate.algoexpert.io/AE-b9c44a40c3?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "R Programming",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jul 2021",
+        "credential_id": "Credential ID  T246UBUZ49B7",
+        "credential_url": "http://www.coursera.org/account/accomplishments/certificate/T246UBUZ49B7?trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/niyavatel?trk=public_profile_samename-profile",
+        "name": "Niya Vatel, MA",
+        "summary": "Champion for Disability Rights | Proud Autism Mom | Guiding Families Through Special Education & Developmental Disability Services",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ndavis86?trk=public_profile_samename-profile",
+        "name": "Niya D.",
+        "summary": "Committed to helping others find meaningful connections",
+        "location": "Las Vegas, NV"
+      },
+      {
+        "link": "https://www.linkedin.com/in/niya-lewis-ma-lpc-ncc-69368745?trk=public_profile_samename-profile",
+        "name": "Niya Lewis, MA., LPC, NCC",
+        "summary": "",
+        "location": "Washington, DC"
+      },
+      {
+        "link": "https://www.linkedin.com/in/staff-niya-ma-786a381a8?trk=public_profile_samename-profile",
+        "name": "Staff.Niya Ma",
+        "summary": "",
+        "location": "Tempe, AZ"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Mandarin",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "2nd Place - Twilio LLM Hackathon",
+        "organization": "Twilio",
+        "duration": "May 2023",
+        "summary": "Built an AI personal trainer using Google's PaLM 2 API during the LLM LGTM\ud83d\udc4d AI and Data Hackathon."
+      },
+      {
+        "name": "Best project using Wolfram API - Stanford LLM x Law Hackathon",
+        "organization": "Stanford Law School",
+        "duration": "May 2023",
+        "summary": "Built an LLM chatbot and complaint finder that has context of CFPB complaints to answer case-specific questions."
+      },
+      {
+        "name": "Best Sustainability Hack - VT Hacks X",
+        "organization": "Capgemini",
+        "duration": "Nov 2022",
+        "summary": "https://devpost.com/software/shrooms-r-us"
+      },
+      {
+        "name": "3rd Place - Bison Hacks 2022",
+        "organization": "Howard University School of Business",
+        "duration": "Mar 2022",
+        "summary": "https://devpost.com/software/waitfree-dmv"
+      },
+      {
+        "name": "Best Designed for Security and Privacy - VT Hacks IX",
+        "organization": "ManTech",
+        "duration": "Feb 2022",
+        "summary": "https://devpost.com/software/initial-post"
+      },
+      {
+        "name": "Most Creative Use of Automation - Pearl Hacks 2022",
+        "organization": "Appian",
+        "duration": "Feb 2022",
+        "summary": "https://devpost.com/software/b-lot"
+      },
+      {
+        "name": "Most Customer Focused Hack - HackViolet 2022",
+        "organization": "CarMax",
+        "duration": "Feb 2022",
+        "summary": "https://devpost.com/software/codeviolet"
+      }
+    ],
+    "score": []
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "title": "Arjun B. Mulchandani - About Me",
+  "meta_description": "Student interested in the intersection of technology and policy. CEO and \nFounder of Kids Teach Tech; Research Assistant at The Hoover Institution; \nYouth Peace Ambassador for Urban League Bay Area.",
+  "main_content": "Arjun Banerjee Mulchandani CEO, Founder - Kids Teach Tech Research Assistant - The Hoover Institution, Stanford University Youth Peace Ambassador - Urban League Bay Area About Me I'm a Senior at the College Preparatory School in Oakland, CA, and the Founder and CEO of a nonprofit organization called Kids Teach Tech, through which I lead a team of over 250 who have created and taught technology classes to over 8,000 students . My organization teaches a wide variety of programming and technology classes ranging from block coding to data science, 3d printing, and robotics. I would say I can code at an 'advanced level,' fluent in over 30 of the most mainstream languages - Python as my go-to and C# as my favorite. But what truly matters to me is a deep, conceptual understanding of coding itself, especially since I\u2019ve been an educator in the field for as long as I can remember. That foundation allows me to take on almost any project in any language, beyond syntax focusing on problem-solving and design . I am also a Research Assistant under Prof. Amy Zegart at Stanford University's Hoover Institution through which I am the principal architect and developer of an interactable archive of a large number of declassified documents from the Intelligence Community . My other interests include National and International Policy , having competed in the Tournament of Champions in International Extemporaneous Speaking, as well as Philosophy , Poetry , and Quantum Physics . Work Experience Stanford University, Hoover Institution Research Assistant June 2024 - Present I am the principal architect and developer of a project codenamed \u201cOpen Intel\u201d at Stanford Hoover Institution working for Professor Amy Zegart. I have been responsible for all aspects of customer input, coding/development, and deployment of this product on the Stanford infrastructure. Description of the product: Open Intel is a comprehensive record and document repository dedicated to archiving and indexing critical documents pertaining to the Intelligence Community (IC) and its oversight and regulation. The goal is to enhance the accessibility of these important yet often hard-to-find public documents, empowering researchers, journalists, policymakers, and the general public with a robust platform for discovery and analysis. In order to index the over four million documents, AI is leveraged in the analysis of almost every single document. The platform utilizes advanced technology (LLMs, Web Scraping, and the Sherlock Cluster) to dynamically index and collect documents from the archives of every major intelligence agency, ensuring a comprehensive and up-to-date repository. Read the research abstract here for more general and technical details. Kids Teach Tech CEO & Founder August 2017 - Present Started a non-profit organization that empowers youth to create and teach classes in Technology, Robotics, Programming, and Artificial Intelligence for underrepresented youth, turning students into teachers and leaders helping to lift their communities and increase their future education and career opportunities. At Kids Teach Tech (\u201cKTT\u201d), youth create high quality classes for their own peers, regardless of age or background. Through a peer to peer \u201cFriends teaching Friends\u201d model, they connect and engage with other youth in a unique way to teach them beginning to advanced concepts while having a fantastic time together and encouraging them to join the organization for deeper learning and experience in technology and leadership. As our underrepresented students become teachers and leadership team members, they build not only confidence and expertise in technology, but also a full set of leadership skills and experience that will set them up to be leaders in any industry. Recruited and trained 250+ student teachers and manage a senior leadership team that helps run the organization. Taught over 8,000 students, primarily in-person in Oakland and the San Francisco Bay Area, and virtually across the nation and internationally. Managed and taught full-time summer camp in Python Programming, Data Science, and Artificial Intelligence along with Kids Teach Tech teaching team in-person at UC Berkeley College of Engineering. Held camps every summer since 2021, including one that just ended in Summer 2024. Partnered with UC Berkeley, Georgia Tech, Comcast NBC Universal, Urban League of Greater San Francisco Bay Area, City of Oakland, Boys and Girls Clubs of Oakland, Oakland Libraries, Oakland Parks and Recreation, Bishop Ranch, Wente Foundation for the Arts and Education, Logikcull, Rotary Foundation of Livermore. University of California Berkeley College of Engineering, Georgia Tech, and the Artificial Intelligence Institute have all published articles commending Kids Teach Tech's unique and effective approach to teaching the most Innovative Technologies and preparing the next generation of diverse local Innovators. Artificial Intelligence Institute 2023 Newsletter (page 6) UC Berkeley 2021 Article UC Berkeley 2022 Article 1 Georgia Tech 2021 Article UC Berkeley 2022 Article 2 Urban League of Greater San Francisco Bay Area Volunteer Team Coordinator, Design & Marketing January 2021 - Present Designed original Logo and related branding for new Urban League affiliate Urban League of Greater San Francisco Bay Area, and internal and external signage for Oakland City Center office. Designed t-shirts used to represent the organization from August 2022 to present. Managed Team of Volunteers doing digital registration for 400+ attendees at Urban League Annual Empowerment Awards Gala September 2023. Trained registration team members in auction software and ensured that event and auction registration was smooth, efficient, and enjoyable for all Elected Officials, VIPs, sponsors, and attendees of Urban League Annual Gala Fundraising event. Stanford National Security Hackathon Team Member May 2024 Created an Open-Source intelligence (OSINT) tool which performs sentiment analysis on multiple forms of data sourced from social media (Video, Images, Text, Audio) and structs a knowledge map containing all of the relevant information and sources. Worked with a team of 3 others on behalf of Stanford. Product accessible here: https://github.com/harrisonrunnels/insight-ops . Resume & Information Packet",
+  "links": [
+    {
+      "url": "/cart",
+      "text": "0"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1EFiprT_a1xDTMeu8FOSVD7JnoNOC7XPszeQw-x8NpvQ/edit?usp=sharing",
+      "text": "Stanford University, Hoover Institution"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1EFiprT_a1xDTMeu8FOSVD7JnoNOC7XPszeQw-x8NpvQ/edit?usp=sharing",
+      "text": "Read the research abstract here for more general and technical details."
+    },
+    {
+      "url": "/ktt",
+      "text": "Kids Teach Tech"
+    },
+    {
+      "url": "/ktt",
+      "text": ""
+    },
+    {
+      "url": "https://www.ai4opt.org/sites/default/files/newsletter/july-newsletter.pdf",
+      "text": "Artificial Intelligence Institute 2023 Newsletter (page 6)"
+    },
+    {
+      "url": "https://ieor.berkeley.edu/berkeley-ieor-and-georgia-tech-isye-partner-with-kids-teach-tech-to-inspire-underrepresented-youth-with-the-power-of-engineering-and-data-analytics/",
+      "text": "UC Berkeley 2021 Article"
+    },
+    {
+      "url": "https://ieor.berkeley.edu/berkeley-ieor-continues-partnership-to-bring-engineering-and-data-analytics-to-underserved-youth/",
+      "text": "UC Berkeley 2022 Article 1"
+    },
+    {
+      "url": "https://isye.gatech.edu/news/seth-bonder-camp-expands-reach-and-representation",
+      "text": "Georgia Tech 2021 Article"
+    },
+    {
+      "url": "https://ieor.berkeley.edu/ariel-qian-m-e-t-ieor-24-on-the-importance-of-programs-like-kids-teach-tech/",
+      "text": "UC Berkeley 2022 Article 2"
+    },
+    {
+      "url": "https://www.ulbayarea.org/",
+      "text": "Urban League of Greater San Francisco Bay Area"
+    },
+    {
+      "url": "https://www.ulbayarea.org/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/harrisonrunnels/insight-ops",
+      "text": "https://github.com/harrisonrunnels/insight-ops"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/67246c199fe3821f08ac86e4/9b91e194-3f3b-45f0-a9ce-7db48ffa6ab3/2inovationstage-134.jpg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+            [Jiaqi Zhang | 张嘉琦](/)
+                  Home
+                  Resume
+                  Publications
+                  Talks
+                  Projects
+                  Contact
+                  Light
+                  Dark
+                  Automatic
+                Jiaqi Zhang
+                PhD Student at Computer Science
+                    Singh Lab
+                    Brown University Department of Computer Science
+            Biography
+              I am a PhD candidate in the Department of Computer Science at Brown University and I work with
+                [Dr. Ritambhara Singh](https://rsinghlab.org/)
+                . My research interest is developing machine learning methods to explore complex structures inherent in single-cell measurement data. These structures, such as gene-gene coexpression networks and cellular dynamics, are critical to understanding the intricate processes of developmental biological systems. My work emphasizes creating scalable and efficient algorithms tailored to tackle challenges arising from real-world biological applications, ensuring that theoretical advancements translate effectively into practice. In particular, my current research project focuses on modelling cell developmental dynamics from temporal multi-modal single-cell data.
+              Before joining Brown, I received my bachelor’s degree in software engineering at Southeast University, China. I worked there with
+                [Dr. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm)
+                mainly on developing statistical methods for graphical model structure estimation.
+                Interests
+                  Single-cell analysis
+                  Multi-modal integration
+                  Model interpretation
+                  Gene network
+                  Probabilistic graphical model
+                  Bayesian statistics
+                Education
+                      PhD in Computer Science, 2021~present
+                      Brown University
+                      BSc in Software Engineering, 2015~2020
+                      Southeast University, China
+            Featured Publications
+                ,
+                Manav Chakravarthy
+                Ritambhara Singh
+              (2024).
+              [scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data](/publication/scmultinode/)
+              .
+biorxiv.
+                [DOI](https://doi.org/https://doi.org/10.1101/2024.10.27.620531)
+                Erica Larschan
+                Jeremy Bigness
+              [scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction](/publication/scnode/)
+              .
+23rd European Conference on Computational Biology (ECCB 2024).
+              (2023).
+              [Evaluating the Complexity of Gene Co-expression Estimation for Single-cell Data](/publication/srnaseq_coexpression_benchmark/)
+              .
+Journal of Machine Learning for Modeling and Computing.
+                Qianli Yang
+                Zhongqiao Lin
+                Wenyi Zhang
+                Jianshu Li
+                Xiyuan Chen
+                Tianming Yang
+              (2022).
+              [Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](/publication/monkey_plays_pacman/)
+              .
+Elife.
+                Meng Wang
+                Qinchi Li
+                Sen Wang
+                Xiaojun Chang
+                Beilun Wang
+              (2020).
+              [Quadratic Sparse Gaussian Graphical Model Estimation Method for Massive Variables](/publication/quadratic-sparse-gaussian-graphical-model-estimation-method-for-massive-variables/)
+              .
+IJCAI 2020.
+                [PDF](/publication/quadratic-sparse-gaussian-graphical-model-estimation-method-for-massive-variables/Quadratic%20Sparse%20Gaussian%20Graphical%20Model%20Estimation%20Method%20for%20Massive%20Variables.pdf)
+                  [Poster Talk at MLCB 2023](/talk/poster-talk-at-mlcb-2023/)
+                  Poster talk at MLCB 2023 for my accepted abstract: “scNODE: Generative Model for Temporal Single Cell Transcriptomic Data …
+                    Nov 30, 2023 — Dec 1, 2023
+                    Seattle, WA
+                  [Poster Talk at IJCAI 2020 (virtual)](/talk/poster-talk-at-ijcai-2020-virtual/)
+                  Talk for the poster session at IJCAI 2020 for my accepted paper: “Quadratic Sparse Gaussian Graphical Model Estimation Method for …
+                    Jan 8, 2021 2:59 AM — Jan 15, 2021 5:00 AM
+                    virtual
+                jiaqi_zhang2@brown.edu
+                164 Angll St., Providence, RI 02906
+        Published with
+          [Wowchemy](https://wowchemy.com/?utm_campaign=poweredby)
+          — the free,
+          [open source](https://github.com/wowchemy/wowchemy-hugo-themes)
+          website builder that empowers creators.
+          Cite
+            ×

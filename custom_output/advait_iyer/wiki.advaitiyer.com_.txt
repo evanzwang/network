@@ -1,0 +1,11 @@
+      [Advait Iyer](/)
+      |
+      [Verilog](/verilog/)
+    Table of contents
+        [Introduction](/verilog/intro)
+        [Basics](/verilog/basics)
+        [Syntax](/verilog/syntax)
+        [Modelsim](/verilog/modelsim)
+        [Debugging](/verilog/debugging)
+        [Design](/verilog/design)
+        [Additional](/verilog/additional)

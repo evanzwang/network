@@ -1,0 +1,92 @@
+{
+  "title": "Max Forsey",
+  "meta_description": "I like to research AI and build helpful tools \ud83d\udee0\ufe0f",
+  "main_content": "When I joined a research lab in May, I quickly realized there's a big gap between using OpenAI's API and actually training models. This guide aims to bridge that gap with carefully selected resources and a structured learning path. Visual Learning Resources These visualizations helped me understand the core concepts: Transformer Architecture : Gemma walkthrough - Great step by step explanation Neural Network Basics : 3Blue1Brown's series - Mathematical intuition made clear GPT Internals : Interactive visualization - See how GPT actually processes text Transformer Deep Dive : Transformer Explainer - Play with each component Neural Networks from Zero : Andrej Karpathy's YouTube - Excellent from-scratch implementations Illustrated Transformer : jalammar.github.io/illustrated-transformer/ - Visual explanation of the transformer Essential Reading Two books stand out for different learning styles: Understanding Deep Learning - Practical approach with great visualizations Probabilistic Machine Learning - For the math-focused learner Getting Started with Code Hardware Options Free : Google Colab - Great for learning Local : M-series Macbooks or any modern laptop for small models Software Stack Model Running : Ollama - Easiest setup LMStudio - Great UI to chat with a model locally HuggingFace - Industry standard Ideas for First Projects Try to run MiniCPM or YOLOv8 locally. Finetune a model on a dataset from Roboflow Join a competition on Kaggle Learning Resources Take DeepLearning.AI courses Join university ML clubs or classes (surrounding yourself with ML enthusiasts helps!) Stay updated via tldr.tech/ai newsletter and follow key ML researchers ( scroll through my follows for reference) Study Method I use this prompt template with LLMs to learn new concepts: Core Understanding \u2022 Category (ML/math/startups/investments): [WHY] \u2022 ELI5: [simple analogy with everyday objects] \u2022 Technical: [detailed explanation] Connections & Context \u2022 Prerequisites \u2192 [core concepts needed] \u2022 Builds into \u2192 [advanced applications] \u2022 Related to \u2192 [parallel concepts] Implementation \u2022 Industry use: [practical applications] \u2022 Common pitfalls: [key challenges] \u2022 Your context: [relevance to ML/startups/grad school] Flash Card [in the format: Question == Answer] (to be added to remnote) TL;DR [One-paragraph essence + key insight] Time Context: Today's date Explain Remember: Start small, focus on understanding fundamentals, and learn by implementing. While the gap between using APIs and training models may seem daunting at first, this structured approach and these resources can help make the transition more manageable. \u2190 Back to home",
+  "links": [
+    {
+      "url": "https://graphcore-research.github.io/posts/gemma/",
+      "text": "Gemma walkthrough"
+    },
+    {
+      "url": "https://www.3blue1brown.com/topics/neural-networks",
+      "text": "3Blue1Brown's series"
+    },
+    {
+      "url": "https://bbycroft.net/llm",
+      "text": "Interactive visualization"
+    },
+    {
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "text": "Transformer Explainer"
+    },
+    {
+      "url": "https://www.youtube.com/@AndrejKarpathy/playlists",
+      "text": "Andrej Karpathy's YouTube"
+    },
+    {
+      "url": "https://jalammar.github.io/illustrated-transformer/",
+      "text": "jalammar.github.io/illustrated-transformer/"
+    },
+    {
+      "url": "https://udlbook.github.io/udlbook/",
+      "text": "Understanding Deep Learning"
+    },
+    {
+      "url": "https://udlbook.github.io/udlfigures/",
+      "text": "visualizations"
+    },
+    {
+      "url": "https://github.com/probml/pml-book",
+      "text": "Probabilistic Machine Learning"
+    },
+    {
+      "url": "https://colab.research.google.com/",
+      "text": "Google Colab"
+    },
+    {
+      "url": "https://ollama.com/",
+      "text": "Ollama"
+    },
+    {
+      "url": "https://lmstudio.ai/",
+      "text": "LMStudio"
+    },
+    {
+      "url": "https://huggingface.co/",
+      "text": "HuggingFace"
+    },
+    {
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "text": "MiniCPM"
+    },
+    {
+      "url": "https://github.com/haermosi/yolov8",
+      "text": "YOLOv8"
+    },
+    {
+      "url": "https://universe.roboflow.com/",
+      "text": "Roboflow"
+    },
+    {
+      "url": "https://www.kaggle.com/",
+      "text": "Kaggle"
+    },
+    {
+      "url": "https://www.deeplearning.ai/courses/",
+      "text": "DeepLearning.AI courses"
+    },
+    {
+      "url": "https://tldr.tech/ai",
+      "text": "tldr.tech/ai"
+    },
+    {
+      "url": "https://x.com/max_4c",
+      "text": "my follows"
+    },
+    {
+      "url": "/",
+      "text": "\u2190 Back to home"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Kushal Thaman | Stanford Trustworthy AI Research",
+  "meta_description": "STAIR",
+  "main_content": "Kushal Thaman Email Twitter Home Page Kushal is an undergraduate student studying Computer Science and Math at Stanford University. His research interests lie in improving our mechanistic understanding of deep neural networks and answering the question of how preferences and desires can adaptively be communicated to AI systems. In this vein, his research spans learning and generalization, reward modeling, and \u2018empirical-theory\u2019 interpretability across various deep generative models. In his spare time, Kushal enjoys doing photography, outdoor adventures, and thinking about how anything from plate tectonics to moral realism works. Search for Kushal Thaman's papers on the Research page",
+  "links": [
+    {
+      "url": "mailto:kushalt@stanford.edu",
+      "text": "Email"
+    },
+    {
+      "url": "https://twitter.com/kushal1t",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://kushalthaman.github.io/",
+      "text": "Home Page"
+    },
+    {
+      "url": "/research/?search=%22Kushal%20Thaman%22%20",
+      "text": "Search for Kushal Thaman's papers on the Research\n    page"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kushal_thaman.jpg",
+      "alt": "member portrait"
+    }
+  ]
+}

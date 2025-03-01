@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!-- Enable IE Highest available mode (compatibility mode); users with GCF will have page rendered using Google Chrome Frame -->
+<title>Computational Connectomics Group</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="767">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="template" content="Dispatch 4.10.0" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Computational Connectomics Group &raquo; Feed" href="https://ccg.csail.mit.edu/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Computational Connectomics Group &raquo; Comments Feed" href="https://ccg.csail.mit.edu/?feed=comments-rss2" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="preload" href="https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot/css/webfonts/fa-solid-900.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot/css/webfonts/fa-regular-400.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot/css/webfonts/fa-brands-400.woff2" as="font" crossorigin="anonymous">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ccg.csail.mit.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ccg.csail.mit.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #104dc9;--wp--preset--color--accent-font: #ffffff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hoot-google-fonts-css' href='//fonts.googleapis.com/css?family=Oswald%3A400%7COpen+Sans%3A300%2C400%2C400i%2C700%2C700i%2C800&#038;subset=latin' media='all' />
+<link rel='stylesheet' id='lightSlider-css' href='https://ccg.csail.mit.edu/wp-content/themes/dispatch/css/lightSlider.min.css?ver=1.1.0' media='all' />
+<link rel='stylesheet' id='gallery-css' href='https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot/css/gallery.min.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot/css/font-awesome.min.css?ver=5.15.4' media='all' />
+<link rel='stylesheet' id='hoot-style-css' href='https://ccg.csail.mit.edu/wp-content/themes/dispatch/style.min.css?ver=4.10.0' media='all' />
+<link rel='stylesheet' id='hoot-wpblocks-css' href='https://ccg.csail.mit.edu/wp-content/themes/dispatch/hoot-theme/blocks/wpblocks.css?ver=4.10.0' media='all' />
+<style id='hoot-wpblocks-inline-css'>
+.hgrid {max-width: 1260px;} a {color: #104dc9;} .invert-typo, .accent-typo {background: #104dc9;color: #ffffff;} .invert-typo a, .invert-typo a:hover, .invert-typo h1, .invert-typo h2, .invert-typo h3, .invert-typo h4, .invert-typo h5, .invert-typo h6, .invert-typo .title, .accent-typo a, .accent-typo a:hover, .accent-typo h1, .accent-typo h2, .accent-typo h3, .accent-typo h4, .accent-typo h5, .accent-typo h6, .accent-typo .title {color: #ffffff;} input[type="submit"], #submit, .button {background: #104dc9;color: #ffffff;} input[type="submit"]:hover, #submit:hover, .button:hover, input[type="submit"]:focus, #submit:focus, .button:focus {background: #4071d4;color: #ffffff;} body {background-color: #ffffff;} #page-wrapper {border-color: #104dc9;} #topbar-right-inner, #topbar-right-inner input {background-color: #ffffff;} .site-logo-with-icon #site-title i {font-size: 48px;} .site-logo-mixed-image, .site-logo-mixed-image img {max-width: 200px;} .lSSlideOuter .lSPager.lSpg > li:hover a, .lSSlideOuter .lSPager.lSpg > li.active a {background-color: #104dc9;} #infinite-handle span,.lrm-form a.button, .lrm-form button, .lrm-form button[type=submit], .lrm-form #buddypress input[type=submit], .lrm-form input[type=submit] {background: #104dc9;color: #ffffff;} .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover {color: #104dc9;} :root .has-accent-color,.is-style-outline>.wp-block-button__link:not(.has-text-color), .wp-block-button__link.is-style-outline:not(.has-text-color) {color: #104dc9;} :root .has-accent-background-color,.wp-block-button__link,.wp-block-button__link:hover,.wp-block-search__button,.wp-block-search__button:hover, .wp-block-file__button,.wp-block-file__button:hover {background: #104dc9;} :root .has-accent-font-color,.wp-block-button__link,.wp-block-button__link:hover,.wp-block-search__button,.wp-block-search__button:hover, .wp-block-file__button,.wp-block-file__button:hover {color: #ffffff;} :root .has-accent-font-background-color {background: #ffffff;}
+</style>
+<script src="https://ccg.csail.mit.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-content/themes/dispatch/js/modernizr.custom.min.js?ver=2.8.3" id="modernizr-js"></script>
+<link rel="https://api.w.org/" href="https://ccg.csail.mit.edu/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="https://ccg.csail.mit.edu/index.php?rest_route=/wp/v2/pages/10" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ccg.csail.mit.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://ccg.csail.mit.edu/" />
+<link rel='shortlink' href='https://ccg.csail.mit.edu/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ccg.csail.mit.edu/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fccg.csail.mit.edu%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ccg.csail.mit.edu/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fccg.csail.mit.edu%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+left-align-text 
+{
+text-align: left;
+}		</style>
+		</head>
+
+<body class="wordpress ltr en en-us parent-theme y2025 m03 d01 h08 saturday logged-out home singular singular-page singular-page-10 page-template-template-widgetized dispatch" dir="ltr">
+
+	
+	<a href="#main" class="screen-reader-text">Skip to content</a>
+
+	<div id="page-wrapper" class=" site-stretch page-wrapper sitewrap-none sidebars0 hoot-cf7-style hoot-mapp-style hoot-jetpack-style">
+
+		
+		<header id="header" class="site-header  contrast-typo" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<div class="hgrid">
+				<div class="table hgrid-span-12">
+					<div id="branding" class="branding table-cell-mid">
+		<div id="site-logo" class="site-logo-image">
+					</div>
+	</div><!-- #branding -->
+		<div id="header-aside" class=" header-aside table-cell-mid">
+			<div class="screen-reader-text">Primary Navigation Menu</div>
+	<nav id="menu-primary" class="menu nav-menu menu-primary mobilemenu-fixed mobilesubmenu-click" role="navigation" aria-label="Primary Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+		<a class="menu-toggle" href="#"><span class="menu-toggle-text">Menu</span><i class="fas fa-bars"></i></a>
+
+		<ul id="menu-primary-items" class="menu-items sf-menu menu"><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-75"><a href="https://ccg.csail.mit.edu/" aria-current="page">Home</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://ccg.csail.mit.edu/?page_id=79">Group Members</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://ccg.csail.mit.edu/?page_id=138">Projects</a></li>
+<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="https://ccg.csail.mit.edu/?page_id=82">Publications</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://ccg.csail.mit.edu/?page_id=128">Contact</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a target="_blank" rel="noopener" href="http://www.csail.mit.edu/">CSAIL</a></li>
+</ul>
+	</nav><!-- #menu-primary -->
+		</div>
+					</div>
+			</div>
+		</header><!-- #header -->
+
+		<div id="main" class=" main">
+			
+<div id="widgetized-template-wrap" class="hgrid-stretch main-content-grid">
+
+	
+	<main id="content" class="content no-sidebar layout-none content-template-widgetized" role="main" itemprop="mainContentOfPage">
+
+									<div id="widgetized-template-html-slider" class="widgetized-template-area ">
+								<div class="widgetized-template-slider hgrid-stretch">
+									<div class="hgrid-span-12"><div class="hootslider-html-wrapper">
+<ul class="lightSlider wt-slider" data-class="wt-slider"><li class="lightSlide hootslider-html-slide hootslider-html-slide-1"  style=" background-color: #ffffff;">
+
+									<div class="hootslider-html-slide-img">
+						<img class="hootslider-html-slide-image" src="http://ccg.csail.mit.edu/wp-content/uploads/2015/07/3000x1000_home_hero_a.jpg">					</div>
+				
+				
+			</li><li class="lightSlide hootslider-html-slide hootslider-html-slide-2"  style=" background-color: #ffffff;">
+
+									<div class="hootslider-html-slide-img">
+						<img class="hootslider-html-slide-image" src="http://ccg.csail.mit.edu/wp-content/uploads/2015/07/3000x1000_home_hero_b1.jpg">					</div>
+				
+				
+			</li><li class="lightSlide hootslider-html-slide hootslider-html-slide-3"  style=" background-color: #ffffff;">
+
+									<div class="hootslider-html-slide-img">
+						<img class="hootslider-html-slide-image" src="http://ccg.csail.mit.edu/wp-content/uploads/2015/07/3000x1000_home_hero_e.jpg">					</div>
+				
+				
+			</li><li class="lightSlide hootslider-html-slide hootslider-html-slide-4"  style=" background-color: #ffffff;">
+
+									<div class="hootslider-html-slide-img">
+						<img class="hootslider-html-slide-image" src="http://ccg.csail.mit.edu/wp-content/uploads/2015/07/3000x1000_home_hero_c.jpg">					</div>
+				
+				
+			</li></ul>
+</div></div>
+								</div>
+							</div>
+															<div id="widgetized-template-area_a" class="widgetized-template-area  widgetized-template-widgetarea ">
+									<div class="hgrid">
+																					<div id="widgetized-template-area_a_1" class="hgrid-span-12">
+												<section id="text-2" class="widget widget_text"><h3 class="widget-title">Mapping the Structure of Thought</h3>			<div class="textwidget"><p>Understanding the structure and function of the nervous system is an exceptionally complex task: the system consists of thousands of cells connected to thousands of other cells in microscopic networks that extend over large volumes and exhibit a seemingly endless variety of behaviors. We believe that mapping such networks at the level of synaptic connections, and understanding the relation of their connectivity and geometry to function, will play a key role in unraveling the mystery of thought.</p>
+<p>Our group’s goal is to create, based on such microscopic connectivity and functional data, new mathematical models explaining how neural tissue computes. Our modeling spans the connectomics gamut from the behavior of individual neurons in exiguous circuits to collections of neurons in increasingly complex networks. We collaborate with neurobiologists to design experiments based on our theoretical models, and work extensively to analyze the resulting data in order to confirm or disprove our theoretical predictions.</p>
+</div>
+		</section>											</div>
+																				</div>
+								</div>
+															<div id="widgetized-template-area_b" class="widgetized-template-area  widgetized-template-widgetarea area-highlight">
+									<div class="hgrid">
+																					<div id="widgetized-template-area_b_1" class="hgrid-span-12">
+												<section id="hoot-content-blocks-widget-11" class="widget left-align-text widget_hoot-content-blocks-widget">
+<div class="content-blocks-widget-wrap content-blocks-pages topborder-none">
+	<div class="content-blocks-widget-box bottomborder-none">
+		<div class="content-blocks-widget content-blocks-widget-style2" >
+
+			
+			<div class="flush-columns">
+				<div class="content-block-row">
+								<div class="content-block-column hcolumn-1-2 content-block-1 content-block-style2">
+																		<div class="content-block no-highlight">
+
+										
+										<div class="content-block-content no-visual">
+											<h4>News</h4>
+											<div class="content-block-text"><hr />
+<ul>
+<li> May 29, 2024: Introducing Two New Papers: Tumma, Neehal, Kong, Linghao, Sawmya, Shashata, Wang, Tony T., Shavit, Nir. <a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595837v1">A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex,</a> bioRxiv:2024.05.24.595837, May 2024.<br />
+Sawmya, Shashata, Kong, Linghao, Markov, Ilia, Alistarh, Dan, Shavit, Nir. <a href="https://arxiv.org/pdf/2405.15756">Sparse Expansion and Neuronal Disentanglement,</a> ArXiv:2405.15756, May 2024. </p>
+<li>December 7, 2023: MIT SuperUROP Presentations by Heidi Durresi and Kaivu Hariharan. <a href="http://people.csail.mit.edu/joanne/kaivu-presentation.jpg" rel="attachment wp-att-292"><img fetchpriority="high" decoding="async" class="size-medium wp-image-292 aligncenter" src="http://people.csail.mit.edu/joanne/kaivu-presentation.jpg" alt="SuperUROP Presentations, December 7, 2023,  " width="300" height="225" /></a> <a href="http://people.csail.mit.edu/joanne/heidi-presentation.jpg" rel="attachment wp-att-292"><img decoding="async" class="size-medium wp-image-292 aligncenter" src="http://people.csail.mit.edu/joanne/heidi-presentation.jpg" alt="SuperUROP Presentations, December 7, 2023 " width="300" height="225" /></a><br />
+<hr />
+<li>October 6, 2023: <a href="https://www.csail.mit.edu/news/nih-awards-funding-brain-connects-project-involving-csail-researchers">NIH awards funding to BRAIN CONNECTS project involving CSAIL researchers</a>
+<li>September 5, 2023: <a href="https://youtu.be/vgsA3pSzw2c?si=-9mnf-R7m5MSxIjP">SmartEM project</a> posted on Forbes (Youtube video).
+<li>May 31, 2023: Lu Mi and Michael Coulombe&#8217;s graduation (with Nir Shavit, Tony Wang, Linghao Kong) <a href="http://people.csail.mit.edu/joanne/lumi-michael-graduation.JPG" rel="attachment wp-att-292"><img decoding="async" class="size-medium wp-image-292 aligncenter" src="http://people.csail.mit.edu/joanne/lumi-michael-graduation.JPG" alt="MIT Commencement: May 31, 2023,  " width="300" height="225" /></a> <a href="http://people.csail.mit.edu/joanne/LuMi-graduation.JPG" rel="attachment wp-att-292"><img decoding="async" class="size-medium wp-image-292 aligncenter" src="http://people.csail.mit.edu/joanne/LuMi-graduation.JPG" alt="MIT Commencement: May 31, 2023,  " width="300" height="225" /></a><br />
+<hr />
+<li>Group member Tony Wang&#8217;s research on adversarially exploiting superhuman Go AIs featured in the <a href="https://archive.is/tDYsY">Financial Times!</a>
+<li>Lu Mi defended her thesis &#8220;Deep Learning Tools for Next-Generation Connectomics&#8221; on August 18, 2022.  Check out her <a href="http://people.csail.mit.edu/joanne/Lu_Mi_defense.pptx">slides</a>.
+<li>Coming soon in Nature! &#8220;We are delighted to accept your manuscript entitled &#8220;Connectomes across development reveal principles of brain maturation&#8221; for publication in Nature. Thank you for choosing to publish your interesting work with us.&#8221; 🙂 #worm, #ai, #connectome.  To those who are curious about the details, here is a <a href="https://lnkd.in/ekduDPY">longer preprint format.</a>
+<li>July 2021: David Rolnick group ex phd named to the <a href="https://lnkd.in/dqNjm7T">MIT Technology Review&#8217;s list of “Innovators Under 35”</a>, and am thrilled to see increasing interest across the AI community in cross-disciplinary partnerships for climate action.
+<li> March 2020: <a href="https://openreview.net/pdf?id=ryenvpEKDr">A Constructive Prediction of the Generalization Across Scales</a> by Jonathan S. Rosenfeld, Amir Rosenfeld, Yonatan Belinkov, and Nir Shavit, ICLR 2020.  This paper has been featured in Andrew Ng’s news, <a href="https://blog.deeplearning.ai/blog/the-batch-tracking-chinas-covid-19-revival-a-robot-star-is-born-discovering-new-antibiotics-rightsizing-neural-networks">The Batch.</a>
+<li> February 2020: <a href="https://www.csail.mit.edu/news/predicting-how-well-neural-networks-will-scale">Predicting How Well Neural Networks Will Scale</a> Written by Adam Conner-Simons, MIT CSAIL.
+<li> June 2019: <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.html">Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics</a><br />
+by Yaron Meirovitch, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Nir Shavit; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 8425-8435.</p>
+<li><a href="https://ai.intel.com/deep-learning-study-brain-improve-deep-learning/" target="_blank" rel="noopener">March 27, 2018: Blog on &#8220;Deep Learning to Study the Brain to Improve Deep Learning&#8221; is Live.</a></li>
+<li><a href="http://ppopp17.sigplan.org/info/conference-program">January 2017: Shavit Lab&#8217;s PPoPP 2017 paper,<br />
+A Multicore Path to Connectomics-on-Demand is selected for<br />
+Best Paper Nominee.</a></li>
+</ul>
+<hr />
+<p><a href="http://ccg.csail.mit.edu/wp-content/uploads/2015/08/Hayk-SaribekyanNir-Shavit.jpg" rel="attachment wp-att-292"><img decoding="async" class="size-medium wp-image-292 aligncenter" src="http://ccg.csail.mit.edu/wp-content/uploads/2015/08/Hayk-SaribekyanNir-Shavit-300x225.jpg" alt="MIT Commencement: June 3, 2016-Hayk SaribekyanNir-Shavit" width="300" height="225" srcset="https://ccg.csail.mit.edu/wp-content/uploads/2015/08/Hayk-SaribekyanNir-Shavit-300x225.jpg 300w, https://ccg.csail.mit.edu/wp-content/uploads/2015/08/Hayk-SaribekyanNir-Shavit-420x315.jpg 420w, https://ccg.csail.mit.edu/wp-content/uploads/2015/08/Hayk-SaribekyanNir-Shavit.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<ul>
+<li>June 3, 2016, MIT Commencement: Congratulations to new graduates,<br />
+Gregory Odor and Hayk Saribekyan!<br />
+(Pictured: Hayk Saribekyan and Professor Nir Shavit.)</li>
+</ul>
+<hr />
+<ul>
+<li><a href="http://www.iarpa.gov/index.php/research-programs/microns">February 2016: The Shavit Lab has been awarded research funding under the IARPA Machine Intelligence from Cortical Networks (MICrONS) project.</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="http://www.techrepublic.com/article/ibms-brain-like-chip-and-the-quest-for-a-cognitive-planet">October 2015: Brain-like chip.</a></li>
+</ul>
+<p><a href="http://accessibility.mit.edu/">Accessibility</a></p>
+</div>
+										</div>
+
+									</div>
+								</div>
+								<div class="content-block-column hcolumn-1-2 content-block-2 content-block-style2">
+																		<div class="content-block no-highlight">
+
+										
+										<div class="content-block-content no-visual">
+											<h4>Projects</h4>
+											<div class="content-block-text"><p><strong>High Throughput Connectomics</strong><br />
+The current design trend in large scale machine learning is to use distributed clusters of CPUs and GPUs with MapReduce-style programming. Some have been led to believe that this type of horizontal scaling can reduce or even eliminate the need for traditional algorithm development, careful parallelization, and performance engineering. This paper is a case study showing the contrary: that the benefits of algorithms, parallelization, and performance engineering, can sometimes be so vast that it is possible to solve &#8220;clusterscale&#8221; problems on a single commodity multicore machine.</p>
+<p>Connectomics is an emerging area of neurobiology that uses cutting edge machine learning and image processing to extract brain connectivity graphs from electron microscopy images. It has long been assumed that the processing of connectomics data will require mass storage, farms of CPU/GPUs, and will take months (if not years) of processing time. We present a high-throughput connectomics-ondemand system that runs on a multicore machine with less than 100 cores and extracts connectomes at the terabyte per hour pace of modern electron microscopes.</p>
+<p><a href="http://accessibility.mit.edu/">Accessibility</a></p>
+</div>
+										</div>
+
+									</div>
+								</div></div>			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+</section>											</div>
+																				</div>
+								</div>
+															<div id="widgetized-template-area_c" class="widgetized-template-area  widgetized-template-widgetarea ">
+									<div class="hgrid">
+																					<div id="widgetized-template-area_c_1" class="hgrid-span-12">
+												<section id="hoot-content-blocks-widget-12" class="widget widget_hoot-content-blocks-widget">
+<div class="content-blocks-widget-wrap content-blocks-pages topborder-none">
+	<div class="content-blocks-widget-box bottomborder-none">
+		<div class="content-blocks-widget content-blocks-widget-style1" >
+
+			
+			<div class="flush-columns">
+				<div class="content-block-row">
+								<div class="content-block-column hcolumn-1-5 content-block-1 content-block-style1">
+																		<div class="content-block ">
+
+										<div class="content-block-visual content-block-icon icon-style-circle contrast-typo ">
+												<a href="https://ccg.csail.mit.edu/?page_id=57" class="content-block-link">													<i class="fa-user fas"></i>
+												</a>											</div>
+										<div class="content-block-content content-block-content-hasicon">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=57" class="content-block-link">Principal Investigator</a></h4>
+											<div class="content-block-text"><p>Nir Shavit</p>
+<p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=57" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div>
+								<div class="content-block-column hcolumn-1-5 content-block-2 content-block-style1">
+																		<div class="content-block ">
+
+										<div class="content-block-visual content-block-icon icon-style-circle contrast-typo ">
+												<a href="https://ccg.csail.mit.edu/?page_id=315" class="content-block-link">													<i class="fa-users fas"></i>
+												</a>											</div>
+										<div class="content-block-content content-block-content-hasicon">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=315" class="content-block-link">Research Scientist</a></h4>
+											<div class="content-block-text"><p>Alexander Matveev</p>
+<p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=315" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div>
+								<div class="content-block-column hcolumn-1-5 content-block-3 content-block-style1">
+																		<div class="content-block ">
+
+										<div class="content-block-visual content-block-icon icon-style-circle contrast-typo ">
+												<a href="https://ccg.csail.mit.edu/?page_id=60" class="content-block-link">													<i class="fa-users fas"></i>
+												</a>											</div>
+										<div class="content-block-content content-block-content-hasicon">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=60" class="content-block-link">Postdoc</a></h4>
+											<div class="content-block-text"><p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=60" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div>
+								<div class="content-block-column hcolumn-1-5 content-block-4 content-block-style1">
+																		<div class="content-block ">
+
+										<div class="content-block-visual content-block-icon icon-style-circle contrast-typo ">
+												<a href="https://ccg.csail.mit.edu/?page_id=63" class="content-block-link">													<i class="fa-users fas"></i>
+												</a>											</div>
+										<div class="content-block-content content-block-content-hasicon">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=63" class="content-block-link">Graduate Students</a></h4>
+											<div class="content-block-text"><p>Lu Mi Jonathan Rosenfeld</p>
+<p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=63" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div>
+								<div class="content-block-column hcolumn-1-5 content-block-5 content-block-style1">
+																		<div class="content-block ">
+
+										<div class="content-block-visual content-block-icon icon-style-circle contrast-typo ">
+												<a href="https://ccg.csail.mit.edu/?page_id=98" class="content-block-link">													<i class="fa-users fas"></i>
+												</a>											</div>
+										<div class="content-block-content content-block-content-hasicon">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=98" class="content-block-link">Alumni</a></h4>
+											<div class="content-block-text"><p>David Budden Jonathan Stoller Gergely Odor Victor Jakubiuk Quan Nguyen Robert Radway</p>
+<p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=98" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div></div>			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+</section>											</div>
+																				</div>
+								</div>
+															<div id="widgetized-template-area_d" class="widgetized-template-area  widgetized-template-widgetarea area-highlight">
+									<div class="hgrid">
+																					<div id="widgetized-template-area_d_1" class="hgrid-span-6">
+												<section id="hoot-content-blocks-widget-9" class="widget widget_hoot-content-blocks-widget">
+<div class="content-blocks-widget-wrap content-blocks-pages topborder-none">
+	<div class="content-blocks-widget-box bottomborder-none">
+		<div class="content-blocks-widget content-blocks-widget-style2" >
+
+			
+			<div class="flush-columns">
+				<div class="content-block-row">
+								<div class="content-block-column hcolumn-1-1 content-block-1 content-block-style2">
+																		<div class="content-block no-highlight">
+
+										
+										<div class="content-block-content no-visual">
+											<h4>Publications</h4>
+											<div class="content-block-text"><ul>
+<li><strong>Tumma, Neehal, Kong, Linghao, Sawmya, Shashata, Wang, Tony T., Shavit, Nir.</strong> <a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595837v1">A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex,</a> bioRxiv:2024.05.24.595837, May 2024.
+<li><strong>Sawmya, Shashata, Kong, Linghao, Markov, Ilia, Alistarh, Dan, Shavit, Nir.  </strong> <a href="https://arxiv.org/pdf/2405.15756">Sparse Expansion and Neuronal Disentanglement,</a> ArXiv:2405.15756, May 2024.
+<li><strong>Wang, Tony T., Wang, Miles, Hariharan, Kaivalya, Shavit, Nir. </strong>  <a href="https://arxiv.org/abs/2312.08793">Forbidden Facts: An Investigation of Competing Objectives in Llama 2</a>. <em>NeurIPS 2023</em> ATTRIB and SoLaR Workshops, December 2023.
+<li> <strong>Meirovitch, Yaron, Park, Core Francisco, Mi, Lu, Potocek, Pavel, Sawmya, Shashata, Li, Yicong, Wu, Yuelong, Schalek, Richard, Pfister, Hanspeter, Schoenmakers, Remco, Peemen, Maurice, Lichtman, Jeff W., Samual, Aravinthan, Shavit, Nir. </strong> <a href="https://www.biorxiv.org/content/10.1101/2023.10.05.561103v1">SmartEM: Machine-Learning Guided Electron Microscopy.</a> bioRxiv: 2023.10.05.561103v1, October 2023.
+<li> <strong>Li, Yicong, Meirovitch, Yaron, Kuan, Aaron T., Phelps, Jasper S., Pacureanu, Alexandra, Lee, Wei-Chung Allen, Shavit, Nir, Mi, Lu.</strong> <a href="https://doi.org/10.48550/arXiv.2303.00882">X-Ray2EM: Uncertainty-Aware Cross-Modality Image Reconstruction from X-Ray to Electron Microscopy in Connectomics.</a>  <em>IEEE &#8211; ISBI 2023: International Symposium on Biomedical Imaging</em>, April 2023.  <a href="https://yicong-li.github.io/files/ISBI2023_X-Ray2EM_Poster.pdf">Poster Link</a> <a href="https://www.bilibili.com/video/BV1aM411N76j/?share_source=copy_web&#038;vd_source=9770b800f47d74823c57932440c0fe89">Video Link</a>
+<li><strong>Nguyen, Tri, Narwani, Mukul, Larson, Mark, Li, Yicong, Xie, Shuhan, Pfister, Hanspeter, Wei, Donglai, Shavit, Nir, Mi, Lu, Pacureanu, Alexandra, Lee, Wei-Chung, Kuan, Aaron T. </strong> The XPRESS challenge: Xray Projectomic Reconstruction &#8211; Extracting Segmentation with Skeletons.  <em>IEEE &#8211; ISBI 2023: International Symposium on Biomedical Imaging</em>, April 2023.
+<li><strong>Wang, Tony T., Zablotchi, Igor, Shavit, N., Rosenfeld, Jonathan S.</strong> <a href="https://arxiv.org/pdf/2302.07348.pdf">Cliff-Learning.</a> arXiv:2302.07348, February 2023.
+<li><strong>Mi, Lu.</strong> Deep Learning Tools for Next-Generation Connectomics. <em>PhD thesis,</em> MIT Department of Electrical Engineering and Computer Science, Cambridge, MA., August 2022. <a href="http://people.csail.mit.edu/joanne/Lu_Mi_defense.pptx">Slides.</a>
+<li><strong>Mi, Lu, Wang, Hao, Tian, Yonglong, He, Hao, Shavit, Nir.</strong> Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate. <em>36th AAAI Conference on Artificial Intelligence- A virtual conference</em>, February 22-March 1, 2022.
+<li><strong>Mi, Lu,  Xu, Richard, Prakhya, Sridhama, Lin, Albert,  Shavit, Nir, Samuel, Aravithan D.T. and Turaga, Srinivas C. </strong>  Connectome-Constrained Latent Variable Models of Whole-Brain Neural Activity.  <em>Tenth International Conference on Learning Representations- ICLR 2022</em> (Virtual), April 2022.
+<li><strong>Witvliet, Daniel, Mulcahy, Ben, Mitchell, James K., Meirovitch, Yaron, Berger, Daniel R., Wu, Yuelong, Liu, Yufang, Koh, Wan Xian, Parvathala, Rajeev, Holmyard, Douglas, Schalek, Richard L., Shavit, Nir, Chisholm, Andrew D., Lichtman, Jeff W., Samuel, Aravinthan D.T., and Zhen, Mei.</strong> <a href="https://www.nature.com/articles/s41586-021-03778-8">Connectomes across development reveal principles of brain maturation in C. elegans.</a> <em>Nature</em>, 596, pages 257–261, 2021.  Also, <a href="https://doi.org/10.1101/2020.04.30.066209">bioRxiv 2020.04.30.066209 https://doi.org/10.1101/2020.04.30.066209.</a>
+<li><strong>Rosenfeld, Jonathan S., Frankle, Jonathan, Carbin, Michael, and Shavit, Nir.</strong> <a href="https://icml.cc/Conferences/2021/Schedule?showEvent=9937">On the Predictability of Pruning Across Scales.</a> ICML 2021 Poster Session. Also, <a href="https://arxiv.org/abs/2006.10621">arXiv:2006.10621</a>, June 2020.
+<li><strong>Mi, Lu, Wang, Hao, Tian, Yonglong, and Shavit, Nir. </strong> <a href="http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-080.pdf">Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate</a>.  ICML Workshop on Uncertainty and Robustness in Deep Learning,</em> July 2021.
+<li><strong>Mi, Lu, Hang Zhao, Hang, Nash, Charlie, Jin, Xiaohan, Gao, Jiyang, Sun, Chen, Schmid, Cordelia, Shavit, Nir, Chai, Yuning, Anguelov, Dragomir.</strong> <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.pdf">HDMapGen: A Hierarchical Graph Generative Model of High Definition Map.</a> <em>Conference on Computer Vision and Pattern Recognition (CVPR 2021)</em>, June 2021.  <a href="https://openaccess.thecvf.com/content/CVPR2021/supplemental/Mi_HDMapGen_A_Hierarchical_CVPR_2021_supplemental.pdf">Supplementary Materials.</a> <a href="https://drive.google.com/drive/folders/1U163r7Ym1t6sSPUp_21GA6SwBNm9DclU">Video, poster, and slides.</a>  Also, <a href="https://arxiv.org/pdf/2106.14880.pdf">CoRR abs/2106.14880</a>, 2021.
+<li><strong>Mi, Lu, Wang, Hao, Meirovitch, Yaron, Schalek, Richard, Turaga, Srinivas C., Lichtman, Jeff W., Samuel, Aravinthan D.T, Shavit, N.</strong> <a href="https://arxiv.org/pdf/2101.02746.pdf">Learning Guided Electron Microscopy with Active Acquisition.</a> CoRR abs/2101.02746, 2021.
+<p><strong>Mi, Lu, He, Tianxing, Park, Core Francisco, Wang, Hao, Wang, Yue, Shavit, Nir. </strong> <a href="https://arxiv.org/pdf/2110.06421.pdf">Revisiting Latent-Space Interpolation via a Quantitative Evaluation Framework.</a>  CoRR abs/2110.06421, 2021.</p>
+<li><strong>Mi, Lu, Wang, Hao, Meirovitch, Yaron, Schalek, Richard, Turaga, Srinivas C., Lichtman, Jeff W., Samuel, Aravinthan D. T. and Shavit, Nir. </strong> <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_8">Learning Guided Electron Microscopy with Active Acquisition.</a>  <em>23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, October 2020. <a href="https://drive.google.com/drive/folders/1AYOLLUYGuIkXHB0EH_LIs0w4kTWOY68b?usp=sharing">Presentation materials.</a>
+<li><strong>Rosenfeld, Jonathan S., Frankle, Jonathan, Carbin, Michael, and Shavit, Nir.</strong> <a href="https://arxiv.org/abs/2006.10621">On the Predictability of Pruning Across Scales.</a> arXiv:2006.10621, June 2020.
+<li> <strong>Rosenfeld, Jonathan S., Rosenfeld, Amir, Belinkov, Yonatan and Shavit, Nir. </strong> <a href="https://openreview.net/pdf?id=ryenvpEKDr">A Constructive Prediction of the Generalization Across Scales</a> by , ICLR 2020.  This paper has been featured in Andrew Ng’s news, <a href="https://blog.deeplearning.ai/blog/the-batch-tracking-chinas-covid-19-revival-a-robot-star-is-born-discovering-new-antibiotics-rightsizing-neural-networks">The Batch.</a>
+<li><strong>Witvliet, Daniel, Mulcahy, Ben, Mitchell, James K., Meirovitch, Yaron, Berger, Daniel R., Wu, Yuelong, Liu, Yufang, Koh, Wan Xian, Parvathala, Rajeev, Holmyard, Douglas, Schalek, Richard L., Shavit, Nir, Chisholm, Andrew D., Lichtman, Jeff W., Samuel, Aravinthan D.T., and Zhen, Mei.</strong> <a href="https://doi.org/10.1101/2020.04.30.066209">Connectomes across development reveal principles of brain maturation in C. elegans.</a> bioRxiv 2020.04.30.066209 https://doi.org/10.1101/2020.04.30.066209.
+<li><strong> Kurtz, Mark, Kopinsky, Justin, Gelashvili, Rati, Matveev, Alexander, Carr, John, Goin, Michael, Leiserson, William M.,  Moore, Sage, Shavit, Nir, Alistarh, Dan.</strong><br />
+<a  href="http://proceedings.mlr.press/v119/kurtz20a/kurtz20a.pdf">Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks.</a> Proceedings of the 37th International Conference on Machine Learning (ICML 2020), Proceedings of Machine Learning Research 119, PMLR 2020, pages 5533-5543, July 2020. </p>
+<li><strong>Mi, Lu, Wang, Hao, Tian, Yonglong, and Shavit, Nir. </strong><a href="https://arxiv.org/abs/1910.04858">Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate</a>. arXiv: 1910.04858, 2019.
+<li><strong>Rosenfeld, Jonathan S., Rosenfeld, Amir, Belinkov, Yonatan, and Shavit, Nir.</strong>  <a href="https://openreview.net/pdf?id=ryenvpEKDr">A Constructive Prediction of the Generalization Error Across Scales</a>.  <em>Proceedings of the International Conference on Learning Representations (ICLR 2020),</em> Addis Ababa, Ethiopia, April 2020.  Also,  <a href="https://arxiv.org/abs/1909.12673">arXiv:1909.12673</a>, September 2019.
+<li><strong>Meirovitch, Yaron, Mi, Lu, Saribekyan, Hayk, Matveev, Alexander, Rolnick, David, and Shavit, Nir.</strong>  Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics.  <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.html"><em>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em></a>, pp. 8425-8435, 2019.
+<li><strong>Witvliet, Daniel, Mulcahy, Ben, Mitchell, James K., Meirovitch,  Yaron, Berger, Daniel R., Holmyard, Douglas, Schalek, Richard L., Cook, Steven J., Xian Koh, Wan, Neubauer, Marianna, Rehaluk, Christine, Wang, ZiTong, Kersen, David, Chisholm, Andrew D., Shavit, Nir, Lichtman, Jeffrey W., Samuel, Aravinthan, and Zhen, Mei.  </strong>Invariant, stochastic, and developmentally regulated synapses constitute the C. elegans connectome from isogenic individuals.  Poster Presentation at <em>Cosyne 2019</em>.</li>
+<li><strong>Meirovitch, Yaron, Mi, Lu, Saribekyan, Hayk, Matveev, Alexander, Rolnick, David, Wierzynski, Casimir, and <span class="this-person">Shavit, Nir.</span></strong> <a href="https://arxiv.org/pdf/1812.01157.pdf">Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics</a>. CoRR abs/1812.01157, 2018.</li>
+<li><strong>Santurkar, Shibani, Budden, David M., and Shavit, Nir.</strong>  Generative Compression.<em> PCS 2018</em>.  Also, <a href="https://arxiv.org/abs/1703.01467">CoRR.abs/1703.01467, 2017.</a></li>
+<li><strong>Budden, David, Matveev, Alexander, Santurkar, Shibani,  Chaudhuri, Shraman Ray, and Shavit, Nir. </strong> Deep Tensor Convolution on Multicores. <em>  ICML 2017.  </em>Also, <a href="https://arxiv.org/pdf/1611.06565.pdf">CoRR abs/1611.06565</a>, 2016.</li>
+<li><strong>Matveev, A., Meirovitch, Y., Saribekyan, H., Jakubiuk, W., Kaler, T., Odor, G., Budden, D., Zlateski, A., and Shavit, N.</strong> A Multicore Path to Connectomics-on-Demand. <em>PPoPP 2017</em> (Best Paper Nominee).</li>
+<li><strong>Rolnick, David, Meirovitch, Yaron, Parag, Toufiq, Pfister, Hanspeter,  Jain, Vien, Lichtman, Jeff W., Boyden, Edward S., and Shavit, Nir</strong>. <a href="https://arxiv.org/pdf/1705.10882.pdf">Morphological error detection in 3d segmentations</a>.  <i>CoRR.abs/1705.10882, </i>2017.</li>
+<li><strong>Rolnick, David, Veit, Andreas,  Belongie, Serge J., and <span class="this-person">Shavit, Nir.</span></strong> <a href="https://arxiv.org/pdf/1705.10694.pdf">Deep Learning is Robust to Massive Label Noise.</a> CoRR abs/1705.10694, 2017.</li>
+<li><strong>Santurkar, Shibani, Budden, David, Matveev, Alexander, Berlin, Heather, Saribekyan, Hayk, Meirovitch, Yaron, and Shavit, Nir. </strong><a href="https://arxiv.org/pdf/1702.07386.pdf">Toward Streaming Synapse Detection with Compositional ConvNets</a><strong>. </strong>CoRR abs/1702.07386, 2017.</li>
+<li><strong>Meirovitch, Y., Matveev, A., Saribekyan, H., Budden, D., Rolnick, D., Odor, G., Knowles-Barley, S., Thouis, R., Pfister, H., Lichtman, J., Shavit, N.</strong><a href="https://arxiv.org/abs/1612.02120" target="_blank" rel="noopener">A Multi-Pass Approach to Large-Scale Connectomics.</a>  CoRR abs/1612.02120, 2016.</li>
+<li><strong>Shavit, Nir</strong>. A Multicore Path to Connectomics-on-Demand. <em>SPAA 2016</em>.</li>
+<li><strong>Lichtman, J., Pfister, H., and Shavit, N.</strong><strong> </strong><a href="http://www.ncbi.nlm.nih.gov/pubmed/25349911" target="_blank" rel="noopener">The big data challenges of connectomics.</a> <em>Nature Neuroscience</em>, 17, pp. 1448-1454, November 2014.</li>
+<li><strong>Allen-Zhu, Zeyuan, Gelashvili, Rati, Micali, Silvio, and Shavit, Nir.  </strong> <a href="http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Theoretical%20Neuroscience/Johnson-Lindestrauss%20Compression%20with%20Neuroscience-Based%20Constraints.pdf" target="_blank" rel="noopener">Sparse sign-consistent Johnson-Lindenstrauss matrices: Compression with neuroscience-based constraints. </a> <em>Proceedings of the National Academy of Sciences</em> USA; 111(47), pp. 16872-16876, October 2014.</li>
+</ul>
+<p><a href="http://accessibility.mit.edu/">Accessibility</a></p>
+</div>
+										</div>
+
+									</div>
+								</div></div>			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+</section>											</div>
+																						<div id="widgetized-template-area_d_2" class="hgrid-span-6">
+												<section id="hoot-content-blocks-widget-14" class="widget widget_hoot-content-blocks-widget">
+<div class="content-blocks-widget-wrap content-blocks-pages topborder-none">
+	<div class="content-blocks-widget-box bottomborder-none">
+		<div class="content-blocks-widget content-blocks-widget-style2" >
+
+			
+			<div class="flush-columns">
+				<div class="content-block-row">
+								<div class="content-block-column hcolumn-1-1 content-block-1 content-block-style2">
+																		<div class="content-block no-highlight">
+
+										
+										<div class="content-block-content no-visual">
+											<h4><a href="https://ccg.csail.mit.edu/?page_id=125" class="content-block-link">Resources</a></h4>
+											<div class="content-block-text"><p>No resources yet! But check back in soon.</p>
+<p class="more-link"><a href="https://ccg.csail.mit.edu/?page_id=125" class="content-block-link">Read More &rarr;</a></p></div>
+										</div>
+
+									</div>
+								</div></div>			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+</section>											</div>
+																				</div>
+								</div>
+							
+	</main><!-- #content -->
+
+	
+	
+</div><!-- .hgrid -->
+
+		</div><!-- #main -->
+
+		
+		
+<footer id="footer" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" class=" footer hgrid-stretch contrast-typo">
+	<div class="hgrid">
+					<div class="hgrid-span-4 footer-column">
+				<section id="hoot-social-icons-widget-2" class="widget widget_hoot-social-icons-widget">
+<div class="social-icons-widget social-icons-medium"><a href="https://www.facebook.com/MITCSAIL" class=" social-icons-icon  fa-facebook-block" target="_blank">
+					<i class="fa-facebook-f fab"></i>
+				</a><a href="https://twitter.com/mit_csail?lang=en" class=" social-icons-icon  fa-twitter-block" target="_blank">
+					<i class="fa-twitter fab"></i>
+				</a></div></section>			</div>
+					<div class="hgrid-span-4 footer-column">
+							</div>
+					<div class="hgrid-span-4 footer-column">
+							</div>
+			</div>
+</footer><!-- #footer -->
+
+
+			<div id="post-footer" class="hgrid-stretch contrast-typo">
+		<div class="hgrid">
+			<div class="hgrid-span-12">
+				<p class="credit small">
+					Site by <a href="http://arielplotkin.com">Ariel Plotkin Designs<a />				</p><!-- .credit -->
+			</div>
+		</div>
+	</div>
+
+	</div><!-- #page-wrapper -->
+
+	<script src="https://ccg.csail.mit.edu/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-content/themes/dispatch/js/jquery.superfish.min.js?ver=1.7.5" id="superfish-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-content/themes/dispatch/js/jquery.lightSlider.min.js?ver=1.1.1" id="lightSlider-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-content/themes/dispatch/js/jquery.fitvids.min.js?ver=1.1" id="fitvids-js"></script>
+<script src="https://ccg.csail.mit.edu/wp-content/themes/dispatch/js/hoot.theme.min.js?ver=4.10.0" id="hoot-theme-js"></script>
+
+</body>
+</html>

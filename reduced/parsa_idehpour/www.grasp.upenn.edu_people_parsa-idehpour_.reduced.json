@@ -1,0 +1,37 @@
+{
+  "title": "Parsa Idehpour - GRASP Lab",
+  "meta_description": "",
+  "main_content": "People Student Parsa Idehpour Robotics MSE - Accelerated Master's",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/events/",
+      "text": ""
+    },
+    {
+      "url": "https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-john-suehle/",
+      "text": "Spring 2025 GRASP SFI: John Suehle, Image Engineering, \u201cThe Magic\u2026"
+    },
+    {
+      "url": "/role/student/",
+      "text": "Student"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/img/svgs/logo.svg",
+      "alt": "Penn Engineering GRASP Laboratory"
+    },
+    {
+      "src": "/wp-content/uploads/2020/10/generic-avatar.png",
+      "alt": "Parsa Idehpour"
+    },
+    {
+      "src": "/wp-content/uploads/2020/10/generic-avatar.png",
+      "alt": "Parsa Idehpour"
+    }
+  ]
+}

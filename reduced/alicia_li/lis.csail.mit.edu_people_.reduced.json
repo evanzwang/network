@@ -1,0 +1,649 @@
+{
+  "title": "People \u2013 Learning and Intelligent Systems Group",
+  "meta_description": "",
+  "main_content": "Meet the Team The people behind the LIS Group. Members of LIS work in a broad set of research areas. Our research brings together ideas from motion and task planning, machine learning, reinforcement learning, and computer vision to synthesize robot systems that are capable of behaving intelligently across a wide range of problem domains. // Principal Investigators Tom\u00e1s Lozano-P\u00e9rez Professor of Computer Science & Engineering, MIT Leslie Pack Kaelbling Professor of Computer Science & Engineering, MIT // PhD Students Aditya Agarwal Sahit Chintalapudi Aiden Curtis Katie Everett Xiaolin Fang Nishanth Kumar Jiayuan Mao Willie McClinton William Shen Zhutian Yang Ben Zandonati // MEng Students Eugenia Feng Quincy Johnson Tarang Lunawat Ryan Yang Ethan Yang // UROP Students Jing Cao Abe Ejilemele Alicia Li Katherine Lin Yajvan Ravan Benjamin Soria Thiago Veloso // Furry Friends of the Lab Nomsy Silver Jebbie Beasley Rey Niko Ben Gehring Marble // Alumni Postdoctoral Alumni Chris Amato Kristian Kersting George Konidaris Terran Lane Bhaskara Marthi Zvika Marx Jorge Mendez Mendez Brian Milch Kevin Murphy Tim Oates Frans Oliehoek Luis Ortiz Hanna Pasula Robert Platt Michael Rosenstein Yoonchang Sung PhD Alumni Ferran Alet Ariel Anders Meg Aycinena Patrick Barragan Jennifer Barry Yu-Han Chang Rohan Chitnis Han-Pang \u201cBon Bon\u201d Chiu Sam Davies Ashwin Deshpande Yilun Du Sarah Finney Natalia Hernandez Gardiol Caelan Garrett Clement Gehring Jared Glover Gustavo Goretkin Rachel Holladay Ben Hong Kaijen Hsiao Kenji Kawaguchi Beomjoon Kim Owen MacIndoe Nick Matsakis James McLurkin Caris Moses Leonid Peshkin Michael Ross Dan Roy Tom Silver Kurt Steinkraus Selim Temizer Zi Wang Lawson L.S. Wong Luke Zettlemoyer MEng Alumni Ashay Athalye Brian Axelrod Brandon Baraban Ignacio Perez Bedoya Anika Cheerla Bart\u0142omiej Cie\u015blar Shiloh Curtis Dylan Doblar Annie Feng Rodrigo Gomes Jose Muguira Iturralde Adarsh Jeewajee Ciara Kamahele Alex LaGrassa Gilwoo Lee Amber Li Zhezheng Luo Lilian Luong Luke Shimanuki Jongu Shin Amruth Venkatraman Christina Wettersten Dani White Other Alumni Anurag Ajay Qingquan (Bob) Bao Jagdeep Bhatia Ethan Elchun Kathryn Le Rachel Lu Prince Patel Reece Shuttleworth Parul Singh Anirudh Valiveru Warren Wang Jansen Wong Zachary Zhang Mike Benjamin Gabriel Cruz Paolo Gentili Shreyas Kapur Jiwon Kim Zelda Mariet Bruno Scherrer Yo Shavit Skye Thompson Erica Weng Victoria Xia Charlotte Zhu",
+  "links": [
+    {
+      "url": "http://people.csail.mit.edu/tlp/",
+      "text": ""
+    },
+    {
+      "url": "http://people.csail.mit.edu/tlp/",
+      "text": "Tom\u00e1s Lozano-P\u00e9rez"
+    },
+    {
+      "url": "http://people.csail.mit.edu/lpk/",
+      "text": ""
+    },
+    {
+      "url": "http://people.csail.mit.edu/lpk/",
+      "text": "Leslie Pack Kaelbling"
+    },
+    {
+      "url": "https://skymanaditya1.github.io/",
+      "text": "Aditya Agarwal"
+    },
+    {
+      "url": "http://sahitc.com/",
+      "text": "Sahit Chintalapudi"
+    },
+    {
+      "url": "https://aidanreececurtis.com/",
+      "text": "Aiden Curtis"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Katie Everett"
+    },
+    {
+      "url": "https://fang-xiaolin.github.io/",
+      "text": "Xiaolin Fang"
+    },
+    {
+      "url": "https://nishanthjkumar.com/",
+      "text": "Nishanth Kumar"
+    },
+    {
+      "url": "http://jiayuanm.com/",
+      "text": "Jiayuan Mao"
+    },
+    {
+      "url": "https://wmcclinton.github.io/",
+      "text": "Willie McClinton"
+    },
+    {
+      "url": "https://shen.nz",
+      "text": "William Shen"
+    },
+    {
+      "url": "https://zt-yang.com",
+      "text": "Zhutian Yang"
+    },
+    {
+      "url": "https://www.benzandonati.co.uk/",
+      "text": "Ben Zandonati"
+    },
+    {
+      "url": "https://www.linkedin.com/in/eugenia-feng/",
+      "text": "Eugenia Feng"
+    },
+    {
+      "url": "https://qujohn314.github.io/",
+      "text": "Quincy Johnson"
+    },
+    {
+      "url": "https://www.linkedin.com/in/tarang-lunawat",
+      "text": "Tarang Lunawat"
+    },
+    {
+      "url": "https://ethany.dev/",
+      "text": "Ethan Yang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jingcao26/",
+      "text": "Jing Cao"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/people/#",
+      "text": "Abe Ejilemele"
+    },
+    {
+      "url": "https://www.mit.edu/~aliciali/",
+      "text": "Alicia Li"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Katherine Lin"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Yajvan Ravan"
+    },
+    {
+      "url": "https://sites.google.com/view/benjamin-soria-portfolio",
+      "text": "Benjamin Soria"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Thiago Veloso"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/members/ben/",
+      "text": "Ben Gehring"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Marble"
+    },
+    {
+      "url": "http://people.csail.mit.edu/camato/",
+      "text": "Chris Amato"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=QY-earAAAAAJ",
+      "text": "Kristian Kersting"
+    },
+    {
+      "url": "http://cs.brown.edu/people/gdk/",
+      "text": "George Konidaris"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=1hfdDW4AAAAJ&hl=en",
+      "text": "Terran Lane"
+    },
+    {
+      "url": "https://www.linkedin.com/in/bhaskara-marthi-6a197513",
+      "text": "Bhaskara Marthi"
+    },
+    {
+      "url": "https://people.csail.mit.edu/zvim/",
+      "text": "Zvika Marx"
+    },
+    {
+      "url": "https://jorge-a-mendez.github.io/",
+      "text": "Jorge Mendez Mendez"
+    },
+    {
+      "url": "http://people.csail.mit.edu/milch",
+      "text": "Brian Milch"
+    },
+    {
+      "url": "http://www.cs.ubc.ca/~murphyk/",
+      "text": "Kevin Murphy"
+    },
+    {
+      "url": "https://www.csee.umbc.edu/people/faculty/tim-oates/",
+      "text": "Tim Oates"
+    },
+    {
+      "url": "http://people.csail.mit.edu/fao/",
+      "text": "Frans Oliehoek"
+    },
+    {
+      "url": "http://www-personal.umd.umich.edu/~leortiz/",
+      "text": "Luis Ortiz"
+    },
+    {
+      "url": "http://people.csail.mit.edu/pasula/",
+      "text": "Hanna Pasula"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en",
+      "text": "Robert Platt"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Michael Rosenstein"
+    },
+    {
+      "url": "https://yoonchangsung.com",
+      "text": "Yoonchang Sung"
+    },
+    {
+      "url": "http://web.mit.edu/alet/www/",
+      "text": "Ferran Alet"
+    },
+    {
+      "url": "http://people.csail.mit.edu/aanders/",
+      "text": "Ariel Anders"
+    },
+    {
+      "url": "http://people.csail.mit.edu/aycinena/",
+      "text": "Meg Aycinena"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Patrick Barragan"
+    },
+    {
+      "url": "http://people.csail.mit.edu/jbarry/",
+      "text": "Jennifer Barry"
+    },
+    {
+      "url": "http://www.ai.mit.edu/~ychang",
+      "text": "Yu-Han Chang"
+    },
+    {
+      "url": "http://rohanchitnis.com/",
+      "text": "Rohan Chitnis"
+    },
+    {
+      "url": "http://people.csail.mit.edu/chiu/",
+      "text": "Han-Pang \u201cBon Bon\u201d Chiu"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Sam Davies"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Ashwin Deshpande"
+    },
+    {
+      "url": "http://yilundu.github.io/",
+      "text": "Yilun Du"
+    },
+    {
+      "url": "http://people.csail.mit.edu/sjf",
+      "text": "Sarah Finney"
+    },
+    {
+      "url": "http://people.csail.mit.edu/nhg",
+      "text": "Natalia Hernandez Gardiol"
+    },
+    {
+      "url": "http://web.mit.edu/caelan",
+      "text": "Caelan Garrett"
+    },
+    {
+      "url": "http://people.csail.mit.edu/gehring/",
+      "text": "Clement Gehring"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=ZBJCUM8AAAAJ&hl=en",
+      "text": "Jared Glover"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Gustavo Goretkin"
+    },
+    {
+      "url": "http://people.csail.mit.edu/rholladay/",
+      "text": "Rachel Holladay"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Ben Hong"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=S1jUhokAAAAJ&hl=en",
+      "text": "Kaijen Hsiao"
+    },
+    {
+      "url": "http://people.csail.mit.edu/kawaguch/",
+      "text": "Kenji Kawaguchi"
+    },
+    {
+      "url": "http://people.csail.mit.edu/beomjoon/",
+      "text": "Beomjoon Kim"
+    },
+    {
+      "url": "http://people.csail.mit.edu/owenm/",
+      "text": "Owen MacIndoe"
+    },
+    {
+      "url": "http://nick.matsakis.net/",
+      "text": "Nick Matsakis"
+    },
+    {
+      "url": "http://people.csail.mit.edu/jamesm",
+      "text": "James McLurkin"
+    },
+    {
+      "url": "http://people.csail.mit.edu/cmm386/",
+      "text": "Caris Moses"
+    },
+    {
+      "url": "http://people.csail.mit.edu/pesha/",
+      "text": "Leonid Peshkin"
+    },
+    {
+      "url": "http://people.csail.mit.edu/mgross",
+      "text": "Michael Ross"
+    },
+    {
+      "url": "http://danroy.org/",
+      "text": "Dan Roy"
+    },
+    {
+      "url": "https://tomsilver.github.io/",
+      "text": "Tom Silver"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Kurt Steinkraus"
+    },
+    {
+      "url": "http://web.mit.edu/temizer/www/selim/",
+      "text": "Selim Temizer"
+    },
+    {
+      "url": "http://zi-wang.com/",
+      "text": "Zi Wang"
+    },
+    {
+      "url": "http://people.csail.mit.edu/lsw/",
+      "text": "Lawson L.S. Wong"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=UjpbO6IAAAAJ",
+      "text": "Luke Zettlemoyer"
+    },
+    {
+      "url": "https://www.ashay.io",
+      "text": "Ashay Athalye"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Brian Axelrod"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Brandon Baraban"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Ignacio Perez Bedoya"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anika-cheerla/",
+      "text": "Anika Cheerla"
+    },
+    {
+      "url": "https://www.linkedin.com/in/bcieslar/",
+      "text": "Bart\u0142omiej Cie\u015blar"
+    },
+    {
+      "url": "https://shilohc.github.io/portfolio",
+      "text": "Shiloh Curtis"
+    },
+    {
+      "url": "https://www.linkedin.com/in/dylan-doblar/",
+      "text": "Dylan Doblar"
+    },
+    {
+      "url": "https://www.linkedin.com/in/annie-f-a21bb516b/",
+      "text": "Annie Feng"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Rodrigo Gomes"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Jose Muguira Iturralde"
+    },
+    {
+      "url": "https://sites.google.com/view/adarsh-jeewajee/",
+      "text": "Adarsh Jeewajee"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Ciara Kamahele"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Alex LaGrassa"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Gilwoo Lee"
+    },
+    {
+      "url": "https://www.mit.edu/~amli/",
+      "text": "Amber Li"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Zhezheng Luo"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Lilian Luong"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Luke Shimanuki"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Jongu Shin"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Amruth Venkatraman"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Christina Wettersten"
+    },
+    {
+      "url": "https://daniwhite.github.io/",
+      "text": "Dani White"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Anurag Ajay"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Qingquan (Bob) Bao"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jagdeep-bhatia/",
+      "text": "Jagdeep Bhatia"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Ethan Elchun"
+    },
+    {
+      "url": "https://www.linkedin.com/in/kathrynle/",
+      "text": "Kathryn Le"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rachel-lu-144585204/",
+      "text": "Rachel Lu"
+    },
+    {
+      "url": "https://ppatel22.github.io/",
+      "text": "Prince Patel"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Reece Shuttleworth"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Parul Singh"
+    },
+    {
+      "url": "https://www.linkedin.com/in/avaliveru/",
+      "text": "Anirudh Valiveru"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Warren Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jansenwong/",
+      "text": "Jansen Wong"
+    },
+    {
+      "url": "https://lis.csail.mit.edu/",
+      "text": "Zachary Zhang"
+    },
+    {
+      "url": "http://oceanai.mit.edu/mikerb/cover/home.html",
+      "text": "Mike Benjamin"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Gabriel Cruz"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Paolo Gentili"
+    },
+    {
+      "url": "https://shreyaskapur.com/",
+      "text": "Shreyas Kapur"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Jiwon Kim"
+    },
+    {
+      "url": "http://people.csail.mit.edu/zelda/",
+      "text": "Zelda Mariet"
+    },
+    {
+      "url": "http://webloria.loria.fr/~scherrer/",
+      "text": "Bruno Scherrer"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Yo Shavit"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Skye Thompson"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ericaweng/",
+      "text": "Erica Weng"
+    },
+    {
+      "url": "https://www.linkedin.com/in/victoriafxia/",
+      "text": "Victoria Xia"
+    },
+    {
+      "url": "http://lis.csail.mit.edu/",
+      "text": "Charlotte Zhu"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/themes/lis_custom/images/header-triangle-research.svg",
+      "alt": "Background Image"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2019/07/tlp_headshot_lowres.jpg",
+      "alt": "Tom\u00e1s Lozano-P\u00e9rez"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2019/07/lpk_headshot_lowres.jpg",
+      "alt": "Leslie Pack Kaelbling"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2023/09/adi_cropped.jpg",
+      "alt": "Aditya Agarwal"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/SahitChintalapudi.jpg",
+      "alt": "Sahit Chintalapudi"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/aidancurtis.jpg",
+      "alt": "Aiden Curtis"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2023/09/katie_photo_134x150_ratio.jpg",
+      "alt": "Katie Everett"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2020/02/im0-1-e1700536259586.png",
+      "alt": "Xiaolin Fang"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2021/09/AlexisHeadshotLIS.jpg",
+      "alt": "Nishanth Kumar"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2020/02/avatar17-center.jpg",
+      "alt": "Jiayuan Mao"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2021/10/willie.jpg",
+      "alt": "Willie McClinton"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2021/09/willshen-downscale.jpg",
+      "alt": "William Shen"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2021/01/zhutianyang-e1686993541288.jpg",
+      "alt": "Zhutian Yang"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Ben Zandonati"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2024/02/LIS-pic-scaled.jpg",
+      "alt": "Eugenia Feng"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2023/09/Headshot-1.png",
+      "alt": "Quincy Johnson"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2022/10/tarangResized.jpg",
+      "alt": "Tarang Lunawat"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Ryan Yang"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2024/09/ethan-yang-small.jpeg",
+      "alt": "Ethan Yang"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Jing Cao"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2023/09/Ejilemele_Abe_MIT_urop.jpg",
+      "alt": "Abe Ejilemele"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2024/02/aliheadshot-1.jpg",
+      "alt": "Alicia Li"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Katherine Lin"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Yajvan Ravan"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2024/05/IMG_4160.png",
+      "alt": "Benjamin Soria"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/AvatarPlaceholder.png",
+      "alt": "Thiago Veloso"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/nomsy.jpg",
+      "alt": "Nomsy Silver"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/jebbie.jpg",
+      "alt": "Jebbie"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/beasley-1.png",
+      "alt": "Beasley"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/rey.jpg",
+      "alt": "Rey"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/niko.jpg",
+      "alt": "Niko"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2021/01/Ben-low-res-4.jpg",
+      "alt": "Ben Gehring"
+    },
+    {
+      "src": "https://lis.csail.mit.edu/wp-content/uploads/2022/07/marble.jpeg",
+      "alt": "Marble"
+    }
+  ]
+}

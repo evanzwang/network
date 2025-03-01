@@ -1,0 +1,40 @@
+{
+  "title": "Atoma Media",
+  "meta_description": "The all-in-one AI-powered platform for simplifying business news.",
+  "main_content": "Meet the Team We're a passionate group of developers, designers, and AI enthusiasts working to revolutionize financial analysis through artificial intelligence. Founders Marc Pacheco CEO Visionary leader with extensive experience in AI and financial technology, driving innovation in market analysis. Timofey Obraztsov CTO Technical architect behind Atoma's core systems, specializing in AI/ML systems and scalable infrastructure. Andre Nguyen CMO Creative marketing strategist with a knack for engaging content and community building. Technical Team Andrew Hwang Software Engineer Full-stack developer focused on creating seamless user experiences and robust frontend architectures. Keyon Jazayeri Software Engineer Specialized in building performant applications and optimizing system architecture. Issac Nguyen Software Engineer Expert in developing scalable solutions and implementing complex algorithms. Daphne Shaw Lead Data Engineer Leading data infrastructure development and implementing advanced analytics systems. Kanhai Wadekar ML Engineer Focused on building robust backend systems and optimizing server-side performance.",
+  "links": [],
+  "images": [
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fmarc.jpeg&w=256&q=75",
+      "alt": "Marc Pacheco"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Ftim.jpeg&w=256&q=75",
+      "alt": "Timofey Obraztsov"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fandre.jpeg&w=256&q=75",
+      "alt": "Andre Nguyen"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fandrew.jpeg&w=256&q=75",
+      "alt": "Andrew Hwang"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fkeyon.jpeg&w=256&q=75",
+      "alt": "Keyon Jazayeri"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fissac.jpeg&w=256&q=75",
+      "alt": "Issac Nguyen"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fdaphne.jpeg&w=256&q=75",
+      "alt": "Daphne Shaw"
+    },
+    {
+      "src": "/_next/image?url=%2Fheadshots%2Fkanhai.jpeg&w=256&q=75",
+      "alt": "Kanhai Wadekar"
+    }
+  ]
+}

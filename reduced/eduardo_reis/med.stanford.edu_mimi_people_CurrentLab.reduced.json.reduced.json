@@ -1,0 +1,97 @@
+{
+  "title": "Current Lab | Machine Intelligence for Medical Imaging (MIMI) | Stanford Medicine",
+  "meta_description": "",
+  "main_content": "Principal Investigator Akshay Chaudhari, PhD Dr. Chaudhari is an Assistant Professor of research in the Integrative Biomedical Imaging Informatics at Stanford (IBIIS) section in the Department of Radiology and (by courtesy) in the Department of Biomedical Data Science. He leads the Machine Intelligence in Medical Imaging research group at Stanford and has a primary research interest that lies at the intersection of artificial intelligence and medical imaging. Dr. Chaudhari graduated with honors from UCSD with a B.S. in Bioengineering in 2012. He completed his Ph.D. from Stanford University\u2019s Department of Bioengineering in 2017, focusing on novel MRI methods for musculoskeletal imaging; supported through the National Science Foundation Graduate Research Fellowship, the Whitaker Fellowship, and the Siebel Fellowship. Dr. Chaudhari trained as a postdoctoral fellow in Radiology at Stanford University, where he combined machine learning with medical imaging acquisition and analysis. Dr. Chaudhari has won many awards, including the W.S. Moore Young Investigator Award, the Junior Fellow Award, and an Outstanding Teacher Award from the International Society for Magnetic Resonance in Medicine. He has 6 additional young investigator awards for his work on advanced musculoskeletal medical imaging. Dr. Chaudhari is the Associate Director of Research and Education at the Stanford AIMI Center and is an internal advisory board member of the Precision Health and Integrated Diagnostics Center. Postdocs Anthony A. Gatti, PhD Educational Background PhD, McMaster University, 2021 MSc, McMaster University, 2015 BSc, McMaster University, 2013 Research Focus I am a musculoskeletal health researcher with a passion for using machine learning to augment and integrate biomechanical and medical imaging data to understand joint health. Non-Academic Interest When not doing something tech or research related, I love being physically active, running, biking, surfing, snowboarding, if it\u2019s outside and gets your heart rate up count me in. Robbie Holland, PhD Educational Background PhD, Imperial College London, 2024 MRes, King\u2019s College London, 2020 MEng, Imperial College London, 2019 BEng, Imperial College London, 2018 Research Focus My research focuses on developing self-supervised methods for aiding image-based clinical decision making and accelerating the discovery of new, prognostic biomarkers for disease. I am now advancing these applications by developing foundation models that integrate longitudinal, multimodal medical data from population-scale cohorts. Non-Academic Interest I love reading (especially biographies), long walks, staying active, and writing and recording the occasional song. I\u2019m currently trying out different string instruments, surfing, and new dance styles. Jiaming Liu, PhD Educational Background PhD, Washinton University in St. Louis, 2024 MSc, Washinton University in St. Louis, 2018 BSc, University of Electronic Science and Technology of China, 2017 Research Focus My research focuses on developing explainable, robust, and efficient frameworks for biomedical and scientific imaging, image analysis, and computer vision. This includes advancing the theoretical foundations of optimization algorithms and creating novel deep learning methods for specific applications. Non-Academic Interest I enjoy staying active and learning new skills. Recently, I've been focused on scuba diving, aiming to get licensed. Sophie Ostmeier, MD Educational Background MD, Technical University of Munich, 2021 Dr. med. , Technical University of Munich, 2022 CS Master Student, Stanford University Research Focus My research focuses on machine learning models to learn representations of medical knowledge and their evaluation. Currently, I am exploring how vision/language models can learn temporal information. Non-Academic Interest I love endurance sports, including track running, long-distance cycling tours, and pool swimming. Magdalini Paschali, PhD Educational Background PhD, Technical University of Munich, 2021. MSc, Technical University of Munich, 2017. BSc, Aristotle University of Thessaloniki, 2015 Research Focus I am a machine learning researcher focusing on evaluating the robustness of large-scale AI models for healthcare and identifying early disease biomarkers. Non-Academic Interests I enjoy hanging out with friends and family, cooking, going to the movies, hiking and have recently gotten into lifting weights. Eduardo Pontes Reis Educational Background MD, State of Sao Paulo University, 2013.Radiology Residency, UNICAMP, 2017. Neuroradiology, Hospital Israelita Albert Einstein, 2018 Research Focus To develop AI tools to improve people's health, primarily in radiology and medical records. In radiology, I'm interested in methods that use pairs of images and reports to teach radiology to the computer. In medical records, I apply large language models to reduce the burden of documentation for medical professionals. I'm an advocate of open-data when it is safe, possible and feasible. Non-Academic Interest Love tennis. I'm a music fanatic (I like playing the piano when I find one). Best trips: hiking. Dave van Veen Educational Background BS, Electrical Engineering, University of Wisconsin MS, Electrical Engineering, University of Texas Research Focus I\u2019m eager to develop computational imaging tools for accelerated MR signal reconstruction and to improve signal representation for more accurate downstream quantitative measurements. Non-Academic Interests Outside of research, I get most enthused by bikepacking across foreign countries on mountain roads. Alan Tian Tan, PhD Educational Background Ph.D., Mechanical Engineering, Shanghai Jiao Tong University Research Focus I leverage machine learning principles to extract information from wearable and portable sensing for widespread biomechanical assessment outside of gait laboratories. Non-Academic Interest I love watching TV shows and educational Youtube channels. Also, I enjoy outdoors. Doctoral Graduate Students Phil Adamson Educational Background BA, Physics, Colby College BE, Engineering, Dartmouth College Research Focus I am broadly interested in working with diverse interdisciplinary teams of engineers and clinicians to develop technologies that improve patient lives. My current research projects include developing an MR method for imaging metabolism of tumors in vivo , and leveraging self-supervised feature representations for the evaluation of MR image reconstruction quality. Non-Academic Interest Outside of work I enjoy hiking, skiing, and lying around a fire with some combination of dogs, family and friends. Louis Blankemeier Educational Background BS, Electrical Engineering, University of Southern California BA, Physics, University of Southern California MS, Electrical Engineering, Stanford University Research Focus My current research focus is in developing algorithms for chronic disease risk stratification. Non-Academic Interest I enjoy skiing, biking, and weight lifting, and in a previous life, I wanted to be a professional musician. Kamyar Rajabali Fardi Educational Background BSc, Electrical Engineering, Sharif University of Technology, 2023 Research Focus I am highly interested in signal processing and optimization, particularly in their applications to image processing and computer vision. Non-Academic Interest In my free time, I enjoy biking, reading novels, and playing the piano. Ates Fettahoglu Educational Background PhD student in Biomedical Physics, Stanford University Research Focus I focus on discovering new biomarkers and developing deep learning pipelines for opportunistic imaging and theranostics. Non-Academic Interest I enjoy traveling, cooking and hiking Ashwin Kumar Educational Background BS, Computer Science & Neuroscience, Vanderbilt University MS, Computer Science, Vanderbilt UniversityBS Research Focus I am interested in developing deep learning tools that utilize multimodal imaging for early diagnosis and treatment of neurological disorders. Non-Academic Interest I enjoy playing basketball, piano, lifting, and engaging in educational STEM outreach activities. Stefania Moroianu Educational Background BA, Natural Sciences (Physics), University of Cambridge, MSci, Physics, University of Cambridge PhD Candidate in Applied Physics with PhD Minor in Computer Science, Stanford University Research Focus My current research focus is on generative AI for medical imaging and text, and exploring how we can leverage synthetic data to build better models. Non-Academic Interest Skiing, tennis, the gym, hiking, and dancing (anytime!). I travel whenever and wherever I can, and I try all the good food. Anoosha Pai S Educational Background BA, Mechanical Engineering, BMS College of Engineering, Bangalore, India MS, Biomedical Engineering, University of British Columbia, Vancouver, Canada Research Focus I am interested to apply techniques of medical imaging, machine learning, and biomechanics to quantify and assess various aspects of musculoskeletal disorders with a hope to improve diagnosis, treatment, and rehabilitation. Non-Academic Interests While not at work, I really enjoy singing, hiking, yoga, creating and experimenting new food recipes. Ivan Lopez Rodriguez Educational Background BS, Physiological Sciences, UCLA MS, Physiological Sciences, UCLA Research Focus My research centers on developing machine learning algorithms to improve healthcare access and delivery. I'm also interested in AI policy, particularly in ensuring the safe, responsible development and effective implementation of AI in healthcare. Non-Academic Interest Gym, basketball, tennis, table tennis, playing music, trying your favorite food restaurants. Maya Varma Educational Background BS, Computer Science, Stanford University Research Focus I am broadly interested in developing reliable AI systems that can be deployed in clinics to improve disease diagnosis and medical image interpretation. My research focuses on developing accurate and robust representation learning methods for medical images.. Non-Academic Interest Outside of research, I enjoy reading, drawing and painting, hiking, yoga, and traveling. Masters Students Undergraduates Research Staff Asad Aali Educational Background MS Electrical & Computer Engineering, University of Texas, Austin MS Information Technology, University of Texas, Austin BS (Honors) Accounting & Finance, University of Management Sciences, Lahore Research Focus My research involves the development of deep learning-based AI algorithms for applications in medical imaging and biomedical informatics Non-Academic Interest Outside of work, I enjoy hiking, running, and playing cricket Jessica L. Asay Educational Background BS, Mechanical Engineering, University of Portland MS, Mechanical Engineering, Stanford University. Research Focus Jessica has years of motion laboratory management experiences and research with knee osteoarthritis. She is interested in analyzing lower limb joint movement and loading with respect to pain. Non-Academic Interests In my free time, I enjoy taking dance and gymnastics classes and decorating cakes. Peyman Shokrollahi, PhD Educational Background Ph.D., Biomedical Engineering, University of Toronto M.A.Sc., Electrical and Computer Engineering, Ryerson University B.Sc., Electrical \u2013 Electronic Engineering, Shiraz University Research Focus My research focused on automating the translation of clinical imaging orders to radiology imaging protocols using electronic medical records (EMRs) and machine learning (ML) techniques. I am also interested in developing fusion models utilizing medical images and EMRs. Non-Academic Interest I am passionate about music and performing hammered dulcimer.",
+  "links": [
+    {
+      "url": "https://med.stanford.edu/mimi.html",
+      "text": "MIMI"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_392412304/panel_0/text_image.img.620.high.jpg/Akshay.jpg",
+      "alt": "Akshay Chaudhari"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_250404022.img.620.high.jpg/Anthony Gatti.jpg",
+      "alt": "Anthony A. Gatti"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_250404022_498801496.img.620.high.jpg/Robbie Holland.jpg",
+      "alt": "Robbie Holland"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_250404022_1896073025.img.620.high.jpg/Jiaming Liu.jpg",
+      "alt": "Jiaming Liu"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_250404022_1289006795.img.620.high.jpg/Sophie Ostmeier.jpg",
+      "alt": "Sophie Ostmeier"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_680284115.img.620.high.jpg/Magdalini Paschali .jpg",
+      "alt": "Magdalini Paschali "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_867706578.img.620.high.jpeg/Eduardo Pontes Reis.jpeg",
+      "alt": "Eduardo Pontes Reis "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_680284115_966060043.img.620.high.jpg/Dave.jpg",
+      "alt": "Dave van Veen"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder/panel_0/text_image_182530091.img.620.high.jpg/276828_profilephoto.jpg",
+      "alt": "Alan Tian Tan "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_2010070586.img.620.high.jpg/Phil.jpg",
+      "alt": "Phil Adamson"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_867706578.img.620.high.jpg/Louis.jpg",
+      "alt": "Louis Blankemeier"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_988551077_1251674708.img.620.high.png/Kamyar Rajabali Fardi.png",
+      "alt": "Kamyar Rajabali Fardi"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_988551077.img.620.high.png/Ates Fettahoglu.png",
+      "alt": "Ates Fettahoglu "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_988551077_1359119363.img.620.high.png/Ashwin Kumar.png",
+      "alt": "Ashwin Kumar"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_867706578_787639619.img.620.high.jpg/Stefania Moroianu.jpg",
+      "alt": "Stefania Moroianu"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_1287908990.img.620.high.jpg/Anoosha .jpg",
+      "alt": "Anoosha Pai S"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_182530091_1351408895.img.620.high.png/Ivan Lopez Rodriguez.png",
+      "alt": "Ivan Lopez Rodriguez "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_1200025198/panel_0/text_image_182530091.img.620.high.jpg/Maya Varma.jpg",
+      "alt": "Maya Varma "
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/text_image_182530091_616839545.img.620.high.png/Asad Ali.png",
+      "alt": "Asad Aali"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_780321620/panel_0/text_image.img.620.high.jpg/Jessica.jpg",
+      "alt": "Jessica L. Asay"
+    },
+    {
+      "src": "https://med.stanford.edu/mimi/people/CurrentLab/_jcr_content/main/panel_builder_780321620/panel_0/text_image_182530091.img.620.high.jpg/Peyman.jpg",
+      "alt": "Peyman Shokrollahi"
+    }
+  ]
+}

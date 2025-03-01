@@ -1,0 +1,45 @@
+{
+  "title": "Eric Mao",
+  "meta_description": "",
+  "main_content": "Eric Mao Entrepreneur and Explorer San Francisco, CA I craft products to simplify people's lives. I love gadgets, tinkering, and traveling.",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/maoeric1/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/emao",
+      "text": ""
+    },
+    {
+      "url": "mailto:maoeric77@gmail.com",
+      "text": ""
+    },
+    {
+      "url": "https://scoutexplore.com?utm_source=maoeric.com",
+      "text": "Scout"
+    },
+    {
+      "url": "https://scoutexplore.com?utm_source=maoeric.com",
+      "text": "scoutexplore.com"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/nextbus-display/djmdiledoggndjeaaejebhmnbpmlplak",
+      "text": "NextBus Display"
+    }
+  ],
+  "images": [
+    {
+      "src": "assets/self-square.jpg",
+      "alt": ""
+    },
+    {
+      "src": "assets/nextbus-display-screenshot.png",
+      "alt": ""
+    },
+    {
+      "src": "assets/simplist-screenshot.png",
+      "alt": ""
+    }
+  ]
+}

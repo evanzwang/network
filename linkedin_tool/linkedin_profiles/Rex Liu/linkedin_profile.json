@@ -1,0 +1,234 @@
+[
+  {
+    "fullName": "Rex Liu",
+    "linkedin_internal_id": "667014066",
+    "first_name": "Rex",
+    "last_name": "Liu",
+    "public_identifier": "liu-rex",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQGcyAba6TrudA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1615962937263?e=2147483647&v=beta&t=xK5daK6uGj9SzpWbzcdl_xv5YSbRQg-idsOvNEfNbtk",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQH9tNVsutSsQQ/profile-displayphoto-shrink_200_200/B56ZQ9ykNbHoAc-/0/1736203453942?e=2147483647&v=beta&t=Cva0tQQXIl6oIVERuZTpFEtol4Av2Wx3fHSOX1OZrXE",
+    "headline": "CS + Bio @ Caltech",
+    "location": "589 followers\n          \n              500+ connections",
+    "about": "Undergraduate at Caltech studying computer science and biology. Research Fellow @ Caltech's Thomson Lab, specializing in Bio-inspired AI and Drug Discovery.",
+    "experience": [
+      {
+        "position": "Mission Operations / Ground Data Systems Intern",
+        "company_url": "https://www.linkedin.com/company/jet-propulsion-laboratory?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFru17MYnHlaQ/company-logo_100_100/company-logo_100_100/0/1631325414149?e=2147483647&v=beta&t=nnKva72yFGqpDxgMpykB7enPvmer0q6KmuslzIDChxA",
+        "company_name": "NASA Jet Propulsion Laboratory",
+        "location": "Pasadena, California, United States",
+        "summary": "Writing software for the Lunar Trailblazer Spacecraft",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "Undergraduate Research Fellow @ Thomson Lab",
+        "company_url": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQFCGqEmSwrc4w/company-logo_100_100/company-logo_100_100/0/1631338994369?e=2147483647&v=beta&t=c9UlAx6IJwmjpR9EGoLUCmZJO7WiBgPNVrZw-N5Pmow",
+        "company_name": "Caltech",
+        "location": "Pasadena, California, United States",
+        "summary": "PI: Matt ThomsonThalamus-inspired LLM Router: Scalable ensemble of small, open-source LLMs that outperforms large proprietary models using Q-learning-based real-time dynamic model selection.Hierarchical Chains with Multi-Level Abstention (HCMA): LLM cascade optimizing Black-box API deployments with uncertainty-based delegation, risk control, cost-efficiency, and improved correctness calibration.Spatial Proteomics with GNNs: Counterfactual learning to identify tumor perturbations that enhance T-cell infiltration. Validated combinatorial therapies with Cedars-Sinai.Functionally Invariant Path (FIP): Differential geometry-based framework to traverse weight-space submanifolds, enabling neural networks to adapt secondary tasks without catastrophic forgetting, achieving SOTA sparsification and adversarial robustness.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Sep 2023",
+        "ends_at": "Present",
+        "duration": "1 year 7 months"
+      },
+      {
+        "position": "Security Researcher",
+        "company_url": "https://www.linkedin.com/company/hackerone?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGUm9r-X2V_QQ/company-logo_100_100/company-logo_100_100/0/1730993559796/hackerone_logo?e=2147483647&v=beta&t=uxrR0WucJ7f408FO-FfRw7SwHG0bS3_tolHh3wsgzuE",
+        "company_name": "HackerOne",
+        "location": "United States",
+        "summary": "",
+        "starts_at": "Jul 2019",
+        "ends_at": "Aug 2024",
+        "duration": "5 years 2 months"
+      },
+      {
+        "position": "Bug Bounty Hunter",
+        "company_url": "https://www.linkedin.com/company/bugcrowd?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEBl6E3caP82Q/company-logo_100_100/company-logo_100_100/0/1719839119236?e=2147483647&v=beta&t=NB4P748vblcZhwz2UcNv3hIb9rDHwHe-JhqUJwEWnFs",
+        "company_name": "Bugcrowd",
+        "location": "Ontario, Canada",
+        "summary": "",
+        "starts_at": "May 2019",
+        "ends_at": "Aug 2024",
+        "duration": "5 years 4 months"
+      },
+      {
+        "position": "Teaching Assistant",
+        "company_url": "https://tw.linkedin.com/school/taipei-american-school/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH0PXcVFdGcnA/company-logo_100_100/company-logo_100_100/0/1690954889776/taipei_american_school_logo?e=2147483647&v=beta&t=7I1b3xnrkvypbDiU9OB_5W80CiJ9JVy8zK16ZYFEDqc",
+        "company_name": "Taipei American School",
+        "location": "Taipei City, Taiwan",
+        "summary": "TA for Mechanical Engineering - CAD, CNC, water jet cutting, TIG welding, 3D printing, lathe",
+        "starts_at": "Jun 2023",
+        "ends_at": "Jul 2023",
+        "duration": "2 months"
+      },
+      {
+        "position": "Teaching Assistant",
+        "company_url": "https://tw.linkedin.com/school/taipei-american-school/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH0PXcVFdGcnA/company-logo_100_100/company-logo_100_100/0/1690954889776/taipei_american_school_logo?e=2147483647&v=beta&t=7I1b3xnrkvypbDiU9OB_5W80CiJ9JVy8zK16ZYFEDqc",
+        "company_name": "Taipei American School",
+        "location": "Taipei City, Taiwan",
+        "summary": "TA for Modern Topics in Computer Science - logic gates, quantum mechanics, deep learning",
+        "starts_at": "Aug 2022",
+        "ends_at": "Apr 2023",
+        "duration": "9 months"
+      },
+      {
+        "position": "Research Assistant, Systems Biology of Epithelia Laboratory",
+        "company_url": "https://tw.linkedin.com/school/national-taiwan-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGAh08jkWo23Q/company-logo_100_100/company-logo_100_100/0/1679904708552/national_taiwan_university_logo?e=2147483647&v=beta&t=6tWZpubcHOqWufYsOv_jOs69VK01KNc5h1gM-rY-ZNg",
+        "company_name": "National Taiwan University",
+        "location": null,
+        "summary": "PI: Dr. Ming-Jiun Yu",
+        "starts_at": "Jun 2022",
+        "ends_at": "Feb 2023",
+        "duration": "9 months"
+      },
+      {
+        "position": "Research Assistant, Department of Tropical Medicine and Parasitology",
+        "company_url": "https://tw.linkedin.com/school/national-taiwan-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGAh08jkWo23Q/company-logo_100_100/company-logo_100_100/0/1679904708552/national_taiwan_university_logo?e=2147483647&v=beta&t=6tWZpubcHOqWufYsOv_jOs69VK01KNc5h1gM-rY-ZNg",
+        "company_name": "National Taiwan University",
+        "location": null,
+        "summary": "PI: Dr. Shin Hong Shiao",
+        "starts_at": "Jul 2020",
+        "ends_at": "Aug 2020",
+        "duration": "2 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Caltech",
+        "college_image": "https://media.licdn.com/dms/image/v2/C510BAQFCGqEmSwrc4w/company-logo_100_100/company-logo_100_100/0/1631338994369?e=2147483647&v=beta&t=c9UlAx6IJwmjpR9EGoLUCmZJO7WiBgPNVrZw-N5Pmow",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer Science, Biology",
+        "college_duration": "2023 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://tw.linkedin.com/school/taipei-american-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Taipei American School",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQH0PXcVFdGcnA/company-logo_100_100/company-logo_100_100/0/1690954889776/taipei_american_school_logo?e=2147483647&v=beta&t=7I1b3xnrkvypbDiU9OB_5W80CiJ9JVy8zK16ZYFEDqc",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "NASA Jet Propulsion Laboratory",
+      "description1_link": "https://www.linkedin.com/company/jet-propulsion-laboratory?trk=public_profile_topcard-current-company",
+      "description2": "Caltech",
+      "description2_link": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_topcard-school",
+      "description3": "Portfolio",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Frexpository&urlhash=nd60&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/googledeepmind_were-presenting-gencast-our-new-ai-system-activity-7270107766646546433-pa5S",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHRfcaEBp4mLQ/feedshare-shrink_800/feedshare-shrink_800/0/1733328762342?e=2147483647&v=beta&t=Z7f6cbaoYafD4MpfsQOz3zjTByFcKsIKP8By73lsJ9Q",
+        "title": "We\u2019re presenting GenCast: our new AI system for predicting 15-day forecasts \u2013 covering everyday weather as well as extreme events. \u2601\ufe0f\u26a1\n\nHow could\u2026",
+        "activity": "Liked by Rex Liu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/suryanarayanan21_hi-everyone-rex-liu-and-i-built-this-product-activity-7181785380130598912-_mXT",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQHwReNZElzvFg/videocover-high/videocover-high/0/1712271053280?e=2147483647&v=beta&t=2bNZE8SL4hWVlStuyrEtGYMQ7jmCB7KlBqaVELyC_-Q",
+        "title": "Hi everyone, Rex Liu and I built this product over the weekend where we allow folks to edit images they create with Stable Diffusion. Tons of tools\u2026",
+        "activity": "Liked by Rex Liu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/martin-lim-43462322a_got-a-chance-to-watch-tsmc-ceo-cc-wei-at-activity-7114717779164897280-ebSx",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF3kCaIR_q-yw/feedshare-shrink_800/feedshare-shrink_800/0/1696280901981?e=2147483647&v=beta&t=WcH5VLFZxPcEHGkGbCwRWCErhuA8v8MQocPM8ph9PZ4",
+        "title": "Got a chance to watch TSMC CEO C.C. Wei at Yale's Dean Invited Speaker Series! Learned about his time as a Yale graduate student as well as his\u2026",
+        "activity": "Liked by Rex Liu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/andre-krunic-6710321ab_phenylbutyric-acid-robustly-increases-npy-activity-7047973257479647232-xhiY",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG_wJg-tLpBBA/articleshare-shrink_800/articleshare-shrink_800/0/1740337516538?e=2147483647&v=beta&t=_QwzdN-olV5dLlxqRGgyNmdMKVpimgzxWkSBsSMZfvA",
+        "title": "My first publication is finally out! Thanks to everyone in the Belsham lab for helping me get this far, I couldn't be here without them.",
+        "activity": "Liked by Rex Liu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rotman-school-of-management-university-of-toronto_iris-dreamt-of-becoming-a-neurosurgeon-during-activity-7045047150346473472-WRoT",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE_rTaR5cHRDA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1679670130626?e=2147483647&v=beta&t=4rUHYwlBJZyMr4AuU1mTNPfwjwdij5TavBoPg4YnAmU",
+        "title": "Iris dreamt of becoming a neurosurgeon. During her undergrad, she realized there was a significant gap between scientific research and the practical\u2026",
+        "activity": "Liked by Rex Liu"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/rexliu3?trk=public_profile_samename-profile",
+        "name": "Rex Liu",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/rexhtliu?trk=public_profile_samename-profile",
+        "name": "Rex Liu",
+        "summary": "",
+        "location": "Castro Valley, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/liurex?trk=public_profile_samename-profile",
+        "name": "Rex Liu",
+        "summary": "",
+        "location": "New York City Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/rex-liu-b5735464?trk=public_profile_samename-profile",
+        "name": "Rex Liu",
+        "summary": "Android Developer",
+        "location": "Chandler, AZ"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Engineering flexible machine learning systems by traversing functionally invariant paths",
+        "sub_title": "Nature Machine Intelligence",
+        "summary": "",
+        "date": "October 3, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enature%2Ecom%2Farticles%2Fs42256-024-00902-x&urlhash=4kXU&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Herd: Using multiple, smaller LLMs to match the performances of proprietary, large LLMs via an intelligent composer",
+        "sub_title": "NeurIPS Efficient Natural Language and Speech Processing Workshop (ENLSP, Oral)",
+        "summary": "",
+        "date": "October 30, 2023",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fpdf%2F2310%2E19902&urlhash=xulV&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [
+      {
+        "name": "Chinese",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Japanese",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

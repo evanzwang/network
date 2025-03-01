@@ -1,0 +1,395 @@
+[
+  {
+    "fullName": "Olsen B.",
+    "linkedin_internal_id": "494991611",
+    "first_name": "Olsen",
+    "last_name": "B.",
+    "public_identifier": "olsenbudanur",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQEu54UckXRa3Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723269267830?e=2147483647&v=beta&t=KLHy1KlPTLAyLm2Rjfs7xhndvIkVTyPDeW071VE-1EM",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C5603AQEKP---i_Qa9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1655585020700?e=2147483647&v=beta&t=wxFSNkym8H8Nk4lkvwHjjQwn1E7bLXluX8HJJyJYAr8",
+    "headline": "Software Engineer @ Affirm | MLH Top 50",
+    "location": "2K followers\n          \n              500+ connections",
+    "followers": "Issued Feb 2021",
+    "connections": "Issued Feb 2021",
+    "about": "Software Engineer at Affirm who loves tackling tough problems and building cool things. I\u2019m always curious, always learning, and I enjoy diving into new challenges. Outside of work, you\u2019ll find me exploring tech projects, especially in the world of LLMs, and competing in hackathons. Feel free to reach out if you want to connect or chat, also check out the things I've built at https://olsenbudanur.com!",
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/affirm?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEHSbORvS_jKg/company-logo_100_100/company-logo_100_100/0/1630665839795/affirm_logo?e=2147483647&v=beta&t=DTdnXfvSnUdk2QDzx2pxLSTqSBNcll6e2T8YQQGRHEk",
+        "company_name": "Affirm",
+        "location": null,
+        "summary": "Workflow Orchestration Infrastructure Team (Batch)- Managed and maintained a distributed infrastructure integrating Airflow, Luigi, Spark, and Kubernetes for scalable workflow orchestration with over a 1,000,000 actions a month.- Developed a high-performance gRPC server in Kotlin, enabling seamless communication with Kubernetes pods managed by Airflow.- Built a Slack bot leveraging semantic search and LLMs to efficiently resolve triage questions.- Orchestrated the deployment of the entire team's infrastructure and environments in the UK, ensuring flawless operational continuity.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Sep 2023",
+        "ends_at": "Present",
+        "duration": "1 year 7 months"
+      },
+      {
+        "position": "Software Consultant",
+        "company_url": "https://www.linkedin.com/company/cognition-ai-labs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJ_1fLzwppg/company-logo_100_100/company-logo_100_100/0/1709872339677/cognition_ai_labs_logo?e=2147483647&v=beta&t=4DoNPStaMJIrJV9pJSQU_xLPZ0-OpskJFtd-mJJsgB8",
+        "company_name": "Cognition",
+        "location": null,
+        "summary": "Helping Devin get smarter!",
+        "starts_at": "Oct 2024",
+        "ends_at": "Feb 2025",
+        "duration": "5 months"
+      },
+      {
+        "position": "Founding Engineer",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Motate LLC",
+        "location": null,
+        "summary": "Boutique Software Contracting Firm- Lead a team of 4- Secured over 5 contracts for custom software projects- Achieved a peak quarterly revenue of ~$20,000",
+        "starts_at": "Jul 2022",
+        "ends_at": "Sep 2023",
+        "duration": "1 year 3 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/aptoslabs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQHSHs0Hi-0bDw/company-logo_100_100/company-logo_100_100/0/1729269494661/aptoslabs_logo?e=2147483647&v=beta&t=4It84KvCqn7hmJ_wqjdJfJ1UagpCq-wm2ZjvEwwXqwU",
+        "company_name": "Aptos Labs",
+        "location": "Palo Alto, California, United States",
+        "summary": "(Formerly Meta) Production Engineering Team- Created a 7,000-line open-source Python CLI for Kubernetes deployments, saving $70,000 w/multithreading.- Developed a Rust SDK for the CLI, enabling seamless integration to Aptos\u2019s Rust code.- Designed a horizontally scalable OpenAI chatbot API with Flask real\u2010time streaming for a responsive UX.",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Founder & President",
+        "company_url": "https://www.linkedin.com/company/hackatdavidson?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGowVABA2EwVw/company-logo_100_100/company-logo_100_100/0/1707146047465/hackatdavidson_logo?e=2147483647&v=beta&t=bj5om7jXjuTZQJJyIsyKTLhYPMymGgrA--TP1PZ9XlA",
+        "company_name": "Hack@Davidson",
+        "location": "Davidson College",
+        "summary": "Formerly Competitive Coding at Davidson (C-CAD)- Honorable mention award from the ICPC.- Founded and coordinated Hack@Davidson 2023, Davidson College\u2019s first student-led hackathon.- Directed a team of 15 (+90 total members) to accommodate 100+ participants, and raised over $6,000.- Led the C-CAD\u2019s Hackathon Team, winning a total of 12 categories across 8 Hackathons (1st @ Caltech)",
+        "starts_at": "Jan 2022",
+        "ends_at": "May 2023",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "TA - CSC 352 Blockchains",
+        "company_url": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGhshKt_3pBBg/company-logo_100_100/company-logo_100_100/0/1692818116872/davidson_college_logo?e=2147483647&v=beta&t=mF8LKUrbHdPhPW3Vcq46WW4MFp14Q7TnVgYO9nnL4VM",
+        "company_name": "Davidson College",
+        "location": null,
+        "summary": "Teaching assistant for the inaugural Blockchains class at Davidson- Graded homework- Hosted office hours to support students.- Assisted Dr. Mendes with course administration.",
+        "starts_at": "Sep 2022",
+        "ends_at": "Dec 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/affirm?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEHSbORvS_jKg/company-logo_100_100/company-logo_100_100/0/1630665839795/affirm_logo?e=2147483647&v=beta&t=DTdnXfvSnUdk2QDzx2pxLSTqSBNcll6e2T8YQQGRHEk",
+        "company_name": "Affirm",
+        "location": "San Francisco, California, United States",
+        "summary": "Infrastructure Platform Team, Storage & Replication- Migrated 7 Spark ETLs from an Airflow, Luigi, and AWS EMR stack to an Airflow and AWS Glue stack.- Decreased the operating costs of 7 Spark ETLs by 80%, and increased their speed by 85%.- Automated the deployment of 7 Spark ETLs using Python, Terraform, and Buildkite.",
+        "starts_at": "May 2022",
+        "ends_at": "Aug 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/search-technology-inc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGhqXFQy1geGQ/company-logo_100_100/company-logo_100_100/0/1699381911327/search_technology_inc_logo?e=2147483647&v=beta&t=QhBxB787nnQnCx0A1bdZWA1hfAdcIQrHx-rLZ_RjQCI",
+        "company_name": "Search Technology Inc",
+        "location": null,
+        "summary": "Text mining software written in C++- Created 4 web-UI/GUIs utilizing jQuery and C++ (ran with embedded Chromium).- Fixed 12 bugs/complaints in Search Technology\u2019s C++ source code.- Automated and wrote over 500 test cases using JavaScript and Jenkins.",
+        "starts_at": "Mar 2021",
+        "ends_at": "Aug 2021",
+        "duration": "6 months"
+      },
+      {
+        "position": "Team Lead",
+        "company_url": "https://www.linkedin.com/company/rocketry-at-virginia-tech?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHcV1zpR0P_pA/company-logo_100_100/company-logo_100_100/0/1630575159423/rocketry_at_virginia_tech_logo?e=2147483647&v=beta&t=SbkDHfGMlsdADONvyyx0K1NhDAOv_HJ18e3oYylU8c4",
+        "company_name": "Rocketry at Virginia Tech",
+        "location": null,
+        "summary": "First lead of the Business & PR team for https://www.rocketryatvirginiatech.org/- Lead a team of ~5- Organized outreach events for kids in STEM- Led designing merch and PR material / logistics",
+        "starts_at": "Dec 2019",
+        "ends_at": "Dec 2020",
+        "duration": "1 year 1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Davidson College",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGhshKt_3pBBg/company-logo_100_100/company-logo_100_100/0/1692818116872/davidson_college_logo?e=2147483647&v=beta&t=mF8LKUrbHdPhPW3Vcq46WW4MFp14Q7TnVgYO9nnL4VM",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": "Computer Science",
+        "college_duration": " - ",
+        "college_activity": "\u2022 4.0 In-Major GPA"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/vtengineering/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Virginia Tech College of Engineering",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGH6aiIaDhukw/company-logo_100_100/company-logo_100_100/0/1631329032265?e=2147483647&v=beta&t=dQbJbSgnAbOhsz86t_NaN6e6m59NC_Gi02AyMBy5EVs",
+        "college_degree": "Credits Towards Double Major: B.S. Computer Science, B.S. Computational Modeling & Data Analytics",
+        "college_degree_field": "4.0",
+        "college_duration": " - ",
+        "college_activity": "\u2022 4.0 GPA, Dean's List with President's Distinction \u2022 Honors CollegeTransfered to Davidson College"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Affirm",
+      "description1_link": "https://www.linkedin.com/company/affirm?trk=public_profile_topcard-current-company",
+      "description2": "Davidson College",
+      "description2_link": "https://www.linkedin.com/school/davidson-college/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/gokhan-egri_refer-an-engineer-get-a-robot-dog-activity-7301446611501486080-JrOq",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEaUly0AupjMg/feedshare-shrink_800/B4DZVPy9s1HYAg-/0/1740800516144?e=2147483647&v=beta&t=KhiXtSwY5gPXy-1r-qxJKSXFMyvOizyh1pK2cvc8uIQ",
+        "title": "\ud83d\udea8 REFER AN ENGINEER, GET A ROBOT DOG \ud83d\udea8 \n\nBrainbase (YC W24) is growing super fast and we need the best engineer you know. If they join, we'll send\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/y-combinator_gale-yc-w25-uses-ai-to-automate-the-entire-activity-7301330327581396992-UHz9",
+        "image": "https://media.licdn.com/dms/image/v2/D4D05AQETY8oFmo4Hrw/videocover-high/B4DZVLqGe0HwBs-/0/1740731190383?e=2147483647&v=beta&t=WHn0z8LIi53GLdE_c9OnPSi4SrN6k3WfXdqfTYArH18",
+        "title": "Gale (YC W25) uses AI to automate the entire H-1B application and compliance process for US employers, with licensed attorneys ensuring accuracy at\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/abhilashchowdhary_when-do-you-start-writing-tests-for-your-activity-7298455801382244352-t_Vs",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "When do you start writing tests for your code at a early-stage startup?\n\n\nIf you're coming from big tech or a company with >50 engineers, your first\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/shayna-ellis-a61463221_beyond-excited-to-share-that-frnds-of-frnds-activity-7299872813161578496-t9OK",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEhpDY6eMvhhg/feedshare-shrink_1280/B4DZU5bmggG8Ao-/0/1740425301592?e=2147483647&v=beta&t=L5vNke8u6EJAp8GFPNiZ_UWn7VJ_tSfzG48SukVB0Yg",
+        "title": "Beyond excited to share that Frnds of Frnds is on the App Store (and we're even trending in the Social Newtorking category at #86!)\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maxlevchin_its-hackathon-week-at-affirm-this-is-one-activity-7290870776537235456-Ge3k",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFtZcbpvGpSIQ/feedshare-shrink_800/B56ZS5gUaHGoAg-/0/1738279049670?e=2147483647&v=beta&t=3Ye9sg5RrTacfiUUD3YnFK69LD3RAPXg1qm1O-tPwDo",
+        "title": "It's Hackathon Week at Affirm! This is one of my favorite times of year, as our team members get a chance to come together in our offices around the\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maxlevchin_affirm-is-in-the-strongest-shape-its-ever-activity-7293692373363015690-mA4Q",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Affirm is in the strongest shape it\u2019s ever been. We once again exceeded our expectations across every metric and supported our network through a\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sunilkumar707_uber-update-news-activity-7297848048829743105-E6jH",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGp5oHtkZpIBg/feedshare-shrink_2048_1536/B56ZUcqHFTHQAo-/0/1739942560868?e=2147483647&v=beta&t=ytcupsZEusNXkXX9hGXGUIcV_gx2IPJYNoeQ2cXTjQ8",
+        "title": "UBER Announced Big! It is now adopting SaaS model \n\n\nBig news in the ride-hailing industry! Uber has made a significant shift from a commission-based\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/the-hurt-hub-davidson_psa-the-hurt-hub-is-exactly-03-miles-from-activity-7298718583537172481-MHYt",
+        "image": "https://media.licdn.com/dms/image/v2/D4E10AQGBlrPC3qu_gQ/ads-video-thumbnail_720_1280/B4EZUpBWn3HgAc-/0/1740149993307?e=2147483647&v=beta&t=yAy7m5hPjO2tAEvNMY6Pw1t_-Z7V7iO45hcrZiy7WiE",
+        "title": "PSA: The Hurt Hub is exactly 0.3 miles from campus. That's shorter than your playlist, quicker than the Commons lunch rush line, and definitely worth\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/coreweave_the-inference-time-compute-hackathon-in-san-activity-7293291993315635201-2AJm",
+        "image": "https://media.licdn.com/dms/image/v2/D4E10AQHNCYC4f9Jg6w/image-shrink_800/B4EZTb6ZzjHgAo-/0/1738856308489?e=2147483647&v=beta&t=KGhyIrMrdZ054rpn11wzohM7sNXPrLci3fcd2RtVHkk",
+        "title": "The Inference Time Compute Hackathon in San Francisco is coming up soon! We\u2019re co-sponsoring the event with Anthropic to bring together the world\u2019s\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mercor-ai_mercor-etched-and-cognition-are-hosting-activity-7295678070575767552-Amfc",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQElysycnglN3A/feedshare-shrink_800/B56ZT90jCeHQAk-/0/1739425198608?e=2147483647&v=beta&t=9u_M78xVI37tL_cAIRPrVCFuKPtqu5P2M03G7l6axlU",
+        "title": "Mercor, Etched, and Cognition are hosting a 24-hour inference-time compute hackathon on 2/28 with $60k in cash prizes.\n\nThank you to our partners\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cognition-ai-labs_cognition-activity-7295879568240873473-iFGi",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQGosWCdYrMZjA/articleshare-shrink_800/articleshare-shrink_800/0/1732107987244?e=2147483647&v=beta&t=it4ME_ezGzPfl32aqA3Z8SonLNWsS3phNQbyqv-NgSw",
+        "title": "Devin AI's created over 100 merged PRs for Linktree! \n\nSee how Devin helps their engineering team experiment with new social media platforms and ship\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/michael-vandi_hackathon-ai-aimortgagelending-activity-7289205623890624512-smYi",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQFXxXVX3ehyvw/videocover-high/B56ZSh10ALHsBs-/0/1737882039286?e=2147483647&v=beta&t=jJwJ-tHmwG7AnMTGGNLQsx0yDiHMlnJXut2VpmCxkVY",
+        "title": "It\u2019s midnight of DAY 1 of the AI x Finance hackathon in San Francisco. AI engineers are building GenAI mortgage tools.\n\nAn interesting interaction\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mustafa-zeki-ugurlu_the-july-15-narrative-is-falling-apart-a-activity-7295571362847363072-Hbuk",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHOEnbeH0reAQ/feedshare-shrink_2048_1536/B4DZT8TfYAGkAo-/0/1739399756548?e=2147483647&v=beta&t=uKTlk-QehekBIcNsZOl5ia_kO6giYdEToLkXCn68cGU",
+        "title": "The July 15 Narrative is Falling Apart: A Landmark UN Decision\n\nNo matter how hard they try to hide the truth or how much money they spend to spread\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/amruthagujjar_activity-7295299261343121408-JmXr",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHBB5wTdYnRJQ/feedshare-shrink_800/B4EZT4cBWwHMAg-/0/1739334883320?e=2147483647&v=beta&t=zc4Ny59CCyj9sfEKtI3hxJ3J8qdOX0mgeNQW7jKOtvg",
+        "title": "Liked by Olsen B.",
+        "activity": ""
+      },
+      {
+        "link": "https://www.linkedin.com/posts/victor-schwartz_ai-cursor-activity-7293103457073291264-erRb",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQH_hCVsiQTV3A/feedshare-shrink_800/B4DZTZO8lVHYAg-/0/1738811362646?e=2147483647&v=beta&t=vYCJCmuPpwBjmKHwLjNSXKTVDQi6oFDuiVxG92J68bM",
+        "title": "Vibe coding is definitely a thing and it\u2019s exploding in popularity.\n\nIt seems like every other person I talk to has now picked up coding because of\u2026",
+        "activity": "Liked by Olsen B."
+      },
+      {
+        "link": "https://www.linkedin.com/posts/comrie-flinn_founders-spring-mixerhosted-by-loupt-activity-7295211315625635841-uPYW",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQEok9eiI9XhEQ/articleshare-shrink_800/articleshare-shrink_800/0/1739313504532?e=2147483647&v=beta&t=hhGuPVpzpxIWTJUwgF8oF6ir2cUD1m9LtQvdt-88Z2M",
+        "title": "Looking forward to hosting another night of great tech talks. See you all there!",
+        "activity": "Liked by Olsen B."
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=lMkCSsceJNmUG1r0VRg3Whye1sVi2KtYvt-MWyfoNbY",
+        "certification": "Microsoft Reach Design Mentoring Program",
+        "company_url": "https://www.linkedin.com/company/microsoft?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Microsoft",
+        "issue_date": "Issued Feb 2021",
+        "credential_id": ""
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=lMkCSsceJNmUG1r0VRg3Whye1sVi2KtYvt-MWyfoNbY",
+        "certification": "Microsoft Excel 2013 Certification",
+        "company_url": "https://www.linkedin.com/company/microsoft?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Microsoft",
+        "issue_date": "",
+        "credential_id": ""
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/michaelmoura?trk=public_profile_browsemap-profile",
+        "name": "Michael Moura \ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+        "summary": "",
+        "location": "New York City Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/joonhojhan?trk=public_profile_browsemap-profile",
+        "name": "Joonho Han",
+        "summary": "",
+        "location": "Queens, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sonia-dumitru?trk=public_profile_browsemap-profile",
+        "name": "Sonia Dumitru",
+        "summary": "",
+        "location": "Greater Chicago Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/haleycanderson?trk=public_profile_browsemap-profile",
+        "name": "Haley Anderson",
+        "summary": "Microsoft Software Developer | Grace Hopper Scholar | Chapman University Alum",
+        "location": "Greater Seattle Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/balanivash?trk=public_profile_browsemap-profile",
+        "name": "Nivash Srinivasa Ragavan",
+        "summary": "",
+        "location": "Redmond, WA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/andrew-chacon-35250b138?trk=public_profile_browsemap-profile",
+        "name": "Andrew Chacon",
+        "summary": "I do a lot of everything, anything and anywhere.",
+        "location": "Norwalk, CT"
+      },
+      {
+        "link": "https://www.linkedin.com/in/joetomjob?trk=public_profile_browsemap-profile",
+        "name": "Joe Tom Job",
+        "summary": "",
+        "location": "Austin, Texas Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mitchell-alton?trk=public_profile_browsemap-profile",
+        "name": "Mitchell Alton",
+        "summary": "",
+        "location": "Greater Houston"
+      },
+      {
+        "link": "https://www.linkedin.com/in/reetibanthia?trk=public_profile_browsemap-profile",
+        "name": "Reeti Banthia",
+        "summary": "",
+        "location": "Milpitas, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/dalvinjosias?trk=public_profile_browsemap-profile",
+        "name": "Dalvin J.",
+        "summary": "",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://de.linkedin.com/in/dr-med-claas-olsen-behn-b-sc-75a5061a5?trk=public_profile_samename-profile",
+        "name": "Dr. med. Claas-Olsen Behn, B. Sc.",
+        "summary": "UKSH",
+        "location": "Kiel"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "1st place at Caltech's HackTech",
+        "organization": "Caltech",
+        "duration": "2023",
+        "summary": ""
+      },
+      {
+        "name": "Best Project using Computational Intelligence at Stanford's LAW X LLM",
+        "organization": "Stanford Law School",
+        "duration": "2023",
+        "summary": ""
+      },
+      {
+        "name": "Sophomore Scholar Award",
+        "organization": "Virginia Tech",
+        "duration": "Apr 2021",
+        "summary": ""
+      },
+      {
+        "name": "Charles Savile Brown Scholarship",
+        "organization": "Virginia Tech",
+        "duration": "2019",
+        "summary": ""
+      },
+      {
+        "name": "John L. Pratt Scholarship",
+        "organization": "Virginia Tech",
+        "duration": "2019",
+        "summary": ""
+      },
+      {
+        "name": "The Virginia EL Supervisors' Association Scholarship",
+        "organization": "The Virginia EL Supervisors' Association",
+        "duration": "2018",
+        "summary": ""
+      },
+      {
+        "name": "2nd place in the GCM Annual Science Fair",
+        "organization": "-",
+        "duration": "",
+        "summary": "Awarded 2nd place in the GCM Annual Science Fair for my project titled \"How does the plucking position affect the quality of the sound produced by a guitar string? (Pick me please!)\""
+      },
+      {
+        "name": "MLH Top 50",
+        "organization": "MLH",
+        "duration": "",
+        "summary": ""
+      }
+    ],
+    "score": [
+      {
+        "name": "SAT - Math",
+        "score": "Score: 800",
+        "duration": "",
+        "summary": "Math: 800/800"
+      }
+    ]
+  }
+]

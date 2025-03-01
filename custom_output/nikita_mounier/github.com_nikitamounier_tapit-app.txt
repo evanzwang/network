@@ -1,0 +1,223 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fnikitamounier%2Ftapit-app)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=nikitamounier%2Ftapit-app)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                    [nikitamounier](/nikitamounier)
+                  /
+                    [tapit-app](/nikitamounier/tapit-app)
+                  Public
+                    You must be signed in to change notification settings
+                      3
+                        Star
+                        34
+                App which lets two people share their social media details by simply putting one phone on top of the other ("tapping"). Currently in development by Nikita Mounier.
+                License
+                    stars
+                    forks
+                    Branches
+                    Tags
+                    Activity
+                    Code
+                    0
+                    Pull requests
+                    Projects
+                    Insights
+                    Additional navigation options
+              nikitamounier/tapit-app
+                                    $
+                                    /$
+                                        Go to file
+                                Folders and files
+                                          Last commit message
+                                          Last commit date
+                                          Latest commit
+                                              History
+                                                    359 Commits
+                                                  .swiftpm/
+                                                  xcode
+                                                [.vscode](/nikitamounier/tapit-app/tree/main/.vscode)
+                                                [App](/nikitamounier/tapit-app/tree/main/App)
+                                                [Sources](/nikitamounier/tapit-app/tree/main/Sources)
+                                                [TapIt.xcworkspace](/nikitamounier/tapit-app/tree/main/TapIt.xcworkspace)
+                                                [Tests](/nikitamounier/tapit-app/tree/main/Tests)
+                                                [.gitignore](/nikitamounier/tapit-app/blob/main/.gitignore)
+                                                [LICENSE.md](/nikitamounier/tapit-app/blob/main/LICENSE.md)
+                                                [Package.resolved](/nikitamounier/tapit-app/blob/main/Package.resolved)
+                                                [Package.swift](/nikitamounier/tapit-app/blob/main/Package.swift)
+                                                [README.md](/nikitamounier/tapit-app/blob/main/README.md)
+                                          View all files
+                                    Repository files navigation
+                                            README
+                                        Tap It
+                                      Tap It enables two people to seamlessly share their social media information (e.g. Instagram, Snapchat, phone number) by simply placing one screen on top of the other horizontally (aka "tapping"). This app is privacy-centric: all information, which is inherently sensitive, is stored on-device, and all wireless data transfer is encrypted.
+                                        Frameworks
+                                      Tap It uses:
+                                            [SwiftUI](https://developer.apple.com/documentation/swiftui)
+                                            [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
+                                            by
+                                            [Pointfree](https://www.pointfree.co)
+                                            [Combine](https://developer.apple.com/documentation/combine)
+                                            [Network Framework](https://developer.apple.com/documentation/network)
+                                            [Core Location](https://developer.apple.com/documentation/corelocation)
+                                            and
+                                            [Core Bluetooth](https://developer.apple.com/documentation/corebluetooth)
+                                            (
+                                            [iBeacon](https://developer.apple.com/documentation/corelocation/clbeacon)
+                                            )
+                                            [Non-Empty](https://github.com/pointfreeco/swift-nonempty)
+                                            [Prelude](https://github.com/pointfreeco/swift-prelude)
+                                            [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)
+                                            [Difference](https://github.com/krzysztofzablocki/Difference)
+                                            [Sourcery Pro](https://merowing.info/sourcery-pro/)
+                                        Motivation
+                                      When meeting someone, it takes a nail-bitingly long time to share each other's social media details. Finding the person's account, requesting them, them accepting, then vice versa; in a day and age where everyone has an account on at least two or more platforms, this takes a laughably long time.
+                                      Tap It aims to drastically streamline this process, to both parties simply pressing "share" and then placing one phone on top of the other.
+                                        Current Progress
+                                      Tap It now has the structure to become hyper-modularized, allowing for better testing, build times, and dependency management. Development will go feature by feature, with the core business logic built before the thin, lightweight views laid on top.
+                                      ## Interesting code
+                                      Most of the important code is in
+                                        [/Sources](https://github.com/nikitamounier/tapit-app/tree/main/Sources)
+                                        . For some interesting examples using The Composable Architecture looks like, check out
+                                        [/Sources/BeaconClient/](https://github.com/nikitamounier/tapit-app/blob/main/Sources/BeaconClient/Live.swift)
+                                        ,
+                                        [/Sources/MultipeerClient/](https://github.com/nikitamounier/tapit-app/blob/main/Sources/MultipeerClient/Live.swift)
+                                        [/Sources/TapFeature/](https://github.com/nikitamounier/tapit-app/blob/main/Sources/TapFeature/TapFeatureView.swift)
+                                        !
+                                      On the topic of The Composable Architecture, I'm doing a 30-min talk about it at NSLondon on November 24th. See you there!
+                                        Author
+                                      Nikita Mounier,
+                                        [nikita.mounier@gmail.com](mailto:nikita.mounier@gmail.com)
+                                        Licence / Copyright
+                                      View
+                              About
+                                  [swift](/topics/swift)
+                                  [ios](/topics/ios)
+                                  [app](/topics/app)
+                                  [social-media](/topics/social-media)
+                                  [network](/topics/network)
+                                  [peer-to-peer](/topics/peer-to-peer)
+                                  [swift-package-manager](/topics/swift-package-manager)
+                                  [data-transfer](/topics/data-transfer)
+                                  [ibeacon](/topics/ibeacon)
+                                  [unidirectional-data-flow](/topics/unidirectional-data-flow)
+                                  [network-framework](/topics/network-framework)
+                                  [swiftui](/topics/swiftui)
+                                  [composable-architecture](/topics/composable-architecture)
+                                  [tap-it](/topics/tap-it)
+                              Stars
+                              Watchers
+                                  watching
+                              Forks
+                                [Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fnikitamounier%2Ftapit-app&report=nikitamounier+%28user%29)
+                              [Releases](/nikitamounier/tapit-app/releases)
+                            No releases published
+                              [Packages](/users/nikitamounier/packages?repo_name=tapit-app)
+                            No packages published
+                            Languages
+                                  Swift
+                                  100.0%
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

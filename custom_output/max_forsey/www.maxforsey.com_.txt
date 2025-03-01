@@ -1,0 +1,36 @@
+              Max Forsey
+              I like to research AI and build helpful tools 🛠️
+                I like to research AI and
+                build helpful tools 🛠️
+          Hi, I'm Max 👋
+                Co-founder of
+                  [justbuild](https://justbuild.ing/)
+                  , the builder community
+                Studying machine learning at BYU
+                Researching AI in the PCC Lab
+                  Learn about me
+          Blog
+            Collections
+                    books
+                    films
+                    music
+                    quotes
+                    tools
+                    longevity
+            Blog Posts
+                    Chronotype-based scheduling
+                    uv add > pip install
+                    From APIs to Model Training: A Deep Learning Guide
+                    I Am Becuase We Are
+                    Longevity: The New Compound Interest
+                    ←
+              1
+                    →
+          Projects and Papers
+                  Gradient Sparse Autoencoders
+                        paper
+                Introduces a novel approach to extracting neural network features by considering both activation values and their downstream effects. This modification to traditional Sparse Autoencoders leads to more faithful reconstructions and more effective model steering capabilities.
+                  FreshSesh AI
+                        project
+                A developer tool that uses a local LLM to provide personalized context summaries of your previous work sessions. Helps you quickly get back into flow by recapping where you left off.
+                  maxforsey.com

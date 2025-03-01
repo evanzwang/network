@@ -1,0 +1,134 @@
+                      Search this site
+                  Embedded Files
+                Skip to main content
+                Skip to navigation
+                    Zifan Wang
+                          [Home](/west.cmu.edu/zifan-wang/home)
+                          [Talks](/west.cmu.edu/zifan-wang/talks)
+                                [GL-CMU 18661](/west.cmu.edu/zifan-wang/talks/gl-cmu-18661)
+                                [GL-Standford CS329T](/west.cmu.edu/zifan-wang/talks/gl-standford-cs329t)
+                                [GL - UW Madison](/west.cmu.edu/zifan-wang/talks/gl-uw-madison)
+                          [Publications](/west.cmu.edu/zifan-wang/publications)
+                                    Sail (Zifan) Wang
+                                    E-mail:
+                                    thezifan_at_gmail.com
+                                    I am currently a Research Scientist
+                                    at
+                                    ScaleAI
+                                    .
+                                    I
+                                    received my Ph.D. in
+                                    Electrical and Computer Enigneering
+                                    from
+                                    CMU in 2023. I
+                                    was
+                                    co-advised by Prof.
+                                      Anupam Datta
+                                    and Prof.
+                                      Matt Fredrikson
+                                    My
+                                    research
+                                    interests include:
+                                        AI Safety
+                                            Adversarial Robustness
+                                            Alignment Failure
+                                        ML Explainability
+                                            Gradient-based Methods
+                                            Local Explanations
+                                        LLM Agents
+                                        Frontier Evaluations
+                                    Try the "Safe AGI" demo be
+                                    low
+                                    !😜 It is certifiably safe 🤗!
+                                    (better view on desktop)
+                                      News
+                                        Two LLM and agent safety preprints from SEAL are released on arxiv. Check out the top two in the
+                                          Publication
+                                        page
+                                        I have joined the SEAL team of Scale AI as a Research Scientsit on Agents and Safety.
+                                          WMDP
+                                        benchmark and the unlearning approach RMU is featured in
+                                          TIME
+                                        Our automatic jailbreaking technique for LLMs is featured in
+                                          New York Times
+                                        ,
+                                          Register
+                                        ,etc..
+                                      Open Collaborations
+                                    I am open (and very happy) to work with researchers in the industry or students on selected topics. If we know each other before feel free to reach out by emails. Otherwise, it would be better if you can fill out the following Google form first (DM-ing me on LinkedIn or Twitter might not work).
+                                          Collaboration Intake Form
+                                        Click to See the
+                                        Full List of Publications
+                                      Selected Publications
+                                      Universal and Transferable Adversarial Attacks on Aligned Language Models
+                                      [
+                                        PDF
+                                      |
+                                        Code
+                                        Demo
+                                      ]
+                                    Andy Zou,
+                                    Zifan Wang,
+                                    Nicholas Carlini, Milad Nasr,
+                                    J. Zico Kolter, Matt Fredrikson
+                                    TL;DR
+                                    We introduce GCG, a new and effective gradient-based attack to language models.
+                                    Current instruction-tuned models are often required to be aligned, e.g. by RLHF, not to elicit harmful or unetical completions. The goal of the attack is to find a suffix to potentially harmful user prompts, e.g.
+                                    How to make a pipeline bomb
+                                    , so the combined prompt would break such alignment filter. Importantly, we find adversarial suffixes found by GCG on open-source models transfer very well to commerical models like ChatGPT and Claude.
+                                    Read the
+                                    article
+                                    People Talks about our work in their Youtube Channels. E.g.
+                                    AI Safety Reading Group discusses our work
+                                      Globally-Robust Neural Networks
+                                      [ICML 2021]
+                                    Klas Leino,
+                                    , Matt Fredrikson
+                                    We design a new type of neural network, GloRo Nets, which predicts the most likely class of the input and simultaneously certifies if the prediction is robust for
+                                    any
+                                    input perturbation in a pre-defined L2-norm ball. Our certification is based on the global Lipschitz constant of the network and the inference speed of prediction + certification is as fast as a standard inference run.
+                                            icml21_slides.pdf
+                                      Improving Robust Generalization By Directly PAC-Bayesian Bound Minimization
+                                      [CVPR2023 highlight (top10%)]
+                                    Zifan Wang, Nan Ding, Tomer Levinboim, Xi Chen, Radu Soricut
+                                    We use a learning thoery, i.e. PAC-Bayesian, to upper-bounds the adversarial loss over the test distribution with quantities we can minimize during the training. We present a method, TrH Regularization, which can be plugged in with PGD training, TRADES and many other adversarial losses. Our work updates the state-of-the-art empirical robustness using Vision Transformers.
+                                    Poster (left) & Slides (
+                                    middle
+                                    ) & Video (right).
+                                    C
+                                    lick to see the full
+                                            Improving Robust Generalization by  Direct PAC-Bayesian Bound Minimization.pdf
+                                      Selected
+                                      Tutorial
+                                      Machine Learning
+                                      Explainability and Robustness: Connected At Hip
+                                      SIGKDD 2021]
+                                        homepage
+                                    Anupam Datta, Matt Fredrikson, Klas Leino, Kaiji Lu,
+                                    Shayak Sen, Zifan Wang
+                                    This tutorial examines the synergistic relationship between explainability methods for machine learning and a significant problem related to model quality: robustness against adversarial perturbations.
+                                            kdd_tutorial_to_upload.pdf
+                                      Interviews
+                                    ARD - Jailbeaking ChatGPT for leaking bio-weapon knowledge -
+                                      Link
+                                      Teaching
+                                    Guest Lecture - 18661 CMU Spring 2023 [
+                                      slides
+                                    Guest Lecture - CS 329T Stanford Fall 2023 [l
+                                      ink
+                                    Guest Lecture - UW, Madison CS 2024 Spring [
+                                      Serving as Reviewer
+                                    NeurIPS
+                                    2020 - 2024
+                                    ICLR
+                                    ICML
+                                    2021 - 2024
+                                    CVPR
+                                    2022 - 2024
+                                    TMLR
+                                    .        2022 - 2024
+                                      Contact:
+                                        thezifan@gmail.com
+                            Report abuse
+                            Page details
+                      Page updated

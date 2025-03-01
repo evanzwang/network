@@ -1,0 +1,118 @@
+  6.111 Final Projects Fall 2019
+        No.
+        Team members
+        Project
+        Staff
+      template
+<tr>
+  <td bgcolor="#EEEEFF" align="right"><font color="grey">1</font></td>
+  <td bgcolor="#EEEEFF">team member names</td>
+  <td bgcolor="#EEEEFF">
+    project title<br>
+    <font size="1"><A href="xxx_Project_Abstract.pdf">Abstract</A></font>
+    <font size="1"><A href="xxx_Project_Proposal.pdf">Proposal</A></font>
+    <font size="1"><A href="xxx_Project_Design_Presentation.pdf">Presentation</A></font>
+    <font size="1"><A href="xxx_Project_Checklist.pdf">Checklist</A></font>
+    <font size="1"><A href="xxx_Project_Final_Report.pdf">Report</A></font>
+    <font size="1"><span class="viewclip" onClick=javascript:viewclip("xxx.mov")>Video</span></font>
+  </td>
+  <td bgcolor="#EEEEFF">Diana</td>
+</tr>
+          1
+        Isabelle Chong
+        Mario Bros Classic in Real Life
+            [Abstract](chongi_Project_Abstract.pdf)
+            [Proposal](chongi_Project_Proposal.pdf)
+            [Presentation](chongi_Project_Design_Presentation.pdf)
+            [Checklist](chongi_Project_Checklist.pdf)
+            [Report](chongi_Project_Final_Report.pdf)
+            Video
+        Diana
+          2
+        Jeana Choi
+        Stereoscopic Observation System (SOS)
+        Mike
+          3
+        Gian Delfin
+        Gim’s Labyrinth
+          4
+        Ray Dedhia
+        Gesture Control Fighting Game
+          <font size="1"><span class="viewclip" onClick=javascript:viewclip("xxx.mov")>Video</span></font>
+        Gim
+          5
+        Dance Dance Revolution
+        Sarah
+          6
+        Jacob Pritzker
+        Freeform Production of Gorgeous Audio
+          7
+        Colin Chaney
+        FPGA Software Define Radio (SDR)
+        Joe
+          8
+        Emmanuel Havugimana
+        Chase-bot
+          9
+        Roderick Bayliss
+        FPGA Minesweeper
+          10
+        James Abel
+        QAM Receiver for Video Signals from a Quadcopter Camera
+          11
+        Miles Dai
+        FPGA RFID Utility
+          12
+        Evan Gabhart
+        An Electronic Drum
+          13
+        Olutimilehin Omotunde
+        E.D.I.T.H.
+          14
+        Ishaan Govindarajan
+        The DiGuitar
+          15
+        Cecelia Chu
+        FPGA Ray Tracer
+          16
+        Brendan Ashworth
+        FPGA Piano-Playing Robot
+          17
+        Rhian Chavez
+        FPGA Light Controller
+          18
+        Kika Arias
+        FPGA Auto-Tune
+          19
+        Israel Bonilla
+        Nintendo Entertainment System Emulation
+          20
+        Endrias Kahssay
+        An HFT Accelerator
+            [Report Update](endrias_Project_Final_Report3.pdf)
+          21
+        Alejandro Diaz
+        FPGuitAr Hero
+          22
+        Matthew Johnston
+        The Beep Boop 9000
+          23
+        Kendall Garner
+        digitEyes
+          24
+        Charity Midenyo
+        3D Tetris
+          25
+        Jeremy McCulloch
+        Pepper’s Ghost Approximation
+          26
+        Grayson King
+        ChessAI -  Real Life Chess against AI
+          27
+        Roberto Garcia
+        FPGA Tetris
+          <font size="1"><A href="xxx_Project_Final_Report.pdf">Report</A></font>
+    <font size="1"><span class="viewclip" onClick=javascript:viewclip("xxx.mov")>Video</span></font>
+          28
+        Jackson Gray
+        FPGA Brushless Motor Controller

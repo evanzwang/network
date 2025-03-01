@@ -1,0 +1,73 @@
+{
+  "title": "Alvin Zhang",
+  "meta_description": "",
+  "main_content": "Alvin Zhang About CV Projects (Serious) Projects (Fun) Code Libraries Alvin Zhang Research Engineer, Matician Github: https://github.com/alvinzz Email: alvn.zng [at] gmail About I am a currently a research engineer at Matician , working on perception for autonomous robots. Over the past summer, I worked with Dr. Bruno Olshausen in the Redwood Center for Theoretical Neuroscience at UC Berkeley. Previously, I recieved a B.Sc. in Electrical Engineering and Computer Science from UC Berkeley. Goals I am seeking a Ph.D. in Computer Vision or Robotics. Research Interests My goal is to build robust, intelligent autonomous systems . Model verification and continual learning by using test-time feedback from self-supervision . Ground visual representation in touch as the ultimate modality for robotic interaction. Learn actionable representations of an agent\u2019s external environment. Augment volumetric rendering systems with expressive priors for faster and more stable inference . Demonstrate effectiveness of algorithms on real-world robots . Potential Projects Demonstrate on-line learning and adaption in a real-world robot using the principle of self-consistency. Experiment with meta-learning techniques to speed up on-line adapation to out-of-distribution samples from new environments. Investigate how to best choose samples for off-line training. Plan cautious, information-seeking behavior if perceptual predictions are not self-consistent. Use robust classical methods as a fallback for learned policies. Learn a self-consistent visual-proproceptive-tactile representation for navigation by having a Roomba-like robot bump into things. Use this representation for path-planning and distill it into a robust policy. Ambitiously, learn a representation and policy for object manipulation in this way. Leverage rich neural priors for 3-D shape estimation. Train a diffusion-based generative model over Neural SDFs or NeRFs to improve inference from sparse views or noisy poses. Extended Statement After receiving my Bachelor\u2019s from UC Berkeley, I spent two years in industry developing algorithms for real-world robots. To my surprise, across several applications, I found that it was preferable to use classical methods and that learning-based approaches should be used as a last resort. Why is this? Shouldn\u2019t a system that learns be more robust? The hallmark of intelligence is the ability to adapt. During training time, neural networks adjust their weights to improve their performance through repeated exposure to examples and feedback. However, at test-time, they lose this learning capability: a neural network presented with a scenario outside of its training distribution may perform arbitrarily poorly. Worse, it would not provide any signal of this poor performance. This lack of robustness has catastrophic consequences for real-world robots; this necessitates that any deep-learning-based module be carefully isolated from the rest of the system. This analysis has led me to the following proposal: PROPOSAL: If we are to trust a learning-based module in a real-world application, then it must have a mechanism to evaluate its performance and improve its behavior, regardless of the input. To achieve this, I propose to enforce self-consistency in learned systems, not just during training, but also at run-time. This not only provides a measure of confidence in the robot\u2019s internal representation of the world, but is also a natural framework for continual learning. My approach is a natural extension of self-supervised representation learning and it can leverage exactly the same techniques. However, by removing the dichotomy between \u201ctrain-time\u201d and \u201ctest-time\u201d, this approach enables on-line system evaluation and continual learning. For example, a photometric loss can be used to supervise training for stereo matching or optical flow. This is the end of the story for current \u201cdeep\u201d approaches \u2013 at test-time, a red pixel can still be matched to a green pixel with high confidence. Instead, by using the photometric loss at test-time, the robot gets a signal that the prediction is incorrect, which can then be used to refine the prediction, adapt behavior, and supervise further training. More generally, the theory of \u201cPerception as Inference\u201d casts perceptual inference as an on-line optimization problem. It posits that the goal of perception is to infer, from observations, an actionable internal state that reflects an agent\u2019s environment. This internal state should be verified by further observations; any inconsistencies should be identified and resolved, either through careful exploratory actions or an internal reasoning process. In particular, for robotics, this suggests that visual perception should be grounded in touch, since that is the way that robots ultimately interact with the world. Projects See my Projects (Serious) and Projects (Fun) pages. Also check out my code libaries for tensor dimension-naming and coordinate-transform type-safety! Publications A. Zhang, \u201cGeneralized Skill Learning, Safety, and Exploration with Flow-Based Models\u201d, Workshop on Task-Agnostic Reinforcement Learning, International Conference on Learning Representations, 2019. Page generated 2024-09-17 12:12:24 CEST, by jemdoc . ( source )",
+  "links": [
+    {
+      "url": "index.html",
+      "text": "About"
+    },
+    {
+      "url": "files/Alvin_Zhang_CV_Sep_2024.pdf",
+      "text": "CV"
+    },
+    {
+      "url": "projects.html",
+      "text": "Projects\u00a0(Serious)"
+    },
+    {
+      "url": "fun.html",
+      "text": "Projects\u00a0(Fun)"
+    },
+    {
+      "url": "code.html",
+      "text": "Code\u00a0Libraries"
+    },
+    {
+      "url": "http://matician.com",
+      "text": "Matician"
+    },
+    {
+      "url": "https://github.com/alvinzz",
+      "text": "https://github.com/alvinzz"
+    },
+    {
+      "url": "http://matician.com",
+      "text": "Matician"
+    },
+    {
+      "url": "https://redwood.berkeley.edu/people/bruno-olshausen/",
+      "text": "Dr. Bruno Olshausen"
+    },
+    {
+      "url": "https://redwood.berkeley.edu",
+      "text": "Redwood Center for Theoretical Neuroscience"
+    },
+    {
+      "url": "projects.html",
+      "text": "Projects (Serious)"
+    },
+    {
+      "url": "fun.html",
+      "text": "Projects (Fun)"
+    },
+    {
+      "url": "code.html",
+      "text": "code libaries"
+    },
+    {
+      "url": "http://jemdoc.jaboc.net/",
+      "text": "jemdoc"
+    },
+    {
+      "url": "index.jemdoc",
+      "text": "source"
+    }
+  ],
+  "images": [
+    {
+      "src": "files/profile.jpeg",
+      "alt": ""
+    }
+  ]
+}

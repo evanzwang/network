@@ -1,0 +1,75 @@
+  start preloader
+  / end preloader
+                Toggle navigation
+                  [Home](https://www.cecs.ucf.edu/sagarwal/)
+                  [Events](https://www.cecs.ucf.edu/sagarwal/blog/)
+                  [Research](https://www.cecs.ucf.edu/sagarwal/research/)
+                  [Publications](https://www.cecs.ucf.edu/sagarwal/publications/)
+                  [Team](https://www.cecs.ucf.edu/sagarwal/team/)
+                  [Join Us!](https://www.cecs.ucf.edu/sagarwal/future-member/)
+        /.navbar
+      #masthead
+              Address
+                Room: Engr II 409
+                Contact Information
+                  Call:
+                  +1 (407) 823-6205
+                  Email:
+                  Shaurya.Agarwal [at] ucf.edu
+              Dr. Shaurya Agarwal
+              Associate Professor,
+Department of Civil, Environmental & Construction Engineering
+              University of Central Florida, Orlando, Florida.
+                  Dr. Agarwal
+                  is currently (2024–present) an Associate Professor in the Civil, Environmental, and Construction Engineering Department at the University of Central Florida. He is the founding director of Urban Intelligence and Smart City (URBANITY) Lab and a key member of the
+                  [Future City Initiative](https://www.cece.ucf.edu/future-city-initiative/)
+                  at UCF. He was previously (2018-2024) an Assistant Professor in the Civil, Environmental, and Construction Engineering Department at the University of Central Florida and (2016–18) an Assistant Professor in Electrical and Computer Engineering Department at the California State University, Los Angeles. He completed his post-doctoral research at New York University (2016) and Ph.D. in Electrical Engineering from University of Nevada, Las Vegas (2015). His B.Tech. degree is in Electronics and Communication Engineering from Indian Institute of Technology (IIT), Guwahati. His research focuses on interdisciplinary areas of cyber-physical systems, smart and connected transportation, and connected and autonomous vehicles. Passionate about cross-disciplinary research, he integrates control theory, information science, data-driven techniques, and mathematical modeling in his work. He has published 1 book, over 23 peer-reviewed publications, and multiple conference papers on multi-disciplinary. His work has been funded by several private and government agencies. He is a senior member of IEEE and serves as an associate editor of IEEE Transactions on Intelligent Transportation Systems.
+                  [Google Scholar Profile](https://scholar.google.com/citations?user=u-l6B2gAAAAJ&hl=en)
+              /.stage-content-biog
+              Education
+                        2015
+                        Ph.D. in Electrical Engineering
+                        University of Nevada Las Vegas
+                        M.S. in Applied Mathematics
+                        2012
+                        M.S. in Electrical Engineering
+                        2009
+                        B. Tech., Electronics, and Communication Engineering
+                        Indian Institute of Technology (I.I.T.), Guwahati, India
+            /.gimps-container
+              Work Experience
+                      2024-Present
+                        Associate Professor (with tenure)
+                        Department of Civil, Environmental & Construction Engineering, University of Central Florida, Orlando, Florida
+                      2018-2024
+                        Assistant Professor
+                      2016-2018
+                        Electrical & Computer Engineering Department, California State University, Los Angeles, CA
+                      2015-2016
+                        Postdoctoral Associate
+                        New York University, New York, NY
+                      2011- 2015
+                        Research Assistant,
+                        Transportation Research Center University of Nevada, Las Vegas
+                      2009-2011
+                        Consultant
+                        E-Governance PriceWaterhouseCoopers (PwC), India
+            /.gimps-container .appoint-timeline-holder
+              Awards
+                      2016
+                        Best Ph.D. Dissertation Award
+                          Howard R. Hughes College of Engineering, UNLV
+                      March 2016
+                        Best paper award for USA authors (Anjala Krishen, Orie Berezan, Shaurya Agarwal, Pushkin Kachroo, “The generation of virtual needs: Recipes for satisfaction in social media networks”)
+                          Global Innovation and Knowledge Academy (GIKA) Conference, Valencia, Spain
+                      2014-2015
+                        Roy and Helen Kelsall Scholarship
+                          University of Nevada, Las Vegas
+          #main
+                  Copyright© 2021 -
+                    [URBan intelligence & smart cITY Laboratory](https://www.cecs.ucf.edu/sagarwal/)
+                Developed and Managed by:
+                  [URBANITY Team](https://www.cecs.ucf.edu/sagarwal/team/)
+      #colophon
+    #page
+  end site main

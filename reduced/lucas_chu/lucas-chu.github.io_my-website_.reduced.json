@@ -1,0 +1,37 @@
+{
+  "title": "Lucas Chu",
+  "meta_description": "",
+  "main_content": "hi! i'm Lucas. > student. software developer. innovator. aspiring ml engineeer. designer. builder. tinkerer. hands-on learner. leader. aspiring ml | | about. I am a passionate computer scientist, leader, and statistician who wants to make the most of what I've learned, whether through poetry, creative writing, articles, statistical visualizations, videos, tutoring, or coding projects. Feel free to contact me if you're interested in any of my projects: lucaschu@college.harvard.edu { \"name\" : \"Lucas Chu\" , \"age\" : 18 , \"student\" : true , \"goal\" : \"to create as much as possible\" } projects.",
+  "links": [
+    {
+      "url": "mailto:lucaschu@college.harvard.edu",
+      "text": "lucaschu@college.harvard.edu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chulucas/",
+      "text": ""
+    },
+    {
+      "url": "mailto:lucaschu@college.harvard.edu",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/Lucas-chu/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "Lucas%20Chu_files/linkedin_ico.png",
+      "alt": ""
+    },
+    {
+      "src": "Lucas%20Chu_files/email_ico.png",
+      "alt": ""
+    },
+    {
+      "src": "Lucas%20Chu_files/github_ico.png",
+      "alt": ""
+    }
+  ]
+}

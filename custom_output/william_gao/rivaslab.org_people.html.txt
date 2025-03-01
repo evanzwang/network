@@ -1,0 +1,25 @@
+          Rivas Lab:
+            People
+      Brand and toggle get grouped for better mobile display
+          Toggle navigation
+      Collect the nav links, forms, and other content for toggling
+            [home](.)
+            [research](research.html)
+            [people](people.html)
+            [publications](publications.html)
+            [software](software.html)
+            [teaching](teaching.html)
+      /.navbar-collapse
+          Elena Rivas
+        Agata Kilar
+        Marcell Szikszai
+        Marcin Magnus
+        Ipsa Mittra
+        Aayush Karan
+  Alumni
+        Max Ward
+        Ann Yang
+        William Gao
+        Amanda Zhang
+        Audrey Dalgarno
+      Mattia Mah’moud

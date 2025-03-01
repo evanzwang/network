@@ -1,0 +1,190 @@
+    <section class="header-strip bg-yyc clearfix">
+            <div class="container clearfix">
+                <ul class="m-0 list-inline  pl-0 pr-0 upper-left-nav text-center">
+					<marquee>
+						 <li class="list-inline-item">
+                      	   <a class="text-center text-dark font-weight-bold fs-7" href="https://ifh.rutgers.edu/covid-resources/">
+							   <u>Important note</u>: COVID-19 testing at Rutgers Institute for Health is closed until further notice.
+						   </a>
+                    	</li>
+					</marquee>
+
+				
+					 <li class="list-inline-item ">
+                       <u> <a class="text-center text-dark font-weight-bold" href="https://ifh.rutgers.edu/covid-resources/">
+                        Click here for the latest COVID-19 research and resources.</a></u>
+                    </li>
+				
+					
+                     <li class="list-inline-item ">
+                       <u><h2> <a class="text-center text-dark font-weight-bold" href="https://ifh.rutgers.edu/covid-resources/">
+                        CLICK HERE FOR THE LATEST COVID-19 RESEARCH AND RESOURCES</a></h2></u>
+                    </li> 
+                </ul>
+            </div>
+        </section>
+            [Home |](https://ifh.rutgers.edu/)
+            [RBHS |](http://rbhs.rutgers.edu/)
+            [Rutgers, The State University of New Jersey](https://www.rutgers.edu/)
+              Dinesh new
+              Dinesh New
+              <input class="form-control p-0 m-0 border-0" type="search" placeholder="What you are looking for ?" aria-label="Search">
+                          <button type="submit" class="p-0 m-0 border-0"><i class="fa fa-search pl-4"></i></button>
+              [Support](/philanthropy-communications/)
+            <a class="navbar-brand logo-div" href="https://ifh.rutgers.edu/"><img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/rutgerslogo.png" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+            <a class="navbar-brand logo-div" href="https://ifh.rutgers.edu/"><img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/IFH_RutgersUniversity.png" alt="IFH, Rutgers University Header Logo" class="header-logo img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+                                  [Overview](https://ifh.rutgers.edu/overview/)
+                                  [Strategic Plan](https://ifh.rutgers.edu/strategic-plan/)
+                                  [Faculty and Staff Resources](https://ifh.rutgers.edu/faculty-and-staff-resources/)
+                                  [Annual Report 2020](https://ifh.rutgers.edu/annual-report-2020/)
+                                  [Annual Report 2021](https://ifh.rutgers.edu/annual-report-2021/)
+                                  [Opportunities](https://ifh.rutgers.edu/opportunities/)
+                                  [Contact](https://ifh.rutgers.edu/contact-us/)
+                                  [News](https://ifh.rutgers.edu/news/)
+                                  [Research](https://ifh.rutgers.edu/research/)
+                <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Divisions 
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="row m-0">
+                                    <div class="offset-sm-4">
+                                        <div class="row">
+                                            <div class="col-sm-6 nav-photo-div">
+                                                <img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/about.png" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                                            </div>
+                                            <div class="col-sm-6">
+                                              <div class="menu-divisions-container"><ul id="menu-divisions" class="menu"><li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://ifh.rutgers.edu/division-on-health/">Division on Health</a></li>
+<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a href="https://ifh.rutgers.edu/division-on-health-policy/">Division on Health Policy</a></li>
+<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://ifh.rutgers.edu/division-on-aging/">Division on Aging</a></li>
+</ul></div>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                          </li>
+                                      [Center for Health Services Research](https://ifh.rutgers.edu/health-service/)
+                                      [Center for Healthy Aging Research](https://ifh.rutgers.edu/center-for-healthy-aging/)
+                                      [Center for Pharmacoepidemiology and Treatment Science (PETS)](https://ifh.rutgers.edu/treatment-science/)
+                                      [Center for Population Behavioral Health](https://ifh.rutgers.edu/population-behavioral-health/)
+                                      [Center for State Health Policy](https://ifh.rutgers.edu/health-policy/)
+                                      [Center for Climate, Health, and Healthcare](https://ifh.rutgers.edu/center-for-climate-health-and-healthcare/)
+                                      [New Jersey Population Health Cohort Study (NJHealth Study)](https://njhealthstudy.rutgers.edu/en)
+                                      [Catalyst Program](https://ifh.rutgers.edu/catalyst-program/)
+                                      [Chinese Health, Aging, and Policy Program (PINE)](https://ifh.rutgers.edu/chinese-health/)
+                                      [Resource Center for Alzheimer’s and Dementia Research in Asian and Pacific Americans (RCASIA)](https://rcasia.rutgers.edu/)
+                                      [Community Health & Aging Outcomes Lab (CHAO)](https://www.chao.rutgers.edu/)
+                                      [Community Resource Hub](https://ifh.rutgers.edu/community-hub/)
+                                      [NJ Practice-Based Research Network](https://ifh.rutgers.edu/njpbrn/)
+                                      [New Jersey Minority Aging Collaborative (NJMAC)](https://ifh.rutgers.edu/njmac/)
+                                      [Rutgers-NYU Center for Asian Health Promotion and Equity (CAHPE)](https://cahpe.rutgers.edu/)
+                                  [Business and Grants Management Core](https://ifh.rutgers.edu/admin-core/)
+                                  [Information Technology Core](https://ifh.rutgers.edu/information-technology/)
+                                  [Survey/Data Core](https://ifh.rutgers.edu/survey-data-core-2/)
+                                  [Communications & Marketing Core](https://ifh.rutgers.edu/communication-marketing-core/)
+                                  [Development & Philanthropy Core](https://ifh.rutgers.edu/philanthropy-communications/)
+                                  [Leadership](https://ifh.rutgers.edu/category/leadership/)
+                                  [Core Faculty and Members in Residence](https://ifh.rutgers.edu/category/core-faculty/)
+                                  [Member Emeritus and Former Members](https://ifh.rutgers.edu/category/member-emeritus/)
+                                  [Associate Faculty](https://ifh.rutgers.edu/category/associate-faculty/)
+                                  [Adjunct Faculty](https://ifh.rutgers.edu/category/adjunt-faculty/)
+                                  [Administrative Staff](https://ifh.rutgers.edu/category/administrative-business-staff/)
+                                  [Business Department](https://ifh.rutgers.edu/category/business-department/)
+                                  [Research Staff](https://ifh.rutgers.edu/category/research-staff/)
+                                  [Information Technology](https://ifh.rutgers.edu/category/research-computing/)
+                                  [Visiting Scholars](https://ifh.rutgers.edu/category/visiting-scholars/)
+                <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Catalyst
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="row m-0">
+                                    <div class="offset-sm-5"> 
+                                        <div class="row">
+                                            <div class="col-sm-6 nav-photo-div">
+                                                <img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/aboutIHHCPAR.png" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                                            </div>
+                                            <div class="col-sm-6">
+                                              <div class="menu-program-list-container"><ul id="menu-program-list" class="menu"><li id="menu-item-3259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3259"><a href="https://ifh.rutgers.edu/health-service/">Center for Health Services Research</a></li>
+<li id="menu-item-3257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3257"><a href="https://ifh.rutgers.edu/center-for-healthy-aging/">Center for Healthy Aging</a></li>
+<li id="menu-item-3261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3261"><a href="https://ifh.rutgers.edu/treatment-science/">Center for Pharmacoepidemiology and Treatment Science (PETS)</a></li>
+<li id="menu-item-3263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3263"><a href="https://ifh.rutgers.edu/population-behavioral-health/">Center for Population Behavioral Health</a></li>
+<li id="menu-item-3264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3264"><a href="https://ifh.rutgers.edu/health-policy/">Center for State Health Policy</a></li>
+<li id="menu-item-4672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4672"><a href="https://ifh.rutgers.edu/center-for-climate-health-and-healthcare/">Center for Climate, Health, and Healthcare</a></li>
+</ul></div>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                          </li>
+                        [Research & Publications](https://ifh.rutgers.edu/publications/)
+                                  [Calendar](https://ifh.rutgers.edu/seminars-lectures/)
+                                  [Members in the News](https://ifh.rutgers.edu/ifh-in-the-news/)
+                                  [NJHealth Study](https://njhealthstudy.rutgers.edu/)
+                                  [Multiple Sclerosis Study](https://ifh.rutgers.edu/multiple-sclerosis-study/)
+                                  [COVID Fatigue Study](https://ifh.rutgers.edu/covid-fatigue-study/)
+                                  [Toolkit for Community Based Organizations and Researchers](https://ifh.rutgers.edu/hu_lab_research_post/a-toolkit-for-community-based-organizations-and-researchers/)
+            Mobile Navigation
+                        [Membership](https://ifh.rutgers.edu/?page_id=701)
+                        [Employment](https://ifh.rutgers.edu/employment/)
+                        [Center for Asian Health](https://ifh.rutgers.edu/asian-health/)
+                            [Healthy Aging](https://ifh.rutgers.edu/healthy-aging/)
+                            [NJacts](https://ifh.rutgers.edu/njacts/)
+                        [Philanthropy/Communications](https://ifh.rutgers.edu/philanthropy-communications/)
+                        [Office of Research Computing](https://ifh.rutgers.edu/category/research-computing/)
+                    [Get Involved](https://ifh.rutgers.edu/register/)
+  Banner part start
+  Banner part end
+  About us part start
+              [Home](https://ifh.rutgers.edu/)
+            /
+            Catherine Lee, PhD
+          [Curriculum Vitae (.pdf)](https://ifh.rutgers.edu/wp-content/uploads/2018/10/CatherineLee.pdf)
+            Institute for Health, Health Care Policy and Aging Research
+            [clee@sociology.rutgers.edu](mailto:clee@sociology.rutgers.edu)
+          Catherine Lee is associate professor of sociology. As a political sociologist, she examines how meanings of race and ethnicity shape social relations and inequalities across three critical sites: immigration; science and medicine; and law and society. Catherine is the author of Fictive Kinship: Family Reunification and the Meaning of Race and Nation in American Immigration and co-editor of Genetics and the Unsettled Past: The Collision of DNA, Race, and History. Her new book project examines how American biomedicine is responding to ideas of growing diversity in the U.S. population.
+  About us part end
+  Footer start
+                <img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/footer-logo.png" class="img-fluid mb-4 d-md-block d-none lazyload" alt="IFH, Rutgers" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                <img data-src="https://ifh.rutgers.edu/wp-content/themes/RUwebsite/img/IFH_RutgersUniversity_footer.png" class="img-fluid mb-4 d-md-block d-none lazyload" alt="IFH, Rutgers Footer Logo" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                112 Paterson Street, New Brunswick, NJ 08901-1293
+                  Phone No:
+                  [(848) 932-8413](tel:(848) 932-8413)
+                Quick Links
+                    [About](https://ifh.rutgers.edu/overview)
+                    [Research Publications](https://ifh.rutgers.edu/publication)
+                    [News & Events](https://ifh.rutgers.edu/news/)
+                  <li>
+                                        <a href="#">News</a>
+                                    </li>
+                Other Links
+                    [Making A Gift](https://ifh.rutgers.edu/philanthropy-communications/)
+                  <li>
+                                        <a href="#">Directions</a>
+                                    </li>
+                  <li>
+                                        <a href="#">Site Map</a>
+                                    </li>
+                  <li>
+                                        <a href="#">About this Site</a>
+                                    </li>
+                    [Contact Us](https://ifh.rutgers.edu/contact-us)
+                Related Websites
+                    [Rutgers, the State University of New Jersey](https://www.rutgers.edu/)
+                    [RBHS](https://rbhs.rutgers.edu/index.shtml)
+                    [New Brunswick](https://newbrunswick.rutgers.edu/)
+                    [Newark](https://www.newark.rutgers.edu/)
+                    [Camden](https://camden.rutgers.edu/)
+        Rutgers is an equal access/equal opportunity institution. Individuals with disabilities are encouraged to direct suggestions, comments, or complaints concerning any accessibility issues with IFH Rutgers websites to
+          [dmendhe@rutgers.edu](mailto:dmendhe@rutgers.edu)
+          or complete the
+          [Report Accessibility Barrier / Provide Feedback form.](https://rutgers.ca1.qualtrics.com/jfe/form/SV_abo4ADS8OZFUYhT)
+          [Copyright © 2023](//www.rutgers.edu/site-resource/copyright-information)
+          , Rutgers, The State University of New Jersey. All rights reserved. Contact
+          [IFH](mailto:dmendhe@rutgers.edu)
+          at
+          |
+          [Webmaster](https://rutgers.ca1.qualtrics.com/jfe/form/SV_abo4ADS8OZFUYhT)
+  footer end
+  Optional JavaScript
+  For news slider

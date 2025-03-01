@@ -1,0 +1,428 @@
+  Google Tag Manager (noscript) The Wharton School
+  End Google Tag Manager (noscript)
+            [Faculty](https://www.wharton.upenn.edu/faculty-research-publications/)
+            [Youth Program](https://globalyouth.wharton.upenn.edu)
+            [Undergrad](https://undergrad.wharton.upenn.edu)
+            [MBA](https://mba.wharton.upenn.edu)
+            [EMBA](https://executivemba.wharton.upenn.edu)
+            [PhD](https://doctoral.wharton.upenn.edu)
+            [Exec Ed](https://executiveeducation.wharton.upenn.edu)
+            [Wharton Online](https://online.wharton.upenn.edu)
+            [Alumni](https://alumni.wharton.upenn.edu)
+          Search Wharton
+          Mobile menu toggle
+                    The Wharton School
+          main menu
+              Menu
+                    [About](https://www.wharton.upenn.edu/about-wharton/)
+                        [History](https://www.wharton.upenn.edu/history/)
+                        [The Wharton Way](https://www.wharton.upenn.edu/the-wharton-way/)
+                            [Elevate](https://www.wharton.upenn.edu/the-wharton-way/elevate/)
+                                [AI & Analytics Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/analytics-pillar/)
+                                [CEO Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/ceo-pillar/)
+                                    [Wharton CEO Database](https://www.wharton.upenn.edu/ceo-database/)
+                                    [CEO Resources for Business Leaders](https://www.wharton.upenn.edu/ceo-resources/)
+                                [Entrepreneurship Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/entrepreneurship-pillar/)
+                                [ESG Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/esg-pillar/)
+                                [Finance Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/finance-pillar/)
+                                [Leadership Pillar](https://www.wharton.upenn.edu/the-wharton-way/elevate/leadership-pillar/)
+                            [Innovate](https://www.wharton.upenn.edu/the-wharton-way/innovate/)
+                            [Collaborate](https://www.wharton.upenn.edu/the-wharton-way/collaborate/)
+                        [Senior Leadership](https://www.wharton.upenn.edu/senior-leadership/)
+                        [About the Dean](https://www.wharton.upenn.edu/about-the-dean/)
+                        [Giving to Wharton](https://giving.aws.cloud.upenn.edu/fund?program=WHA&fund=342105&appeal=WHAWEB%20)
+                        [Wellness at Wharton](https://www.wharton.upenn.edu/wharton-wellness/)
+                        [Accreditation Information](https://catalog.upenn.edu/undergraduate/wharton/wharton.pdf)
+                        [Contact](https://www.wharton.upenn.edu/contact-wharton/)
+                    [Academics](https://www.wharton.upenn.edu/academic-programs/)
+                    [Faculty & Research](https://www.wharton.upenn.edu/faculty-research/)
+                        [Wharton Research](https://www.wharton.upenn.edu/research/)
+                        [Data Resources](https://www.wharton.upenn.edu/data-resources/)
+                        [Funding Opportunities](https://www.wharton.upenn.edu/funding-opportunities/)
+                        [Hiring and Onboarding](https://www.wharton.upenn.edu/hiring-and-onboarding/)
+                        [Research Computing and IT](https://research-it.wharton.upenn.edu/)
+                        [Research Centers and Initiatives](https://www.wharton.upenn.edu/research-centers/)
+                        [Academic Departments](https://www.wharton.upenn.edu/departments/)
+                    [News](http://news.wharton.upenn.edu)
+                    [Recruiters & Corporations](http://recruiters-corp.wharton.upenn.edu)
+                    [Locations](https://www.wharton.upenn.edu/locations/)
+                        [Philadelphia](https://www.wharton.upenn.edu/philadelphia-campus/)
+                        [San Francisco](http://sf.wharton.upenn.edu)
+                    [Wharton Stories](https://www.wharton.upenn.edu/stories/)
+                        [Analytics](https://www.wharton.upenn.edu/topic/analytics/)
+                        [Business Education & Evolution](https://www.wharton.upenn.edu/topic/business-education-evolution/)
+                        [Business Policy](https://www.wharton.upenn.edu/topic/business-policy/)
+                        [Entrepreneurship & Innovation](https://www.wharton.upenn.edu/topic/entrepreneurship-innovation/)
+                        [Global](https://www.wharton.upenn.edu/topic/global/)
+                        [Community](https://www.wharton.upenn.edu/topic/community/)
+            #site-navigation
+          #main-menu-container
+            #sub-menu
+          #sub-menu-container
+    #header
+      full-window-home-page.php
+                            Wharton Faculty Directory
+                Row Backgrounds
+                            Wharton’s 240+ faculty members are leaders in their fields. They lead 20 interdisciplinary research centers, develop new curriculum that reflects the evolving business environment, and practice innovative teaching methods. Use the links below to learn more about a faculty member.
+                            FACULTY BY ACADEMIC DEPARTMENT
+                                    [Accounting](https://accounting.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Business Economics and Public Policy](https://bepp.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Finance](https://fnce.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Health Care Management](https://hcmg.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Management](https://mgmt.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Marketing](https://marketing.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Operations, Information and Decisions](https://opimweb.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Real Estate](https://real-estate.wharton.upenn.edu/faculty/faculty-list/)
+                                    [Statistics](https://statistics.wharton.upenn.edu/faculty/faculty-list/)
+                              A
+                                  Andrew B. Abel
+                                  Dolores Albarracín
+                                  Diane Alexander
+                                  Gad Allon
+                                  Abby E. Alpert
+                                  Jason Altschuler
+                                  Raffi Amit
+                                  Santosh Anagol
+                                  José Anderson
+                                  Rachel Arnett
+                                  David A. Asch
+                                  Martin A. Asher
+                                  Valentina A. Assenova
+                                  Eduardo Azevedo
+                              B
+                                  Iwan Barankay
+                                  David Bard
+                                  Hamsa Bastani
+                                  Arthur van Benthem
+                                  Jonah Berger
+                                  Edward J. Bergman
+                                  Alon Bergman
+                                  Brian Berkey
+                                  Susanna B. Berkouwer
+                                  Ron Berman
+                                  Mitchell N. Berman
+                                  Sudeep Bhatia
+                                  Bhaswar B. Bhattacharya
+                                  Cristina Bicchieri
+                                  Matthew Bidwell
+                                  Jules H. van Binsbergen
+                                  Matthew Bloomfield
+                                  Jennifer Blouin
+                                  Robert J Borghese
+                                  Gideon Bornstein
+                                  Eric T Bradlow
+                                  Lawton R. Burns
+                                  Brian Bushee
+                              C
+                                  Gérard Cachon
+                                  Tony Cai
+                                  Sophie Calder-Wang
+                                  Lindsey Cameron
+                                  Molly Candon
+                                  Peter Cappelli
+                                  Natalie Carlson
+                                  Andrew Carton
+                                  Sylvain Catherine
+                                  Yuxin Chen
+                                  Harold Cole
+                                  Peter Conti-Brown
+                                  Stephanie Creary
+                                  Domenico Cuoco
+                              D
+                                  Guy David
+                                  Damek Davis
+                                  Wendy De La Rosa
+                                  Carolyn Deller
+                                  Ryan Dew
+                                  William Diamond
+                                  Francis X. Diebold
+                                  Stephan Dieckmann
+                                  Edgar Dobriban
+                                  Thomas Donaldson
+                                  Ulrich Doraszelski
+                                  Winston Wei Dou
+                                  Itamar Drechsler
+                                  Angela Duckworth
+                                  Gilles Duranton
+                              E
+                                  Ezekiel J. Emanuel
+                              F
+                                  Peter Fader
+                                  Emily Falk
+                                  Brian D. Feinstein
+                                  Emilie Feldman
+                                  Fernando Ferreira
+                                  Jill Fisch
+                                  Paul Fischer
+                                  Marshall L. Fisher
+                              G
+                                  Santiago Gallino
+                                  Noah Gans
+                                  Daniel G. Garrett
+                                  Claudine Gartenberg
+                                  Aline Gatignon
+                                  Christopher Geczy
+                                  Michael R. Gibbons
+                                  Britta Glennon
+                                  Vincent Glode
+                                  Itay Goldstein
+                                  Joao F. Gomes
+                                  David Grande
+                                  Adam Grant
+                                  Wayne Guay
+                                  Marius Guenzel
+                                  Mauro Guillen
+                                  Bulent Gultekin
+                                  Atul Gupta
+                                  Joseph Gyourko
+                              H
+                                  Martine Haas
+                                  Luzi Hail
+                                  Jessie Handbury
+                                  Mariaflavia Harari
+                                  Joseph Harrington
+                                  Mirko S. Heinle
+                                  Witold Henisz
+                                  Exequiel (Zeke) Hernandez
+                                  Richard J. Herring
+                                  Lorin M. Hitt
+                                  Robert W. Holthausen
+                                  Giles Hooker
+                                  Kartik Hosanagar
+                                  Herbert Hovenkamp
+                                  David Hsu
+                                  Jiaoyang Huang
+                                  Amy W. Huber
+                              I
+                                  Sasha Indarte
+                                  Christopher D. Ittner
+                                  Raghuram (Raghu) Iyengar
+                              J
+                                  Jerry Jacobs
+                                  Erika H. James
+                                  Shane T. Jensen
+                                  Urban Jermann
+                                  Zhenling Jiang
+                                  Julian Jonker
+                              K
+                                  Joseph Kable
+                                  Barbara E. Kahn
+                                  Kevin Kaiser
+                                  Rahul Kapoor
+                                  Ziv Katalan
+                                  Eugene Katsevich
+                                  Lorena Keller
+                                  Judd B. Kessler
+                                  Benjamin Keys
+                                  J. Daniel Kim
+                                  Steven O. Kimbrough
+                                  Marissa King
+                                  Jacqueline Kirtley
+                                  Katherine Klein
+                                  Dean Knox
+                                  Abba M. Krieger
+                                  Dirk Krueger
+                              L
+                                  Richard A. Lambert
+                                  Cait Lamberton
+                                  Tim Landvoigt
+                                  Peggy Bishop Lane
+                                  William S. Laufer
+                                  Saerom (Ronnie) Lee
+                                  Daniel A Levinthal
+                                  Karen K. Lewis
+                                  Sarah E. Light
+                                  Lu Liu
+                                  Benjamin B. Lockwood
+                                  Mark G. Low
+                                  Corinne Low
+                                  Claudio Lucarelli
+                              M
+                                  John Paul MacDuffie
+                                  A. Craig MacKinlay
+                                  Cade Massey
+                                  John McCoy
+                                  Mary-Hunter McDonnell
+                                  Barbara Mellers
+                                  Shiri Melumad
+                                  Robert Meyer
+                                  Katherine L. Milkman
+                                  Olivia S. Mitchell
+                                  Ethan Mollick
+                                  Ken Moon
+                                  Leon Musolff
+                                  David Musto
+                                  Sean Myers
+                              N
+                                  Asuka Nakahara
+                                  Paul Nary
+                                  Amol Navathe
+                                  Gideon Nave
+                                  Ingrid Nembhard
+                                  Serguei Netessine
+                                  Aviv Nevo
+                                  Philip M. Nichols
+                                  Steven Nichtberger
+                                  Allison Nicoletti
+                                  Samir Nurmohamed
+                              O
+                                  Alexander Olssen
+                                  Guillermo Ordonez
+                                  Eric W. Orts
+                              P
+                                  Michael Parke
+                                  Damon J. Phillips
+                                  Henning Piezunka
+                                  Michael Platt
+                                  Leandro S. Pongeluppe
+                                  Andrew Postlewaite
+                                  Stefano Puntoni
+                              R
+                                  Daniel Raff
+                                  Manav Raj
+                                  Jagmohan Raju
+                                  Krishna Ramaswamy
+                                  Americus Reed
+                                  Alex Rees-Jones
+                                  David Reibstein
+                                  Zhimei Ren
+                                  Maria Rieders
+                                  Jose-Victor Rios-Rull
+                                  Michael Roberts
+                                  Thomas S. Robertson
+                                  Diana C. Robertson
+                                  Daniel Rock
+                                  Lori Rosenkopf
+                                  Nancy Rothbard
+                                  Nikolai Roussanov
+                              S
+                                  Sergio Salgado
+                                  Sergei Savin
+                                  Sagar Saxena
+                                  Sandra Schafhäutle
+                                  Becky Schaumberg
+                                  Catherine M. Schrand
+                                  Maurice Schweitzer
+                                  Amy Sepinwall
+                                  Carol Seregni
+                                  Tayyeb Shabbir
+                                  Amanda Shanor
+                                  Marissa A. Sharif
+                                  Neha Sharma
+                                  G. Richard Shell
+                                  Nicolaj Siggelkow
+                                  Jeffrey H. Silber
+                                  Joseph Simmons
+                                  Beth  A. Simmons
+                                  Todd Sinai
+                                  Daniel Singer
+                                  Harbir Singh
+                                  Christina Parajon Skinner
+                                  Dylan Small
+                                  Kent Smetters
+                                  Hummy Song
+                                  Martin Souchier
+                                  Nicholas S. Souleles
+                                  Ben Sprung-Keyser
+                                  Robert F. Stambaugh
+                                  Nina Strohminger
+                                  Alan Strudler
+                                  Xuanming Su
+                                  Weijie Su
+                                  Alp Sungu
+                              T
+                                  Mori Taheripour
+                                  Prasanna (Sonny) Tambe
+                                  Huan Tang
+                                  Daniel Taylor
+                                  Luke Taylor
+                                  Eric J. Tchetgen Tchetgen
+                                  Christian Terwiesch
+                                  Philip Tetlock
+                                  Louis A Thomas
+                                  Juuso Toikka
+                                  Matteo Tranchero
+                              U
+                                  Karl Ulrich
+                                  Lyle Ungar
+                              V
+                                  Christophe Van den Bulte
+                                  Senthil Veeraraghavan
+                                  Kevin Volpp
+                              W
+                                  Susan M Wachter
+                                  Jessica Wachter
+                                  Shing-Yi Wang
+                                  Chaojun Wang
+                                  Richard Paul Waterman
+                                  Duncan Watts
+                                  Yuting Wei
+                                  Kevin Werbach
+                                  Rachel Werner
+                                  David Wessels
+                                  Patti Williams
+                                  Thomas Winberry
+                                  Maisy Wong
+                                  Tyler Wry
+                                  Amy Wrzesniewski
+                                  Lynn Wu
+                                  Abraham J. Wyner
+                              Y
+                                  Tiantian Yang
+                                  Pinar Yildirim
+                                  Bilge Yilmaz
+                                  Sophie Yu
+                              Z
+                                  David Zaring
+                                  Yao Zeng
+                                  Z. John Zhang
+                                  Nancy R. Zhang
+                                  Anderson Ye Zhang
+                                  Walter W. Zhang
+                                  Linda Zhao
+                                  Bingxin Zhao
+                                  Frank Zhou
+                                  Christina Zhu
+            .post-entry
+          #post-##
+        #main
+          end of #widgets
+      #content-full
+        Back To Top
+    end of #wrapper
+  end of #container
+            Programs
+              [Undergraduate](https://undergrad.wharton.upenn.edu/)
+              [Doctorate](https://doctoral.wharton.upenn.edu/)
+              [Executive Education](https://executiveeducation.wharton.upenn.edu/)
+              [Beijing](https://pwcc.upenn.edu/)
+            The Power of Wharton
+              [Global Influence](https://global.wharton.upenn.edu/)
+            Featured
+              [Give to Wharton](https://giving.aws.cloud.upenn.edu/fund?program=WHA&fund=342105&appeal=WHAWEB)
+              [Knowledge@Wharton](https://knowledge.wharton.upenn.edu/)
+            Wharton
+              [About Us](https://www.wharton.upenn.edu/about-wharton/)
+              [Research Centers](https://www.wharton.upenn.edu/research-centers/)
+              [Departments](https://www.wharton.upenn.edu/departments/)
+            Resources
+              [Contact Us](https://www.wharton.upenn.edu/contact-wharton)
+              [Faculty & Staff](https://inside.wharton.upenn.edu/)
+                  Twitter
+                  Facebook
+                  LinkedIn
+                  YouTube
+                  Instagram
+            .social-icons
+              [Support Wharton](https://giving.aws.cloud.upenn.edu/fund?program=WHA&fund=342105&appeal=WHAWEB)
+          [©](https://apps.wharton.upenn.edu/authentication?service=wordpress&returnURL=https://www.wharton.upenn.edu/cms-login)
+          2025
+          [The Wharton School,](https://www.wharton.upenn.edu/)
+          [The University of Pennsylvania](https://www.upenn.edu/)
+          |
+          [Privacy Policy](https://www.wharton.upenn.edu/privacy-policy/)
+          [Report Accessibility Issues and Get Help](https://accessibility.web-resources.upenn.edu/get-help)
+    /#martech-footer-wrapper
+  #footer
+  YouTube Feeds JS

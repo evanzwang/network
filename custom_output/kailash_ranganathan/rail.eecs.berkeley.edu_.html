@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+<title>
+ Robotics and AI Lab @ BAIR
+</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+</head>
+
+<body id="rail-body">
+
+<div class="container">
+ <!-- navbar -->
+ <div class="row">
+  <div class="col-md-4">
+   <div id="rail-logo" >R<span id="rail-logo-ai">AI</span>L</div>
+   <div class="rail-logo-text">Robotic AI & Learning Lab</div>
+   <div class="rail-logo-text">@ <a href="http://bair.berkeley.edu/">BAIR</a></div>
+  </div>
+
+  <div class="col-md-8">
+   <br>
+   <ul id="rail-menu">
+    <li></li>
+    <li class="rail-menu-selected"><a href="index.html">home</a></li>
+    <li><a href="people.html">people</a></li>
+    <li><a href="publications.html">publications</a></li>
+    <li><a href="code.html">software</a></li>
+    <li><a href="contact.html">contact</a></li>
+   </ul>
+  </div>
+ </div> <!-- end -->
+
+
+ <br>
+
+ <img src="retreat_photo_2024.jpg" style="width:100%;text-align:center;">
+ <br><br>
+
+ <div class="row">
+  Welcome to the RAIL lab website!
+  Our research focus is to enable machines to exhibit flexible and adaptable behavior, acquired autonomously through learning.
+  To that end, we work on learning algorithms, robotics, and computer vision.
+ </div>
+
+<br>
+
+<!--
+ <div class="row">
+   <b>We are hiring a research engineer!</b>
+   &nbsp;If you are interested in joining RAIL as a research engineer, please see the official UC Berkeley job posting
+   &nbsp;<a href="https://aprecruit.berkeley.edu/JPF03870">here</a>.
+ </div>
+-->
+ <!--
+ <br>
+ <h4>News</h4>
+ <table cellpadding=5px>
+  <tr>
+   <td valign=top align=left width=150>
+    December 13, 2019
+   </td>
+   <td>
+    Find out how CycleGAN, together with visual model-based RL, can allow robots to imitate videos of humans by directly translating videos, pixel by pixel, in a new <a href="https://bair.berkeley.edu/blog/2019/12/13/humans-cyclegan/">BAIR blog post</a> by Laura Smith and Marvin Zhang! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    December 12, 2019
+   </td>
+   <td>
+    Michael Janner summarizes the state of the art in model-based RL and describes model-based policy optimization (MBPO) in his new <a href="https://bair.berkeley.edu/blog/2019/12/12/mbpo/">BAIR blog post</a>! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    December 5, 2019
+   </td>
+   <td>
+    Data-driven deep reinforcement learning -- offline RL that learns from data. See the new <a href="https://bair.berkeley.edu/blog/2019/12/05/bear/">blog post</a> from Aviral Kumar! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    November 26, 2019
+   </td>
+   <td>
+    A new BAIR blog post by Sudeep Dasari on RoboNet, a large dataset of multi-robot interaction data, <a href="https://bair.berkeley.edu/blog/2019/11/26/robo-net/">is now online</a>! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    September 30, 2019
+   </td>
+   <td>
+    A new BAIR blog post by Anusha Nagabandi on our work on model-based RL for dexterous manipulation <a href="https://bair.berkeley.edu/blog/2019/09/30/deep-dynamics/">is now online</a>! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    June 21, 2019
+   </td>
+   <td>
+    An excellent short talk by Vitchyr Pong covering the Skew-Fit paper is now <a href="https://www.youtube.com/watch?v=DWSZHEvZO4o">available online</a>! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    June 19, 2019
+   </td>
+   <td>
+    An excellent short talk by Michael Janner on the paper "When to Trust Your Model," covering the model-based policy optimization (MBPO) algorithm, is now <a href="https://www.youtube.com/watch?v=rdF7q8MipRs">available online</a>! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    May 15, 2019
+   </td>
+   <td>
+    Dr. Chelsea Finn, former RAIL Ph.D. student and current post-doc, wins the 2019 ACM Dissertation Award! Congratulations Chelsea! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    April 11, 2019
+   </td>
+   <td>
+     Our research on robots that learn how to use tools <a href="https://www.technologyreview.com/s/613304/a-robot-has-figured-out-how-to-use-tools/">has been featured in MIT Technology Review</a>! Congratulations to all the authors, especially the lead author Annie Xie!
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    January 9, 2019
+   </td>
+   <td>
+     Our research on soft actor-critic algorithms for robotic walking <a href="https://www.wired.com/story/the-clever-clumsiness-of-a-robot-teaching-itself-to-walk/">has been featured on WIRED</a>! Congratulations to all the authors, especially the lead author Tuomas Haarnoja!
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    December 18, 2018
+   </td>
+   <td>
+    Congratulations to Dr. Tuomas Haarnoja for completing his Ph.D.!
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    December 14, 2018
+   </td>
+   <td>
+     BAIR blog post on our work on sample-efficient deep RL: <a href="https://bair.berkeley.edu/blog/2018/12/14/sac/">Soft Actor Critic - Deep Reinforcement Learning with Real-World Robots</a>
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    November 30, 2018
+   </td>
+   <td>
+     BAIR blog post on our work on model-based RL from pixels for real-world robotic control: <a href="https://bair.berkeley.edu/blog/2018/11/30/visual-rl/">Visual Model-Based Reinforcement Learning as a Path towards Generalist Robots</a>
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    October 9, 2018
+   </td>
+   <td>
+     BAIR blog post on our SIGGRAPH Asia 2018 paper: <a href="https://bairblog.github.io/2018/10/09/sfv/">Learning Acrobatics by Watching YouTube</a>
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    September 6, 2018
+   </td>
+   <td>
+     BAIR blog post on our vision-based RL work: <a href="https://bair.berkeley.edu/blog/2018/09/06/rig/">Visual Reinforcement Learning with Imagined Goals</a>
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    August 31, 2018
+   </td>
+   <td>
+     BAIR blog post on our dexterous manipulation work: <a href="https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/">Dexterous Manipulation with Reinforcement Learning: Efficient, General, and Low-Cost</a>
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    August 17, 2018
+   </td>
+   <td>
+    Congratulations to Dr. Chelsea Finn for completing her Ph.D.! 
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    June 28, 2018
+   </td>
+   <td>
+     BAIR blog post on our RSS 2018 paper: <a href="http://bair.berkeley.edu/blog/2018/06/28/daml/">One-Shot Imitation from Watching Videos</a>  
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    April 20, 2018
+   </td>
+   <td>
+     BAIR blog post on our SIGGRAPH 2018 paper: <a href="http://bair.berkeley.edu/blog/2018/04/10/virtual-stuntman/">Towards a Virtual Stuntman</a>  
+   </td>
+  </tr>
+  <tr>
+   <td valign=top align=left width=150>
+    April 19, 2017
+   </td>
+   <td>
+     BAIR blog post published about one of our RSS 2018 papers: <a href="http://bair.berkeley.edu/blog/2018/04/18/shared-autonomy/">Shared Autonomy via Deep Reinforcement Learning</a>
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    January 29, 2017
+   </td>
+   <td>
+   Seven papers accepted at the 2018 International Conference on Learning Representations (ICLR), see the <a href="http://rail.eecs.berkeley.edu/publications.html">publications page</a>. Preprints for all papers coming soon!
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    January 12, 2017
+   </td>
+   <td>
+   Ten papers accepted at the 2018 International Conference on Robotics and Automation (ICRA), see the <a href="http://rail.eecs.berkeley.edu/publications.html">publications page</a>. Preprints for all papers coming soon!
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    December 5, 2017
+   </td>
+   <td>
+    We showcased some of our research in a live robot demo at NIPS 2017. See <a href="nips_demo.html">here</a> for more information.
+   </td>
+  </tr>
+-->
+<!--
+  <tr>
+   <td valign=top align=left width=150>
+    October 20, 2017
+   </td>
+   <td>
+    Two more CoRL accepted papers posted: <a href="https://arxiv.org/abs/1710.05512">The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?</a> and <a href="https://arxiv.org/abs/1710.05268">Self-Supervised Visual Planning with Temporal Skip Connections</a>.
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    October 12, 2017
+   </td>
+   <td>
+    Four new papers on robotic learning posted: <a href="https://arxiv.org/abs/1709.07857">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>, <a href="https://arxiv.org/abs/1709.10087">Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations</a>, <a href="https://arxiv.org/abs/1709.10489">Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation</a>, and <a href="https://arxiv.org/abs/1708.04225">Deep Object-Centric Representations for Generalizable Robot Learning</a>
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    September 7, 2017
+   </td>
+   <td>
+    Two papers accepted at NIPS 2017: <a href="https://arxiv.org/abs/1703.01260">EX2: Exploration with Exemplar Models for Deep Reinforcement Learning</a> and <a href="https://arxiv.org/abs/1706.00387">Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning</a>
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    September 1, 2017
+   </td>
+   <td>
+    Five papers accepted at CoRL 2017: <a href="https://arxiv.org/abs/1707.01932">End-to-End Learning of Semantic Grasping</a>, <a href="https://arxiv.org/abs/1709.02833">Learning Robotic Manipulation of Granular Media</a>, <a href="https://arxiv.org/abs/1709.04905">One-Shot Visual Imitation Learning via Meta-Learning</a>, and two more that will be posted shortly!
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    August 10, 2017
+   </td>
+   <td>
+    <a href="https://arxiv.org/abs/1708.02313">GPLAC: Generalizing Vision-Based Robotic Skills Using Weakly Labeled Images</a> (accepted to ICCV 2017) and <a href="https://arxiv.org/abs/1708.02596">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a> released!
+   </td>
+  </tr>
+
+  <tr>
+   <td valign=top align=left width=150>
+    June 1, 2017
+   </td>
+   <td>
+    Four papers accepted at ICML 2017: <a href="http://arxiv.org/abs/1611.01796">Modular Multitask Reinforcement Learning with Policy Sketches</a>, <a href="http://arxiv.org/abs/1702.08165">Reinforcement Learning with Deep Energy-Based Policies</a>, <a href="http://arxiv.org/abs/1703.03078">Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning</a> and <a href="http://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>.
+   </td>
+  </tr>
+ </table>
+
+-->
+<!--
+<br>
+<h4>Research Support</h4>
+
+<table cellpadding=5px width=100%>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/nsfgrfp.gif" width=50 height=50 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>National Science Foundation</b>, 2016 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/google.jpg" height=48 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Google</b>, 2016 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/honda.png" height=24 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Honda</b>, 2017 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/bdd.png" height=50 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Berkeley DeepDrive (BDD)</b>, 2016 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/openphil.png" height=50 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Open Philanthropy Project</b>, 2017 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/onr.jpg" height=63 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Office of Naval Research</b>, 2016 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/nvidia.jpg" height=50 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>NVIDIA</b>, 2016 - present</font>
+</td>
+</tr>
+
+<tr>
+<td valign=top align=center>
+<img border=0 src="images/bair.png" height=60 />
+</td>
+<td valign=center align=left width=100%>
+<font size=+1><b>Berkeley AI Research (BAIR)</b>, 2016 - present</font>
+</td>
+</tr>
+
+</table>
+-->
+
+  <hr>
+
+ <div class="row">
+  <div id="copyright" class="col-md-3">Copyright &copy; UC Berkeley RAIL Lab 2017</div>
+  <div class="col-md-9"></div> <!-- blank  -->
+ </div>
+
+
+</div> <!--/container-->
+
+
+</body>
+</html>
+

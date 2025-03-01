@@ -1,0 +1,1521 @@
+{
+  "title": "Zarif AZHER | California Institute of Technology, Pasadena | CIT | Research profile",
+  "meta_description": "Zarif AZHER | Cited by 58 | of California Institute of Technology, Pasadena (CIT) | Read 21 publications | Contact Zarif AZHER",
+  "main_content": "Home California Institute of Technology Zarif Azher Zarif Azher California Institute of Technology | CIT Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in About 21 Publications 549 Reads How we measure 'reads' A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text. Learn more 58 Citations Publications Publications (21) An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics from tissue morphology Article Oct 2024 Michael Y Fatemi Yunrui Lu Alos B Diallo [...] Joshua J Levy The application of deep learning to spatial transcriptomics (ST) can reveal relationships between gene expression and tissue architecture. Prior work has demonstrated that inferring gene expression from tissue histomorphology can discern these spatial molecular markers to enable population scale studies, reducing the fiscal barriers associated with... View Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship Preprint Jun 2024 Zachary R. Baker Zarif Azher This study introduces a novel approach to simulating legislative processes using LLM-driven virtual agents, focusing on the U.S. Senate Intelligence Committee. We developed agents representing individual senators and placed them in simulated committee discussions. The agents demonstrated the ability to engage in realistic debate, provide thoughtful... View Abstract B003: Preliminary machine learning integration of DNA methylation-based tumor immune microenvironment deconvolution with histopathological slides for bladder cancer prognostication Article May 2024 Zarif Azher Ze Zhang Brock C Christensen [...] Joshua J. Levy Background: Analyzing the cellular composition of the tumor microenvironment (TME) is crucial for bladder cancer (BCa) prognosis but is hampered by technical and financial limitations of immunofluorescence, flow cytometry and scRNASeq, primarily due to cell disaggregation challenges, antibody selection and cost/throughput constraints. A DNA methyla... View Tu1703 MULTI CENTER VALIDATION OF VIDEO-BASED DEEP LEARNING TO INTERPRET ANORECTAL MANOMETRY Article May 2024 Zarif Azher Brian D. Ginnebaugh David J Levinthal [...] Eric D. Shah View Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis Article Full-text available Jan 2024 Zarif Azher Michael Fatemi Yunrui Lu [...] Joshua J Levy Graph-based deep learning has shown great promise in cancer histopathology image analysis by contextualizing complex morphology and structure across whole slide images to make high quality downstream outcome predictions (ex: prognostication). These methods rely on informative representations (i.e., embeddings) of image patches comprising larger sli... View Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining Article Full-text available Jan 2024 Gokul Srinivasan Matthew J Davis Matthew R LeBoeuf [...] Joshua J Levy The advent of spatial transcriptomics technologies has heralded a renaissance in research to advance our understanding of the spatial cellular and transcriptional heterogeneity within tissues. Spatial transcriptomics allows investigation of the interplay between cells, molecular pathways, and the surrounding tissue architecture and can help elucida... View Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis Conference Paper Dec 2023 Zarif Azher Michael Fatemi Yunrui Lu [...] Joshua J. Levy View Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining Conference Paper Dec 2023 Gokul Srinivasan Matthew J. Davis Matthew R. LeBoeuf [...] Joshua J. Levy View Feasibility of Inferring Spatial Transcriptomics from Single-Cell Histological Patterns for Studying Colon Cancer Tumor Heterogeneity Preprint Oct 2023 Michael Y. Fatemi Yunrui Lu Cyril Sharma [...] Joshua J. Levy Background. Spatial transcriptomics involves studying the spatial organization of gene expression within tissues, offering insights into the molecular diversity of tumors. While spatial gene expression is commonly amalgamated from 1-10 cells across 50-micron spots, recent methods have demonstrated the capability to disaggregate this information at... View The Overlooked Role of Specimen Preparation in Bolstering Deep Learning-Enhanced Spatial Transcriptomics Workflows Preprint Oct 2023 Michael Y. Fatemi Yunrui Lu Alos B. Diallo [...] Joshua J. Levy The application of deep learning methods to spatial transcriptomics has shown promise in unraveling the complex relationships between gene expression patterns and tissue architecture as they pertain to various pathological conditions. Deep learning methods that can infer gene expression patterns directly from tissue histomorphology can expand the c... View Using the Maryland Park Equity Tool to Correlate Park Space with Children's Health in Baltimore, Maryland Article Aug 2023 Vivek Ravichandran Jan-Michael Archer Lalitha Aiyar [...] Sacoby M. Wilson View Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis Preprint Jul 2023 Zarif Azher Michael Fatemi Yunrui Lu [...] Joshua Levy Graph-based deep learning has shown great promise in cancer histopathology image analysis by contextualizing complex morphology and structure across whole slide images to make high quality downstream outcome predictions (ex: prognostication). These methods rely on informative representations (i.e., embeddings) of image patches comprising larger sli... View Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining Preprint Jul 2023 Gokul Srinivasan Matthew Davis Matthew LeBoeuf [...] Joshua Levy The advent of spatial transcriptomics technologies has heralded a renaissance in research to advance our understanding of the spatial cellular and transcriptional heterogeneity within tissues. Spatial transcriptomics allows investigation of the interplay between cells, molecular pathways and the surrounding tissue architecture and can help elucidat... View +3 Assessment of emerging pretraining strategies in interpretable multimodal deep learning for cancer prognostication Article Full-text available Jul 2023 Zarif Azher Anish Suvarna Ji-Qing Chen [...] Joshua J. Levy Background Deep learning models can infer cancer patient prognosis from molecular and anatomic pathology information. Recent studies that leveraged information from complementary multimodal data improved prognostication, further illustrating the potential utility of such methods. However, current approaches: 1) do not comprehensively leverage biolo... View Artificial Intelligence, Bioinformatics, and Pathology Article Apr 2023 Joshua Levy Yunrui Lu Marietta Montivero [...] Louis Vaickus View Artificial Intelligence, Bioinformatics, and Pathology Article Apr 2023 Joshua Levy Yunrui Lu Marietta Montivero [...] Louis Vaickus View Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study Article Mar 2023 Michael Fatemi Eric Feng Cyril Sharma [...] Joshua J. Levy Over 150 000 Americans are diagnosed with colorectal cancer (CRC) every year, and annually over 50 000 individuals will die from CRC, necessitating improvements in screening, prognostication, disease management, and therapeutic options. Tumor metastasis is the primary factor related to the risk of recurrence and mortality. Yet, screening for nodal... View Inferring Spatially Resolved Transcriptomics Data from Whole Slide Images for the Assessment of Colorectal Tumor Metastasis: A Feasibility Study Preprint Nov 2022 Michael Fatemi Eric Feng Cyril Sharma [...] Joshua Levy Over 150,000 Americans are diagnosed with colorectal cancer (CRC) every year, and annually over 50,000 individuals will die from CRC, necessitating improvements in screening, prognostication, disease management, and therapeutic options. Tumor metastasis is the primary factor related to the risk of recurrence and mortality. Yet, screening for nodal... View Assessment of Emerging Pretraining Strategies in Interpretable Multimodal Deep Learning for Cancer Prognostication Preprint Nov 2022 Zarif Azher Anish Suvarna Ji-Qing Chen [...] Joshua J. Levy Deep learning models have demonstrated the remarkable ability to infer cancer patient prognosis from molecular and anatomic pathology information. Studies in recent years have demonstrated that leveraging information from complementary multimodal data can improve prognostication, further illustrating the potential utility of such methods. Model int... View Development of biologically interpretable multimodal deep learning model for cancer prognosis prediction Conference Paper Apr 2022 Zarif Azher Louis J. Vaickus Lucas A Salas [...] Joshua J. Levy View Development of Biologically Interpretable Multimodal Deep Learning Model for Cancer Prognosis Prediction Preprint Nov 2021 Zarif Azher Louis J Vaickus Lucas A Salas [...] Joshua J. Levy Robust cancer prognostication can enable more effective patient care and management, which may potentially improve health outcomes. Deep learning has proven to be a powerful tool to extract meaningful information from cancer patient data. In recent years it has displayed promise in quantifying prognostication by predicting patient risk. However, mo... View Network Cited View All Jerome Galon French Institute of Health and Medical Research Shikhar Uttam University of Pittsburgh Joel Saltz Stony Brook University Olivier Gevaert Stanford University Oliver Stegle German Cancer Research Center Cited By View All Takahisa Suzuki Hiroshima University Nhan L Tran Mayo Clinic - Scottsdale Kristin R Swanson Mayo Clinic - Scottsdale Shiro Oka Hiroshima University Bruce J Aronow University of Cincinnati Current institution California Institute of Technology Pasadena, United States Co-authors Top co-authors Gregory J Tsongalis Geisel School of Medicine at Dartmouth Brock C Christensen Geisel School of Medicine at Dartmouth Jan-Michael Archer University of Maryland, College Park Ze Zhang Dana-Farber Cancer Institute Vivek Ravichandran Emory University All co-authors (50) View All A. Aziz Ould Ismail Department Department of Pathology Ramya Reddy Department Yale College Adam Gilbert-Diamond David J Levinthal Lucas A Salas Department Epidemiology Sacoby Wilson Thomas J. Palys Brock Christensen Louis J. Vaickus Ji-Qing Chen Joshua J. Levy Matthew LeBoeuf Fred W. Kolling Laurent Perreard Rachael E. Barney Scott M. Palisoul Advertisement Join ResearchGate to find the people and research you need to help your work 25+ million members 160+ million publication pages 2.3+ billion citations Join for free",
+  "links": [
+    {
+      "url": "https://www.researchgate.net/",
+      "text": "Home"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/California_Institute_of_Technology",
+      "text": "California Institute of Technology"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/California_Institute_of_Technology",
+      "text": "California Institute of Technology | CIT"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=wzdojCWMKawj3rpYIV0CNo9ZjYw4ClV4G4sbR2Kz1P-H_KmzKO6J9W3RZdekIteMlFdx9fHstcVUsw",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=wzdojCWMKawj3rpYIV0CNo9ZjYw4ClV4G4sbR2Kz1P-H_KmzKO6J9W3RZdekIteMlFdx9fHstcVUsw",
+      "text": "Log in"
+    },
+    {
+      "url": "https://explore.researchgate.net/display/support/Reads",
+      "text": "Learn more"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384659589_An_initial_game-theoretic_assessment_of_enhanced_tissue_preparation_and_imaging_protocols_for_improved_deep_learning_inference_of_spatial_transcriptomics_from_tissue_morphology",
+      "text": "An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics from tissue morphology"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Y Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Alos-Diallo-2269031166",
+      "text": "Alos B Diallo"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384659589_An_initial_game-theoretic_assessment_of_enhanced_tissue_preparation_and_imaging_protocols_for_improved_deep_learning_inference_of_spatial_transcriptomics_from_tissue_morphology",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/381770990_Simulating_The_US_Senate_An_LLM-Driven_Agent_Approach_to_Modeling_Legislative_Behavior_and_Bipartisanship",
+      "text": "Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Zachary-R-Baker-2285499982",
+      "text": "Zachary R. Baker"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/381770990_Simulating_The_US_Senate_An_LLM-Driven_Agent_Approach_to_Modeling_Legislative_Behavior_and_Bipartisanship",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380690659_Abstract_B003_Preliminary_machine_learning_integration_of_DNA_methylation-based_tumor_immune_microenvironment_deconvolution_with_histopathological_slides_for_bladder_cancer_prognostication",
+      "text": "Abstract B003: Preliminary machine learning integration of DNA methylation-based tumor immune microenvironment deconvolution with histopathological slides for bladder cancer prognostication"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Ze-Zhang-22",
+      "text": "Ze Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Brock-Christensen",
+      "text": "Brock C Christensen"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380690659_Abstract_B003_Preliminary_machine_learning_integration_of_DNA_methylation-based_tumor_immune_microenvironment_deconvolution_with_histopathological_slides_for_bladder_cancer_prognostication",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380343477_Tu1703_MULTI_CENTER_VALIDATION_OF_VIDEO-BASED_DEEP_LEARNING_TO_INTERPRET_ANORECTAL_MANOMETRY",
+      "text": "Tu1703 MULTI CENTER VALIDATION OF VIDEO-BASED DEEP LEARNING TO INTERPRET ANORECTAL MANOMETRY"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Brian-D-Ginnebaugh-2280782075",
+      "text": "Brian D. Ginnebaugh"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/David-Levinthal",
+      "text": "David J Levinthal"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Eric-D-Shah-37740156",
+      "text": "Eric D. Shah"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380343477_Tu1703_MULTI_CENTER_VALIDATION_OF_VIDEO-BASED_DEEP_LEARNING_TO_INTERPRET_ANORECTAL_MANOMETRY",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/A-Data-collection-protocol-for-Visium-spatial-transcriptomics-slide-B-Training_fig1_377146797",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/fig2_377146797",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/fig3_377146797",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/377146797_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/377146797_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Cohort-Description-261-WSIs-were-scanned-Four-of-these-slides-underwent-further-spatial_fig1_377146988",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Dichotomized-RNA-Expression-Prediction-Dichotomized-spatial-gene-expression-was-inferred_fig2_377146988",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Dichotomized-Expression-Topological-Analysis-A-From-left-to-right-ground-truth_fig3_377146988",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Dichotomized-Expression-Histological-Analysis_fig4_377146988",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/377146988_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Gokul-Srinivasan-2251486729",
+      "text": "Gokul Srinivasan"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-J-Davis-2251399350",
+      "text": "Matthew J Davis"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": "Matthew R LeBoeuf"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/377146988_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376604680_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376604680_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376604724_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Gokul-Srinivasan-2251486729",
+      "text": "Gokul Srinivasan"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-J-Davis-2251399350",
+      "text": "Matthew J. Davis"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": "Matthew R. LeBoeuf"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376604724_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374595818_Feasibility_of_Inferring_Spatial_Transcriptomics_from_Single-Cell_Histological_Patterns_for_Studying_Colon_Cancer_Tumor_Heterogeneity",
+      "text": "Feasibility of Inferring Spatial Transcriptomics from Single-Cell Histological Patterns for Studying Colon Cancer Tumor Heterogeneity"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Y. Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Cyril-Sharma-2229404602",
+      "text": "Cyril Sharma"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374595818_Feasibility_of_Inferring_Spatial_Transcriptomics_from_Single-Cell_Histological_Patterns_for_Studying_Colon_Cancer_Tumor_Heterogeneity",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374612693_The_Overlooked_Role_of_Specimen_Preparation_in_Bolstering_Deep_Learning-Enhanced_Spatial_Transcriptomics_Workflows",
+      "text": "The Overlooked Role of Specimen Preparation in Bolstering Deep Learning-Enhanced Spatial Transcriptomics Workflows"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Y. Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Alos-Diallo-2269031166",
+      "text": "Alos B. Diallo"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374612693_The_Overlooked_Role_of_Specimen_Preparation_in_Bolstering_Deep_Learning-Enhanced_Spatial_Transcriptomics_Workflows",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373001154_Using_the_Maryland_Park_Equity_Tool_to_Correlate_Park_Space_with_Children's_Health_in_Baltimore_Maryland",
+      "text": "Using the Maryland Park Equity Tool to Correlate Park Space with Children's Health in Baltimore, Maryland"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Vivek-Ravichandran-2",
+      "text": "Vivek Ravichandran"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Jan-Michael-Archer",
+      "text": "Jan-Michael Archer"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Lalitha-Aiyar-2258193693",
+      "text": "Lalitha Aiyar"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Sacoby-Wilson-2127922809",
+      "text": "Sacoby M. Wilson"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373001154_Using_the_Maryland_Park_Equity_Tool_to_Correlate_Park_Space_with_Children's_Health_in_Baltimore_Maryland",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372797078_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372797078_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372846027_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Gokul-Srinivasan-2251486729",
+      "text": "Gokul Srinivasan"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-J-Davis-2251399350",
+      "text": "Matthew Davis"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": "Matthew LeBoeuf"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372846027_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Study-workflow-overview-neural-networks-are-pretrained-using-various-methods-to-encode_fig1_372527724",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Unimodal-omics-pretrraining-A-Uni-Self-Omics-procedure-consisting-of-unsupervised-VAE_fig2_372527724",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Unimodal-WSI-GCN-pretraining-AGCN-pretrained-to-predict-survival-BGCN-pretraining-using_fig3_372527724",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Multimodal-modeling-Pretrained-encoders-are-used-to-extract-features-from-gene_fig4_372527724",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Transfer-learning-experimentation-unimodal-transfer-learning-with-the-Uni-Cross_fig5_372527724",
+      "text": "+3"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372527724_Assessment_of_emerging_pretraining_strategies_in_interpretable_multimodal_deep_learning_for_cancer_prognostication",
+      "text": "Assessment of emerging pretraining strategies in interpretable multimodal deep learning for cancer prognostication"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Anish-Suvarna-2236810954",
+      "text": "Anish Suvarna"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Ji-Qing-Chen-2149818095",
+      "text": "Ji-Qing Chen"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/372527724_Assessment_of_emerging_pretraining_strategies_in_interpretable_multimodal_deep_learning_for_cancer_prognostication",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370051939_Artificial_Intelligence_Bioinformatics_and_Pathology",
+      "text": "Artificial Intelligence, Bioinformatics, and Pathology"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Marietta-K-Saldias-Montivero-2249119439",
+      "text": "Marietta Montivero"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": "Louis Vaickus"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370051939_Artificial_Intelligence_Bioinformatics_and_Pathology",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370055224_Artificial_Intelligence_Bioinformatics_and_Pathology",
+      "text": "Artificial Intelligence, Bioinformatics, and Pathology"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yunrui-Lu-2237457745",
+      "text": "Yunrui Lu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Marietta-K-Saldias-Montivero-2249119439",
+      "text": "Marietta Montivero"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": "Louis Vaickus"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370055224_Artificial_Intelligence_Bioinformatics_and_Pathology",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/369628674_Inferring_spatial_transcriptomics_markers_from_whole_slide_images_to_characterize_metastasis-related_spatial_heterogeneity_of_colorectal_tumors_A_pilot_study",
+      "text": "Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Eric-Feng-2237144974",
+      "text": "Eric Feng"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Cyril-Sharma-2229404602",
+      "text": "Cyril Sharma"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/369628674_Inferring_spatial_transcriptomics_markers_from_whole_slide_images_to_characterize_metastasis-related_spatial_heterogeneity_of_colorectal_tumors_A_pilot_study",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365829496_Inferring_Spatially_Resolved_Transcriptomics_Data_from_Whole_Slide_Images_for_the_Assessment_of_Colorectal_Tumor_Metastasis_A_Feasibility_Study",
+      "text": "Inferring Spatially Resolved Transcriptomics Data from Whole Slide Images for the Assessment of Colorectal Tumor Metastasis: A Feasibility Study"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Michael-Fatemi-2237158610",
+      "text": "Michael Fatemi"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Eric-Feng-2237144974",
+      "text": "Eric Feng"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Cyril-Sharma-2229404602",
+      "text": "Cyril Sharma"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365829496_Inferring_Spatially_Resolved_Transcriptomics_Data_from_Whole_Slide_Images_for_the_Assessment_of_Colorectal_Tumor_Metastasis_A_Feasibility_Study",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365724087_Assessment_of_Emerging_Pretraining_Strategies_in_Interpretable_Multimodal_Deep_Learning_for_Cancer_Prognostication",
+      "text": "Assessment of Emerging Pretraining Strategies in Interpretable Multimodal Deep Learning for Cancer Prognostication"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Anish-Suvarna-2236810954",
+      "text": "Anish Suvarna"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Ji-Qing-Chen-2149818095",
+      "text": "Ji-Qing Chen"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365724087_Assessment_of_Emerging_Pretraining_Strategies_in_Interpretable_Multimodal_Deep_Learning_for_Cancer_Prognostication",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/360441991_Development_of_biologically_interpretable_multimodal_deep_learning_model_for_cancer_prognosis_prediction",
+      "text": "Development of biologically interpretable multimodal deep learning model for cancer prognosis prediction"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": "Louis J. Vaickus"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Lucas-A-Salas-2",
+      "text": "Lucas A Salas"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/360441991_Development_of_biologically_interpretable_multimodal_deep_learning_model_for_cancer_prognosis_prediction",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355875678_Development_of_Biologically_Interpretable_Multimodal_Deep_Learning_Model_for_Cancer_Prognosis_Prediction",
+      "text": "Development of Biologically Interpretable Multimodal Deep Learning Model for Cancer Prognosis Prediction"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zarif-Azher",
+      "text": "Zarif Azher"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": "Louis J Vaickus"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Lucas-A-Salas-2",
+      "text": "Lucas A Salas"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355875678_Development_of_Biologically_Interpretable_Multimodal_Deep_Learning_Model_for_Cancer_Prognosis_Prediction",
+      "text": "View"
+    },
+    {
+      "url": "profile/Jerome-Galon",
+      "text": ""
+    },
+    {
+      "url": "profile/Jerome-Galon",
+      "text": "Jerome Galon"
+    },
+    {
+      "url": "profile/Shikhar-Uttam",
+      "text": ""
+    },
+    {
+      "url": "profile/Shikhar-Uttam",
+      "text": "Shikhar Uttam"
+    },
+    {
+      "url": "profile/Joel-Saltz",
+      "text": ""
+    },
+    {
+      "url": "profile/Joel-Saltz",
+      "text": "Joel Saltz"
+    },
+    {
+      "url": "profile/Olivier-Gevaert",
+      "text": ""
+    },
+    {
+      "url": "profile/Olivier-Gevaert",
+      "text": "Olivier Gevaert"
+    },
+    {
+      "url": "profile/Oliver-Stegle",
+      "text": ""
+    },
+    {
+      "url": "profile/Oliver-Stegle",
+      "text": "Oliver Stegle"
+    },
+    {
+      "url": "profile/Takahisa-Suzuki-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Takahisa-Suzuki-2",
+      "text": "Takahisa Suzuki"
+    },
+    {
+      "url": "profile/Nhan-Tran-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Nhan-Tran-3",
+      "text": "Nhan L Tran"
+    },
+    {
+      "url": "profile/Kristin-Swanson",
+      "text": ""
+    },
+    {
+      "url": "profile/Kristin-Swanson",
+      "text": "Kristin R Swanson"
+    },
+    {
+      "url": "profile/Shiro-Oka",
+      "text": ""
+    },
+    {
+      "url": "profile/Shiro-Oka",
+      "text": "Shiro Oka"
+    },
+    {
+      "url": "profile/Bruce-Aronow",
+      "text": ""
+    },
+    {
+      "url": "profile/Bruce-Aronow",
+      "text": "Bruce J Aronow"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/California_Institute_of_Technology",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/California_Institute_of_Technology",
+      "text": "California Institute of Technology"
+    },
+    {
+      "url": "profile/Gregory_Tsongalis",
+      "text": ""
+    },
+    {
+      "url": "profile/Gregory_Tsongalis",
+      "text": "Gregory J Tsongalis"
+    },
+    {
+      "url": "profile/Brock-Christensen",
+      "text": ""
+    },
+    {
+      "url": "profile/Brock-Christensen",
+      "text": "Brock C Christensen"
+    },
+    {
+      "url": "profile/Jan-Michael-Archer",
+      "text": ""
+    },
+    {
+      "url": "profile/Jan-Michael-Archer",
+      "text": "Jan-Michael Archer"
+    },
+    {
+      "url": "profile/Ze-Zhang-22",
+      "text": ""
+    },
+    {
+      "url": "profile/Ze-Zhang-22",
+      "text": "Ze Zhang"
+    },
+    {
+      "url": "profile/Vivek-Ravichandran-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Vivek-Ravichandran-2",
+      "text": "Vivek Ravichandran"
+    },
+    {
+      "url": "profile/A-Aziz-Ould-Ismail",
+      "text": ""
+    },
+    {
+      "url": "profile/A-Aziz-Ould-Ismail",
+      "text": ""
+    },
+    {
+      "url": "profile/A-Aziz-Ould-Ismail",
+      "text": "A. Aziz Ould Ismail"
+    },
+    {
+      "url": "profile/Ramya-Reddy-11",
+      "text": ""
+    },
+    {
+      "url": "profile/Ramya-Reddy-11",
+      "text": ""
+    },
+    {
+      "url": "profile/Ramya-Reddy-11",
+      "text": "Ramya Reddy"
+    },
+    {
+      "url": "profile/Adam-Gilbert-Diamond",
+      "text": ""
+    },
+    {
+      "url": "profile/Adam-Gilbert-Diamond",
+      "text": ""
+    },
+    {
+      "url": "profile/Adam-Gilbert-Diamond",
+      "text": "Adam Gilbert-Diamond"
+    },
+    {
+      "url": "profile/David-Levinthal",
+      "text": ""
+    },
+    {
+      "url": "profile/David-Levinthal",
+      "text": ""
+    },
+    {
+      "url": "profile/David-Levinthal",
+      "text": "David J Levinthal"
+    },
+    {
+      "url": "profile/Lucas-A-Salas-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Lucas-A-Salas-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Lucas-A-Salas-2",
+      "text": "Lucas A Salas"
+    },
+    {
+      "url": "scientific-contributions/Sacoby-Wilson-2127922809",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Sacoby-Wilson-2127922809",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Sacoby-Wilson-2127922809",
+      "text": "Sacoby Wilson"
+    },
+    {
+      "url": "scientific-contributions/Thomas-J-Palys-2129659932",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Thomas-J-Palys-2129659932",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Thomas-J-Palys-2129659932",
+      "text": "Thomas J. Palys"
+    },
+    {
+      "url": "scientific-contributions/Brock-Christensen-2137241370",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Brock-Christensen-2137241370",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Brock-Christensen-2137241370",
+      "text": "Brock Christensen"
+    },
+    {
+      "url": "scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Louis-J-Vaickus-2145645445",
+      "text": "Louis J. Vaickus"
+    },
+    {
+      "url": "scientific-contributions/Ji-Qing-Chen-2149818095",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Ji-Qing-Chen-2149818095",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Ji-Qing-Chen-2149818095",
+      "text": "Ji-Qing Chen"
+    },
+    {
+      "url": "scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Joshua-J-Levy-2155957294",
+      "text": "Joshua J. Levy"
+    },
+    {
+      "url": "scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Matthew-LeBoeuf-2166148445",
+      "text": "Matthew LeBoeuf"
+    },
+    {
+      "url": "scientific-contributions/Fred-W-Kolling-2172537469",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Fred-W-Kolling-2172537469",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Fred-W-Kolling-2172537469",
+      "text": "Fred W. Kolling"
+    },
+    {
+      "url": "scientific-contributions/Laurent-Perreard-2176803218",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Laurent-Perreard-2176803218",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Laurent-Perreard-2176803218",
+      "text": "Laurent Perreard"
+    },
+    {
+      "url": "scientific-contributions/Rachael-E-Barney-2186925744",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Rachael-E-Barney-2186925744",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Rachael-E-Barney-2186925744",
+      "text": "Rachael E. Barney"
+    },
+    {
+      "url": "scientific-contributions/Scott-M-Palisoul-2187958330",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Scott-M-Palisoul-2187958330",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Scott-M-Palisoul-2187958330",
+      "text": "Scott M. Palisoul"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FZarif-Azher%3FsendMessage%3D1&_sg=c-KzCPaTxjnyKroxpKydmJqQxD9ha-QO_y1j98_p7NKTVwMgS2muZZYNijTxGslido2Vagd2JhCsOg",
+      "text": "Log in"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FZarif-Azher%3FsendMessage%3D1&_sg=c-KzCPaTxjnyKroxpKydmJqQxD9ha-QO_y1j98_p7NKTVwMgS2muZZYNijTxGslido2Vagd2JhCsOg",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html?ev=su_profileMessage&_sg=ygIcvdBQnF-nYH8WtjsuJR5Gad5KkJPx0tU9LkDBdkSWNmPaoFqKLFbBKQ8sMqdkfMhixF9L53RkdaZNo3HtpJJX5Mo",
+      "text": "Join for free"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Y Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Alos B Diallo"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zachary R. Baker"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ze Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Brock C Christensen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Brian D. Ginnebaugh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "David J Levinthal"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Eric D. Shah"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 1: A) Data collection protocol for Visium spatial..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 2:"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 3:"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 1: Cohort Description. 261 WSIs were scanned. Four of these..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 2: Dichotomized RNA Expression Prediction. Dichotomized spatial..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 3: Dichotomized Expression Topological Analysis. (A) From left..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 4: Dichotomized Expression Histological Analysis."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Gokul Srinivasan"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew J Davis"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew R LeBoeuf"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Gokul Srinivasan"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew J. Davis"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew R. LeBoeuf"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Y. Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Cyril Sharma"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Y. Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Alos B. Diallo"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Vivek Ravichandran"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jan-Michael Archer"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lalitha Aiyar"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sacoby M. Wilson"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Gokul Srinivasan"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew Davis"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Matthew LeBoeuf"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Study workflow overview; neural networks are pretrained using various..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Unimodal omics pretrraining; A) Uni-Self-Omics procedure consisting of..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Unimodal WSI GCN pretraining; A\u00a0GCN pretrained to predict survival;..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Multimodal modeling; Pretrained encoders are used to extract features..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Transfer learning experimentation; unimodal transfer learning with the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Anish Suvarna"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ji-Qing Chen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Marietta Montivero"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Louis Vaickus"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yunrui Lu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Marietta Montivero"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Louis Vaickus"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Eric Feng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Cyril Sharma"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Fatemi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Eric Feng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Cyril Sharma"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Anish Suvarna"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ji-Qing Chen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Louis J. Vaickus"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lucas A Salas"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zarif Azher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Louis J Vaickus"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lucas A Salas"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jerome Galon"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Shikhar Uttam"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joel Saltz"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Olivier Gevaert"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Oliver Stegle"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Takahisa Suzuki"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Nhan L Tran"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kristin R Swanson"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Shiro Oka"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Bruce J Aronow"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267459158839296%401440778640092_m",
+      "alt": "California Institute of Technology"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Gregory J Tsongalis"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Brock C Christensen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jan-Michael Archer"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Ze Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Vivek Ravichandran"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281213481773-1702992100206_Q64/A-Aziz-Ould-Ismail.jpg",
+      "alt": "A. Aziz Ould Ismail"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281213481773-1702992100206_Q64/A-Aziz-Ould-Ismail.jpg",
+      "alt": "A. Aziz Ould Ismail"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Ramya Reddy"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Ramya Reddy"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Adam Gilbert-Diamond"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Adam Gilbert-Diamond"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281261435800-1721597372840_Q64/David-Levinthal.jpg",
+      "alt": "David J Levinthal"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281261435800-1721597372840_Q64/David-Levinthal.jpg",
+      "alt": "David J Levinthal"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281214032624-1703273449928_Q64/Lucas-A-Salas-2.jpg",
+      "alt": "Lucas A Salas"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281214032624-1703273449928_Q64/Lucas-A-Salas-2.jpg",
+      "alt": "Lucas A Salas"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Sacoby Wilson"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Sacoby Wilson"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Thomas J. Palys"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Thomas J. Palys"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Brock Christensen"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Brock Christensen"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Louis J. Vaickus"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Louis J. Vaickus"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Ji-Qing Chen"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Ji-Qing Chen"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Joshua J. Levy"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Matthew LeBoeuf"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Matthew LeBoeuf"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Fred W. Kolling"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Fred W. Kolling"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Laurent Perreard"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Laurent Perreard"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Rachael E. Barney"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Rachael E. Barney"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Scott M. Palisoul"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Scott M. Palisoul"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/420699284191573/images/symbols/svg/classification-academic.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/415447567661256/images/symbols/svg/classification-corporate.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/44240833271040/images/symbols/svg/classification-medical.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/41625716582999/images/symbols/svg/classification-notresearcher.svg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+    title section
+        [Division of Pulmonary, Critical Care, Sleep Medicine & Physiology](/)
+        [UC San Diego School of Medicine](https://medschool.ucsd.edu)
+              Search
+                This Site
+                All UCSD Sites
+                Faculty/Staff
+                Search Term
+    Close Nav
+        [About](../../../../about/index.html)
+            [Welcome Letter](../../../../about/welcome.html)
+            [Leadership](../../../../about/leadership.html)
+            [Faculty](../../../../about/faculty/index.html)
+            [Advanced Practice Practitioners](../../../../about/practitioners.html)
+            [Our Fellows](../../../../about/fellows/index.html)
+            [Administrative Staff](../../../../about/administrative-staff.html)
+            [Contact Us](../../../../about/contact.html)
+        [Education](../../../../education/index.html)
+            [PCCM Fellowship Program](../../../../education/pccm-fellowship/index.html)
+            [Lung Transplant Fellowship](../../../../education/lung-transplant-fellowship.html)
+            [Interventional Pulmonology Fellowship Program](../../../../education/interventional-pulmonology-applicants.html)
+            [Physiology Opportunities](../../../../education/physiology.html)
+            [Conference Schedule](../../../../education/conferences.html)
+        [Research](../../../index.html)
+            [Research Areas & Programs](../../../areas-programs/index.html)
+            [Labs & Centers](../../index.html)
+            [Resources](../../../resources.html)
+        [Patient Information](../../../../patient/index.html)
+        [Equity, Diversity & Inclusion](../../../../edi/index.html)
+        [For Faculty & Staff](https://med.ucsd.edu/faculty-staff/index.html)
+        [Give](../../../../give/index.html)
+          Toggle navigation
+          MENU
+                  Search Scope
+      end nav collapse
+                [HOME](../../../../index.html)
+                [Sleep Research](../index.html)
+              SD-VPA App
+        display the main content
+              San Diego Verbal Paired-Associates (SD-VPA) App
+              San Diego Verbal Paired-Associates (SD-VPA) Task ("this app") by Chris Schmickl, Atul Malhotra, Ina Djonlagic, Christian Harding, Tyler Bath, Devanshi Jain, Cash Rice is licensed under a
+                  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+              . Spanish translations were created with help from Ricardo Osorio, Diego Quintana Licona, Katarina Martillo, Luisa Figueredo Atilano, and Andrew Varga.
+              This app represents a continued development from: Djonlagic IE, Guo M, Igue M, Kishore D, Stickgold R, Malhotra A. CPAP Restores Declarative Memory Deficit in Obstructive Sleep Apnea. AJRCCM 2021 May 1;203(9):1188-1190
+                  [https://doi.org/10.1164/rccm.202011-4253LE](https://doi.org/10.1164/rccm.202011-4253LE)
+                  .
+              In brief, this app is designed to test sleep-dependent memory via semantically associated word pairs. There are two modes, training and testing. In our use case, participants complete the training mode in the evening, and the testing mode in the morning after a nights sleep.
+              Training
+            In training mode each word pair is displayed for several seconds, before moving on to the next pair. After viewing all pairs, the participant is then presented with a repeatable training test. In this test the participant is provided with feedback on if their answer is correct. The participant is asked to repeat this training test until achieving at least 60 percent of correct word pairs. After each test a csv file with the percent correct word pairs (scoring ignores letter case and leading/trailing spaces), meta information, and participant answers is downloaded.
+              Testing
+              This mode tests the participant without revealing the correct answer after each entry. The test is not repeatable. At the end of the test a csv file with the percent correct word pairs (scoring ignores letter case and leading/trailing spaces), meta information, and participant answers is downloaded.
+              The primary outcome is the difference between the percent of correct word pairs during the morning test vs the final evening test.
+                  How to Use the SD-VPA App
+                  If you would like to use this app as is, you can simply use one of our existing deployments.
+                    Version 1.0:
+                      [https://ucsdmalhotra.github.io/word-pairs-associate-2023-built/](https://ucsdmalhotra.github.io/word-pairs-associate-2023-built/)
+                  Original version, mimicking very closely the original application used in Dr Djonlagic's study (see above). Contains 3 word lists (for legacy reasons called "List One", "List Three", and "List Five") to facilitate a baseline assessment followed by up to 2 follow up assessments. Difficulty level of lists may vary, thus randomization of the order in which participants complete the lists is strongly advised.
+                    Version 2.0:
+                    [https://sd-vpa-task-v2.netlify.app/](https://sd-vpa-task-v2.netlify.app/)
+                  Major differences compared with version 1.0:
+                    The original App used in Dr Djonlagic's study (see above) gave participants 10 seconds to enter the queried word pair, and after the 10 seconds were over delayed the time-out by 1 second after each key stroke to allow participants finishing the word that they are typing (i.e., extra time for slow typers). Version 1.0 had a hard cut-off after 10 seconds, whereas version 2.0 has the delayed time out built in.
+                  In addition to the original 3 word lists, we added three new ones ("ALZ-OSA List One", "ALZ-OSA List Three”, and "ALZ-OSA List Five"); note, while the original three lists are based on semantically related word-pairs, the 3 new lists contain word pairs that are not semantically related.
+                  The excel sheet which summarizes the results of each training/test run includes an extra row to indicate for each pair whether the answer was correct (0 No, 1 Yes).
+                  Version 2.1
+                  :
+                  [https://sd-vpa-task-v2-1.netlify.app/](https://sd-vpa-task-v2-1.netlify.app/)
+                Major differences compared with version 2.0:
+                  For each of the original three lists using semantically related word pairs (i.e., List One, List Three, and List Five) there is now a Spanish version, which were created with the help of several native speakers from Spain, Mexico and Columbia (for attributions please see the App website) who performed a back-and-forth translation.
+                  The csv files now include the version number (i.e., the header of column E lists now "Training/Testing V2.1”).
+              Disclaimer
+              This app has been designed and tested for use with a Google Chrome browser on a laptop (not ipad). This site/app may be changed without notice.
+                If you have any questions, find any bugs, want complementary REDCap forms to collect the results from the app, or want to receive updates about potential changes in the app, then please contact Chris Schmickl at
+                  [cschmickl@health.ucsd.edu](mailto:cschmickl@health.ucsd.edu)
+              . If possible, please also let us know if you publish results based on this app in a peer-reviewed journal so we can post an updated list of references for future users.
+              This site/app are for general information purposes only. All information on this site/app are provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on this site/app. Under no circumstances shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of this site/app or reliance on any information provided on this site/app. Your use of this site/app and your reliance on any information on this site/app is solely at your own risk.
+                Peer-reviewed Publications Using the SD-VPA App
+                Coming soon
+                [People](../people/index.html)
+                [Active Studies](../active-studies/index.html)
+                [For Participants](../participants/index.html)
+                [Contact](../contact/index.html)
+            UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230
+            Copyright ©
+              2024
+              Regents of the University of California.
+        All rights reserved.
+              [Accessibility](https://accessibility.ucsd.edu/report-a-concern/index.html)
+              [Privacy Policy](https://ucsd.edu/about/privacy-policy.html)
+              [Terms of Use](https://ucsd.edu/about/terms-of-use.html)
+    Site-specific javascript files

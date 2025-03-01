@@ -1,0 +1,256 @@
+[
+  {
+    "fullName": "Yeabsera Afework",
+    "linkedin_internal_id": "1079287047",
+    "first_name": "Yeabsera",
+    "last_name": "Afework",
+    "public_identifier": "yafework",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQGJgqbflqZ8eQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1692086441609?e=2147483647&v=beta&t=Ek__sgkXoqAzpmg5vbJRxSeh6v2f6qkJA3_sbWrr6dM",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "CS & Math @ Stanford | Prev @ Microsoft",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "Aspiring engineer",
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/linkedin?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+        "company_name": "LinkedIn",
+        "location": null,
+        "summary": "Summer '25",
+        "starts_at": "Feb 2025",
+        "ends_at": "Present",
+        "duration": "2 months"
+      },
+      {
+        "position": "Co-Founder / Game Developer",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "646 Studios",
+        "location": null,
+        "summary": "- Developed 3 video games, amassing 200,000+ community members & 9,000+ concurrent players on release- Contracted to develop games for Gen G & Crocs, boosting their concurrent players by 5,000+- Implemented user engagement & social media dashboard on site, increasing server activity by 30% & social traffic by 40%",
+        "starts_at": "Sep 2019",
+        "ends_at": "Present",
+        "duration": "5 years 7 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/microsoft?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=lMkCSsceJNmUG1r0VRg3Whye1sVi2KtYvt-MWyfoNbY",
+        "company_name": "Microsoft",
+        "location": "Redmond, Washington, United States",
+        "summary": "- Designed backend client of the first in-house user authentication system for MSA to reduce signup friction- Leveraged Facial Recognition and AI-based liveness verification to allow users to verify liveliness for account creation- Developed and deployed a secure client in C# for end-to-end user verification, enhancing security protocols- Created a metric dashboard in KustoQL to aid on-call engineers in spotting to bugs and outages",
+        "starts_at": "Jun 2024",
+        "ends_at": "Sep 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Technology Fellow",
+        "company_url": "https://www.linkedin.com/company/headstart-fellowship?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEq5RdkFRGM_g/company-logo_100_100/company-logo_100_100/0/1639250094721/headstart_fellowship_logo?e=2147483647&v=beta&t=ty01Ysj212TXf0paEU2hCDoGFHrL0ynmol_1lWQKK9w",
+        "company_name": "HeadStart Fellowship",
+        "location": null,
+        "summary": "- Accepted into selective development program for diverse students with outstanding leadership & career capacities- Receive mentoring in finance, technology, & consulting & rigorous behavioral & technical interview preparation",
+        "starts_at": "Aug 2023",
+        "ends_at": "Dec 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "UNBOXED Scholar",
+        "company_url": "https://www.linkedin.com/company/jane-street-global?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGDwkF0pxTSjg/company-logo_100_100/company-logo_100_100/0/1700507376786/jane_street_global_logo?e=2147483647&v=beta&t=eyFaBH-a-t5Vq833fZdXpmwlgy-c5614-tH0NvnA19c",
+        "company_name": "Jane Street",
+        "location": "New York, United States",
+        "summary": "- Immersed in Quantitative Trading via probability, statistics, & game theory challenges & rapid-decision games like 'Figgie'- Acquired SQLite expertise in hands-on workshop led by Head of Engineering, applying skills to database challenges- Created mock ETFs with Strategy & Product, identifying key players, tackling creation issues, & honing market/analytical skills",
+        "starts_at": "Jul 2023",
+        "ends_at": "Aug 2023",
+        "duration": "2 months"
+      },
+      {
+        "position": "Game Developer",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "RB Battles LLC",
+        "location": null,
+        "summary": "- Designed & developed immersive 3D environments & assets on Roblox via Blender & Adobe Substance Painter- Lead a 3D artist team in crafting game elements (collectibles, robots, NPCs, etc.), attracting 100,000+ concurrent players- Implemented efficient workflow strategies & proactive roadblock resolution, accelerating project completion by 20%",
+        "starts_at": "Aug 2022",
+        "ends_at": "Aug 2023",
+        "duration": "1 year 1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "4.0",
+        "college_duration": "2023 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/gonzaga-preparatory-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Gonzaga Preparatory School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQFQ7LNu6ZoRRA/company-logo_100_100/company-logo_100_100/0/1630659851775/gonzaga_preparatory_school_logo?e=2147483647&v=beta&t=zzIVvjulTsJbUUT5K6iYKA9jcbEex_ZzHOElEtYgHYg",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "LinkedIn",
+      "description1_link": "https://www.linkedin.com/company/linkedin?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/anthropicresearch_introducing-claude-37-sonnet-our-most-intelligent-activity-7299858290761519106-za5_",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQH6Bp-GMWgioQ/feedshare-thumbnail_720_1280/B4EZU5OSnVGYA8-/0/1740421803643?e=2147483647&v=beta&t=9ssZIPDCfzNIdhywrX8xjc1GACdUkMvli2zBPhMk2LI",
+        "title": "Introducing Claude 3.7 Sonnet: our most intelligent model to date. It's a hybrid reasoning model, producing near-instant responses or extended\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/krishmaniar4_treehacks2025-innovation-technology-activity-7298866582338813953-uf6E",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF8vlG-TZSsEQ/feedshare-shrink_2048_1536/B56ZUrISMSGQAo-/0/1740185390989?e=2147483647&v=beta&t=eAS8noxBt_JIO_wef2qjGdbl_hZ2l4hxfT5EWV3ifrc",
+        "title": "36 hours. 1,000 brilliant minds. $240,000 in prizes. The innovation that we saw this weekend was beyond anything we could have imagined. I had the\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/pika-labs_today-is-the-official-launch-of-pikaswaps-activity-7298410888024240129-zQOc",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQEDf_cRUz1lpA/videocover-high/B4EZUkpg6RGgB4-/0/1740076745508?e=2147483647&v=beta&t=hFgBxez9aJD-0ymwP4ST-InA1FSYXt35qr5647-_Hg8",
+        "title": "Today is the official launch of Pikaswaps: replace anything in your videos using photos you upload, or scenes you describe. \n\nThe results are\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nailah-donatto-a1079a214_i-recently-made-the-decision-to-pursue-a-activity-7298153068892667905-pX8P",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHCgJ3Ka0Bndw/feedshare-shrink_800/B56ZUg_f7vGQAg-/0/1740015283734?e=2147483647&v=beta&t=B5b_Kdv2KP9SxI2mkJHXI2_c9-Fs2grZ_728qn7czKU",
+        "title": "I recently made the decision to pursue a Ph.D. in Chemical Engineering. With this decision comes the reflection on one of my past research\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameshab_slack-salesforce-rewritingthecode-activity-7295856778183852032-3tmO",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHfv_IwMmjbHg/feedshare-shrink_800/B56ZUAXEKJGoAg-/0/1739467803460?e=2147483647&v=beta&t=HVQjY2KpptoPokD52limet_hF7tDhzzdKxgiOPslNlE",
+        "title": "Beyond excited to announce that I will be joining Slack, a Salesforce company, as a Software Engineering Intern at their headquarters in San\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/efrainangon_amazonintern-softwareengineering-summer2025-activity-7295856812472356866-Kep9",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQENzljmwY-13w/feedshare-shrink_800/B4EZUAXGycGwAo-/0/1739467812645?e=2147483647&v=beta&t=Qy5ggVkR_b6BFiIaje3AznhjWn5j2QGIk4iIIv1VXZs",
+        "title": "Thrilled to announce that I\u2019ll be joining Amazon as a Software Development Engineer Intern this summer in Bellevue, WA!\n\nThis journey has been one of\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/eminnkoroglu_after-graduating-with-my-bs-in-cs-from-ut-activity-7295191641810735108-iAam",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHYNcv8zOYr0g/feedshare-shrink_800/B56ZT26I_NGQAk-/0/1739309224300?e=2147483647&v=beta&t=OiOG2AcKyyuyxbveewJ2DhDZ2MkYj4edViqRhis3BWI",
+        "title": "After graduating with my BS in CS from UT Austin, I've began working at Rivian with the Rivian and Volkswagen Group Technologies Joint Venture as an\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mitch29_stanfordengineering-electricalengineering-activity-7293801923898417152-Fn_e",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEscPktehdkpg/feedshare-shrink_1280/B56ZTjKMncHQAk-/0/1738977889990?e=2147483647&v=beta&t=APkI5kFlPNLoPybimD3zGA_eeT3IiV4yTTKe3ZjRd0g",
+        "title": "Thrilled to share that I\u2019ve been admitted to Stanford\u2019s Coterminal Program to pursue an M.S. in Electrical Engineering starting Spring 2024!\n\nThis\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sazzad14_icra2025-activity-7292965531618287616-5yja",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE26lFlstd8QQ/feedshare-shrink_800/B56ZTXRgGbHEAs-/0/1738778478126?e=2147483647&v=beta&t=TTZFPNiEewveg-qZnRafc7bxlZR8fwh8xrhcfN5VDGg",
+        "title": "Our paper, \"RoboCrowd: Scaling Robot Data Collection through Crowdsourcing,\" has been accepted to\u00a0IEEE RAS ICRA\u00a02025!\n\u00a0\nWe explored how to\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/julienchaumond_this-is-huge-the-ai-app-store-is-here-ask-activity-7292918628616687617-esSE",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQGOoM48qnuH-g/videocover-high/B4EZTWmyP6GgB0-/0/1738767288205?e=2147483647&v=beta&t=meoc9yK7GeDhBabaJpzwhPQmtcXumYM6Gti5_QUyh8g",
+        "title": "This is HUGE\n\nThe AI App store is here\n\nAsk anything you want to do with AI\n\nWith ~400k Apps, this is the best place to find the AI apps you\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/hurtado27_microsoftexplore-activity-7290265036420169730-JO9m",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHOHVtpZmqSWA/feedshare-shrink_800/B56ZSw5a56HsAg-/0/1738134630537?e=2147483647&v=beta&t=EyKsZecquTSJ4pHOUQSG7P4vC6uAjDqyvreMklzxZ-c",
+        "title": "I am beyond thrilled to share that I have accepted an offer to join Microsoft as an Explore Intern! I am incredibly excited for this opportunity to\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/boris-hernandez-jr_firstgen-latino-latinexcellence-activity-7290291879265419264-wZiz",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFxQ6fw6S4YDg/feedshare-shrink_1280/B56ZSxRv_lHwAo-/0/1738141027083?e=2147483647&v=beta&t=9zmuPLxApeo-wy7XFYsAeDSo4w1LxhEBpdvDItzDFq4",
+        "title": "Mercury -> Meta -> Google\nHouston -> New York -> Sunnyvale\n\nWrapping up an amazing recruiting cycle I want to thank God, my family, ColorStack (Could\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/arinverma_the-founder-of-deepseek-who-owns-a-quant-activity-7289207905180913664-TzVS",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEXZvH-Lavonw/feedshare-shrink_800/B56ZSh38F4HsAg-/0/1737882590119?e=2147483647&v=beta&t=Fcq5oa986ZTUkzYQyZhK3XvuF3CrYGrD8-91IxyR3RM",
+        "title": "The founder of Deepseek, who owns a quant firm, built Deepseek as nothing more than a side project. Stop Coping\u2014Chinese people are the smartest on\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/yosiefabraham_morganstanley-fixedincome-nyc-activity-7280350424493182976-tVqC",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH1CPSNBqypPw/feedshare-shrink_800/B56ZQkAILuGsAk-/0/1735770801910?e=2147483647&v=beta&t=vUPMQ81AODgGZCNDpI5Is8R3jSXhcq2MH5CLYKWM47s",
+        "title": "Excited to share that I will be joining Morgan Stanley as part of the Fixed Income Summer Analyst Program in NYC for 2025! I\u2019m incredibly grateful\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/80-lv_arcane-leagueoflegends-games-activity-7277600184493047808-kYLz",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHAgnSaOooelg/feedshare-shrink_800/B4DZP86zUNGUAg-/0/1735115094085?e=2147483647&v=beta&t=7pAC1CzROO0r-uHv1X6GQ7mkWBsG2eO5r7pbbw200Vk",
+        "title": "Riot Games' co-founder responds to analysts calling Arcane a financial failure: \"These people think we make things like Arcane to sell skins, when in\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cademasu_intern-microsoftexplore-activity-7276007846062829568-3rq2",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGw-hAbHAXQew/feedshare-shrink_800/B4EZPmSk7rHEAg-/0/1734735450711?e=2147483647&v=beta&t=y3ZSKVW7S3_xt1fo2kvezT9a9NmUx91WwYZZcl9NfsQ",
+        "title": "I am thrilled to announce that I have accepted an offer to join Microsoft as an Explore Intern for Summer 2025! This 12-week program provides an\u2026",
+        "activity": "Liked by Yeabsera Afework"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/yeabsera-afework-167932139?trk=public_profile_samename-profile",
+        "name": "Yeabsera Afework",
+        "summary": "Registered Nurse at AMN Healthcare",
+        "location": "Owings Mills, MD"
+      },
+      {
+        "link": "https://www.linkedin.com/in/yeabsera-afework-3b64ba2a3?trk=public_profile_samename-profile",
+        "name": "Yeabsera Afework",
+        "summary": "--",
+        "location": "Columbia, MD"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Computer Systems from the Ground Up"
+      },
+      {
+        "name": "Design and Analysis of Algorithms"
+      },
+      {
+        "name": "Infrastructure at Scale"
+      },
+      {
+        "name": "Mathematical Foundations of Computer Science"
+      },
+      {
+        "name": "Operating System Principles"
+      },
+      {
+        "name": "Probability for Computer Scientists"
+      },
+      {
+        "name": "Programming Abstractions"
+      },
+      {
+        "name": "Programming Methodologies"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

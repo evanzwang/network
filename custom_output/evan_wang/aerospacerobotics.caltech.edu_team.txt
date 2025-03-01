@@ -1,0 +1,244 @@
+        [Autonomous Robotics and Control Lab at Caltech](/)
+            [Cover](/)
+            [Robot Videos](/videos)
+            [News](/aerospacerobotics)
+              Team
+              Current Research
+            [Publications](/publications)
+            [Facilities](/facilities)
+            [Past Projects](/pastresearch)
+              Back
+            [People](/team)
+            [Prof. Soon-Jo Chung](/prof-soonjo-chung)
+            [Nonlinear Control Theory](https://sites.google.com/view/contractiontheory/)
+            [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/california-institute-of-technology-joins-the-indy-autonomous-challenge)
+            [Machine Learning + Control](/machine-learning-control)
+            [SCP+Stochastic+Nonlinear](/scpstochasticnonlinear)
+            [Robot, Spacecraft, and Drone Swarms](/spacecraft-swarms)
+            [Aerospace Autonomy](/aerospace-autonomy)
+            [Autonomous Flying Ambulance](/urban-air-mobility-and-autonomous-flying-cars)
+            [Swarm Autonomy and Sparse Apertures](/sparse-apertures)
+            [LEONARDO](/leonardo)
+            [CASTOR](/castor)
+            [Computer Vision + Estimation + Robotics](/computer-vision-estimation-robotics)
+            [Perception using Thermal  Cameras](/perception-using-thermal-cameras)
+                        Group Director:
+                        Administrative assistant
+                              Narin Seraydarian
+                              (from October 1, 2023)
+                        Research Scientists/Engineers and POSTDOCs
+                              Dr. Matt Anderson
+                                Dr. Xingxing Zuo
+                              (co-advised with Prof. Georgia Gkioxari)
+                              Dr. Thomas Berrueta
+                              (co-advised with Prof. Fred Hadaegh)
+                              Dr. Mahdi Taheri
+                              Joshua Cho
+                              Arion Zimmerman
+                        Ph.D. Students
+                                Sorina Lupu
+                              (GALCIT)
+                              Jimmy Ragan
+                              Nikhil Ranganathan
+                              John Lathrop
+                              (CDS)
+                              Fengze Xie
+                              (CMS), co-advised with Prof. Yisong Yue
+                              Joshua Ibrahim
+                              (CDS), co-advised with Prof. Eric Mazumdar
+                              Yujin An
+                              (BE)
+                              Joudi Hajar
+                              (EE), co-advised
+                              Satvik Kumar
+                              Haeyoon Han
+                              Deemo Chen
+                              (EE)
+                              Dohyun Lee (MCE)
+                              Mathieu A Decker
+                              Gloria Mellinand
+                              Antonio Marino
+                              Raphael Blanchard
+                        SURF/WAVE/AMP Undergraduate students
+                          2019.
+                          Brian Cruz, Aaron Feldman, Yvette Lin, Jamie Littman, Austin McCoy, Zoe Rock, Jennifer Sun; Saskia Van Nieuwstadt, Yasmin Veys, Anya Vinogradsky, Asta Wu, Sarah Zou, Isaac Perrin; Kasey Adams, Sauhaarda Chowdhuri, Brad Villacis, Gabriel Goch, Muhammad Moughal
+                          2018.
+                          Anuj Chadha, Asta Wu, David Elliott, Elaine Lowinger, Evan Yu,Irene Crowell, Joshua Fernandez, Juliette Hu, Karen Chen, Michael Brown, Michael Iovine, Qifan Wang, Ruoyun Zheng, Anuj Chadha, Brendan Hollaway
+                          2017.
+                          Michelle Zhao, Aditya Telikicherla, Jui Hung (Ray) Sun, Suzanne H. Oliver, Prinesh K. Mistry, Qifan (William) Wang, Hyung Ju (Terry) Suh, Yunsang Choi.
+                        Former MemBERs who are professors
+                              Prof. James Preiss
+                              , Assistant Professor of Computer Science, University of California, Santa Barbara
+                              Prof. Yashwanth Nakka
+                              , Assistant Professor of Aerospace Engineering, Georgia Institute of Technology
+                                Prof. SooJean Han
+                              , Assistant Professor of Electrical Enginering, Korea Advanced Institute of Science and Tecnology
+                                Prof. Lu Gan
+                              Prof. Giusy Falcone
+                              (former visiting MS student), Assistant Professor of Aerospace Engineering (starting in January 2024), University of Michigan, Ann-Arbor
+                                Prof. Hiroyasu Tsukamoto
+                              , Assistant Professor of Aerospace Engineering (starting in 2024), University of Illinois at Urbana-Champaign
+                                Prof. Kyunam Kim
+                              , Assistant Professor of Mechanical Engineering, Sungkyunkwan University
+                                Prof. Guanya Shi
+                              , Assistant Professor, Robotics Institute, Carnegie Mellon University
+                                Prof. Wolfgang Hoenig
+                              , Assistant Professor, Computer Science, Technical University of Berlin
+                                Prof. Alireza Ramezani
+                              , Assistant Professor, EECS, Northeastern University
+                                Dr. Aditya Paranjape
+                              , Associate Professor, Monash University, Previously, Lecturer in Aerial Robotics, Department of Aeronautics, Imperial College London
+                                Prof. Ashwin Dani
+                              , Associate Professor, Department of Electrical and Computer Engineering, University of Connecticut
+                                Prof. Jingjin Yu
+                              , Associate Professor, Department of Computer Science, Rutgers University
+                                Prof. Animesh Chakravarthy
+                              , Associate Professor, University of Texas, Arlington
+                        Former PhD Students
+                                Benjamin P. Riviere
+                              Connor T. Lee
+                                Kai Matsuka
+                                Hiroyasu Tsukamoto
+                                Michael O’Connell
+                                SooJean Han
+                              (CDS), co-advised with Prof. John Doyle
+                                Ellande Tang
+                              (MCE)
+                                Guanya Shi
+                              (CDS), co-advised with Yisong Yue
+                                Yashwanth Kumar Nakka
+                                Karena Cai
+                              (CDS), co-advised with Prof. Richard Murray
+                            B.S. in Mechanical Engineering, Princeton University
+                                Xichen Shi
+                            B.S. in Aerospace Engineering, University of Illinois at Urbana-Champaign
+                              Michael Duffy
+                            Ph.D. in Aerospace Engineering, University of Illinois at Urbana-Champaign (Defended in August 2019)
+                              Rebecca Foust
+                              Kevin Meier
+                              Saptarshi Bandyopadhyay
+                              [Novel Probabilistic and Distributed Algorithms for Guidance, Control, and Nonlinear Estimation of Large-Scale Multi-Agent Systems](http://arcl.ae.illinois.edu/BANDYOPADHYAY-DISSERTATION-2016.pdf)
+                              Michael Dorothy
+                              [Neuroinspired Control Strategies with Applications to Flapping Flight](http://arcl.ae.illinois.edu/DOROTHY-DISSERTATION-2016.pdf)
+                              Junho Yang
+                              [Vision based Estimation, Localization, and Mapping for Autonomous Vehicles](http://arcl.ae.illinois.edu/JunhoYangdissertation.pdf)
+                              Daniel Morgan
+                                Aditya Paranjape
+                        Former Postdoctoral Associates
+                              Dr. James Preiss
+                              Benjamin Riviere
+                                Dr. SooJean Han,
+                              Assistant Professor of Electrical Engineering, Korea Advanced Institute of Science and Technology
+                                Dr. Hiroyasu Tsukamoto
+                              ,
+                              Assistant Professor, University of Illinois at Urbana-Champaign
+                              Dr. Kai Matsuka
+                              , Tesla Motors
+                              Dr. Michael O’Connell,
+                              Northrop Grumman Corporation
+                              Dr. Anthony Fragoso,
+                              U.S. Army Engineer Research and Development Center (ERDC)
+                              Dr. Vincenzo Capuano,
+                              Samsung Research Lab
+                              Dr. Yashwanth Nakka,
+                              Jet Propulsion Laboratory
+                              Dr. Serin Lee,
+                              EpiSys Science
+                              Dr. Kyunam Kim,
+                              Assistant Professor of Mechanical Engineering, Sungkyunkwan University
+                                Dr. Wolfgang Hoenig
+                                Dr. Salar Rahili
+                                , Reinforcement Learning Lead,  January, Inc
+                              Dr. Alireza Ramezani
+                              , Currently, Assistant Professor, Northeastern University
+                                Dr. Shahrouz Ryan Alimo
+                              , Currrently with Jet Propulsion Laboratory
+                              Dr. Saptarshi Bandyopadhyay
+                              , Currently, Robotics Technologist at Jet Propulsion Laboratory
+                              Dr. Christian Chilan
+                              , Currently Research Assistant Professor at University of Illinois at Urbana-Champaign
+                              Dr.
+                              Postdoctoral Associate (1/2012-10/2013, co-advised with Prof. Seth Hutchinson)
+                                Ashwin Dani
+                              (co-advised with
+                              [Prof. Seth Hutchinson](http://www-cvr.ai.uiuc.edu/~seth/)
+                              ) Postdoctoral Associate (8/2011-8/2013)
+                                Dr. Jingjin Yu
+                                Dr. Animesh Chakravarthy
+                                Keehong Seo
+                        Former MS thesis Students, engineers, and Members
+                              Dzenan Lapandic
+                              , Former Visiting PhD student, KTH
+                              Daniel Mitchell
+                              , Former Visiting PhD student, University of Glasgow
+                              Arion Zimmermann
+                              , Visiting MS student, EPFL
+                              Hannah Grauer,
+                              former Research Engineering Staff
+                              Jedidiah Alindogan,
+                              Yuta Takahashi, former visiting PhD student
+                              Tommaso Ravanelli
+                              Patrick Spieler
+                              B.S., M.S., EPFL
+                              Alexei Harvard
+                              B.S. in Mathematics, Caltech
+                                Thayjes Srivas
+                              (M.S. EPFL)
+                              Shripad Gade
+                              (PhD student UIUC under S.-J. Chung supervision during 2014-2016.
+                              Martin Miller
+                              (ECE UIUC), co-advised w/
+                              Ayush Saxena
+                              M.S. in Aerospace Engineering, UIUC, December 2017
+                              Francesca Baldini
+                              Visiting MS student from the University of Pisa, Italy
+                              Giusy Falcone
+                              Lingyu Ma
+                              (co-advised with S. Hutchinson), M.S. in Mechanical Engineering, UIUC, December 2016
+                              (co-advised with J. Allison) M.S. in Aerospace Engineering, UIUC, December 2016
+                              Mingyo Seo
+                              (co-advised with S. Hutchinson) M.S. in Mechanical Engineering, UIUC, August 2016
+                              Giri Prashant Subramanian
+                              , M.S. in Aerospace Engineering, August 2015
+                              Nitish Sanghi,
+                              M.S. in Mechanical Engineering, May 2013
+                              [Intuitive Surgical Inc](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.intuitivesurgical.com_&d=AwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=8cKZTsntNpPFUGmSFQJFZ193nL_CQAAOOh3z7Iwm7AA&m=9yL0t__X6ILhm9YXZWDPs48gcsyMVMvbnznhzgH0kMA&s=BbxNSctxf1LvyhYqsQ4narlcIYviRJalpgjMpWwNWZw&e=)
+                              Dushyant Rao
+                              , M.S. in Aerospace Engineering, August 2012
+                              Jin Yu Guan
+                              , M.S. in Aerospace Engineering, Mary 2012
+                              P. Daniel Kuang
+                              , M.S. in Aerospace Engineering, December 2011
+                              , M.S. in Aerospace Engineering, August 2011
+                              Koray Celik
+                              (PhD student under S.-J. Chung’s supervision during 2007-2009)
+                              Insu Chang
+                              (PhD student under S.-J. Chung’s supervision during 2007-2010)
+                        Visiting faculty
+                                Anthony Clark
+                              , Assistant Professor of Computer Science, Pomona College
+                              Prof. Mark Balas
+                              , Texas A&M University
+                              Prof. Tom Richardson
+                              , Bristol University
+                              Prof. Atsuhiko Senba Visiting Scholar (7/2012-7/2013)
+                        Undergraduate Research Assistants (OLD)
+                            Swarm Spacecraft Testbed Development (6/2010-Current): Elliot Schwartz, Jenny Roderick, David Hanley, Mike Looby, Li Pan, Ricardo Toro (MS NT), Patrix Haddox (MS-NT)
+                            Unmanned Aerial System (UAS) Vision Tracking Challenge (since 1/2012): Rasheed Ibrahim, Xichen Shi, Shubham Gupta, Oliver Cai, Guanyang Luo, Sunil Patel, Jonathan Yong (MS-NT), Shravan Gupta, Derek Chen, Christian Howard, Hong-bin Yoon, Niclas Mueller, Gregory Doidge
+                            Bio-inspired Flight Mechanics and Control of MAVs: Harry Rocha (ISGC UROP), Joseph Kim, Jim Holtman, Andy Meister, Matt Schipp, Dan Chuchawat, Nihir Ghandi, Robert Cachro, Or Dantsker
+                            Swarm Spacecraft Trajectory Optimization (8/2010-5/2011): Austin Nicholas (Winner of NSF Graduate Fellowship, currently at MIT)
+                            Design, Fabrication, and Control of Cellular, Flexible Robotic Arms and Control: Daniel Park, Eric Reisenbuckler, Ryan Cook (FPGA Based Central Pattern Generator)
+                            Control of Bipedal-Walking Humanoid Robot: Sudarshan Rangan; Alex Cheung
+                            Maulik Choksi, James Holtman, Michael Looby, Andrew Meister, Sudarshan Rangan, Matt Schipp, Jonathan Yong, Alex Leung, Harry Rocha, Austin Nicholas
+                            Kito Berg-Taylor, Mark Kane, Keegan Gartner
+                            Ravi Sharma, Shuang Gao
+                            Brad Smith, Anid Monsur, Ryan Paul, Antonella Albuja, Chris Massina, Merritt Tennison
+                        California Institute of Technology joins the Indy Autonomous Challenge - Indy Autonomous Challenge
+              California Institute of Technology
+              1200 East California Boulevard,
+              Pasadena, CA, 91125,
+              United States
+              [SJCHUNG@CALTECH.EDU](mailto:SJCHUNG@CALTECH.EDU)
+              Hours
+                    Prof. Soon-Jo Chung, California Institute of Technology
+                        Contact Information

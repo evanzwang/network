@@ -1,0 +1,76 @@
+    ******************* The Navbar Area *******************
+      Your site title as branding in the menu
+          end custom logo
+        #site-logo
+            Search
+              's' is to get the WP search page. 'q' is to hold the G-CSE search query.
+        #search
+      #site-branding
+          The WordPress Menu goes here
+                [Home](https://ies.engin.umich.edu/)
+                [About](https://ies.engin.umich.edu/about/)
+                    [UM Energy Expertise](https://ies.engin.umich.edu/um-energy-expertise/)
+                    [IES Signing Bonuses for PhD Student Applicants](https://ies.engin.umich.edu/ies-signing-bonuses-for-phd-students/)
+                    [Energy Solutions Faculty Fellows Program](https://ies.engin.umich.edu/for-faculty/um-energy-expertise-fellows-program/)
+                    [2023 IES Faculty Fellows Cohort](https://ies.engin.umich.edu/2023-cohort/)
+                    [IES Graduate Fellows Program](https://ies.engin.umich.edu/for-students/ies-graduate-student-fellowship-program/)
+                    [IES Graduate Fellow Profiles – 2024](https://ies.engin.umich.edu/ies-graduate-fellow-profiles-2024/)
+                    [IES Graduate and Postdoctoral Fellow Profiles – 2025](https://ies.engin.umich.edu/ies-graduate-and-postdoctoral-fellow-profiles-2025/)
+                    [Energy Course Listings](https://ies.engin.umich.edu/energy-course-listings-2/)
+                    [Energy Related Degrees](https://ies.engin.umich.edu/degrees/)
+                    [Student Energy Clubs and Organizations](https://ies.engin.umich.edu/student-energy-clubs-and-organizations/)
+                    [Student and Postdoc Opportunities](https://ies.engin.umich.edu/student-and-postdoc-opportunities/)
+                    [Energy News](https://ies.engin.umich.edu/energy-news-at-the-university-of-michigan/)
+                    [Energy Events](https://ies.engin.umich.edu/upcoming-energy-events-in-ann-arbor/)
+                    [Energy Seminar Series – Fall 2024](https://ies.engin.umich.edu/energy-seminar-series/)
+                    [Energy Seminar Series – Winter 2025](https://ies.engin.umich.edu/energy-seminar-series-winter-2025/)
+                    [Funding Opportunities in Energy](https://ies.engin.umich.edu/funding-opportunities-in-energy/)
+                    [Newsletter Archive](https://ies.engin.umich.edu/newsletter-archive/)
+                [Partnerships and Connections](https://ies.engin.umich.edu/partnerships-and-connections/)
+                [Contact Us](https://ies.engin.umich.edu/contact-us/)
+        .container
+      .site-navigation
+    #wrapper-navbar end
+                      Li, Max Z.
+                      Faculty
+                    <h1>Li, Max Z. | Faculty</h1>
+                    check to see if we need each field displayed
+                    (217) 419-5173
+                      [View Website](https://experts.umich.edu/7808-max-li)
+                    Transportation Energy
+                      Assistant Professor of Aerospace Engineering, Industrial and Operations Engineering
+                      Biography
+                    Max is an Assistant Professor in the Department of Aerospace Engineering at the University of Michigan, Ann Arbor, with a courtesy appointment in the Department of Industrial and Operations Engineering. His research and teaching interests include air transportation systems, airport and airline operations, Advanced Air Mobility (AAM), networked systems, optimization, and controls.
+                      Additional Links
+                      [Li's Aerospace Engineering Profile](https://aero.engin.umich.edu/people/li-max/)
+                .entry-content
+              #post-##
+            #main
+          #primary
+        .row
+      #content
+    #single-wrapper
+              Institute for Energy Solutions
+                Office of the Vice President for Research
+                Suite 1300, Alexander G. Ruthven Bldg.
+                1109 Geddes Ave., Ann Arbor, MI 48109
+                734-764-1185
+            #blog-info
+              Michigan Engineering
+            #college-info
+          .site-info
+              ©
+                2025
+                [The Regents of the University of Michigan](http://regents.umich.edu)
+                |
+                [Safety and Security](http://safety.engin.umich.edu/)
+                [Acceptable Use](https://teamdynamix.umich.edu/TDClient/76/Portal/KB/ArticleDet?ID=5392)
+                [Privacy Policy](https://teamdynamix.umich.edu/TDClient/76/Portal/KB/ArticleDet?ID=5392)
+                [U-M Main](https://www.umich.edu)
+            - #umich-info
+              [Login](https://ies.engin.umich.edu/wp-admin)
+          #footer-links
+        #colophon
+      container end
+    wrapper end
+  #page we need this extra closing tag here

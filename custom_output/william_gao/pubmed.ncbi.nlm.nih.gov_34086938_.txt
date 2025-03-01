@@ -1,0 +1,407 @@
+        This site needs JavaScript to work properly. Please enable it to take advantage of the complete set of features!
+      Clipboard, Search History, and several other advanced features are temporarily unavailable.
+  ========== BEGIN HEADER ==========
+          An official website of the United States government
+            Here's how you know
+              The .gov means it’s official.
+              The site is secure.
+              https://
+              ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          [Log in](https://account.ncbi.nlm.nih.gov)
+            Show account info
+                Close
+              Account
+            Logged in as:
+                username
+                  [Dashboard](/myncbi/)
+                  [Publications](/myncbi/collections/bibliography/)
+                  [Account settings](/account/settings/)
+                  [Log out](/account/signout/)
+    [Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys)
+    [NCBI Homepage](https://www.ncbi.nlm.nih.gov)
+    [MyNCBI Homepage](/myncbi/)
+  ========== END HEADER ==========
+          Search:
+            Search
+      Create alert and Create RSS are buttons that look like links
+      Better for them to look like buttons but no space
+          [Advanced](/advanced/)
+          [Clipboard](/clipboard/)
+          [User Guide](/help/)
+            Save
+            Email
+              Send to
+                      [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34086938%2F%23open-bibliography-panel)
+                      [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34086938%2F%23open-collections-panel)
+              Display options
+                  Format
+                    Abstract
+                    PubMed
+                    PMID
+          Save citation to file
+              Format:
+                Summary (text)
+                Abstract (text)
+                CSV
+              Create file
+              Cancel
+          Email citation
+              Subject:
+              1 selected item: 34086938 - PubMed
+              To:
+              From:
+                Summary
+              MeSH and other data
+              Send email
+          Add to Collections
+                  Create a new collection
+                  Add to an existing collection
+                Name your collection:
+                Name must be less than 100 characters
+                Choose a collection:
+                Unable to load your collection due to an error
+              Add
+          Add to My Bibliography
+            Unable to load your delegates due to an error
+          Your saved search
+              Name of saved search:
+              Search terms:
+              Would you like email updates of new search results?
+                Saved Search Alert Radio Buttons
+                    Yes
+                    No
+                Email:
+                  [change](https://www.ncbi.nlm.nih.gov/account/settings/)
+                  )
+                Frequency:
+                  Monthly
+                  Weekly
+                  Daily
+                Which day?
+                  The first Sunday
+                  The first Monday
+                  The first Tuesday
+                  The first Wednesday
+                  The first Thursday
+                  The first Friday
+                  The first Saturday
+                  The first day
+                  The first weekday
+                  Sunday
+                  Monday
+                  Tuesday
+                  Wednesday
+                  Thursday
+                  Friday
+                  Saturday
+                Report format:
+                Send at most:
+                  1 item
+                  5 items
+                  10 items
+                  20 items
+                  50 items
+                  100 items
+                  200 items
+                Send even when there aren't any new results
+                Optional text in email:
+          Create a file for external citation management software
+          Your RSS Feed
+              Name of RSS Feed:
+                Number of items displayed:
+                  5
+                  10
+                  15
+                  20
+                  50
+                  100
+              Create RSS
+              RSS Link
+              Copy
+            Full text links
+                Silverchair Information Systems
+                Free PMC article
+          Actions
+              Cite
+          Share
+                  Permalink
+            Page navigation
+            Title & authors
+            Figures
+            Similar articles
+            Cited by
+            References
+            Publication types
+            MeSH terms
+            Substances
+            Related information
+            Grants and funding
+            LinkOut - more resources
+      "Filters applied" shows only when page is redirected from search
+      because search found one result
+                Nucleic Acids Res
+                        [Search in PubMed](/?term=%22Nucleic+Acids+Res%22%5Bjour%5D&sort=date&sort_order=desc)
+                        [Search in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Nucleic+Acids+Res%22%5BTitle+Abbreviation%5D)
+              .
+              2021 Jun 21;49(11):6128-6143.
+            doi: 10.1093/nar/gkab355.
+          Discovery of 17 conserved structural RNAs in fungi
+                  [William Gao](/?term=Gao+W&cauthor_id=34086938)
+                  ,
+                  [Thomas A Jones](/?term=Jones+TA&cauthor_id=34086938)
+                  [Elena Rivas](/?term=Rivas+E&cauthor_id=34086938)
+          Affiliations
+              Expand
+                    1
+                    Department of Molecular and Cellular Biology, Harvard University, Cambridge, USA.
+                    2
+                    Howard Hughes Medical Institute, Harvard University, Cambridge, USA.
+                PMID:
+                34086938
+                PMCID:
+                [PMC8216456](https://pmc.ncbi.nlm.nih.gov/articles/PMC8216456/)
+                DOI:
+                [10.1093/nar/gkab355](https://doi.org/10.1093/nar/gkab355)
+          Item in Clipboard
+                et al.
+              2021
+              Show details
+                Authors
+          Many non-coding RNAs with known functions are structurally conserved: their intramolecular secondary and tertiary interactions are maintained across evolutionary time. Consequently, the presence of conserved structure in multiple sequence alignments can be used to identify candidate functional non-coding RNAs. Here, we present a bioinformatics method that couples iterative homology search with covariation analysis to assess whether a genomic region has evidence of conserved RNA structure. We used this method to examine all unannotated regions of five well-studied fungal genomes (Saccharomyces cerevisiae, Candida albicans, Neurospora crassa, Aspergillus fumigatus, and Schizosaccharomyces pombe). We identified 17 novel structurally conserved non-coding RNA candidates, which include four H/ACA box small nucleolar RNAs, four intergenic RNAs and nine RNA structures located within the introns and untranslated regions (UTRs) of mRNAs. For the two structures in the 3' UTRs of the metabolic genes GLY1 and MET13, we performed experiments that provide evidence against them being eukaryotic riboswitches.
+      © The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic Acids Research.
+        [PubMed Disclaimer](/disclaimer/)
+                  Figure 1.
+                  Phylogenetic distribution of the 1371…
+                Phylogenetic distribution of the 1371 fungal genomes in the database. These genomes are…
+              Phylogenetic distribution of the 1371 fungal genomes in the database. These genomes are all within the fungal phylum Ascomycota, which has been much more well-studied than the other major fungal phylum Basidiomycota. Ascomycota has three subphyla: Saccharomycotina, Pezizomycotina, and Taphrinomycotina. The taxonomy of all 1371 species was determined using the NCBI Taxonomy Browser. Per the legend, the font size and color reflect the taxonomic rank of each group listed in the phylogenetic tree. The number of genomes in each clade is listed after its name. In some cases, the sum of the number of genomes in lower levels does not equal the total number of genomes in a higher taxonomic level. This is because some genomes have been classified as ‘
+                incertae sedis
+                ,’ or of unknown taxonomic placement.
+                  Figure 2.
+                  Description of the method: the…
+                Description of the method: the flanked and unflanked modes. Our structural non-coding RNA…
+              Description of the method: the flanked and unflanked modes. Our structural non-coding RNA finding method has two modes: an unflanked mode for finding standalone structural non-coding RNA genes and a coding sequence-flanked mode. In the flanked mode, sequences annotated as introns and UTRs are flanked by adjacent coding sequences (CDSes) in the first homology search. Then, the non-coding portion of the produced alignment is extracted and all sequences with at least 50 nucleotides in this region are used to build an HMM that serves as the query for the subsequent homology search. We used the unflanked mode to screen all intergenic regions (IGRs) for standalone structural ncRNA genes and the flanked mode to screen all introns and UTRs for structures located in the non-coding regions of mRNAs.
+                  Figure 3.
+                  Four H/ACA snoRNA structural candidates.…
+                Four H/ACA snoRNA structural candidates. Three of these are intergenic (
+                  A
+                  –…
+                –
+                C
+                ) and the other (
+                D
+                ) is consistently found in the intron of a vacuolar sorting protein. For each structure, the H box (ANANNA) and ACA box (ACA) motifs are highlighted in yellow and labeled. Nucleotides are colored according to degree of conservation per the legend. Base pairs highlighted in green are statistically significantly covarying. Putative interactions between the guide regions of the H/ACA snoRNAs and rRNAs are illustrated in blue, with the proposed site of pseudouridylation designated as ψ. R-scape uses R2R to draw the structures (43). The sequences have been trimmed to highlight the region of covariation. Positions with more than 50% gaps are not displayed unless they are base paired.
+                  Figure 4.
+                  Four conserved intergenic structural non-coding…
+                Four conserved intergenic structural non-coding RNA candidates. These intergenic structures are found in…
+              Four conserved intergenic structural non-coding RNA candidates. These intergenic structures are found in different genomic contexts across genomes with high quality annotations, so we hypothesize that they are standalone non-coding RNA genes. Intergenic structures 1, 3 and 4 have some but not all of the signatures associated to H/ACA snoRNAs. Refer to the legend from Figure 3 for this and subsequent figures.
+                  Figure 5.
+                  Three mRNA structures likely to…
+                Three mRNA structures likely to engage in autoregulation. We discovered 3 non-coding RNA…
+              Three mRNA structures likely to engage in autoregulation. We discovered 3 non-coding RNA structures associated with protein-coding genes that are likely to interact with the proteins produced from their mRNAs to autoregulate their translation. These include: (
+                ) a 5′ UTR structure located in the
+                RPL12
+                gene encoding a ribosomal protein, (
+                B
+                ) a structure located in the sole intron of the
+                RPS13
+                gene which also encodes a ribosomal protein and (
+                ) a structure located in either the 5′ UTR or intron of a gene encoding lysyl-tRNA synthetase.
+                  Figure 6.
+                  Four structures associated with other…
+                Four structures associated with other mRNAs. Structures were also found in the non-coding…
+              Four structures associated with other mRNAs. Structures were also found in the non-coding regions of these protein-coding genes: (
+                ) a structure in an intron of metacaspase 1B, (
+                ) a 3′ UTR structure of thioredoxin, (
+                ) a 3′ UTR structure in a poorly characterized gene annotated as a RING finger domain protein and (
+                ) a 3′ UTR structure in a poorly characterized gene annotated as a thioesterase family protein.
+                  Figure 7.
+                  Two eukaryotic 3′ UTR structures.…
+                Two eukaryotic 3′ UTR structures. Two structures were found in metabolic genes, which…
+              Two eukaryotic 3′ UTR structures. Two structures were found in metabolic genes, which led to us hypothesize that they were eukaryotic riboswitches. These are (
+                ) a 3′ UTR structure in
+                GLY1
+                , which encodes a threonine aldolase that converts
+                l
+                -threonine to glycine (
+                MET13
+                , which encodes methylenetetrahydrofolate reductase, a crucial enzyme in both the folate and methionine cycles. (
+                ) RNA-seq data from NCBI Short Read Archive (
+                https://www.ncbi.nlm.nih.gov/sra
+                ) accession SRX9766847 was aligned to the
+                S. cerevisiae
+                S288C genome using RNA STAR under default settings. Here, the reads aligned to the structure (highlighted in yellow) suggest that it is located in the 3′ UTR of
+                . (
+                ) RNA-seq data from SRX6491142 was aligned to the
+                C. albicans
+                genome using RNA STAR under default settings. Here, the reads aligned to the structure suggest that it is located in the 3′ UTR of
+                . Genome tracks were viewed using IGB (74).
+          All figures (7)
+        Root element of PhotoSwipe. Must have class pswp.
+          Background of PhotoSwipe.
+       It's a separate element as animating opacity is faster than rgba().
+          Slides wrapper with overflow:hidden.
+            Container that holds slides.
+         PhotoSwipe keeps only 3 of them in the DOM to save memory.
+         Don't modify these 3 pswp__item elements, data is added later on.
+            Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.
+                Controls are self-explanatory. Order can be changed.
+                Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR
+                element will get class pswp__preloader--active when preloader is running
+            Dynamic text
+              [Computational identification of non-coding RNAs in Saccharomyces cerevisiae by comparative genomics.](/12853629/)
+                McCutcheon JP, Eddy SR.
+                McCutcheon JP, et al.
+                Nucleic Acids Res. 2003 Jul 15;31(14):4119-28. doi: 10.1093/nar/gkg438.
+                Nucleic Acids Res. 2003.
+                  12853629
+                Free PMC article.
+              [Conserved secondary structures in Aspergillus.](/18665251/)
+                McGuire AM, Galagan JE.
+                McGuire AM, et al.
+                PLoS One. 2008 Jul 30;3(7):e2812. doi: 10.1371/journal.pone.0002812.
+                PLoS One. 2008.
+                  18665251
+              [Comparative analysis of structured RNAs in S. cerevisiae indicates a multitude of different functions.](/17577407/)
+                Steigele S, Huber W, Stocsits C, Stadler PF, Nieselt K.
+                Steigele S, et al.
+                BMC Biol. 2007 Jun 18;5:25. doi: 10.1186/1741-7007-5-25.
+                BMC Biol. 2007.
+                  17577407
+              [Computational prediction of riboswitches.](/25726470/)
+                Clote P.
+                Methods Enzymol. 2015;553:287-312. doi: 10.1016/bs.mie.2014.10.063. Epub 2015 Feb 19.
+                Methods Enzymol. 2015.
+                  25726470
+                Review.
+              [An evolving tale of two interacting RNAs-themes and variations of the T-box riboswitch mechanism.](/31206978/)
+                Suddala KC, Zhang J.
+                Suddala KC, et al.
+                IUBMB Life. 2019 Aug;71(8):1167-1180. doi: 10.1002/iub.2098. Epub 2019 Jun 17.
+                IUBMB Life. 2019.
+                  31206978
+          [See all similar articles](/?linkname=pubmed_pubmed&from_uid=34086938)
+              [Thirteen dubious ways to detect conserved structural RNAs.](/36495545/)
+                Gao W, Yang A, Rivas E.
+                Gao W, et al.
+                IUBMB Life. 2023 Jun;75(6):471-492. doi: 10.1002/iub.2694. Epub 2022 Dec 10.
+                IUBMB Life. 2023.
+                  36495545
+              [GERONIMO: A tool for systematic retrieval of structural RNAs in a broad evolutionary context.](/37848616/)
+                Kilar AM, Fajkus P, Fajkus J.
+                Kilar AM, et al.
+                Gigascience. 2022 Dec 28;12:giad080. doi: 10.1093/gigascience/giad080. Epub 2023 Oct 17.
+                Gigascience. 2022.
+                  37848616
+              [Advances and opportunities in RNA structure experimental determination and computational modeling.](/36203019/)
+                Zhang J, Fei Y, Sun L, Zhang QC.
+                Zhang J, et al.
+                Nat Methods. 2022 Oct;19(10):1193-1207. doi: 10.1038/s41592-022-01623-y. Epub 2022 Oct 6.
+                Nat Methods. 2022.
+                  36203019
+              [Advances in Non-Coding RNA Sequencing.](/34842804/)
+                Micheel J, Safrastyan A, Wollny D.
+                Micheel J, et al.
+                Noncoding RNA. 2021 Oct 30;7(4):70. doi: 10.3390/ncrna7040070.
+                Noncoding RNA. 2021.
+                  34842804
+                  Gutell R.R., Power A., Hertz G.Z., Putz E.J., Stormo G.D.. Identifying constraints on the higher-order structure of RNA: continued development and application of comparative sequence analysis methods. NAR. 1992; 20:5785–5795.
+            
+              
+                
+                  -
+                    [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC334417/)
+                    -
+                  Akmaev V.R., Kelley S.T., Stormo G.D.. Phylogenetically enhanced statistical tools for RNA structure prediction. Bioinformatics. 2000; 166:501–512.
+            
+              
+                
+                  -
+                  Lindgreen S., Gardner P.P., Krogh A.. Measuring covariation in RNA alignments: physical realism improves information measures. Bioinformatics. 2006; 22:2988–2995.
+            
+              
+                
+                  -
+                  Yeang C.-H., Darot J.F., Noller H.F., Haussler D.. Detecting the coevolution of biosequences—an example of RNA interaction prediction. Mol. Biol. Evol. 2007; 24:2119–2131.
+            
+              
+                
+                  -
+                  Dutheil J.Y. Detecting coevolving positions in a molecule: why and how to account for phylogeny. Brief. Bioinform. 2012; 13:228–243.
+            
+              
+                
+                  -
+              Show all 95 references
+              Research Support, Non-U.S. Gov't
+                      [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Research+Support%2C+Non-U.S.+Gov%27t)
+              3' Untranslated Regions
+              Computational Biology / methods
+              Genome, Fungal
+              Introns
+              Lysine-tRNA Ligase / genetics
+              Markov Chains
+              Nucleic Acid Conformation
+              RNA, Fungal / chemistry*
+              RNA, Small Nucleolar / chemistry
+              RNA, Untranslated / chemistry*
+              Ribosomal Proteins / genetics
+              Riboswitch
+              Sequence Alignment
+              Thioredoxins / genetics
+              RNA, Fungal
+              RNA, Small Nucleolar
+              RNA, Untranslated
+              Ribosomal Proteins
+              Thioredoxins
+              Lysine-tRNA Ligase
+            [Gene](https://www.ncbi.nlm.nih.gov/gene?linkname=pubmed_gene&from_uid=34086938)
+            [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=34086938)
+            [Protein (RefSeq)](https://www.ncbi.nlm.nih.gov/protein?linkname=pubmed_protein_refseq&from_uid=34086938)
+            [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=34086938)
+              [HHMI/Howard Hughes Medical Institute/United States](/?term=HHMI%2FHoward+Hughes+Medical+Institute%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc)
+            Full Text Sources
+                [Europe PubMed Central](https://europepmc.org/abstract/MED/34086938)
+                [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/34086938/)
+            Molecular Biology Databases
+                [Saccharomyces Genome Database](https://www.yeastgenome.org/reference/34086938)
+            Research Materials
+                [NCI CPTC Antibody Characterization Program](https://antibodies.cancer.gov/detail/CPTC-GLO1-2)
+        [x]
+                Download .nbib
+                .nbib
+                AMA
+                APA
+                MLA
+                NLM
+        Send To
+        NCBI Literature Resources
+          [MeSH](https://www.ncbi.nlm.nih.gov/mesh/)
+          [Bookshelf](https://www.ncbi.nlm.nih.gov/books)
+          [Disclaimer](/disclaimer/)
+        The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+    ========== BEGIN FOOTER ==========
+        Follow NCBI
+                Twitter
+                Facebook
+                LinkedIn
+                GitHub
+                [Connect with NLM](https://www.nlm.nih.gov/socialmedia/index.html)
+                      SM-Facebook
+                      SM-Youtube
+              National Library of Medicine
+                [8600 Rockville Pike](https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323)
+                [Web Policies](https://www.nlm.nih.gov/web_policies.html)
+                [FOIA](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office)
+                [HHS Vulnerability Disclosure](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
+                [Help](https://support.nlm.nih.gov/)
+                [Accessibility](https://www.nlm.nih.gov/accessibility.html)
+                [Careers](https://www.nlm.nih.gov/careers/careers.html)
+                    [NIH](https://www.nih.gov/)
+                    [HHS](https://www.hhs.gov/)
+                    [USA.gov](https://www.usa.gov/)
+    ========== END FOOTER ==========
+    javascript to inject NWDS meta tags. Note: value of nwds_version is updated by "npm version" command
+  jQuery with plugins
+  Project base scripts

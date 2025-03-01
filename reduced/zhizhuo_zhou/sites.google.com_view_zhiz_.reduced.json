@@ -1,0 +1,117 @@
+{
+  "title": "Zhizhuo (Z) Zhou",
+  "meta_description": "",
+  "main_content": "Search this site Embedded Files Skip to main content Skip to navigation Zhizhuo (Z) Zhou I am a first year PhD student at Stanford University working on 3D generative AI. I was an MSR student at Carnegie Mellon University, where I am grateful to have worked with Shubham Tulsiani . I was also fortunate to work with David Fouhey during my undergrad at the University of Michigan. I am thankful to receive funding from NSF GRFP. X | Email | CV | Google Scholar | Blog | Github News Apr 2024 - [ MVD-Fusion ] Single image to multi-view RGB-D in seconds at CVPR 2024! Dec 2022 - [ SparseFusion ] Check out our latest work that unifies advances in neural rendering and image generation! Oct 2022 - [ Talk ] Won Meta-AI CO3D Challenge few-view reconstruction track at ECCV 2022 NGR-CO3D workshop! Jul 2022 - TA for AI4ALL@CMU 2022! June 2021 - [ Paper ] Quantifying Bird Skeletons accepted at CV4Animals Workshop In conjunction with CVPR 2021! Mar 2021 - Awarded NSF GRFP. Jan 2021 - Won ProjectX ML research competition focused on climate change, advised by Sindhu Kutty. Mar 2020 - [ Article ] Michigan Alexa Prize team entered semi-finals. Research I am interested in understanding and generating 3D scenes from casual videos, images, and text. MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation Hanzhe Hu*, Zhizhuo Zhou* , Varun Jampani, Shubham Tulsiani *Equal contribution CVPR 2024 We propose a novel depth-aware 3D attention mechanism for generating multi-view consistent RGB-D images given a single RGB image. SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction Zhizhuo Zhou , Shubham Tulsiani CVPR 2023 We propose a 3D neural mode-seeking formulation that combines probabilistic generation of unseen regions with faithful reprojection of seen regions in a consistent 3D representation. Quantifying Bird Skeletons Zhizhuo Zhou , Gemmechu Hassena, Brian C. Weeks, David F. Fouhey CV4Animals Workshop in conjunction with CVPR 2021 We can measure bird skeleton specimens extraordinarily accurately and quite fast with deep learning. This system can unlock datasets of birds at unprecedented scales. Projects [ Class Project ] OpenGIT: Open-Domain Compositional Image Editing with Text [ Class Project ] MasterChef: Using Instagram to Train a Text-to-Image Generator [ Paper ] The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning ( won projectx2020! ) [ Hackathon Project ] ZeroHero: Fruit and Vegetable Object Detection and Recipe Recommendation [ Hackathon Project ] trAnSLate: American Sign Language Translator with Image Classification [ Hackathon Project ] Raspberry Pi Powered Autonomous Car Life RPG: Gamifying Goal Tracking with an Alexa skill Fruitful: Fruit Ripeness Detection App Unlimited Field: Website with EEG Brain Computer Interface Volunteering Lead TA, AI4ALL Carnegie Mellon University, 2022 Project Mentor, AI4ALL University of Michigan, 2021 Awards and Honors NSF GRFP, 2021-2024 Best Paper Award, ProjectX 2020 ML for Climate Change Competition, 2020-2021 Undergraduate Scholarship, University of Michigan College of Engineering, 2018 - 2021 Google Sites Report abuse Google Sites Report abuse",
+  "links": [
+    {
+      "url": "https://shubhtuls.github.io/",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://cs.nyu.edu/~fouhey/",
+      "text": "David Fouhey"
+    },
+    {
+      "url": "https://twitter.com/zhizdev",
+      "text": "X"
+    },
+    {
+      "url": "mailto:zhizhuo@umich.edu",
+      "text": "Email"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1y92hsl1YblUJDN-p4rkobuaTQX6Ei5Ul/view?usp=share_link",
+      "text": "CV"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=WjZyzbYAAAAJ&hl",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://somewherelikethis.substack.com/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://github.com/zhizdev",
+      "text": "Github"
+    },
+    {
+      "url": "https://mvd-fusion.github.io/",
+      "text": "MVD-Fusion"
+    },
+    {
+      "url": "https://sparsefusion.github.io/",
+      "text": "SparseFusion"
+    },
+    {
+      "url": "https://ngr-co3d.github.io/",
+      "text": "Talk"
+    },
+    {
+      "url": "https://ngr-co3d.github.io/",
+      "text": "NGR-CO3D"
+    },
+    {
+      "url": "https://web.eecs.umich.edu/~fouhey/2021/quantifying/skeletor_cameraready.pdf",
+      "text": "Paper"
+    },
+    {
+      "url": "https://www.uoft.ai/projectx-2020",
+      "text": "ProjectX"
+    },
+    {
+      "url": "https://news.umich.edu/alexa-lets-chat-u-m-among-10-student-teams-worldwide-advancing-conversational-ai/",
+      "text": "Article"
+    },
+    {
+      "url": "https://mvd-fusion.github.io/",
+      "text": "MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation"
+    },
+    {
+      "url": "https://sparsefusion.github.io/",
+      "text": "SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction"
+    },
+    {
+      "url": "https://web.eecs.umich.edu/~fouhey/2021/quantifying/skeletor_cameraready.pdf",
+      "text": "Quantifying Bird Skeletons"
+    },
+    {
+      "url": "https://zhizdev.github.io/OpenGIT/",
+      "text": "Class Project"
+    },
+    {
+      "url": "https://drive.google.com/file/d/16PM9sXZGI6QRsQZZT7qVPGnx57E60Bmf/view?usp=sharing",
+      "text": "Class Project"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1KL-3pI1J7sXQlbcVDlbEik067d6beypZ/view?usp=sharing",
+      "text": "Paper"
+    },
+    {
+      "url": "https://devpost.com/software/zerohero-reducing-food-waste-with-object-recognition",
+      "text": "Hackathon Project"
+    },
+    {
+      "url": "https://devpost.com/software/translate-american-sign-language-translator",
+      "text": "Hackathon Project"
+    },
+    {
+      "url": "https://devpost.com/software/makeathon2019-autonomous-car",
+      "text": "Hackathon Project"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://lh4.googleusercontent.com/wIpKwX2Tkx0cI5G-G_N_gURMzadwFaXalAevtLnO_mzXO6Th7XmdOmRwWgdnY_pkC8hgKylsLYCUFIbIKxsgZT8wrEH6emainLU7fij-lKDWYf8pmrlK9p3wH8PoFfrr=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/vSjomgsfonzzNVhqAHSAxLogZxToYITxckDhej2VFKEKHCYWu4aawtFTBOB8zGxAEgpJ_NRF39zgLBgOb5B_w9aLe0QuMYu9ofZafZ_qtgVS7eIcy7OdIAeVzRfkRIISGw=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/p3AVuoYszpH_z0DWy3ww0hRkOlGWjpa3QKSwatAQO584wyfL7gl-KCsqpeJOkvfKOZMUHLZecvsBApozAgRjMmicWnMUewyx5Js0J5W0cTyiBrlmie3rV_7X8Wp1xVNQBg=w1280",
+      "alt": ""
+    }
+  ]
+}

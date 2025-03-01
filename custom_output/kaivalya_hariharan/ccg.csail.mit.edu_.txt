@@ -1,0 +1,200 @@
+          #branding
+            Primary Navigation Menu
+                Menu
+                  [Home](https://ccg.csail.mit.edu/)
+                  [Group Members](https://ccg.csail.mit.edu/?page_id=79)
+                  [Projects](https://ccg.csail.mit.edu/?page_id=138)
+                  [Publications](https://ccg.csail.mit.edu/?page_id=82)
+                  [Contact](https://ccg.csail.mit.edu/?page_id=128)
+                  [CSAIL](http://www.csail.mit.edu/)
+            #menu-primary
+    #header
+                  Mapping the Structure of Thought
+                    Understanding the structure and function of the nervous system is an exceptionally complex task: the system consists of thousands of cells connected to thousands of other cells in microscopic networks that extend over large volumes and exhibit a seemingly endless variety of behaviors. We believe that mapping such networks at the level of synaptic connections, and understanding the relation of their connectivity and geometry to function, will play a key role in unraveling the mystery of thought.
+                    Our group’s goal is to create, based on such microscopic connectivity and functional data, new mathematical models explaining how neural tissue computes. Our modeling spans the connectomics gamut from the behavior of individual neurons in exiguous circuits to collections of neurons in increasingly complex networks. We collaborate with neurobiologists to design experiments based on our theoretical models, and work extensively to analyze the resulting data in order to confirm or disprove our theoretical predictions.
+                                  News
+                                      May 29, 2024: Introducing Two New Papers: Tumma, Neehal, Kong, Linghao, Sawmya, Shashata, Wang, Tony T., Shavit, Nir.
+                                        [A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex,](https://www.biorxiv.org/content/10.1101/2024.05.24.595837v1)
+                                        bioRxiv:2024.05.24.595837, May 2024.
+                                        [Sparse Expansion and Neuronal Disentanglement,](https://arxiv.org/pdf/2405.15756)
+                                        ArXiv:2405.15756, May 2024.
+                                      December 7, 2023: MIT SuperUROP Presentations by Heidi Durresi and Kaivu Hariharan.
+                                      October 6, 2023:
+                                        [NIH awards funding to BRAIN CONNECTS project involving CSAIL researchers](https://www.csail.mit.edu/news/nih-awards-funding-brain-connects-project-involving-csail-researchers)
+                                      September 5, 2023:
+                                        [SmartEM project](https://youtu.be/vgsA3pSzw2c?si=-9mnf-R7m5MSxIjP)
+                                        posted on Forbes (Youtube video).
+                                      May 31, 2023: Lu Mi and Michael Coulombe’s graduation (with Nir Shavit, Tony Wang, Linghao Kong)
+                                      Group member Tony Wang’s research on adversarially exploiting superhuman Go AIs featured in the
+                                        [Financial Times!](https://archive.is/tDYsY)
+                                      Lu Mi defended her thesis “Deep Learning Tools for Next-Generation Connectomics” on August 18, 2022.  Check out her
+                                        [slides](http://people.csail.mit.edu/joanne/Lu_Mi_defense.pptx)
+                                        .
+                                      Coming soon in Nature! “We are delighted to accept your manuscript entitled “Connectomes across development reveal principles of brain maturation” for publication in Nature. Thank you for choosing to publish your interesting work with us.” 🙂 #worm, #ai, #connectome.  To those who are curious about the details, here is a
+                                        [longer preprint format.](https://lnkd.in/ekduDPY)
+                                      July 2021: David Rolnick group ex phd named to the
+                                        [MIT Technology Review’s list of “Innovators Under 35”](https://lnkd.in/dqNjm7T)
+                                        , and am thrilled to see increasing interest across the AI community in cross-disciplinary partnerships for climate action.
+                                      March 2020:
+                                        [A Constructive Prediction of the Generalization Across Scales](https://openreview.net/pdf?id=ryenvpEKDr)
+                                        by Jonathan S. Rosenfeld, Amir Rosenfeld, Yonatan Belinkov, and Nir Shavit, ICLR 2020.  This paper has been featured in Andrew Ng’s news,
+                                        [The Batch.](https://blog.deeplearning.ai/blog/the-batch-tracking-chinas-covid-19-revival-a-robot-star-is-born-discovering-new-antibiotics-rightsizing-neural-networks)
+                                      February 2020:
+                                        [Predicting How Well Neural Networks Will Scale](https://www.csail.mit.edu/news/predicting-how-well-neural-networks-will-scale)
+                                        Written by Adam Conner-Simons, MIT CSAIL.
+                                      June 2019:
+                                        [Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics](http://openaccess.thecvf.com/content_CVPR_2019/html/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.html)
+                                        [March 27, 2018: Blog on “Deep Learning to Study the Brain to Improve Deep Learning” is Live.](https://ai.intel.com/deep-learning-study-brain-improve-deep-learning/)
+                                        [January 2017: Shavit Lab’s PPoPP 2017 paper,](http://ppopp17.sigplan.org/info/conference-program)
+                                      June 3, 2016, MIT Commencement: Congratulations to new graduates,
+                                        [February 2016: The Shavit Lab has been awarded research funding under the IARPA Machine Intelligence from Cortical Networks (MICrONS) project.](http://www.iarpa.gov/index.php/research-programs/microns)
+                                        [October 2015: Brain-like chip.](http://www.techrepublic.com/article/ibms-brain-like-chip-and-the-quest-for-a-cognitive-planet)
+                                      [Accessibility](http://accessibility.mit.edu/)
+                                      High Throughput Connectomics
+                                    Connectomics is an emerging area of neurobiology that uses cutting edge machine learning and image processing to extract brain connectivity graphs from electron microscopy images. It has long been assumed that the processing of connectomics data will require mass storage, farms of CPU/GPUs, and will take months (if not years) of processing time. We present a high-throughput connectomics-ondemand system that runs on a multicore machine with less than 100 cores and extracts connectomes at the terabyte per hour pace of modern electron microscopes.
+                                    [Principal Investigator](https://ccg.csail.mit.edu/?page_id=57)
+                                    Nir Shavit
+                                      [Read More →](https://ccg.csail.mit.edu/?page_id=57)
+                                    [Research Scientist](https://ccg.csail.mit.edu/?page_id=315)
+                                    Alexander Matveev
+                                    [Postdoc](https://ccg.csail.mit.edu/?page_id=60)
+                                    [Graduate Students](https://ccg.csail.mit.edu/?page_id=63)
+                                    Lu Mi Jonathan Rosenfeld
+                                    [Alumni](https://ccg.csail.mit.edu/?page_id=98)
+                                    David Budden Jonathan Stoller Gergely Odor Victor Jakubiuk Quan Nguyen Robert Radway
+                                        Tumma, Neehal, Kong, Linghao, Sawmya, Shashata, Wang, Tony T., Shavit, Nir.
+                                        Sawmya, Shashata, Kong, Linghao, Markov, Ilia, Alistarh, Dan, Shavit, Nir.
+                                        Wang, Tony T., Wang, Miles, Hariharan, Kaivalya, Shavit, Nir.
+                                        [Forbidden Facts: An Investigation of Competing Objectives in Llama 2](https://arxiv.org/abs/2312.08793)
+                                        NeurIPS 2023
+                                        ATTRIB and SoLaR Workshops, December 2023.
+                                        Meirovitch, Yaron, Park, Core Francisco, Mi, Lu, Potocek, Pavel, Sawmya, Shashata, Li, Yicong, Wu, Yuelong, Schalek, Richard, Pfister, Hanspeter, Schoenmakers, Remco, Peemen, Maurice, Lichtman, Jeff W., Samual, Aravinthan, Shavit, Nir.
+                                        [SmartEM: Machine-Learning Guided Electron Microscopy.](https://www.biorxiv.org/content/10.1101/2023.10.05.561103v1)
+                                        bioRxiv: 2023.10.05.561103v1, October 2023.
+                                        Li, Yicong, Meirovitch, Yaron, Kuan, Aaron T., Phelps, Jasper S., Pacureanu, Alexandra, Lee, Wei-Chung Allen, Shavit, Nir, Mi, Lu.
+                                        [X-Ray2EM: Uncertainty-Aware Cross-Modality Image Reconstruction from X-Ray to Electron Microscopy in Connectomics.](https://doi.org/10.48550/arXiv.2303.00882)
+                                        IEEE – ISBI 2023: International Symposium on Biomedical Imaging
+                                        , April 2023.
+                                        [Poster Link](https://yicong-li.github.io/files/ISBI2023_X-Ray2EM_Poster.pdf)
+                                        [Video Link](https://www.bilibili.com/video/BV1aM411N76j/?share_source=copy_web&vd_source=9770b800f47d74823c57932440c0fe89)
+                                        Nguyen, Tri, Narwani, Mukul, Larson, Mark, Li, Yicong, Xie, Shuhan, Pfister, Hanspeter, Wei, Donglai, Shavit, Nir, Mi, Lu, Pacureanu, Alexandra, Lee, Wei-Chung, Kuan, Aaron T.
+                                        The XPRESS challenge: Xray Projectomic Reconstruction – Extracting Segmentation with Skeletons.
+                                        Wang, Tony T., Zablotchi, Igor, Shavit, N., Rosenfeld, Jonathan S.
+                                        [Cliff-Learning.](https://arxiv.org/pdf/2302.07348.pdf)
+                                        arXiv:2302.07348, February 2023.
+                                        Mi, Lu.
+                                        Deep Learning Tools for Next-Generation Connectomics.
+                                        PhD thesis,
+                                        MIT Department of Electrical Engineering and Computer Science, Cambridge, MA., August 2022.
+                                        [Slides.](http://people.csail.mit.edu/joanne/Lu_Mi_defense.pptx)
+                                        Mi, Lu, Wang, Hao, Tian, Yonglong, He, Hao, Shavit, Nir.
+                                        Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate.
+                                        36th AAAI Conference on Artificial Intelligence- A virtual conference
+                                        , February 22-March 1, 2022.
+                                        Mi, Lu,  Xu, Richard, Prakhya, Sridhama, Lin, Albert,  Shavit, Nir, Samuel, Aravithan D.T. and Turaga, Srinivas C.
+                                        Connectome-Constrained Latent Variable Models of Whole-Brain Neural Activity.
+                                        Tenth International Conference on Learning Representations- ICLR 2022
+                                        (Virtual), April 2022.
+                                        Witvliet, Daniel, Mulcahy, Ben, Mitchell, James K., Meirovitch, Yaron, Berger, Daniel R., Wu, Yuelong, Liu, Yufang, Koh, Wan Xian, Parvathala, Rajeev, Holmyard, Douglas, Schalek, Richard L., Shavit, Nir, Chisholm, Andrew D., Lichtman, Jeff W., Samuel, Aravinthan D.T., and Zhen, Mei.
+                                        [Connectomes across development reveal principles of brain maturation in C. elegans.](https://www.nature.com/articles/s41586-021-03778-8)
+                                        Nature
+                                        , 596, pages 257–261, 2021.  Also,
+                                        [bioRxiv 2020.04.30.066209 https://doi.org/10.1101/2020.04.30.066209.](https://doi.org/10.1101/2020.04.30.066209)
+                                        Rosenfeld, Jonathan S., Frankle, Jonathan, Carbin, Michael, and Shavit, Nir.
+                                        [On the Predictability of Pruning Across Scales.](https://icml.cc/Conferences/2021/Schedule?showEvent=9937)
+                                        ICML 2021 Poster Session. Also,
+                                        [arXiv:2006.10621](https://arxiv.org/abs/2006.10621)
+                                        , June 2020.
+                                        Mi, Lu, Wang, Hao, Tian, Yonglong, and Shavit, Nir.
+                                        [Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-080.pdf)
+                                        .  ICML Workshop on Uncertainty and Robustness in Deep Learning, July 2021.
+                                        Mi, Lu, Hang Zhao, Hang, Nash, Charlie, Jin, Xiaohan, Gao, Jiyang, Sun, Chen, Schmid, Cordelia, Shavit, Nir, Chai, Yuning, Anguelov, Dragomir.
+                                        [HDMapGen: A Hierarchical Graph Generative Model of High Definition Map.](https://openaccess.thecvf.com/content/CVPR2021/papers/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.pdf)
+                                        Conference on Computer Vision and Pattern Recognition (CVPR 2021)
+                                        , June 2021.
+                                        [Supplementary Materials.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Mi_HDMapGen_A_Hierarchical_CVPR_2021_supplemental.pdf)
+                                        [Video, poster, and slides.](https://drive.google.com/drive/folders/1U163r7Ym1t6sSPUp_21GA6SwBNm9DclU)
+                                        Also,
+                                        [CoRR abs/2106.14880](https://arxiv.org/pdf/2106.14880.pdf)
+                                        , 2021.
+                                        Mi, Lu, Wang, Hao, Meirovitch, Yaron, Schalek, Richard, Turaga, Srinivas C., Lichtman, Jeff W., Samuel, Aravinthan D.T, Shavit, N.
+                                        [Learning Guided Electron Microscopy with Active Acquisition.](https://arxiv.org/pdf/2101.02746.pdf)
+                                        CoRR abs/2101.02746, 2021.
+                                          Mi, Lu, He, Tianxing, Park, Core Francisco, Wang, Hao, Wang, Yue, Shavit, Nir.
+                                          [Revisiting Latent-Space Interpolation via a Quantitative Evaluation Framework.](https://arxiv.org/pdf/2110.06421.pdf)
+                                          CoRR abs/2110.06421, 2021.
+                                        Mi, Lu, Wang, Hao, Meirovitch, Yaron, Schalek, Richard, Turaga, Srinivas C., Lichtman, Jeff W., Samuel, Aravinthan D. T. and Shavit, Nir.
+                                        23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+                                        , October 2020.
+                                        [Presentation materials.](https://drive.google.com/drive/folders/1AYOLLUYGuIkXHB0EH_LIs0w4kTWOY68b?usp=sharing)
+                                        arXiv:2006.10621, June 2020.
+                                        Rosenfeld, Jonathan S., Rosenfeld, Amir, Belinkov, Yonatan and Shavit, Nir.
+                                        by , ICLR 2020.  This paper has been featured in Andrew Ng’s news,
+                                        Kurtz, Mark, Kopinsky, Justin, Gelashvili, Rati, Matveev, Alexander, Carr, John, Goin, Michael, Leiserson, William M.,  Moore, Sage, Shavit, Nir, Alistarh, Dan.
+                                        [Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks.](http://proceedings.mlr.press/v119/kurtz20a/kurtz20a.pdf)
+                                        Proceedings of the 37th International Conference on Machine Learning (ICML 2020), Proceedings of Machine Learning Research 119, PMLR 2020, pages 5533-5543, July 2020.
+                                        . arXiv: 1910.04858, 2019.
+                                        Rosenfeld, Jonathan S., Rosenfeld, Amir, Belinkov, Yonatan, and Shavit, Nir.
+                                        [A Constructive Prediction of the Generalization Error Across Scales](https://openreview.net/pdf?id=ryenvpEKDr)
+                                        Proceedings of the International Conference on Learning Representations (ICLR 2020),
+                                        Addis Ababa, Ethiopia, April 2020.  Also,
+                                        [arXiv:1909.12673](https://arxiv.org/abs/1909.12673)
+                                        , September 2019.
+                                        Meirovitch, Yaron, Mi, Lu, Saribekyan, Hayk, Matveev, Alexander, Rolnick, David, and Shavit, Nir.
+                                        Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics.
+                                          The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+                                        , pp. 8425-8435, 2019.
+                                        Witvliet, Daniel, Mulcahy, Ben, Mitchell, James K., Meirovitch,  Yaron, Berger, Daniel R., Holmyard, Douglas, Schalek, Richard L., Cook, Steven J., Xian Koh, Wan, Neubauer, Marianna, Rehaluk, Christine, Wang, ZiTong, Kersen, David, Chisholm, Andrew D., Shavit, Nir, Lichtman, Jeffrey W., Samuel, Aravinthan, and Zhen, Mei.
+                                        Invariant, stochastic, and developmentally regulated synapses constitute the C. elegans connectome from isogenic individuals.  Poster Presentation at
+                                        Cosyne 2019
+                                        Meirovitch, Yaron, Mi, Lu, Saribekyan, Hayk, Matveev, Alexander, Rolnick, David, Wierzynski, Casimir, and
+                                          Shavit, Nir.
+                                        . CoRR abs/1812.01157, 2018.
+                                        Santurkar, Shibani, Budden, David M., and Shavit, Nir.
+                                        Generative Compression.
+                                        PCS 2018
+                                        .  Also,
+                                        [CoRR.abs/1703.01467, 2017.](https://arxiv.org/abs/1703.01467)
+                                        Budden, David, Matveev, Alexander, Santurkar, Shibani,  Chaudhuri, Shraman Ray, and Shavit, Nir.
+                                        Deep Tensor Convolution on Multicores.
+                                        ICML 2017.
+                                        [CoRR abs/1611.06565](https://arxiv.org/pdf/1611.06565.pdf)
+                                        , 2016.
+                                        Matveev, A., Meirovitch, Y., Saribekyan, H., Jakubiuk, W., Kaler, T., Odor, G., Budden, D., Zlateski, A., and Shavit, N.
+                                        A Multicore Path to Connectomics-on-Demand.
+                                        PPoPP 2017
+                                        (Best Paper Nominee).
+                                        Rolnick, David, Meirovitch, Yaron, Parag, Toufiq, Pfister, Hanspeter,  Jain, Vien, Lichtman, Jeff W., Boyden, Edward S., and Shavit, Nir
+                                        [Morphological error detection in 3d segmentations](https://arxiv.org/pdf/1705.10882.pdf)
+                                        CoRR.abs/1705.10882,
+                                        2017.
+                                        Rolnick, David, Veit, Andreas,  Belongie, Serge J., and
+                                        [Deep Learning is Robust to Massive Label Noise.](https://arxiv.org/pdf/1705.10694.pdf)
+                                        CoRR abs/1705.10694, 2017.
+                                        Santurkar, Shibani, Budden, David, Matveev, Alexander, Berlin, Heather, Saribekyan, Hayk, Meirovitch, Yaron, and Shavit, Nir.
+                                        [Toward Streaming Synapse Detection with Compositional ConvNets](https://arxiv.org/pdf/1702.07386.pdf)
+                                        CoRR abs/1702.07386, 2017.
+                                        Meirovitch, Y., Matveev, A., Saribekyan, H., Budden, D., Rolnick, D., Odor, G., Knowles-Barley, S., Thouis, R., Pfister, H., Lichtman, J., Shavit, N.
+                                        [A Multi-Pass Approach to Large-Scale Connectomics.](https://arxiv.org/abs/1612.02120)
+                                        CoRR abs/1612.02120, 2016.
+                                        Shavit, Nir
+                                        . A Multicore Path to Connectomics-on-Demand.
+                                        SPAA 2016
+                                        Lichtman, J., Pfister, H., and Shavit, N.
+                                        [The big data challenges of connectomics.](http://www.ncbi.nlm.nih.gov/pubmed/25349911)
+                                        Nature Neuroscience
+                                        , 17, pp. 1448-1454, November 2014.
+                                        Allen-Zhu, Zeyuan, Gelashvili, Rati, Micali, Silvio, and Shavit, Nir.
+                                        [Sparse sign-consistent Johnson-Lindenstrauss matrices: Compression with neuroscience-based constraints.](http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Theoretical%20Neuroscience/Johnson-Lindestrauss%20Compression%20with%20Neuroscience-Based%20Constraints.pdf)
+                                        Proceedings of the National Academy of Sciences
+                                        USA; 111(47), pp. 16872-16876, October 2014.
+                                    [Resources](https://ccg.csail.mit.edu/?page_id=125)
+                                    No resources yet! But check back in soon.
+        #content
+      .hgrid
+    #main
+    #footer
+          Site by
+            [Ariel Plotkin Designs](http://arielplotkin.com)
+          .credit
+  #page-wrapper

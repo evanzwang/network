@@ -1,0 +1,92 @@
+  [if lt IE 7]><div id="ie6message">Your version of Internet Explorer web browser is insecure, not supported by Microsoft, and does not work with this web site. Please use one of these links to upgrade to a modern web browser: <a href="http://www.mozilla.org/firefox/">Firefox</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">Internet Explorer</a>.</div><![endif]
+                [University of Waterloo](//uwaterloo.ca/)
+                    [Admissions](https://uwaterloo.ca/admissions/)
+                    [About Waterloo](https://uwaterloo.ca/about/)
+                    [Faculties & academics](https://uwaterloo.ca/faculties-academics/)
+                    [Offices & services](https://uwaterloo.ca/offices-services/)
+                    [Support Waterloo](https://uwaterloo.ca/support/)
+                    [COVID-19](https://uwaterloo.ca/coronavirus/)
+                      Menu
+                          This site
+                                [Home](/news/)
+                                [1974-75 Waterloo Warriors Mens Basketball season](/news/1974-75-waterloo-warriors-mens-basketball-season)
+                                [AI Workshop Fall 2024](/news/ai-workshop-fall-2024)
+                                [Real Research](/news/real-research)
+                                [The Sultans of String musical performance](/news/sultans-string-musical-performance)
+                          UWaterloo
+          [Waterloo News](/news/)
+              [Mathematics](/news/mathematics)
+                <source srcset="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/img_9489_original-upscaled.jpg?itok=EIXSewym" media="(min-width: 1010)">
+                August 22, 2024
+                Math students named finalists at Berkeley AI Hackathon
+                Waterloo team leverages AI and machine learning to develop a model that has the potential to reduce carbon emission from transportation by up to 18 per cent
+                By Melodie Roschman
+                Faculty of Mathematics
+            when logged in
+                          If 'Page'
+                            This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+                                  [Math](/news/areas/math)
+                                  [Research](/news/what-we-do/research)
+                                  [Technological Futures](/news/societal-relevance/technological-futures)
+                                    [Share](http://www.addtoany.com/share_save#url=https%3A%2F%2Fuwaterloo.ca%2Fnews%2Fmathematics%2Fmath-students-named-finalists-berkeley-ai-hackathon&title=Math%20students%20named%20finalists%20at%20Berkeley%20AI%20Hackathon%20%20%7C%20Waterloo%20News)
+                                  A team of undergraduate Computer Science students placed in the top eight at a recent AI Hackathon with “Skyline,” a project that uses demographic data and machine learning to simulate cities and use these patterns to optimize its transit infrastructure.
+                                  The four students – Rajan Agarwal (Software Engineering), Elijah Kurien (Software Engineering), Ishaan Dey (Software Engineering) and Joshua Yan (Computer Science) – were able to attend the hackathon, which took place from June 22 to 24 at the University of California – Berkeley, thanks to sponsorship from the Math Endowment Fund. “We had two goals,” Agarwal says: “to represent Waterloo on an international stage, and to learn more about the connections between machine learning, math and calculus.”
+                                  The friends, who are currently doing co-op terms with tech companies in Berkeley, San Francisco, Palo Alto, and Toronto, are united by their passion for AI, and their desire to use the technology responsibly to make people’s lives better.
+                                  When it came time to decide on a project, the team realized quickly that they had to prioritize their values to be successful. “At first, we were asking what was going to win, but then we realized that was the wrong mindset,” Agarwal says.
+                                  “We needed to work on something we enjoyed and were motivated to work on. We’re all really interested in modeling how humans think and reason and we also have useful experience in different fields. For example, I’m currently working at Hitachi Rail, and I have a lot of experience thinking about transit and urban planning. With that in mind, we decided to try to simulate human behaviour within Los Angeles.”
+                                  L-R: Josh Yan, Ishaan Dey, Andrej Karpathy, Elijah Kurien, Rajan Agarwal
+                                    Over the thirty-six hours of the hackathon, the team gathered demographic data from the Los Angeles city government, then built more than 2,000 AI profiles of people of different demographics who would then travel through their simulated version of LA. They then built a machine learning model that analyzed the various options for transit routing and optimized them to allow people to travel efficiently while also minimizing carbon emissions.
+                                  The result of their work, “Skyline,” was a hit with the judges, particularly in the AI for Good and AI for Climate categories.
+                                  Ultimately, the team were chosen as “grand finalists,” placing in the top eight projects among more than four hundred teams. Though the team enjoyed the recognition that came with being finalists – dinner with OpenAI co-founder Andrej Karpathy – they say that they’re most grateful to have found a project they’re passionate about.
+                                  Skyline, the team hopes, could be adapted for use by urban planners and city governments in other cities as well, potentially reducing carbon emissions from transportation by as much as 18 per cent. Now back in Waterloo, they’re continuing to develop the research begun at the hackathon as part of their co-founded
+                                    [Human Simulation Lab](https://www.humansimulation.ai/about)
+                                    . Though the Berkeley hackathon was sponsored by venture capitalists, and the team has been approached by investors interested in monetizing the technology, Agarwal says they’re more interested in research than profit.
+                                  “This is a situation where we’re not trying to replace humans, but to empower them,” Agarwal says. “In this industry, we have to be careful that we’re using this technology not to control or exploit people, but rather to contribute to human flourishing.”
+                                  To learn more about the Math Endowment Fund, visit
+                                    [their website](https://uwaterloo.ca/math-endowment-fund/)
+                                    .
+                            Tags
+                            Related stories
+                                              Read more
+                                      Creating a beginner-friendly hackathon
+                                      How StarterHacks founders William Nippard and Marium Kirmani built equity and accessibility into their hackathon’s DNA
+                                      Creating human-centred AI
+                                      How Computer Science grad Areena Akhter took her passion for helping others to Waterloo, Bloomberg, Apple and beyond
+                                          The co-founders of Safi (centre, in Safi t-shirts, L-R: Martin Turuta, Daria Margarit, and Miraal Kabir) with Rwandan farmers and agricultural officials
+                                      Waterloo students pilot portable milk pasteurization device in Rwanda
+                                      Startup Safi tapped entrepreneurial resources including Velocity and Math Innovation Office to bring their idea to life
+                        End of story
+                      /node-inner
+                    /node
+            /main-content
+        /section inner
+      /site main
+                  TOP
+                [Waterloo news](/news/)
+                              [Find an expert](https://experts.uwaterloo.ca/)
+                              [Contact Media Relations](https://uwaterloo.ca/media-inquiries)
+                      43.471468
+                      -80.544205
+                    200 University Avenue West
+                      Waterloo
+                      ,
+                      ON
+                      Canada
+                      N2L 3G1
+                    [+1 519 888 4567](tel:+1-519-888-4567)
+                    [Contact Waterloo](//uwaterloo.ca/about/contact-us)
+                    [Maps & Directions](//uwaterloo.ca/map/)
+                    [WatSAFE](//uwaterloo.ca/watsafe/)
+                    [Accessibility](//uwaterloo.ca/human-resources/accessibility)
+                    [Privacy](//uwaterloo.ca/privacy/)
+                    [Copyright](//uwaterloo.ca/copyright)
+                    [Media](//uwaterloo.ca/news/)
+                    [Careers](//uwaterloo.ca/careers/)
+                    [Feedback](//uwaterloo.ca/about/contact-us/contact-form)
+                    [@uwaterloo social directory](https://uwaterloo.ca/social-media/)
+                  The University of Waterloo acknowledges that much of our work takes place on the traditional territory of the Neutral, Anishinaabeg, and Haudenosaunee peoples. Our main campus is situated on the Haldimand Tract, the land granted to the Six Nations that includes six miles on each side of the Grand River. Our active work toward reconciliation takes place across our campuses through research, learning, teaching, and community building, and is co-ordinated within the
+                    [Office of Indigenous Relations](https://uwaterloo.ca/indigenous)
+    /site

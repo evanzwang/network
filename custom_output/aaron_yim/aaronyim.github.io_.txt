@@ -1,0 +1,31 @@
+    [Aaron Yim](https://aaronyim.github.io/)
+          [About Me](/aboutme)
+            [Beautiful Jekyll](https://beautifuljekyll.com)
+            [Learn markdown](https://www.markdowntutorial.com/)
+          [Author's home](https://aaronyim.com)
+          [Contact](/contact)
+  TODO this file has become a mess, refactor it
+              My website
+              This is where I will tell my friends way too much about me
+              Sample blog post
+              Each post also has a subtitle
+            Posted on February 28, 2020
+            This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+              [[Read More]](https://aaronyim.github.io/2020-02-28-test-markdown/)
+              Tags:
+              [test](https://aaronyim.github.io/tags#test)
+              Flake it till you make it
+              Excerpt from Soulshaping by Jeff Brown
+            Posted on February 26, 2020
+            Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+              [books](https://aaronyim.github.io/tags#books)
+          Aaron Yim
+         • 
+      
+      2021
+
+      
+         •
+              [aaronyim.com](https://aaronyim.github.io/)
+          Powered by
+  doing something a bit funky here because I want to be careful not to include JQuery twice!

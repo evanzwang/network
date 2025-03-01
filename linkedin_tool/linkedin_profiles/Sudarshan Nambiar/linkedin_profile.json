@@ -1,0 +1,311 @@
+[
+  {
+    "fullName": "Sudarshan Nambiar",
+    "linkedin_internal_id": "956937535",
+    "first_name": "Sudarshan",
+    "last_name": "Nambiar",
+    "public_identifier": "sudarshan-nambiar",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQG1ct5EtmzOQQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719353349583?e=2147483647&v=beta&t=Hjj08lOh1cqkpYzgS3PkDCTUBl8Fa-UVDDIsOQS5zX8",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQH3blzwJ1Wb6A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706801192462?e=2147483647&v=beta&t=oAYdbY5iiCb4e1k4jslMTMnkxPLfLz6FHa56xZIqxZE",
+    "headline": "Purdue | Neo",
+    "location": "886 followers\n          \n          \n              500+ connections",
+    "about": "I am a junior at Purdue University pursuing a BS in Computer Engineering with a focus on AI and distributed systems. I want to use my engineering skills and creativity to tackle real-world problems and make a meaningful impact.",
+    "experience": [
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/legacytheapp?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQHPabqXvesKEg/company-logo_100_100/company-logo_100_100/0/1700972859809/legacytheapp_logo?e=2147483647&v=beta&t=F-qdssaSCS--kfX0Z6pYTHj1AdhPaAo6tNBsIdVyW64",
+        "company_name": "Legacy",
+        "location": null,
+        "summary": "Neo '24",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "Scholars Finalist",
+        "company_url": "https://www.linkedin.com/school/neoventures/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGZOQ8pLmLpDQ/company-logo_100_100/company-logo_100_100/0/1630665521597/neoventures_logo?e=2147483647&v=beta&t=ktjbRve0_ZjO85e3pTUKkfriFSRU5BGjErvUvtiCsU8",
+        "company_name": "Neo",
+        "location": null,
+        "summary": "",
+        "starts_at": "Aug 2024",
+        "ends_at": "Present",
+        "duration": "8 months"
+      },
+      {
+        "position": "Undergraduate Teaching Assistant",
+        "company_url": "https://www.linkedin.com/school/purdue-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_100_100/company-logo_100_100/0/1630626191299/purdue_university_logo?e=2147483647&v=beta&t=tlUpHJaVXR4SeXJGydUm8jCEhBA2id00IYgqBFB_C2s",
+        "company_name": "Purdue University",
+        "location": "West Lafayette, Indiana, United States",
+        "summary": "ECE 368 - Data Structures and AlgorithmsECE 264 - Advanced C Programming",
+        "starts_at": "Aug 2023",
+        "ends_at": "Jan 2025",
+        "duration": "1 year 6 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/signalops?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQEOOTT3BHGNCA/company-logo_100_100/company-logo_100_100/0/1719257749477/signalops_logo?e=2147483647&v=beta&t=7O67I8hgqNqv6L9ct5jCEcEbo2sxLrpsKOSopFq1dVg",
+        "company_name": "SignalOps",
+        "location": "New York, New York, United States",
+        "summary": "JPMorgan Techstars '23",
+        "starts_at": "Jun 2024",
+        "ends_at": "Aug 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "ECELabs (ecelabs.io)",
+        "location": "West Lafayette, Indiana, United States",
+        "summary": "Orchestrating the migration of backend infrastructure for a digital design and circuits simulator based on FPGAs, transitioning from CherryPi to a Django system with expertise in Django REST frameworkEngineering APIs to enable the seamless integration of a React frontend, enhancing the overall user interface and interactivity",
+        "starts_at": "Dec 2023",
+        "ends_at": "Jun 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Research Assistant",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Purdue SERIS Research Group (purdueseris.org)",
+        "location": "West Lafayette, Indiana, United States",
+        "summary": "Actively contributed to a groundbreaking research project aimed at bolstering the security of PyTorch-based machine learning models through the integration of C and C++ programming in conjunction with Trusted Execution Environments (OP-TEE)Developed advanced encryption and decryption functions using the mbedTLS encryption library to fortify the protection of crucial configuration files generated during the PyTorch to Darknet weight conversion process",
+        "starts_at": "Sep 2023",
+        "ends_at": "Jan 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Board Member",
+        "company_url": "https://www.linkedin.com/company/stem-mentorship-academy?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHFtVxfmG3yDg/company-logo_100_100/company-logo_100_100/0/1630579699393/stem_mentorship_academy_logo?e=2147483647&v=beta&t=fZJj4WOlHuTxN4Ue3532EQVOamlBcllPya3TTgNyk4k",
+        "company_name": "STEM Mentorship Academy",
+        "location": null,
+        "summary": "",
+        "starts_at": "Sep 2020",
+        "ends_at": "Mar 2022",
+        "duration": "1 year 7 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/purdue-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Purdue University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_100_100/company-logo_100_100/0/1630626191299/purdue_university_logo?e=2147483647&v=beta&t=tlUpHJaVXR4SeXJGydUm8jCEhBA2id00IYgqBFB_C2s",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Junior",
+        "college_duration": "2022 - 2025",
+        "college_activity": "BSMS 3+1 program in Computer Engineering"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/cherry-creek-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Cherry Creek High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGf4ZIZjPzBIA/company-logo_100_100/company-logo_100_100/0/1630572376326?e=2147483647&v=beta&t=D133rJLa6bbZIMnhLluCTNQFUknj5sAgDCPVXyDri5Y",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Legacy",
+      "description1_link": "https://www.linkedin.com/company/legacytheapp?trk=public_profile_topcard-current-company",
+      "description2": "Purdue University",
+      "description2_link": "https://www.linkedin.com/school/purdue-university/?trk=public_profile_topcard-school",
+      "description3": "Portfolio",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=sdrshn-nmbr%2Egithub%2Eio%2Fsdrshn-nmbr-portfolio%2F&urlhash=G5FJ&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/bhatia-siddharth_if-vinod-khosla-sees-it-the-only-move-is-activity-7301445442515439616-ooWm",
+        "title": "If Vinod Khosla sees it, the only move is to go all in. \ud83e\udee1 \n\nAI adoption won\u2019t be truly mainstream unless models are trained in the right\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/inception-labs-ai_diffusion-nextgenai-startups-activity-7300608194760818689-P9oJ",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHlCqxnpjFA_A/feedshare-shrink_800/B56ZVD3pmnGsAo-/0/1740600556214?e=2147483647&v=beta&t=v-cqkHnZ6YE-ByEbO-ASTr4eiSYqVbep-UQVcKeXHxs",
+        "title": "We are excited to introduce Mercury, the first commercial-scale language model based on the diffusion paradigm. Diffusion \u2013 the best generative AI\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kishansripada_just-used-1954-in-claude-37-extended-thinking-activity-7301015775572606977-A1bO",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHcLOpqUI-qSw/feedshare-shrink_800/B56ZVJrKgOGUAg-/0/1740697807209?e=2147483647&v=beta&t=dBcP2Qk9oe1oJj7OD19S0x4FKKWocdUdeDQayVT5sH4",
+        "title": "just used $19.54 in claude 3.7 extended thinking credits to build something in 1 hour that would have taken me 10s of hours pre-ai\n\nan ai email\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kunal-mans_after-the-incredible-response-to-our-launch-activity-7301314902814523393-Vz9-",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQGGGys51vS7gQ/feedshare-thumbnail_720_1280/B4EZVN7L1qGwBA-/0/1740769117224?e=2147483647&v=beta&t=UKS5mmKDS18WW9LCvhhWCglTiNUmZTYMDnFLSMQngxE",
+        "title": "After the incredible response to our launch of LeetGPU Playground, Ishaan Arya and I have just shipped something we think all you GPU programming and\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/arnav-purshottam_centeneintern-activity-7301294732696006657-etdt",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQG65pFvZIXpHw/feedshare-shrink_2048_1536/B56ZVNo3lcHQAo-/0/1740764314349?e=2147483647&v=beta&t=d_1nZJdP0UUga0KFsooDfL0ZSW4mnZQ6ABX4OZixnaQ",
+        "title": "I am excited to announce that I will be returning to Centene Corporation this summer, this time as a Data Modeler Intern! Thank you so much to the\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ananya-jajoo-483b281ba_treehacks-boilermake-activity-7300956771848699904-3Qbf",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH4tjulNVNecg/feedshare-shrink_2048_1536/B56ZVI1ff6HsAo-/0/1740683737614?e=2147483647&v=beta&t=h1wHNT3XrwRrMdefV4-_SIE0T_EIJoFGGefU9sPNNgc",
+        "title": "\ud83c\udf32->\ud83d\ude82\nThe past two weekends have been a nonstop grind, competing at TreeHacks, the biggest hackathon in the US, and BoilerMake XII the biggest\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/preston-canter-0b418628b_i-am-very-excited-to-officialy-announce-that-activity-7300218039545835520-d5IS",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "I am very excited to officialy announce that I have been accepted into the 2025 Summer Pre-College Experience at Boston College. This summer, I will\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/robert05_yolov8-clip-dpt-activity-7297514339123531777-gqHr",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFrvm7SjHb0hA/feedshare-shrink_800/B56ZUX6meqHEAg-/0/1739862995188?e=2147483647&v=beta&t=SyCrEYyNSZoVpgSJlqzKkERgsfW6bsmme6jEtoWFFBU",
+        "title": "first hackathon win turned first linkedin post \ud83d\ude35\ud83e\udd2f\ud83d\ude33\n\nWhen DoorDash forgets the \u2018delivery\u2019 part at 1am, build a 6ft-tall AI-powered butler to do it\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bhatia-siddharth_when-the-legend-nods-you-know-youre-onto-activity-7300372662533402625-54yl",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQELD4PpZYkwTw/feedshare-shrink_1280/B56ZVAiP9tHoAk-/0/1740544475977?e=2147483647&v=beta&t=vc_R5GTUP0ksbivo_5Jl_6RZB5_SllE5beekqdrSAKo",
+        "title": "When the legend nods, you know you're onto something big! \ud83d\ude80",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/debarghyadas_huge-immigration-news-trump-announced-that-activity-7300424992876310531-f8Gl",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGRL9CqpMfynA/videocover-high/B56ZVBP48IGQBs-/0/1740556943824?e=2147483647&v=beta&t=raYjNJC8oLC4M59HmH9kPi6Uyt2lMnVwtUS9zhglpKM",
+        "title": "HUGE Immigration News!\nTrump announced that he will get rid of the EB-5 investor visa and use the \u201cGold Card\u201d instead.\n\nIndividuals or companies can\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/khizer-abbas_grok-doesnt-know-what-censorship-is-chatgpt-activity-7300475929322033152-emls",
+        "image": "https://media.licdn.com/dms/image/v2/D4D05AQE-GTBRKkSgew/videocover-high/B4DZVCAAzoHYB4-/0/1740569063846?e=2147483647&v=beta&t=HxpID7MPNj5JBsJ4zrnR3uBpADtrhnew7mSr76e7Y6E",
+        "title": "Grok doesn\u2019t know what censorship is. ChatGPT plays by the rules.\n\nHere's a chat between both.\n\nWhich AI would you rather talk\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nathaneo-johnson-86aa4a253_introducing-series-the-first-ai-social-network-activity-7300263963731128322-3Jld",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQFoRZqLeLZhPw/videocover-high/B4EZU._UlDHUBs-/0/1740518552666?e=2147483647&v=beta&t=3j8DIJRx1FQ7mQo7P5QAHiY4-YCWn2_fiqu1wlCbYS0",
+        "title": "Introducing Series: The First AI Social Network\n\nWe're live for .edus - www.series.so",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bhatia-siddharth_had-an-insightful-discussion-with-honble-activity-7300031952789610497-GXZG",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH9-Y2eJHcQhA/feedshare-shrink_800/B56ZU7sXwUHoAo-/0/1740463243591?e=2147483647&v=beta&t=YIWoAjsWaHIh76wmDtZK-CC2w65Ir2VYEPk-xZ5HmG8",
+        "title": "Had an insightful discussion with Hon'ble Minister Ashwini Vaishnaw about launching a strategic initiative to bring together Indian-origin AI\u2026",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ericzhu105_bro-made-hot-or-not-for-cs-students-activity-7295873712304660481-KsNF",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQEajWevJ6I06A/videocover-high/B56ZUAlpcGHsB0-/0/1739471834947?e=2147483647&v=beta&t=k_Mxe8SCUL25vIipsVGZJLXgxj5pwESnS0Kx40aKbtM",
+        "title": "bro made hot or not for cs students \ud83d\udc80",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/chklaus_georgia-tech-founders-2-at-ycs-latest-activity-7299444553197969408-mOLY",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGth1TjDS_yqA/feedshare-shrink_2048_1536/B4EZUzWJDLH0Ao-/0/1740323197548?e=2147483647&v=beta&t=ZoEUwdeQ5tw0FDziqXv-GF5fr_6j6F25BT-PWJeKP5E",
+        "title": "Georgia Tech founders - #2 at YC's latest batch.   Go Yellow Jackets!",
+        "activity": "Liked by Sudarshan Nambiar"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/julienchaumond_we-just-broke-into-the-top-10-organizations-activity-7300247250859937793-HtQ_",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGjOcHwToxRAQ/feedshare-shrink_800/B4EZU.wL34HgAk-/0/1740514575704?e=2147483647&v=beta&t=SIzp2MWvFlfj9wXJwj472vtTAN4KjWXro22xQJdd-QA",
+        "title": "We just broke into the Top 10 organizations on GH \ud83c\udf89\ud83d\udca5",
+        "activity": "Liked by Sudarshan Nambiar"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://in.linkedin.com/in/sudarshan-nambiar-23232a39?trk=public_profile_samename-profile",
+        "name": "Sudarshan Nambiar",
+        "summary": "Head Trading | FX | Rates | Option Trading | Primary Dealership| Currency & Rates Strategist | Economist",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sudarshan-nambiar-42238a14?trk=public_profile_samename-profile",
+        "name": "Sudarshan Nambiar",
+        "summary": "A Dynamic & result oriented client relations professional with over 20 years of rich experience -12 years in GCC",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://qa.linkedin.com/in/sudarshan-nambiar-93002223?trk=public_profile_samename-profile",
+        "name": "Sudarshan Nambiar",
+        "summary": "--",
+        "location": "Qatar"
+      },
+      {
+        "link": "https://sg.linkedin.com/in/sudarshan-nambiar-53733779?trk=public_profile_samename-profile",
+        "name": "Sudarshan Nambiar",
+        "summary": "Attended GIIS",
+        "location": "Singapore"
+      }
+    ],
+    "recommendations": [
+      {
+        "link": "https://www.linkedin.com/in/saeedjabbar?trk=public_profile_recommendations",
+        "name": "Saeed Jabbar",
+        "summary": "\u201cSudarshan is a builder who can get the job done. He can quickly research and implement technical solutions. He's always up to state with state of the art models and understands how they can be leveraged. I highly recommend working with him if you ever have the opportunity to do so.\u201d"
+      }
+    ],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Artificial Intelligence"
+      },
+      {
+        "name": "Computer Communication Networks"
+      },
+      {
+        "name": "Data Structures and Algorithms in C"
+      },
+      {
+        "name": "Elementary Linear Algebra"
+      },
+      {
+        "name": "Microcontroller Systems and Interfacing"
+      },
+      {
+        "name": "Reinforcement Learning"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Agenta",
+        "duration": "Nov 2024"
+      },
+      {
+        "title": "Bulletant",
+        "duration": "Aug 2024 - Aug 2024"
+      },
+      {
+        "title": "Tusk",
+        "duration": "Jul 2024 - Aug 2024"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dean's List and Semester Honors",
+        "organization": "Purdue University",
+        "duration": "May 2024",
+        "summary": ""
+      },
+      {
+        "name": "Dean's List & Semester Honors",
+        "organization": "Purdue University",
+        "duration": "May 2023",
+        "summary": ""
+      },
+      {
+        "name": "Dean's List & Semester Honors",
+        "organization": "Purdue University",
+        "duration": "Dec 2022",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

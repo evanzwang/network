@@ -1,0 +1,336 @@
+{
+  "title": "GitHub - nikitamounier/tapit-app: App which lets two people share their social media details by simply putting one phone on top of the other (\"tapping\"). Currently in development by Nikita Mounier.",
+  "meta_description": "App which lets two people share their social media details by simply putting one phone on top of the other (\"tapping\"). Currently in development by Nikita Mounier. - nikitamounier/tapit-app",
+  "main_content": "nikitamounier / tapit-app Public Notifications You must be signed in to change notification settings Fork 3 Star 34 App which lets two people share their social media details by simply putting one phone on top of the other (\"tapping\"). Currently in development by Nikita Mounier. License View license 34 stars 3 forks Branches Tags Activity Star Notifications You must be signed in to change notification settings nikitamounier/tapit-app main Branches Tags Go to file Code Folders and files Name Name Last commit message Last commit date Latest commit History 359 Commits .swiftpm/ xcode .swiftpm/ xcode .vscode .vscode App App Sources Sources TapIt.xcworkspace TapIt.xcworkspace Tests Tests .gitignore .gitignore LICENSE.md LICENSE.md Package.resolved Package.resolved Package.swift Package.swift README.md README.md View all files Repository files navigation Tap It Tap It enables two people to seamlessly share their social media information (e.g. Instagram, Snapchat, phone number) by simply placing one screen on top of the other horizontally (aka \"tapping\"). This app is privacy-centric: all information, which is inherently sensitive, is stored on-device, and all wireless data transfer is encrypted. Frameworks Tap It uses: SwiftUI The Composable Architecture by Pointfree Combine Network Framework Core Location and Core Bluetooth ( iBeacon ) Non-Empty Prelude PhoneNumberKit Difference Sourcery Pro Motivation When meeting someone, it takes a nail-bitingly long time to share each other's social media details. Finding the person's account, requesting them, them accepting, then vice versa; in a day and age where everyone has an account on at least two or more platforms, this takes a laughably long time. Tap It aims to drastically streamline this process, to both parties simply pressing \"share\" and then placing one phone on top of the other. Current Progress Tap It now has the structure to become hyper-modularized, allowing for better testing, build times, and dependency management. Development will go feature by feature, with the core business logic built before the thin, lightweight views laid on top. ## Interesting code Most of the important code is in /Sources . For some interesting examples using The Composable Architecture looks like, check out /Sources/BeaconClient/ , /Sources/MultipeerClient/ and /Sources/TapFeature/ ! On the topic of The Composable Architecture, I'm doing a 30-min talk about it at NSLondon on November 24th. See you there! Author Nikita Mounier, nikita.mounier@gmail.com Licence / Copyright View LICENSE.md About App which lets two people share their social media details by simply putting one phone on top of the other (\"tapping\"). Currently in development by Nikita Mounier. Topics swift ios app social-media network peer-to-peer swift-package-manager data-transfer ibeacon unidirectional-data-flow network-framework swiftui composable-architecture tap-it Resources Readme License View license Activity Stars 34 stars Watchers 3 watching Forks 3 forks Report repository Releases No releases published Packages 0 No packages published Languages Swift 100.0%",
+  "links": [
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/tapit-app",
+      "text": "tapit-app"
+    },
+    {
+      "url": "/login?return_to=%2Fnikitamounier%2Ftapit-app",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2Fnikitamounier%2Ftapit-app",
+      "text": "Fork\n    3"
+    },
+    {
+      "url": "/login?return_to=%2Fnikitamounier%2Ftapit-app",
+      "text": "Star\n 34"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/LICENSE.md",
+      "text": "View license"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/stargazers",
+      "text": "34\n          stars"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/forks",
+      "text": "3\n          forks"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/login?return_to=%2Fnikitamounier%2Ftapit-app",
+      "text": "Star"
+    },
+    {
+      "url": "/login?return_to=%2Fnikitamounier%2Ftapit-app",
+      "text": "Notifications"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/branches",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tags",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/tapit-app/commits/main/",
+      "text": "359 Commits"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/commits/main/",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/.swiftpm/xcode",
+      "text": ".swiftpm/xcode"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/.swiftpm/xcode",
+      "text": ".swiftpm/xcode"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/.vscode",
+      "text": ".vscode"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/.vscode",
+      "text": ".vscode"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/App",
+      "text": "App"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/App",
+      "text": "App"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/Sources",
+      "text": "Sources"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/Sources",
+      "text": "Sources"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/TapIt.xcworkspace",
+      "text": "TapIt.xcworkspace"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/TapIt.xcworkspace",
+      "text": "TapIt.xcworkspace"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/Tests",
+      "text": "Tests"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/tree/main/Tests",
+      "text": "Tests"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/LICENSE.md",
+      "text": "LICENSE.md"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/LICENSE.md",
+      "text": "LICENSE.md"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/Package.resolved",
+      "text": "Package.resolved"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/Package.resolved",
+      "text": "Package.resolved"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/Package.swift",
+      "text": "Package.swift"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/Package.swift",
+      "text": "Package.swift"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/swiftui",
+      "text": "SwiftUI"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "text": "The Composable Architecture"
+    },
+    {
+      "url": "https://www.pointfree.co",
+      "text": "Pointfree"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/combine",
+      "text": "Combine"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/network",
+      "text": "Network Framework"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/corelocation",
+      "text": "Core Location"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/corebluetooth",
+      "text": "Core Bluetooth"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/corelocation/clbeacon",
+      "text": "iBeacon"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-nonempty",
+      "text": "Non-Empty"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-prelude",
+      "text": "Prelude"
+    },
+    {
+      "url": "https://github.com/marmelroy/PhoneNumberKit",
+      "text": "PhoneNumberKit"
+    },
+    {
+      "url": "https://github.com/krzysztofzablocki/Difference",
+      "text": "Difference"
+    },
+    {
+      "url": "https://merowing.info/sourcery-pro/",
+      "text": "Sourcery Pro"
+    },
+    {
+      "url": "https://github.com/nikitamounier/tapit-app/tree/main/Sources",
+      "text": "/Sources"
+    },
+    {
+      "url": "https://github.com/nikitamounier/tapit-app/blob/main/Sources/BeaconClient/Live.swift",
+      "text": "/Sources/BeaconClient/"
+    },
+    {
+      "url": "https://github.com/nikitamounier/tapit-app/blob/main/Sources/MultipeerClient/Live.swift",
+      "text": "/Sources/MultipeerClient/"
+    },
+    {
+      "url": "https://github.com/nikitamounier/tapit-app/blob/main/Sources/TapFeature/TapFeatureView.swift",
+      "text": "/Sources/TapFeature/"
+    },
+    {
+      "url": "mailto:nikita.mounier@gmail.com",
+      "text": "nikita.mounier@gmail.com"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/blob/main/LICENSE.md",
+      "text": "LICENSE.md"
+    },
+    {
+      "url": "/topics/swift",
+      "text": "swift"
+    },
+    {
+      "url": "/topics/ios",
+      "text": "ios"
+    },
+    {
+      "url": "/topics/app",
+      "text": "app"
+    },
+    {
+      "url": "/topics/social-media",
+      "text": "social-media"
+    },
+    {
+      "url": "/topics/network",
+      "text": "network"
+    },
+    {
+      "url": "/topics/peer-to-peer",
+      "text": "peer-to-peer"
+    },
+    {
+      "url": "/topics/swift-package-manager",
+      "text": "swift-package-manager"
+    },
+    {
+      "url": "/topics/data-transfer",
+      "text": "data-transfer"
+    },
+    {
+      "url": "/topics/ibeacon",
+      "text": "ibeacon"
+    },
+    {
+      "url": "/topics/unidirectional-data-flow",
+      "text": "unidirectional-data-flow"
+    },
+    {
+      "url": "/topics/network-framework",
+      "text": "network-framework"
+    },
+    {
+      "url": "/topics/swiftui",
+      "text": "swiftui"
+    },
+    {
+      "url": "/topics/composable-architecture",
+      "text": "composable-architecture"
+    },
+    {
+      "url": "/topics/tap-it",
+      "text": "tap-it"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/stargazers",
+      "text": "34\n      stars"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/watchers",
+      "text": "3\n      watching"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/forks",
+      "text": "3\n      forks"
+    },
+    {
+      "url": "/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fnikitamounier%2Ftapit-app&report=nikitamounier+%28user%29",
+      "text": "Report repository"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/releases",
+      "text": "Releases"
+    },
+    {
+      "url": "/users/nikitamounier/packages?repo_name=tapit-app",
+      "text": "Packages\n      0"
+    },
+    {
+      "url": "/nikitamounier/tapit-app/search?l=swift",
+      "text": "Swift\n100.0%"
+    }
+  ],
+  "images": []
+}

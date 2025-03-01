@@ -1,0 +1,162 @@
+  End Facebook Pixel Code
+  Base JS
+  These are the url for the DataTables version that support Bootstrap 4 + Responsive.
+  End Base JS
+  Site Type JS
+  End Site Type JS
+  Extra JS
+  End Extra JS
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+            [Visit](/about/visit/plan-your-visit)
+            [Careers](https://hr.caltech.edu/careers)
+            [Access](https://access.caltech.edu/)
+            Quick Links
+                [for Faculty](/quick-links-faculty)
+                [for Students](/quick-links-students)
+                [for Staff](/quick-links-staff)
+                [for Alumni](/quick-links-alumni)
+            [Directory](https://directory.caltech.edu/)
+            [Caltech Today](/campus-life-events/caltech-today)
+            [Alumni](https://www.alumni.caltech.edu/)
+            [Give](https://giving.caltech.edu/)
+            [Fire Recovery](https://fire.caltech.edu)
+              [About](/about)
+                Open About submenu
+                  [At a Glance](/about/at-a-glance)
+                    Open At a Glance submenu
+                      [University and College Rankings](/about/university-and-college-rankings)
+                    Leadership
+                      Open Leadership submenu
+                      [President](http://president.caltech.edu/)
+                      [Provost](http://provost.caltech.edu/)
+                      [Board of Trustees](http://bot.caltech.edu/)
+                      [Academic and Administrative Leadership](/about/leadership/academic-and-administrative-leadership)
+                    Values
+                      Open Values submenu
+                      [Diversity, Equity, and Inclusion](https://inclusive.caltech.edu/)
+                      [Sustainability](https://sustainability.caltech.edu/)
+                      [Freedom of Expression](/about/values/freedom-expression)
+                      [Honor Code](https://www.deans.caltech.edu/HonorCode)
+                    Legacy
+                      Open Legacy submenu
+                      [History & Milestones](/about/legacy/history-milestones)
+                      [Awards & Honors](/about/legacy/awards-and-honors)
+                      [Caltech Archives](http://archives.caltech.edu/)
+                      [Interactive History Map](/map/history)
+                  [News](/about/news)
+                    Publications
+                      Open Publications submenu
+                      [Caltech Science Exchange](https://scienceexchange.caltech.edu/)
+                      [This is Caltech](https://thisis.caltech.edu)
+                      [Caltech Magazine](https://magazine.caltech.edu/)
+                      [Periodic Table of Caltech](/documents/10/Periodic_Table_of_Caltech.pdf)
+                      Open Visit submenu
+                      [Directions](/about/visit/directions)
+                      [Campus Maps](/about/visit/campus-maps)
+                      [Parking](http://parking.caltech.edu/)
+                      [Tours](/about/visit/tours)
+                  [Administrative Offices & Departments](/about/offices-departments)
+              [Research](/research)
+                Open Research submenu
+                    Academic Divisions
+                      Open Academic Divisions submenu
+                      [Biology and Biological Engineering](http://www.bbe.caltech.edu/)
+                      [Chemistry and Chemical Engineering](http://www.cce.caltech.edu/)
+                      [Engineering & Applied Science](http://eas.caltech.edu/)
+                      [Geological & Planetary Sciences](http://www.gps.caltech.edu/)
+                      [Humanities and Social Sciences](http://www.hss.caltech.edu/)
+                      [Physics, Mathematics and Astronomy](http://pma.caltech.edu/)
+                  [Jet Propulsion Laboratory](/research/jpl)
+                  [Student Research](https://sfp.caltech.edu/)
+                  [Centers & Institutes](/research/centers-institutes)
+                  [Technology Transfer & Corporate Partnerships](http://innovation.caltech.edu/)
+                  [Sponsored Research](http://researchadministration.caltech.edu/)
+                  [Research Facilities](/research/research-facilities)
+                  [Faculty Listing](/research/faculty-listing)
+              [Academics](/academics)
+                Open Academics submenu
+                  [Undergraduate Studies](https://www.deans.caltech.edu/)
+                  [Graduate Studies](http://www.gradoffice.caltech.edu/)
+                  [Online Education](http://online.caltech.edu/courses)
+                  [Executive Education](https://ctme.caltech.edu/)
+                  [Teaching, Learning, & Outreach](http://ctlo.caltech.edu/)
+                    Resources
+                      Open Resources submenu
+                      [Registrar](http://www.registrar.caltech.edu/)
+                      [Catalog](http://www.catalog.caltech.edu/)
+                      [Academic Calendar](/academics/resources/academic-calendar)
+                      [Library](https://www.library.caltech.edu/)
+                      [International Offices](http://international.caltech.edu/)
+                      [Career Development](http://career.caltech.edu/)
+              [Admissions & Aid](/admissions-aid)
+                Open Admissions & Aid submenu
+                    Undergraduate Admissions
+                      Open Undergraduate Admissions submenu
+                      [Apply](http://www.admissions.caltech.edu/)
+                      [Cost & Aid](https://www.admissions.caltech.edu/afford)
+                    Graduate Admissions
+                      Open Graduate Admissions submenu
+                      [Funding & Aid](http://www.gradoffice.caltech.edu/financialsupport)
+              [Campus Life & Events](/campus-life-events)
+                Open Campus Life & Events submenu
+                  [Institute Calendar](/campus-life-events/calendar)
+                  [Athletics & Recreation](http://gocaltech.com/landing/index)
+                  [Events / CaltechLive!](http://events.caltech.edu/)
+                  [Performing & Visual Arts](http://pva.caltech.edu/)
+                  [Housing](http://housing.caltech.edu/)
+                  [Dining](http://dining.caltech.edu/)
+                  [Caltech Y](https://www.caltechy.org/)
+                  [Wellness Services](http://wellness.caltech.edu/)
+                  [Diversity Center](http://diversity.caltech.edu/)
+                  [Security](http://security.caltech.edu/)
+                  [Emergency Information](/campus-life-events/emergency-information)
+          suppress HtmlWrongAttributeValue
+                Search
+          Menu
+                  About Caltech
+          [Home](/)
+          /
+          / 
+      
+    
+      
+        New Algorithm Enables Neural Networks to Learn Continuously
+          New Algorithm Enables Neural Networks to Learn Continuously
+            October 09, 2024
+                  Neural networks have a remarkable ability to learn specific tasks, such as identifying handwritten digits. However, these models often experience "catastrophic forgetting" when taught additional tasks: They can successfully learn the new assignments, but "forget" how to complete the original. For many artificial neural networks, like those that guide self-driving cars, learning additional tasks thus requires being fully reprogrammed.
+                  Biological brains, on the other hand, are remarkably flexible. Humans and animals can easily learn how to play a new game, for instance, without having to re-learn how to walk and talk.
+                  Inspired by the flexibility of human and animal brains, Caltech researchers have now developed a new type of algorithm that enables neural networks to be continuously updated with new data that they are able to learn from without having to start from scratch. The algorithm, called a functionally invariant path (FIP) algorithm, has wide-ranging applications from improving recommendations on online stores to fine-tuning self-driving cars.
+                  The algorithm was developed in the laboratory of
+                    [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson)
+                    , assistant professor of computational biology and a Heritage Medical Research Institute (HMRI) Investigator. The research is described in a new study that appeared in the journal
+                    Nature Machine Intelligence
+                    on October 3.
+                  Thomson and former graduate student Guru Raghavan (PhD '23) were inspired by neuroscience research at Caltech, particularly in the laboratory of Carlos Lois, Research Professor of Biology. Lois studies how birds can rewire their brains to learn
+                    [how to sing again](/about/news)
+                    after a brain injury. Humans can do this too; people who have experienced brain damage from a stroke, for instance, can often forge new neural connections to learn everyday functions again.
+                  "This was a yearslong project that started with the basic science of how brains flexibly learn," says Thomson. "How do we give this capability to artificial neural networks?"
+                  The team developed the FIP algorithm using a mathematical technique called differential geometry. The framework allows a neural network to be modified without losing previously encoded information.
+                  In 2022, with guidance from Julie Schoenfeld, Caltech Entrepreneur In Residence, Raghavan and Thomson started a company called Yurts to further develop the FIP algorithm and deploy machine learning systems at scale to address many different problems. Raghavan co-founded Yurts with industry professionals Ben Van Roo and Jason Schnitzer.
+                  The paper is titled
+                    ["Engineering flexible machine learning systems by traversing functionally invariant paths."](https://www.nature.com/articles/s42256-024-00902-x)
+                    Raghavan is the study's first author. In addition to Raghavan and Thomson, Caltech co-authors are graduate students Surya Narayanan Hari and Shichen Rex Liu, and collaborator Dhruvil Satani. Bahey Tharwat of Alexandria University in Egypt is also a co-author. Funding was provided by the
+                    [Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech](http://neuroscience.caltech.edu)
+                    , HMRI, the Packard Foundation, and the Rothenberg Innovation Initiative. Thomson is an affiliated faculty member with the Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech.
+                  Subscribe
+                      The Caltech Weekly
+                    Share this
+                      AddToAny BEGIN
+                      AddToAny END
+                  Tags
+                    [computer & information science](/about/news?tag=computer%20%26%20information%20science)
+                  [See All News](/about/news)
+        California Institute of Technology
+        1200 East California Boulevard
+        Pasadena, California 91125
+        [Contact Us](/contact)
+        |
+        [Claimed Copyright Infringement](/claimed-copyright-infringement)
+        [Privacy Notice](/privacy-notice)
+        [Digital Accessibility](https://digitalaccessibility.caltech.edu/)
+        Site Content Copyright © 2025

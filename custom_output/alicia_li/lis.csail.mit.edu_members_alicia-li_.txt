@@ -1,0 +1,55 @@
+  Primary Navigation
+          LIS Logo
+          Mobile Nav Menu Icon
+        end LIS Logo
+        Nav Links
+              [Research](https://lis.csail.mit.edu/research/)
+              [Publications](https://lis.csail.mit.edu/publications/)
+              [People](https://lis.csail.mit.edu/people/)
+              [Opportunities](https://lis.csail.mit.edu/opportunities/)
+              [Blog](https://lis.csail.mit.edu/blog/)
+        end Nav Links
+  end Primary Navigation
+  Blog Navigation
+        // The Latest News from LIS
+  end Blog Navigation
+  First Section
+            February 21, 2024
+            Alicia Li
+            Authors:
+  end First Section
+  Second Section
+          Authors
+        end Single Authors Section
+      div class="small-article-column padding-top-68">
+                    <div class="sticky-content">
+                    	<h5>Share</h5>
+	                    	<a class="twitter-share-btn social-share-btn flex-container-left" href="#" alt="Share on Twitter">
+	                    		<span class="share-icon-wrapper flex-container-middle">
+	                    			<img class="share-icon" src="https://lis.csail.mit.edu/wp-content/themes/lis_custom/images/icon-twitter.svg" alt="Twitter Icon" height="20" />
+	                    		</span>
+	                    		<span class="share-text">Twitter</span>
+	                    	</a>
+
+	                    	<a class="facebook-share-btn social-share-btn flex-container-left" href="#" alt="Share on Facebook">
+	                    		<span class="share-icon-wrapper flex-container-middle">
+	                    			<img class="share-icon" src="https://lis.csail.mit.edu/wp-content/themes/lis_custom/images/icon-facebook.svg" alt="Facebook Icon" height="20" />
+	                    		</span>
+	                    		<span class="share-text">Facebook</span>
+	                    	</a>
+
+	                    	<a class="linkedin-share-btn social-share-btn flex-container-left" href="#" alt="Share on LinkedIn">
+	                    		<span class="share-icon-wrapper flex-container-middle">
+	                    			<img class="share-icon" src="https://lis.csail.mit.edu/wp-content/themes/lis_custom/images/icon-linkedin.svg" alt="LinkedIn Icon" height="20" />
+	                    		</span>
+	                    		<span class="share-text">LinkedIn</span>
+	                    	</a>
+                    </div>
+                </div
+      end Article Body
+  end Second Section
+  Primary Footer
+              Learning and Intelligent Systems Group
+                [Accessibility](https://accessibility.mit.edu/)
+        Copyright © 2025 Learning and Intelligent Systems Group  //  Design by Laura Weiss
+  end Primary Footer

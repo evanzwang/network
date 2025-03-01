@@ -1,0 +1,33 @@
+{
+  "title": "Zhizhuo Zhou's Profile | Stanford Profiles",
+  "meta_description": "Zhizhuo Zhou is part of Stanford Profiles, official site for faculty, postdocs, students and staff information (Expertise, Bio, Research, Publications, and more). The site facilitates research and collaboration in academic endeavors.",
+  "main_content": "Zhizhuo Zhou Ph.D. Student in Computer Science, admitted Autumn 2023 Print Profile Email Profile View Stanford-only Profile Tab Menu Bio Contact Academic zhizhuo@stanford.edu University - Student Department:&nbspComputer Science Position: Graduate Additional Info Mail Code: 9025",
+  "links": [
+    {
+      "url": "https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=324309",
+      "text": "Print Profile"
+    },
+    {
+      "url": "mailto:?subject=Zhizhuo Zhou's Profile&body=I would like to share the profile of Zhizhuo Zhou with you. https://profiles.stanford.edu/zhizhuo-zhou",
+      "text": "Email Profile"
+    },
+    {
+      "url": "/intranet/zhizhuo-zhou",
+      "text": "View Stanford-only Profile"
+    },
+    {
+      "url": "/zhizhuo-zhou?tab=bio",
+      "text": "Bio"
+    },
+    {
+      "url": "mailto:zhizhuo@stanford.edu",
+      "text": "zhizhuo@stanford.edu"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://profiles.stanford.edu/proxy/api/cap/profiles/324309/resources/profilephoto/350x350.1709231892166.jpg",
+      "alt": "Zhizhuo Zhou"
+    }
+  ]
+}

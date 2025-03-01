@@ -1,0 +1,57 @@
+{
+  "title": "Spike O'Carroll's (spikecodes) software portfolio | Devpost",
+  "meta_description": "Spike O'Carroll specializes in Rust, Python, Ai, Ml, JavaScript, TypeScript, C++, and C. Follow Spike O'Carroll on Devpost!",
+  "main_content": "Dispatch AI An empathic agent eliminating 911 wait times during critical emergencies. Winner AdaptEd interactive and personalized lectures, through conversational voice AI Winner SkySearch Software-defined Search-and-Rescue Drones JournEyes AI-infused VR travel assistant, to explore language, culture, and life. Cadu \u2695\ufe0f A Medical Research Team For Every Patient",
+  "links": [
+    {
+      "url": "https://devpost.com/software/dispatch-ai",
+      "text": "Dispatch AI\n                \n\n                  An empathic agent eliminating 911 wait times during critical emergencies.\n                \n\n\n\n\n Winner"
+    },
+    {
+      "url": "https://devpost.com/software/teachme-3p7bw1",
+      "text": "AdaptEd\n                \n\n                  interactive and personalized lectures, through conversational voice AI\n                \n\n\n\n\n Winner"
+    },
+    {
+      "url": "https://devpost.com/software/skysearch-t5ci1v",
+      "text": "SkySearch\n                \n\n                  Software-defined Search-and-Rescue Drones"
+    },
+    {
+      "url": "https://devpost.com/software/journeyes",
+      "text": "JournEyes\n                \n\n                  AI-infused VR travel assistant, to explore language, culture, and life."
+    },
+    {
+      "url": "https://devpost.com/software/cadu",
+      "text": "Cadu\n                \n\n                  \u2695\ufe0f A Medical Research Team For Every Patient"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/932/063/datas/medium.jpg",
+      "alt": "Dispatch AI"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/software/winner-ribbon-85c4be5085ae1445920f3efa67e2e429d6b32bceffd6921ca3f4bf34de3ba712.png",
+      "alt": "Winner"
+    },
+    {
+      "src": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/858/163/datas/medium.jpg",
+      "alt": "AdaptEd"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/software/winner-ribbon-85c4be5085ae1445920f3efa67e2e429d6b32bceffd6921ca3f4bf34de3ba712.png",
+      "alt": "Winner"
+    },
+    {
+      "src": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/090/780/datas/medium.png",
+      "alt": "SkySearch"
+    },
+    {
+      "src": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/774/727/datas/medium.png",
+      "alt": "JournEyes"
+    },
+    {
+      "src": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/736/641/datas/medium.png",
+      "alt": "Cadu"
+    }
+  ]
+}

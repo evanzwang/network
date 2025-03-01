@@ -1,0 +1,212 @@
+[
+  {
+    "fullName": "Spike O'Carroll",
+    "linkedin_internal_id": "999768537",
+    "first_name": "Spike",
+    "last_name": "O'Carroll",
+    "public_identifier": "spike-ocarroll",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQFHIZIl4oJ75Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719374313063?e=2147483647&v=beta&t=Sz__8-Zpt8QoyjHoCh5WqOpWSodLyxTUTVceuuwloQ8",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGsjEOYcE2YvA/profile-displayphoto-shrink_200_200/B56ZPbObIrHoAg-/0/1734549812941?e=2147483647&v=beta&t=7v7hKutq7Sfk3KWW4gymu0wnjIg9sKLlPeToEbstD8s",
+    "headline": "CS + AI @ UCI | Incoming @ Ramp | Prev. @ Portal",
+    "location": "6K followers\n          \n          \n              500+ connections",
+    "about": "Hey! I'm Spike, a CS student at UC Irvine pursuing tech entrepreneurship.\ud83d\udcbc Incoming SWE Intern @ Ramp\ud83d\ude80 Created Libreddit: gained 4 million+ monthly active users\ud83d\udcbb Built Peacock Browser: 30,000 downloads\ud83d\udd8c\ufe0f Freelance Web Designer since 2021WINS: ($120k total winnings)\ud83e\udd47 1st place, UC Berkeley AI Hackathon, 2024\ud83e\udd47 1st place, LAHacks Google Company Challenge, 2024\ud83e\udd47 1st place, UCI Stella Zhang New Venture Competition, 2024\ud83e\udd47 1st place, UCI Butterworth Product Design Competition, 2024\ud83e\udd47 1st place, UCI AI Innovation Challenge in Student Experience, 2024\ud83e\udd48 2nd place, SoCal Super Pitch Competition, 2024I'm passionate about software engineering, entrepreneurship, and UI/UX design.",
+    "experience": [
+      {
+        "position": "Incoming SWE Intern, Backend",
+        "company_url": "https://www.linkedin.com/company/ramp?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFpzb0Ial_Qaw/company-logo_100_100/company-logo_100_100/0/1735867522188?e=2147483647&v=beta&t=-e5IQvH4Ozx0u6jyMceV3cBf51tDtGsd3N0ngjPy2-I",
+        "company_name": "Ramp",
+        "location": "New York, New York, United States",
+        "summary": "Summer 2025",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "CEO / Co-Founder",
+        "company_url": "https://www.linkedin.com/company/dispatchai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQHHFzbKLzI3ZQ/company-logo_100_100/B56ZVDUXzgGoAU-/0/1740591169107/dispatchai_logo?e=2147483647&v=beta&t=d1CTUZp3cT1apNf0xAOfxERLgGhXar4PXFO8ARLPZzs",
+        "company_name": "Dispatch AI",
+        "location": null,
+        "summary": "AI 911 operator using empathy-driven emergency response to empower dispatch centers. We're transforming how critical emergencies are triaged, prioritizing calls, and enhancing operator decisions \u2014 all with a human-in-the-loop.- Grants from OpenAI, Intel, Skydeck, Mistral AI and Academic Catalyst- $50,000 Grand Prize Winners at the 2024 UC Berkeley AI Hackathon, out of over 1500 participants- Accepted into Berkeley Skydeck\u2019s Pad-13 Program (1% acceptance rate, Forbes #2 Best University Accelerator)\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jun 2024",
+        "ends_at": "Dec 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/portalcorp?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQF6sSqFPML__g/company-logo_100_100/company-logo_100_100/0/1690553991074?e=2147483647&v=beta&t=1uMPkjSNxKvFBrw-OHxuUOS-BBvnFiAqvVuwB3FpXj4",
+        "company_name": "Portal",
+        "location": null,
+        "summary": "\u2022 Shipped 80+ features to a venture-backed startup's AI web browser and LLM interface serving 30,000 users/mo\u2022 Built a high-performance vector database in Rust with SQL query support and cloud syncing with Postgres server\u2022 Launched a conversational voice AI in Python with < 600ms latency, web agent capabilities, and RAG\u2022 Worked closely with fast-paced teams to develop Electron-based browser in Node, TypeScript, React, and Tailwind",
+        "starts_at": "Dec 2023",
+        "ends_at": "Sep 2024",
+        "duration": "10 months"
+      },
+      {
+        "position": "Creator",
+        "company_url": "https://www.linkedin.com/company/libreddit?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEp_Q5l07K-EA/company-logo_100_100/company-logo_100_100/0/1739157543152/libreddit_logo?e=2147483647&v=beta&t=UAGeRmXRNkaHASJogkZwsmvUZnBYfhgrZqdJRHlFMuM",
+        "company_name": "Libreddit (now Redlib)",
+        "location": null,
+        "summary": "4 million+ monthly users, 5k GitHub stars, 20+ instances hosted globallyBuilt Libreddit, the private and customizable Reddit client, allowing users to access their favorite content without ads, trackers, or bloat.",
+        "starts_at": "Jun 2020",
+        "ends_at": "Jan 2024",
+        "duration": "3 years 8 months"
+      },
+      {
+        "position": "Freelance Web Developer",
+        "company_url": "https://www.linkedin.com/company/spikedesigns?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEVAzWMyAKudw/company-logo_100_100/company-logo_100_100/0/1739166238141/spikedesigns_logo?e=2147483647&v=beta&t=F5EfOz02KuY3fE0i9RlHDndL3yniZh1ylN1iMy460Ts",
+        "company_name": "Spike Designs",
+        "location": "Culver City, California, United States",
+        "summary": "Building 10x-converting websites and 0->1 branding for businesses and public figures. Driving actionable results with stunning UI/UX featured in over 30 Adobe Behance collections.",
+        "starts_at": "Nov 2021",
+        "ends_at": "Dec 2023",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Webmaster and IT Administrator",
+        "company_url": "https://www.linkedin.com/company/maximize-athletic-performance?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQFpTFBIJYip2w/company-logo_100_100/company-logo_100_100/0/1698954636173/maximize_athletic_performance_logo?e=2147483647&v=beta&t=Qyqyxylj1jvn_FFb2qmAYgElFtSv-o91vp5XI2z2aI8",
+        "company_name": "Maximize Athletic Performance",
+        "location": "Culver City, California, United States",
+        "summary": "\u2022 Designed Wordpress website, Shopify store, and JotForm assessment form\u2022 Created and ran client acquisition strategy using social media, SMS (via Twilio), and email marketing\u2022 Architected automation pipelines to save 10 hours/week on client processing using webhooks and Zapier",
+        "starts_at": "Mar 2023",
+        "ends_at": "Sep 2023",
+        "duration": "7 months"
+      },
+      {
+        "position": "Summer Camp Counselor",
+        "company_url": "https://www.linkedin.com/company/coderevkids-com?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFiQJI_lkgzLA/company-logo_100_100/company-logo_100_100/0/1631399213739/coderevkids_com_logo?e=2147483647&v=beta&t=2TV3RgUI750ctLrrM6M9l_63Gc1TGV5TatXHjjpdl4c",
+        "company_name": "CodeREV Kids",
+        "location": "Santa Monica, California, United States",
+        "summary": "\u2022 Taught and assisted in the teaching of Java and computer programming concepts to children ages 8-10 as part of the Modding in Minecraft Game Design course",
+        "starts_at": "Jun 2017",
+        "ends_at": "Jul 2017",
+        "duration": "2 months"
+      },
+      {
+        "position": "Webmaster",
+        "company_url": "https://www.linkedin.com/company/jamaica-music-camp?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQF4KkjCx_y8Lw/company-logo_100_100/B56ZTuMlP8HEAQ-/0/1739163063579?e=2147483647&v=beta&t=fl4FdtxN2H9-1NBOfjzmycH-WrBbkACevlfIKcvNvWw",
+        "company_name": "Jamaica Music Camp",
+        "location": "Sandy Bay, Jamaica",
+        "summary": "\u2022 Designed and launched the website for a music camp on the island of Jamaica which I maintained for 4 consecutive years (until the camp was discontinued after 2017)\u2022 Set up the eCommerce system for accepting camp application payments and scholarships for children who couldn't afford the camp\u2022 Provided IT support to campers, counselors and other staff members",
+        "starts_at": "Jul 2014",
+        "ends_at": "Jul 2017",
+        "duration": "3 years 1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-california-irvine/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "UC Irvine",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQEuZlXAuo608Q/company-logo_100_100/company-logo_100_100/0/1630587727377/university_of_california_irvine_logo?e=2147483647&v=beta&t=LB1fLfaCGGRuQvklHlvk1K3BtMCB4MadwXk6NwEus4c",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "3.95 GPA",
+        "college_duration": "2023 - 2025",
+        "college_activity": "CS with a specialization in Intelligent Systems (AI/ML)."
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/culver-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Culver High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEJN9dGCL8e9A/company-logo_100_100/company-logo_100_100/0/1630581515787?e=2147483647&v=beta&t=4WswYAmiP3p7j3DfNcCgH_yKUpQ-iKYD-RAMXrUIGvA",
+        "college_degree": "3.98 GPA (unweighted)",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": "1510 SAT. AP Scholar with Honor. 8 AP courses scoring all 4s and 5s. Principal's Honor Roll. Posse Foundation Scholarship Nominee. Culver Integrity Award. California Junior Scholarship Federation. Programming Club President, Badminton Club President, Dodgeball Club President, Chess Club Organizer."
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Ramp",
+      "description1_link": "https://www.linkedin.com/company/ramp?trk=public_profile_topcard-current-company",
+      "description2": "UC Irvine",
+      "description2_link": "https://www.linkedin.com/school/university-of-california-irvine/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fspike%2Ecodes&urlhash=YArc&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/chris-tottman_this-is-what-facebook-looked-like-back-in-activity-7301224632555106304-pJx4",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQERQrsD5axQaQ/videocover-high/B4EZUuB8YlGwBw-/0/1740234020918?e=2147483647&v=beta&t=0WyoY57aw7kdD1UaTsKcJqdQpdR4mtigDsMYqscFwYQ",
+        "title": "This is what Facebook looked like back in 2005! \n\nWhen you can pair a yellow jacket with a red T-shirt \n\nJust a year earlier, 19-year-old Mark\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/tyler-y-yu_free-access-to-claude-37-for-uci-students-activity-7300954933204242432-qlCc",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFXSLMEjNOBNQ/feedshare-shrink_800/B56ZVIyBotHsAg-/0/1740682828761?e=2147483647&v=beta&t=2PhEtzkjm8viHCMYwttBmahcdULxc-rn-cdnm8rdybw",
+        "title": "Free access to Claude 3.7 for UCI students!",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kendall-keahey-5a7042138_i-closed-567-businesses-for-ramp-in-2024-activity-7300633667440160770-edia",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFXjYHOpugfpw/feedshare-shrink_2048_1536/B4EZVEPoagHUAo-/0/1740606703700?e=2147483647&v=beta&t=sWcC3jedhhwVmLDv2As5BYREwJTF0AbEYSkETK8vj5U",
+        "title": "I closed 567 businesses for Ramp in 2024 \u2014 Here's how:\n\nI believe there is a misconception among sales people that success is built on grand gestures\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brettadcock_our-first-customer-use-case-took-12-months-activity-7300549722602098690-ZkKL",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGKhXFcGvWK9w/videocover-high/B56ZVDC.5tGUBs-/0/1740586669238?e=2147483647&v=beta&t=LReyH435ie_oerZVJ_gcISZES2N5FViGGUqo7OQ9BWE",
+        "title": "Our first customer use case took 12 months - and our second customer took just 30 days! \n\nHelix is enabling robots to scale with a single neural\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/luke-harries_what-if-an-ai-agent-makes-a-phone-call-then-activity-7299878652291272704-M0HK",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQHwRnXX1R-R0w/videocover-high/B4EZU5g7bxH0Bs-/0/1740426690528?e=2147483647&v=beta&t=fUFF7y6I6w3WSW0PTzcpwXSqjFdLUqyZPNp-QDh3L_8",
+        "title": "What if an AI agent makes a phone call, then realizes the other person is also an AI agent?\n\nAt the ElevenLabs London Hackathon, Boris S. and Anton\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jordan-zietz_hiring-social-swe-activity-7299929237719793664-8kH5",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQE3qH3mA96l4Q/feedshare-shrink_800/B4EZU6O8sgH0Ag-/0/1740438755294?e=2147483647&v=beta&t=9yflLglFPY_kRaK7Buau0NGuhzhxXh-DZEKEpM3wAgU",
+        "title": "Our hiring process at Confetti is wild.\n\nFirst, you\u2019ll meet our team. We\u2019re not just evaluating technical talent\u2014we\u2019re looking for people who are in\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maanpatel111_ey-intern-summerintern-activity-7299894431342542848-d5t-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFVB9-WBJjHIg/feedshare-shrink_1280/B56ZU5vEXKHEAo-/0/1740430408301?e=2147483647&v=beta&t=aUBHbCuTh3b7jKZdimd_KdPDGBjsnMlok9_168JlVzM",
+        "title": "I'm thrilled to announce that I'll be joining EY this summer as a Technology Intern! I\u2019m incredibly grateful for this opportunity to develop my\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/tomandriola_come-join-me-at-the-show-asugsv-an-exploration-activity-7299835404063547394-dy6j",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQFOycrFFLgLxg/feedshare-shrink_1280/B4DZU45nfIHYAk-/0/1740416383844?e=2147483647&v=beta&t=RzTy-HSazhQBKRlXvypiJqe-o1W6apbW6rL8hzpuFOQ",
+        "title": "Come join me at THE SHOW @ ASU+GSV. An exploration of the AI Revolution in education.\u00a0 Join 10,000+ educators, workforce leaders, EdTechs\u2026",
+        "activity": "Liked by Spike O'Carroll"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Scholarship Management SaaS",
+        "duration": "Jun 2023"
+      },
+      {
+        "title": "Libreddit (now Redlib)",
+        "duration": "Jun 2020 - Jan 2024"
+      },
+      {
+        "title": "Stotra",
+        "duration": "Aug 2023 - Aug 2023"
+      },
+      {
+        "title": "Peacock Browser",
+        "duration": "Feb 2019 - Aug 2020"
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

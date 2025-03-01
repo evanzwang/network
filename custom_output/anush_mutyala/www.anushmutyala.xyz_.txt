@@ -1,0 +1,459 @@
+  Preloader
+  Main Site
+                Anush Mutyala
+              Left Block
+                Logo
+                  Home
+                  About
+                  Resume
+                  Portfolio
+                  Blog
+                  <li data-tooltip="contact" data-position="bottom">
+						<a href="#contact" class="icon-c fas fa-envelope"></a>
+					</li>
+					<h6 class="nav-headings">Contact</h6>
+              Home Section
+                Particles
+                  Banner
+                        Deep Learning Engineer
+                        Brain-Computer Interface Developer
+                        Hardware Engineer
+                        Full-Stack Developer
+                  Social
+              About Section
+                  Section Title
+                    About Me
+                  Personal Info Start
+                    Information Block
+                            I'm a 18-year-old brain-computer interface developer working at the intersection of neuroscience, machine learning, and hardware engineering.
+                              Prev:
+                              Machine Learning and Digital Design @
+                              [ISML Univ. of Toronto](https://www.eecg.utoronto.ca/~roman/lab/index.html)
+                              ; EEG Research & Dev @
+                              [Divergence Neuro](https://www.divergenceneuro.com/)
+                              ; Core Developer & Co-founder @
+                              [NeuraDAO](https://neuradao.to/)
+                              ;
+                              Current:
+                              Leading bio-inspired spiking neural network research @
+                              [LCRAIN YorkU](https://lcrain.eecs.yorku.ca/)
+                              ; Electronics @
+                              [General Cybernetics](https://generalcybernetics.org/)
+                              ; Focusing on hardware-software co-design for neural implants.
+                            Reach out to me at
+                              [mutyalaanush@gmail.com](mailto: mutyalaanush@gmail.com)
+                          Add this new row for social icons underneath the existing content
+                              Increased gap
+                              Increased size
+                          !-- Icon Info --
+									<div class="col-lg-3 col-sm-4">
+                                		<div class="info-icon">
+                                     		<i class="fas fa-award"></i>
+                                     		<div class="desc-icon">
+												<h6>8 Years Job</h6>
+                                            	<p>Experience</p>
+                                       		</div>
+                                		</div>
+                                	</div>
+									
+									!-- Icon Info --
+									<div class="col-lg-3 col-sm-4">
+                                		<div class="info-icon">
+                                     		<i class="fas fa-certificate"></i>
+                                     		<div class="desc-icon">
+												<h6>500+ Projects</h6>
+                                            	<p>Completed</p>
+                                      		</div>
+                                		</div>
+                                	</div>
+									
+									!-- Icon Info --
+									<div class="col-lg-3 col-sm-4">
+                                		<div class="info-icon">
+                                     		<i class="fas fa-user-astronaut"></i>
+                                     		<div class="desc-icon">
+												<h6>Freelance</h6>
+                                           		<p>Available</p>
+                                        	</div>
+                                		</div>
+                                	</div>
+									
+									<div class="col-lg-3 col-sm-12 pt-50">
+                                		<a href="#" class="btn-st">Download CV</a>
+                                	</div>
+                  <div class="row mt-100">
+						
+						!-- Header Block --
+						<div class="col-md-12 col-sm-12 collabs">
+							<div class="header-box mb-50">
+								<h3>Collaborations</h3>
+							</div>
+						</div>
+					
+						!-- Companies Block --
+						<div class="col-lg-12 col-sm-12 mb-50 collabs" style="color: black;">
+    						<div class="info box-2" style="background-color: black">
+								<div class="row" id="logo-row-1">
+									<div class="col-md-6">
+										<div class="row">
+											<div class="col-6">
+												<img id="img_shell" src="anushmutyala.com/img/shell-logo.png" alt="">
+											</div>
+											<div class="col-6">
+												<img id="img_un" src="anushmutyala.com/img/un_PNG5.png" alt="">
+											</div>				
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="row">
+											<div class="col-6">
+												<img id="img_ic" src="anushmutyala.com/img/ic-logo.png" alt="">
+											</div>
+											<div class="col-6">
+												<img id="img_bs" src="anushmutyala.com/img/BenchSci_Logo.png" alt="">
+											</div>				
+										</div>
+									</div>
+								</div>		
+							</div>
+						</div>
+					</div>
+              Resume Section
+                  You can find the most up-to-date "CV"
+                      here
+                    .
+                  !-- Experience & Education Row Start --
+					<div class="row mt-100" style="align-items: baseline">
+					
+						!-- Experience Column Start --
+						<div class="col-lg-6 col-sm-12">
+						
+							!-- Header Block --
+							<div class="header-box mb-50">
+								<h3>Experiences</h3>
+							</div>
+						
+							<div class="experience box-1">
+
+								!-- Experience Item --
+								<div class="item">
+									<div class="main">
+										<h4>Research Intern @ Divergence Neuro</h4>
+										<p><i class="far fa-calendar-alt"></i>September 2021 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Instacart</p>
+									</div>
+									<p>Building new features and modules for their MVP platform using React and NodeJS. </p>
+								</div>
+
+								!-- Experience Item --
+								<div class="item">
+									<div class="main">
+										<h4>Consulting @ Shell</h4>
+										<p><i class="far fa-calendar-alt"></i>July 2021 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Shell</p>
+									</div>
+									<p>Designed a transistion to the EV charging business for Shell that involved an end-to-end IoT package for franchisees. </p>
+									<div class="main">
+										<h4>Consulting @ BenchSci</h4>
+										<p><i class="far fa-calendar-alt"></i>July 2021 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>BenchSci</p>
+									</div>
+									<p>Built a novel pipeline for using surrogate and predictive biomarkers in adaptive clinical trials. </p>
+									<div class = "main">
+										<h4>Consulting @ Instacart</h4>
+										<p><i class="far fa-calendar-alt"></i>December 2020 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Instacart</p>
+									</div>
+									<p>Created solutions for improving the customer experience at Instacart.</p>
+									<div class="main">
+										<h4>Consulting @ the United Nations</h4>
+										<p><i class="far fa-calendar-alt"></i>March 2021 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>United Nations</p>
+									</div>
+									<p>Researched the Digital Landscape of South Africa and created solutions to bring females into the Digital Economy. </p>
+								</div>
+								
+								!-- Experience Item --
+								<div class="item">
+									<div class="main">
+										<h4>App Concept for Halton Environmental Network</h4>
+										<p><i class="far fa-calendar-alt"></i>November 2020 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Tech Under 20</p>
+									</div>
+									<p>Created a business plan and mockup for a potential app for clean-up events in the Halton Region during the pandemic.</p>
+									<div class="main">
+										<h4>App Concept for FoodHaven</h4>
+										<p><i class="far fa-calendar-alt"></i>February 2021 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Tech Under 20</p>
+									</div>
+									<p>Developed a business plan and prototype for a leftover based delivery app for underprivileged groups.</p>
+								</div>
+
+								!-- Experience Item --
+								<div class="item">
+									<div class="main">
+										<h4>Freelance Video Editing</h4>
+										<p><i class="far fa-calendar-alt"></i>November 2020 &nbsp; | &nbsp; <i class="fas fa-briefcase"></i>Fiverr</p>
+									</div>
+									<p>I had a freelance video editing business of Fiverr over the 2020 summer.</p>
+								</div>
+							</div>
+						</div>
+							
+						!-- Education Column Start --
+						<div class="col-lg-6 col-sm-12">
+						
+							!-- Header Block --
+							<div class="header-box mb-50 mob-box-mt">
+								<h3>Education</h3>
+							</div>
+						
+							<div class="experience box-2">
+
+								!-- Education Item --
+								<div class="item">
+									<div class="main">
+										<h4>Highschool</h4>
+										<p><i class="far fa-calendar-alt"></i>2020 - 2024 &nbsp; | &nbsp; <i class="fas fa-graduation-cap"></i> Chinguacousy SS</p>
+										<p><i class="fas fa-globe"> Brampton, Canada</i></p>
+									</div>
+									<p>Grade 11 student in the SciTech program at Chinguacousy SS.</p>
+								</div>
+
+								!-- Education Item --
+								<div class="item">
+									<div class="main">
+										<h4>The Knowledge Society</h4>
+										<p><i class="far fa-calendar-alt"></i>2020 - 2022 &nbsp; | &nbsp; <i class="fas fa-graduation-cap"></i> The Knowledge Society</p>
+										<p><i class="fas fa-globe"> Toronto, Canada</i></p>
+									</div>
+									<p>Took part in the Innovate and Activate programs at The Knowledge Society, a human accelerator for young innovators.</p>
+								</div>
+
+								!-- Education Item --
+								<div class="item">
+									<div class="main">
+										<h4>UCMAS Diploma</h4>
+										<p><i class="far fa-calendar-alt"></i>2016-2020 &nbsp;| &nbsp; <i class="fas fa-graduation-cap"></i> UCMAS Mt. Pleasant</p>
+										<p><i class="fas fa-globe"> Brampton, Canada</i></p>
+									</div>
+									<p>Honour roll student in Class of 2020.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				
+					!-- Skills Row Start --
+					<div class="row mt-100 mb-100">
+					
+						!-- Header Block --
+						<div class="col-md-12 col-sm-12">
+							<div class="header-box mb-50">
+								<h3>Skills</h3>
+							</div>
+							
+							<div class="box-2">
+								<div class="row">
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+                                     		<i class="fab fa-python"></i>
+                                    	 	<div class="desc-inter">
+												<h6>Python</h6>
+                               	        	</div>
+										</div>
+									</div>
+								
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+                                 	    	<i class="fas fa-film"></i>
+                                  		   	<div class="desc-inter">
+												<h6>Video Editing</h6>
+                                  	     	</div>
+                                		</div>
+									</div>
+								
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+												<i class="fab fa-figma"></i>
+													<div class="desc-inter">
+												<h6>UI/UX</h6>
+												</div>
+										</div>
+									</div>
+									
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+                                    	 	<i class="fas fa-brain"></i>
+                                     		<div class="desc-inter">
+												<h6>Neurotech</h6>
+                                   	    	</div>
+                                		</div>
+									</div>
+								
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+                                 	    	<i class="fas fa-tv"></i>
+                                 	    	<div class="desc-inter">
+												<h6>Fullstack</h6>
+                                	       	</div>
+                                		</div>
+									</div>
+
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+											<i class="fas fa-pencil-ruler"></i>
+												<div class="desc-inter">
+												<h6>CAD Design</h6>
+												</div>
+										</div>
+									</div>
+
+									!-- Interests Item --
+									<div class="col-lg-3 col-sm-6">
+										<div class="inter-icon">
+        	                             	<i class="fas fa-microchip"></i>
+            	                         	<div class="desc-inter">
+												<h6>Deep Learning</h6>
+                    	                   	</div>
+                        	        	</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+              Portfolio Section
+                  Portfolio Filter Row Start
+                        All
+                        AI
+                        Brain-computer Interfaces
+                        UI/UX
+                        Websites
+                  Portfolio Item Row Start
+                    Templates
+						<div class="item col-lg-4 col-sm-6 graphic">
+							<figure>
+								<img alt="" src="img/portfolio/img.jpg">
+								<figcaption>
+									<h3>Project Name <br><span class="pt-caption">Caption</span></h3>
+									<p>Graphic</p><i class="fas fa-image"></i>
+									<a class="image-link" href="img/portfolio/img-1.jpg"></a>
+								</figcaption>
+							</figure>
+						</div>
+					
+						<div class="item col-lg-4 col-sm-6 brand">
+							<figure>
+								<img alt="" src="img/portfolio/img.jpg">
+								<figcaption>
+									<h3>Project Name <br><span class="pt-caption">Caption</span></h3>
+									<p>Graphic</p><i class="fas fa-video"></i>
+									<a class="video-link" href="https://www.youtube.com/watch?v=k_okcNVZqqI"></a>
+								</figcaption>
+							</figure>
+						</div>
+                          ConnexSci
+                            Using Graph Neural Networks to Optimize Drug Discovery
+                          NeuraDAO Marketplace
+                            A marketplace for neuroimaging data on Ocean Protocol
+                          BCI
+                          NeuraDAO Landing Page
+                            Archive of DAO's previous ventures
+                          EEG Spectral Analysis and Topology
+                            Created EEG visualization ReactJS plugins for the Neurosity
+                          EEG Presentations
+                            Using eyeblink artefacts from EEG to move across a slideshow.
+                          MindFrames
+                            Summarizing videos based on what you find interesting.
+                          Web Browser BCI
+                            Controlling chrome with your Brain.
+                          Emotion300
+                            A realtime chat application using a P300 speller and emotion detection to improve accesibility of social media to the disabled.
+                          Artefact Detection Using K-means
+                            Live detection of multiple EEG artefacts using K-Means.
+                          Using PCA-CNNs to identify P300 in EEG.
+                            Pipeline for P300 extraction from EEG data.
+                          HEN Pick-Up Mockup
+                            UI/UX mockup for HEN.
+                          Mockup for FoodHaven
+                            Mockup for a food delivery app for FoodHaven.
+                          United Nations Digital Economy Whitepaper
+                            Establishing Post-Secondary Digital Pathways for Women in South Africa
+                          Optimizing Biomarkers in Adaptive Clinical Trials
+                            Bayesian-optimized adaptive clinical trials pitched to BenchSci
+                          mPath AI Pipeline
+                            Using AI for Triaging.
+              Blog Section
+                  Blog Row Start
+                    Templates
+						<div class="col-lg-4 col-sm-6">
+							<div class="blog-item">
+								<div class="thumbnail">
+									<a href="blog-posts/1.html"><img alt="" src="img/blog-thumbnails/thumbnail-1.jpg"></a>
+								</div>
+								<h4><a href="blog-posts/1.html">Road to success</a></h4>
+								<ul>
+                            		<li>15 April 2019</li>
+									<li>Lifestyle</li>
+									<li>x min read</li>
+                           		</ul>
+							</div>
+						</div>
+
+
+						<div class="col-lg-4 col-sm-6">
+							<div class="blog-item">
+								<div class="thumbnail">
+									<a href="blog-posts/1.html"><img alt="" src="img/blog/img-2.jpg"></a>
+									<a href="https://www.youtube.com/watch?v=k_okcNVZqqI" class="btn-play"></a>
+								</div>
+								<h4><a href="blog-posts/1.html">Road to success</a></h4>
+								<ul>
+                            		<li><a href="#">10 March 2019</a></li>
+                            		<li><a href="#">Lifestyle</a></li>
+                           		</ul>
+								<div class="blog-btn">
+									<a href="blog-posts/1.html" class="btn-st">Read More</a>
+								</div>
+							</div>
+						</div>
+                    Blog Item
+                          [A Deeper Look at Neuralink’s N1 Chip](https://medium.com/@neuronic_img/a-deeper-look-at-neuralinks-n1-chip-f0763ea0a61e)
+                          14 July 2022
+                          20 min read
+                          [Pain Quantification using fMRI](https://zaynpatel.medium.com/physicians-the-modern-day-drug-dealers-c5d785c795a8)
+                          18 October 2021
+                          12 min read
+                          [Fixing Mental Healthcare with Brain Biomarkers](https://anushmutyala.medium.com/mental-health-needs-a-rework-heres-why-a42da243aa00)
+                          20 August 2021
+                          18 min read
+                          [Muse 101 — How to start Developing with the Muse 2 right now](https://anushmutyala.medium.com/muse-101-how-to-start-developing-with-the-muse-2-right-now-a1b87119be5c)
+                          12 December 2021
+                          [If Nanotech and Neurotech had a Child; Magnetogenetics](https://anushmutyala.medium.com/if-nanotech-and-neurotech-had-a-child-magnetogenetics-675f609f2aa6)
+                          8 May 2021
+                          10 min read
+                          [Changing the way we Save Video with our Minds](https://anushmutyala.medium.com/mindframes-changing-the-way-we-save-video-8bc64761f19)
+                          July 3 2021
+                          9 min read
+                          [Google’s Project Taara: Fiber Optics without the Fiber](https://anushmutyala.medium.com/googles-project-taara-fiber-optics-without-the-fiber-434e27495130)
+                          15 May 2020
+                          Moonshots
+                          6 min read
+                          [Enhancing the Presentation Experience with Brainwaves](https://anushmutyala.medium.com/presentations-with-your-brain-117467b36460)
+                          10 Mar 2020
+                          [Seeing with your Tongue and the Everchanging Mush inside your Head](https://anushmutyala.medium.com/seeing-with-your-tongue-and-the-everchanging-mush-that-is-the-brain-ef4bb8ca0b58)
+                          10 Dec 2020
+                          [Prime Editing Oversimplified](https://anushmutyala.medium.com/prime-editing-oversimplified-680cdd4077c2)
+                          20 Oct 2019
+                          Gene Editing
+                          13 min read
+                          [Hacking at Neurable for a Day](https://anushmutyala.medium.com/hacking-at-neurable-for-a-day-63d9e5379272)
+                          26 May 2021
+                          5 min read
+                          [Why we need the Internet X BCI Collab](https://anushmutyala.medium.com/why-we-need-the-internet-x-bci-collab-16fcc562fbd)
+                          9 June 2021
+                          14 min read
+                          [Using ultrasound waves to blast bacteria back to the stone age](https://velmathanalingam.medium.com/using-ultrasound-waves-to-blast-bacteria-back-to-the-stone-age-dafaa66d1400)
+                          30 Apr 2021
+                          Microbio
+                          8 min read
+  All Script
+  Page Script

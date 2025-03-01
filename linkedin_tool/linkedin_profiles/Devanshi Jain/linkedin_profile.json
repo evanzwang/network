@@ -1,0 +1,431 @@
+[
+  {
+    "fullName": "Devanshi Jain",
+    "linkedin_internal_id": "858609805",
+    "first_name": "Devanshi",
+    "last_name": "Jain",
+    "public_identifier": "djain18",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQEGJtC1DzyZEQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1688424733568?e=2147483647&v=beta&t=swSirtit4lnR7t6LmZ_BOJWYpXEFyS7ipKw5cRkJeRs",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQElzTHawk0zBA/profile-displayphoto-shrink_200_200/B56ZQje7o0G4AY-/0/1735762099449?e=2147483647&v=beta&t=fhop_HdAtPvHkmQLGe8vosgQHbHbAdYb9hLhSVHoklg",
+    "headline": "Incoming SWE @ Meta | Prev. Intern @ Amazon, Meta | Math-CS @ UC San Diego",
+    "location": "7K followers\n          \n              500+ connections",
+    "about": "Hello, I am an undergraduate at UC San Diego studying Mathematics and Computer Science with a passion for problem solving. I have 2+ years of experience in software development working as a backend dev at Center For Energy Research, as a Teaching Assistant at UCSD's COSMOS Program, and as a Web Developer at UCSD's School of Medicine, building a neurocognitive web-application. I interned in Meta and Amazon as a Software Dev Engineer intern during summer and fall of 2024 respectively.Please feel free to reach out on here or through my email : djain@ucsd.edu",
+    "experience": [
+      {
+        "position": "Incoming Software Engineer",
+        "company_url": "https://www.linkedin.com/company/meta?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=2147483647&v=beta&t=yQdLB8_bCnLl5CaiAOcOMFm39fvGboZVNBYTqgRVKWg",
+        "company_name": "Meta",
+        "location": null,
+        "summary": "",
+        "starts_at": "2025",
+        "ends_at": "Present",
+        "duration": "less than a year"
+      },
+      {
+        "position": "Software Dev Engineer",
+        "company_url": "https://www.linkedin.com/company/amazon?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=2147483647&v=beta&t=QsC16wgE3EBriPFDlAgtToh2xndFwQWKmR2WcyMG1nk",
+        "company_name": "Amazon",
+        "location": "Bellevue, Washington, United States",
+        "summary": "Team: Cross Border Transportation | Organization: Global LogisticsProject: Dynamic Feature Flag System",
+        "starts_at": "Sep 2024",
+        "ends_at": "Dec 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/meta?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=2147483647&v=beta&t=yQdLB8_bCnLl5CaiAOcOMFm39fvGboZVNBYTqgRVKWg",
+        "company_name": "Meta",
+        "location": "Menlo Park, California, United States",
+        "summary": "Team: Login Core Product | Organization: Meta Account AccessProject: Login Hashout Deprecation",
+        "starts_at": "Jun 2024",
+        "ends_at": "Sep 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Undergraduate Student Researcher",
+        "company_url": "https://www.linkedin.com/company/ucsdphysicalsciences?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGY7kxF84lAFw/company-logo_100_100/company-logo_100_100/0/1664903261211/ucsdphysicalsciences_logo?e=2147483647&v=beta&t=ahahARVqJBROFGXyuMlaymcMWvhvsLP23UYDtK_P_aY",
+        "company_name": "School of Physical Sciences | UC San Diego",
+        "location": "San Diego, California, United States",
+        "summary": "",
+        "starts_at": "Jan 2024",
+        "ends_at": "Jun 2024",
+        "duration": "6 months"
+      },
+      {
+        "position": "Web Developer",
+        "company_url": "https://www.linkedin.com/school/ucsdmedschool/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQE0EGZtNg1eug/company-logo_100_100/company-logo_100_100/0/1708984046129?e=2147483647&v=beta&t=WsYhi9Mmwl4cohHw51aSvR9nTl4t2j-0VLiT0M5uC0A",
+        "company_name": "UC San Diego School of Medicine",
+        "location": "San Diego, California, United States",
+        "summary": "Developed a neurocognitive testing web application utilized by sleep apnea patients to analyze memory retention.",
+        "starts_at": "Dec 2023",
+        "ends_at": "Jun 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Technical Chair",
+        "company_url": "https://www.linkedin.com/company/ieee-ucsd-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQH-TOQFOry5FQ/company-logo_100_100/company-logo_100_100/0/1631410844279/ieee_ucsd_student_branch_logo?e=2147483647&v=beta&t=ORk6WXI3mIv4NfGWoYDORVX4bCMhPoO_yUb8ElgOvAA",
+        "company_name": "IEEE Student Branch at UC San Diego",
+        "location": null,
+        "summary": "",
+        "starts_at": "Oct 2023",
+        "ends_at": "Jun 2024",
+        "duration": "9 months"
+      },
+      {
+        "position": "President",
+        "company_url": "https://www.linkedin.com/company/ucsdsums?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE9MOFpDJIHaA/company-logo_100_100/company-logo_100_100/0/1631414462776/ucsdsums_logo?e=2147483647&v=beta&t=hFL29uQrnuxzWmZlPxP1oZ_H6_2L0rmarTJHtHE63sc",
+        "company_name": "Society of Undergraduate Mathematics Students (SUMS) at UCSD",
+        "location": null,
+        "summary": "",
+        "starts_at": "Jun 2023",
+        "ends_at": "Jun 2024",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Workshops Chair",
+        "company_url": "https://www.linkedin.com/company/ucsdsums?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE9MOFpDJIHaA/company-logo_100_100/company-logo_100_100/0/1631414462776/ucsdsums_logo?e=2147483647&v=beta&t=hFL29uQrnuxzWmZlPxP1oZ_H6_2L0rmarTJHtHE63sc",
+        "company_name": "Society of Undergraduate Mathematics Students (SUMS) at UCSD",
+        "location": "San Diego, California, United States",
+        "summary": "",
+        "starts_at": "May 2022",
+        "ends_at": "Jun 2023",
+        "duration": "1 year 2 months"
+      },
+      {
+        "position": "Center for Energy Research - Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/school/university-of-california-san-diego---jacobs-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEqZ4WWKPaYOA/company-logo_100_100/company-logo_100_100/0/1654722266120/university_of_california_san_diego___jacobs_school_of_engineering_logo?e=2147483647&v=beta&t=dt9bzN65yRIhGRS5ucgWqcay6wSjGLhLTX8Wz4lB4Ug",
+        "company_name": "UC San Diego Jacobs School of Engineering",
+        "location": null,
+        "summary": "\u2022 Improved energy efficiency by 20% in 9+ buildings thru a robust scheduler optimization for smart on/off control algorithms. \u2022 Collaborated closely in an Agile workflow with the tech lead and PM to drive code reviews and thorough testing using Jest.\u2022 Building a custom API-driven server for advanced data management, querying, and migrating data from InfluxDB to Neo4j.",
+        "starts_at": "Sep 2022",
+        "ends_at": "Jun 2024",
+        "duration": "1 year 10 months"
+      },
+      {
+        "position": "Student Researcher at Computational Modeling and Flow Physics Lab",
+        "company_url": "https://www.linkedin.com/school/university-of-california-san-diego---jacobs-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEqZ4WWKPaYOA/company-logo_100_100/company-logo_100_100/0/1654722266120/university_of_california_san_diego___jacobs_school_of_engineering_logo?e=2147483647&v=beta&t=dt9bzN65yRIhGRS5ucgWqcay6wSjGLhLTX8Wz4lB4Ug",
+        "company_name": "UC San Diego Jacobs School of Engineering",
+        "location": "San Diego, California, United States",
+        "summary": "\u2022 Achieved an efficiency surge of 12.5% for NASA\u2019s GE90 engine thru non-linear optimization in Ansys.\u2022 Utilized 200,000 high-performance computing hours on San Diego Supercomputer for CFD simulations with 10k parameters. \u2022 Presented at the 2023 National Conference for Undergraduate Research in Long Beach, CA.",
+        "starts_at": "Jun 2023",
+        "ends_at": "Oct 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "UCSD Cosmos - Teaching Assistant",
+        "company_url": "https://www.linkedin.com/school/university-of-california-san-diego---jacobs-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEqZ4WWKPaYOA/company-logo_100_100/company-logo_100_100/0/1654722266120/university_of_california_san_diego___jacobs_school_of_engineering_logo?e=2147483647&v=beta&t=dt9bzN65yRIhGRS5ucgWqcay6wSjGLhLTX8Wz4lB4Ug",
+        "company_name": "UC San Diego Jacobs School of Engineering",
+        "location": null,
+        "summary": "\u2022 Led a 6-week long lab section of 25+ students in developing autonomous boats with sensors to collect oceanographic data.\u2022 Instructed students in configuring long range microcontrollers in C++ to enable networking and telemetry over 4 miles.\u2022 Directed students in programming GPS navigation and real-time sensor data visualization to actively monitor water quality.",
+        "starts_at": "Jun 2022",
+        "ends_at": "Aug 2022",
+        "duration": "3 months"
+      },
+      {
+        "position": "Electrical Team Member",
+        "company_url": "https://www.linkedin.com/school/tritonrobosub/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE8UrhUpA6Rqg/company-logo_100_100/company-logo_100_100/0/1630597993644/tritonrobosub_logo?e=2147483647&v=beta&t=uDCFdGT7NNnNJ_D3m0SPAOb_90nZtkO8PQ3HmL-5k0E",
+        "company_name": "Triton Robosub",
+        "location": null,
+        "summary": "Developing signal processing algorithms for designing and simulating sensor array and beamforming in acoustic systems. Researching computational methods for signal & peak detection and direction of arrival (DOA) estimation. Implementing an Automatic Gain Control with different gain loops using RTL. The design is carried out using the systemVerilog HDL (Hardware Description Language). The resulting hardware design is synthesized to fit into an FPGA hardware device.",
+        "starts_at": "Nov 2021",
+        "ends_at": "Dec 2023",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Reading Group : Commutative Algebra",
+        "company_url": "https://www.linkedin.com/company/ucsdphysicalsciences?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGY7kxF84lAFw/company-logo_100_100/company-logo_100_100/0/1664903261211/ucsdphysicalsciences_logo?e=2147483647&v=beta&t=ahahARVqJBROFGXyuMlaymcMWvhvsLP23UYDtK_P_aY",
+        "company_name": "School of Physical Sciences | UC San Diego",
+        "location": null,
+        "summary": "",
+        "starts_at": "Mar 2023",
+        "ends_at": "Oct 2023",
+        "duration": "8 months"
+      },
+      {
+        "position": "Functional Analysis Reading",
+        "company_url": "https://www.linkedin.com/company/ucsdphysicalsciences?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGY7kxF84lAFw/company-logo_100_100/company-logo_100_100/0/1664903261211/ucsdphysicalsciences_logo?e=2147483647&v=beta&t=ahahARVqJBROFGXyuMlaymcMWvhvsLP23UYDtK_P_aY",
+        "company_name": "School of Physical Sciences | UC San Diego",
+        "location": null,
+        "summary": "Doing directed reading with David Jekel, a Postdoc at UC San Diego. Reading chapter on Hilbert Spaces from the book, Functional Analysis by Peter D. Lax.",
+        "starts_at": "Oct 2022",
+        "ends_at": "Feb 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "Translation Surfaces : Reading",
+        "company_url": "https://www.linkedin.com/company/ucsdphysicalsciences?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGY7kxF84lAFw/company-logo_100_100/company-logo_100_100/0/1664903261211/ucsdphysicalsciences_logo?e=2147483647&v=beta&t=ahahARVqJBROFGXyuMlaymcMWvhvsLP23UYDtK_P_aY",
+        "company_name": "School of Physical Sciences | UC San Diego",
+        "location": null,
+        "summary": "Doing a directed reading group with Anthony Sanchez, a Postdoc at UC San Diego in Translational Surfaces. Topics studied include unfolding of billiard tables, Euler characteristics, cone angles, stratum, holonomy vectors, veech surfaces, and square-tiled surfaces.",
+        "starts_at": "Sep 2022",
+        "ends_at": "Dec 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Blackstone LaunchPad Incubator",
+        "company_url": "https://www.linkedin.com/company/ucsdbasement?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGOne3x1oRDjw/company-logo_100_100/company-logo_100_100/0/1630671519602/the_basement_uc_san_diego_logo?e=2147483647&v=beta&t=idZ06iimaAF4TYPWGwHGDT3PNRAQndg1CkZLcuxf_Vw",
+        "company_name": "The Basement UC San Diego",
+        "location": null,
+        "summary": "",
+        "starts_at": "Oct 2022",
+        "ends_at": "Jun 2023",
+        "duration": "9 months"
+      },
+      {
+        "position": "Innovation Fellow",
+        "company_url": "https://www.linkedin.com/company/quforce?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEqnQAYGxXRwA/company-logo_100_100/company-logo_100_100/0/1636674352685/quforce_logo?e=2147483647&v=beta&t=CWbj--MYQpA2TjKZGHlpB7IVXR64tTcEpufUgOPaVj8",
+        "company_name": "QuForce",
+        "location": null,
+        "summary": "",
+        "starts_at": "Feb 2022",
+        "ends_at": "Jul 2022",
+        "duration": "6 months"
+      },
+      {
+        "position": "CS106A",
+        "company_url": "https://www.linkedin.com/school/stanford-code-in-place/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFOi4Y2x5aRXw/company-logo_100_100/company-logo_100_100/0/1678737966476/stanford_code_in_place_logo?e=2147483647&v=beta&t=8HGJHbMHqcXqPAPyrPG4LoM_Zfe30kckvBmgm7X1O-U",
+        "company_name": "Code in Place - Stanford University",
+        "location": null,
+        "summary": "",
+        "starts_at": "Apr 2021",
+        "ends_at": "May 2021",
+        "duration": "2 months"
+      },
+      {
+        "position": "KVPY Fellow",
+        "company_url": "https://in.linkedin.com/school/indian-institute-of-science/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHlKBtJ82x7_Q/company-logo_100_100/company-logo_100_100/0/1630652697970/indian_institute_of_science_logo?e=2147483647&v=beta&t=Bloj4lWRvTwTP33DOHAMdMPi8zTrGNAGgh9nupuiNMs",
+        "company_name": "Indian Institute of Science (IISc)",
+        "location": null,
+        "summary": "",
+        "starts_at": "Apr 2021",
+        "ends_at": "Apr 2021",
+        "duration": "1 month"
+      },
+      {
+        "position": "National (NTS) Scholar",
+        "company_url": "https://in.linkedin.com/school/iitdelhi/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQHQ5bnnnSexWg/company-logo_100_100/company-logo_100_100/0/1710919737785/iitdelhi_logo?e=2147483647&v=beta&t=lOCJ2p0onNcFUfNxviPZJZVz_CcK9RIVlV-qcefzIlU",
+        "company_name": "Indian Institute of Technology, Delhi",
+        "location": "New Delhi, India",
+        "summary": "30 NTS Awardees were shortlisted for the Nurturance Programme organised by Indian Institute of Technology, Delhi in collaboration with National Council of Educational Research & Training (NCERT). Professors from the institute discussed wide-ranging concepts, spanning from Stochastic processes to Sustainable Catalysis.",
+        "starts_at": "Mar 2021",
+        "ends_at": "Mar 2021",
+        "duration": "1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/ucsandiego/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "UC San Diego",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_100_100/company-logo_100_100/0/1630633790917/university_of_california_at_san_diego_logo?e=2147483647&v=beta&t=qeDFlphONsD7X4xYsZCQIuiZ6GULOU4rZI944w3hFuk",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Provost Honors",
+        "college_duration": "2021 - 2025",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Meta",
+      "description1_link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "description2": "UC San Diego",
+      "description2_link": "https://www.linkedin.com/school/ucsandiego/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://in.linkedin.com/in/akshay-mehra-26b8494?trk=public_profile_browsemap-profile",
+        "name": "Akshay Mehra",
+        "summary": "Owner, Studio f90 photography and productions",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/rahulanandsaini?trk=public_profile_browsemap-profile",
+        "name": "Rahul Anand Saini",
+        "summary": "PhysicsWallah || Content Creation || YouTube Strategy",
+        "location": "Lucknow"
+      },
+      {
+        "link": "https://in.linkedin.com/in/harinder-singh-13b984145?trk=public_profile_browsemap-profile",
+        "name": "Harinder Singh",
+        "summary": "medical graphic designer",
+        "location": "Chandigarh"
+      },
+      {
+        "link": "https://in.linkedin.com/in/manzeer-walia-7218ba72?trk=public_profile_browsemap-profile",
+        "name": "Manzeer Walia",
+        "summary": "Design Consultant",
+        "location": "Chandigarh"
+      },
+      {
+        "link": "https://in.linkedin.com/in/avinash-nayyar-4664755b?trk=public_profile_browsemap-profile",
+        "name": "avinash nayyar",
+        "summary": "Proprietor at Self employed",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/joshua-williams-112a40119?trk=public_profile_browsemap-profile",
+        "name": "Joshua Williams",
+        "summary": "Automotive Photographer,  Website -Williamsphotography.in",
+        "location": "Chennai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/rahul-kumar-449b50115?trk=public_profile_browsemap-profile",
+        "name": "Rahul kumar",
+        "summary": "Visual Storyteller",
+        "location": "New Delhi"
+      },
+      {
+        "link": "https://in.linkedin.com/in/bird-s-eye-0b79b46b?trk=public_profile_browsemap-profile",
+        "name": "Bird's Eye",
+        "summary": "Proprietor at Bird's Eye",
+        "location": "Ahmedabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sumanth-s-b259a0102?trk=public_profile_browsemap-profile",
+        "name": "Sumanth S",
+        "summary": "Associate Director - Recruitment @ Diamondpick | Global Talent Acquisition",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/swapnali-patil-5243b958?trk=public_profile_browsemap-profile",
+        "name": "Swapnali Patil",
+        "summary": "Asst. Manager HR at MULTITECH PRODUCTS PRIVATE LIMITED",
+        "location": "Pune"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ashish-mistry-a13689117?trk=public_profile_browsemap-profile",
+        "name": "Ashish Mistry",
+        "summary": "Professional Photographer (Luxury Hotel & Resorts)",
+        "location": "Vadodara"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vijaymewada?trk=public_profile_browsemap-profile",
+        "name": "Vijaykumar Mewada",
+        "summary": "Design Consultant * Strategic Advisor * Commercial imagery",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/shivangmehta?trk=public_profile_browsemap-profile",
+        "name": "Shivang Mehta",
+        "summary": "Author, Associate Fellow at International League of Conservation Photographers ILCP, Sony Ambassador",
+        "location": "Faridabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/anurag-avishek-das-21a032194?trk=public_profile_browsemap-profile",
+        "name": "Anurag Avishek Das",
+        "summary": "Freelancer | Ex-Academic Counselor at INCOBIST | |AGBS Bhubaneswar | Ex placement Coordinator | IGIT | Sports",
+        "location": "Bhadrak"
+      },
+      {
+        "link": "https://in.linkedin.com/in/santosh-sonker-9716371a6?trk=public_profile_browsemap-profile",
+        "name": "Santosh Sonker",
+        "summary": "Photographer\nGraduate in psychology\nex.field sales executive (Vodafone)",
+        "location": "Jais"
+      },
+      {
+        "link": "https://in.linkedin.com/in/rana-chakraborty-60632ab8?trk=public_profile_browsemap-profile",
+        "name": "rana chakraborty",
+        "summary": "Photojournalist",
+        "location": "Greater Kolkata Area"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vanshika-gupta-8668ab199?trk=public_profile_browsemap-profile",
+        "name": "Vanshika Gupta",
+        "summary": "Software Engineer, Google",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sourav-kumar-das-07a81918?trk=public_profile_browsemap-profile",
+        "name": "Sourav Kumar Das",
+        "summary": "Photographer| Photography & Film Making Educator|Content Creator|Podcaster",
+        "location": "Noida"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sandip-ghosh-83a90418b?trk=public_profile_browsemap-profile",
+        "name": "Sandip Ghosh",
+        "summary": "Content Creator",
+        "location": "Kolkata"
+      },
+      {
+        "link": "https://in.linkedin.com/in/maheshbhat1?trk=public_profile_browsemap-profile",
+        "name": "Mahesh Bhat",
+        "summary": "Artist of Eminence @ Srishti Manipal | Editorial, Corporate Photography",
+        "location": "Bengaluru"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/jain-devanshi?trk=public_profile_samename-profile",
+        "name": "Devanshi Jain",
+        "summary": "",
+        "location": "New Brunswick, NJ"
+      },
+      {
+        "link": "https://www.linkedin.com/in/devanshi-jain-297a41291?trk=public_profile_samename-profile",
+        "name": "Devanshi Jain",
+        "summary": "Aspirant Data Scientist",
+        "location": "Hinsdale, IL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/devanshi-jain-901012351?trk=public_profile_samename-profile",
+        "name": "Devanshi Jain",
+        "summary": "--",
+        "location": "Kansas City, MO"
+      },
+      {
+        "link": "https://www.linkedin.com/in/devanshi-jain-59823023b?trk=public_profile_samename-profile",
+        "name": "Devanshi Jain",
+        "summary": "Rutgers University",
+        "location": "Piscataway, NJ"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Robust Design and Optimization of Turbo-machinery Compressors",
+        "sub_title": "The Catalyst",
+        "summary": "This research optimizes NASA\u2019s Energy Efficient Engine (EEE) High-Pressure Compressor (HPC) to improve efficiency and reduce costs in air transportation. Using Ansys and Computational Fluid Dynamics (CFD), factors like blade geometry and tip clearance were refined. The optimization increased the pressure ratio across the first four stages of the compressor, exceeding NASA\u2019s 1980 model by 12.5%.",
+        "date": "September 30, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fescholarship%2Eorg%2Fuc%2Fitem%2F8rs4v3pq&urlhash=6YF7&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Treehacks 2025 \ud83c\udf32",
+        "duration": "Feb 2025 - Feb 2025"
+      },
+      {
+        "title": "Coordinate Descent for Logistic Regression",
+        "duration": "Feb 2024 - Feb 2024"
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

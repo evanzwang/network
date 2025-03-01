@@ -1,0 +1,244 @@
+[
+  {
+    "fullName": "Cooper Gamble",
+    "linkedin_internal_id": "938289881",
+    "first_name": "Cooper",
+    "last_name": "Gamble",
+    "public_identifier": "cooper-gamble",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQEltY1rASDe_Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693930988804?e=2147483647&v=beta&t=0vwzqeA7S9nypyOcu_TsxWdrCrNPmnXw638dZWonFhc",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQF_eVhrDSBu8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719544888930?e=2147483647&v=beta&t=Qf6SqIuSkiiZUHRlMxzeJ62QK9ZQURlW3khjkv7GjwU",
+    "headline": "SWE @ Noise | CS + Physics @ USC",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "followers": "Issued May 2022",
+    "connections": "Issued May 2022",
+    "about": "Forever curious.",
+    "experience": [
+      {
+        "position": "Founding Engineer",
+        "company_url": "https://www.linkedin.com/company/noise-xyz?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQEaGe3QPhwHpw/company-logo_100_100/company-logo_100_100/0/1733858055012?e=2147483647&v=beta&t=CWEpZBlsRjHhepD_axktJ_66RZb3Aeq9B61faZMlF7A",
+        "company_name": "Noise Labs",
+        "location": "San Francisco, California, United States",
+        "summary": "",
+        "starts_at": "Jun 2024",
+        "ends_at": "Present",
+        "duration": "10 months"
+      },
+      {
+        "position": "Engineering Manager",
+        "company_url": "https://www.linkedin.com/company/develop-for-good?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHKP2Tu00J6Cw/company-logo_100_100/company-logo_100_100/0/1678590187185/develop_for_good_logo?e=2147483647&v=beta&t=oECb8Q1rJtBhDTGT32fApcEuIT6BRDWY-V-Pftdwj1c",
+        "company_name": "Develop for Good",
+        "location": null,
+        "summary": "",
+        "starts_at": "Apr 2024",
+        "ends_at": "Aug 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Radiology Informatics Intern",
+        "company_url": "https://www.linkedin.com/company/mayo-clinic?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGjjBAwJnHDFQ/company-logo_100_100/company-logo_100_100/0/1705432100531/mayo_clinic_logo?e=2147483647&v=beta&t=hCa8d36z7o9-V1up2liuyzncu2GTyaXE_o-byRz2q9E",
+        "company_name": "Mayo Clinic",
+        "location": "Rochester, MN",
+        "summary": "Conducting research on the frontiers of radiology and artificial intelligence under the mentorship of Dr. Shahriar Faghani and the supervision of Dr. Bradley Erickson.Paper Acceptances: Mayo Clinic AI Summit (poster), International Society for CT (poster and oral presentation), CMIMI (poster and oral presentation), ASFNR (poster and oral presentation), RSNA (oral presentation)",
+        "starts_at": "Sep 2022",
+        "ends_at": "Apr 2024",
+        "duration": "1 year 8 months"
+      },
+      {
+        "position": "Quantitative Developer",
+        "company_url": "https://www.linkedin.com/company/quant-sc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGLEbrbU8_lYg/company-logo_100_100/company-logo_100_100/0/1630657387910/quant_sc_logo?e=2147483647&v=beta&t=STVNPDFlMXiPljf_7m6SbLGoLZuutoAlX4IGOfpStCQ",
+        "company_name": "Quant SC",
+        "location": "Los Angeles, CA",
+        "summary": "Developed a high-frequency trading (HFT) platform with implementations of current state-of-the-art trading algorithms. Researched potential modifications to such approaches to improve financial outcomes.",
+        "starts_at": "Sep 2023",
+        "ends_at": "Feb 2024",
+        "duration": "6 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Southern California",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_100_100/company-logo_100_100/0/1631312619853?e=2147483647&v=beta&t=uv2J12HEewxyizWMwIblg7CO1XROk-nsuuljqXSZdb0",
+        "college_degree": "B.S.",
+        "college_degree_field": "Computer Science and Physics",
+        "college_duration": "2023 - 2026",
+        "college_activity": "Minor: Mathematical FinanceActivities: Blockchain@USC, HackSC, Marshall Case Team, Men's Crew (Vice President of Fundraising), QuantSC, Trojan Consulting Group, Trojan Investing Society (Leaders and Advanced Capstone)"
+      },
+      {
+        "college_url": null,
+        "college_name": "Mayo Senior High School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "Honors Diploma",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": "GPA: 4.9/4.0 (1 out of 411)Activities: MNCDL Debate (captain), NSDA Speech (captain), Science Olympiad (captain), Knowledge Bowl, Honors SocietyAwards: Valedictorian, Post Bulletin Top Graduate, NSDA Original Oratory Semifinalist, Section 1AA Original Oratory Champion, MN State Science Olympiad 3rd Place, MNCDL State Octafinalist"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Noise Labs",
+      "description1_link": "https://www.linkedin.com/company/noise-xyz?trk=public_profile_topcard-current-company",
+      "description2": "University of Southern California",
+      "description2_link": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_topcard-school",
+      "description3": "",
+      "description3_link": null
+    },
+    "activities": [],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=2147483647&v=beta&t=vp4S1CdWAEDKNBiUwoTX0pzkI5yBufFiX725BrWZyl8",
+        "certification": "JavaScript",
+        "company_url": "https://www.linkedin.com/company/hackerrank?trk=public_profile_profile-section-card_image-click",
+        "company_name": "HackerRank",
+        "issue_date": "Issued May 2022",
+        "credential_id": "Credential ID A85A092C0342",
+        "credential_url": "https://www.hackerrank.com/certificates/a85a092c0342?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=2147483647&v=beta&t=vp4S1CdWAEDKNBiUwoTX0pzkI5yBufFiX725BrWZyl8",
+        "certification": "Python",
+        "company_url": "https://www.linkedin.com/company/hackerrank?trk=public_profile_profile-section-card_image-click",
+        "company_name": "HackerRank",
+        "issue_date": "Issued May 2022",
+        "credential_id": "Credential ID 6F8DBA8EB9A3",
+        "credential_url": "https://www.hackerrank.com/certificates/6f8dba8eb9a3?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_100_100/company-logo_100_100/0/1631314320914?e=2147483647&v=beta&t=xsmjnhvklscAYNzuF4CPa9Ofjrr4KcZ4cGA3C5diFGo",
+        "certification": "Conflicts of Interest",
+        "company_url": "https://www.linkedin.com/company/citiprogram?trk=public_profile_profile-section-card_image-click",
+        "company_name": "CITI Program",
+        "issue_date": "Issued Jul 2023\n                    \n                      \n                        Expires Jul 2027",
+        "credential_id": "Credential ID 57165501",
+        "credential_url": "https://www.citiprogram.org/verify/?w889a86ae-7ac0-4720-96aa-a3cac6f5dc8d-57165501&trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_100_100/company-logo_100_100/0/1631314320914?e=2147483647&v=beta&t=xsmjnhvklscAYNzuF4CPa9Ofjrr4KcZ4cGA3C5diFGo",
+        "certification": "Data or Specimens Only Research",
+        "company_url": "https://www.linkedin.com/company/citiprogram?trk=public_profile_profile-section-card_image-click",
+        "company_name": "CITI Program",
+        "issue_date": "Issued Jul 2023\n                    \n                      \n                        Expires Jul 2026",
+        "credential_id": "Credential ID 57165506",
+        "credential_url": "https://www.citiprogram.org/verify/?w2a006c1c-af26-44fe-affc-f47e75277b55-57165506&trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/cooper-gamble-029a3927b?trk=public_profile_samename-profile",
+        "name": "Cooper Gamble",
+        "summary": "Student at The University of Staffordshire/ Automotive & Motorsport Engineer",
+        "location": "El Segundo, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cooper-gamble-851b82102?trk=public_profile_samename-profile",
+        "name": "Cooper Gamble",
+        "summary": "United States Marine Corps Rifleman",
+        "location": "Livermore, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cooper-gamble-8a3000295?trk=public_profile_samename-profile",
+        "name": "Cooper Gamble",
+        "summary": "Student at Embry-Riddle Aeronautical University",
+        "location": "Daytona Beach, FL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cooper-gamble-986695334?trk=public_profile_samename-profile",
+        "name": "Cooper Gamble",
+        "summary": "--",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Uncover This Tech Term: Uncertainty Quantification for Deep Learning",
+        "sub_title": "Korean Journal of Radiology",
+        "summary": "",
+        "date": "March 20, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdoi%2Eorg%2F10%2E3348%2Fkjr%2E2024%2E0108&urlhash=kDtk&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Toward Clinically Trustworthy Deep Learning: Applying Conformal Prediction to Intracranial Hemorrhage Detection",
+        "sub_title": "arXiv Preprint",
+        "summary": "",
+        "date": "January 16, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdoi%2Eorg%2F10%2E48550%2FarXiv%2E2401%2E08058&urlhash=WnOe&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Synthetically Enhanced: Unveiling Synthetic Data's Potential in Medical Imaging Research",
+        "sub_title": "arXiv Preprint",
+        "summary": "",
+        "date": "November 15, 2023",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdoi%2Eorg%2F10%2E48550%2FarXiv%2E2311%2E09402&urlhash=aWis&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Run for Ukraine",
+        "link": "https://www.linkedin.com/in/marc-zoghby?trk=public_profile_project_contributor-image",
+        "duration": "Jun 2022 - Sep 2022"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/marc-zoghby?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/william-laudon-959434207?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "Run for Lebanon",
+        "link": "https://www.linkedin.com/in/marc-zoghby?trk=public_profile_project_contributor-image",
+        "duration": "Jun 2021 - Sep 2021"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/marc-zoghby?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/william-laudon-959434207?trk=public_profile_project_contributor-image",
+        "duration": ""
+      }
+    ],
+    "awards": [
+      {
+        "name": "Harvard Undergraduate Trading Competition - 2nd Place",
+        "organization": "Harvard Undergraduate Quantitative Traders",
+        "duration": "Mar 2024",
+        "summary": "Placed second among 36 teams at Harvard's first QT competition by trading on a mock exchange across four math- and statistics-based games."
+      },
+      {
+        "name": "RSNA Fast 5 Speaker",
+        "organization": "Radiological Society of North America",
+        "duration": "Aug 2023",
+        "summary": "Selected as the youngest-ever Fast 5 speaker at the prestigious 2023 RSNA \"Leading Through Change\" conference."
+      },
+      {
+        "name": "Coca Cola Scholarship Finalist",
+        "organization": "Coca Cola Scholars Foundation",
+        "duration": "Jan 2023",
+        "summary": "Selected among 250 applicants out of more than 91,000 to advance to the final stage of the Coca Cola Scholarship."
+      },
+      {
+        "name": "USA Computing Olympiad Gold Division Qualifier",
+        "organization": "USACO",
+        "duration": "Feb 2022",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

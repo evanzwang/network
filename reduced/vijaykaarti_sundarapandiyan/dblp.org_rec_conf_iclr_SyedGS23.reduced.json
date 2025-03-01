@@ -1,0 +1,381 @@
+{
+  "title": "dblp: Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models.",
+  "meta_description": "Bibliographic details on Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models.",
+  "main_content": "default search action combined dblp search author search venue search publication search Authors: no matches Venues: no matches Publications: no matches ask others Google Google Scholar Semantic Scholar Internet Archive Scholar CiteSeerX ORCID > Home \u26a0 Please note that this publication does not have a DOI. Therefore, DOI-based queries won't return any results. run query for this record referenced publications cited by publications co-cited publications citing venues co-cited venues or build your own? DOI: \u2014 access: open type: Conference or Workshop Paper metadata version: 2024-07-24 Open Alex Aaquib Syed , Phillip Huang Guo , Vijaykaarti Sundarapandiyan : Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models. Tiny Papers @ ICLR 2023 Please note: Providing information about references and citations is only possible thanks to to the open metadata APIs provided by crossref.org and opencitations.net . If citation data of your publications is not openly available yet, then please consider asking your publisher to release your citation data to the public. For more information please see the Initiative for Open Citations (I4OC) . Please also note that there is no way of submitting missing references or citation data directly to dblp. Please also note that this feature is work in progress and that it is still far from being perfect. That is, in particular, the lists below may be incomplete due to unavailable citation data, reference strings may not have been successfully mapped to the items listed in dblp, and we do not have complete and curated metadata for all items given in these lists. JavaScript is requires in order to retrieve and display any references and citations for this record. manage site settings To protect your privacy, all features that rely on external API calls from your browser are turned off by default . You need to opt-in for them to become active. All settings here will be stored as cookies with your web browser. For more information see our F.A.Q. Unpaywalled article links Add open access links from to the list of external document links (if available). load links from unpaywall.org Privacy notice: By enabling the option above, your browser will contact the API of unpaywall.org to load hyperlinks to open access articles. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Unpaywall privacy policy . Archived links via Wayback Machine For web page which are no longer available, try to retrieve content from the of the Internet Archive (if available). load content from archive.org Privacy notice: By enabling the option above, your browser will contact the API of archive.org to check for archived content of web pages that are no longer available. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Internet Archive privacy policy . Reference lists Add a list of references from , , and to record detail pages. load references from crossref.org and opencitations.net Privacy notice: By enabling the option above, your browser will contact the APIs of crossref.org , opencitations.net , and semanticscholar.org to load article reference information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Crossref privacy policy and the OpenCitations privacy policy , as well as the AI2 Privacy Policy covering Semantic Scholar. Citation data Add a list of citing articles from and to record detail pages. load citations from opencitations.net Privacy notice: By enabling the option above, your browser will contact the API of opencitations.net and semanticscholar.org to load citation information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the OpenCitations privacy policy as well as the AI2 Privacy Policy covering Semantic Scholar. OpenAlex data Load additional information about publications from . load data from openalex.org Privacy notice: By enabling the option above, your browser will contact the API of openalex.org to load additional information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the information given by OpenAlex . last updated on 2024-07-24 16:50 CEST by the dblp team all metadata released as open data under CC0 1.0 license see also: Terms of Use | Privacy Policy | Imprint dblp was originally created in 1993 at: since 2018, dblp has been operated and maintained by: the dblp computer science bibliography is funded and supported by:",
+  "links": [
+    {
+      "url": "https://www.dagstuhl.de/en",
+      "text": ""
+    },
+    {
+      "url": "https://sparql.dblp.org",
+      "text": "dblp SPARQL query service"
+    },
+    {
+      "url": "https://blog.dblp.org/2024/09/09/introducing-our-public-sparql-query-service/",
+      "text": "our latest blog post"
+    },
+    {
+      "url": "https://google.com/search?q=",
+      "text": ""
+    },
+    {
+      "url": "https://google.com/search?q=",
+      "text": "Google"
+    },
+    {
+      "url": "https://scholar.google.com/scholar?q=",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://www.semanticscholar.org/search?q=",
+      "text": "Semantic Scholar"
+    },
+    {
+      "url": "https://scholar.archive.org/search?q=",
+      "text": "Internet Archive Scholar"
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/search_result?query=",
+      "text": "CiteSeerX"
+    },
+    {
+      "url": "https://orcid.org/orcid-search/search?searchQuery=",
+      "text": "ORCID"
+    },
+    {
+      "url": "https://dblp.org",
+      "text": "Home"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Publications+referenced+in+conf%2Ficlr%2FSyedGS23%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+schema%3A+%3Chttps%3A%2F%2Fschema.org%2F%3E%0ASELECT+%3Flabel+%3Fyear+%28%3Fref+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+%3Furl+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D%0A++%3Fpubl+dblp%3Aomid+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fref_omid+.%0A++OPTIONAL+%7B%0A++++%3Fref+dblp%3Aomid+%3Fref_omid+.%0A++++%3Fref+rdfs%3Alabel+%3Flabel+.%0A++++OPTIONAL+%7B+%3Fref+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++++OPTIONAL+%7B+%3Fref+dblp%3Adoi+%3Fdois+.+%7D%0A++%7D%0A++OPTIONAL+%7B+%3Fref_omid+schema%3Aurl+%3Furl+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fref+%3Fyear+%3Furl%0AORDER+BY+DESC%28%3Fyear%29",
+      "text": "referenced publications"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Publications+citing+conf%2Ficlr%2FSyedGS23%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+schema%3A+%3Chttps%3A%2F%2Fschema.org%2F%3E%0ASELECT+%3Flabel+%3Fyear+%28%3Fciting+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+%3Furl+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D%0A++%3Fpubl+dblp%3Aomid+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fciting_omid+.%0A++OPTIONAL+%7B%0A++++%3Fciting+dblp%3Aomid+%3Fciting_omid+.%0A++++%3Fciting+rdfs%3Alabel+%3Flabel+.%0A++++OPTIONAL+%7B+%3Fciting+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++++OPTIONAL+%7B+%3Fciting+dblp%3Adoi+%3Fdois+.+%7D%0A++%7D%0A++OPTIONAL+%7B+%3Fciting_omid+schema%3Aurl+%3Furl+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fciting+%3Furl%0AORDER+BY+DESC%28%3Fyear%29",
+      "text": "cited by publications"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Frequently+co-cited+publications+of+conf%2Ficlr%2FSyedGS23%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+schema%3A+%3Chttps%3A%2F%2Fschema.org%2F%3E%0ASELECT+%3Flabel+%3Fyear+%28COUNT%28DISTINCT+%3Fother_cite%29+AS+%3Ffreq%29+%28%3Fother_publ+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+%3Furl+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D+.%0A++%3Fpubl+dblp%3Aomid+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fpubl_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER+%28+%3Fpubl_omid+%21%3D+%3Fother_omid+%29+.%0A++OPTIONAL+%7B%0A++++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++++%3Fother_publ+rdfs%3Alabel+%3Flabel+.%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3Adoi+%3Fdois+.+%7D%0A++%7D%0A++OPTIONAL+%7B+%3Fother_omid+schema%3Aurl+%3Furl+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fother_publ+%3Furl%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10",
+      "text": "co-cited publications"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Venues+citing+conf%2Ficlr%2FSyedGS23%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fvenue+%28%3Fstream+as+%3Fdblp%29+%28COUNT%28DISTINCT+%3Fcite%29+AS+%3Fcites%29+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D%0A++%3Fpubl+dblp%3Aomid+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fsource+dblp%3Aomid+%3Fsource_omid+.%0A++%3Fsource+dblp%3ApublishedInStream+%3Fstream+.%0A++%3Fstream+rdfs%3Alabel+%3Fvenue+.%0A%7D%0AGROUP+BY+%3Fvenue+%3Fstream%0AORDER+BY+DESC%28%3Fcites%29%0ALIMIT+10",
+      "text": "citing venues"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Venues+frequently+co-cited+with+conf%2Ficlr%2FSyedGS23%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fcocited_venue+%28%3Fstream+as+%3Fdblp%29+%28COUNT%28DISTINCT+%3Fsource_omid%29+AS+%3Fcommon_cites%29+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D%0A++%3Fpubl+dblp%3Aomid+%3Fpubl_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fpubl_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER+%28+%3Fpubl_omid+%21%3D+%3Fother_omid+%29+.%0A++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++%3Fother_publ+dblp%3ApublishedInStream+%3Fstream+.%0A++%3Fstream+rdfs%3Alabel+%3Fcocited_venue+.%0A%7D%0AGROUP+BY+%3Fcocited_venue+%3Fstream+%3Fother_publ+%3Fother_omid%0AORDER+BY+DESC%28%3Fcommon_cites%29%0ALIMIT+10",
+      "text": "co-cited venues"
+    },
+    {
+      "url": "https://sparql.dblp.org?query=SELECT+%2A+WHERE+%7B%0A++VALUES+%3Fpubl+%7B+%3Chttps%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23%3E+%7D+.%0A%0A%7D",
+      "text": "or build your own?"
+    },
+    {
+      "url": "https://dblp.org/pid/351/7466.html",
+      "text": "Aaquib Syed"
+    },
+    {
+      "url": "https://dblp.org/pid/351/7513.html",
+      "text": "Phillip Huang Guo"
+    },
+    {
+      "url": "https://dblp.org/pid/351/7481.html",
+      "text": "Vijaykaarti Sundarapandiyan"
+    },
+    {
+      "url": "https://dblp.org/db/conf/iclr/iclr2023tiny.html#SyedGS23",
+      "text": "Tiny Papers @ ICLR 2023"
+    },
+    {
+      "url": "https://github.com/CrossRef/rest-api-doc",
+      "text": "crossref.org"
+    },
+    {
+      "url": "http://opencitations.net/index/api/v1/",
+      "text": "opencitations.net"
+    },
+    {
+      "url": "https://i4oc.org",
+      "text": "Initiative for Open Citations (I4OC)"
+    },
+    {
+      "url": "https://dblp.org/faq/15696107",
+      "text": "see our F.A.Q."
+    },
+    {
+      "url": "https://unpaywall.org",
+      "text": ""
+    },
+    {
+      "url": "http://unpaywall.org/legal/privacy",
+      "text": "Unpaywall privacy policy"
+    },
+    {
+      "url": "https://web.archive.org",
+      "text": ""
+    },
+    {
+      "url": "https://archive.org/about/terms.php",
+      "text": "Internet Archive privacy policy"
+    },
+    {
+      "url": "https://crossref.org",
+      "text": ""
+    },
+    {
+      "url": "https://opencitations.net",
+      "text": ""
+    },
+    {
+      "url": "https://semanticscholar.org",
+      "text": ""
+    },
+    {
+      "url": "https://www.crossref.org/privacy/",
+      "text": "Crossref privacy policy"
+    },
+    {
+      "url": "https://opencitations.net/about",
+      "text": "OpenCitations privacy policy"
+    },
+    {
+      "url": "https://allenai.org/privacy-policy",
+      "text": "AI2 Privacy Policy"
+    },
+    {
+      "url": "https://opencitations.net",
+      "text": ""
+    },
+    {
+      "url": "https://semanticscholar.org",
+      "text": ""
+    },
+    {
+      "url": "https://opencitations.net/about",
+      "text": "OpenCitations privacy policy"
+    },
+    {
+      "url": "https://allenai.org/privacy-policy",
+      "text": "AI2 Privacy Policy"
+    },
+    {
+      "url": "https://openalex.org",
+      "text": ""
+    },
+    {
+      "url": "https://openalex.org/about",
+      "text": "OpenAlex"
+    },
+    {
+      "url": "https://validator.w3.org/nu/?doc=https%3A%2F%2Fdblp.org%2Frec%2Fconf%2Ficlr%2FSyedGS23.html&showoutline=yes&checkerrorpages=yes",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/db/about/team.html",
+      "text": "dblp team"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "text": ""
+    },
+    {
+      "url": "https://opendefinition.org/",
+      "text": "open data"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "text": "CC0 1.0 license"
+    },
+    {
+      "url": "https://dblp.org/db/about/copyright.html",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://dblp.org/db/about/privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://dblp.org/db/about/imprint.html",
+      "text": "Imprint"
+    },
+    {
+      "url": "https://www.uni-trier.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.dagstuhl.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.bmbf.de/bmbf/en/home/",
+      "text": ""
+    },
+    {
+      "url": "https://mwg.rlp.de/",
+      "text": ""
+    },
+    {
+      "url": "https://www.saarland.de/stk/DE/home/home_node.html",
+      "text": ""
+    },
+    {
+      "url": "https://www.leibniz-gemeinschaft.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.dfg.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.nfdi.de/?lang=en",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://dblp.org/img/lzi-logo.82x57.png",
+      "alt": "Schloss Dagstuhl - Leibniz Center for Informatics"
+    },
+    {
+      "src": "https://dblp.org/img/logo.320x120.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/search.dark.16x16.png",
+      "alt": "search dblp"
+    },
+    {
+      "src": "https://dblp.org/img/search.dark.16x16.png",
+      "alt": "search dblp"
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/clear-mark.medium.16x16.png",
+      "alt": "clear"
+    },
+    {
+      "src": "https://dblp.org/img/search-external.dark.hollow.16x16.png",
+      "alt": "ask others"
+    },
+    {
+      "src": "https://dblp.org/img/google.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/google-scholar.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/semscholar.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/internetarchive.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/citeseer.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/orcid.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/oa.color.12x12.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/cog.dark.24x24.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/unpaywall-logo.80x16.png",
+      "alt": "unpaywall.org"
+    },
+    {
+      "src": "https://dblp.org/img/wayback-logo.72x14.png",
+      "alt": "web.archive.org"
+    },
+    {
+      "src": "https://dblp.org/img/crossref-logo.60x15.png",
+      "alt": "crossref.org"
+    },
+    {
+      "src": "https://dblp.org/img/opencitations-logo.112x14.png",
+      "alt": "opencitations.net"
+    },
+    {
+      "src": "https://dblp.org/img/semanticscholar-logo.128x16.png",
+      "alt": "semanticscholar.org"
+    },
+    {
+      "src": "https://dblp.org/img/opencitations-logo.112x14.png",
+      "alt": "opencitations.net"
+    },
+    {
+      "src": "https://dblp.org/img/semanticscholar-logo.128x16.png",
+      "alt": "semanticscholar.org"
+    },
+    {
+      "src": "https://dblp.org/img/openalex-logo.69x18.png",
+      "alt": "openalex.org"
+    },
+    {
+      "src": "https://dblp.org/img/w3c-valid-html.80x15.gray.png",
+      "alt": "w3c valid html"
+    },
+    {
+      "src": "https://dblp.org/img/cc0.80x15.black.png",
+      "alt": "cc zero"
+    },
+    {
+      "src": "https://dblp.org/img/utr-logo-bottom.png",
+      "alt": "University of Trier"
+    },
+    {
+      "src": "https://dblp.org/img/lzi-logo-bottom.png",
+      "alt": "Schloss Dagstuhl - Leibniz Center for Informatics"
+    },
+    {
+      "src": "https://dblp.org/img/bmbf-logo-bottom.png",
+      "alt": "BMBF"
+    },
+    {
+      "src": "https://dblp.org/img/rlp-logo-bottom.png",
+      "alt": "RLP"
+    },
+    {
+      "src": "https://dblp.org/img/sl-logo-bottom.png",
+      "alt": "SL"
+    },
+    {
+      "src": "https://dblp.org/img/leibniz-logo-bottom.png",
+      "alt": "Leibniz"
+    },
+    {
+      "src": "https://dblp.org/img/dfg-logo-bottom.png",
+      "alt": "DFG"
+    },
+    {
+      "src": "https://dblp.org/img/nfdi-logo-bottom.png",
+      "alt": "NFDI"
+    }
+  ]
+}

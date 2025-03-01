@@ -1,0 +1,37 @@
+{
+  "title": "Anirudh Kotamraju",
+  "meta_description": "I'm Anirudh, an undergraduate studying Computer Science at UC Berkeley.",
+  "main_content": "Anirudh Kotamraju Computer Science @ UC Berkeley projects github linkedin photos Hey! \ud83d\udc4b I\u2019m Anirudh. I\u2019m an undergraduate studying Computer Science at UC Berkeley. I love working on challenging computational problems and building elegant software. Most of my experience has been in machine learning, full stack web development, and security, but I\u2019m always eager to explore new areas of computing. Currently, I\u2019m doing research at the UC Berkeley Space Sciences Lab, where I\u2019m developing deep learning models for Compton telescope image generation. Previously, I\u2019ve worked on full stack development at Amazon, automated cyberattack detection at Lawrence Livermore National Laboratory, cloud infrastructure at One Convergence, and computational astrophysics at UC Santa Cruz. Feel free to check out some of the photos I've taken or contact me anytime!",
+  "links": [
+    {
+      "url": "Projects",
+      "text": "projects"
+    },
+    {
+      "url": "https://github.com/22anirudhk",
+      "text": "github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anirudhkotamraju/",
+      "text": "linkedin"
+    },
+    {
+      "url": "https://photos.anirudhkotamraju.com",
+      "text": "photos"
+    },
+    {
+      "url": "https://photos.anirudhkotamraju.com",
+      "text": "photos"
+    },
+    {
+      "url": "mailto:hi@anirudhkotamraju.com",
+      "text": "contact"
+    }
+  ],
+  "images": [
+    {
+      "src": "util/Anirudh-fall.jpg",
+      "alt": "profile-picture"
+    }
+  ]
+}

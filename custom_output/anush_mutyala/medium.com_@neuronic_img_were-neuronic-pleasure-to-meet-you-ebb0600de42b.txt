@@ -1,0 +1,145 @@
+            [Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Febb0600de42b&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------)
+                  Sign up
+                    [Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40neuronic_img%2Fwere-neuronic-pleasure-to-meet-you-ebb0600de42b&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+                      Write
+                              We’re Neuronic…Pleasure to Meet You!
+                              By Anush Mutyala and Mikael Haji
+                                                          [Neuronic 🧠](/@neuronic_img?source=post_page---byline--ebb0600de42b---------------------------------------)
+                                                    ·
+                                                      [Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F90f5ca454400&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40neuronic_img%2Fwere-neuronic-pleasure-to-meet-you-ebb0600de42b&user=Neuronic+%F0%9F%A7%A0&userId=90f5ca454400&source=post_page-90f5ca454400--byline--ebb0600de42b---------------------post_header------------------)
+                                                  6 min read
+                                                  Apr 29, 2022
+                                                --
+                                                            Listen
+                                                  Share
+                              Imagine a world where mental diseases of the brain could be triaged and diagnosed effectively in minutes. What if we could upload our memories as a collection of videos and images to the cloud? What would happen if we increased our brain bandwidth and enabled our species to learn
+                                anything
+                                in a matter of seconds? What if we improved the quality of human communication by transcending speech and text modalities via enhanced communication throughput?
+                            This is a future that every neurotech enthusiast envisions, from the bedroom scientists to the Elon Musks: “
+                                The BCI Future
+                              .” Millions of dollars in public and private funding for academic and industrial innovation of neurotechnology have bolstered these visions.
+                              “Human Intelligence may be the largest market in history”
+                              ;
+                                  [Bryan Johnson](https://medium.com/u/35c4d6050746?source=post_page---user_mention--ebb0600de42b---------------------------------------)
+                              , one of the many trailblazing visionaries in this space expects to raise
+                              $1B to build the next-generation neuroimaging tools necessary to enable this idealized future.
+                            However, you may ask, why do we need new tools in the first place? If you are fond of your average hospital facility, you may be aware of technologies like MRIs and EEGs that are capable of imaging the brain already.
+                              Why not just use these techniques to build the Matrix in real life?
+                            We will go into the nitty-gritty details on why not.
+                            But first— a quick introduction.
+                              Anush Multyala (16 y/o) @ ETH Denver w/ Vitalik Buterin (Founder of Ethereum)
+                              Mikael Haji (16 y/o) Speaking @ Global Citizen Forum Dubai on State-of-Play in Neurotech
+                            We,
+                              [Mikael Haji](https://mikaelhaji.com/)
+                              and
+                              [Anush Mutyala](https://www.anushmutyala.com/#home)
+                              are two Brain-Computer Interface developers who have been working in the BCI field for the past 2 years now. We started off in the field building 15+ Projects in the space (
+                              [Content Capture](https://github.com/anmutechsupport/content-capture)
+                              ,
+                              [Motor Imagery](https://github.com/mikaelhaji/MotorImagery)
+                              etc.), winning various hackathons (
+                              [Emotiv](https://www.linkedin.com/feed/update/urn:li:activity:6837065352879345664/)
+                              :
+                                  [EMOTIV](https://medium.com/u/2fbfe0739a41?source=post_page---user_mention--ebb0600de42b---------------------------------------)
+                                  [Neurable Inc.](https://medium.com/u/436e34074f10?source=post_page---user_mention--ebb0600de42b---------------------------------------)
+                              etc.), as well as writing various academic/white papers etc.
+                            After a year of working together, we decided to split up to work on two fundamental pathways in neurotech:
+                                Hardware [
+                                ]:
+                                Working on iterating on
+                                [functional ultrasound imaging modalities](/@mikaelhaji/basic-principles-of-doppler-ultrasound-9920f6fbc596)
+                                (specifically specialized in data acquisition part of the pipeline w/
+                                [transducer](https://twitter.com/mikaelhaji/status/1480056042214117380)
+                                design)
+                                Software [
+                                ]
+                                : Worked on bringing clinical neuromarkers to the masses at
+                                [Divergence Neuro](https://www.divergenceneuro.com/)
+                                and built
+                                [NeuraDAO](https://www.neuradao.co/)
+                                to solve data siloing in neuroimaging via web3
+                            Currently,
+                              with Neuronic
+                              , we have decided to come back together to work on increasing the derivative of innovation and growth in neurotech by:
+                                Creating a paradigm shift in how we read and write to the brain by iterating on current neuroimaging tools full-stack from the atom to the machine learning.
+                            State of Play of Neurotech | Where Current Technologies Fall Short?
+                            Currently, the range of neuroimaging technologies falls on a bi-dimensional map with the two axes being two resolutions: temporal and spatial.
+                              Bi-Dimensional Map Outlining the State of Current Tools in Neurotech
+                            On this graph, we see our familiar MRI and EEG up on the right.
+                                This isn’t a good sign.
+                              Higher temporal resolution indicates that it takes longer for the technology to measure neural activity, and higher spatial resolution means that the imaging technology samples data from larger chunks of the brain.
+                            The average neuron fires every 0.1 seconds, and at its largest, a neuron can have a cell body of 0.1mm. In a world where we fulfill the potential of brain-machine interfaces (Matrix, brain2brain comms, etc.), we want to read a signal from every single neuron in our brain with a temporal resolution that accounts for every action potential of a neuron: create a whole-brain interface. Clearly, EEGs and MRIs don’t cut it. The technologies in the red, on the other hand, seem to align much more with the BCI reality, however, in reality, they too are quite far from this idealized future.
+                              “The problem with current tools is that it paints only broad strokes of brain activity, like a series of satellite images over a hurricane that shows the storm moving but not the formation and disruption of individual clouds.”
+                              - Mikael @ Global Citizen Forum ‘21
+                              Mikael Haji (16y/o) @ Global Citizen Forum ’21 | Talk on the Importance of Building Next-Gen Tools
+                            The Objective Checkpoint to Get to the “BCI Future”
+                            To get to the idealized
+                              “BCI Future”
+                              that everyone is hoping for, we must be able to measure the brain on a neuronal level at a very high throughput & field of view.
+                            To get to that level of sophistication in the Neurotech field, there needs to be a wide array of technological improvements.
+                            Putting into perspective what measuring every single neuron in our brains looks like:
+                              An average cubic millimetre of cortex contains about 40,000 neurons
+                              Each neuron has synaptic connections to as many as 1,000 — sometimes as high as 10,000 — other neurons. With around 20 billion neurons in the cortex, that means there are
+                                over 20 trillion individual neural connections in the cortex (and as high as a quadrillion connections in the entire brain)
+                                .
+                              Due to neuroplasticity, the voltages of each neuron would be constantly changing, as many as hundreds of times per second. And the tens of millions of synapse connections in our cortex would be regularly altering sizes, disappearing, and reappearing
+                              The milestone to make significant headway with every neurotech enthusiast’s dream is to
+                                  reach a point where we can simultaneously read from 1 million individual neurons.
+                              Stevenson’s Law —
+                                  The Moore’s Law of Neurotech
+                                Stevenson’s law
+                              is basically the
+                                “Moore’s law of Neurotech,”
+                              graphing the number of neurons simultaneously recorded over time.
+                            As of right now, we are doubling every
+                              7.4 years.
+                              At this rate, we will reach the 1-million-neuron goal by the end of the century.
+                              We want to give the neurotech industry steroids; Stevenson’s law should mirror Moore’s.
+                            To fulfill the BCI future in our lifetimes, we want to create a completely different
+                              framework for reading and writing to the brain.
+                            Coming back to us and our work with Neuronic….
+                            What both of us realized as we continued working in this field, reading state of the art research papers, and talking to fellow enthusiasts, was that reaching the ubiquitous BCI was not a matter of finding the best application of the technology but rather a matter of
+                              just making
+                                the tool
+                                better.
+                              Just like how the breakthroughs in computer hardware caused the software industry to explode, the intelligence-enhancing, matrix-tier solutions will only bloom once we make breakthroughs in neuroimaging. Now the question becomes…
+                              What is the tool to iterate on? Does it already exist? Are we yet to conceive of it?
+                            These are the most pressing questions of the neurotech industry. Progress in this space is stunted by the quality of brain data we can get our hands on. Stagnancy is found in both academia and industry because of the current technological norms. Neurotech research projects fail to unlock novel insights with real significance, and downstream, application-oriented neurotech startups struggle to provide solutions that have competitive value propositions in relation to simpler alternatives. The
+                              killer app
+                              of neural interfaces can’t be discovered unless the fundamental questions of what tool will bring us to the BCI future are answered.
+                              We’ve taken on the journey to answer these questions ourselves.
+                              Tim Urban’s Rough Outline on Neuralink’s Formula
+                            Our current path to reach the idealized future of Neurotech is roughly similar to the one Tim Urban outlined in his
+                                  [Wait But Why](https://medium.com/u/e83b30f809db?source=post_page---user_mention--ebb0600de42b---------------------------------------)
+                              Post titled, “Neuralink and the Brain’s Magical Future.”
+                              At Neuronic, we are on the path of:
+                                  Developing Cutting-Edge BMIs
+                                  to Increase the Derivative of Innovation and Growth in Neurotechnlogy.
+                            We cannot do this alone, so we wanted to reach out and give a formal introduction. We are sole believers that each and every one of you reading this article today can drastically change the outlook of our project, and we would love to have a conversation with you.
+                              The future of neurotech is a long and enjoyable journey; come along for the show.
+                            We want to talk to you! Sign up for a Quick Meeting using this Link:
+                              [https://calendly.com/neuronic/30min](https://calendly.com/neuronic/30min)
+                            For those who want updates a bit faster, check out our
+                              [Twitter](https://twitter.com/neuronic_img)
+                              or feel free to email us at
+                              [mikael@neuronic.ca](mailto:mikael@neuronic.ca)
+                    Neurotech
+                    Brain Computer Interface
+                    Neuralink
+                    Kernel
+                    Neuroscience
+                          Written by
+                            [14 Followers](/@neuronic_img/followers?source=post_page---post_author_info--ebb0600de42b---------------------------------------)
+                          [1 Following](/@neuronic_img/following?source=post_page---post_author_info--ebb0600de42b---------------------------------------)
+                          Increasing the Derivative of Innovation and Growth in Neurotech 🧠
+                  No responses yet
+                        Help
+                        Status
+                        About
+                        Careers
+                        Press
+                        Blog
+                        Privacy
+                        Terms
+                        Text to speech
+                        Teams

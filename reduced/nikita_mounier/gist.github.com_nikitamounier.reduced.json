@@ -1,0 +1,405 @@
+{
+  "title": "nikitamounier\u2019s gists \u00b7 GitHub",
+  "meta_description": "GitHub Gist: star and fork nikitamounier's gists by creating an account on GitHub.",
+  "main_content": "Instantly share code, notes, and snippets. Nikita Mounier nikitamounier 23 followers \u00b7 9 following University of Pennsylvania, M&T London nikitamounier.github.io X @nikitamounier LinkedIn in/nikita-mounier-b80539216 View GitHub Profile Sort Recently created Least recently created Recently updated Least recently updated 2 files 0 forks 0 comments 0 stars nikitamounier / Code_Weight.ipynb Created April 17, 2022 17:10 Loading Sorry, something went wrong. Reload? Sorry, we cannot display this file. Sorry, this file is invalid so it cannot be displayed. Viewer requires iframe. 1 file 0 forks 0 comments 0 stars nikitamounier / csv.swift Created January 7, 2022 16:59 CSV <-> Array<OrderedDictionary> /* In Computer Science class I was tasked with writing a function takes a raw CSV table and returns a list of OrderedDictionaries and vice versa \u2013 but in Python. It felt messy, convoluted and slow, so I wanted to what it would look like in Swift, especially with Pointfree's swift-parsing library and their experimental parser-builder branch. This is as high performance as possible while using the swift-parsing library. Consequently, this doesn't support special characters such as \u00e9 or \u00e6 due to the use of UTF8 code units. */ import Algorithms import OrderedCollections import Parsing 1 file 0 forks 0 comments 0 stars nikitamounier / isEven.swift Created December 21, 2021 23:38 More efficient way of detecting parity extension BinaryInteger { @ inlinable var isOdd : Bool { return withUnsafePointer ( to : self & 1 ) { pointer in return UnsafeRawPointer ( pointer ) . bindMemory ( to : Bool . self , capacity : 1 ) . pointee } } 1 file 0 forks 0 comments 1 star nikitamounier / PredicateSet.swift Created October 25, 2021 10:18 A simple PredicateSet type, with only one property of type (Element) -> Bool, which (nearly) conforms to SetAlgebra. struct PredicateSet < Element : Equatable > { var contains : ( Element ) -> Bool init ( _ contains : @escaping ( Element ) -> Bool ) { self . contains = contains } } extension PredicateSet : SetAlgebra { init ( ) { 1 file 0 forks 0 comments 1 star nikitamounier / FrenchTCA.md Last active April 6, 2023 08:27 A French translation of The Composable Architecture's README.md The Composable Architecture The Composable Architecture (TCA, pour faire court) est une biblioth\u00e8que permettant de construire des applications de mani\u00e8re coh\u00e9rente et compr\u00e9hensible, en tenant compte de la composition, des tests et de l'ergonomie. Elle peut \u00eatre utilis\u00e9e avec SwiftUI, UIKit, et encore, et sur toutes les plateformes Apple (iOS, ma 1 file 0 forks 0 comments 0 stars nikitamounier / Indirect.swift Created May 9, 2021 12:16 /// Property wrapper to introduce indirection into your property. /// /// Indirection is very useful to introduce recursion into `structs`, which don't usually support it. This is very similar to using the `indirect` modifier on enum cases. /// /// struct Person: Identifiable { /// let id = UUID() /// /// @Indirect var father: Person? /// @Indirect var mother: Person? /// } 1 file 0 forks 0 comments 0 stars nikitamounier / CopyOnWrite.swift Last active April 3, 2021 16:03 Protocol to easily implement copy-on-write behaviour for your large value types. protocol Copyable { func copy ( ) -> Self } /// A protocol for value types which gives them copy-on-write behaviour. This means that when multiple variables are pointing to the type, they point to the same underlying data to avoid excessive copying. When one of them modifies the type, it copies the type, therefore keeping value semantics. @ dynamicMemberLookup protocol CopyOnWrite { associatedtype Storage : AnyObject & Copyable /// The underlying storage of the type, which is a reference type. 1 file 0 forks 0 comments 0 stars nikitamounier / BuilderPattern.swift Last active March 4, 2021 17:19 Implementation of builder pattern using Swift's powerful keypaths /// Simple protocol which types who want to implement builder pattern conform to for free \u2013 gives conforming types two simple functions for building protocol Buildable { } extension Buildable { /// Returns a new instance whose property defined by the keypath is set to `value`. /// - Parameters: /// - keyPath: `WriteableKeyPath` to the property which shall be modified /// - value: The value which will be set to the property /// /// This function is used for types with value semantics.",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2Fnikitamounier",
+      "text": "Sign\u00a0in"
+    },
+    {
+      "url": "/join?return_to=https%3A%2F%2Fgist.github.com%2Fnikitamounier&source=header-gist",
+      "text": "Sign\u00a0up"
+    },
+    {
+      "url": "https://avatars.githubusercontent.com/u/36044205?v=4",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/nikitamounier?tab=followers",
+      "text": "23\n          followers"
+    },
+    {
+      "url": "https://github.com/nikitamounier?tab=following",
+      "text": "9\n          following"
+    },
+    {
+      "url": "http://nikitamounier.github.io",
+      "text": "nikitamounier.github.io"
+    },
+    {
+      "url": "https://twitter.com/nikitamounier",
+      "text": "@nikitamounier"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nikita-mounier-b80539216/",
+      "text": "in/nikita-mounier-b80539216"
+    },
+    {
+      "url": "https://github.com/nikitamounier",
+      "text": "View GitHub Profile"
+    },
+    {
+      "url": "https://gist.github.com/nikitamounier?direction=desc&sort=created",
+      "text": "Recently created"
+    },
+    {
+      "url": "https://gist.github.com/nikitamounier?direction=asc&sort=created",
+      "text": "Least recently created"
+    },
+    {
+      "url": "https://gist.github.com/nikitamounier?direction=desc&sort=updated",
+      "text": "Recently updated"
+    },
+    {
+      "url": "https://gist.github.com/nikitamounier?direction=asc&sort=updated",
+      "text": "Least recently updated"
+    },
+    {
+      "url": "/nikitamounier/222351993a169a8ef86bc51673f5e1e4",
+      "text": "2 files"
+    },
+    {
+      "url": "/nikitamounier/222351993a169a8ef86bc51673f5e1e4/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/222351993a169a8ef86bc51673f5e1e4#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/222351993a169a8ef86bc51673f5e1e4/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/222351993a169a8ef86bc51673f5e1e4",
+      "text": "Code_Weight.ipynb"
+    },
+    {
+      "url": "https://gist.github.com/nikitamounier",
+      "text": "Reload?"
+    },
+    {
+      "url": "/nikitamounier/00af8d60b0a9f759af4f14c1fa2be5ad",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/00af8d60b0a9f759af4f14c1fa2be5ad/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/00af8d60b0a9f759af4f14c1fa2be5ad#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/00af8d60b0a9f759af4f14c1fa2be5ad/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/00af8d60b0a9f759af4f14c1fa2be5ad",
+      "text": "csv.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/70a7d33b5f70be9d98db8b469c4609c1",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/70a7d33b5f70be9d98db8b469c4609c1/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/70a7d33b5f70be9d98db8b469c4609c1#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/70a7d33b5f70be9d98db8b469c4609c1/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/70a7d33b5f70be9d98db8b469c4609c1",
+      "text": "isEven.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/24f01e6ae2b50d0974adab712db69503",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/24f01e6ae2b50d0974adab712db69503/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/24f01e6ae2b50d0974adab712db69503#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/24f01e6ae2b50d0974adab712db69503/stargazers",
+      "text": "1 star"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/24f01e6ae2b50d0974adab712db69503",
+      "text": "PredicateSet.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/0e93eb832cf389db12f9a69da030a2dc",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/0e93eb832cf389db12f9a69da030a2dc/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/0e93eb832cf389db12f9a69da030a2dc#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/0e93eb832cf389db12f9a69da030a2dc/stargazers",
+      "text": "1 star"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/0e93eb832cf389db12f9a69da030a2dc",
+      "text": "FrenchTCA.md"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-composable-architecture/actions?query=workflow%3ACI",
+      "text": ""
+    },
+    {
+      "url": "https://swiftpackageindex.com/pointfreeco/swift-composable-architecture",
+      "text": ""
+    },
+    {
+      "url": "https://swiftpackageindex.com/pointfreeco/swift-composable-architecture",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/e325b88f40d10960b85ebc76db5be5ee",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/e325b88f40d10960b85ebc76db5be5ee/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/e325b88f40d10960b85ebc76db5be5ee#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/e325b88f40d10960b85ebc76db5be5ee/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/e325b88f40d10960b85ebc76db5be5ee",
+      "text": "Indirect.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/0e754f4d1e430952d7f010565cc279e9",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/0e754f4d1e430952d7f010565cc279e9/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/0e754f4d1e430952d7f010565cc279e9#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/0e754f4d1e430952d7f010565cc279e9/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/0e754f4d1e430952d7f010565cc279e9",
+      "text": "CopyOnWrite.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier/93a760616de27d57ff237fe3919a3e44",
+      "text": "1 file"
+    },
+    {
+      "url": "/nikitamounier/93a760616de27d57ff237fe3919a3e44/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/nikitamounier/93a760616de27d57ff237fe3919a3e44#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/nikitamounier/93a760616de27d57ff237fe3919a3e44/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/nikitamounier",
+      "text": ""
+    },
+    {
+      "url": "/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "/nikitamounier/93a760616de27d57ff237fe3919a3e44",
+      "text": "BuilderPattern.swift"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?v=4",
+      "alt": "View nikitamounier's full-sized avatar"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://github.com/pointfreeco/swift-composable-architecture/workflows/CI/badge.svg",
+      "alt": "CI"
+    },
+    {
+      "src": "https://camo.githubusercontent.com/c3eac72f466ece07830e8663a5f0b745b7b392fea260c908daf1506d6f1144e0/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d687474707325334125324625324673776966747061636b616765696e6465782e636f6d2532466170692532467061636b61676573253246706f696e7466726565636f25324673776966742d636f6d706f7361626c652d61726368697465637475726525324662616467652533467479706525334473776966742d76657273696f6e73",
+      "alt": ""
+    },
+    {
+      "src": "https://camo.githubusercontent.com/0e34640c32ebc3bbf5f680c45af303015a87aef3303f7e7ab6895bd8c08230bc/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d687474707325334125324625324673776966747061636b616765696e6465782e636f6d2532466170692532467061636b61676573253246706f696e7466726565636f25324673776966742d636f6d706f7361626c652d617263686974656374757265253246626164676525334674797065253344706c6174666f726d73",
+      "alt": ""
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36044205?s=60&v=4",
+      "alt": "@nikitamounier"
+    }
+  ]
+}

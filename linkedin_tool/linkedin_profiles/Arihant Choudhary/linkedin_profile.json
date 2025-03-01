@@ -1,0 +1,671 @@
+[
+  {
+    "fullName": "Arihant Choudhary",
+    "linkedin_internal_id": "680402168",
+    "first_name": "Arihant",
+    "last_name": "Choudhary",
+    "public_identifier": "arihantchoudhary",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQFgtyarSg7kkA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1681635429803?e=2147483647&v=beta&t=ZIdClK7_QyT7maBF5OyYENpKAgtmjmJsn69kM68ClV8",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQEwe9slSziy1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732321576920?e=2147483647&v=beta&t=Slek8Q_g21kge1NqoFA6jeWsZgc-YriMZZpOqZguGds",
+    "headline": "CS + Data Science @ UC Berkeley | Research @ Stanford, Intel | Dean's Engineering Ambassador @ UC Berkeley College of Engineering",
+    "location": "4K followers\n          \n          \n              500+ connections",
+    "followers": "Issued Jun 2020",
+    "connections": "Issued Jun 2020",
+    "about": "",
+    "experience": [
+      {
+        "position": "Software Intern (AI)",
+        "company_url": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
+        "company_name": "Intel Corporation",
+        "location": null,
+        "summary": "Implementing latest research and building products for Intel Foundry from scratch.",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Research Assistant (Prof. Edward Chang)",
+        "company_url": "https://www.linkedin.com/school/stanford-university-department-of-computer-science/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGrCVs1ojx3oA/company-logo_100_100/company-logo_100_100/0/1691024285196/stanford_university_department_of_computer_science_logo?e=2147483647&v=beta&t=5ysGRzftIYOfPlRX6htu1KVr27qp5r7aMg5ky0jeRu4",
+        "company_name": "Stanford University Department of Computer Science",
+        "location": "Stanford, California, United States",
+        "summary": "Multi Agent Systems for Inference, Reasoning, and Planning.",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Center for Responsible, Decentralized Intelligence (RDI)",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "- Spring 2025: Researcher (LLM Applications) with Ali Shazal, Parth Behani- Fall 2024: Researcher (Benchmarking Track) with Ali Shazal, Michael Lu, Xiang Zheng, and Juno LeeProject: https://pypi.org/project/gtrbench/Github: https://github.com/m1chae11u/Guess-the-Rule-LLM-Benchmark",
+        "starts_at": "Aug 2024",
+        "ends_at": "Present",
+        "duration": "8 months"
+      },
+      {
+        "position": "Algorithms and Computing for Education (ACE) Lab (Prof. Dan Garcia)",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "\u2022 (1st Author) Dynamic Animated Feedback For Randomized Graph Problems. Paper accepted for SIGSCE 2024 Technical Symposium. Advised by Prof. Dan Garcia\u2022 (3rd Author) AutoRemind, Delivering Personalized Reminders for Mastery Learning. Paper accepted for SIGSCE 2025 Technical Symposium. Advised by Prof. Dan Garcia, Co-authored with Oindree Chatterjee, Ankita Sundar, and Connor Bernard",
+        "starts_at": "Aug 2023",
+        "ends_at": "Dec 2024",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "Computational Game Theory Lab \u2014 Gamescrafters (Prof. Dan Garcia)",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "1. Wrote Solvers (without AI) using exhaustive search of entire game tree after pruning) for Games: Quick Cross, Euclid's Game, Ten-to-one by 1 or 2 2. Developed GUIs: Beeline, Quick Cross, Euclid's Game3. Research on Pure Draw Theory: Wrote code to identify pure draw clusters in game trees and classify positions as draw-win and draw-lose4. Robots: Made 2 ways for Humans to play against Robots (using Hands and using Gestures)",
+        "starts_at": "Aug 2022",
+        "ends_at": "May 2024",
+        "duration": "1 year 10 months"
+      },
+      {
+        "position": "Cryptography Lab (Prof. Sanjam Garg)",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "Wrote software to implement Shamir's Secret Sharing perfectly. Worked with Guru Vamsi Polichalra, Sanjam Garg",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Academic Intern for CS61A , CS61B and CS70",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "Teaching staff for 3 courses in the semester. CS 61A: Program Structure and Interpretation (Python, Scheme)CS 61B: Data Structures (Java)CS 70: Discrete Math and Probability",
+        "starts_at": "Aug 2022",
+        "ends_at": "Dec 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Dean's Engineering Ambassador",
+        "company_url": "https://www.linkedin.com/school/berkeleyengineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQE8ypwnesOgsw/company-logo_100_100/B56ZUbNdUHHQAU-/0/1739918267914/berkeleyengineering_logo?e=2147483647&v=beta&t=ttM8r8YT0AkIQQr84BZwoeXdia6KrxyravCVsD6NiyA",
+        "company_name": "UC Berkeley College of Engineering",
+        "location": "Berkeley, California, United States",
+        "summary": "I work on engineering programs for high schools and community colleges in the Bay Area. I also advise science fair projects with Lizzie Hager-Barnard, PhD. I was the first Engineering Ambassador for the college!",
+        "starts_at": "Nov 2022",
+        "ends_at": "Present",
+        "duration": "2 years 5 months"
+      },
+      {
+        "position": "Research Intern (AI)",
+        "company_url": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
+        "company_name": "Intel Corporation",
+        "location": "Santa Clara, California, United States",
+        "summary": "Text to Video Research. Built Intel's Personal Educator (IPED) Team: Technology DevelopmentManager: Latha Rao",
+        "starts_at": "Mar 2024",
+        "ends_at": "Aug 2024",
+        "duration": "6 months"
+      },
+      {
+        "position": "Student Leadership Intern",
+        "company_url": "https://www.linkedin.com/school/computingdatasciencesociety/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQENG0S2ZrvPzA/company-logo_100_100/company-logo_100_100/0/1725472632440/computingdatasciencesociety_logo?e=2147483647&v=beta&t=UttTqyv2bdIKbnF7zzLg2H-UOkb5UbLu63YECM2S2P0",
+        "company_name": "UC Berkeley Division of Computing, Data Science, and Society",
+        "location": "Berkeley, California, United States",
+        "summary": "Helped design flowcharts for the Data Science curricula and lay the foundations of the college of CDSS when it was just a room in Evans Hall.",
+        "starts_at": "Aug 2022",
+        "ends_at": "May 2023",
+        "duration": "10 months"
+      },
+      {
+        "position": "Teaching Assistant",
+        "company_url": "https://www.linkedin.com/company/funginstitute?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGyB0yOWE7KrQ/company-logo_100_100/company-logo_100_100/0/1630529766551/funginstitute_logo?e=2147483647&v=beta&t=P2gihkRNUda-biAwS8f6CllAfjGshStk8AJPGaZNVF0",
+        "company_name": "UC Berkeley Coleman Fung Institute for Engineering Leadership",
+        "location": "Berkeley, California, United States",
+        "summary": "TA: ENGIN 270A (Negotiation and Organizational Behavior) under Prof. Holliman, KassTA:  ENGIN 270R (Product Management for Engineering Leaders) under Prof. MorrisLead TA: ENGIN 270Q (Power of Diversity and Inclusion for Engineering Leaders) under Prof. YangManaged Sections and Graded Homework",
+        "starts_at": "Aug 2022",
+        "ends_at": "Jan 2023",
+        "duration": "6 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/harvard-library?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQF5kE_fiQmpGw/company-logo_100_100/company-logo_100_100/0/1630563573180?e=2147483647&v=beta&t=1TcKK8c4_8-OVooHFSWoC3Yr_jrz6LA83UGg8SSeHb4",
+        "company_name": "Harvard Library",
+        "location": null,
+        "summary": "Project Longhand, text to VR. Worked with Matt Cook. Berkeley Data Science Discovery Program",
+        "starts_at": "Aug 2022",
+        "ends_at": "Dec 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Game Manager",
+        "company_url": "https://www.linkedin.com/company/berkeley-rec-sports?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE7wJvOzn4OIw/company-logo_100_100/company-logo_100_100/0/1651969947971?e=2147483647&v=beta&t=obrBmgRdxaj7kYXI2IsC5Lq6LlXSeAIp-Oy1gXSNIzg",
+        "company_name": "Berkeley Recreational Sports",
+        "location": "Berkeley, California, United States",
+        "summary": "- Coordinated the end-to-end logistics and resource allocation for 50+ soccer and basketball games across 3 seasons at the UC Berkeley Recreational Sports Facilities.- Forecasted and managed equipment needs, scheduling maintenance, and inventory to meet the dynamic demands of intramural sports programs for 3000+ students.- Ensured optimal allocation and utilization of equipment, personnel, and facilities",
+        "starts_at": "Jan 2022",
+        "ends_at": "Nov 2022",
+        "duration": "11 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/gameplay-inc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFQX9FkhTwURQ/company-logo_100_100/company-logo_100_100/0/1668948508784/gameplay_inc_logo?e=2147483647&v=beta&t=wtGg6BZA99pIc955J1TaC3crXfpNLLjgjMioZgy_HMc",
+        "company_name": "GamePlay, Inc.",
+        "location": "San Francisco Bay Area",
+        "summary": "\u2022 Built web applications in C# and ASP.NET MVC5 design architecture to model revenue generated at sports facilities on the GamePlay platform.",
+        "starts_at": "May 2022",
+        "ends_at": "Jun 2022",
+        "duration": "2 months"
+      },
+      {
+        "position": "Founder and Developer",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Berkeley Social",
+        "location": null,
+        "summary": "Summer 2021: Developed and designed a website for my incoming class at UC Berkeley so that newly admitted students can find peers with shared interests and connect among themselves. Generated 300+ sign-ups in 1 month. Organized 5 Virtual Socializing and Gaming Events with 50-70 attendees over 10 weeks prior to the beginning of our first semester.",
+        "starts_at": "Apr 2021",
+        "ends_at": "Aug 2021",
+        "duration": "5 months"
+      },
+      {
+        "position": "Communications Intern",
+        "company_url": "https://www.linkedin.com/company/mittal-south-asia-institute?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQH3kBu5twFPQw/company-logo_100_100/company-logo_100_100/0/1630524783634?e=2147483647&v=beta&t=fjuvgxvuy8KPEBszcOrYNs6i27AEFN4mNPMAmBZP5SU",
+        "company_name": "The Lakshmi Mittal and Family South Asia Institute, Harvard University",
+        "location": "Delhi, India",
+        "summary": "Fall 2020: Developed and implemented print and social media strategies to promote Harvard University\u2019s research and in-region programs in South Asian countries. Helped organize '24 Hours of Harvard\u2019 during the Harvard Worldwide Week. Intensively used Adobe Creative Cloud and design software for photo and video making. The Lakshmi Mittal and Family South Asian Institute, Harvard University (The Mittal Institute) is a university-wide research institute at Harvard that engages faculty members, students, and in-region institutions through interdisciplinary programs to disseminate knowledge, build capacity, inform policy, and engage with issues that are shaping South Asia today.As a communications intern, I worked to maximize Harvard's Mittal Institute\u2019s social and print media presence, closely interacted with experts, scholars, and faculty in a variety of interdisciplinary fields, and also contributed to Harvard's events, programs, research, and partnerships.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Aug 2020",
+        "ends_at": "Nov 2020",
+        "duration": "4 months"
+      },
+      {
+        "position": "Researcher",
+        "company_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "company_name": "Stanford University",
+        "location": null,
+        "summary": "Scraped and cleaned climate Data (>1PB), validated CMIP-6 models, and made predictions for future temperature and precipitation for a city plagued with yearly cyclones (Kolkata) under 3 SSP scenarios. Worked with Tristan Ballard, PhD. Polygence Research Program",
+        "starts_at": "Jun 2020",
+        "ends_at": "Nov 2020",
+        "duration": "6 months"
+      },
+      {
+        "position": "Communications Lead",
+        "company_url": "https://ch.linkedin.com/company/global-shapers-community?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHanRtxX9QOlw/company-logo_100_100/company-logo_100_100/0/1690362301738/global_shapers_community_logo?e=2147483647&v=beta&t=fwr9UAvTQ4RwpZtzxEnGyHzpjjwZZKn1RqjZ5DraClw",
+        "company_name": "Global Shapers Community",
+        "location": "Kolkata, West Bengal, India",
+        "summary": "Summer 2020: Led a media team for the Global Shapers\u2019 \u201cRebuild Bengal\u201d campaign in Kolkata and helped raise US$15,000 in relief after supercyclone Amphan rampaged through the region.",
+        "starts_at": "May 2020",
+        "ends_at": "Jul 2020",
+        "duration": "3 months"
+      },
+      {
+        "position": "Founder",
+        "company_url": "https://in.linkedin.com/company/academic-reserve?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQGhZmvSAgTEEA/company-logo_100_100/company-logo_100_100/0/1630600457719?e=2147483647&v=beta&t=9wqZR3Tv2bi5bES30fwsHsIWwE2Cl-6pYlxgQsHgu8Q",
+        "company_name": "Academic Reserve",
+        "location": null,
+        "summary": "Built a website to digitalize practice test papers across 6 high schools in hometown Kolkata. Generated 2000+ viewers and 10,000+ views in one month. Made an online repository of 1000+ past test papers sorted school and subject-wise.Academic Reserve is an online repository for class notes, study resources, past papers, and more for high-school and college students. It aims to serve as a network to help students connect with each other across various platforms to discuss projects and gives way to increased intellectual collaboration.It also had a few products:1. Experience College: to help applicants/incoming freshmen connect to any college student/alum at a university in order to network or get a first-hand experience of life at college.2. Study Buddy: to help students find online study groups to take online courses together, track progress, foster discussion, and boost productivity.3. Upgrade: to help the student entrepreneurs/problem solvers connect to incubators, and receive free consultation to grow their enterprises/ideas from field experts. We also help students set up websites, mobile applications, and softwares, specific to their purpose and needs.Academic Reserve repository has over 1000 study resources, past papers etc. and our network expands into over 100 universities world-wide.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jun 2017",
+        "ends_at": "Mar 2020",
+        "duration": "2 years 10 months"
+      },
+      {
+        "position": "Co-Founder",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Yindu & Zhongguo Inc",
+        "location": null,
+        "summary": "Bangla Machinery Bank (a subsidiary of Yindu & Zhongguo Inc) is an AgriTech enterprise servicing farmers in West Bengal with efficient farm machinery to cut costs and increase crop yield.We currently offer Rice and Combine Harvesters to farmers on a Machinery-as-a-Service (MaaS) model.Our service has helped our customers reduce costs from INR 6000/acre to INR 4000/acre.Apart from these services, our team also provides farmers with the necessary know-how to combat regional climate change impacts, reduce runoffs, and give way to more sustainable farming.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "May 2018",
+        "ends_at": "Feb 2020",
+        "duration": "1 year 10 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": "Computer Science, Data Science, Applied Mathematics",
+        "college_duration": "2021 - 2025",
+        "college_activity": "UGBA 150 (Leading High Impact Teams, Dr. Brandi Pearce)CS 189 (Machine Learning)*CS 188 (Artificial Intelligence)CS 161 (Computer Security)CS 171 (Cryptography)CS 170 (Algorithms)CS 191 (Quantum Computing)CS 194 (Special Topics: Autonomous Driving)*CS 194 (Special Topics: Building CS Education Tools)*CS 194 (Language Agents)*CS 194 (Advanced Language agents)*DATA 100 (Principles & Techniques in Data Science)*CE 191 (Optimization and Systems\u2026\n            \n\n    \n    \n\n    \n        Show more"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2025 - 2025",
+        "college_activity": "CS224G: Apps with LLMs Inside (Jan Jannink and John Whaley)"
+      },
+      {
+        "college_url": "https://in.linkedin.com/school/lmbcalcutta/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "La Martiniere for Boys, Kolkata",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQE2WwpIR47uUA/company-logo_100_100/company-logo_100_100/0/1648313197583/lmbcalcutta_logo?e=2147483647&v=beta&t=XRfzSTKbINxTnkLHswUcPpi0mr0Iblelp13qR7yg9oM",
+        "college_degree": "High School",
+        "college_degree_field": "Nursery-12",
+        "college_duration": "2005 - 2020",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Intel Corporation",
+      "description1_link": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=arihantchoudhary%2Ecom&urlhash=Lfbe&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/debarghyadas_openai-just-trained-their-largest-base-model-activity-7301168413140307968-wdCL",
+        "title": "OpenAI just trained their largest base model yet, GPT-4.5. \n\nBut it still makes basic math mistakes. This result was reproducible for each of 10 runs.",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/saloni-mohapatra_saloni-beli-try-together-saloni-mohapatra-activity-7300700829206908929-mQTJ",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQGqJmmsJ1YHcg/articleshare-shrink_800/articleshare-shrink_800/0/1739417747942?e=2147483647&v=beta&t=KSOE9wrVV4vLhPboXZ4B0Rxtct1hXCBrZm6OYbF6FEA",
+        "title": "\ud83c\udf89 Excited to share my website! \ud83c\udf89\n\nIt\u2019s a space I\u2019ve built to share product ideas, experiments, and lessons from building things\u2014less of a\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/debarghyadas_everyone-should-be-using-this-website-to-activity-7295277014830170112-qJDz",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQGPmD0MU6Q9Lw/image-shrink_800/B56ZT4Hx6SHEAc-/0/1739329578088?e=2147483647&v=beta&t=HvxXRITA9ztR3ro2M9KklJyb03pqkmaiUfQIXrMwXoo",
+        "title": "Everyone should be using this website to understand the inside of an LLM.\n\nI'm surprised more people don't know about it. Brendan Bycroft made this\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/gioiaindia_a-moment-of-stillness-a-touch-of-elegance-activity-7301175878028251138-8mN5",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGwlHa-251i2Q/feedshare-thumbnail_720_1280/B56ZVL8rMSHoA8-/0/1740735955835?e=2147483647&v=beta&t=8wLPXjWbqe6Z_fSr_5wWyEwQyurHgivgqk31dVVFSDU",
+        "title": "A moment of stillness. A touch of elegance. The Pauline Hobo in smooth nappa leather\u2014crafted to last, designed to be loved.",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/edward-y-chang-218b182_httpslnkdinghpredqe-this-benchmark-activity-7300236928350593025-92uy",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "https://lnkd.in/ghPREdqe\n\nThis benchmark paper highlights the current limitations of LLMs, demonstrating where they fail today and how our new MACI\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jinukim_liner-pro-is-now-the-most-accurate-ai-search-activity-7299895888422866945-PHAp",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQG919RXn3PSog/feedshare-shrink_800/B4DZU4l6tPGcAk-/0/1740411220917?e=2147483647&v=beta&t=vbTbSg0lonOn78nYqs3k6FG_lzpbPEnKO6f-a0mtVY4",
+        "title": "Liner Pro is now the most accurate AI Search, surpassing all other AI Search.\n\nTwo key points to highlight:\n1) We developed Liner Pro with just\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/padma-lim_thank-you-courtney-wright-for-your-full-trust-activity-7299854690266099712-coKW",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGZTm8cgIzfyQ/feedshare-shrink_800/B4EZUwPjWHH0Ag-/0/1740271139200?e=2147483647&v=beta&t=LBYd96Pz7x8Aw4xFHuXKB53avZ6_mm7JbkaViDqYtE8",
+        "title": "Thank you Courtney Wright for your full trust and kindness towards me! I truly cannot believe you did this just for me. I will keep striving for the\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ihsan-cak%C4%B1r-b8872520_this-ai-agent-will-be-a-game-changer-for-activity-7293925400315920385-SV-x",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFiHF_T9X74UQ/feedshare-shrink_800/B4EZTdQNkzHgAo-/0/1738878899387?e=2147483647&v=beta&t=AZrBXNqmoNj_WzTxl9KmPz_1YimGAoIAoUIPIuzWdeA",
+        "title": "This AI agent will be a game changer for customer services. \nTracetec has increased our expectation for inovation in financial industries. \nWe are\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/if-you-are-creating-an-ai-agent-and-want-activity-7298752084202467328-FvSK",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF1i0NH4bOQ5Q/feedshare-shrink_20/B56ZUl9h5AGQAs-/0/1740098641846?e=2147483647&v=beta&t=-tTQKqqYzW_NjFnchxiSd4VRzfQObWnVLSgmY-tinXY",
+        "title": "If you are creating an AI agent and want to store memories in Redis, check out Mem0 (Embedchain) \u2018s official integration with Redis.",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/togethercomputer_today-were-announcing-our-305m-series-activity-7298375921277800450-Jvjs",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF96zDbadE9eA/feedshare-shrink_800/B56ZUkKOZgGsAg-/0/1740068415602?e=2147483647&v=beta&t=qtqxwns_EujdoiUpQtwTeYQ0DMQEwkreC6UN9qB-cuo",
+        "title": "\ud83d\udce3 Today we're announcing our $305M Series B funding led by General Catalyst and co-led by Prosperity7 Ventures, with participation from a\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/klaudia-guzij_just-cloned-my-voice-using-cartesias-activity-7294841218931249152-8B74",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGNKJC0GmsLSg/videocover-high/B56ZTx7aqXHsBs-/0/1739225673446?e=2147483647&v=beta&t=3QlUSeQp_X14s7dQ3wuCplEh0g5gDthWXYYXWsGhlKs",
+        "title": "\ud83c\udf99\ufe0f Just cloned my voice using Cartesia's new Sonic Preview Model and I'm  blown away.\n\nVoice cloning has been around for a bit already, but what\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mrahmadawais_visit-langbase-booth-at-the-ai-eng-summit-activity-7298328750750867456-gXi-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQERSCnKtvO1jw/feedshare-shrink_2048_1536/B56ZUjfTU5GQAo-/0/1740057163852?e=2147483647&v=beta&t=jWF8zm46Uh9mwXJ33ogdotC7X2M6IzNgjQHSmFOd7Jk",
+        "title": "Visit Langbase booth at the AI Eng Summit NYC today! Meet my team and I here!! Langbase allows everyone to BUILD, DEPLOY, and SCALE \u2014 serverless\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/debarghyadas_xais-new-large-language-model-grok-3-is-activity-7297478473139294210-KqON",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQHw7r4v9-R_yQ/image-shrink_800/B56ZUXZ_qcGoAc-/0/1739854446547?e=2147483647&v=beta&t=K9LybscPYr8PfjJcx9Vti5tfiD22-GB6kEIR9NpYYlA",
+        "title": "xAI's new large language model Grok 3 is out!\n\nComes with a reasoning and a mini model.\n1400 ELO score on LMArena, #1\nAIME 24 \u2014 52% [96% with\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/krandiash_were-now-the-quickest-provider-of-text-to-speech-activity-7295820013796540418-htbl",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "We're now the quickest provider of text-to-speech in multiple geographics. We're faster than the clouds!\n\nOur models are the absolute fastest in the\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/gioiaindia_quiet-confidence-refined-elegance-the-enzo-activity-7295741918313910272-Hpgf",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQF-wuj_VlURrw/feedshare-thumbnail_720_1280/B56ZT.uiNpHoBA-/0/1739440403539?e=2147483647&v=beta&t=B4zfAd475G-8iQtBLLDqa1Lef4FhmwL9euDbKaMtRi8",
+        "title": "Quiet confidence. Refined elegance. The Enzo Laptop Bag in Italian nappa leather, designed for the man who values the details.",
+        "activity": "Liked by Arihant Choudhary"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nicolay-gerold_rag-is-dead-long-live-rag-llms-suck-at-activity-7295766165363077120-36wf",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEJMf4anOuRJg/feedshare-shrink_800/B56ZT97JYiHoAg-/0/1739426929055?e=2147483647&v=beta&t=6gOYhhVXkLPfVR_wf19QD9iNmfb8JudPR61I2NcrPx8",
+        "title": "RAG is dead. Long live RAG.\n\nLLMs suck at long context. \n\nThis paper shows what I have seen in most deployments. \n\nWith longer contexts, performance\u2026",
+        "activity": "Liked by Arihant Choudhary"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://ch.linkedin.com/company/global-shapers-community?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Communications Lead",
+        "company_name": "Global Shapers Community",
+        "company_duration": "",
+        "starts_at": "May 2020",
+        "ends_at": "Jun 2020"
+      },
+      {
+        "company_position": "Co-Founder",
+        "company_name": "Bachpan",
+        "company_duration": "",
+        "starts_at": "Dec 2017",
+        "ends_at": "Aug 2020"
+      }
+    ],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_100_100/company-logo_100_100/0/1677690194092/the_wharton_school_logo?e=2147483647&v=beta&t=qBaq-_axIes-7-pUcCRObJIJbMGW6TuAYzRZfLKRfoU",
+        "certification": "Business Strategies for A Better World Specialization",
+        "company_url": "https://www.linkedin.com/school/the-wharton-school/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "The Wharton School",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID ASFKZZN34MZS",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ASFKZZN34MZS?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Business Strategies for Social Impact",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID 5ARHPQK5S8E3",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/5ARHPQK5S8E3?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGGoWODFvonTQ/company-logo_100_100/company-logo_100_100/0/1656918903666/universita_bocconi_logo?e=2147483647&v=beta&t=6E_tZrnWwDvJn_zRmkaimHKa2iEbJFcHR9KwMe0DuDA",
+        "certification": "Challenges of Agribusiness Management",
+        "company_url": "https://it.linkedin.com/school/universita-bocconi/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Universit\u00e0 Bocconi",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID  6YK5RP589UL4",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/6YK5RP589UL4?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Corruption",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID RX5PUNC79XDW",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/RX5PUNC79XDW?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGjZPHyW5gNxw/company-logo_100_100/company-logo_100_100/0/1631300689161?e=2147483647&v=beta&t=byD8WFjzF3wkXtYF6jG14h8umbAUJuvi2UIEI9x7Psw",
+        "certification": "COVID-19 Contact Tracing",
+        "company_url": "https://www.linkedin.com/school/johns-hopkins-bloomberg-school-of-public-health/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Johns Hopkins Bloomberg School of Public Health",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID 6QZ3TDRSJP7C",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/6QZ3TDRSJP7C?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Global Trends for Business and Society",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID MM37BF5YEBTG",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/MM37BF5YEBTG?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Introduction to Climate Change and Health",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID 238J9XEBTENB",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/238J9XEBTENB?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Social Entrepreneurship",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID LNWCVFGRG68H",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/LNWCVFGRG68H?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHDk5tCEnvMIw/company-logo_100_100/company-logo_100_100/0/1631310679588?e=2147483647&v=beta&t=mvfxxxJwzcZuFSPuWW4AinQ0j46nrpCdHCbM2e0rt-w",
+        "certification": "The Sustainable Development Goals \u2013 A global, transdisciplinary vision for the future",
+        "company_url": "https://dk.linkedin.com/school/university-of-copenhagen/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "K\u00f8benhavns Universitet - University of Copenhagen",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "Credential ID JB466A2Y8LNB",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/JB466A2Y8LNB?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_100_100/company-logo_100_100/0/1630638452046/columbia_university_logo?e=2147483647&v=beta&t=f-050SrbzjElMuDqUFVhVaZOX79OjMdqz47bO6aLk3k",
+        "certification": "The Age of Sustainable Development",
+        "company_url": "https://www.linkedin.com/school/columbia-university/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Columbia University in the City of New York",
+        "issue_date": "Issued May 2020",
+        "credential_id": "Credential ID -"
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://in.linkedin.com/in/anuradha-khare-ba753835?trk=public_profile_browsemap-profile",
+        "name": "Anuradha Khare",
+        "summary": "Founder at SK's Commerce Academy earlier Abhyaas Coaching Class for Commerce and Management",
+        "location": "Pune"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ashwani-kaushik-careerweaver?trk=public_profile_browsemap-profile",
+        "name": "Ashwani Kaushik",
+        "summary": "CEO at Career Weaver | Transforming Education & Empowering Students | Visionary Leader Driving Innovation and Growth",
+        "location": "Faridabad"
+      },
+      {
+        "link": "https://www.linkedin.com/in/poorvajasundar?trk=public_profile_browsemap-profile",
+        "name": "Poorvaja Sundar",
+        "summary": "Education Research and Policy | Non-profit Management",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://in.linkedin.com/in/jatingondalia?trk=public_profile_browsemap-profile",
+        "name": "Dr. Jatin Gondalia",
+        "summary": "Math Educator, Founder, Researcher, Author, Journal Editor & Reviewer, Conference Chair",
+        "location": "Rajkot"
+      },
+      {
+        "link": "https://in.linkedin.com/in/piyush-agnihotri-0343a021?trk=public_profile_browsemap-profile",
+        "name": "Piyush Agnihotri",
+        "summary": "Founder at Gyan Addaa, Electrical Engineer, Innovator, O&M of Electrical Substation, SCADA, SAS, HMI, AMI",
+        "location": "Kanpur"
+      },
+      {
+        "link": "https://in.linkedin.com/in/yashvijain1?trk=public_profile_browsemap-profile",
+        "name": "Yashvi Jain",
+        "summary": "Graduate from Boston University | Economics and Math Major | Career Counselor | Study Abroad Consultant",
+        "location": "Surat"
+      },
+      {
+        "link": "https://in.linkedin.com/in/seemanta-shome-317722175?trk=public_profile_browsemap-profile",
+        "name": "Seemanta Shome",
+        "summary": "Civil Engineer | JEC'22",
+        "location": "Assam, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/theshubhamsingh?trk=public_profile_browsemap-profile",
+        "name": "Shubham Singh",
+        "summary": "Senior Research Fellow & PhD Scholar (Sociology)",
+        "location": "Patiala"
+      },
+      {
+        "link": "https://in.linkedin.com/in/nupur-goel-7353349a?trk=public_profile_browsemap-profile",
+        "name": "Nupur Goel",
+        "summary": "Founder, Enjos for Engineers | Women Startup Program, IIM-Bangalore | TEDP, MSME",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/priyasha-chadha?trk=public_profile_browsemap-profile",
+        "name": "Priyasha Chadha",
+        "summary": "Academic counselor | Psychologist",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/purab-soni95?trk=public_profile_browsemap-profile",
+        "name": "Purab Soni",
+        "summary": "Senior Consultant at Capgemini UK | Guidewire Ace certified BA | CSPO | SAFe certified ScrumMaster | SAFe certified POPM | PM Fellow @NextLeap | Product Management enthusiast",
+        "location": "London"
+      },
+      {
+        "link": "https://in.linkedin.com/in/bapujk?trk=public_profile_browsemap-profile",
+        "name": "Bapuji Kanaparthi",
+        "summary": "",
+        "location": "Andhra Pradesh, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ravi-sreedharan-2028644?trk=public_profile_browsemap-profile",
+        "name": "Ravi Sreedharan",
+        "summary": "",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://hk.linkedin.com/in/inika-kandwal-4075511a1?trk=public_profile_browsemap-profile",
+        "name": "Inika Kandwal",
+        "summary": "Sustainability Simplified | Certified Sustainability & GHG Consultant",
+        "location": "Hong Kong"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vidhya-y-a2826a77?trk=public_profile_browsemap-profile",
+        "name": "Vidhya Y",
+        "summary": "Founder at Vision Empower",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aishwarya-agrawal-spjimr?trk=public_profile_browsemap-profile",
+        "name": "Aishwarya Agrawal",
+        "summary": "SPJIMR, PGDM 2024-2026 | Marketing, OJAS XVII | Abhyudaya Committee | CAT 99.55 %ile | Founder, SERI Foundation | SGSITS'21",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/eduspark-india-237aa6bb?trk=public_profile_browsemap-profile",
+        "name": "EduSpark India",
+        "summary": "Education Consultant",
+        "location": "Jamnagar"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sitara-srinivasan?trk=public_profile_browsemap-profile",
+        "name": "Sitara Srinivasan",
+        "summary": "Founder at Naxxatra Sciences and Collaborative Research | Educator | Recruiting mentors in STEM domains",
+        "location": "Karnataka, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/mithyll?trk=public_profile_browsemap-profile",
+        "name": "Mithyll Dave",
+        "summary": "20+ Years Entrepreneur | Founder of VIHTRIBEZ Content Labb | Empowered 600+ SME Graduates | Building a Community for Solopreneurs, Artists & Coaches | Expert in Content Creation, Branding, Storytelling & Copywriting",
+        "location": "Mumbai"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://in.linkedin.com/in/arihant-choudhary-53a7b113b?trk=public_profile_samename-profile",
+        "name": "Arihant Choudhary",
+        "summary": "",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/caarihant?trk=public_profile_samename-profile",
+        "name": "Arihant Choudhary",
+        "summary": "Sr Manager at C&D",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/arihant-choudhary-7a1832293?trk=public_profile_samename-profile",
+        "name": "Arihant Choudhary",
+        "summary": "Land a job quick using my proactive, strategic ,head-hunter approach.",
+        "location": "Nokha Mandi"
+      },
+      {
+        "link": "https://in.linkedin.com/in/arihant-choudhary-8b1474306?trk=public_profile_samename-profile",
+        "name": "Arihant Choudhary",
+        "summary": "--",
+        "location": "Madhya Pradesh, India"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Dynamic, Animated Feedback for Randomized Problems with Computer-Based Testing",
+        "sub_title": "Association for Computing Machinery (ACM)",
+        "summary": "Computer-based testing (CBT) is becoming more common in CS Education spaces, and offers many advantages over paper-based modalities. For example, computerized assessments make it easier for students to learn from a wider range of questions in problem sets through problem randomization. Students can then work on problem after problem in a formative assessment mode of learning. While computer-based assessments help facilitate randomized prob- lem generation, solution feedback is typically\u2026\n            \n\n    \n    \n\n    \n        Show more",
+        "date": "March 15, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdl%2Eacm%2Eorg%2Fdoi%2F10%2E1145%2F3626253%2E3635623&urlhash=36M_&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Analyzing Future Climate Change using CMIP6 models",
+        "sub_title": "",
+        "summary": "Description: Was co-authored and mentored by a Stanford Ph.D. to research the trends and impacts of anthropogenic climate change (metrics: Temperature and Precipitation) using Data Sciene in Kolkata. Wrote R and Python code to analyze climate data for 150 years. Gained experience in cloud computing using Pangeo cloud.Abstract: Climate change poses serious threats to India's agriculture and economy(Chaturvedi et al., 2012) while imposing challenges such as widening the existing social\u2026\n            \n\n    \n    \n\n    \n        Show more",
+        "date": "",
+        "link": "https://www.linkedin.com/in/tristan-ballard?trk=public_profile_publication_contributor-image"
+      }
+    ],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Hindi",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Bengali",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Punjabi",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Marwari",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Zoom In, Zoom Out Podcast",
+        "link": "https://linktr.ee/zoominzoomout?trk=public_profile_project-title",
+        "duration": "May 2021 - Aug 2021"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/akash-vikram-shroff?trk=public_profile_project_contributor-image",
+        "duration": ""
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

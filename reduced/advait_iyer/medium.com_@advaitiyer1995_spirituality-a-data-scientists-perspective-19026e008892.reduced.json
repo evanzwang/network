@@ -1,0 +1,249 @@
+{
+  "title": "Spirituality: A Data Scientist\u2019s Perspective | by Advait Iyer | Medium",
+  "meta_description": "Data Science is Primal. The intuitive nature of the mathematics and statistics of the Machine Learning algorithms have within them the wisdom of the teachings of Alan Watts, or Swami Sarvapriyananda\u2026",
+  "main_content": "Spirituality: A Data Scientist\u2019s Perspective Training with the past, and testing on the present Advait Iyer \u00b7 Follow 9 min read \u00b7 May 29, 2020 -- Listen Share Photo by Kelly Sikkema on Unsplash D ata Science is Primal . The intuitive nature of the mathematics and statistics of the Machine Learning algorithms have within them the wisdom of the teachings of Alan Watts , or Swami Sarvapriyananda . The objective of this blog post is to channel their teachings, but through the lens of Machine Learning. Both human beings and algorithms learn by repetition. Through repetition, the observer spans the vector space and then converges (finally arrives) at local (or global) optimum. In humans, due to inherent biases within the design of a language (one language might use \u201cshould\u201d, and the other might use \u201ccould\u201d to express the same sentiment), the way an Indian thinks would be fundamentally different than the way a Chinese thinks. Just like humans, any algorithm runs on iterations too. Each epoch begins at some random starting point, and it spans the same vector space to search for solutions. Therefore, I believe the comparison of a human experience and a machine learning algorithm\u2019s experience is valid. Juxtaposition of a Human and an Algorithm The only space we span in life is our own mental space. Thereby, we limit the definition of what it means to be a human being by looking at things from the perspective of \u201crationality\u201d. Whenever we try to question rationality, we only use tools of rationality to do so, which is a bias in itself. Nobody understands anything, ever, because we are victims of biases within our local environment. In spirituality, I\u2019ve come to realize that it is important to understand how \u201cbias\u201d works, and how one can attempt to lower it in their lives. It is important to realize the \u201cillusion of the self\u201d, because what self is to a human being is what bias is to a Machine Learning algorithm. Nobody truly understands anything, ever, because we are victims of biases within our local environment. This is why I find Data Science truly spiritual! Just like the spiritual conquest of a human being, the Data Scientist\u2019s job is like a spiritual conquest of the algorithm they are working on. Bias-Variance tradeoff The biggest challenge in the day-to-day of any data scientist is deciding the sweet spot for bias and variance which leads to best generalization performance. Let me explain this trade-off in very simple terms with a visualization: Source: ai-pool.com The algorithm must not be too complex, or too simple. Too complex and the variance increases, and too simple, the bias increases. This is the \u201c Occam\u2019s Razor \u201d, which can be extended to spirituality too. Let me quote my favourite band, TOOL , here: Overthinking overanalyzing seperates the body from the mind How Occam\u2019s Razor helped me? As an international student in the US, I\u2019ve come to appreciate my roots in India while possessing a desire to explore the culture of America, helping me keep the balance between \u201c exploration and exploitation \u201d just like in Reinforcement Learning . I\u2019ve come to terms with what it means to be a human being with this realization: a solution that is scalable across the universe cannot be too simple or too complex, even though the universe seems to be really complex. The environment (both inner, and outer) is complex, there\u2019s no doubt about that. But teachings that a human being takes from the environment to explore/exploit in order to experience reality needs to be an optimal point between simplicity and complexity. Now that we\u2019ve established the necessity of balance , let\u2019s talk about individual areas of data science. Applying Occam\u2019s Razor to this blogpost as well, I\u2019m going to stick only to a couple of algorithms because eventually all interpretations point to the same truth. Unsupervised Learning Algorithms This branch of Machine Learning is all about random exploration. There is no objective to do anything specific, but it is crucial to initiate a pattern finding process so that we are able to find similarities between objects, and we start bucketing them together. When we start learning a new skill, we try to find patterns and then we exploit those patterns again and again as long as we get positive results. If we don\u2019t get positive results, we explore further. Let\u2019s dive deeper into a couple of algorithms. 1. Dimensionality reduction with Principal Component Analysis (PCA): This method uses Principal Components, which are lines passing through the data-points in a way so as to capture maximum possible variations. This way, we remove points within the same behavior-set, and only look at high variations, thus reducing dimensions. Blog by Leonardo Santos Learning: Sometimes to get clarity, one needs to look at their own habits and predispositions. Imagine each activity in your life\u2019s vector space . Remove all but two \u201cPrinciple Components\u201d of your behavior. You just need to analyze these two components in depth, and you can gain insights. This activity will help you get momentary clarity, however, always remember, introspection is not a one time thing. 2. Similar activities with k-Means Clustering: Once you capture the two key principle components with highest variance, you will be able to encapsulate the complete essence of your life\u2019s data within them. Bucketing various similar activities together, for e.g., clustering when you felt weak, clustering when you were afraid, and so forth. The principle components depend on what kind of problem in life you want to solve. Research paper on K-means clustering algorithm Learning: Certain activities bring you down, and others take you up. Depending on how you want the outcome of the day to be, joyful or pensive, associate which activities lead to what in your life, and do them! This method can help you orchestrate and channel your emotions. Don\u2019t let others pull the control from your hand and press those buttons for you. It may require a little bit of \u201c Shadow Work \u201d which would require you to embrace both good and bad parts of yourself, but it is something which is worth pursuing. 3. Identifying activity densities with DBSCAN: Every individual\u2019s thought process and upbringing is posses inherent unavoidable biases. This means, their thoughts and actions circle around a specific belief-system, and it is really difficult at times. Even though we don\u2019t want to be the center of our universe, reinforcement of \u201cthe importance of the self\u201d done by cultural and social norms over thousands of years makes it difficult for us to realize that we don\u2019t matter as much as we think we do. DBSCAN ( D ensity B ased S patial C lustering of A pplications with N oise) algorithm helps us visualize data-points spatially, and it centers all the points which are more frequent (with higher density), and segregates points away from the center as it becomes less frequent. Then, it identifies associations between the actions, and identifies whether certain action follows the first action, and how frequent this behavior is. Evan Lutins on Medium Learning: Identify associations between individuals/situations and emotions. If someone/something raises positivity in you, accordingly define your feedback. On the contrary, if something incites negativity, define your response to it accordingly. Try to remove noise: superficial, fake individuals who don\u2019t show you the true self. Now let\u2019s go over another category of Machine Learning algorithms. Supervised Learning Algorithms There are certain behaviors within a human, that can be categorized. For example, watching TV/Netflix is, mostly, a pure waste of time for me. This is not the ground truth, because it depends on the way the individual perceives this activity. However, personally, I categorize it as a \u201cwaste\u201d. Instead of deep introspection which is not really required in this case (our brains know what is a waste of time unconsciously too, if we listen to instincts), we can simply categorize it on the basis of the past labeling policy that we have been following, consciously or unconsciously. Such problems, where you look at specific category, and try to predict or fit new data-points into these categories, is called Supervised Machine Learning . In such cases, there is an overarching theme, like \u201cwaste\u201d. Individual data-points need not be positioned in the vector space in a quantitative way, and we can just choose to follow this overarching theme. Learning: Provide overarching themes to actions, and then categorize each action of yours into that overarching theme. The theme you decide could be biased, but its okay. Of course, people can categorize different activities differently, based on their belief system. Some would consider blogging a \u201cwaste\u201d, while others can categorize it as \u201ccreative thinking time\u201d. Depends on how one\u2019s objective and reward system is calibrated. Let\u2019s look at individual algorithms. 1. Understanding conditional probability with Naive Bayes Classifier: When people look at probability, they think, \u201cWhat is the probability of Y happening?\u201d, which is not the correct way of thinking about probability, in reality. Probability is conditional in nature. Unless the individual knows the situation he/she/they are presently, it is not possible to talk about the probability. So, any probability question should be asked as \u201cGiven X happens, what is the chance that Y could happen? The concept of conditional probability has its roots in Bayes\u2019 Theorem . Naive Bayes classifier works on maximum-likelihood estimations, which is, \u201cGiven a certain condition, what is the maximum likelihood of a certain happening?\u201d Naive Bayes by Dr. Saed Sayad Learning: You should look at yourself as the outcome of where you have been. Never forget your roots! Define maximum likelihood of outcome by reverting back to who you have been, and accordingly choose to either do or not do that action. For example, if you feel junk food makes you irritable, identify this maximum likelihood before eating it, and you will find yourself sticking to healthier routines than before. 2. Look at all possibilities with Random Forest Classifiers Random forest is an ensemble learning method which uses multiple decision trees. A simple decision tree looks as follows: Source: SQLShack Depending on the situation of the environment, the decision is made. The caveat in the case of decision trees is, the parent and children nodes in a decision tree can change depending on where the algorithm began from. Therefore, random forests is nothing but a collection of various decision trees that can be generated out of the same data. Random forest looks like this: Source: TechTour The decision trees are given weights and the final decision is taken on the basis of the votes provided by each tree in the forest. Learning: Try to look at situations from various perspectives so that you reduce the bias with which you are looking at a situation. Take a weighted decision after trying to go over all possible scenarios in your head. 3. Support Vector Machines Whenever decision making process is defined, there are always constraints associated within the environment. Constraints like demand, geography, costs, etc. in the case of business. As a human being, we are constrained by our social and economic conditions as well. Support Vector Machine (SVM) is a method of establishing bounds between two different categories, and then iterating the width of the bound to either include or exclude more data-points close to the boundary. The trade-off is, if the decision boundary is too wide there is a likelihood of more misclassifications. On the contrary, if it is too narrow the algorithm cannot generalize. Source: Quora Learning: You wanna build a thought process for yourself which is not too rigid, and not too fluid. Try to find the sweet spot for yourself (and only for yourself!) Through this post I want to acknowledge the hardwork and brilliance of all the researchers in the Data Science community who have leveraged nature\u2019s knowledge into their own worlds! I\u2019m amazed by your contribution. Have a great day!",
+  "links": [
+    {
+      "url": "https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F19026e008892&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------",
+      "text": "Open in app"
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------",
+      "text": "Write"
+    },
+    {
+      "url": "/search?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/@advaitiyer1995?source=post_page---byline--19026e008892---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@advaitiyer1995?source=post_page---byline--19026e008892---------------------------------------",
+      "text": "Advait Iyer"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Ff465bff60ebc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&user=Advait+Iyer&userId=f465bff60ebc&source=post_page-f465bff60ebc--byline--19026e008892---------------------post_header------------------",
+      "text": "Follow"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F19026e008892&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&user=Advait+Iyer&userId=f465bff60ebc&source=---header_actions--19026e008892---------------------clap_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F19026e008892&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&source=---header_actions--19026e008892---------------------bookmark_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "https://unsplash.com/@kellysikkema?utm_source=medium&utm_medium=referral",
+      "text": "Kelly Sikkema"
+    },
+    {
+      "url": "https://unsplash.com/?utm_source=medium&utm_medium=referral",
+      "text": "Unsplash"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Watts",
+      "text": "Alan Watts"
+    },
+    {
+      "url": "http://www.vedantany.org/resident-swamis/",
+      "text": "Swami Sarvapriyananda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vector_space",
+      "text": "vector space"
+    },
+    {
+      "url": "https://ai-pool.com/a/s/bias-variance-tradeoff-in-machine-learning",
+      "text": "ai-pool.com"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Occam%27s_razor",
+      "text": "Occam\u2019s Razor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tool_(band)",
+      "text": "TOOL"
+    },
+    {
+      "url": "https://www.manifold.ai/exploration-vs-exploitation-in-reinforcement-learning",
+      "text": "exploration and exploitation"
+    },
+    {
+      "url": "https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/",
+      "text": "Reinforcement Learning"
+    },
+    {
+      "url": "https://www.mathworks.com/discovery/unsupervised-learning.html",
+      "text": "branch"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g-Hb26agBFg",
+      "text": "method"
+    },
+    {
+      "url": "https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/principal_component_analysis.html",
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ozwodzD5bJM",
+      "text": "vector space"
+    },
+    {
+      "url": "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-25-22-27570&id=375887",
+      "text": "Research paper"
+    },
+    {
+      "url": "https://www.centreofexcellence.com/what-is-shadow-work/",
+      "text": "Shadow Work"
+    },
+    {
+      "url": "/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818",
+      "text": "Medium"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Supervised_learning",
+      "text": "Supervised Machine Learning"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+      "text": "Bayes\u2019 Theorem"
+    },
+    {
+      "url": "https://www.saedsayad.com/naive_bayesian.htm",
+      "text": "Naive Bayes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ensemble_learning",
+      "text": "ensemble learning"
+    },
+    {
+      "url": "https://www.sqlshack.com/microsoft-decision-trees-in-sql-server/",
+      "text": "SQLShack"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=goPiwckWE9M",
+      "text": "TechTour"
+    },
+    {
+      "url": "https://www.quora.com/What-are-the-key-trade-offs-between-overfitting-and-underfitting",
+      "text": "Quora"
+    },
+    {
+      "url": "/tag/spirituality?source=post_page-----19026e008892---------------------------------------",
+      "text": "Spirituality"
+    },
+    {
+      "url": "/tag/data-science?source=post_page-----19026e008892---------------------------------------",
+      "text": "Data Science"
+    },
+    {
+      "url": "/tag/machine-learning?source=post_page-----19026e008892---------------------------------------",
+      "text": "Machine Learning"
+    },
+    {
+      "url": "/tag/self-improvement?source=post_page-----19026e008892---------------------------------------",
+      "text": "Self Improvement"
+    },
+    {
+      "url": "/tag/perspective?source=post_page-----19026e008892---------------------------------------",
+      "text": "Perspective"
+    },
+    {
+      "url": "/@advaitiyer1995?source=post_page---post_author_info--19026e008892---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@advaitiyer1995?source=post_page---post_author_info--19026e008892---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@advaitiyer1995?source=post_page---post_author_info--19026e008892---------------------------------------",
+      "text": "Written by Advait Iyer"
+    },
+    {
+      "url": "/@advaitiyer1995/followers?source=post_page---post_author_info--19026e008892---------------------------------------",
+      "text": "20 Followers"
+    },
+    {
+      "url": "/@advaitiyer1995/following?source=post_page---post_author_info--19026e008892---------------------------------------",
+      "text": "31 Following"
+    },
+    {
+      "url": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--19026e008892---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://help.medium.com/hc/en-us?source=post_page-----19026e008892---------------------------------------",
+      "text": "Help"
+    },
+    {
+      "url": "https://medium.statuspage.io/?source=post_page-----19026e008892---------------------------------------",
+      "text": "Status"
+    },
+    {
+      "url": "/about?autoplay=1&source=post_page-----19026e008892---------------------------------------",
+      "text": "About"
+    },
+    {
+      "url": "/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----19026e008892---------------------------------------",
+      "text": "Careers"
+    },
+    {
+      "url": "mailto:pressinquiries@medium.com",
+      "text": "Press"
+    },
+    {
+      "url": "https://blog.medium.com/?source=post_page-----19026e008892---------------------------------------",
+      "text": "Blog"
+    },
+    {
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----19026e008892---------------------------------------",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----19026e008892---------------------------------------",
+      "text": "Terms"
+    },
+    {
+      "url": "https://speechify.com/medium?source=post_page-----19026e008892---------------------------------------",
+      "text": "Text to speech"
+    },
+    {
+      "url": "/business?source=post_page-----19026e008892---------------------------------------",
+      "text": "Teams"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png",
+      "alt": ""
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:88:88/1*bWk87RrtDCRZlP0KJXVkmg.jpeg",
+      "alt": "Advait Iyer"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:96:96/1*bWk87RrtDCRZlP0KJXVkmg.jpeg",
+      "alt": "Advait Iyer"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:128:128/1*bWk87RrtDCRZlP0KJXVkmg.jpeg",
+      "alt": "Advait Iyer"
+    }
+  ]
+}

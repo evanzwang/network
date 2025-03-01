@@ -1,0 +1,199 @@
+  Header
+          [Home](index.html)
+          [People](people.html)
+          [Research](research.html)
+          [Publications](publications.html)
+        li><a href="positions.html" style="color:red">Positions</a></li
+          [Media](media.html)
+        li><a href="internal.html">Internal</a></li
+        li><a href="#" class="button special"></a></li
+      p>The human factor</p
+    header class="major">
+    <h3>Current Lab Members</h3>
+  </header
+      Faculty
+          Ivan Bermejo-Moreno
+          Associate Professor of Aerospace and Mechanical Engineering
+            [bermejom@usc.edu](mailto: bermejom@usc.edu)
+      hr></hr
+      h3>Postdoctoral scholars</h3
+      div class="row">
+      <div class="2u">
+        <img src="images/people/jonas_buchmeier_480x640.jpg" alt="" class="img-fluid"/>
+      </div>
+      <div class="6u">
+        <b>Jonas Buchmeier</b>
+        <p>B.Sc., Mechanical Engineering, Leibniz University Hannover, Germany<br>
+           M.Sc., Aerospace Engineering, Technical University of Munich, Germany<br>
+           Ph.D., Mechanical Engineering, University of Southern California<br>
+           Email: <a href = "mailto: jbuchmei@usc.edu">jbuchmei@usc.edu</a>
+        </p>
+      </div>
+    </div
+      div class="row">
+      <div class="2u">
+        <img src="images/people/donya_ramezanian_480x640.jpg" alt="" class="img-fluid"/>
+      </div>
+      <div class="6u">
+        <b>Donya Ramezanian</b>
+        <p>B.Sc., Mechanical Engineering, University of Tehran, Iran<br>
+           Ph.D., Mechanical Engineering, University of Wyoming<br>
+           Email: <a href = "mailto: dramezan@usc.edu">dramezan@usc.edu</a>
+        </p>
+      </div>
+    </div
+      Doctoral students
+          Benjamin Dalman
+          B.Sc., Mechanical Engineering, University of Calgary, Canada
+            [dalman@usc.edu](mailto: dalman@usc.edu)
+          Thomas Cuvillier
+          B.Sc., New York University, New York
+            [thomas.cuvillier@usc.edu](mailto: thomas.cuvillier@usc.edu)
+          img src="images/people/silhouette_480x640.jpg" alt=""             class="img-fluid"/
+          Aishwarya Krishnan
+          B.E. (Hons.), Birla Institute of Technology & Science, Pilani, India
+            [ak42121@usc.edu](mailto: ak42121@usc.edu)
+      div class="row">
+      <div class="2u">
+        <img src="images/people/jonathan_hoy_480x640.jpg" alt="" class="img-fluid"/>
+      </div>
+      <div class="6u">
+        <b>Jonathan Hoy</b>
+        <p>B.Sc., Mechanical Engineering, California State Polytechnic University, Pomona<br>
+           M.Sc., Aerospace Engineering, University of Southern California<br>
+           Email: <a href = "mailto: hoyj@usc.edu">hoyj@usc.edu</a>
+        </p>
+      </div>
+    </div
+          Vanessa Rubien
+          B.Sc., Mechanical Engineering, California State Polytechnic University, Pomona, California
+            [vrubien@usc.edu](mailto: vrubien@usc.edu)
+          Naili Xu
+          B.E., Ocean Engineering, Shanghai Jiao Tong University, China
+            [nailixu@usc.edu](mailto: nailixu@usc.edu)
+          Ryan Zapp
+          B.Sc., University of the Pacific, Stockton, California
+            [rzapp@usc.edu](mailto: rzapp@usc.edu)
+      M.Sc. students
+        div class="2u">
+        <img src="images/people/david_magie_480x640_z.jpg" alt="" class="img-fluid"/>
+      </div
+          Sodiq Adeniji
+          Email:
+            [sadeniji@usc.edu](mailto: sadeniji@usc.edu)
+          H. Himanshu
+            [h190330@usc.edu](mailto: h190330@usc.edu)
+      Undergraduate students
+          Humzah Merchant
+          B.Sc., Mechanical Engineering, University of Southern California (class of 2026)
+        Email:
+            [hmerchan@usc.edu](mailto: hmerchan@usc.edu)
+      Former Lab Members
+          Postdoctoral Scholars
+            Jonas Buchmeier (2022).
+            Donya Ramezanian (2021-2022).
+          Ph.D. Students
+            Jonathan Hoy, Ph.D. (2022): Numerical study of shock-wave/turbulent boundary layer interactions on flexible and rigid panels with wall-modeled large-eddy simulations.
+            Jonas Buchmeier, Ph.D. (2022): Tracking and evolution of compressible turbulent flow structures.
+            Xiangyu Gao, Ph.D. (2020) (current: Google): Shock-induced combustion and mixing.
+          Visiting M.Sc. Students
+            Alexander Bussmann (Technical University Munich) (M.Sc. Thesis, May 2019 - Aug 2019): Tracking and Geometry of multiphase turbulent flows.
+          M.Sc. Students
+            Tianyi Bai (USC AME) (Directed Research, Summer, Fall 2020,
+Spring 2021): Simulation of person-to-person and room-scale droplets/aerosols dispersion.
+            Noah Seador (USC School of Archiecture) (Directed Research,
+Spring 2021): Simulation of passive air-filtering on liminal architectural
+surfaces.
+            Yiwei (Lucy) Lyu (USC School of Archiecture) (Directed Research,
+Spring 2021): Simulation of passive air-filtering on liminal architectural
+surfaces.
+            Jin Dou (USC CS) (Volunteer Research, 2018-2020): GPU-HPC compressible flow simulation; machine learning for data analysis.
+            Bailin Chen (USC CS) (Volunteer Research, 2019-2020): GPU-HPC compressible flow simulation; machine learning for data analysis.
+            Francisco del Campo Melchor (USC AME) (Directed Research, Summer 2020): Simulation of room-scale droplets/aerosols dispersion.
+            Arjun Pundarika (USC AME) (Directed Research, Summer 2020): Simulation and meshing of supersonic aerodynamics.
+            Saurabh Dube (USC AME) (Directed Research, Spring 2019): Flat-plate turbulent boundary layer simulation.
+            Ram-Srinivasan Shyam-Sundar (USC AME) (Directed Research, Spring 2018): CFD Visualization.
+          Undergraduate Students
+            David Magie (USC AME): CFD simulation of entry, descent and landing space mission.
+            Sinclair Sparkes (USC AME): Meshing and CFD simulation of entry, descent and landing space mission.
+            Marshall Basson (Carleton College - Physics) (USC SURE 2019): Wall-model LES of backward-facing step; Python-based meshing.
+            William Jo (University of Carlifornia, Irvine)  (USC SURE 2019): Data mining and particle tracking shock-turbulence interaction datasets.
+            David Nagoshi (USC AME) (Volunteer Research, Spring 2019): CFD simulation.
+          High-School Students
+            Alan Wang (Junior at Arnold O. Beckman High School) (SHINE,
+2020): Visualization of Turbulent Flow Structures.
+    Uncomment for additional row(s)>
+  <div class="container">
+    <div class="row">
+      <div class="4u">
+        <section class="special">
+          <a href="https://enme.umd.edu/clark/faculty/558/Johan-Larsson" class="image fit"><img src="images/people/larsson.jpg" alt="" /></a>
+          <h3>Johan Larsson</h3>
+          <p>Principal Investigator (UMD)</p>
+          <ul class="actions">
+            <li><a href="https://larsson.umd.edu" class="button alt">Learn More</a></li>
+          </ul>
+        </section>
+      </div>
+      <div class="4u">
+        <section class="special">
+          <a href="https://aeroastro.mit.edu/qiqi-wang" class="image fit"><img src="images/people/wang.jpg" alt="" /></a>
+          <h3>Qiqi Wang</h3>
+          <p>Co-Principal Investigator (MIT)</p>
+          <ul class="actions">
+            <li><a href="http://engineer-chaos.blogspot.com/" class="button alt">Learn More</a></li>
+          </ul>
+        </section>
+      </div>
+      <div class="4u">
+        <section class="special">
+          <a href="https://viterbi.usc.edu/directory/faculty/Bermejo-Moreno/Ivan" class="image fit"><img src="images/people/bermejo-moreno.jpg" alt="" /></a>
+          <h3>Ivan Bermejo-Moreno</h3>
+          <p>Co-Principal Investigator (USC)</p>
+          <ul class="actions">
+            <li><a href="http://aerolab.usc.edu/" class="button alt">Learn More</a></li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+  <Uncomment for additional row(s)
+  Footer
+      div class="row double">
+      <div class="6u">
+        <div class="row collapse-at-2">
+          <div class="6u">
+            <h3>Accumsan</h3>
+            <ul class="alt">
+              <li><a href="#">Nascetur nunc varius</a></li>
+              <li><a href="#">Vis faucibus sed tempor</a></li>
+              <li><a href="#">Massa amet lobortis vel</a></li>
+              <li><a href="#">Nascetur nunc varius</a></li>
+            </ul>
+          </div>
+          <div class="6u">
+            <h3>Faucibus</h3>
+            <ul class="alt">
+              <li><a href="#">Nascetur nunc varius</a></li>
+              <li><a href="#">Vis faucibus sed tempor</a></li>
+              <li><a href="#">Massa amet lobortis vel</a></li>
+              <li><a href="#">Nascetur nunc varius</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="6u">
+        <h2>Media</h2>
+        <p>Links to media.</p>
+        <ul class="icons">
+          <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+        </ul>
+      </div>
+    </div
+        © Ivan Bermejo-Moreno. All rights reserved.
+        Design:
+          [TEMPLATED](http://templated.co)

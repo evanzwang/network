@@ -1,0 +1,24 @@
+{
+  "title": "Andrew Ye",
+  "meta_description": "Andrew Ye is an undergraduate researcher at Case Western Reserve University.",
+  "main_content": "Publications About Me Blog",
+  "links": [
+    {
+      "url": "publications",
+      "text": "Publications"
+    },
+    {
+      "url": "about",
+      "text": "About Me"
+    },
+    {
+      "url": "blog",
+      "text": "Blog"
+    },
+    {
+      "url": "https://github.com/andrewlye",
+      "text": "andrewlye"
+    }
+  ],
+  "images": []
+}

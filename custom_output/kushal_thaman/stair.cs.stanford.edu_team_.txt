@@ -1,0 +1,119 @@
+        ?xml version="1.0" encoding="UTF-8" standalone="no"?
+        Stanford Trustworthy AI Research
+      [Research](/research/)
+      [Team](/team/)
+      [Papers](/papers/)
+      [Talks](/talk/)
+      [Prosepctive Students](/prospective_students/)
+      [Teaching](/teaching/)
+    modify main content of page:
+  - add section breaks
+  - attach section properties
+  - wrap each table in div to allow for scrolling
+  - filter out blank sections
+            Sanmi Koyejo
+              Principal Investigator
+            Anastasia Koloskova
+            Andy Haupt
+            Angelina Wang
+            Hejie Cui
+            Yu Sun
+            Ahmed Ahmed
+            Alyssa Unell
+            Anka Reuel
+            Brando Miranda
+            Joshua Kazdan
+            Ken Liu
+            Natalie Dullerud
+            Nicole Chiou
+            Nikil Roashan Selvam
+            Ruhana Azam
+            Rylan Schaeffer
+            Sang T. Truong
+            Suhana Bedi
+            Yibo Zhang
+            Zachary Robertson
+            Debora Caldarola
+            Haolun Wu
+            Isha Gupta
+            Luca Morlok
+            Martin Nguyen
+            Muhammad Ahmed Chaudhry
+            Sally Ky Dinh
+            Youssef Allouah
+            Zeyu Tang
+            Zhanke Zhou
+            Animesh Jha
+            Dhananjay Balakrishnan
+            Pura Peetathawatchai
+            Saumya Goyal
+            Shiny Weng
+            Sudharsan Sundar
+            Zhoujie Ding
+            Steven Dillman
+            Jonas Pao
+            Muhideen
+            Farnaz Jahanbakhsh
+            Jing Liu
+            Pablo D Robles Granda
+            Pedro Cisneros-Velarde
+            Berivan Isik
+            Cong Xie
+            Gaurush Hiranandani
+            Juho Kim
+            Katherine Tsai
+            Olawale Salaudeen
+            Peiye Zhuang
+            AiLing Zhang
+            Andrew Chen
+            Ashwin Ramesh
+            Cary Murray
+            Daniel Calzada
+            Duke Vijitbenjaronk
+            Enyi Jiang
+            Francis Roxas
+            Haroun Habeeb
+            Meilu Yuan
+            Patrick Cole
+            Paul Ruales Rosero
+            Ping-Ko Chiu
+            Raj Kiriti Velicheti
+            Rishika Agarwal
+            Rittika Adhikari
+            Sameer Manchanda
+            Shovik Guha
+            Christopher Settles
+            Yizhi Zhu
+            Yuxuan Zou
+            Andrés Carranza-Moreno
+            Bliss Chapman
+            Bowen Jiang
+            Dhruv Pai
+            Diwen Xu
+            Harshay Shah
+            Heling Zhang
+            Jatin Mathur
+            Kabir Manghnani
+            Kshitij Gupta
+            Kushal Thaman
+            Maaz Jedh
+            Maohao Shen
+            Nika Zahedi
+            Ran Li
+            Sam Pal
+            Samuel Kriman
+            Xiaoyan Wang
+            Yun Wu
+            Aaron Christson
+            Ahmed Elsayed
+            Carmen Araujo
+            Chase Duncan
+            Forest Yang
+            Zengjie Song
+            HyunJi (Alex) Nam
+            Krista Opsahl-Ong
+    <div>
+      Extra details like contact info or address
+    </div>
+    © 2025
+    Stanford Trustworthy AI Research

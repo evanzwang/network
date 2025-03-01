@@ -1,0 +1,273 @@
+{
+  "title": "GitHub - niya-ma-1/oci-landing-zones: OCI Landing Zones",
+  "meta_description": "OCI Landing Zones. Contribute to niya-ma-1/oci-landing-zones development by creating an account on GitHub.",
+  "main_content": "niya-ma-1 / oci-landing-zones Public forked from oci-landing-zones/oracle-enterprise-landingzone Notifications You must be signed in to change notification settings Fork 0 Star 0 OCI Landing Zones License UPL-1.0 license 0 stars 46 forks Branches Tags Activity Star Notifications You must be signed in to change notification settings niya-ma-1/oci-landing-zones main Branches Tags Go to file Code Folders and files Name Name Last commit message Last commit date Latest commit History 369 Commits .github/ workflows .github/ workflows Official_Documentation Official_Documentation examples examples images images modules modules templates templates test test .gitignore .gitignore .gitlab-ci.yml .gitlab-ci.yml CONTRIBUTING.md CONTRIBUTING.md LICENSE.txt LICENSE.txt README.md README.md RELEASE.md RELEASE.md SECURITY.md SECURITY.md View all files Repository files navigation Landing Zones This repository contains different types of Landing Zones to deploy to the Oracle Cloud Infrastructure platform. The landing zones are assembled from modules and templates that users can use in their default configuration or fork this repo and customize for your own scenarios. Oracle Enterprise Landing Zone v2 (OELZ v2) The Oracle Enterprise Landing Zone v2 (OELZ v2) deploys a typical architecture used by enterprise customers. The root template for this landing zone is located at Official_Documentation . Users can use the guides below to get started with the Oracle Enterprise Landing Zone v2 (OELZ v2). Architecture Guide Implementation Guide Configuration Guide Workload Expansion The Oracle Enterprise Landing Zone v2 (OELZ v2) deploys a workload in each environment (Prod and Non-Prod) by default. The user can use the workload expansion stack to deploy additional customized workload. The template for the workload expansion is located at Official_Documentation/OELZ_Workload_Deployment . Users can use the guides below to get started with Workload Expansion. Implementation Guide Configuration Guide Deploy Using Oracle Resource Manager Click to deploy the stack If you aren't already signed in, when prompted, enter the tenancy and user credentials. Review and accept the terms and conditions. Select the region where you want to deploy the stack. For Working directory, select templates/enterprise-landing-zone Follow the on-screen prompts and instructions to create the stack. After creating the stack, click Terraform Actions, and select Plan. Wait for the job to be completed, and review the plan. To make any changes, return to the Stack Details page, click Edit Stack, and make the required changes. Then, run the Plan action again. If no further changes are necessary, return to the Stack Details page, click Terraform Actions, and select Apply. The Team This repository is developed and supported by the Oracle OCI Landing Zones team. How to Contribute Interested in contributing? See our contribution guidelines for details. License Copyright (c) 2022,2023 Oracle and/or its affiliates. Licensed under the Universal Permissive License (UPL), Version 1.0. See LICENSE for more details. About OCI Landing Zones Resources Readme License UPL-1.0 license Security policy Security policy Activity Stars 0 stars Watchers 0 watching Forks 0 forks Report repository Releases No releases published Packages 0 No packages published Languages HCL 91.7% Python 7.9% Shell 0.4%",
+  "links": [
+    {
+      "url": "/niya-ma-1",
+      "text": "niya-ma-1"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones",
+      "text": "oci-landing-zones"
+    },
+    {
+      "url": "/oci-landing-zones/oracle-enterprise-landingzone",
+      "text": "oci-landing-zones/oracle-enterprise-landingzone"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Fork\n    0"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Star\n 0"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/LICENSE.txt",
+      "text": "UPL-1.0 license"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/stargazers",
+      "text": "0\n          stars"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/forks",
+      "text": "46\n          forks"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Star"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Notifications"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/branches",
+      "text": ""
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tags",
+      "text": ""
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/commits/main/",
+      "text": "369 Commits"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/commits/main/",
+      "text": ""
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/.github/workflows",
+      "text": ".github/workflows"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/.github/workflows",
+      "text": ".github/workflows"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/Official_Documentation",
+      "text": "Official_Documentation"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/Official_Documentation",
+      "text": "Official_Documentation"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/examples",
+      "text": "examples"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/examples",
+      "text": "examples"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/images",
+      "text": "images"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/images",
+      "text": "images"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/modules",
+      "text": "modules"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/modules",
+      "text": "modules"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/templates",
+      "text": "templates"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/templates",
+      "text": "templates"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/test",
+      "text": "test"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/tree/main/test",
+      "text": "test"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/.gitlab-ci.yml",
+      "text": ".gitlab-ci.yml"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/.gitlab-ci.yml",
+      "text": ".gitlab-ci.yml"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/CONTRIBUTING.md",
+      "text": "CONTRIBUTING.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/CONTRIBUTING.md",
+      "text": "CONTRIBUTING.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/LICENSE.txt",
+      "text": "LICENSE.txt"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/LICENSE.txt",
+      "text": "LICENSE.txt"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/RELEASE.md",
+      "text": "RELEASE.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/RELEASE.md",
+      "text": "RELEASE.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/SECURITY.md",
+      "text": "SECURITY.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/SECURITY.md",
+      "text": "SECURITY.md"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment",
+      "text": "Official_Documentation"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/Architecture_Guide.md",
+      "text": "Architecture Guide"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/IMPLEMENTATION.md",
+      "text": "Implementation Guide"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Baseline_Deployment/CONFIGURATION.md",
+      "text": "Configuration Guide"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Workload_Deployment",
+      "text": "Official_Documentation/OELZ_Workload_Deployment"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Workload_Deployment/IMPLEMENTATION.md",
+      "text": "Implementation Guide"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/Official_Documentation/OELZ_Workload_Deployment/CONFIGURATION.md",
+      "text": "Configuration Guide"
+    },
+    {
+      "url": "https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oci-landing-zones/oracle-enterprise-landingzone/archive/refs/tags/v2.3.1.zip",
+      "text": ""
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/CONTRIBUTING.md",
+      "text": "guidelines"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/blob/main/LICENSE",
+      "text": "LICENSE"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/stargazers",
+      "text": "0\n      stars"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/watchers",
+      "text": "0\n      watching"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/forks",
+      "text": "0\n      forks"
+    },
+    {
+      "url": "/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fniya-ma-1%2Foci-landing-zones&report=niya-ma-1+%28user%29",
+      "text": "Report repository"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones/releases",
+      "text": "Releases"
+    },
+    {
+      "url": "/users/niya-ma-1/packages?repo_name=oci-landing-zones",
+      "text": "Packages\n      0"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://camo.githubusercontent.com/c727d41bca2c71a90844a36f981f17d55fb44a08a9f3f98cd2e9e4c9f157cadc/68747470733a2f2f6f63692d7265736f757263656d616e616765722d706c7567696e2e706c7567696e732e6f63692e6f7261636c65636c6f75642e636f6d2f6c61746573742f6465706c6f792d746f2d6f7261636c652d636c6f75642e737667",
+      "alt": "Deploy to Oracle Cloud"
+    }
+  ]
+}

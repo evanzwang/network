@@ -1,0 +1,49 @@
+        Samir Menon
+          [menon.samir@gmail.com](mailto:menon.samir@gmail.com)
+        SWE at
+          [Apple](https://security.apple.com)
+          , working in SEAR
+        Previously: co-founder of
+          [Blyss](https://blyss.dev)
+          ,
+            SWE at
+          [Yubico](https://www.yubico.com/)
+          ,
+            research in the
+          [Stanford Applied Cryptography group](https://crypto.stanford.edu/)
+      I work in the Security Engineering and Architecture (SEAR) group at
+        , on
+        TLS and related internet technologies.
+      I previously co-founded
+        with
+        [Neil
+            Movva](https://www.neilmovva.com/)
+        .
+        We worked on running LLMs in hardware enclaves, and
+        on an
+        [SDK](https://github.com/blyssprivacy/sdk)
+        for private information retrieval.
+      Before that, I was a software engineer at
+        , where I worked on secure
+        device manufacturing and programming.
+      I've also done research in homomorphic encryption and private information retrieval.
+      Publications
+              [Respire: High-Rate PIR for Databases with Small Records](https://eprint.iacr.org/2024/1165)
+            Alexander Burton, Samir Jordan Menon, and David J. Wu
+            ACM CCS 2024
+              [YPIR: High-Throughput Single-Server PIR with Silent Preprocessing](https://eprint.iacr.org/2024/270)
+            Samir Jordan Menon and David J. Wu
+            USENIX Security 2024
+              [Spiral: Fast, High-Rate Single-Server PIR via FHE Composition](https://eprint.iacr.org/2022/368)
+            Oakland (IEEE S&P) 2022
+      Background
+      I got my B.S. and M.S. in Computer Science in 2019 from Stanford University; my tracks were Systems and Computer
+        & Network Security. While there, I was a TA for Prof. Dan Boneh's
+        [CS 255 (cryptography)](https://crypto.stanford.edu/~dabo/courses/cs255_winter19/)
+        and
+        [CS 251 (blockchain)](http://cs251crypto.stanford.edu/18au-cs251/)
+        classes. I also did research in
+        the Applied Cryptography group on
+        [speeding up lattice-based
+            SNARKs](https://github.com/dwu4/lattice-snarg)
+        .

@@ -1,0 +1,205 @@
+                              [Home](https://www.researchgate.net/)
+                              [California Institute of Technology](https://www.researchgate.net/institution/California_Institute_of_Technology)
+                              Zarif Azher
+                                    | CIT
+                            Contact
+                                  Connect with experts in your field
+                                Join ResearchGate to contact this researcher and connect with your scientific community.
+                                      Join for free
+                                      Log in
+                              [About](profile/Zarif-Azher#about)
+                              [Publications](profile/Zarif-Azher#publications)
+                                21
+                              [Network](profile/Zarif-Azher#network)
+                  549
+                  Reads
+                          How we measure 'reads'
+                        A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text.
+                          [Learn more](https://explore.researchgate.net/display/support/Reads)
+                  58
+                  Citations
+                Publications (21)
+                              [An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics from tissue morphology](https://www.researchgate.net/publication/384659589_An_initial_game-theoretic_assessment_of_enhanced_tissue_preparation_and_imaging_protocols_for_improved_deep_learning_inference_of_spatial_transcriptomics_from_tissue_morphology)
+                                Article
+                                    Oct 2024
+                                    Michael Y Fatemi
+                                    Yunrui Lu
+                                    Alos B Diallo
+                                [...]
+                                    Joshua J Levy
+                            The application of deep learning to spatial transcriptomics (ST) can reveal relationships between gene expression and tissue architecture. Prior work has demonstrated that inferring gene expression from tissue histomorphology can discern these spatial molecular markers to enable population scale studies, reducing the fiscal barriers associated with...
+                                    View
+                              [Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship](https://www.researchgate.net/publication/381770990_Simulating_The_US_Senate_An_LLM-Driven_Agent_Approach_to_Modeling_Legislative_Behavior_and_Bipartisanship)
+                                Preprint
+                                    Jun 2024
+                                    Zachary R. Baker
+                            This study introduces a novel approach to simulating legislative processes using LLM-driven virtual agents, focusing on the U.S. Senate Intelligence Committee. We developed agents representing individual senators and placed them in simulated committee discussions. The agents demonstrated the ability to engage in realistic debate, provide thoughtful...
+                              [Abstract B003: Preliminary machine learning integration of DNA methylation-based tumor immune microenvironment deconvolution with histopathological slides for bladder cancer prognostication](https://www.researchgate.net/publication/380690659_Abstract_B003_Preliminary_machine_learning_integration_of_DNA_methylation-based_tumor_immune_microenvironment_deconvolution_with_histopathological_slides_for_bladder_cancer_prognostication)
+                                    May 2024
+                                    Ze Zhang
+                                    Brock C Christensen
+                                    Joshua J. Levy
+                            Background: Analyzing the cellular composition of the tumor microenvironment (TME) is crucial for bladder cancer (BCa) prognosis but is hampered by technical and financial limitations of immunofluorescence, flow cytometry and scRNASeq, primarily due to cell disaggregation challenges, antibody selection and cost/throughput constraints. A DNA methyla...
+                              [Tu1703 MULTI CENTER VALIDATION OF VIDEO-BASED DEEP LEARNING TO INTERPRET ANORECTAL MANOMETRY](https://www.researchgate.net/publication/380343477_Tu1703_MULTI_CENTER_VALIDATION_OF_VIDEO-BASED_DEEP_LEARNING_TO_INTERPRET_ANORECTAL_MANOMETRY)
+                                    Brian D. Ginnebaugh
+                                    David J Levinthal
+                                    Eric D. Shah
+                              [Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis](https://www.researchgate.net/publication/377146797_Spatial_Omics_Driven_Crossmodal_Pretraining_Applied_to_Graph-based_Deep_Learning_for_Cancer_Pathology_Analysis)
+                                Full-text available
+                                    Jan 2024
+                                    Michael Fatemi
+                            Graph-based deep learning has shown great promise in cancer histopathology image analysis by contextualizing complex morphology and structure across whole slide images to make high quality downstream outcome predictions (ex: prognostication). These methods rely on informative representations (i.e., embeddings) of image patches comprising larger sli...
+                              [Potential to Enhance Large Scale Molecular Assessments of Skin Photoaging through Virtual Inference of Spatial Transcriptomics from Routine Staining](https://www.researchgate.net/publication/377146988_Potential_to_Enhance_Large_Scale_Molecular_Assessments_of_Skin_Photoaging_through_Virtual_Inference_of_Spatial_Transcriptomics_from_Routine_Staining)
+                                    Gokul Srinivasan
+                                    Matthew J Davis
+                                    Matthew R LeBoeuf
+                            The advent of spatial transcriptomics technologies has heralded a renaissance in research to advance our understanding of the spatial cellular and transcriptional heterogeneity within tissues. Spatial transcriptomics allows investigation of the interplay between cells, molecular pathways, and the surrounding tissue architecture and can help elucida...
+                                Conference Paper
+                                    Dec 2023
+                                    Matthew J. Davis
+                                    Matthew R. LeBoeuf
+                              [Feasibility of Inferring Spatial Transcriptomics from Single-Cell Histological Patterns for Studying Colon Cancer Tumor Heterogeneity](https://www.researchgate.net/publication/374595818_Feasibility_of_Inferring_Spatial_Transcriptomics_from_Single-Cell_Histological_Patterns_for_Studying_Colon_Cancer_Tumor_Heterogeneity)
+                                    Oct 2023
+                                    Michael Y. Fatemi
+                                    Cyril Sharma
+                            Background. Spatial transcriptomics involves studying the spatial organization of gene expression within tissues, offering insights into the molecular diversity of tumors. While spatial gene expression is commonly amalgamated from 1-10 cells across 50-micron spots, recent methods have demonstrated the capability to disaggregate this information at...
+                              [The Overlooked Role of Specimen Preparation in Bolstering Deep Learning-Enhanced Spatial Transcriptomics Workflows](https://www.researchgate.net/publication/374612693_The_Overlooked_Role_of_Specimen_Preparation_in_Bolstering_Deep_Learning-Enhanced_Spatial_Transcriptomics_Workflows)
+                                    Alos B. Diallo
+                            The application of deep learning methods to spatial transcriptomics has shown promise in unraveling the complex relationships between gene expression patterns and tissue architecture as they pertain to various pathological conditions. Deep learning methods that can infer gene expression patterns directly from tissue histomorphology can expand the c...
+                              [Using the Maryland Park Equity Tool to Correlate Park Space with Children's Health in Baltimore, Maryland](https://www.researchgate.net/publication/373001154_Using_the_Maryland_Park_Equity_Tool_to_Correlate_Park_Space_with_Children's_Health_in_Baltimore_Maryland)
+                                    Aug 2023
+                                    Vivek Ravichandran
+                                    Jan-Michael Archer
+                                    Lalitha Aiyar
+                                    Sacoby M. Wilson
+                                    Jul 2023
+                                    Joshua Levy
+                                    Matthew Davis
+                                    Matthew LeBoeuf
+                            The advent of spatial transcriptomics technologies has heralded a renaissance in research to advance our understanding of the spatial cellular and transcriptional heterogeneity within tissues. Spatial transcriptomics allows investigation of the interplay between cells, molecular pathways and the surrounding tissue architecture and can help elucidat...
+                                          +3
+                              [Assessment of emerging pretraining strategies in interpretable multimodal deep learning for cancer prognostication](https://www.researchgate.net/publication/372527724_Assessment_of_emerging_pretraining_strategies_in_interpretable_multimodal_deep_learning_for_cancer_prognostication)
+                                    Anish Suvarna
+                                    Ji-Qing Chen
+                            Background
+Deep learning models can infer cancer patient prognosis from molecular and anatomic pathology information. Recent studies that leveraged information from complementary multimodal data improved prognostication, further illustrating the potential utility of such methods. However, current approaches: 1) do not comprehensively leverage biolo...
+                              [Artificial Intelligence, Bioinformatics, and Pathology](https://www.researchgate.net/publication/370051939_Artificial_Intelligence_Bioinformatics_and_Pathology)
+                                    Apr 2023
+                                    Marietta Montivero
+                                    Louis Vaickus
+                              [Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study](https://www.researchgate.net/publication/369628674_Inferring_spatial_transcriptomics_markers_from_whole_slide_images_to_characterize_metastasis-related_spatial_heterogeneity_of_colorectal_tumors_A_pilot_study)
+                                    Mar 2023
+                                    Eric Feng
+                            Over 150 000 Americans are diagnosed with colorectal cancer (CRC) every year, and annually over 50 000 individuals will die from CRC, necessitating improvements in screening, prognostication, disease management, and therapeutic options. Tumor metastasis is the primary factor related to the risk of recurrence and mortality. Yet, screening for nodal...
+                              [Inferring Spatially Resolved Transcriptomics Data from Whole Slide Images for the Assessment of Colorectal Tumor Metastasis: A Feasibility Study](https://www.researchgate.net/publication/365829496_Inferring_Spatially_Resolved_Transcriptomics_Data_from_Whole_Slide_Images_for_the_Assessment_of_Colorectal_Tumor_Metastasis_A_Feasibility_Study)
+                                    Nov 2022
+                            Over 150,000 Americans are diagnosed with colorectal cancer (CRC) every year, and annually over 50,000 individuals will die from CRC, necessitating improvements in screening, prognostication, disease management, and therapeutic options. Tumor metastasis is the primary factor related to the risk of recurrence and mortality. Yet, screening for nodal...
+                              [Assessment of Emerging Pretraining Strategies in Interpretable Multimodal Deep Learning for Cancer Prognostication](https://www.researchgate.net/publication/365724087_Assessment_of_Emerging_Pretraining_Strategies_in_Interpretable_Multimodal_Deep_Learning_for_Cancer_Prognostication)
+                            Deep learning models have demonstrated the remarkable ability to infer cancer patient prognosis from molecular and anatomic pathology information. Studies in recent years have demonstrated that leveraging information from complementary multimodal data can improve prognostication, further illustrating the potential utility of such methods. Model int...
+                              [Development of biologically interpretable multimodal deep learning model for cancer prognosis prediction](https://www.researchgate.net/publication/360441991_Development_of_biologically_interpretable_multimodal_deep_learning_model_for_cancer_prognosis_prediction)
+                                    Apr 2022
+                                    Louis J. Vaickus
+                                    Lucas A Salas
+                              [Development of Biologically Interpretable Multimodal Deep Learning Model for Cancer Prognosis Prediction](https://www.researchgate.net/publication/355875678_Development_of_Biologically_Interpretable_Multimodal_Deep_Learning_Model_for_Cancer_Prognosis_Prediction)
+                                    Nov 2021
+                                    Louis J Vaickus
+                            Robust cancer prognostication can enable more effective patient care and management, which may potentially improve health outcomes. Deep learning has proven to be a powerful tool to extract meaningful information from cancer patient data. In recent years it has displayed promise in quantifying prognostication by predicting patient risk. However, mo...
+                              Cited
+                                              [Jerome Galon](profile/Jerome-Galon)
+                                                French Institute of Health and Medical Research
+                                              [Shikhar Uttam](profile/Shikhar-Uttam)
+                                                University of Pittsburgh
+                                              [Joel Saltz](profile/Joel-Saltz)
+                                                Stony Brook University
+                                              [Olivier Gevaert](profile/Olivier-Gevaert)
+                                                Stanford University
+                                              [Oliver Stegle](profile/Oliver-Stegle)
+                                                German Cancer Research Center
+                              Cited By
+                                              [Takahisa Suzuki](profile/Takahisa-Suzuki-2)
+                                                Hiroshima University
+                                              [Nhan L Tran](profile/Nhan-Tran-3)
+                                                Mayo Clinic - Scottsdale
+                                              [Kristin R Swanson](profile/Kristin-Swanson)
+                                              [Shiro Oka](profile/Shiro-Oka)
+                                              [Bruce J Aronow](profile/Bruce-Aronow)
+                                                University of Cincinnati
+                Current institution
+                                    Pasadena, United States
+                Co-authors
+                      Top co-authors
+                                        [Gregory J Tsongalis](profile/Gregory_Tsongalis)
+                                          Geisel School of Medicine at Dartmouth
+                                          University of Maryland, College Park
+                                          Dana-Farber Cancer Institute
+                                          Emory University
+                          All co-authors (50)
+                                          [A. Aziz Ould Ismail](profile/A-Aziz-Ould-Ismail)
+                                          Department
+                                                Department of Pathology
+                                          [Ramya Reddy](profile/Ramya-Reddy-11)
+                                                Yale College
+                                          [Adam Gilbert-Diamond](profile/Adam-Gilbert-Diamond)
+                                                Epidemiology
+                                          [Sacoby Wilson](scientific-contributions/Sacoby-Wilson-2127922809)
+                                          [Thomas J. Palys](scientific-contributions/Thomas-J-Palys-2129659932)
+                                          [Brock Christensen](scientific-contributions/Brock-Christensen-2137241370)
+                                          [Fred W. Kolling](scientific-contributions/Fred-W-Kolling-2172537469)
+                                          [Laurent Perreard](scientific-contributions/Laurent-Perreard-2176803218)
+                                          [Rachael E. Barney](scientific-contributions/Rachael-E-Barney-2186925744)
+                                          [Scott M. Palisoul](scientific-contributions/Scott-M-Palisoul-2187958330)
+                  Advertisement
+                          Join ResearchGate to find the people and research you need to help your work
+                              25+ million
+                              members
+                              160+ million
+                              publication pages
+                              2.3+ billion
+                              citations
+                        Loading...
+                    Lab members
+                    Current journal roles
+                        What type of researcher are you?
+                        Only verified researchers can join ResearchGate and send messages to other members.
+                                      Academic or student
+                                      University students and faculty, institute members, and independent researchers
+                                      Corporate, government, or NGO researcher
+                                      Technology or product developers, R&D specialists, and government or NGO employees in scientific roles
+                                      Medical
+                                      Health care professionals, including clinical researchers
+                                      Not a researcher
+                                      Journalists, citizen scientists, or anyone interested in reading and discovering research
+                      You may be eligible for a free account
+                          Sorry, you need to be a researcher to join ResearchGate.
+                          Due to our privacy policy, only current members can send messages to people on ResearchGate.
+                      Already a member?
+                            Back
+                            Close
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=hM0uAWnKHBjcdQx5j7Fr0DHNh2JetI0dhU62v9WhKxAYXK-IHsG0QVBXArE7d-q1tPqFXcKjD-0ULT7zbhureHY_Z3g)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

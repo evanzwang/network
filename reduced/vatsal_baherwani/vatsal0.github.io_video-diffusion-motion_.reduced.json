@@ -1,0 +1,29 @@
+{
+  "title": "Video Diffusion Models Encode Motion in Early Timesteps",
+  "meta_description": "DESCRIPTION META TAG",
+  "main_content": "BibTeX Coming soon!",
+  "links": [
+    {
+      "url": "https://vatsal0.github.io/",
+      "text": "Vatsal Baherwani"
+    },
+    {
+      "url": "https://ryx19th.github.io/",
+      "text": "Yixuan Ren"
+    },
+    {
+      "url": "https://www.cs.umd.edu/~abhinav/",
+      "text": "Abhinav Shrivastava"
+    },
+    {
+      "url": "https://vatsal0.github.io/data/MotionDisentanglement.pdf",
+      "text": "Paper"
+    }
+  ],
+  "images": [
+    {
+      "src": "static/images/method.png",
+      "alt": ""
+    }
+  ]
+}

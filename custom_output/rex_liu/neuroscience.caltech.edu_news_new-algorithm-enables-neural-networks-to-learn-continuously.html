@@ -1,0 +1,4321 @@
+<!DOCTYPE html>
+
+
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>New Algorithm Enables Neural Networks to Learn Continuously
+     - 
+    
+    Chen Institute</title>
+  
+    <meta name="description" content="Caltech researchers have developed a new type of algorithm based on a field of mathematics called differential geometry, enabling artificial neural networks to be updated in real time.">
+  
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/static/core/img/favicon-75.png?v=6.2.5">
+
+  
+  <!-- Generic FavIcons -->
+  <link rel="icon" href="/static/core/img/favicon-32.png?v=6.2.5" sizes="32x32">
+  <link rel="icon" href="/static/core/img/favicon-57.png?v=6.2.5" sizes="57x57">
+  <link rel="icon" href="/static/core/img/favicon-76.png?v=6.2.5" sizes="76x76">
+  <link rel="icon" href="/static/core/img/favicon-96.png?v=6.2.5" sizes="96x96">
+  <link rel="icon" href="/static/core/img/favicon-128.png?v=6.2.5" sizes="128x128">
+  <link rel="icon" href="/static/core/img/favicon-192.png?v=6.2.5" sizes="192x192">
+  <link rel="icon" href="/static/core/img/favicon-228.png?v=6.2.5" sizes="228x228">
+  <!-- Android -->
+  <link rel="shortcut icon" sizes="196x196" href="/static/core/img/favicon-196.png?v=6.2.5">
+  <!-- iOS -->
+  <link rel="apple-touch-icon" href="/static/core/img/favicon-120.png?v=6.2.5" sizes="120x120">
+  <link rel="apple-touch-icon" href="/static/core/img/favicon-152.png?v=6.2.5" sizes="152x152">
+  <link rel="apple-touch-icon" href="/static/core/img/favicon-180.png?v=6.2.5" sizes="180x180">
+  <!-- Windows 8 IE 10-->
+  <meta name="msapplication-TileColor" content="#D14900">
+  <meta name="msapplication-TileImage" content="/static/core/img/favicon-144.png?v=6.2.5">
+  <!-- Windows 8.1 + IE11 and above -->
+  <meta name="msapplication-config" content="/static/core/img/browserconfig.xml?v=6.2.5">
+
+  <!-- Base CSS -->
+  
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap4.min.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css" />
+  <link rel="stylesheet" href="/static/CACHE/css/output.6927168c4c3b.css" type="text/css">
+  <!-- End Base CSS -->
+
+  <!-- Site Type CSS -->
+  
+  
+    <link rel="stylesheet" href="/static/CACHE/css/output.57b991578d3d.css" type="text/css">
+  
+  <!-- End Site Type CSS -->
+
+  <!-- Extra CSS -->
+  
+    
+  
+  <!-- End Extra CSS -->
+
+  
+  
+  
+
+  
+  
+
+  <!-- Base JS -->
+  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script defer src="/static/airspace/js/jquery.mousewheel.min.js"></script>
+
+  <script async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <!-- These are the url for the DataTables version that support Bootstrap 4 + Responsive. -->
+  <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"></script>
+  <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap4.min.js"></script>
+
+  <script src="/static/CACHE/js/output.54b9aeca30a0.js"></script>
+<script src="/static/CACHE/js/output.85ffa0965727.js" defer></script>
+  <!-- End Base JS -->
+
+  <!-- Site Type JS -->
+  
+    <script src="https://feeds.library.caltech.edu/scripts/CL.js"></script>
+    <script src="https://feeds.library.caltech.edu/scripts/CL-doi-media.js"></script>
+    <script src="/static/CACHE/js/output.284c8b74e6dc.js" defer></script>
+  
+  <!-- End Site Type JS -->
+
+  <!-- Extra JS -->
+  
+    
+  
+  <!-- End Extra JS -->
+
+  
+  
+
+<meta property="og:url" content="http://neuroscience.caltech.edu/news/new-algorithm-enables-neural-networks-to-learn-continuously" />
+<meta property="og:site_name" content="Tianqiao and Chrissy Chen Institute for Neuroscience" />
+<meta property="og:title" content="New Algorithm Enables Neural Networks to Learn Continuously" />
+<meta property="og:type" content="article" />
+<meta name="twitter:title" content="New Algorithm Enables Neural Networks to Learn Continuously">
+
+
+  
+  <meta property="og:description" content="Caltech researchers have developed a new type of algorithm based on a field of mathematics called differential geometry, enabling artificial neural networks to be updated in real time." />
+  <meta name="twitter:description" content="Caltech researchers have developed a new type of algorithm based on a field of mathematics called differential geometry, enabling artificial neural networks to be updated in real time.">
+
+
+  
+  <meta property="og:image" content="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.width-600.jpg" />
+  
+  <meta name="og:image:alt" content="Brain made of computer chip and wires">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.width-600.jpg">
+
+
+  <meta name="og:article:published_time" content="2024-10-09T10:49:30-0700">
+
+
+
+</head>
+
+<body class="caltech_sites">
+  
+
+  
+    
+    <div data-sprite></div>
+    <script src="/static/wagtailadmin/js/icons.js?v=6a08e15b" data-icon-url="/admin/sprite/?h=c7c5a148"></script>
+  
+  
+  
+
+  <header class="width-1440-container">
+    <a class="text-assistive display-at-top-on-focus" href="#content">skip to main content</a>
+    
+    
+    
+    
+      
+      
+
+
+
+
+  
+
+<div class="header header--left d-flex flex-wrap">
+  
+
+
+
+  <nav class="header__utility-menu d-none d-md-flex w-100 justify-content-end" aria-label="Useful links">
+    <ul class="d-flex" aria-label="Useful links">
+    
+      <li class="header__utility-menu__item ">
+        
+          <a class="header__utility-menu__link
+          "
+          id="utility-menu-1" href="mailto:neuroscience-join@caltech.edu">Join Our Mailing List</a>
+        
+      </li>
+    
+      <li class="header__utility-menu__item  dropdown ">
+        
+          <button type="button" class="header__utility-menu__opener dropdown-toggle" data-toggle="dropdown" aria-controls="utility-menu-2" aria-haspopup="true" aria-expanded="false">
+            Find Us On Social Media
+            <img class="header__utility-menu__opener__icon" src="/static/wagtail_menu/img/icon-chevron-grey-550.png" alt="">
+            <img class="header__utility-menu__opener__icon chevron-orange" src="/static/wagtail_menu/img/icon-chevron-orange.png" alt="">
+          </button>
+
+          <ul class="header__utility-menu__dropdown dropdown-menu dropdown-menu-right" id="utility-menu-2" aria-label="Find Us On Social Media">
+            
+              <li>
+                <a class="header__utility-menu__dropdown__item dropdown-item" href="https://www.facebook.com/Caltech-Neuroscience-366463310617877/">Facebook</a>
+              </li>
+            
+              <li>
+                <a class="header__utility-menu__dropdown__item dropdown-item" href="https://twitter.com/CaltechN">Twitter</a>
+              </li>
+            
+              <li>
+                <a class="header__utility-menu__dropdown__item dropdown-item" href="https://www.youtube.com/channel/UCeCHMMrQVIqgssGn81NI4aw?view_as=subscriber">YouTube</a>
+              </li>
+            
+          </ul>
+        
+      </li>
+    
+    </ul>
+  </nav>
+
+
+
+  
+  
+  
+  <div class="header__title w-100 d-flex flex-column flex-sm-row align-items-sm-end">
+    
+      
+        <a class="header__title__caltech-link d-block" href="https://www.caltech.edu">
+          <img alt="Caltech" class="header__wordmark" src="/static/core/img/caltech-new-logo.png">
+        </a>
+      
+      <div class="header__title__separator h-100"></div>
+    
+    
+    
+      <a class="header__title__homepage-link d-block mr-sm-auto" href="/"
+       
+      >
+        Tianqiao and Chrissy Chen Institute for Neuroscience
+      </a>
+    
+  </div>
+
+  
+    
+
+<nav class="header__main-menu d-none d-xl-flex" aria-label="Main">
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-1
+      d-flex justify-content-start
+      " id="main-menu-1" tabindex="-1" aria-label="Main">
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/">Home</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/about">About</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-1__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-3" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open About submenu</span>
+          
+            <svg class="header__main-menu__level-1-opener-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-down"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-2
+      
+      dropdown-menu" id="main-menu-3" tabindex="-1" aria-label="About">
+      <li class="header__main-menu__level-2__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/about/history-caltech-neuroscience">History of Caltech Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/about/cnrb">Chen Neuroscience Research Building</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/about">Research Centers</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-6" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Research Centers submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-6" tabindex="-1" aria-label="Research Centers">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/tc-chen-brain-machine-interface-center">T&amp;C Chen Brain-Machine Interface Center</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/caltech-brain-imaging-center">Caltech Brain Imaging Center</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/tc-chen-center-social-and-decision-neuroscience">T&amp;C Chen Center for Social and Decision Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/tc-chen-center-systems-neuroscience">T&amp;C Chen Center for Systems Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/center-molecular-and-cellular-neuroscience">Center for Molecular and Cellular Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/chen-center-neuroscience-education">T&amp;C Chen Center for Neuroscience Education</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/about/research-centers/chen-center-for-datasai">Chen Center for Data Science and Artificial Intelligence</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/people/leadership">People</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/news">News</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/events">Events</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/research">Research</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-1__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-17" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Research submenu</span>
+          
+            <svg class="header__main-menu__level-1-opener-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-down"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-2
+      
+      dropdown-menu" id="main-menu-17" tabindex="-1" aria-label="Research">
+      <li class="header__main-menu__level-2__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/research/publications">Publications</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/research/talks-and-presentations">Talks and Presentations</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-19" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Talks and Presentations submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-19" tabindex="-1" aria-label="Talks and Presentations">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/research/talks-and-presentations/ted-tedx-talks">TED and TEDx Talks</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/research/talks-and-presentations/caltech-talks">Caltech Talks</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/research/talks-and-presentations/other-talks">Other Talks</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/grants">Grants</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-1__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-23" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Grants submenu</span>
+          
+            <svg class="header__main-menu__level-1-opener-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-down"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-2
+      
+      dropdown-menu" id="main-menu-23" tabindex="-1" aria-label="Grants">
+      <li class="header__main-menu__level-2__item  dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/rfps-2025">Call for Research Proposals FY2025</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-24" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Call for Research Proposals FY2025 submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-24" tabindex="-1" aria-label="Call for Research Proposals FY2025">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/rfps-2025/directors-rfp-2025">Director&#x27;s Award RFP</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/rfps-2025/bmi-rfp-2025">T&amp;C Chen Center Brain-Machine Interface RFP</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/rfps-2025/systemsneuro-rfp-2025">T&amp;C Chen Center for Systems Neuroscience RFP</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/research-grant-awards/2024-awards">Research Grant Awards</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-28" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Research Grant Awards submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-28" tabindex="-1" aria-label="Research Grant Awards">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2024-awards">2024 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2023-awards">2023 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2022-awards">2022 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2020-awards">2020 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2019-awards">2019 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/research-grant-awards/2018-awards">2018 Research Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024">Chen Graduate Innovator Grant Awards</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-35" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Chen Graduate Innovator Grant Awards submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-35" tabindex="-1" aria-label="Chen Graduate Innovator Grant Awards">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024">Chen Graduate Innovators 2024</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2022">Chen Graduate Innovators 2022</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-awards-2019-2021">Chen Graduate Innovators 2019 - 2021</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/chen-postdoctoral-scholar-innovator-grant-awards">Chen Postdoctoral Scholar Innovator Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/travel-grant-awards">Travel Grant Awards</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/chen-distinguished-visitor-program">Chen Distinguished Visitor Program</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/grants/awards">SDN Shared Postdoctoral Fellow Awards</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/programs/symposiums/chen-institute-symposium-2025">Programs</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-1__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-43" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Programs submenu</span>
+          
+            <svg class="header__main-menu__level-1-opener-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-down"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-2
+      
+      dropdown-menu" id="main-menu-43" tabindex="-1" aria-label="Programs">
+      <li class="header__main-menu__level-2__item  dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/retreats/chen-institute-retreat-2024">Retreats</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-44" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Retreats submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-44" tabindex="-1" aria-label="Retreats">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/retreats/chen-institute-retreat-2024">Chen Institute Retreat 2024</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/retreats/chen-institute-retreat-2023">Chen Institute Retreat 2023</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/retreats/chen-institute-retreat-2022">Chen Institute Retreat 2022</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/retreats/chen-institute-retreat-2019">Chen Institute Retreat 2019</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/retreats/chen-institute-retreat-2018">Chen Institute Retreat 2018</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/workshops">Workshops</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-50" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Workshops submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-50" tabindex="-1" aria-label="Workshops">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-on-ai-for-neuro">Chen Institute Workshop on AI for Neuro</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-on-new-models-and-methods-in-invertebrate-neuroscience">Chen Institute Workshop on New Models and Methods in Invertebrate Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-methods-evolutionary-neuroscience">Chen Institute Workshop on Methods in Evolutionary Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-measurement-and-analysis-behavior">Chen Institute Workshop on the Measurement and Analysis of Behavior</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-genomic-neuroscience">Chen Institute Workshop on Genomic Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-decision-making-and-free-will">Chen Institute Workshop on Decision Making and Free Will</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-chemistry-and-brain">Chen Institute Workshop on Chemistry and the Brain</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/workshops/chen-institute-workshop-computational-approaches-neuroscience">Chen Institute Workshop on Computational Approaches to Neuroscience</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/networking-opportunities">Networking</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/symposiums/chen-institute-symposium-2025">Symposiums</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-60" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Symposiums submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-60" tabindex="-1" aria-label="Symposiums">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/symposiums/chen-institute-symposium-2025">Chen Institute Symposium 2025</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/symposiums/chen-institute-symposium-2023">Chen Institute Symposium 2023</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/symposiums/chen-institute-symposium-2021">Chen Institute Symposium 2021</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/symposiums/chen-institute-symposium-2019">Chen Institute Symposium 2019</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/seminars">Seminars</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-65" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Seminars submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-65" tabindex="-1" aria-label="Seminars">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/seminars/chen-institute-directors-seminar-series">Chen Institute for Neuroscience Director&#x27;s Seminar Series</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/seminars/chen-institute-virtual-seminar-series">Chen Institute Virtual Seminar Series</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/seminars/tc-chen-center-social-and-decision-neuroscience-sdn-seminar-series">T&amp;C Chen Center for Social and Decision Neuroscience (SDN) Seminar Series</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/datasai-for-neuroscience-summer-schools">DataSAI for Neuroscience Summer Schools</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-69" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open DataSAI for Neuroscience Summer Schools submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-69" tabindex="-1" aria-label="DataSAI for Neuroscience Summer Schools">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/datasai-for-neuroscience-summer-schools/2023-data-science-and-ai-for-neuroscience-summer-school">2023 DataSAI for Neuroscience Summer School</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/programs/datasai-for-neuroscience-summer-schools/2022-data-science-and-ai-for-neuroscience-summer-school">2022 DataSAI for Neuroscience Summer School</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/programs/student-postdoc-programming">Student and Postdoc Programming</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+  
+    
+    
+      
+      
+        
+        </div>
+      
+      </li>
+      <li class="header__main-menu__level-1__item menu-item">
+        
+        <div class="header__main-menu__level-1__item__wrapper d-flex flex-row justify-content-start">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-1__link" href="/about/research-centers/chen-center-neuroscience-education">Education</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-1__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-73" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Education submenu</span>
+          
+            <svg class="header__main-menu__level-1-opener-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-down"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-2
+      
+      dropdown-menu" id="main-menu-73" tabindex="-1" aria-label="Education">
+      <li class="header__main-menu__level-2__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/education/phd_options">Neuroscience PhD Options</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/education/student-scientific-storytelling">Student Scientific Storytelling</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/education/science-journeys">Science Journeys</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-2__item dropdown-submenu">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-2__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2024">Chen Institute BrainWAVE Fellowship Program</a>
+  
+      
+      
+        <button type="button" class="header__main-menu__level-2__opener dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-controls="main-menu-77" aria-haspopup="true" aria-expanded="false">
+          <span class="sr-only">Open Chen Institute BrainWAVE Fellowship Program submenu</span>
+          
+            
+            <svg class="header__main-menu__plus-minus-icon plus icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-plus"></use></svg>
+            <svg class="header__main-menu__plus-minus-icon minus icon d-none" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-minus"></use></svg>
+          
+        </button>
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      <ul class="header__main-menu__level-3
+      
+      dropdown-menu" id="main-menu-77" tabindex="-1" aria-label="Chen Institute BrainWAVE Fellowship Program">
+      <li class="header__main-menu__level-3__item  dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/education/brainwave-fellowship-program/sign-up">Sign-up to receive updates about the BrainWAVE program</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2024">BrainWAVE Fellows 2024</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2023">BrainWAVE Fellows 2023</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2022">BrainWAVE Fellows 2022</a>
+  
+      
+      
+    
+  
+    
+    
+  
+    
+    
+      
+      
+      </li>
+      <li class="header__main-menu__level-3__item dropdown-item">
+        
+    
+  
+    
+    
+      <a class="header__main-menu__level-3__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2021">BrainWAVE Fellows 2021</a>
+  
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+      
+      
+      
+      </li>
+      
+      </ul>
+    
+      
+      
+      
+        </div>
+      
+      </li>
+      
+        <!--suppress HtmlWrongAttributeValue -->
+        <li class="header__main-menu__level-1__item header__search" role="search" aria-label="Site">
+          
+
+<button type="button" class="header__search__button" aria-controls="search-form" aria-haspopup="true" aria-expanded="false" aria-label="Search">
+  <img alt="" class="header__search__icon" src="/static/wagtail_menu/img/icon-search.png">
+</button>
+
+<form  id="search-form" class="header__search__form" action="/search" method="GET">
+  <label class="header__search__form__label mb-0 w-100 mr-3"><span class="sr-only">Search</span><input class="header__search__form__query w-100 h-100" type="search" name="q" value="" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" /></label><button class="header__search__form__submit" type="submit">Search</button>
+</form>
+
+        </li>
+      
+      </ul>
+    
+  
+</nav>
+
+    
+
+<nav class="header__slide-menu-and-search d-flex d-xl-none align-items-start" aria-label="Main">
+  <div class="header__slide-menu slide-menu dropdown">
+    <button type="button" class="slide-menu__opener dropdown-toggle"
+      data-toggle="dropdown" aria-controls="slide-menu" aria-haspopup="true"
+      aria-expanded="false" aria-label="Main Menu">
+      Menu
+      <img aria-label="Open Main Menu" class="slide-menu__burger"
+        src="/static/wagtail_menu/img/menu-burger.png">
+    </button>
+
+    <div id="slide-menu" class="slide-menu__dropdown dropdown-menu ">
+      <div class="slide-menu__slide-wrapper d-flex">
+        <div class="slide-menu__level-1">
+          <button class="slide-menu__close-wrapper">
+            <span class="slide-menu__close"><svg class="slide-menu__close__icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-xmark"></use></svg> Close</span>
+          </button>
+
+          <div class="slide-menu__divider slide-menu__divider--post-search dropdown-divider"></div>
+
+          <div class="slide-menu__main-menu">
+            
+              <ul class="slide-menu-ul">
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="/">
+            Home
+          </a>
+
+          
+        
+      </li>
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="https://neuroscience.caltech.edu/about">
+            About
+          </a>
+
+          
+            
+            <button type="button" class="slide-menu__level-1__slide-opener dropdown-toggle dropdown-toggle-split" data-slide-id="#slide-menu-slide-65688" aria-controls="slide-menu-slide-65688" aria-haspopup="true" aria-expanded="false">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-right"></use></svg>
+              <span class="sr-only">Open About submenu</span>
+            </button>
+          
+        
+      </li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="/people/leadership">
+            People
+          </a>
+
+          
+        
+      </li>
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="https://neuroscience.caltech.edu/news">
+            News
+          </a>
+
+          
+        
+      </li>
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="https://neuroscience.caltech.edu/events">
+            Events
+          </a>
+
+          
+        
+      </li>
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="https://neuroscience.caltech.edu/research">
+            Research
+          </a>
+
+          
+            
+            <button type="button" class="slide-menu__level-1__slide-opener dropdown-toggle dropdown-toggle-split" data-slide-id="#slide-menu-slide-65711" aria-controls="slide-menu-slide-65711" aria-haspopup="true" aria-expanded="false">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-right"></use></svg>
+              <span class="sr-only">Open Research submenu</span>
+            </button>
+          
+        
+      </li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="https://neuroscience.caltech.edu/grants">
+            Grants
+          </a>
+
+          
+            
+            <button type="button" class="slide-menu__level-1__slide-opener dropdown-toggle dropdown-toggle-split" data-slide-id="#slide-menu-slide-72355" aria-controls="slide-menu-slide-72355" aria-haspopup="true" aria-expanded="false">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-right"></use></svg>
+              <span class="sr-only">Open Grants submenu</span>
+            </button>
+          
+        
+      </li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="/programs/symposiums/chen-institute-symposium-2025">
+            Programs
+          </a>
+
+          
+            
+            <button type="button" class="slide-menu__level-1__slide-opener dropdown-toggle dropdown-toggle-split" data-slide-id="#slide-menu-slide-66979" aria-controls="slide-menu-slide-66979" aria-haspopup="true" aria-expanded="false">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-right"></use></svg>
+              <span class="sr-only">Open Programs submenu</span>
+            </button>
+          
+        
+      </li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <li class="slide-menu__level-1__item d-flex">
+        
+          <a class="slide-menu__level-1__link" href="/about/research-centers/chen-center-neuroscience-education">
+            Education
+          </a>
+
+          
+            
+            <button type="button" class="slide-menu__level-1__slide-opener dropdown-toggle dropdown-toggle-split" data-slide-id="#slide-menu-slide-67710" aria-controls="slide-menu-slide-67710" aria-haspopup="true" aria-expanded="false">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-right"></use></svg>
+              <span class="sr-only">Open Education submenu</span>
+            </button>
+          
+        
+      </li>
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+</ul>
+
+            
+          </div>
+
+          
+          
+            
+              <div class="slide-menu__divider dropdown-divider d-md-none"></div>
+            
+          
+
+          <div class="slide-menu__utility-menu d-md-none">
+            
+              <ul aria-label="Useful links">
+
+  
+  <li class="slide-menu__utility-menu__item ">
+    
+      <a class="slide-menu__utility-menu__link" href="mailto:neuroscience-join@caltech.edu">
+        Join Our Mailing List
+      </a>
+    
+  </li>
+
+  
+    <li class="slide-menu__divider slide-menu__divider--utility-menu dropdown-divider"></li>
+  
+  <li class="slide-menu__utility-menu__item  slide-menu__utility-menu__item--has-submenu ">
+    
+      <span class="slide-menu__utility-menu__link" href="" id="slide-menu-utility-2" >
+        Find Us On Social Media
+      </span>
+      <ul class="slide-menu__utility-menu__submenu" aria-label="Find Us On Social Media">
+        
+          <li class="slide-menu__utility-menu__submenu__item">
+            <a class="slide-menu__utility-menu__submenu__link" href="https://www.facebook.com/Caltech-Neuroscience-366463310617877/">Facebook</a>
+          </li>
+        
+          <li class="slide-menu__utility-menu__submenu__item">
+            <a class="slide-menu__utility-menu__submenu__link" href="https://twitter.com/CaltechN">Twitter</a>
+          </li>
+        
+          <li class="slide-menu__utility-menu__submenu__item">
+            <a class="slide-menu__utility-menu__submenu__link" href="https://www.youtube.com/channel/UCeCHMMrQVIqgssGn81NI4aw?view_as=subscriber">YouTube</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+
+</ul>
+
+            
+          </div>
+        </div>
+
+        
+          
+
+
+  
+  
+
+  
+  
+
+  
+  
+    
+      
+        
+        <div class="slide-menu__level-2 align-self-start" id="slide-menu-slide-65688" tabindex="-1" aria-label="About submenu">
+          <div class="slide-menu__level-2__black-stripe"></div>
+          <div class="slide-menu__level-2__content">
+            <div class="slide-menu__level-2__title">
+              About
+            </div>
+            <button class="slide-menu__level-2__back-button" tabindex="0">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-left"></use></svg> Back
+            </button>
+            <div class="slide-menu__divider slide-menu__divider--slide dropdown-divider"></div>
+            <ul class="slide-menu__level-2__list" aria-label="About">
+              <li class="slide-menu__level-2__item">
+      
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/about/history-caltech-neuroscience">
+        History of Caltech Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/about/cnrb">
+        Chen Neuroscience Research Building
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/about">
+        Research Centers
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Research Centers">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/tc-chen-brain-machine-interface-center">
+        T&amp;C Chen Brain-Machine Interface Center
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/caltech-brain-imaging-center">
+        Caltech Brain Imaging Center
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/tc-chen-center-social-and-decision-neuroscience">
+        T&amp;C Chen Center for Social and Decision Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/tc-chen-center-systems-neuroscience">
+        T&amp;C Chen Center for Systems Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/center-molecular-and-cellular-neuroscience">
+        Center for Molecular and Cellular Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/chen-center-neuroscience-education">
+        T&amp;C Chen Center for Neuroscience Education
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/about/research-centers/chen-center-for-datasai">
+        Chen Center for Data Science and Artificial Intelligence
+      </a>
+    
+
+    
+      </li></ul>
+    
+      </li></ul>
+    
+    
+    
+      </div></div>
+    
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+      
+        
+        <div class="slide-menu__level-2 align-self-start" id="slide-menu-slide-65711" tabindex="-1" aria-label="Research submenu">
+          <div class="slide-menu__level-2__black-stripe"></div>
+          <div class="slide-menu__level-2__content">
+            <div class="slide-menu__level-2__title">
+              Research
+            </div>
+            <button class="slide-menu__level-2__back-button" tabindex="0">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-left"></use></svg> Back
+            </button>
+            <div class="slide-menu__divider slide-menu__divider--slide dropdown-divider"></div>
+            <ul class="slide-menu__level-2__list" aria-label="Research">
+              <li class="slide-menu__level-2__item">
+      
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/research/publications">
+        Publications
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/research/talks-and-presentations">
+        Talks and Presentations
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Talks and Presentations">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/research/talks-and-presentations/ted-tedx-talks">
+        TED and TEDx Talks
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/research/talks-and-presentations/caltech-talks">
+        Caltech Talks
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/research/talks-and-presentations/other-talks">
+        Other Talks
+      </a>
+    
+
+    
+      </li></ul>
+    
+      </li></ul>
+    
+    
+    
+      </div></div>
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+        
+        <div class="slide-menu__level-2 align-self-start" id="slide-menu-slide-72355" tabindex="-1" aria-label="Grants submenu">
+          <div class="slide-menu__level-2__black-stripe"></div>
+          <div class="slide-menu__level-2__content">
+            <div class="slide-menu__level-2__title">
+              Grants
+            </div>
+            <button class="slide-menu__level-2__back-button" tabindex="0">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-left"></use></svg> Back
+            </button>
+            <div class="slide-menu__divider slide-menu__divider--slide dropdown-divider"></div>
+            <ul class="slide-menu__level-2__list" aria-label="Grants">
+              <li class="slide-menu__level-2__item">
+      
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/grants/rfps-2025">
+        Call for Research Proposals FY2025
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Call for Research Proposals FY2025">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/rfps-2025/directors-rfp-2025">
+        Director&#x27;s Award RFP
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/rfps-2025/bmi-rfp-2025">
+        T&amp;C Chen Center Brain-Machine Interface RFP
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/rfps-2025/systemsneuro-rfp-2025">
+        T&amp;C Chen Center for Systems Neuroscience RFP
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/grants/research-grant-awards/2024-awards">
+        Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Research Grant Awards">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2024-awards">
+        2024 Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2023-awards">
+        2023 Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2022-awards">
+        2022 Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2020-awards">
+        2020 Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2019-awards">
+        2019 Research Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/research-grant-awards/2018-awards">
+        2018 Research Grant Awards
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024">
+        Chen Graduate Innovator Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Chen Graduate Innovator Grant Awards">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024">
+        Chen Graduate Innovators 2024
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2022">
+        Chen Graduate Innovators 2022
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-awards-2019-2021">
+        Chen Graduate Innovators 2019 - 2021
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/grants/chen-postdoctoral-scholar-innovator-grant-awards">
+        Chen Postdoctoral Scholar Innovator Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/grants/travel-grant-awards">
+        Travel Grant Awards
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/grants/chen-distinguished-visitor-program">
+        Chen Distinguished Visitor Program
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/grants/awards">
+        SDN Shared Postdoctoral Fellow Awards
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+      </div></div>
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+        
+        <div class="slide-menu__level-2 align-self-start" id="slide-menu-slide-66979" tabindex="-1" aria-label="Programs submenu">
+          <div class="slide-menu__level-2__black-stripe"></div>
+          <div class="slide-menu__level-2__content">
+            <div class="slide-menu__level-2__title">
+              Programs
+            </div>
+            <button class="slide-menu__level-2__back-button" tabindex="0">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-left"></use></svg> Back
+            </button>
+            <div class="slide-menu__divider slide-menu__divider--slide dropdown-divider"></div>
+            <ul class="slide-menu__level-2__list" aria-label="Programs">
+              <li class="slide-menu__level-2__item">
+      
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/programs/retreats/chen-institute-retreat-2024">
+        Retreats
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Retreats">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/retreats/chen-institute-retreat-2024">
+        Chen Institute Retreat 2024
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/retreats/chen-institute-retreat-2023">
+        Chen Institute Retreat 2023
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/retreats/chen-institute-retreat-2022">
+        Chen Institute Retreat 2022
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/retreats/chen-institute-retreat-2019">
+        Chen Institute Retreat 2019
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/retreats/chen-institute-retreat-2018">
+        Chen Institute Retreat 2018
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/programs/workshops">
+        Workshops
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Workshops">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-on-ai-for-neuro">
+        Chen Institute Workshop on AI for Neuro
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-on-new-models-and-methods-in-invertebrate-neuroscience">
+        Chen Institute Workshop on New Models and Methods in Invertebrate Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-methods-evolutionary-neuroscience">
+        Chen Institute Workshop on Methods in Evolutionary Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-measurement-and-analysis-behavior">
+        Chen Institute Workshop on the Measurement and Analysis of Behavior
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-genomic-neuroscience">
+        Chen Institute Workshop on Genomic Neuroscience
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-decision-making-and-free-will">
+        Chen Institute Workshop on Decision Making and Free Will
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-chemistry-and-brain">
+        Chen Institute Workshop on Chemistry and the Brain
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-computational-approaches-neuroscience">
+        Chen Institute Workshop on Computational Approaches to Neuroscience
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/programs/networking-opportunities">
+        Networking
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/programs/symposiums/chen-institute-symposium-2025">
+        Symposiums
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Symposiums">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/symposiums/chen-institute-symposium-2025">
+        Chen Institute Symposium 2025
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/symposiums/chen-institute-symposium-2023">
+        Chen Institute Symposium 2023
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/symposiums/chen-institute-symposium-2021">
+        Chen Institute Symposium 2021
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/symposiums/chen-institute-symposium-2019">
+        Chen Institute Symposium 2019
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/programs/seminars">
+        Seminars
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Seminars">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/seminars/chen-institute-directors-seminar-series">
+        Chen Institute for Neuroscience Director&#x27;s Seminar Series
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/seminars/chen-institute-virtual-seminar-series">
+        Chen Institute Virtual Seminar Series
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/seminars/tc-chen-center-social-and-decision-neuroscience-sdn-seminar-series">
+        T&amp;C Chen Center for Social and Decision Neuroscience (SDN) Seminar Series
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/programs/datasai-for-neuroscience-summer-schools">
+        DataSAI for Neuroscience Summer Schools
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="DataSAI for Neuroscience Summer Schools">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/datasai-for-neuroscience-summer-schools/2023-data-science-and-ai-for-neuroscience-summer-school">
+        2023 DataSAI for Neuroscience Summer School
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/programs/datasai-for-neuroscience-summer-schools/2022-data-science-and-ai-for-neuroscience-summer-school">
+        2022 DataSAI for Neuroscience Summer School
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/programs/student-postdoc-programming">
+        Student and Postdoc Programming
+      </a>
+    
+
+    
+      </li></ul>
+    
+    
+    
+      </div></div>
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+        
+        <div class="slide-menu__level-2 align-self-start" id="slide-menu-slide-67710" tabindex="-1" aria-label="Education submenu">
+          <div class="slide-menu__level-2__black-stripe"></div>
+          <div class="slide-menu__level-2__content">
+            <div class="slide-menu__level-2__title">
+              Education
+            </div>
+            <button class="slide-menu__level-2__back-button" tabindex="0">
+              <svg class="slide-menu__arrow-icon icon" aria-hidden="true" role=”presentation” focusable="false"><use href="#icon-chevron-left"></use></svg> Back
+            </button>
+            <div class="slide-menu__divider slide-menu__divider--slide dropdown-divider"></div>
+            <ul class="slide-menu__level-2__list" aria-label="Education">
+              <li class="slide-menu__level-2__item">
+      
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/education/phd_options">
+        Neuroscience PhD Options
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/education/student-scientific-storytelling">
+        Student Scientific Storytelling
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="https://neuroscience.caltech.edu/education/science-journeys">
+        Science Journeys
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-2__item">
+    
+
+    
+      <a class="slide-menu__level-2__link" href="/education/brainwave-fellowship-program/brainwave-fellows-2024">
+        Chen Institute BrainWAVE Fellowship Program
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      
+        <ul class="slide-menu__level-3__list" aria-label="Chen Institute BrainWAVE Fellowship Program">
+          <li class="slide-menu__level-3__item">
+      
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/education/brainwave-fellowship-program/sign-up">
+        Sign-up to receive updates about the BrainWAVE program
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2024">
+        BrainWAVE Fellows 2024
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2023">
+        BrainWAVE Fellows 2023
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2022">
+        BrainWAVE Fellows 2022
+      </a>
+    
+
+    
+    
+    
+  
+
+  
+  
+    
+      </li><li class="slide-menu__level-3__item">
+    
+
+    
+      <a class="slide-menu__level-3__link" href="https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2021">
+        BrainWAVE Fellows 2021
+      </a>
+    
+
+    
+      </li></ul>
+    
+      </li></ul>
+    
+      </li></ul>
+    
+    
+    
+      </div></div>
+    
+  
+
+
+        
+      </div>
+    </div>
+
+  </div>
+
+  
+  <div class="header__search" role="search" aria-label="Site">
+    
+
+<button type="button" class="header__search__button" aria-controls="search-form" aria-haspopup="true" aria-expanded="false" aria-label="Search">
+  <img alt="" class="header__search__icon" src="/static/wagtail_menu/img/icon-search.png">
+</button>
+
+<form  id="search-form" class="header__search__form" action="/search" method="GET">
+  <label class="header__search__form__label mb-0 w-100 mr-3"><span class="sr-only">Search</span><input class="header__search__form__query w-100 h-100" type="search" name="q" value="" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" /></label><button class="header__search__form__submit" type="submit">Search</button>
+</form>
+
+  </div>
+</nav>
+
+  
+</header>
+
+  <section class="block-NotificationsBlock">
+    <div class="notifications-block notifications-block--all-pages" data-location-id="321">
+    </div>
+  </section>
+
+
+
+
+
+    
+  </header>
+
+  
+  <main id="content" class="content  news-page" data-page-id="94480">
+    
+      
+
+    
+    
+  
+
+
+
+  
+  <section class="block-NewsHeroHeaderBlock">
+    
+
+<div class="news-hero-header-block">
+  <div class="news-hero-header-block__breadcrumbs mt-5 mb-5">
+    
+
+
+
+  
+    
+      
+        
+          <a href="/">Chen Institute Homepage</a>
+        
+        &nbsp;/&nbsp;
+      
+    
+      
+        
+          <a href="/news">News</a>
+        
+        &nbsp;/&nbsp;
+      
+    
+      
+        New Algorithm Enables Neural Networks to Learn Continuously
+      
+    
+  
+
+
+  </div>
+  <div class="news-hero-header-block__image-wrapper">
+    <picture>
+  
+    <source srcset="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntel.2e16d0ba.fill-1600x810-c100.format-avif.avif" type="image/avif" media="(min-width: 480px)">
+  
+  
+  <source srcset="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.2e16d0ba.fill-1600x810-c100.jpg" media="(min-width: 480px)">
+  
+    <source srcset="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntell.2e16d0ba.fill-425x215-c100.format-avif.avif" type="image/avif">
+  
+  <source srcset="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.2e16d0ba.fill-425x215-c100.jpg">
+  <img alt="Brain made of computer chip and wires" class="news-hero-header-block__image" decoding="async" height="810" loading="lazy" src="https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.2e16d0ba.fill-1600x810-c100.jpg" width="1600">
+</picture>
+
+    <div class="news-hero-header-block__text-gradient"></div>
+  </div>
+  <div class="news-hero-header-block__info d-flex flex-column justify-content-end">
+    <h1 class="news-hero-header-block__info__title mt-5 mt-sm-0">
+      New Algorithm Enables Neural Networks to Learn Continuously
+    </h1>
+    <div class="news-hero-header-block__date mb-5 d-flex flex-row align-items-center">
+      <div class="publish-date-block__icon">
+  <svg aria-hidden="true" focusable="false" width="14" height="14">
+    <rect width="6" height="6" style="fill:rgb(200,200,200);" />
+    <rect x="8" y="0" width="6" height="6" style="fill:rgb(200,200,200);" />
+    <rect x="0" y="8" width="6" height="6" style="fill:rgb(200,200,200);" />
+    <rect x="8" y="8" width="6" height="6" style="fill:rgb(200,200,200);" />
+  </svg>
+</div>
+<div class="publish-date-block__date">
+  October 09, 2024
+</div>
+
+    </div>
+    
+    
+  </div>
+</div>
+
+  </section>
+  
+
+  
+
+
+<section class="block-AirspaceRightSidebarBlock">
+  
+
+<div class="layout-wrapper">
+  
+  <div class="right-sidebar-block layout-block row d-flex flex-lg-row justify-content-end">
+    <div class="right-sidebar-block__content grid-item col-lg-9 pb-5 pb-sm-0 js-sidebar-content">
+      
+        <section class="block-AirspaceRichTextBlock2">
+          
+
+<div class="airspace-rich-text">
+  <div class="rich-text"><p data-block-key="js0db">Neural networks have a remarkable ability to learn specific tasks, such as identifying handwritten digits. However, these models often experience "catastrophic forgetting" when taught additional tasks: They can successfully learn the new assignments, but "forget" how to complete the original. For many artificial neural networks, like those that guide self-driving cars, learning additional tasks thus requires being fully reprogrammed.</p><p data-block-key="2a9uu">Biological brains, on the other hand, are remarkably flexible. Humans and animals can easily learn how to play a new game, for instance, without having to re-learn how to walk and talk.</p><p data-block-key="3fho0">Inspired by the flexibility of human and animal brains, Caltech researchers have now developed a new type of algorithm that enables neural networks to be continuously updated with new data that they are able to learn from without having to start from scratch. The algorithm, called a functionally invariant path (FIP) algorithm, has wide-ranging applications from improving recommendations on online stores to fine-tuning self-driving cars.</p><p data-block-key="696j8">The algorithm was developed in the laboratory of <a href="https://www.bbe.caltech.edu/people/matt-thomson">Matt Thomson</a>, assistant professor of computational biology and a Heritage Medical Research Institute (HMRI) Investigator. The research is described in a new study that appeared in the journal <i>Nature Machine Intelligence</i> on October 3.</p><p data-block-key="dbj4s">Thomson and former graduate student Guru Raghavan (PhD '23) were inspired by neuroscience research at Caltech, particularly in the laboratory of Carlos Lois, Research Professor of Biology. Lois studies how birds can rewire their brains to learn <a href="https://www.caltech.edu/about/news">how to sing again</a> after a brain injury. Humans can do this too; people who have experienced brain damage from a stroke, for instance, can often forge new neural connections to learn everyday functions again.</p><p data-block-key="740ef">"This was a yearslong project that started with the basic science of how brains flexibly learn," says Thomson. "How do we give this capability to artificial neural networks?"</p><p data-block-key="9e7g4">The team developed the FIP algorithm using a mathematical technique called differential geometry. The framework allows a neural network to be modified without losing previously encoded information.</p><p data-block-key="ag9eq">In 2022, with guidance from Julie Schoenfeld, Caltech Entrepreneur In Residence, Raghavan and Thomson started a company called Yurts to further develop the FIP algorithm and deploy machine learning systems at scale to address many different problems. Raghavan co-founded Yurts with industry professionals Ben Van Roo and Jason Schnitzer.</p><p data-block-key="bkh9r">The paper is titled <a href="https://www.nature.com/articles/s42256-024-00902-x">"Engineering flexible machine learning systems by traversing functionally invariant paths."</a> Raghavan is the study's first author. In addition to Raghavan and Thomson, Caltech co-authors are graduate students Surya Narayanan Hari and Shichen Rex Liu, and collaborator Dhruvil Satani. Bahey Tharwat of Alexandria University in Egypt is also a co-author. Funding was provided by the <a href="http://neuroscience.caltech.edu">Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech</a>, HMRI, the Packard Foundation, and the Rothenberg Innovation Initiative. Thomson is an affiliated faculty member with the Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech.</p></div>
+</div>
+
+        </section>
+      
+    </div>
+    <aside aria-label="sidebar" class="right-sidebar-block__sidebar grid-item col-lg-3 js-sidebar">
+      
+        <section class="block-NewsInfoBlock">
+          
+
+<div class="news-info-block">
+  <div class="news-info-block__sharing d-flex">
+    <h3 class="news-info-block__subscribe pt-4">
+     Subscribe
+    </h3>
+    <div class="news-info-block__subscribe__now">
+      <a href="https://www.caltech.edu/caltech-weekly"><i>The Caltech Weekly</i> <img class="news-info-block__subscribe__chevron" src="/static/airspace/img/icon-chevron-orange.png" alt=""></a>
+    </div>
+    <div class="share-this-block pt-4 news-info-block__share-this">
+  <h3 class="share-this-block__heading">Share this</h3>
+  <div class="share-this-block__buttons">
+    <!-- AddToAny BEGIN -->
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_button a2a_button_twitter"></a>
+    <a class="a2a_button a2a_button_facebook"></a>
+    <a class="a2a_button a2a_button_linkedin"></a>
+    <a class="a2a_button a2a_button_email"></a>
+    <a class="a2a_button a2a_button_print"></a>
+    <a class="a2a_button a2a_dd" href="https://www.addtoany.com/share"></a>
+    </div>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+    <!-- AddToAny END -->
+  </div>
+</div>
+
+  </div>
+  
+  <div class="news-info-block__tag-section pt-4">
+    <h3 class="news-info-block__tag-section__title">Tags</h3>
+    <div class="news-info-block__tag-section__tags pb-4">
+      
+        <a class="news-info-block__tag-section__tags__tag"
+          href="/news?tag=computer%20%26%20information%20science">computer &amp; information science</a>
+      
+    </div>
+  </div>
+  
+  
+  <div class="news-info-block__all-news pt-3 pb-5">
+    <a class="news-info-block__all-news__link" href="/news">
+      See All News
+      <span class="news-info-block__all-news__link__arrow"></span>
+    </a>
+  </div>
+</div>
+
+        </section>
+      
+    </aside>
+  </div>
+</div>
+
+</section>
+
+
+  </main>
+
+  
+  <footer class="width-1440-container footer-container">
+    
+      
+
+
+
+
+  <div class="footer d-flex flex-column flex-wrap flex-sm-row justify-content-sm-between">
+    
+      
+      <div class="footer__torch-box"></div>
+      <img alt="" class="footer__torch" src="/static/theme-v7.0/img/flame.png">
+    
+
+    <div class="footer__left">
+      
+        
+        
+        <img alt="Caltech" class="footer__left__caltech-wordmark" src="/static/core/img/caltech-new-logo.png">
+      
+      
+        <div class="footer__left__caltech-title">California Institute of Technology</div>
+      
+    </div>
+
+    <div class="footer__right">
+      
+        <img class="footer__right__map-marker" src="/static/theme-v7.0/img/icon-footerpin.png" alt="">
+        <div class="footer__right__contact-info-row">1200 East California Boulevard</div>
+        <div class="footer__right__contact-info-row">Pasadena, California 91125</div>
+      
+    </div>
+
+    
+<nav class="footer__menu w-100 d-flex flex-wrap justify-content-center" aria-label="Footer">
+  
+    
+      <a class="footer__menu__link" href="mailto:Chen.Inst@caltech.edu">Contact Us</a>
+      <span class="footer__menu__separator">|</span>
+    
+  
+  <a class="footer__menu__link" href="https://www.caltech.edu/digital-accessibility">Digital Accessibility</a>
+  <span class="footer__menu__separator">|</span>
+  <a class="footer__menu__link" href="https://www.caltech.edu/privacy-notice">Privacy Notice</a>
+  <span class="footer__menu__separator">|</span>
+  <span class="footer__menu__link">Site Content Copyright &copy; 2025</span>
+  
+  
+    <span class="footer__menu__separator">|</span>
+    <a class="footer__menu__link footer__menu__link--login" href="/admin/login/">Log In</a>
+  
+</nav>
+
+  </div>
+
+
+    
+  </footer>
+
+  
+  <script src="/static/theme-v7.0/js/anchor.js"></script>
+  <script>
+    anchors.options = {
+      icon: '#',
+      visible: 'hover',
+      titleText: 'Right-click here and choose "Copy Link" to get a link to this part of the page.',
+    }
+    anchors.add('.rich-text h1, .rich-text h2, .rich-text h3, .rich-text h4, .rich-text h5, .rich-text h6, .heading-block');
+  </script>
+</body>
+</html>

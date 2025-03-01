@@ -1,0 +1,123 @@
+                Menu
+                      Search query
+                      Clear
+                        Search
+                        Submit search
+                        [University News](https://news.stanford.edu/university-news)
+                        [Research & Scholarship](https://news.stanford.edu/research-and-scholarship)
+                        [On Campus](https://news.stanford.edu/on-campus)
+                        [Student Experience](https://news.stanford.edu/student-experience)
+                        [Videos](https://news.stanford.edu/video)
+                        [Community Profiles](https://news.stanford.edu/profile)
+                        [In the News](https://news.stanford.edu/in-the-news)
+                        [University Updates](https://news.stanford.edu/university-updates)
+                        [Announcements](https://news.stanford.edu/announcement)
+                        [Recent Stories](https://news.stanford.edu/news-archive)
+                        [Contact](https://news.stanford.edu/contact)
+                        [Subscribe](https://news.stanford.edu/subscribe)
+                        [Media Contacts](https://news.stanford.edu/media-contacts)
+                        [Press Center](https://news.stanford.edu/press-center)
+                          Community Engagement
+                          Admissions
+                          Giving
+                          Events
+                      Close menu
+                      Close
+                Toggle Search
+                  Preferences
+                  Show me...
+                      Along with Stanford news and stories, show me:
+                            Student information
+                            Faculty/Staff information
+                        We want to provide announcements, events, leadership messages and resources that are relevant to you. Your selection is stored in a browser cookie which you can remove at any time using “Clear all personalization” below.
+                        Clear all personalization
+                        Appearance preference:
+                          Light
+                          Dark
+                    Close preferences
+            Researchers at Stanford University have developed a new way of controlling autonomous cars that integrates prior driving experiences – a system that will help the cars perform more safely in extreme and unknown circumstances. Tested at the limits of friction on a racetrack using Niki, Stanford’s autonomous Volkswagen GTI, and Shelley, Stanford’s autonomous Audi TTS, the system performed about as well as an existing autonomous control system and an experienced racecar driver.
+              Shelley, Stanford’s autonomous Audi TTS, performs at Thunderhill Raceway Park.
+                (Image credit: Kurt Hickman)
+            “Our work is motivated by safety, and we want autonomous vehicles to work in many scenarios, from normal driving on high-friction asphalt to fast, low-friction driving in ice and snow,” said Nathan Spielberg, a graduate student in mechanical engineering at Stanford and lead author of the paper about this research,
+              [published](http://robotics.sciencemag.org/content/4/28/eaaw1975)
+              March 27 in
+              Science Robotics
+              . “We want our algorithms to be as good as the best skilled drivers – and, hopefully, better.”
+            While current autonomous cars might rely on in-the-moment evaluations of their environment, the control system these researchers designed incorporates data from recent maneuvers and past driving experiences – including trips Niki took around an icy test track near the Arctic Circle. Its ability to learn from the past could prove particularly powerful, given the abundance of autonomous car data researchers are producing in the process of developing these vehicles.
+            Physics and learning
+            Control systems for autonomous cars need access to information about the available road-tire friction. This information dictates the limits of how hard the car can brake, accelerate and steer in order to stay on the road in critical emergency scenarios. If engineers want to safely push an autonomous car to its limits, such as having it plan an emergency maneuver on ice, they have to provide it with details, like the road-tire friction, in advance. This is difficult in the real world where friction is variable and often is difficult to predict.
+            To develop a more flexible, responsive control system, the researchers built a neural network – a type of artificially intelligent computing system – that integrates data from past driving experiences at Thunderhill Raceway in Willows, California, and a winter test facility with foundational knowledge provided by 200,000 physics-based trajectories.
+            “With the techniques available today, you often have to choose between data-driven methods and approaches grounded in fundamental physics,” said
+              [J. Christian Gerdes](https://profiles.stanford.edu/j-gerdes)
+              , professor of mechanical engineering and senior author of the paper. “We think the path forward is to blend these approaches in order to harness their individual strengths. Physics can provide insight into structuring and validating neural network models that, in turn, can leverage massive amounts of data.”
+            The group ran comparison tests for their new system at Thunderhill Raceway. First, Shelley sped around controlled by the physics-based autonomous system, pre-loaded with set information about the course and conditions. When compared on the same course during 10 consecutive trials, Shelley and a skilled amateur driver generated comparable lap times. Then, the researchers loaded Niki with their new neural network system. The car performed similarly running both the learned and physics-based systems, even though the neural network lacked explicit information about road friction.
+            In simulated tests, the neural network system outperformed the physics-based system in both high-friction and low-friction scenarios. It did particularly well in scenarios that mixed those two conditions.
+            An abundance of data
+            The results were encouraging, but the researchers stress that their neural network system does not perform well in conditions outside the ones it has experienced. They say as autonomous cars generate additional data to train their network, the cars should be able to handle a wider range of conditions.
+            “With so many self-driving cars on the roads and in development, there is an abundance of data being generated from all kinds of driving scenarios,” Spielberg said. “We wanted to build a neural network because there should be some way to make use of that data. If we can develop vehicles that have seen thousands of times more interactions than we have, we can hopefully make them safer.”
+            To read all stories about Stanford science, subscribe to the biweekly
+              [Stanford Science Digest](http://eepurl.com/dLmCng)
+              .
+              Co-authors of the paper are graduate students Matthew Brown and John C. Kegelman and postdoctoral scholar Nitin R. Kapania, all of Stanford. Gerdes is also senior fellow in the
+                Precourt Institute for Energy
+              This research was funded by the National Science Foundation, a William R. and Sara Hart Kimball Stanford Graduate Fellowship and Volkswagen Group of America, with additional support from Volkswagen Group Research.
+                Taylor Kubota, Stanford News Service: (650) 724-7707,
+                  [tkubota@stanford.edu](mailto:tkubota@stanford.edu)
+                Subscribe to Stanford Report
+                News, insights and events delivered to your inbox each weekday morning.
+                Sign up
+                    Popular stories
+                      [An update on staff hiring](https://news.stanford.edu/stories/2025/02/staff-hiring)
+                      [Generative AI tool marks a milestone in biology](https://news.stanford.edu/stories/2025/02/generative-ai-tool-marks-a-milestone-in-biology-and-accelerates-the-future-of-life-sciences)
+                      [New device produces critical fertilizer ingredient from thin air](https://news.stanford.edu/stories/2024/12/new-device-produces-critical-fertilizer-ingredient-from-thin-air)
+                      [Scientists discover low-cost way to trap carbon using common rocks](https://news.stanford.edu/stories/2025/02/new-process-gets-common-rocks-to-trap-carbon-rapidly-cheaply)
+                      [New findings on the power of enzymes could reshape biochemistry](https://news.stanford.edu/stories/2025/02/quantitative-comparisons-of-enzymes-in-action-could-reshape-biochemistry)
+              Stanford Report Home
+            Stories to keep you informed and inspired, from one of the world's leading research and teaching institutions.
+                      [Distinguished Visitors](https://news.stanford.edu/university-news/topic/distinguished-visitors)
+                      [Leadership & Governance](https://news.stanford.edu/university-news/topic/leadership-and-governance)
+                      [Institutional News](https://news.stanford.edu/university-news/topic/institutional-news)
+                      [Campus & Facilities](https://news.stanford.edu/university-news/topic/campus-and-facilities)
+                      [Awards, Honors & Appointments](https://news.stanford.edu/university-news/topic/awards-honors-and-appointments)
+                      [Social Sciences](https://news.stanford.edu/research-and-scholarship/topic/social-sciences)
+                      [Science & Engineering](https://news.stanford.edu/research-and-scholarship/topic/science-and-engineering)
+                      [Law](https://news.stanford.edu/research-and-scholarship/topic/law)
+                      [Health & Medicine](https://news.stanford.edu/research-and-scholarship/topic/health-and-medicine)
+                      [Education](https://news.stanford.edu/research-and-scholarship/topic/education)
+                      [Economics](https://news.stanford.edu/research-and-scholarship/topic/economics)
+                      [Earth & Climate](https://news.stanford.edu/research-and-scholarship/topic/earth-and-climate)
+                      [Business](https://news.stanford.edu/research-and-scholarship/topic/business)
+                      [Arts & Humanities](https://news.stanford.edu/research-and-scholarship/topic/arts-and-humanities)
+                      [Campus Safety](https://news.stanford.edu/on-campus/topic/campus-safety)
+                      [Community & Culture](https://news.stanford.edu/on-campus/topic/community-and-culture)
+                      [Athletics](https://news.stanford.edu/on-campus/topic/athletics)
+                      [Arts](https://news.stanford.edu/on-campus/topic/arts)
+                      [Academics](https://news.stanford.edu/student-experience/topic/academics)
+                      [Volunteer & Service](https://news.stanford.edu/student-experience/topic/volunteer-and-service)
+                      [Mental Health](https://news.stanford.edu/student-experience/topic/mental-health)
+                    [Stanford Home](https://www.stanford.edu/)
+                    [Maps & Directions](https://visit.stanford.edu/plan/)
+                    [Search Stanford](https://www.stanford.edu/search/)
+                    [Emergency Info](https://emergency.stanford.edu/)
+                    [Terms of Use](https://www.stanford.edu/site/terms/)
+                    [Privacy](https://www.stanford.edu/site/privacy)
+                    [Copyright](https://uit.stanford.edu/security/copyright-infringement)
+                    [Trademarks](https://adminguide.stanford.edu/chapters/guiding-policies-and-principles/conflict-interest/ownership-and-use-stanford-trademarks)
+                    [Non-Discrimination](https://bulletin.stanford.edu/academic-polices/student-conduct-rights/nondiscrimination)
+                    [Accessibility](https://www.stanford.edu/site/accessibility/)
+                ©
+                  Stanford University. Stanford, California 94305.
+  noindex
+  Default Footer Includes End
+  Root element of PhotoSwipe. Must have class pswp.
+    Background of PhotoSwipe.
+       It's a separate element, as animating opacity is faster than rgba().
+    Slides wrapper with overflow:hidden.
+      Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory.
+      don't modify these 3 pswp__item elements, data is added later on.
+      Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.
+          Controls are self-explanatory. Order can be changed.
+          Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR
+          element will get class pswp__preloader--active when preloader is running
+  end root element of Photoswipe
+  endnoindex

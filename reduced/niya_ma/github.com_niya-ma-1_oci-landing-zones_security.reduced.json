@@ -1,0 +1,48 @@
+{
+  "title": "Security Overview \u00b7 niya-ma-1/oci-landing-zones \u00b7 GitHub",
+  "meta_description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+  "main_content": "niya-ma-1 / oci-landing-zones Public forked from oci-landing-zones/oracle-enterprise-landingzone Notifications You must be signed in to change notification settings Fork 0 Star 0 Security: niya-ma-1/oci-landing-zones Security SECURITY.md Reporting security vulnerabilities Oracle values the independent security research community and believes that responsible disclosure of security vulnerabilities helps us ensure the security and privacy of all our users. Please do NOT raise a GitHub Issue to report a security vulnerability. If you believe you have found a security vulnerability, please submit a report to secalert_us@oracle.com preferably with a proof of concept. Please review some additional information on how to report security vulnerabilities to Oracle . We encourage people who contact Oracle Security to use email encryption using our encryption key . We ask that you do not use other channels or contact the project maintainers directly. Non-vulnerability related security issues including ideas for new or improved security features are welcome on GitHub Issues. Security updates, alerts and bulletins Security updates will be released on a regular cadence. Many of our projects will typically release security fixes in conjunction with the Oracle Critical Patch Update program. Additional information, including past advisories, is available on our security alerts page. Security-related information We will provide security related information such as a threat model, considerations for secure use, or any known security issues in our documentation. Please note that labs and sample code are intended to demonstrate a concept and may not be sufficiently hardened for production use. There aren\u2019t any published security advisories",
+  "links": [
+    {
+      "url": "/niya-ma-1",
+      "text": "niya-ma-1"
+    },
+    {
+      "url": "/niya-ma-1/oci-landing-zones",
+      "text": "oci-landing-zones"
+    },
+    {
+      "url": "/oci-landing-zones/oracle-enterprise-landingzone",
+      "text": "oci-landing-zones/oracle-enterprise-landingzone"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Fork\n    0"
+    },
+    {
+      "url": "/login?return_to=%2Fniya-ma-1%2Foci-landing-zones",
+      "text": "Star\n 0"
+    },
+    {
+      "url": "mailto:secalert_us@oracle.com",
+      "text": "secalert_us@oracle.com"
+    },
+    {
+      "url": "https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html",
+      "text": "how to report security vulnerabilities to Oracle"
+    },
+    {
+      "url": "https://www.oracle.com/security-alerts/encryptionkey.html",
+      "text": "our encryption key"
+    },
+    {
+      "url": "https://www.oracle.com/security-alerts/",
+      "text": "security alerts"
+    }
+  ],
+  "images": []
+}

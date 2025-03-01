@@ -1,0 +1,26 @@
+  HEADER
+        [About](https://explorecourses.stanford.edu/about)
+        |
+        [University Bulletin](https://bulletin.stanford.edu/)
+          [Bulletin](/)
+            ExploreCourses
+  MAIN PAGE CONTAINER
+    SEARCH / NAV BAR
+              [2020-2021](https://explorecourses.stanford.edu/browse?academicYear=20202021)
+              [2021-2022](https://explorecourses.stanford.edu/browse?academicYear=20212022)
+              [2022-2023](https://explorecourses.stanford.edu/browse?academicYear=20222023)
+              [2023-2024](https://explorecourses.stanford.edu/browse?academicYear=20232024)
+                Browse
+                Schedule
+    RESULTS HEADER
+        Daniel Kharitonov
+      RESULTS LIST
+                            dkharito
+                              I'm-not-a-bot
+                              @#@
+                              @stanford
+      FILTERS
+  FOOTER
+  © Stanford University |
+    [Terms of Use](http://stanford.edu/site/terms.html)
+    [Copyright Complaints](http://stanford.edu/site/copyright.html)

@@ -1,0 +1,48 @@
+{
+  "title": "Advait Iyer | Work",
+  "meta_description": "Advait's website",
+  "main_content": "Aethero -> Hardware Engineer Helped build space-rated edge AI computers. University of Michigan -> Computer Architecture TA Taught lab sections on hardware design using SystemVerilog. Helped students design a synthesizable out of order RISC-V processor for the Pentium6 and MIPS R10K register renaming styles. Developed a Piazza addiction. Tesla -> Software Engineering Intern Wrote a performance monitoring library for the infotainment system. Developed the new weather feature for the 2024 summer release. Also made telemetry improvements. Continued my education in technology brotherhood at the heart of Silicon Valley. University of Michigan -> Research Assistant, CE Lab Worked on GPU acceleration for heterogeneous LLM/DB workloads. Accepted to VLDB 2025. Realised I don\u2019t have the patience for a PhD. Tesla -> Software Engineering Intern Worked on the revamped on-screen PRND gear slider for the 2024 Model 3 released in Europe and China. Developed navigation and controls features for summer and holiday releases. Enjoyed rides in the Cybertruck and new Model 3; somehow survived the BART and Caltrain as well. University of Michigan -> Logic Design TA Co-created and maintained the course\u2019s RTL DV platform. Deployed on autograder.io using Docker and used by every computer engineering student (~300/sem). Led a lab section on FPGA prototyping using Verilog (Modelsim for simulation, Quartus Prime for synthesis/PnR/STA for Altera DE2-115 boards). Evaluations indicated students didn\u2019t hate me. MARA Holdings -> Engineering Intern Optimised merged mining protocols, deployed nodes on AWS EC2 instances for testing. Was not paid in Bitcoin. Zepto (FKA KiranaKart) -> Ops/Growth/Engineering Startup was just getting off the ground\u2014did a bunch of random engineering and growth stuff. Also answered customer support calls and made deliveries on occasion.",
+  "links": [
+    {
+      "url": "https://aethero.com",
+      "text": "Aethero"
+    },
+    {
+      "url": "https://umich.edu",
+      "text": "University of Michigan"
+    },
+    {
+      "url": "https://www.eecs.umich.edu/courses/eecs470/",
+      "text": "Computer Architecture"
+    },
+    {
+      "url": "https://tesla.com",
+      "text": "Tesla"
+    },
+    {
+      "url": "https://umich.edu",
+      "text": "University of Michigan"
+    },
+    {
+      "url": "https://tesla.com",
+      "text": "Tesla"
+    },
+    {
+      "url": "https://umich.edu",
+      "text": "University of Michigan"
+    },
+    {
+      "url": "https://ece.engin.umich.edu/academics/course-information/course-descriptions/eecs-270/",
+      "text": "Logic Design"
+    },
+    {
+      "url": "https://www.mara.com/",
+      "text": "MARA Holdings"
+    },
+    {
+      "url": "https://zeptonow.com",
+      "text": "Zepto"
+    }
+  ],
+  "images": []
+}

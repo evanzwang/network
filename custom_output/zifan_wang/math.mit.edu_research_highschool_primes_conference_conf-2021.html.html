@@ -1,0 +1,884 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Eleventh Annual Fall Term PRIMES Conference</title>
+        <link rel="stylesheet" media="all" type="text/css" href="/dist/normalize.css">
+
+    <!-- Main Scripts -->
+    <script src="/vendor/jquery/jquery.js"></script>
+    <script src="/dist/main.js" defer></script>
+
+    
+    
+    
+
+    
+    
+        <!-- Mathjax -->
+    <script src='/vendor/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+    <script type='text/x-mathjax-config'>
+        MathJax.Hub.Config({
+                    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+                    minScaleAdjust: 50,
+                    processEscapes: true
+                });
+            </script>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3P2E4DPZS1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-3P2E4DPZS1');
+    </script>
+    <script>
+        // Google Analytics Code
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-44403632-1', 'mit.edu');
+        ga('create', 'UA-1592615-30', {
+            'name': 'mitsitewide'
+        });
+        ga('send', 'pageview');
+        ga('mitsitewide.send', 'pageview');
+    </script>
+
+    <!-- Main Styles -->
+    <link rel="stylesheet" media="screen" type="text/css" href="/dist/main.css">
+    <link rel="stylesheet" media="print" type="text/css" href="/dist/print.css">
+    <link rel="stylesheet" media="all" type="text/css" href="/vendor/font-awesome/css/font-awesome.min.css">
+</head>
+
+<body class="basic">
+
+    <a href="#main" class="skip" id="skip-to-content">skip to main content</a>
+
+    <div id="site-wrap" class="site-wrap">
+
+        <header>
+            <div class="top-header-wrap max-wrap">
+
+                <div class="logo">
+                    <a href="/index.php"><img src="/dist/images/math-logo.svg" alt="MIT Mathematics Logo" height="80" width="280" />
+                    </a>
+                </div>
+
+                <button id="menu-trigger" class="mobile-only menu-trigger" aria-label="toggle menu" aria-expanded="false">
+                    <span class="menu-trigger"></span>
+                </button>
+
+                <div class="site-tools desktop-only">
+                    <div class="search">
+                        <form action="/search.html" id="header-search" role="search" aria-label="Sitewide">
+    <label for="header-search-input">Search</label>
+    <input id="header-search-input" type="text" name="q" placeholder="Search the site" />
+    <input type="submit" name="action" value="Search" class="button" />
+</form>
+                    </div>
+                    <div class="header-links">
+                        <a href="/about/contact.php">Contact</a>
+                        <a href="/sitemap.php">Site Map</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="top-nav-wrap desktop-only">
+                <nav id="top-nav" class="top-nav max-wrap" aria-label="site wide">
+                    <ul><li class="parent"><a href="/about" >About</a><ul id="about-main-menu" ><li><a  href="/about/index.html">About Us</a></li><li><a  href="/about/welcome.html">Welcome</a></li><li><a  href="/about/awards.html">Awards</a></li><li class="parent"><a href="/about/history" >History</a></li><li class="parent"><a href="/about/simons-building" >Simons Building</a></li><li><a  href="/about/directions.html">Directions</a></li><li><a  href="/about/employment.html">Employment</a></li><li><a  href="/about/contact.html">Contact Us</a></li></ul></li><li class="parent"><a href="/directory" >People</a><ul id="people-main-menu" ><li><a  href="/directory/index.html">All People</a></li><li class="parent"><a href="/directory/faculty" >Faculty</a></li><li><a  href="/directory/instructors.html">Instructors</a></li><li><a  href="/directory/postdocs.html">Postdocs</a></li><li><a  href="/directory/researchers.html">Researchers</a></li><li><a  href="/directory/graduate.html">Graduate Students</a></li><li><a  href="/directory/staff.html">Staff</a></li><li><a  href="/directory/visitors.html">Visitors &amp; Affiliates</a></li></ul></li><li class="parent"><a href="/research" >Research</a><ul id="research-main-menu" ><li><a  href="/research/index.html">Research</a></li><li class="parent"><a href="/research/pure" >Pure</a></li><li class="parent"><a href="/research/applied" >Applied</a></li><li class="parent"><a href="/research/graduate" >Graduate Research</a></li><li class="parent"><a href="/research/undergraduate" >Undergraduate Research</a></li><li class="parent"><a href="/research/highschool" >High School Programs</a></li></ul></li><li class="parent"><a href="/academics" >Academics</a><ul id="academics-main-menu" ><li><a  href="/academics/index.html">Academics</a></li><li class="parent"><a href="/academics/mas" >Academic Services</a></li><li class="parent"><a href="/academics/undergrad" >Undergraduate Program</a></li><li class="parent"><a href="/academics/grad" >Graduate Program</a></li><li><a  href="/academics/prospective">Prospective Undergrads</a></li><li><a  href="/academics/classes.html">Class Schedule</a></li><li><a  href="/academics/online">Online Classes</a></li></ul></li><li class="parent"><a href="/services" >Services</a><ul id="services-main-menu" ><li><a  href="/services/index.html">Services</a></li><li><a  href="/services/orientation.html">Orientation</a></li><li class="parent"><a href="/services/visitors" >Visitor Policies</a></li><li class="parent"><a href="/services/grants" >Grant Help</a></li><li class="parent"><a href="https://math.mit.edu/internal/" >Internal</a></li><li class="parent"><a href="/services/computer-help" >Computer Help</a></li><li><a  href="https://math.mit.edu/internal/booked/mit/">Room Reservations</a></li><li><a  href="/services/reimbursements.html">Reimbursements</a></li></ul></li><li class="parent"><a href="/math-community" >Community</a><ul id="community-main-menu" ><li><a  href="/math-community/index.html">Community</a></li><li><a  href="https://math.mit.edu/community/">Math Community</a></li><li><a  href="https://math.mit.edu/wim/">Women in Math</a></li><li><a  href="/math-community/sponsors.html">Sponsors</a></li><li class="parent"><a href="/math-community/giving" >Giving</a></li><li><a  href="/math-community/visiting.html">Visiting Committee</a></li></ul></li><li class="parent"><a href="/news" >News &amp; Events</a><ul id="news-&amp;-events-main-menu" ><li><a  href="/news/index.html">News Overview</a></li><li><a  href="/news/archive">News Archive</a></li><li><a  href="/news/calendar.html">Math Calendar</a></li><li class="parent"><a href="/news/seminars" >Seminars</a></li><li><a  href="/news/conferences.html">Conferences</a></li><li><a  href="/news/integral.html">Integral</a></li></ul></li></ul>                </nav>
+            </div>
+        </header>
+
+        <nav id="mobile-nav" class="mobile-nav mobile-only">
+            <button id="close-menu" class="close-menu">x</button>
+            <div class="search">
+                <form action="/search.html" id="mobile-search" role="search" aria-label="Sitewide">
+    <label for="mobile-search-input">Search</label>
+    <input id="mobile-search-input" type="text" name="q" placeholder="Search the site" />
+    <input type="submit" name="action" value="Search" class="button" />
+</form>
+            </div>
+            <ul><li class="parent"><a href="/about" aria-expanded="false" aria-controls="about-mobile-menu">About</a><ul id="about-mobile-menu" ><li><a  href="/about/index.html">About Us</a></li><li><a  href="/about/welcome.html">Welcome</a></li><li><a  href="/about/awards.html">Awards</a></li><li class="parent"><a href="/about/history" aria-expanded="false" aria-controls="history-mobile-menu">History</a><ul id="history-mobile-menu" ><li><a  href="/about/history/index.html">Brief History</a></li><li><a  href="/about/history/facts.html">Facts</a></li><li><a  href="/about/history/faculty.html">Past Faculty</a></li><li><a  href="/about/history/photos.html">Photos</a></li><li><a  href="/about/history/obituaries">In Memoriam</a></li></ul></li><li class="parent"><a href="/about/simons-building" aria-expanded="false" aria-controls="simons-building-mobile-menu">Simons Building</a><ul id="simons-building-mobile-menu" ><li><a  href="/about/simons-building/index.html">About</a></li><li><a  href="/about/simons-building/slideshow.html">Slideshow</a></li><li><a  href="/about/simons-building/construction.html">Construction Photos</a></li><li><a  href="/about/simons-building/completed.html">Completed Photos</a></li></ul></li><li><a  href="/about/directions.html">Directions</a></li><li><a  href="/about/employment.html">Employment</a></li><li><a  href="/about/contact.html">Contact Us</a></li></ul></li><li class="parent"><a href="/directory" aria-expanded="false" aria-controls="people-mobile-menu">People</a><ul id="people-mobile-menu" ><li><a  href="/directory/index.html">All People</a></li><li class="parent"><a href="/directory/faculty" aria-expanded="false" aria-controls="faculty-mobile-menu">Faculty</a><ul id="faculty-mobile-menu" ><li><a  href="/directory/faculty/index.html">Faculty</a></li><li><a  href="/directory/faculty/professors.html">Professors</a></li><li><a  href="/directory/faculty/associate.html">Associate Professors</a></li><li><a  href="/directory/faculty/assistant.html">Assistant Professors</a></li><li><a  href="/directory/faculty/emeriti.html">Emeriti Professors</a></li><li><a  href="/directory/faculty/visiting.html">Visiting Professors</a></li></ul></li><li><a  href="/directory/instructors.html">Instructors</a></li><li><a  href="/directory/postdocs.html">Postdocs</a></li><li><a  href="/directory/researchers.html">Researchers</a></li><li><a  href="/directory/graduate.html">Graduate Students</a></li><li><a  href="/directory/staff.html">Staff</a></li><li><a  href="/directory/visitors.html">Visitors &amp; Affiliates</a></li></ul></li><li class="parent"><a href="/research" aria-expanded="true" aria-controls="research-mobile-menu">Research</a><ul id="research-mobile-menu" ><li><a  href="/research/index.html">Research</a></li><li class="parent"><a href="/research/pure" aria-expanded="false" aria-controls="pure-mobile-menu">Pure</a><ul id="pure-mobile-menu" ><li><a  href="/research/pure/index.html">Pure</a></li><li><a  href="/research/pure/algebra.html">Algebra &amp; Algebraic Geometry</a></li><li><a  href="/research/pure/algebraic-topology.html">Algebraic Topology</a></li><li><a  href="/research/pure/analysis-pde.html">Analysis &amp; PDEs</a></li><li><a  href="/research/pure/geometry.html">Geometry & Topology</a></li><li><a  href="/research/pure/math-logic.html">Mathematical Logic &amp; Foundations</a></li><li><a  href="/research/pure/number-theory.html">Number Theory</a></li><li><a  href="/research/pure/probability.html">Probability &amp; Statistics</a></li><li><a  href="/research/pure/representation.html">Representation Theory</a></li></ul></li><li class="parent"><a href="/research/applied" aria-expanded="false" aria-controls="applied-mobile-menu">Applied</a><ul id="applied-mobile-menu" ><li><a  href="/research/applied/index.html">Applied</a></li><li><a  href="/research/applied/combinatorics.html">Combinatorics</a></li><li><a  href="/research/applied/comp-biology.html">Computational Biology</a></li><li><a  href="/research/applied/physical.html">Physical Applied Mathematics</a></li><li><a  href="/research/applied/numerical-analysis.html">Computational Science &amp; Numerical Analysis</a></li><li><a  href="/research/applied/comp-science-theory.html">Theoretical Computer Science</a></li><li><a  href="/research/applied/data.html">Mathematics of Data</a></li></ul></li><li class="parent"><a href="/research/graduate" aria-expanded="false" aria-controls="graduate-research-mobile-menu">Graduate Research</a><ul id="graduate-research-mobile-menu" ><li><a  href="/research/graduate/index.html">Graduate Research</a></li><li><a  href="/research/graduate/thesis-defenses.html">Thesis Defenses</a></li></ul></li><li class="parent"><a href="/research/undergraduate" aria-expanded="false" aria-controls="undergraduate-research-mobile-menu">Undergraduate Research</a><ul id="undergraduate-research-mobile-menu" ><li><a  href="/research/undergraduate/index.html">Undergraduate Research</a></li><li class="parent"><a href="/research/undergraduate/spur" aria-expanded="false" aria-controls="spur-mobile-menu">SPUR</a><ul id="spur-mobile-menu" ><li><a  href="/research/undergraduate/spur/index.html">SPUR</a></li><li><a  href="/research/undergraduate/spur/past-projects.html">Past Projects</a></li><li><a  href="/research/undergraduate/spur/lecture-series.html">Lecture Series</a></li><li><a  href="/research/undergraduate/spur/rogers-prize.html">Rogers Prize</a></li></ul></li><li><a  href="/research/undergraduate/drp">DRP</a></li><li><a  href="/research/undergraduate/urop">UROP</a></li><li class="parent"><a href="/research/undergraduate/urop-plus" aria-expanded="false" aria-controls="urop+-mobile-menu">UROP+</a><ul id="urop+-mobile-menu" ><li><a  href="/research/undergraduate/urop-plus/index.html">UROP+</a></li><li><a  href="/research/undergraduate/urop-plus/papers.html">Papers</a></li></ul></li><li><a  href="https://oge.mit.edu/msrp/">MSRP</a></li></ul></li><li class="parent"><a href="/research/highschool" aria-expanded="true" aria-controls="high-school-programs-mobile-menu">High School Programs</a><ul id="high-school-programs-mobile-menu" ><li><a  href="/research/highschool/index.html">High School Programs</a></li><li class="parent"><a href="/research/highschool/primes" aria-expanded="true" aria-controls="primes-mobile-menu">PRIMES</a><ul id="primes-mobile-menu" ><li><a  href="/research/highschool/primes/index.html">PRIMES</a></li><li><a  href="/research/highschool/primes/why.html">Why Choose PRIMES</a></li><li><a  href="/research/highschool/primes/areas.html">Areas of Research</a></li><li class="parent"><a href="/research/highschool/primes/program" aria-expanded="false" aria-controls="mit-primes-mobile-menu">MIT PRIMES</a><ul id="mit-primes-mobile-menu" ><li><a  href="/research/highschool/primes/program/index.html">MIT PRIMES</a></li><li><a  href="/research/highschool/primes/program/apply.html">How to Apply</a></li></ul></li><li class="parent"><a href="/research/highschool/primes/usa" aria-expanded="false" aria-controls="primes-usa-mobile-menu">PRIMES-USA</a><ul id="primes-usa-mobile-menu" ><li><a  href="/research/highschool/primes/usa/index.html">PRIMES-USA</a></li><li><a  href="/research/highschool/primes/usa/apply-usa.html">Apply</a></li></ul></li><li><a  href="http://www.artofproblemsolving.com/polymath/mitprimes">CrowdMath</a></li><li class="parent"><a href="/research/highschool/primes/circle" aria-expanded="false" aria-controls="primes-circle-mobile-menu">PRIMES Circle</a><ul id="primes-circle-mobile-menu" ><li><a  href="/research/highschool/primes/circle/index.html">PRIMES Circle</a></li><li><a  href="/research/highschool/primes/circle/students.html">Students Say</a></li><li><a  href="/research/highschool/primes/circle/mentors-circle.html">Circle Mentors</a></li><li><a  href="/research/highschool/primes/circle/past-papers.html">Papers</a></li><li><a  href="/research/highschool/primes/circle/apply-circle.html">Apply</a></li></ul></li><li class="parent"><a href="/research/highschool/primes/YuliasDream" aria-expanded="false" aria-controls="yulia's-dream-mobile-menu">Yulia's Dream</a><ul id="yulia's-dream-mobile-menu" ><li><a  href="/research/highschool/primes/YuliasDream/index.html">Yulia's Dream</a></li><li><a  href="/research/highschool/primes/YuliasDream/YD-2024.html">2024 Conference</a></li><li><a  href="/research/highschool/primes/YuliasDream/YD-2023.html">2023 Conference</a></li><li><a  href="/research/highschool/primes/YuliasDream/papers.html">Research Papers</a></li><li><a  href="/research/highschool/primes/YuliasDream/media.html">Media Reports</a></li></ul></li><li><a  href="http://mathroots.mit.edu/">&#8730;MathROOTS</a></li><li><a  href="/research/highschool/primes/step.html">PRIMES STEP</a></li><li><a  href="/research/highschool/primes/Switzerland">PRIMES-Switzerland</a></li><li><a  href="/research/highschool/primes/reading.html">Reading List</a></li><li class="parent"><a href="/research/highschool/primes/conference" aria-expanded="true" aria-controls="annual-conference-mobile-menu">Annual Conference</a><ul id="annual-conference-mobile-menu" ><li><a  href="/research/highschool/primes/conference/index.html">Annual Conference</a></li><li><a  href="/research/highschool/primes/conference/conf-2023.html">2023</a></li><li><a  href="/research/highschool/primes/conference/conf-2022.html">2022</a></li><li><a  aria-current="page"  href="/research/highschool/primes/conference/conf-2021.html">2021</a></li><li><a  href="/research/highschool/primes/conference/conf-2020.html">2020</a></li><li><a  href="/research/highschool/primes/conference/conf-2019.html">2019</a></li><li><a  href="/research/highschool/primes/conference/conf-2018.html">2018</a></li><li><a  href="/research/highschool/primes/conference/conf-2017.html">2017</a></li><li><a  href="/research/highschool/primes/conference/conf-2016.html">2016</a></li><li><a  href="/research/highschool/primes/conference/conf-2015.html">2015</a></li><li><a  href="/research/highschool/primes/conference/conf-2014.html">2014</a></li><li><a  href="/research/highschool/primes/conference/conf-2013.html">2013</a></li><li><a  href="/research/highschool/primes/conference/conf-2012.html">2012</a></li><li><a  href="/research/highschool/primes/conference/conf-2011.html">2011</a></li></ul></li><li><a  href="/research/highschool/primes/papers.html">Research Papers</a></li><li><a  href="/research/highschool/primes/honors.html">Honors and Awards</a></li><li><a  href="/research/highschool/primes/covid-response.html">Response to COVID</a></li><li><a  href="/research/highschool/primes/advisory.html">Advisory Board</a></li><li><a  href="/research/highschool/primes/staff.html">Program Staff</a></li><li><a  href="/research/highschool/primes/mentors.html">Mentors</a></li><li><a  href="/research/highschool/primes/mentors-named.html">Named Mentorships</a></li><li><a  href="/research/highschool/primes/alumni.html">Alumni</a></li><li class="parent"><a href="/research/highschool/primes/testimonials" aria-expanded="false" aria-controls="testimonials-mobile-menu">Testimonials</a><ul id="testimonials-mobile-menu" ><li><a  href="/research/highschool/primes/testimonials/index.html">Testimonials</a></li><li><a  href="/research/highschool/primes/testimonials/parents.html">Parents</a></li><li><a  href="/research/highschool/primes/testimonials/devadas.html">Devadas Interview</a></li><li><a  href="/research/highschool/primes/testimonials/mathROCs.html">MathROCs Q&A</a></li></ul></li><li><a  href="/research/highschool/primes/sponsorship.html">Sponsorship</a></li><li><a  href="/research/highschool/primes/apply.html">How to Apply</a></li><li><a  href="/research/highschool/primes/other.html">Other Programs</a></li><li><a  href="/research/highschool/primes/FAQ.html">FAQ</a></li><li><a  href="/research/highschool/primes/contact.html">Contact</a></li></ul></li><li class="parent"><a href="/research/highschool/rsi" aria-expanded="false" aria-controls="rsi-mobile-menu">RSI</a><ul id="rsi-mobile-menu" ><li><a  href="/research/highschool/rsi/index.html">RSI</a></li><li><a  href="/research/highschool/rsi/past-projects.html">Past Projects</a></li><li><a  href="/research/highschool/rsi/lecture-series.html">Lecture Series</a></li></ul></li></ul></li></ul></li><li class="parent"><a href="/academics" aria-expanded="false" aria-controls="academics-mobile-menu">Academics</a><ul id="academics-mobile-menu" ><li><a  href="/academics/index.html">Academics</a></li><li class="parent"><a href="/academics/mas" aria-expanded="false" aria-controls="academic-services-mobile-menu">Academic Services</a><ul id="academic-services-mobile-menu" ><li><a  href="/academics/mas/index.html">Academic Services</a></li><li><a  href="/academics/mas/forms.html">Forms and Requests</a></li><li><a  href="/academics/mas/learning-center.html">Learning Center</a></li><li><a  href="/academics/mas/jobs.html">Student Jobs</a></li></ul></li><li class="parent"><a href="/academics/undergrad" aria-expanded="false" aria-controls="undergraduate-program-mobile-menu">Undergraduate Program</a><ul id="undergraduate-program-mobile-menu" ><li><a  href="/academics/undergrad/index.html">Undergraduate Program</a></li><li class="parent"><a href="/academics/undergrad/major" aria-expanded="false" aria-controls="math-major-mobile-menu">Math Major</a><ul id="math-major-mobile-menu" ><li><a  href="/academics/undergrad/major/index.html">Math Major</a></li><li class="parent"><a href="/academics/undergrad/major/course18" aria-expanded="false" aria-controls="course-18-mobile-menu">Course 18</a><ul id="course-18-mobile-menu" ><li><a  href="/academics/undergrad/major/course18/index.html">Course 18</a></li><li><a  href="/academics/undergrad/major/course18/general.html">General</a></li><li><a  href="/academics/undergrad/major/course18/applied.html">Applied</a></li><li><a  href="/academics/undergrad/major/course18/pure.html">Pure</a></li></ul></li><li><a  href="/academics/undergrad/major/course18c.html">Course 18C</a></li><li><a  href="/academics/undergrad/major/ci-m.html">CI-M</a></li><li><a  href="/academics/undergrad/major/advising.html">Advising</a></li></ul></li><li><a  href="/academics/undergrad/minor.html">Math Minor</a></li><li class="parent"><a href="/academics/undergrad/first" aria-expanded="false" aria-controls="first-year-subjects-mobile-menu">First Year Subjects</a><ul id="first-year-subjects-mobile-menu" ><li><a  href="/academics/undergrad/first/index.html">First Year Subjects</a></li><li><a  href="/academics/undergrad/first/calculus.html">Calculus</a></li><li><a  href="/academics/undergrad/first/ap.html">Advanced Placement</a></li><li class="parent"><a href="/academics/undergrad/first/transfer" aria-expanded="false" aria-controls="transfer-credit-mobile-menu">Transfer Credit</a><ul id="transfer-credit-mobile-menu" ><li><a  href="/academics/undergrad/first/transfer/index.html">Transfer Credit</a></li><li><a  href="/academics/undergrad/first/transfer/summer-credit.html">Pre-approved Summer Subjects</a></li></ul></li><li><a  href="/academics/undergrad/first/advanced.html">Advanced Standing</a></li><li><a  href="/academics/undergrad/first/goals.html">Subject Goals</a></li></ul></li><li class="parent"><a href="/academics/undergrad/subjects" aria-expanded="false" aria-controls="subjects-overview-mobile-menu">Subjects Overview</a><ul id="subjects-overview-mobile-menu" ><li><a  href="/academics/undergrad/subjects/index.html">Subjects Overview</a></li><li><a  href="/academics/undergrad/subjects/180x.html">18.0x</a></li><li><a  href="/academics/undergrad/subjects/181x.html">18.1x</a></li><li><a  href="/academics/undergrad/subjects/183x.html">18.2x &amp; 18.3x</a></li><li><a  href="/academics/undergrad/subjects/184x.html">18.4x</a></li><li><a  href="/academics/undergrad/subjects/185x.html">18.5x</a></li><li><a  href="/academics/undergrad/subjects/186x.html">18.6x</a></li><li><a  href="/academics/undergrad/subjects/187x.html">18.7x</a></li><li><a  href="/academics/undergrad/subjects/188x.html">18.8x</a></li><li><a  href="/academics/undergrad/subjects/189x.html">18.9x</a></li><li><a  href="https://math.mit.edu/academics/classes">Subject Listings</a></li></ul></li><li><a  href="/academics/undergrad/roadmaps.html">Roadmaps</a></li><li class="parent"><a href="/academics/undergrad/opportunities" aria-expanded="false" aria-controls="opportunities-mobile-menu">Opportunities</a><ul id="opportunities-mobile-menu" ><li><a  href="/academics/undergrad/opportunities/index.html">Opportunities</a></li><li><a  href="/academics/undergrad/opportunities/international">International Study and Internships</a></li><li><a  href="/academics/undergrad/opportunities/comap.html">MCM Competition</a></li><li><a  href="/academics/undergrad/opportunities/putnam.html">Putnam Competition</a></li><li><a  href="/academics/undergrad/opportunities/summer.html">Summer Programs</a></li><li><a  href="https://uma.mit.edu/">Undergraduate Math Association</a></li><li><a  href="https://uswim.mit.edu/">USWIM</a></li><li><a  href="http://web.mit.edu/comm/">CoMM</a></li></ul></li><li class="parent"><a href="/academics/undergrad/career" aria-expanded="false" aria-controls="careers-mobile-menu">Careers</a><ul id="careers-mobile-menu" ><li><a  href="/academics/undergrad/career/index.html">Careers</a></li><li><a  href="/academics/undergrad/career/jobs.html">Preparing for Non-Academic Jobs</a></li><li><a  href="/academics/undergrad/career/grad.html">Preparing for Grad School</a></li></ul></li></ul></li><li class="parent"><a href="/academics/grad" aria-expanded="false" aria-controls="graduate-program-mobile-menu">Graduate Program</a><ul id="graduate-program-mobile-menu" ><li><a  href="/academics/grad/index.html">Graduate Program</a></li><li class="parent"><a href="/academics/grad/admission" aria-expanded="false" aria-controls="admission-mobile-menu">Admission</a><ul id="admission-mobile-menu" ><li><a  href="/academics/grad/admission/index.html">Admission</a></li><li><a  href="/academics/grad/admission/faq.html">FAQ</a></li></ul></li><li class="parent"><a href="/academics/grad/financial" aria-expanded="false" aria-controls="financial-support-mobile-menu">Financial Support</a><ul id="financial-support-mobile-menu" ><li><a  href="/academics/grad/financial/index.html">Financial Support</a></li><li><a  href="/academics/grad/financial/visa.html">Payroll/Visa Details</a></li><li><a  href="/academics/grad/financial/funding.html">Funding Sources</a></li><li><a  href="/academics/grad/financial/fellowships.html">Fellowships</a></li><li class="parent"><a href="/academics/grad/financial/summer" aria-expanded="false" aria-controls="summer-support-mobile-menu">Summer Support</a><ul id="summer-support-mobile-menu" ><li><a  href="/academics/grad/financial/summer/index.html">Summer Support</a></li><li><a  href="/academics/grad/financial/summer/mentorships.html">Mentorships</a></li><li><a  href="/academics/grad/financial/summer/teaching.html">Summer Teaching</a></li></ul></li><li><a  href="/academics/grad/financial/travel.html">Travel Support</a></li></ul></li><li class="parent"><a href="/academics/grad/timeline" aria-expanded="false" aria-controls="timeline-mobile-menu">Timeline</a><ul id="timeline-mobile-menu" ><li><a  href="/academics/grad/timeline/index.html">Timeline</a></li><li><a  href="/academics/grad/timeline/orientation.html">Orientation</a></li><li><a  href="/academics/grad/timeline/coursework.html">Coursework</a></li><li><a  href="/academics/grad/timeline/plan.html">Plan of Study</a></li><li><a  href="/academics/grad/timeline/quals.html">Qualifying Exams</a></li><li><a  href="/academics/grad/timeline/advisor.html">External Thesis Advisor Info</a></li><li><a  href="/academics/grad/timeline/training.html">Teacher Training</a></li><li><a  href="/academics/grad/timeline/proposal.html">Thesis Proposal</a></li><li><a  href="/academics/grad/timeline/deadline.html">Graduation Deadlines</a></li><li><a  href="/academics/grad/timeline/defense.html">Thesis Defense</a></li><li><a  href="/academics/grad/timeline/after.html">After Graduate School</a></li></ul></li></ul></li><li><a  href="/academics/prospective">Prospective Undergrads</a></li><li><a  href="/academics/classes.html">Class Schedule</a></li><li><a  href="/academics/online">Online Classes</a></li></ul></li><li class="parent"><a href="/services" aria-expanded="false" aria-controls="services-mobile-menu">Services</a><ul id="services-mobile-menu" ><li><a  href="/services/index.html">Services</a></li><li><a  href="/services/orientation.html">Orientation</a></li><li class="parent"><a href="/services/visitors" aria-expanded="false" aria-controls="visitor-policies-mobile-menu">Visitor Policies</a><ul id="visitor-policies-mobile-menu" ><li><a  href="/services/visitors/index.html">Visitor Policies</a></li><li><a  href="/services/visitors/students.html">Visiting Students</a></li></ul></li><li class="parent"><a href="/services/grants" aria-expanded="false" aria-controls="grant-help-mobile-menu">Grant Help</a><ul id="grant-help-mobile-menu" ><li><a  href="/services/grants/index.html">Grant Help</a></li><li><a  href="/services/grants/funding.html">Funding Opportunities</a></li><li><a  href="https://math.mit.edu/forms/proposal-request/">Proposal Request Form</a></li></ul></li><li class="parent"><a href="https://math.mit.edu/internal/" aria-expanded="false" aria-controls="internal-mobile-menu">Internal</a><ul id="internal-mobile-menu" ><li><a  href="https://math.mit.edu/internal/index.html">Internal Resources</a></li><li><a  href="https://math.mit.edu/internal/forms/">Math Department Forms</a></li><li><a  href="https://math.mit.edu/internal/undergrad/">Undergrad Office Resources</a></li><li><a  href="https://math.mit.edu/internal/admin/">Data Administration</a></li><li><a  href="https://math.mit.edu/internal/archives/">Internal Archives</a></li><li><a  href="https://math.mit.edu/internal/policies/">Department Policies</a></li></ul></li><li class="parent"><a href="/services/computer-help" aria-expanded="false" aria-controls="computer-help-mobile-menu">Computer Help</a><ul id="computer-help-mobile-menu" ><li><a  href="/services/computer-help/index.html">Hours & Contact</a></li><li><a  href="/services/computer-help/workstations.html">Workstations</a></li><li><a  href="/services/computer-help/equipment.html">Equipment</a></li><li><a  href="/services/computer-help/printing.html">Printing</a></li><li class="parent"><a href="/services/computer-help/new" aria-expanded="false" aria-controls="new-users-mobile-menu">New Users</a><ul id="new-users-mobile-menu" ><li><a  href="/services/computer-help/new/index.html">New Users</a></li><li><a  href="/services/computer-help/new/unix.html">Unix Tutorial</a></li><li><a  href="/services/computer-help/new/policies.html">Policies</a></li></ul></li><li class="parent"><a href="/services/computer-help/remote-access" aria-expanded="false" aria-controls="remote-access-mobile-menu">Remote Access</a><ul id="remote-access-mobile-menu" ><li><a  href="/services/computer-help/remote-access/index.html">Remote Access</a></li><li><a  href="/services/computer-help/remote-access/ssh.html">SSH, SFTP and SCP</a></li></ul></li><li class="parent"><a href="/services/computer-help/websites" aria-expanded="false" aria-controls="websites-mobile-menu">Websites</a><ul id="websites-mobile-menu" ><li><a  href="/services/computer-help/websites/index.html">Creating Websites</a></li><li><a  href="/services/computer-help/websites/accessibility.html">Web Accessibility</a></li><li><a  href="/services/computer-help/websites/course.html">Course Websites</a></li></ul></li><li class="parent"><a href="/services/computer-help/account" aria-expanded="false" aria-controls="math-account-mobile-menu">Math Account</a><ul id="math-account-mobile-menu" ><li><a  href="/services/computer-help/account/index.html">Math Account</a></li><li class="parent"><a href="/services/computer-help/account/email" aria-expanded="false" aria-controls="math-email-mobile-menu">Math Email</a><ul id="math-email-mobile-menu" ><li><a  href="/services/computer-help/account/email/index.html">Math Email</a></li><li><a  href="https://heaviside.mit.edu/webmail/">Math Webmail</a></li><li><a  href="/services/computer-help/account/email/thunderbird.html">Thunderbird</a></li><li><a  href="/services/computer-help/account/email/outlook.html">Outlook</a></li><li><a  href="/services/computer-help/account/email/gmail.html">Gmail</a></li><li><a  href="/services/computer-help/account/email/pine.html">Pine</a></li><li><a  href="/services/computer-help/account/email/mac.html">Mac Mail</a></li><li><a  href="/services/computer-help/account/email/spam.html">Spam &amp; Viruses</a></li><li><a  href="/services/computer-help/account/email/faq.html">FAQ</a></li></ul></li></ul></li><li class="parent"><a href="/services/computer-help/faq" aria-expanded="false" aria-controls="faq-mobile-menu">FAQ</a><ul id="faq-mobile-menu" ><li><a  href="/services/computer-help/faq/index.html">FAQ</a></li><li><a  href="/services/computer-help/faq/general.html">General Questions</a></li><li><a  href="/services/computer-help/faq/linux.html">Using Linux</a></li><li><a  href="/services/computer-help/faq/laptops.html">Laptops</a></li><li><a  href="/services/computer-help/faq/athena.html">Athena</a></li><li><a  href="/services/computer-help/faq/lists.html">Mailing Lists</a></li></ul></li></ul></li><li><a  href="https://math.mit.edu/internal/booked/mit/">Room Reservations</a></li><li><a  href="/services/reimbursements.html">Reimbursements</a></li></ul></li><li class="parent"><a href="/math-community" aria-expanded="false" aria-controls="community-mobile-menu">Community</a><ul id="community-mobile-menu" ><li><a  href="/math-community/index.html">Community</a></li><li><a  href="https://math.mit.edu/community/">Math Community</a></li><li><a  href="https://math.mit.edu/wim/">Women in Math</a></li><li><a  href="/math-community/sponsors.html">Sponsors</a></li><li class="parent"><a href="/math-community/giving" aria-expanded="false" aria-controls="giving-mobile-menu">Giving</a><ul id="giving-mobile-menu" ><li><a  href="/math-community/giving/index.html">Giving</a></li><li><a  href="/math-community/giving/profiles">Donor Profiles</a></li></ul></li><li><a  href="/math-community/visiting.html">Visiting Committee</a></li></ul></li><li class="parent"><a href="/news" aria-expanded="false" aria-controls="news-&amp;-events-mobile-menu">News &amp; Events</a><ul id="news-&amp;-events-mobile-menu" ><li><a  href="/news/index.html">News Overview</a></li><li><a  href="/news/archive">News Archive</a></li><li><a  href="/news/calendar.html">Math Calendar</a></li><li class="parent"><a href="/news/seminars" aria-expanded="false" aria-controls="seminars-mobile-menu">Seminars</a><ul id="seminars-mobile-menu" ><li><a  href="/news/seminars/index.html">Seminars</a></li><li><a  href="/news/seminars/simons.html">Simons Lectures</a></li></ul></li><li><a  href="/news/conferences.html">Conferences</a></li><li><a  href="/news/integral.html">Integral</a></li></ul></li></ul>        </nav>
+
+        <div class="content-wrap max-wrap">
+
+                            <nav id="side-nav" class="side-nav desktop-only" aria-label="section">
+                    <ul><li><a  href="/research/index.html">Research</a></li><li class="parent"><a href="/research/pure" aria-expanded="false" aria-controls="pure-side-menu">Pure</a><ul id="pure-side-menu" ><li><a  href="/research/pure/index.html">Pure</a></li><li><a  href="/research/pure/algebra.html">Algebra &amp; Algebraic Geometry</a></li><li><a  href="/research/pure/algebraic-topology.html">Algebraic Topology</a></li><li><a  href="/research/pure/analysis-pde.html">Analysis &amp; PDEs</a></li><li><a  href="/research/pure/geometry.html">Geometry & Topology</a></li><li><a  href="/research/pure/math-logic.html">Mathematical Logic &amp; Foundations</a></li><li><a  href="/research/pure/number-theory.html">Number Theory</a></li><li><a  href="/research/pure/probability.html">Probability &amp; Statistics</a></li><li><a  href="/research/pure/representation.html">Representation Theory</a></li></ul></li><li class="parent"><a href="/research/applied" aria-expanded="false" aria-controls="applied-side-menu">Applied</a><ul id="applied-side-menu" ><li><a  href="/research/applied/index.html">Applied</a></li><li><a  href="/research/applied/combinatorics.html">Combinatorics</a></li><li><a  href="/research/applied/comp-biology.html">Computational Biology</a></li><li><a  href="/research/applied/physical.html">Physical Applied Mathematics</a></li><li><a  href="/research/applied/numerical-analysis.html">Computational Science &amp; Numerical Analysis</a></li><li><a  href="/research/applied/comp-science-theory.html">Theoretical Computer Science</a></li><li><a  href="/research/applied/data.html">Mathematics of Data</a></li></ul></li><li class="parent"><a href="/research/graduate" aria-expanded="false" aria-controls="graduate-research-side-menu">Graduate Research</a><ul id="graduate-research-side-menu" ><li><a  href="/research/graduate/index.html">Graduate Research</a></li><li><a  href="/research/graduate/thesis-defenses.html">Thesis Defenses</a></li></ul></li><li class="parent"><a href="/research/undergraduate" aria-expanded="false" aria-controls="undergraduate-research-side-menu">Undergraduate Research</a><ul id="undergraduate-research-side-menu" ><li><a  href="/research/undergraduate/index.html">Undergraduate Research</a></li><li class="parent"><a href="/research/undergraduate/spur" aria-expanded="false" aria-controls="spur-side-menu">SPUR</a><ul id="spur-side-menu" ><li><a  href="/research/undergraduate/spur/index.html">SPUR</a></li><li><a  href="/research/undergraduate/spur/past-projects.html">Past Projects</a></li><li><a  href="/research/undergraduate/spur/lecture-series.html">Lecture Series</a></li><li><a  href="/research/undergraduate/spur/rogers-prize.html">Rogers Prize</a></li></ul></li><li><a  href="/research/undergraduate/drp">DRP</a></li><li><a  href="/research/undergraduate/urop">UROP</a></li><li class="parent"><a href="/research/undergraduate/urop-plus" aria-expanded="false" aria-controls="urop+-side-menu">UROP+</a><ul id="urop+-side-menu" ><li><a  href="/research/undergraduate/urop-plus/index.html">UROP+</a></li><li><a  href="/research/undergraduate/urop-plus/papers.html">Papers</a></li></ul></li><li><a  href="https://oge.mit.edu/msrp/">MSRP</a></li></ul></li><li class="parent"><a href="/research/highschool" aria-expanded="true" aria-controls="high-school-programs-side-menu">High School Programs</a><ul id="high-school-programs-side-menu" ><li><a  href="/research/highschool/index.html">High School Programs</a></li><li class="parent"><a href="/research/highschool/primes" aria-expanded="true" aria-controls="primes-side-menu">PRIMES</a><ul id="primes-side-menu" ><li><a  href="/research/highschool/primes/index.html">PRIMES</a></li><li><a  href="/research/highschool/primes/why.html">Why Choose PRIMES</a></li><li><a  href="/research/highschool/primes/areas.html">Areas of Research</a></li><li class="parent"><a href="/research/highschool/primes/program" aria-expanded="false" aria-controls="mit-primes-side-menu">MIT PRIMES</a><ul id="mit-primes-side-menu" ><li><a  href="/research/highschool/primes/program/index.html">MIT PRIMES</a></li><li><a  href="/research/highschool/primes/program/apply.html">How to Apply</a></li></ul></li><li class="parent"><a href="/research/highschool/primes/usa" aria-expanded="false" aria-controls="primes-usa-side-menu">PRIMES-USA</a><ul id="primes-usa-side-menu" ><li><a  href="/research/highschool/primes/usa/index.html">PRIMES-USA</a></li><li><a  href="/research/highschool/primes/usa/apply-usa.html">Apply</a></li></ul></li><li><a  href="http://www.artofproblemsolving.com/polymath/mitprimes">CrowdMath</a></li><li class="parent"><a href="/research/highschool/primes/circle" aria-expanded="false" aria-controls="primes-circle-side-menu">PRIMES Circle</a><ul id="primes-circle-side-menu" ><li><a  href="/research/highschool/primes/circle/index.html">PRIMES Circle</a></li><li><a  href="/research/highschool/primes/circle/students.html">Students Say</a></li><li><a  href="/research/highschool/primes/circle/mentors-circle.html">Circle Mentors</a></li><li><a  href="/research/highschool/primes/circle/past-papers.html">Papers</a></li><li><a  href="/research/highschool/primes/circle/apply-circle.html">Apply</a></li></ul></li><li class="parent"><a href="/research/highschool/primes/YuliasDream" aria-expanded="false" aria-controls="yulia's-dream-side-menu">Yulia's Dream</a><ul id="yulia's-dream-side-menu" ><li><a  href="/research/highschool/primes/YuliasDream/index.html">Yulia's Dream</a></li><li><a  href="/research/highschool/primes/YuliasDream/YD-2024.html">2024 Conference</a></li><li><a  href="/research/highschool/primes/YuliasDream/YD-2023.html">2023 Conference</a></li><li><a  href="/research/highschool/primes/YuliasDream/papers.html">Research Papers</a></li><li><a  href="/research/highschool/primes/YuliasDream/media.html">Media Reports</a></li></ul></li><li><a  href="http://mathroots.mit.edu/">&#8730;MathROOTS</a></li><li><a  href="/research/highschool/primes/step.html">PRIMES STEP</a></li><li><a  href="/research/highschool/primes/Switzerland">PRIMES-Switzerland</a></li><li><a  href="/research/highschool/primes/reading.html">Reading List</a></li><li class="parent"><a href="/research/highschool/primes/conference" aria-expanded="true" aria-controls="annual-conference-side-menu">Annual Conference</a><ul id="annual-conference-side-menu" ><li><a  href="/research/highschool/primes/conference/index.html">Annual Conference</a></li><li><a  href="/research/highschool/primes/conference/conf-2023.html">2023</a></li><li><a  href="/research/highschool/primes/conference/conf-2022.html">2022</a></li><li><a  aria-current="page"  href="/research/highschool/primes/conference/conf-2021.html">2021</a></li><li><a  href="/research/highschool/primes/conference/conf-2020.html">2020</a></li><li><a  href="/research/highschool/primes/conference/conf-2019.html">2019</a></li><li><a  href="/research/highschool/primes/conference/conf-2018.html">2018</a></li><li><a  href="/research/highschool/primes/conference/conf-2017.html">2017</a></li><li><a  href="/research/highschool/primes/conference/conf-2016.html">2016</a></li><li><a  href="/research/highschool/primes/conference/conf-2015.html">2015</a></li><li><a  href="/research/highschool/primes/conference/conf-2014.html">2014</a></li><li><a  href="/research/highschool/primes/conference/conf-2013.html">2013</a></li><li><a  href="/research/highschool/primes/conference/conf-2012.html">2012</a></li><li><a  href="/research/highschool/primes/conference/conf-2011.html">2011</a></li></ul></li><li><a  href="/research/highschool/primes/papers.html">Research Papers</a></li><li><a  href="/research/highschool/primes/honors.html">Honors and Awards</a></li><li><a  href="/research/highschool/primes/covid-response.html">Response to COVID</a></li><li><a  href="/research/highschool/primes/advisory.html">Advisory Board</a></li><li><a  href="/research/highschool/primes/staff.html">Program Staff</a></li><li><a  href="/research/highschool/primes/mentors.html">Mentors</a></li><li><a  href="/research/highschool/primes/mentors-named.html">Named Mentorships</a></li><li><a  href="/research/highschool/primes/alumni.html">Alumni</a></li><li class="parent"><a href="/research/highschool/primes/testimonials" aria-expanded="false" aria-controls="testimonials-side-menu">Testimonials</a><ul id="testimonials-side-menu" ><li><a  href="/research/highschool/primes/testimonials/index.html">Testimonials</a></li><li><a  href="/research/highschool/primes/testimonials/parents.html">Parents</a></li><li><a  href="/research/highschool/primes/testimonials/devadas.html">Devadas Interview</a></li><li><a  href="/research/highschool/primes/testimonials/mathROCs.html">MathROCs Q&A</a></li></ul></li><li><a  href="/research/highschool/primes/sponsorship.html">Sponsorship</a></li><li><a  href="/research/highschool/primes/apply.html">How to Apply</a></li><li><a  href="/research/highschool/primes/other.html">Other Programs</a></li><li><a  href="/research/highschool/primes/FAQ.html">FAQ</a></li><li><a  href="/research/highschool/primes/contact.html">Contact</a></li></ul></li><li class="parent"><a href="/research/highschool/rsi" aria-expanded="false" aria-controls="rsi-side-menu">RSI</a><ul id="rsi-side-menu" ><li><a  href="/research/highschool/rsi/index.html">RSI</a></li><li><a  href="/research/highschool/rsi/past-projects.html">Past Projects</a></li><li><a  href="/research/highschool/rsi/lecture-series.html">Lecture Series</a></li></ul></li></ul></li></ul>                </nav>
+            
+            <main id="main">
+<h1 class="primes">
+    <img
+        src="/research/highschool/primes/images/primesLogo100.jpg"
+        alt="Primes Logo" />
+    Eleventh Annual Fall Term PRIMES Conference, October 16-17, 2021
+</h1>
+
+<div class="compact">
+    <p>
+        See also
+        <a href="#spring"><strong>2021 Spring Term conference</strong></a>
+        and
+        <a href="#reading">
+            <strong>2021 Reading Group mini-conference</strong>
+        </a>
+    </p>
+    <p>
+        <a href="../materials/2021/PRIMES-2021-October-abstracts.pdf">
+            October conference abstracts booklet
+        </a>
+    </p>
+</div>
+
+<h2>Saturday, October 16</h2>
+
+<h3>Mathematics</h3>
+
+<img src="../images/2021/October/23-group.png" alt="Zoom screenshot" />
+
+<h4>9:00 am: Welcoming Remarks</h4>
+<ul>
+    <li>Prof. Michel Goemans, Head of the MIT Mathematics Department</li>
+    <li>Prof. Pavel Etingof, PRIMES Chief Research Advisor</li>
+    <li>Dr. Slava Gerovitch, PRIMES Program Director</li>
+</ul>
+
+<img src="../images/2021/October/1-He.png" alt="Zoom slide" />
+
+<h4>9:15-10:15 am: Session 1: Applied Mathematics</h4>
+
+<ul>
+    <li>
+        Yi (Alex) Liang, “Predicting pandemics with stock market indicators”
+        (mentor Prof. James Unwin, University of Illinois at Chicago) (
+        <a href="../materials/2021/October/1-1-Liang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Linda He, “A topological centrality measure for directed networks”
+        (mentor Lucy Yang, Harvard University) (
+        <a href="../materials/2021/October/1-2-He.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Jeremy Yu, “Gradient-enhanced physics-informed neural networks for
+        forward and inverse PDE problems” (mentor Dr. Lu Lu) (
+        <a href="../materials/2021/October/1-3-Yu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Garrett Heller, “Strichartz estimates and well-posedness for the
+        one-dimensional periodic Dysthe equation” (mentor Chengyang Shao) (
+        <a href="../materials/2021/October/1-4-Heller.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/5-Heller.png" alt="Zoom slide" />
+
+<h4>10:25-11:15 am: Session 2: Algebra</h4>
+
+<ul>
+    <li>
+        Andrew Gu, “Counting LU matrices with fixed eigenvalues” (mentor Dr.
+        Jonathan Wang) (
+        <a href="../materials/2021/October/2-1-Gu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Zifan Wang, “Representation stability and orthogonal groups” (mentor
+        Arun Kannan) (
+        <a href="../materials/2021/October/2-2-Wang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Karthik Seetharaman, William Yue, and Isaac Zhu, “Regularities in the
+        lattice homology of Seifert homology spheres” (
+        <a href="../materials/2021/October/2-3-Seetharaman-Yue-Zhu.pdf">
+            slides
+        </a>
+        )(mentor Dr. Irving Dai)
+    </li>
+</ul>
+
+<img src="../images/2021/October/11-Seidel.png" alt="Zoom slide" />
+
+<h4>11:25 am - 12:25 pm: Session 3: Algebra</h4>
+
+<ul>
+    <li>
+        Ilaria Seidel, “Bounds on symmetric numerical semigroups” (mentor
+        Jeffery Yu) (
+        <a href="../materials/2021/October/3-1-Seidel.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Yanan (Nancy) Jiang, Benjamin Li, and Sophie Zhu, “Factorization
+        invariants of algebraic valuations of positive cyclic semirings” (mentor
+        Dr. Felix Gotti) (
+        <a href="../materials/2021/October/3-2-Jiang-Li-Zhu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Sophie Zhu, “Factorizations in evaluation monoids of Laurent semirings”
+        (mentor Dr. Felix Gotti) (
+        <a href="../materials/2021/October/3-3-Zhu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Benjamin Li, “A new class of atomic monoid algebras without the
+        ascending chain condition on principal ideals” (mentor Dr. Felix Gotti)
+        (
+        <a href="../materials/2021/October/3-4-Li.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/21-Li.png" alt="Zoom slide" />
+
+<h4>
+    12:30-1:00 pm: Virtual Chat with PRIMES Chief Research Advisor Prof. Pavel
+    Etingof and Head Mentor Dr. Tanya Khovanova (for students and parents)
+</h4>
+
+<img src="../images/2021/October/32-Hsu.png" alt="Zoom slide" />
+
+<h4>1:30-2:35 pm: Session 4: Applied Mathematics</h4>
+<ul>
+    <li>
+        Sheryl Hsu, “The Power of Many: A
+        <em>Physarum Swarm</em>
+        Steiner Tree Algorithm” (mentor Prof. Laura Schaposnik, University of
+        Illinois at Chicago) (
+        <a href="../materials/2021/October/4-1-Hsu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Alex Hu, “Improved graph formalism for quantum circuit simulation”
+        (mentor Andrey Khesin) (
+        <a href="../materials/2021/October/4-2-Hu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Yash Agarwal, “Convolutional encoder decoder network for the removal of
+        coherent seismic noise” (mentor Sarah Greer) (
+        <a href="../materials/2021/October/4-3-Agarwal.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Raymond Feng, Andrew Lee, and Espen Slettnes, “Results on various models
+        of mistake-bounded online learning” (mentor Dr. Jesse Geneson, San Jose
+        State University) (
+        <a href="../materials/2021/October/4-4-Feng-Lee-Slettnes.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/48-Mantri.png" alt="Zoom slide" />
+
+<h4>2:45-3:40 pm: Session 5: Combinatorics</h4>
+
+<ul>
+    <li>
+        Atharva Pathak, “Combinatorial aspects of the card game War” (mentor Dr.
+        Tanya Khovanova) (
+        <a href="../materials/2021/October/5-1-Pathak.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Sophia Benjamin, Arushi Mantri, and Quinn Perian, “On the Wasserstein
+        distance between $k$-step probability measures on finite graphs” (mentor
+        Pakawut Jiradilok) (
+        <a href="../materials/2021/October/5-2-Benjamin-Mantri-Perian.pdf">
+            slides
+        </a>
+        )
+    </li>
+    <li>
+        Anuj Sakarda, Jerry Tan, and Armaan Tipirneni, “On the distance spectra
+        of extended double stars” (mentor Feng Gui) (
+        <a href="../materials/2021/October/5-3-Sakarda-Tan-Tipirneni.pdf">
+            slides
+        </a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/53-Cong.png" alt="Zoom slide" />
+
+<h4>3:50-4:50 pm: Session 6: Geometry</h4>
+
+<ul>
+    <li>
+        Andrew Du, “Quaternion-based analytical inverse dynamics for the human
+        body” (mentor David Darrow) (
+        <a href="../materials/2021/October/6-1-Du.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Kevin Cong, “Square tilings of translation surfaces” (mentor Prof.
+        Sergiy Merenkov, CCNY – CUNY) (
+        <a href="../materials/2021/October/6-2-Cong.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Daniel Xia, “A Minkowski-type inequality in AdS-Melvin space” (mentor
+        Prof. Pei-Ken Hung, University of Minnesota) (
+        <a href="../materials/2021/October/6-3-Xia.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Luke Robitaille, “Topological entropy of simple braids” (mentor Dr.
+        Minh-Tam Trinh) (
+        <a href="../materials/2021/October/6-4-Robitaille.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/65-Goel.png" alt="Zoom slide" />
+
+<h4>5:00-5:45 pm: Session 7: Algebra</h4>
+
+<ul>
+    <li>
+        Sushanth Sathish Kumar, “Extending the restricted Lie algebra structure
+        on the homology of a double loop space” (mentor Adela Zhang) (
+        <a href="../materials/2021/October/7-1-Kumar.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Joshua Guo, “On the Gauss-Epple homomorphism of B
+        <sub><em>n</em></sub>
+        , and generalizations to Artin groups of finite type” (mentor Kevin
+        Chang) (
+        <a href="../materials/2021/October/7-2-Guo.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Ram Goel, “Products of reflections in smooth Bruhat intervals” (mentor
+        Christian Gaetz) (
+        <a href="../materials/2021/October/7-3-Goel.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/59-group.png" alt="Zoom screenshot" />
+
+<h2>Sunday, October 17</h2>
+
+<h3>Computer Science and Computational Biology</h3>
+
+<h4>9:00 am: Welcoming Remarks</h4>
+
+<ul>
+    <li>Dr. Slava Gerovitch, PRIMES Program Director</li>
+    <li>Prof. Srini Devadas, PRIMES Computer Science Section Coordinator</li>
+</ul>
+
+<img src="../images/2021/October/101-group.png" alt="Zoom screenshot" />
+
+<h4>9:10-10:15 am: Session 8: Computer Science</h4>
+
+<ul>
+    <li>
+        Rachel Chen, “CryptoCuties: A new family of non-fungible virtual assets”
+        (mentor Jules Drean) (
+        <a href="../materials/2021/October/8-1-Chen.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Yavor Litchev, “Distributed signature scheme with monotonic access
+        pattern” (mentor Yu Xia) (
+        <a href="../materials/2021/October/8-2-Litchev.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Abigail Thomas, “The implementation of model pruning to optimize
+        zk-SNARKs” (mentor Yu Xia) (
+        <a href="../materials/2021/October/8-3-Thomas.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Simon Beyzerov and Eliyahu Yablon, “Versatile anonymous authentication
+        with Cloak” (mentor Sacha Servan-Schreiber) (
+        <a href="../materials/2021/October/8-4-Beyzerov-Yablon.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/72-Chen.png" alt="Zoom Slide" />
+
+<h4>10:25-11:25 am: Session 9: Computer Science</h4>
+
+<ul>
+    <li>
+        Kunal Kapoor, “Consensus under a dynamic synchronous model” (mentors Jun
+        Wan and Hanshen Xiao) (
+        <a href="../materials/2021/October/9-1-Kapoor.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Tanisha Saxena “A compromise between synchronous and asynchronous
+        systems” (mentor Jun Wan) (
+        <a href="../materials/2021/October/9-2-Saxena.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Akhil Kammila, “An analysis of the Tor Handshake” (mentor Kyle Hogan) (
+        <a href="../materials/2021/October/9-3-Kammila.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Carl (Zifan) Guo, “Studying the effectiveness of transformer models for
+        analyzing low-level programs” (mentor William Moses) (
+        <a href="../materials/2021/October/9-4-Guo.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/81-Kapoor.png" alt="Zoom Slide" />
+
+<h4>11:35 am - 12:45 pm: Session 10: Computer Science</h4>
+
+<ul>
+    <li>
+        Abhinav Mummaneni, “Unsupervised contrastive learning with hard positive
+        samples” (mentors Prof. Suvrit Sra and Joshua Robinson)
+    </li>
+    <li>
+        Jack (Qi Hao) Wang, “Generalization of X-fields image interpolation
+        model to higher dimensions” (mentor Guillaume Leclerc) (
+        <a href="../materials/2021/October/10-2-Wang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Michael (Yihao) Huang and Claire Wang, “Efficient algorithm for parallel
+        Bi-core decomposition” (mentors Prof. Julian Shun and Jessica Shi) (
+        <a href="../materials/2021/October/10-3-Huang-Wang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Tanmay Gupta and Anshul Rastogi, “Enhancing distributed tracing to order
+        events” (mentor Prof. Raja Sambasivan, Tufts University) (
+        <a href="../materials/2021/October/10-4-Gupta-Rastogi.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/93-Huang-Wang.png" alt="Zoom Slide" />
+
+<h4>
+    12:50-1:20 pm: Virtual Chat with PRIMES Computer Science Section Coordinator
+    Prof. Srini Devadas and mentors (for students and parents)
+</h4>
+
+<img src="../images/2021/October/113-Yang.png" alt="Zoom Slide" />
+
+<h4>1:50-2:35 pm: Session 11: Computer Science and Computational Biology</h4>
+
+<ul>
+    <li>
+        Kevin Edward Zhao, “More than BERT: oLMpics on diverse language models”
+        (mentors Prof. Anna Rumshisky, Namrata Shivagunde, and Vladislav Lialin,
+        UMass Lowell) (
+        <a href="../materials/2021/October/11-1-Zhao.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Christine (Ali) Yang, “Linear classifiers and t-SNE for understanding
+        relationships across cancer types” (mentors Prof. Stefanie Jegelka and
+        Alkis Gotovos) (
+        <a href="../materials/2021/October/11-2-Yang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Anish Mudide, “Predicting mammalian conservation status from genome
+        summary statistics” (mentor Dr. Ayshwarya Subramanian, Broad Institute)
+    </li>
+</ul>
+
+<img src="../images/2021/October/123-Kurada.png" alt="Zoom slide" />
+
+<h4>2:45-3:55 pm: Session 12: Computational Biology and Bioinformatics</h4>
+
+<ul>
+    <li>
+        Neil Chowdhury, “Interplay between loop extrusion and
+        compartmentalization during mitosis” (mentor Sameer Abraham)
+    </li>
+    <li>
+        Vishnu Emani, “Computational fluid modelling for surgical planning of
+        single ventricle congenital heart defects” (mentors Dr. David Hoganson
+        and Dr. Vijay Govindarajan, Boston Children’s Hospital) (
+        <a href="../materials/2021/October/12-2-Emani.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Arthur Hu and Powell Zhang, “Remote interactions and effects on mental
+        and physical health” (mentor Prof. Gil Alterovitz)
+    </li>
+    <li>
+        Sruthi Kurada and Victoria Yuan, “Characterizing ergothioneine pathways
+        and potential drug targets via intrinsically disordered protein
+        analysis” (mentor Prof. Gil Alterovitz) (
+        <a href="../materials/2021/October/12-4-Kurada-Yuan.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/124-group.png" alt="Zoom Screenshot" />
+
+<h4>4:05-4:35 pm: Session 13: Mathematics</h4>
+
+<ul>
+    <li>
+        Nathan Xiong, “The master field and free Brownian motions” (mentor Pu
+        Yu) (
+        <a href="../materials/2021/October/13-1-Xiong.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Rishabh Das, “Thermocapillary modulation of fluidic lenses in
+        microgravity” (mentor Dr. Valeri Frumkin) (
+        <a href="../materials/2021/October/13-2-Das.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/October/130-group.png" alt="Zoom Screenshot" />
+
+<h1 id="spring">
+    Eleventh Annual Spring Term PRIMES Conference, May 22-23, 2021
+</h1>
+
+<p>
+    <a href="../materials/2021/PRIMES-2021-May-abstracts.pdf">
+        May conference abstracts
+    </a>
+</p>
+
+<h2>Saturday, May 22</h2>
+
+<h3>Mathematics</h3>
+
+<h4>9:00 am: Welcoming Remarks</h4>
+
+<ul>
+    <li>Prof. Pavel Etingof, PRIMES Chief Research Advisor</li>
+    <li>Dr. Slava Gerovitch, PRIMES Program Director</li>
+</ul>
+
+<img src="../images/2021/May/Picture45.png" alt="Zoom Slide" />
+
+<h4>9:15-10:15 am: Session 1: PRIMES Circle</h4>
+
+<ul>
+    <li>
+        Gloria Chun &amp; Alicia Li, “The Post Correspondence Problem” (mentor
+        Alexandra Hoey) (
+        <a href="../materials/2021/May/1-1-Chun-Li.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Isha Agarwal &amp; Minseo Kim, “DP-3T: Ensuring Cryptographic Safety and
+        Security In COVID-19 Contact Tracing” (mentor Talia Blum)&nbsp;(
+        <a href="../materials/2021/May/1-2-Agarwal-Kim.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Kien Lau &amp; Andrew Zeng, “Models from Introductory Probability"
+        (mentor Jordan Benson)
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture50.png" alt="Zoom Slide" />
+
+<h4>10:20-11:20 am: Session 2: PRIMES Circle</h4>
+
+<ul>
+    <li>
+        Lisa Liu &amp; Tanvi Ganapathy, “A Brief Review of Special Topics in
+        Group Theory” (mentor Gabrielle Kaili-May Liu)&nbsp;(
+        <a href="../materials/2021/May/2-1-Liu-Ganapathy.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Xavier Choe &amp; Garima Rastogi, “Number Fields and Galois Theory”
+        (mentor Merrick Cai)&nbsp;(
+        <a href="../materials/2021/May/2-2-Choe-Rastogi.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Dimitar Dimitrov &amp; Isaac Patterson, “Invariants in Knot Theory”
+        (mentor Preston Cranford)
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture57.png" alt="Zoom Slide" />
+
+<h4>11:25 am - 12:20 pm: Session 3: PRIMES Circle</h4>
+
+<ul>
+    <li>
+        Neil Jin & Apurva Varigonda, “Graph Theory and the Optimization of City
+        Infrastructure” (mentor Rachana Madhukara)
+    </li>
+    <li>
+        Anusha Senapati & Iris Heikkinen, “Branches of Graph Theory: On Spanning
+        Trees” (mentor Rebecca Nelson)
+    </li>
+    <li>
+        Ephram Chun, “Applications of Combinatorial Algorithms for Graph
+        Traversal and Efficiency” (mentor Jung Soo Chu)&nbsp;(
+        <a href="../materials/2021/May/3-3-Chun.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture63.png" alt="Zoom Slide" />
+
+<h4>
+    12:30-1:00 pm: Virtual Chat with PRIMES Chief Research Advisor Prof. Pavel
+    Etingof, Head Mentor Dr. Tanya Khovanova, Circle coordinator Peter Haine,
+    and assistant Circle coordinator Marisa Gaetz (for students and parents)
+</h4>
+
+<img src="../images/2021/May/Picture65.png" alt="Zoom screenshot" />
+
+<h4>1:15-2:10 pm: Session 4: PRIMES Circle</h4>
+
+<ul>
+    <li>
+        Christian Nichols &amp; Duy Pham, “Combinatorics” (mentor Eli
+        Garcia)&nbsp;(
+        <a href="../materials/2021/May/4-1-Pham.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Shreya Sinha &amp; Jennifer Yuan, “Well, that's just a theory.... a GAME
+        theory” (mentor Katie Gravel)
+    </li>
+    <li>
+        Saniya Srivastava &amp; Heidi Zhang, “Modeling Altruism in Evolutionary
+        Biology Using Game Theory” (mentor Ariana Park)
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture75.png" alt="Zoom Slide" />
+
+<h4>2:15-3:10 pm: Session 5: PRIMES Reading and PRIMES STEP</h4>
+
+<ul>
+    <li>
+        Jason Tang (PRIMES Reading), “The Sperner Property and Quotients of
+        Boolean Algebras” (mentor Luis Kumanduri)&nbsp;(
+        <a href="../materials/2021/May/5-1-Tang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Michael Han, Ella Kim, Evin Liang, Mira Lubashev, Oleg Polin, Vaibhav
+        Rastogi, Benjamin Taycher, Ada Tsui, Cindy Wei (PRIMES STEP Junior
+        group), “Fun with Latin Squares” (mentor Dr. Tanya Khovanova)&nbsp;(
+        <a href="../materials/2021/May/5-2-STEP-Junior.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Matvey Borodin, Eric Chen, Aidan Duncan, Boyan Litchev, Jiahe Liu,
+        Veronika Moroz, Matthew Qian, Rohith Raghavan, Garima Rastogi, and
+        Michael Voigt (PRIMES STEP Senior group), “Stable Marriage Problem”
+        (mentor Dr. Tanya Khovanova)&nbsp;(
+        <a href="../materials/2021/May/5-3-STEP-Senior.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture100.png" alt="Zoom screenshot" />
+
+<h2>Sunday, May 23</h2>
+
+<h3>Computer Science and Computational Biology</h3>
+
+<h4>9:00am Welcoming Remarks</h4>
+
+<ul>
+    <li>Dr. Slava Gerovitch, PRIMES Program Director</li>
+    <li>Prof. Srini Devadas, PRIMES Computer Science Section Coordinator</li>
+</ul>
+
+<img src="../images/2021/May/Picture2.png" alt="Zoom Slide" />
+
+<h4>9:10-10:10 am: Session 6: Computer Science</h4>
+
+<ul>
+    <li>
+        Benjamin Chen, “Practical Anonymity Sets in Pseudonymous Forums” (mentor
+        Kyle Hogan)&nbsp;(
+        <a href="../materials/2021/May/6-1-ChenB.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Linda Chen, “Communication Complexity of Byzantine Broadcast” (mentor
+        Jun Wan)&nbsp;(
+        <a href="../materials/2021/May/6-2-ChenL.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Matthew Ding, “Signed-Message Relay Version of Iterative Approximate
+        Byzantine Consensus for Directed Graphs” (mentor Hanshen Xiao)&nbsp;(
+        <a href="../materials/2021/May/6-3-Ding.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture6.png" alt="Zoom slide" />
+
+<h4>10:20-11:20 am: Session 7: Computer Science and PRIMES Reading</h4>
+
+<ul>
+    <li>
+        Beining (Cathy) Zhou, “A High-Order Cumulant-Based Sparse Ruler for
+        Improved Lag Generation” (mentor Hanshen Xiao)&nbsp;(
+        <a href="../materials/2021/May/7-1-Zhou.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Jason Yang, “Decentralized Gradient Descent: How Network Structure
+        Affects Convergence” (mentors Jun Wan and Hanshen Xiao (
+        <a href="../materials/2021/May/7-2-Yang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Ishita Goluguri and Toyesh Jayaswal (PRIMES Reading), “Jumping into
+        Markov Chains” (mentor Dr. Benjamin Landon)&nbsp;(
+        <a href="../materials/2021/May/7-3-Goluguri-Jayaswal.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture23.png" alt="Zoom slide" />
+
+<h4>11:30 am - 12:10 pm: Session 8: Computational Biology</h4>
+
+<ul>
+    <li>
+        Sarah Chen, “In Silico Prediction of Retained Intron-Derived Neoantigens
+        in Leukemia” (mentors Dr. Nicoletta Cieri, Dana-Farber Cancer Institute,
+        and Kari Stromhaug)&nbsp;(
+        <a href="../materials/2021/May/8-1-ChenS.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Mikhail Alperovich, “Data Driven Quality Control for Single-Cell RNA
+        Sequencing” (mentor Dr. Ayshwarya Subramanian, Broad Institute)
+    </li>
+</ul>
+
+<img src="../images/2021/May/Picture32.png" alt="Zoom screenshot" />
+
+<h2 id="reading">Mathematics Reading Groups</h2>
+
+<h3>Tuesday, December 7</h3>
+
+<p>Zoom webinar</p>
+
+<h4>7:00 pm Welcoming Remarks</h4>
+
+<ul>
+    <li>Prof. Pavel Etingof, PRIMES Chief Research Advisor</li>
+    <li>Dr. Slava Gerovitch, PRIMES Program Director</li>
+</ul>
+
+<h4>7:05 pm</h4>
+
+<ul>
+    <li>
+        Matvey Borodin, Kaylee Ji, and Yifan Kang, “Bidding Games” (mentor Chun
+        Hong Lo) (
+        <a href="../materials/2021/December/Borodin-Ji-Kang.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Jessica He, Annie Wang, and Max Xu, “Points on Elliptic Curves” (mentor
+        Dr. Konstantin Jakob) (
+        <a href="../materials/2021/December/He-Wang-Xu.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Derek Chen and Advay Goel, “Spectral Graph Theory” (mentor Luis
+        Kumanduri) (
+        <a href="../materials/2021/December/Chen-Goel.pdf">slides</a>
+        )
+    </li>
+    <li>
+        Andrew Wen, “Applications of Homology” (mentor Lucy Yang, Harvard
+        University) (
+        <a href="../materials/2021/December/Wen.pdf">slides</a>
+        )
+    </li>
+</ul>
+
+<img src="../images/2021/reading624.png" alt="Slide screenshot" />
+
+<h2>Contact</h2>
+<p>
+    With questions, contact PRIMES Program Director Slava Gerovitch at
+    <a class="email-hidden"  href="#"  data-email="cHJpbWVzQG1hdGgubWl0LmVkdQ=="></a></p>                </main>
+            </div> <!-- Close .content-wrap -->
+
+            <footer>
+                <div class="footer-wrap max-wrap">
+                    <div class="address">
+                        <address>
+                            <strong>Massachusetts Institute of Technology<br>
+                            Department of Mathematics<br></strong>
+                            Headquarters Office<br>
+                            Simons Building (Building 2), Room 106<br>
+                            77 Massachusetts Avenue<br>
+                            Cambridge, MA 02139-4307
+                        </address>
+                        <p><a href="https://whereis.mit.edu/?go=2"><i class="fa fa-map" aria-hidden="true"></i>Campus Map</a></p>
+                        <p><a href="tel:6172534381"><i class="fa fa-phone" aria-hidden="true"></i>(617) 253-4381</a></p>
+                    </div>
+                    <div class="email">
+                                                <p>Website Questions:<a href="mailto:math_web_help@mit.edu"><i class="fa fa-envelope" aria-hidden="true"></i>math_web_help@mit.edu</a></p>
+                        <p>Undergraduate Admissions:<a href="mailto:admissions@mit.edu"><i class="fa fa-envelope" aria-hidden="true"></i>admissions@mit.edu</a></p>
+                        <p>Graduate Admissions:<a href="mailto:gradadmissions@mit.edu"><i class="fa fa-envelope" aria-hidden="true"></i>gradadmissions@mit.edu</a></p>
+                        <p>Facilities:<a href="mailto:building2@mit.edu"><i class="fa fa-envelope" aria-hidden="true"></i>building2@mit.edu</a></p>
+                    </div>
+                    <div class="links">
+                        <p><a href="https://accessibility.mit.edu">Accessibility</a></p>
+                        <p><a href="https://emergency.mit.edu/emergency/">Emergencies</a></p>
+                    </div>
+                    <div class="logo">
+                        <a class="mit-logo-gray"  href="https://web.mit.edu" title="MIT"></a>
+                    </div>
+                    <div class="social">
+                        <a class="instagram" href="https://www.instagram.com/mitmathematics/?hl=en" title="Instagram" ><span class="sr-only">Instagram</span></a>
+                        <a class="facebook" href="https://www.facebook.com/math.mit.edu/" title="Facebook"><span class="sr-only">Facebook</span></a>
+                        <a class="x" href="https://twitter.com/MITMath" title="X"><span class="sr-only">X</span></a>
+                        <a class="youtube" href="https://www.youtube.com/channel/UC7w5LjBnqjlAp3qqdyJS2wA" title="Youtube"><span class="sr-only">Youtube</span></a>
+                    </div>
+                </div>
+            </footer>
+
+        </div> <!-- Close .site-wrap -->
+    </body>
+</html>

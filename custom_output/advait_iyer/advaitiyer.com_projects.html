@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Advait&#39;s website">
+    <link rel="shortcut icon" href="advait-favicon.jpeg">
+    <link rel="alternate" type="application/rss+xml" href="https://advaitiyer.com/index.xml" title="Advait Iyer">
+    <link rel="stylesheet" href="style.css">
+    <title>Advait Iyer | Projects</title>
+    <link rel="prefetch" href="writing.html">
+    <link rel="prefetch" href="work.html">
+    <link rel="prefetch" href="projects.html">
+    <link rel="prefetch" href="quotes.html">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XH39YF3VRE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-XH39YF3VRE');
+    </script>
+</head>
+
+<body>
+    <header id="banner">
+        <h2><a href='/'>Advait Iyer</a> | Projects</h2>
+    </header>
+    <main id="content">
+        <p>Here are some things I’ve worked on.</p>
+        <details>
+        <summary>
+        <em>94 MHz RISC-V CPU</em>
+        </summary>
+        <ul>
+        <li>Designed a pipelined processor in <em>SystemVerilog</em> for the RISC-V ISA</li>
+        <li>Used P6 style renaming, an N-way superscalar design, early tag broadcast, early branch resolution, and GShare branch prediction.</li>
+        <li>Also incorporated instruction prefetching, non-blocking instruction and data caches (N-way set-associative and banked, respectively), a victim cache, and a load-store queue with forwarding.</li>
+        <li>Achieved a clock frequency of ~94MHz and an average CPI of 1.7 on a suite of programs including GNU libraries, Alexnet, sorting algorithms, and geometric functions.</li>
+        <li>s/o <a href="https://bschulz01.github.io/">Bradley</a>, <a href="https://www.linkedin.com/in/noel-pamenan-576499259/">Miah</a>, <a href="https://www.linkedin.com/in/arjunlaxman/">Arjun</a>, <a href="https://www.linkedin.com/in/sanidhya-patel/">Sunny</a>, and <a href="https://www.linkedin.com/in/jack-wildes/">Jack</a>.</li>
+        <li><a href="./processor-report.pdf">Report</a>.</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>Roll Over Beethoven: A Cloth Piano</em>
+        </summary>
+        <ul>
+        <li>A foldable, portable piano/keyboard.</li>
+        <li>Comprises the core instrument with cloth keys (on foldable card paper), a graphics display (for feedback and tutorials), and a sustain pedal.</li>
+        <li>Wrote drivers for the sensors and display, synthesized different timbres, and created a tutorial in <em>C</em>.</li>
+        <li><a href="https://github.com/adviyer/cloth-piano/tree/master">Code</a>.</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>Formal Verification of FtTokenCMP</em>
+        </summary>
+        <ul>
+        <li>Formally verified <em>FtTokenCMP</em>, a fault-tolerant, token-based cache coherence protocol using <em><a href="https://en.wikipedia.org/wiki/Mur%CF%86">Murphi</a></em>.</li>
+        <li><a href="https://github.com/adviyer/ft-token/tree/bounds">Code</a>.</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>EECS 270 RTL DV Autograder</em>
+        </summary>
+        <ul>
+        <li>As a TA, co-developed testing frameworks in <em>Verilog</em>, set up <em>Docker</em> environments, and wrote testbenches to verify student FPGA designs.</li>
+        <li>Deployed on autograder.io, and used by every computer engineering student at Michigan (~300/semester).</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>FPGA Design Projects</em>
+        </summary>
+        <ul>
+        <li>Four function calculator, traffic lights controller, and carry lookahead adder.</li>
+        <li>Deployed and verified on <em>Altera DE2-115</em> boards.</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>Robotic Planning and Controls Projects</em>
+        </summary>
+        <ul>
+        <li>iLQR implementation in <em>Pytorch</em> for the inverted double-pendulum on a cart.</li>
+        <li>MPC and MPPI for linearizing cartpole and robot arm dynamics.</li>
+        <li>Dynamics from state measurements, with Gaussian processes.</li>
+        </ul>
+        </details>
+        <details>
+        <summary>
+        <em>Misc C/C++ Projects</em>
+        </summary>
+        <ul>
+        <li>RISC-V assembler, simulator, linker</li>
+        <li>Pipeline and cache simulators in C</li>
+        <li>Tarjan’s pairing heap</li>
+        <li>SQL-like relational database</li>
+        <li>Among Us simulator with optimal TSP</li>
+        <li>Seam-carving for image resizing</li>
+        <li>Piazza posts classifier</li>
+        <li>Plants vs Zombies simulator</li>
+        <li>Euchre simulator</li>
+        </ul>
+        </details>
+    </main>
+    <footer id="footer">
+        <p>
+            <a href='/writing'>Writing</a> •
+            <a href='/projects'>Projects</a> •
+            <a href='/quotes'>Quotes</a> •
+            <a href='/work'>Work</a>
+        </p>
+    </footer>
+</body>
+
+</html>

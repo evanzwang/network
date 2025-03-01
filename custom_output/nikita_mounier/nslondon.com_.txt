@@ -1,0 +1,286 @@
+      NSLondon
+      A group for iOS and Mac developers who want to explore all that's
+        new and fascinating in Apple development. Expect deep dives and
+        bleeding edge stuff.
+      We meet quarterly in London. For updates on new events,
+        [join the Meetup group](https://www.meetup.com/NSLondon/)
+        or follow us on
+        [Mastodon](https://mastodon.social/@NSLondonMeetup)
+        ,
+        [X/Twitter](https://twitter.com/NSLondonMeetup)
+        [LinkedIn](https://uk.linkedin.com/company/nslondon)
+        , or
+        [YouTube](https://www.youtube.com/channel/UCegKOBw05hygFj0eJB-4lPw)
+        .
+      If you are interested in speaking at a future event, then please fill in
+        [our speaker proposal form](https://docs.google.com/forms/d/e/1FAIpQLScbmLmjK9jOyNS9pWYLmHHMsyM6zPABi0B5HdsUkdj2bN22rA/viewform)
+        . We welcome first-time speakers and want to help you get started.
+      To maybe protect from email scrapers, this has been encoded with http://hivelogic.com/enkoder/
+        [Code of Conduct](coc.html)
+      2025.1 at Goodnotes
+      Aleksandr Filimonov — What Disney Taught Us About iOS Animations
+      Bret Cheng — How Goodnotes serves more than 25M monthly active users with local-first architecture
+      2024.7 at Vonage
+      Abizer Nasir — The Epiphanies of Advent of Code
+      Abdul Ajetunmobi — Vonage Trivia Challenge: Quiz Your Way to the Top!
+      2024.6 at Apple Battersea
+      Oliver Binns — Check Yo' Device
+      Rebecca Owen — The Indie Development Journey: Beyond Code; From Zero to App Store Featured in 12 Months
+      2024.5 at NewDay
+      Juan Marin & Sergio Padron — How we've built and scaled 17 apps from 1 codebase at NewDay
+      Raul Menezes — Scaling Bumble's Design System: The Bumble-SwiftUI Solution
+      Andrea Antonioni — The Evolution of Yelp iOS Search
+      It's Glowtime at Deloitte Digital
+      September Event Keynote viewing party
+      2024.4 at Google
+      Peter Friese — How I used Firebase, Gemini, Genkit, and Siri to build a second brain
+      Jacob Bartlett — My Toddler Loves Planes, So I Built Her A Radar
+      Ross Butler — Synthetic Testing in Server-Side Swift
+      WWDC24 at Deloitte Digital
+      Keynote viewing party
+      2024.3 at Capital One
+      Anastasia Petrova — Hidden engineering costs and complexities of A/B testing
+      Adam Fallon — Trainline's path to production with Gen AI
+      Richard Das — Engineering Fitness with AirPods & Pushups
+      2024.2 at Monzo
+      Markos Zoulias Charatzas — Debugging Closed Source Code - A whodunnit mystery
+      Mohamed El Eryan — Spatial Shift: Navigating the Future of Business in the Era of Spatial Computing
+      2024.1 at Trainline
+      Phil Nash — Rewiring your brain, with Test Driven Thinking
+      Marcel Mierzejewski — Redefining Crypto in Revolut 10: A Case of Pragmatic iOS Development
+      2023.5 at Onfido
+      Rahul Amin — Onfido Demo
+      Muralidharan Kathiresan — How to Create a Good Pull Request - and How to Review One?
+      Nikita Maidanov — How to Get More In-App Subscriptions
+      Wonderlust at Deloitte Digital
+      2023.4 at Ford
+      Simon Leigh — Ditto: Next-Level Mobile Connectivity, Offline-First Database and Peer-to-Peer Sync for Uninterrupted App Performance
+      Haz Hubble — Building an AI concierge
+      Tony Short — The First Thing That is Useful
+      2023.3 at Monzo
+      Jonathan Crooke — Scaling iOS at Bumble
+      Freddie Nicholson — Swift Playgrounds in the classroom with Bouncer
+      Jacob Bartlett — SwiftUI at scale
+      2023.2 at AWS
+      Sebastien Stormacq — Swift, Serverside, Serverless
+      Andrea Scuderi — Serverless in Swift Like a Breeze
+      WWDC23 at Deloitte Digital
+      2023.1 at Just Eat
+      Tanin Rojanapiansatith — iOS Accessibility — Why/What/How?
+      Pete Heslop — The Smart Creatives
+      2022.3 at Bumble
+      Nikita Mounier — The Composable Architecture… as a high school student
+      Anurag Ajwani — Modular iOS
+      2022.2 at Cuvva
+      Andrew Hart — Building a Spatial Experience: Best practices with AR
+      wrXWT26e4Qo
+      Aadil Qureshi — iOS to fight Climate Change
+      2022.1 at Deloitte Digital
+      Oliver Binns — Scaling Mobile for a Global Pandemic
+      Pranav Kasetti — Exploring Swift Collections
+      2021.4 at GoodNotes
+      Bruno Bilescky — Scaling your app
+      Jacob Bartlett — Clean Networking with Combine
+      Abdul Ajetunmobi — Quick intro to ShazamKit
+      2021.3 on Zoom
+      Yahya Saddiq — Swift Memory Management and Debugging
+      2021.2 on Zoom
+      Pranav Kasetti — Exploring Swift Algorithms
+      2021.1 on Zoom
+      2020.4 on Zoom
+      2020.3 on Zoom
+      Andrea Scuderi — AWS Lambda in Swift
+      2020.2 on Zoom
+      Q1 2020 at Bloomberg
+      Marcin Iwanicki & Kas Wridan — Beyond Unit Tests
+      Finlay Dobbie — A whirlwind tour of Unicode
+      Mini at Yoyo
+      Angela Yu — Best Practices with Google Maps Platform in iOS
+      Kas Wridan — The grey areas of UI testing
+      Q4 2019 at Revolut
+      Diomidis Papas — Decomposing an iOS application into modules
+      Lightning Talks
+      Ross Butler — Solving the captive portal problem on iOS
+      Abdul Ajetunmobi — How giving up control can actually be smart
+      Daniel Tull — I've got a brand new Combine publisher
+      Aled Samuel — Seeing in the Dark
+      Q3 2019 at The MediaWorks
+      Rob Whitaker — Mobile Digital Inclusion - Accessibility Without the 'V' Word
+      Jonathan Rothwell — So you can sleep at night — Ethics in software engineering
+      Q2 2019 at Capital One
+      Paul Hudson — Understanding the Standard Library
+      Sam Stone — Hacking the iOS Simulator
+      Mini with Orta Therox at Finch's
+      iOS Women, Queer, Trans & Non-Binary Breakfast at Carluccio's
+      Q1 2019 at Trainline
+      Matthew Hasler and Oliver Poole — UI testing without the UI
+      Joshua Garnham — Pushing Protocols to Their Limits
+      Douglas Hill — Full keyboard control in iOS apps
+      Sam Clewlow — A brave new mobile world
+      Q3.5 2018 at Deliveroo
+      Jessica Rose — Burnout and Balance
+      Carla Goldstein — Dynamic UITableViews do’s and don’ts
+      Daniel Leivers — GraphQL for mobile developers
+      Q2 2018 at Facebook
+      Meghän Kane — The State of ML for iOS… On the Advent of WWDC 2018 🕯🤓
+      John Sundell — The Magic of UI Testing
+      Mini with Orta at Artsy Happy Hour
+      Mini with @Vixentael at The Black Dog
+      Q1 2018 at Google
+      Maxim Cramer — Code, Culture, and Colleagues
+      Graham Lee — Object-Oriented Programming in Functional Programming in Swift
+      October 2017 at Facebook
+      Johannes Weiß — Demystifying Copy-on-Write in Swift
+      Thomas Paul Mann — Building AR Studio
+      NSLondon & Swift London Xmas special at Skills Matter at CodeNode
+      Samuel Giddins — Understanding Why Strings are Evil
+      Abizer Nasir — Empathy isn't enough
+      Special live stream talk
+      Chris Eidhof
+      November 2016 at WeWork
+      Oliver Wang Hansen — Server Side Swift
+      Miguel Angel Quinones — Minimum Viable Tooling
+      David Okun — From C++ to Swift - Modern Cross-Platform SDKs
+      October 2016 at onefinestay
+      Christopher Stott — Building buddybuild
+      Michael May & Naveen Lingaiah — Mentorship
+      September 2016 at WeWork
+      Maxim Cramer — Emissions and Extractions: A Tale of React Native on iOS
+      Sam Dods — Advanced Notifications: Rapid Prototyping and Server-side Swift
+      August 2016 at onefinestay
+      Jacek Lampart — Re-Swift Swifty Redux framework
+      Dani Tomlinson — Real World Swift Performance
+      July 2016 at Net A Porter
+      Juan Delgado — Product vs Craft
+      Kyle Fuller — Testing without Xcode
+      June 2016 at Yammer
+      Eduardo Aguilar — Overcoming technical difficulties
+      Honza Dvorsky — Swift package manager
+      Rob Elkin — AltConf: Behind the scenes
+      May 2016 at Hired at Metal Box Factory
+      Romaine Reid — Utilising Motion Design to Enhance Your App
+      Roy Marmelstein — Scandal and Controversy in iOS Development
+      April 2016 at Not On The High Street
+      Michael May — The empathetic programmer
+      Marisa Montaldi — Designing for people on the autistic spectrum
+      Dani Tomlinson — Building APIs in Swift
+      March 2016 at Pivotal Labs
+      Johannes Weiß — Technical detail behind the apple-FBI case
+      Daniel Haight — Implementing a code injection framework
+      Simon Gladman — Advanced image processing with Core Image
+      February 2016 at Just Eat
+      Raimon Lapuente & Gergely Orosz — Sorry Objc It's not you, it's me
+      Maxim Cramer — Live Design: 🎙🎨
+      January 2016 at Thomson Reuters
+      Mannie Tagarira — Code Reviews
+      Bohdan Orlov — iOS Architecture Patterns
+      Mark Szulyovszky — Quick introduction to RFP with zero theory
+      Rheese Burgess — Using elm/react inspired architecture to build Cocoa apps in a functional way
+      Emily Toop — Diagnosing Allergies
+      Ron Herrema — Developing Sophisticated iOS Audio projects with libpd
+      Shane Reid — Performance issues at Grabble
+      Thomas Catterall — Crash Your App: Five Tips In Five Minutes For Building a Stable App
+      November 2015 at onefinestay
+      Paul Stringer — Acceptance Testing for iOS
+      Csordas Csaba — Work hard and REST
+      October 2015 at Skills Matter at CodeNode
+      Paul Ardeleanu — Developers' Emergency Guide to Public Speaking
+      Mike McDonald — Building IoT apps connected through Firebase
+      September 2015 at The Brew/Judo Payments
+      Tech Panel (Abizer Nasir, Michael May, Danielle Tomlinson)
+      Tomasz Piekarczyk — Big Core Data
+      August 2015 at The App Business
+      Jani Eväkallio — React Native
+      John Sundell — Spotify Layout
+      Marco Sero — Legacy Apps
+      July 2015 at Yammer
+      Daniel Haight — Provisioning Profiles
+      Abizer Nasir — Carthage
+      Michael May — Apple Pay
+      May 2015 at Facebook
+      Alan Cannistraro — The Art Of Creating Products
+      Honza Dvorsky — Continuous Integration on the Edge
+      April 2015 at Just Eat
+      Neil Kimmett — Practical Watch Kit
+      Rui Peres — Real World ReactiveCocoa
+      Tom Dixon — A delve into Custom Keyboards
+      CocoaPods Test Jam! at Facebook
+      March 2015 at nice Agency
+      Felix Kraus — Fastlane - OSS tools to automate continuous delivery in iOS
+      Sean Woodhouse — Reveal 1.5 and some Q&A
+      February (Part 2) 2015 at Lyst
+      Johannas Weiß — Type driven development
+      Uri Baghin — ReactiveCocoa and Rx principles 101
+      Joel Parsons — The modern password and you
+      February (Part 1) 2015 at Yammer
+      JP Simard — Lessons learned wrapping an Objective-C library in Swift
+      Francesco Petrungaro — iOS App Security - Common Mistakes and Best Practices
+      January 2015 at Stack Overflow
+      Mehdi Mulani — Reverse engineering on iOS and Mac
+      Joseph Lord — Beyond if let
+      Thomas Catterall — The Dependencies You Didn't Know You Had
+      December 2014 at Twitter
+      Joe Hughes — WatchKit
+      November 2014 at Just Eat
+      Jon Hocking — 208 weeks later, 4 years of working with great designers
+      Raimon Lapuente — Little wins with UIAppearance
+      Meng To — Fast, interactive prototyping
+      NSLondon(_:) at The App Business
+      Mike Abdullah — What's new in iOS 8… for Hipsters™
+      Alexsander Akers — The other WatchKit
+      NSLondon 13ish at Facebook
+      Abizer Nasir — Thinking in Swift
+      Sally Shepard — Making an app like 'clear' accessible
+      NSLondon 1st anniversary at Just Eat
+      Scott Goodson
+      Rob Stearn — Multipeer Networking
+      Kyle Fuller — A Swift approach
+      NSLondon 10 at Lyst
+      Johannes Weiß — Introduction to Functional Programming
+      Boris Bügling — Custom Playgrounds
+      WWDC special edition at Facebook
+      NSLondon 9 at Just Eat
+      Daniel Haight — Build and Run(time)
+      Nigel Barber — Drawing on the GPU
+      Ivan Andriollo — Monitoring network traffic with Fiddler
+      NSLondon 8 at Yammer
+      Marin Usalj — All that you won't have heard about Alcatraz
+      Tim Chilvers — High fashion and intriguing bugs in code and at work
+      NSLondon CocoaPods bug bash at Telefonica Digital
+      NSLondon 7 at Lyst
+      Mattt Thompson
+      Sean Woodhouse — Exploring your apps with Reveal
+      NSLondon 6 at Yammer
+      Saul Mora — magicalrecord 3.0
+      Luka Bratoš — Pony Debugger
+      Cocoa Kucha 2 - London at The Wayra Academy
+      Alex Rozanski
+      Damien DeVille
+      Fabio Pelosin
+      James Addyman
+      Luca Bernardi
+      Rolandas Razma
+      Sally Shepard
+      Stig Brautaset
+      NSLondon 5 at Telefonica Digital
+      Matt Galloway — ARM for iOS Developers
+      Chris James — IAAL - Legal issues in iOS development
+      Rui Peres — iOS app architecture
+      NSLondon 4 at Telefonica Digital
+      Mike Abdullah — What's New in iOS 7, for Hipsters
+      Kurtis Seebaldt — Manage Async callbacks with promises
+      Kyle Fuller — Memory Management
+      NSLondon 3 at Telefonica Digital
+      Abizer Nasir — Submodules without fear
+      Rob Elkin — AltWWDC - behind the scenes
+      3D visualization taster class on Google Hangouts
+      NSLondon S at Telefonica Digital
+      Nick Lockwood — Transitions
+      Gianluca Tranchedone — Supporting multiple iOS versions, with Class
+      NSLondon debut at Telefonica Digital
+      Matt Galloway — Objective-C: Digging the Foundations
+      Daniel Haight — CocoaPods for the closed-source contractor
+      CocoaPods Q&A with Orta Therox
+        The Apple logo is a trademark of Apple Inc., registered in the U.S. and other countries and regions.
+        Theme by
+          [orderedlist](https://github.com/orderedlist)

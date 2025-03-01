@@ -1,0 +1,389 @@
+{
+  "title": "Yuwei Qin - Amazon Science",
+  "meta_description": "Research Scientist",
+  "main_content": "Author Yuwei Qin Research Scientist",
+  "links": [
+    {
+      "url": "https://www.amazon.science/newsletter",
+      "text": "Newsletter"
+    },
+    {
+      "url": "https://x.com/AmazonScience",
+      "text": "twitter"
+    },
+    {
+      "url": "https://www.instagram.com/AmazonScience/",
+      "text": "instagram"
+    },
+    {
+      "url": "https://www.youtube.com/c/AmazonScience",
+      "text": "youtube"
+    },
+    {
+      "url": "https://www.facebook.com/AmazonScience",
+      "text": "facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/showcase/AmazonScience",
+      "text": "linkedin"
+    },
+    {
+      "url": "https://github.com/amazon-science",
+      "text": "github"
+    },
+    {
+      "url": "https://www.amazon.science/index.rss",
+      "text": "rss"
+    },
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "https://www.amazon.science/research-areas",
+      "text": "Research areas"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/automated-reasoning",
+      "text": "Automated reasoning"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/cloud-and-systems",
+      "text": "Cloud and systems"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/computer-vision",
+      "text": "Computer vision"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/conversational-ai-natural-language-processing",
+      "text": "Conversational AI"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/economics",
+      "text": "Economics"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/information-and-knowledge-management",
+      "text": "Information and knowledge management"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/machine-learning",
+      "text": "Machine learning"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/operations-research-and-optimization",
+      "text": "Operations research and optimization"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/quantum-technologies",
+      "text": "Quantum technologies"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/robotics",
+      "text": "Robotics"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/search-and-information-retrieval",
+      "text": "Search and information retrieval"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/security-privacy-and-abuse-prevention",
+      "text": "Security, privacy, and abuse prevention"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/sustainability",
+      "text": "Sustainability"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/automated-reasoning",
+      "text": "Automated reasoning"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/cloud-and-systems",
+      "text": "Cloud and systems"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/computer-vision",
+      "text": "Computer vision"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/conversational-ai-natural-language-processing",
+      "text": "Conversational AI"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/economics",
+      "text": "Economics"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/information-and-knowledge-management",
+      "text": "Information and knowledge management"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/machine-learning",
+      "text": "Machine learning"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/operations-research-and-optimization",
+      "text": "Operations research and optimization"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/quantum-technologies",
+      "text": "Quantum technologies"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/robotics",
+      "text": "Robotics"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/search-and-information-retrieval",
+      "text": "Search and information retrieval"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/security-privacy-and-abuse-prevention",
+      "text": "Security, privacy, and abuse prevention"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/sustainability",
+      "text": "Sustainability"
+    },
+    {
+      "url": "https://www.amazon.science/blog",
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.amazon.science/publications",
+      "text": "Publications"
+    },
+    {
+      "url": "https://www.amazon.science/conferences-and-events",
+      "text": "Conferences"
+    },
+    {
+      "url": "https://www.amazon.science/code-and-datasets",
+      "text": "Code and datasets"
+    },
+    {
+      "url": "https://www.amazon.science/academic-engagements",
+      "text": "Academia"
+    },
+    {
+      "url": "https://www.amazon.science/academics-at-amazon",
+      "text": "Academics at Amazon"
+    },
+    {
+      "url": "https://www.amazon.science/research-awards",
+      "text": "Amazon Research Awards"
+    },
+    {
+      "url": "https://www.amazon.science/trusted-ai-challenge",
+      "text": "Amazon Trusted AI Challenge"
+    },
+    {
+      "url": "https://www.amazon.science/academic-engagements/research-collaborations",
+      "text": "Research collaborations"
+    },
+    {
+      "url": "https://www.amazon.science/academics-at-amazon",
+      "text": "Academics at Amazon"
+    },
+    {
+      "url": "https://www.amazon.science/research-awards",
+      "text": "Amazon Research Awards"
+    },
+    {
+      "url": "https://www.amazon.science/trusted-ai-challenge",
+      "text": "Amazon Trusted AI Challenge"
+    },
+    {
+      "url": "https://www.amazon.science/academic-engagements/research-collaborations",
+      "text": "Research collaborations"
+    },
+    {
+      "url": "https://www.amazon.science/careers",
+      "text": "Careers"
+    },
+    {
+      "url": "https://www.amazon.science/newsletter",
+      "text": "Newsletter"
+    },
+    {
+      "url": "https://www.amazon.science/blog/using-sat-solving-to-optimize-quantum-circuit-mapping",
+      "text": ""
+    },
+    {
+      "url": "https://www.amazon.science/blog/using-sat-solving-to-optimize-quantum-circuit-mapping",
+      "text": "Using SAT solving to optimize quantum circuit mapping"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/quantum-technologies",
+      "text": "Quantum technologies"
+    },
+    {
+      "url": "https://www.amazon.science/blog/training-code-generation-models-to-debug-their-own-outputs",
+      "text": ""
+    },
+    {
+      "url": "https://www.amazon.science/blog/training-code-generation-models-to-debug-their-own-outputs",
+      "text": "Training code generation models to debug their own outputs"
+    },
+    {
+      "url": "https://www.amazon.science/author/varun-kumar",
+      "text": "Varun Kumar"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/conversational-ai-natural-language-processing",
+      "text": "Conversational AI"
+    },
+    {
+      "url": "https://www.amazon.science/blog/benchmarking-tool-for-graph-centric-predictive-modeling-on-databases",
+      "text": ""
+    },
+    {
+      "url": "https://www.amazon.science/blog/benchmarking-tool-for-graph-centric-predictive-modeling-on-databases",
+      "text": "Benchmarking tool for graph-centric predictive modeling on databases"
+    },
+    {
+      "url": "https://www.amazon.science/author/quan-gan",
+      "text": "Quan Gan"
+    },
+    {
+      "url": "https://www.amazon.science/research-areas/cloud-and-systems",
+      "text": "Cloud and systems"
+    },
+    {
+      "url": "https://www.amazon.science/careers",
+      "text": "See more jobs"
+    },
+    {
+      "url": "https://www.amazon.science/careers",
+      "text": "See more jobs"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2866202/applied-scientist-personalization?cmpid=bsp-amazon-science",
+      "text": "Applied Scientist, Personalization"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2874062/manager-applied-scientist?cmpid=bsp-amazon-science",
+      "text": "Manager, Applied Scientist"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2869396/applied-scientist--amazon?cmpid=bsp-amazon-science",
+      "text": "Applied Scientist , Amazon"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2871925/senior-data-scientist--aps-publisher-products?cmpid=bsp-amazon-science",
+      "text": "Senior Data Scientist - APS, Publisher Products"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2882170/applied-scientist-optimization-amazon-transportation?cmpid=bsp-amazon-science",
+      "text": "Applied Scientist, Optimization, Amazon Transportation"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2868435/sr-applied-scientist-prime-video-peak-forecasting?cmpid=bsp-amazon-science",
+      "text": "Sr. Applied Scientist, Prime Video Peak Forecasting"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2913726/research-scientist-weblab?cmpid=bsp-amazon-science",
+      "text": "Research Scientist, Weblab"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2913729/sr-applied-scientist-conversational-ai-modeling-and-learning?cmpid=bsp-amazon-science",
+      "text": "Sr. Applied Scientist, Conversational AI ModEling and Learning"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2913758/member-of-technical-staff-agi-autonomy?cmpid=bsp-amazon-science",
+      "text": "Member of Technical Staff, AGI Autonomy"
+    },
+    {
+      "url": "https://www.amazon.jobs/jobs/2912071/applied-science-internship-amazon-university-talent-acquisition?cmpid=bsp-amazon-science",
+      "text": "Applied science internship, Amazon University Talent Acquisition"
+    },
+    {
+      "url": "https://www.amazon.science/careers",
+      "text": "See more jobs"
+    },
+    {
+      "url": "https://www.amazon.science/",
+      "text": ""
+    },
+    {
+      "url": "https://www.amazon.science/newsletter",
+      "text": "Get more from Amazon Science"
+    },
+    {
+      "url": "https://www.amazon.com",
+      "text": "Amazon.com"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088",
+      "text": "Conditions of Use"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://x.com/AmazonScience",
+      "text": "twitter"
+    },
+    {
+      "url": "https://www.instagram.com/AmazonScience/",
+      "text": "instagram"
+    },
+    {
+      "url": "https://www.youtube.com/c/AmazonScience",
+      "text": "youtube"
+    },
+    {
+      "url": "https://www.facebook.com/AmazonScience",
+      "text": "facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/showcase/AmazonScience",
+      "text": "linkedin"
+    },
+    {
+      "url": "https://github.com/amazon-science",
+      "text": "github"
+    },
+    {
+      "url": "https://www.amazon.science/index.rss",
+      "text": "rss"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.amazon.science/dims4/default/84daefc/2147483647/strip/true/crop/54x30+0+12/resize/1440x810!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F85%2Fcd%2F36ef075d49dc9ee4f0502f9cc72e%2Fsubscribe-icon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg",
+      "alt": "amazon-science-logo.svg"
+    },
+    {
+      "src": "https://assets.amazon.science/dims4/default/84daefc/2147483647/strip/true/crop/54x30+0+12/resize/1440x810!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F85%2Fcd%2F36ef075d49dc9ee4f0502f9cc72e%2Fsubscribe-icon.png",
+      "alt": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMDBweCIgd2lkdGg9IjUzNXB4Ij48L3N2Zz4=",
+      "alt": "AS-2025-02-28-QuantumCircuit-02.gif"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMDBweCIgd2lkdGg9IjUzNXB4Ij48L3N2Zz4=",
+      "alt": "LLM debug -prompt for code explanation 16x9.png"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMDBweCIgd2lkdGg9IjUzNXB4Ij48L3N2Zz4=",
+      "alt": "4DBInfer.16x9.png"
+    },
+    {
+      "src": "https://assets.amazon.science/17/83/40ea1c0845b88a6e9f3b42613d82/amazon-science-logo-white.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://assets.amazon.science/dims4/default/edd567d/2147483647/strip/true/crop/1465x1277+227+0/resize/70x61!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F20%2Fc4%2Fc36de9f643dab18e2f27ea071590%2Famazon-science-newsletter-project-kuiper.jpg",
+      "alt": "View from space of a connected network around planet Earth representing the Internet of Things."
+    }
+  ]
+}

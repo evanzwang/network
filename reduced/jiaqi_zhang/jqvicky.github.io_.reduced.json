@@ -1,0 +1,177 @@
+{
+  "title": "Jiaqi Zhang",
+  "meta_description": "",
+  "main_content": "About Me I\u2019m a Ph.D. student in MIT EECS, advised by Caroline Uhler . My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations). My research has been supported by the Eric and Wendy Schmidt Center PhD Fellowship and the Apple Scholarship . I was a research intern at Microsoft Research and Apple . I obtained my Bachelor\u2019s degree in Mathematics from Peking University, where I worked with Zaiwen Wen , Mengdi Wang and Le Cong . News A more effective experimental design for engineering a cell into a new state : news story covering our recent work on active learning in causal models. Read also on EWSC news . Papers Causal Discovery with Fewer Conditional Independence Tests Kirankumar Shiragur*, Jiaqi Zhang*, Caroline Uhler. ICML , 2024. [ arXiv ] [ code ] [ bibtex ] Towards Causal Foundation Model: on Duality between Causal Inference and Attention Jiaqi Zhang*, Joel Jennings, Agrin Hilmkil, Nick Pawlowski, Cheng Zhang, Chao Ma*. ICML , 2024. [ arXiv ] [ code ] [ bibtex ] Membership Testing in Markov Equivalence Classes via Independence Query Oracles Jiaqi Zhang*, Kirankumar Shiragur*, Caroline Uhler. AISTATS ( Oral Presentation, <3% ) , 2024. [ arXiv ] [ conference ] [ bibtex ] Meek Separators and Their Applications in Targeted Causal Discovery Kirankumar Shiragur*, Jiaqi Zhang*, Caroline Uhler. NeurIPS , 2023. [ arXiv ] [ code ] [ conference ] [ bibtex ] Identifiability guarantees for causal disentanglement from soft interventions Jiaqi Zhang, Kristjan Greenewald, Chandler Squires, Akash Srivastava, Karthikeyan Shanmugam, Caroline Uhler. NeurIPS , 2023. [ arXiv ] [ code ] [ conference ] [ bibtex ] Active learning for optimal intervention design in causal models Jiaqi Zhang, Louis Cammarata, Chandler Squires, Themistoklis P Sapsis, Caroline Uhler. Nature Machine Intelligence , 2023. [ arXiv ] [ code ] [ journal ] [ bibtex ] Machine-learning-optimized Cas12a barcoding enables the recovery of single-cell lineages and transcriptional profiles Nicholas W Hughes, Yuanhao Qu*, Jiaqi Zhang*, \u2026, Monte M Winslow, Mengdi Wang, Le Cong. Molecular Cell , 2022. [ code ] [ journal ] [ bibtex ] Stochastic Augmented Projected Gradient Methods for the Large-Scale Precoding Matrix Indicator Selection Problem Jiaqi Zhang, Zeyu Jin, Bo Jiang, Zaiwen Wen. IEEE Transactions on Wireless Communications , 2022. [ journal ] [ bibtex ] Matching a desired causal state via shift interventions Jiaqi Zhang, Chandler Squires, Caroline Uhler. NeurIPS , 2021. [ arXiv ] [ code ] [ conference ] [ bibtex ]",
+  "links": [
+    {
+      "url": "https://www.carolineuhler.com",
+      "text": "Caroline Uhler"
+    },
+    {
+      "url": "https://www.ericandwendyschmidtcenter.org/people/phd-fellows",
+      "text": "Eric and Wendy Schmidt Center PhD Fellowship"
+    },
+    {
+      "url": "https://machinelearning.apple.com/updates/apple-scholars-aiml-2023",
+      "text": "Apple Scholarship"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/project/project_azua/overview/",
+      "text": "Microsoft Research"
+    },
+    {
+      "url": "https://www.apple.com/careers/us/work-at-apple/seattle.html",
+      "text": "Apple"
+    },
+    {
+      "url": "http://faculty.bicmr.pku.edu.cn/~wenzw/",
+      "text": "Zaiwen Wen"
+    },
+    {
+      "url": "https://mwang.princeton.edu",
+      "text": "Mengdi Wang"
+    },
+    {
+      "url": "http://clbiology.com/index.html",
+      "text": "Le Cong"
+    },
+    {
+      "url": "https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002",
+      "text": "A more effective experimental design for engineering a cell into a new state"
+    },
+    {
+      "url": "https://www.nature.com/articles/s42256-023-00719-0",
+      "text": "work"
+    },
+    {
+      "url": "https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state",
+      "text": "EWSC news"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.01823",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/uhlerlab/CCPG",
+      "text": "code"
+    },
+    {
+      "url": "/CCPG/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.00809",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/microsoft/causica/tree/main/research_experiments/cina",
+      "text": "code"
+    },
+    {
+      "url": "/attention-causal-duality/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.05759",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v238/zhang24k.html",
+      "text": "conference"
+    },
+    {
+      "url": "/testing-mec/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.20075",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/uhlerlab/meek_sep",
+      "text": "code"
+    },
+    {
+      "url": "https://neurips.cc/virtual/2023/poster/70884",
+      "text": "conference"
+    },
+    {
+      "url": "/meek-sep/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.06250",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/uhlerlab/discrepancy_vae",
+      "text": "code"
+    },
+    {
+      "url": "https://neurips.cc/virtual/2023/poster/70478",
+      "text": "conference"
+    },
+    {
+      "url": "/identifiability-crl/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2209.04744",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/uhlerlab/actlearn_optint/tree/v1",
+      "text": "code"
+    },
+    {
+      "url": "https://www.nature.com/articles/s42256-023-00719-0",
+      "text": "journal"
+    },
+    {
+      "url": "/active-learning-intervention/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://zenodo.org/records/6549091",
+      "text": "code"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S1097276522005378",
+      "text": "journal"
+    },
+    {
+      "url": "/barcode-design/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/9787340",
+      "text": "journal"
+    },
+    {
+      "url": "/stochastic-apg-pmi/",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.01850",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://github.com/uhlerlab/causal_mean_matching",
+      "text": "code"
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/a5a61717dddc3501cfdf7a4e22d7dbaa-Abstract.html",
+      "text": "conference"
+    },
+    {
+      "url": "/causal-mean-matching/",
+      "text": "bibtex"
+    }
+  ],
+  "images": [
+    {
+      "src": "./asset/IMG_1724128787381.JPG",
+      "alt": ""
+    }
+  ]
+}

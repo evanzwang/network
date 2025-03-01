@@ -1,0 +1,133 @@
+                    Menu
+                          [About](https://ieor.berkeley.edu/about/)
+                                      Department
+                                      [Why IEOR](https://ieor.berkeley.edu/about/why-ieor/)
+                                      [Message from the Chair](https://ieor.berkeley.edu/about/message-from-the-chair/)
+                                      [Diversity, Equity, & Inclusion](https://ieor.berkeley.edu/about/diversity-equity-inclusion/)
+                                      [Accreditation](https://ieor.berkeley.edu/about/accreditation/)
+                                      [Contact Us](https://ieor.berkeley.edu/about/contact-us/)
+                                      About IEOR
+                                      [What is IEOR?](https://ieor.berkeley.edu/about/what-is-ieor/)
+                                      [Fields of Research](http://ieor.berkeley.edu/research/)
+                                      [Where Alumni Work](https://ieor.berkeley.edu/about/where-alumni-work/)
+                                      Collaborate
+                                      [Donate](https://ieor.berkeley.edu/give/)
+                                      [Recruit Students](https://ieor.berkeley.edu/about/industry/)
+                                      [Visiting Scholars](https://ieor.berkeley.edu/about/visiting-scholars/)
+                                      [Outreach](https://ieor.berkeley.edu/about/ieoroutreach/)
+                                      Resources
+                                      [Directions](https://ieor.berkeley.edu/about/directions/)
+                                      [Etcheverry Hall Safety & IT Resources](https://ieor.berkeley.edu/about/etcheverry-hall-safety-it-resources/)
+                                      [Department Financial Resources](https://ieor.berkeley.edu/department-financial-resources/)
+                                      [Hubert Dreyfus Lending Library](https://ieor.berkeley.edu/?page_id=16000)
+                                      [Jobs](https://ieor.berkeley.edu/jobs)
+                          [Research](https://ieor.berkeley.edu/research/)
+                                      [Overview](https://ieor.berkeley.edu/research/)
+                                      [Optimization & Algorithms](https://ieor.berkeley.edu/research/optimization-algorithms/)
+                                      [Machine Learning & Data Science](https://ieor.berkeley.edu/research/machine-learning-data-science/)
+                                      [Stochastic Modeling & Simulation](https://ieor.berkeley.edu/research/stochastic-modeling-simulation/)
+                                      [Robotics & Automation](https://ieor.berkeley.edu/research/robotics-automation/)
+                                      [Supply Chain Systems](https://ieor.berkeley.edu/research/operations-supply-chain-logistics-production/)
+                                      [Financial Systems](https://ieor.berkeley.edu/research/financial-systems/)
+                                      [Energy Systems](https://ieor.berkeley.edu/research/energy-systems/)
+                                      [Healthcare Systems](https://ieor.berkeley.edu/research/healthcare-systems/)
+                                      [Labs](https://ieor.berkeley.edu/research/labs/)
+                                          The far-reaching research done at Berkeley IEOR  has applications in many fields such as energy systems, healthcare, sustainability, innovation, robotics, advanced manufacturing, finance, computer science, data science, and other service systems. Faculty research in Berkeley IEOR specializes in stochastic processes, optimization, and supply chain management.
+                          [Academics](https://ieor.berkeley.edu/academics/)
+                                      Undergraduate
+                                      [B.S. IEOR](https://ieor.berkeley.edu/academics/bs-ieor/)
+                                      [B.A. Analytics](https://ieor.berkeley.edu/academics/ba-analytics/)
+                                      [5 Year: BS/MS IEOR](https://ieor.berkeley.edu/academics/bs-ms-ieor/)
+                                      [B.S. M.E.T.](https://ieor.berkeley.edu/academics/bs-management-entrepreneurship-technology/)
+                                      Graduate
+                                      [Master of Analytics](https://ieor.berkeley.edu/academics/master-of-analytics-2/)
+                                      [Master of Engineering](https://ieor.berkeley.edu/academics/master-of-engineering/)
+                                      [Master of Science](https://ieor.berkeley.edu/academics/master-of-science/)
+                                      [Doctorate](https://ieor.berkeley.edu/academics/phd/)
+                                      General
+                                      [Courses](https://ieor.berkeley.edu/academics/courses/)
+                                      [Careers](https://ieor.berkeley.edu/about/where-alumni-work/)
+                                      [Graduate Student Handbook](https://docs.google.com/document/d/1GKayQZk9OPBdxsBgSPT9ThrQmC_vQ0s9JV-NhFjTcy0/edit?usp=sharing)
+                          [News](https://ieor.berkeley.edu/news/)
+                                      [Alumni Magazine](https://ieor.berkeley.edu/alumni/alumni-newsletter/)
+                                      [Department News](https://ieor.berkeley.edu/news/recent-news/)
+                                      [IEOR Impact](https://ieor.berkeley.edu/ieor-impact/)
+                                      [Sign Up for Our Newsletter](https://ieor.berkeley.edu/news/sign-up-for-our-newsletter/)
+                                      [For Press & Media](https://ieor.berkeley.edu/for-press-media/)
+                                      [Videos](https://ieor.berkeley.edu/videos/)
+                                      [Follow us on Social Media](https://ieor.berkeley.edu/social-media/)
+                                      Events
+                                      [Department Seminars](https://ieor.berkeley.edu/ieor-seminar-series/)
+                                      [Alumni Events](https://ieor.berkeley.edu/alumni/alumni-events/)
+                          [People](https://ieor.berkeley.edu/people/)
+                                      [Faculty](https://ieor.berkeley.edu/faculty/)
+                                      [Staff](https://ieor.berkeley.edu/staff/)
+                                      [Student Organizations](https://ieor.berkeley.edu/student-organizations/)
+                                      [Graduate Students](https://ieor.berkeley.edu/graduate-students/)
+                                      [Advisory Board](https://ieor.berkeley.edu/advisory-board/)
+                                      [Alumni](https://ieor.berkeley.edu/alumni-friends/)
+                                          With more than 4,000 alumni, 20 faculty, 20 advisory board members and 400 students, the IEOR department is a rapidly growing community equipped with tools and resources to make a large impact in industry, academia, and society. Learn more about our faculty’s research, student activities, alumni game-changers, and how Berkeley IEOR is designing a more efficient world.
+    .fl-page-header-fixed
+              [UC Berkeley](https://www.berkeley.edu/)
+              |
+              [Berkeley Engineering](https://engineering.berkeley.edu/)
+              [Recruit Our Students](https://ieor.berkeley.edu/about/industry/)
+              [Give](https://ieor.berkeley.edu/give/)
+            IEOR -
+              Designing a More Efficient World
+    .fl-page-bar
+                        Submit
+    .fl-page-header
+                Berkeley IEOR Continues Partnership to Bring Engineering and Data Analytics to Underserved Youth
+              .fl-post-header
+                  Kids Teach Tech students and teachers pose for a photo during this year’s virtual Seth Bonder Summer Program.
+                For the second year in a row, Berkeley IEOR has partnered with
+                  [Georgia Tech ISyE](https://www.isye.gatech.edu/)
+                  ,
+                  [Kids Teach Tech](https://kidsteachtech.com/)
+                  , and Urban League of Greater San Francisco Bay Area to virtually deliver the
+                  [Seth Bonder Summer Program in Computational and Data Science for Engineering](https://sethbondercamp.isye.gatech.edu/)
+                  . Named after pioneering American engineer and philanthropist Dr. Seth Bonder, the program is designed to give underserved youth an understanding of computer programming concepts as applied to various disciplines, including industrial engineering and operations research, the social sciences, computational biology, artificial intelligence, and more.
+                The Seth Bonder Summer Program is taught by Kids Teach Tech (KTT), a non-profit organization founded five years ago by Arjun Banerjee Mulchandani, the then 10-year-old son of Berkeley IEOR alumna Sarbani Banerjee Mulchandani (KTT’s Executive Director). The mission of KTT is to help bring coding education to young people while empowering them to become educators who “teach it forward.” University students train and mentor KTT youth, and then those same youth give back to their communities by delivering KTT curriculum to other underserved young people.
+                This year, the Seth Bonder Summer Program brought over 80 underserved 7-12th graders together with KTT educators, and Berkeley IEOR and Georgia Tech university students to teach and learn key computational thinking and data science concepts. The camp curriculum included lectures and hands-on activities, emphasizing real-world applications to reinforce student learning. The program featured several modules offered in levels ranging from basic to advanced. The first module provided an introduction to the visual programming language of Snap!, followed by more advanced programming, as well as a curriculum on computational data science, optimization, artificial intelligence, and computational biology.
+                Recent Berkeley IEOR graduate Caleb Bugg (PhD IEOR’ 22) returned to the camp for his second year in a row this summer. About his decision to return, Bugg said, “I get stronger by helping others, and students get stronger by learning. It’s also all about access. By teaching these kids coding and engineering, they will be able to compete in tech jobs early, and regardless of their career paths, they will develop ease and confidence. It’s gratifying to take part in that.”
+                This year, Bugg was joined by first-time coaches Abhiygyan Biswas (B.S. IEOR 2023) and Ariel Qian (IEOR M.E.T’ 24). When asked about her favorite part of the program, Qian said, “My favorite part of the program was at the very end, when the students were able to talk about their favorite projects and showcase all the cool things they’ve completed during the week. It’s amazing to see the students’ passion after just a short week of learning. I specifically remember one student using the coding blocks to create Minecraft music. It was incredible to see how he managed to incorporate programming into something else that he really loved doing.”
+                Arjun, KTT’s now 15-year-old founder, collaborated with additional KTT Directors and Lead Teachers to ensure as many applicants as possible had access to this year’s Seth Bonder Summer Program. Typically, KTT youth teachers create their own curriculum for all classes and camps except the Seth Bonder Summer Program. This year, Arjun developed new materials on Artificial Intelligence to add to the Seth Bonder program as well and led training on the subject. Many new youth teachers began as applicants but soon gained the skills to start teaching the KTT curriculum themselves, thus realizing the “teach it forward” mission of Kids Teach Tech. Because of this, they were able to teach 80 of the 300 applicants this summer. KTT’s Seth Program Summer Program Directors were Arjun Mulchandani, Aahan Bagga, Lucas Speier, Rohan Prabhu, and Nicholas Wong. Lead Teachers were Elane Shane, Dayla Fields, Anna Chan, Samantha Henry, Bryan Fan, Ansh Gangapur, Matthew Gentner, Lucas Ross, Soha Shahid, Balaji Saravana Gupta, Anika Kurup, Dylan Cheung, Jacob Trentini, Imraan Mohammed, Aditi Kurup, Oscar Jimenez, and Jasmine Barba.
+                This year’s program culminated with a panel talk that shed light on the academic, research, and industry experience possible when pursuing a path in IEOR.  The event featured Berkeley IEOR Professor and Department Chair Alper Atamturk, along with Ally Novales (M.S. ’23 IEOR) and current doctoral student Pelagie Elimbi Moudio as panelists.
+                Berkeley IEOR is proud to partner with Kids Teach Tech, Georgia Tech ISYE, and Urban League of Greater San Francisco Bay Area to expand access to STEM education for underserved youth. By encouraging students to learn exciting engineering, data science, and coding concepts, we can help empower the next generation of innovators who change the world.
+                  Learn More
+                      Kids Teach Tech Website
+                Read an interview with Kids Teach Tech mentor and coach Ariel Qian (M.E.T IEOR ’24),
+                  [here](https://ieor.berkeley.edu/ariel-qian-m-e-t-ieor-24-on-the-importance-of-programs-like-kids-teach-tech/)
+                  .
+              .fl-post-content
+            .fl-post
+    .fl-page-content
+                                              [4141 Etcheverry Hall](https://goo.gl/maps/sm9RRGvbhZ47B68t7)
+                                          Graduate Student Services
+                                              gradstudentservices-ieor@
+                                          Graduate Admissions
+                                              gradadmissions-ieor@
+                                          Undergraduate Student Services
+                                            ieor-student-services@berkeley.edu
+                                          Public Affairs & Media Relations
+                                            ieornewsletter@berkeley.edu
+                                            gnegelev1@berkeley.edu
+                                          Bachelor's
+                                                [B.S. Industrial Engineering & Operations Research](https://ieor.berkeley.edu/academics/bs-ieor/)
+                                                [Management, Entrepreneurship & Technology](https://ieor.berkeley.edu/academics/bs-management-entrepreneurship-technology/)
+                                          Master's
+                                          Doctoral
+                                                [Ph.D. Industrial Engineering & Operations Research](https://ieor.berkeley.edu/academics/phd/)
+                                          Explore
+                                              [Industry](https://ieor.berkeley.edu/about/industry/)
+                                              [IEOR Magazine](http://ieor.berkeley.edu/alumni/alumni-newsletter/)
+                                            Sign Up For Our Newsletter
+      .fl-page-footer-widgets
+                  [Privacy](https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites)
+                  [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement)
+                  [Accessibility](https://dac.berkeley.edu/web-accessibility)
+                  Copyright © 2025 UC Regents
+      .fl-page-footer
+  .fl-page
+    Scroll To Top

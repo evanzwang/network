@@ -1,0 +1,165 @@
+{
+  "title": "Dylan Hadfield-Menell",
+  "meta_description": "",
+  "main_content": "I am the Bonnie and Marty (1964) Tenenbaum Career Development Assistant Professor of EECS at MIT. I run the Algorithmic Alignment Group in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and I'm also a Schmidt Sciences AI2050 Early Career Fellow. My research develops methods to ensure that AI systems behavior aligns with the goals and values of their human users and society as a whole, a concept known as 'AI alignment'. My group and I work to address alignment challenges in multi-agent systems, human-AI teams, and societal oversight of machine learning. Our goal is to enable the safe, beneficial, and trustworthy deployment of AI in real-world settings. Dylan Hadfield-Menell dhm at csail.mit.edu Bonnie and Marty (1964) Tenenbaum Career Development Assistant Professor of EECS Faculty of Artificial Intelligence and Decision-Making Computer Science and Artificial Intelligence Laboratory Dept. of Electrical Engineering and Computer Science Massachusetts Institute of Technology 44 Vassar St., 45-701D Cambridge, MA 02139 United States Google Scholar Twitter LinkedIn Publications Journal Publications Spurious Normativity Enhances Learning of Compliance and Enforcement Behavior in Artificial Agents. Raphael Koster, Dylan Hadfield-Menell, Richard Everett, Laura Weidinger, Gillian K. Hadfield, and Joel Z. Leibo. Proceedings of the National Academy of Sciences of the United States (PNAS). 2022. When Curation Becomes Creation: Algorithms, microcontent, and the vanishing distinction between platforms and creators. Liu Leqi, Dylan Hadfield-Menell, Zachary C. Liption. Communications of the ACM. 2021. Conference Publications Guided Imitation of Task and Motion Planning. Michael J. McDonald, Dylan Hadfield-Menell. Proceedings of the 5th Conference on Robot Learning (CoRL). 2021. Consequences of Misaligned AI. Simon Zhuang, Dylan Hadfield-Menell. Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS). 2020. Conservative Agency via Attainable Utility Preservation. Alexander M. Turner, Dylan Hadfield-Menell, Prasad Tadepalli. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES). 2020. The Assistive Multi-Armed Bandit. Lawrence Chan, Dylan Hadfield-Menell, Siddartha S. Srinivasa, Anca D. Dragan. Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI). 2019. Human-AI Learning Performance in Multi-Armed Bandits. Ravi Pandya, Sandy H. Huang, Dylan Hadfield-Menell, Anca D. Dragan. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES). 2019. Legible Normativity for AI Alignment: The Value of Silly Rules. Dylan Hadfield-Menell, McKane Andrus, Gillian K. Hadfield. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES). 2019. Incomplete Contracting and AI Alignment. Dylan Hadfield-Menell, Gillian K. Hadfield. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES). 2019. An Efficient, Generalized Bellman Update for Cooperative Inverse Reinforcement Learning. Dhruv Malik, Malayandi Palaniappan, Jaime F. Fisac, Dylan Hadfield-Menell, Stuart J. Russell, Anca D. Dragan. Proceedings of the International Conference on Machine Learning Research (ICML). 2018. Simplifying Reward Design through Divide-and-Conquer. Ellis Ratner, Dylan Hadfield-Menell, Anca D. Dragan. Proceedings of Robotics: Science and Systems (RSS). 2018. Pragmatic-Pedagogic Value Alignment. Jaime F. Fisac, Monica A. Gates, Jessica B. Hamrick, Chang Liu, Dylan Hadfield-Menell, Malayandi Palaniappan, Dhruv Malik, S. Shankar Sastry, Thomas L. Griffiths, Anca D. Dragan. Proceedings of the International Symposium on Robotics Research (ISRR). 2017. Inverse Reward Design. Dylan Hadfield-Menell, Smitha Milli, Pieter Abbeel, Stuart J. Russell, Anca D. Dragan. Proceedings of the 31st Conference on Neural Information Processing Systems (NeurIPS). 2017. The Off-Switch Game. Dylan Hadfield-Menell, Anca D. Dragan, Pieter Abbeel, Stuart J. Russell. Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI). 2017. Should Robots be Obedient? Smitha Milli, Dylan Hadfield-Menell, Anca D. Dragan, Stuart J. Russell. Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017. Expressive Robot Motion Timing. Allan Zhou, Dylan Hadfield-Menell, and Anca D. Dragan. Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction. 2017. Cooperative Inverse Reinforcement Learning. Dylan Hadfield-Menell, Anca D. Dragan, Pieter Abbeel, Stuart J. Russell. Proceedings of the 30th Conference on Neural Information Processing Systems (NeurIPS), 2016. Sequential Quadratic Programming for Task Plan Optimization. Dylan Hadfield-Menell, Chris Lin, Rohan Chitnis, Pieter Abbeel, Stuart J. Russell. Proceedings of the IEEE/RSJ Conference on Intelligent Robots and Systems (IROS). 2016. Guided Search for Task and Motion Plans Using Learned Heuristics. Rohan Chitnis, Dylan Hadfield-Menell, Abhishek Gupta, Siddharth Srivastava, Edward Groshev, Christopher Lin, Pieter Abbeel. Proceedings of the IEEE Conference on Robotics and Automation (ICRA). 2016. Modular Task and Motion Planning in Belief Space. Dylan Hadfield-Menell, Edward Groshev, Rohan Chitnis, and Pieter Abbeel. Proceedings of the IEEE/RSJ Conference on Intelligent Robots and Systems (IROS). 2015. Multitasking: Efficient Optimal Planning for Bandit Superprocesses. Dylan Hadfield-Menell, Stuart J. Russell. Proceedings of the 31st Conference on Uncertainty in Artificial Intelligence (UAI). 2015. Supplementary Materials. Beyond Lowest-Warping Cost Action Selection in Trajectory Transfer. Dylan Hadfield-Menell, Alex X. Lee, Chelsea Finn, Eric Tzeng, Sandy Huang, and Pieter Abbeel. Proceedings of the IEEE Conference on Robotics and Automation (ICRA). 2015. Unifying Scene Registration and Trajectory Optimization for Learning from Demonstrations with Application to Manipulation of Deformable Objects. Alex X. Lee, Sandy H. Huang, Dylan Hadfield-Menell, Eric Tzeng, Pieter Abbeel. Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2014. Optimization in the Now: Dynamic Peephole Optimization for Hierarchical Planning Dylan Hadfield-Menell, Leslie Pack Kaelbling, and Tom\u00e1s Lozano-P\u00e9rez. Proceedings of the IEEE Conference on Robotics and Automation (ICRA). 2013. Workshop & arXiv Estimating and Penalizing Induced Preference Shifts in Recommender Systems. Micah Carroll, Dylan Hadfield-Menell, Stuart Russell, Anca Dragan. RecSys LBR Track, FAccTRec Workshop. 2021. What are you optimizing for? Aligning Recommender Systems with Human Values. Jonathan Stray, Ivan Vendrov, Jeremy Nixon, Steven Adler, Dylan Hadfield-Menell. ICML Workshop on Participatory Approaches to Machine Learning. 2020. Multi-Principal Assistance Games: Definition and Collegial Mechanisms. Arnaud Fickinger, Simon Zhuang, Andrew Critch, Dylan Hadfield-Menell, Stuart Russell. NeurIPS Workshop on Cooperative AI. 2020. An Extensible Interactive Interface for Agent Design. Matthew Rahtz, James Fang, Anca D. Dragan, Dylan Hadfield-Menell. 2019. Adversarial Training with Voronoi Constraints. Marc Khoury, Dylan Hadfield-Menell. 2019. Technical Reports The Principal-Agent Value Alignment Problem in Artificial Intelligence . Ph.D. Thesis. Advisors: Anca D. Dragan, Pieter Abbeel, Stuart J. Russell Execution Cost Optimization for Hierarchical Planning in the Now . M.Eng. Thesis. Advisors: Tomas Lozano-Perez, Leslie Pack Kaelbling Information for Prospective Ph.D. Students How to Express Interest Please do not email me directly. I can't reliably respond in a fair way. Instead, please fill out our prospective student interest form . This help will help me efficiently review all inquiries and ensure I don't miss anyone during the official application review. Meeting Requests Due to the high volume of inquiries, I typically cannot meet with prospective students outside the standard admissions process. Diversity and Inclusion I am committed to building a diverse and inclusive research group. I strongly encourage applications from students of all backgrounds, particularly those from underrepresented groups in STEM. Application Process For detailed information about the application process, deadlines, and requirements, please visit the EECS Graduate Admissions page .",
+  "links": [
+    {
+      "url": "http://algorithmicalignment.csail.mit.edu",
+      "text": "Algorithmic Alignment\n                Group"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=4mVPFQ8AAAAJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://twitter.com/dhadfieldmenell",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://www.linkedin.com/in/dylan-hadfield-menell-a5055019/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.pnas.org/content/119/3/e2106028118",
+      "text": "Spurious\n                  Normativity Enhances Learning of Compliance and\n                  Enforcement Behavior in Artificial Agents."
+    },
+    {
+      "url": "https://queue.acm.org/detail.cfm?id=3477229",
+      "text": "When\n\t\t  Curation Becomes Creation: Algorithms, microcontent,\n\t\t  and the vanishing distinction between platforms and\n\t\t  creators."
+    },
+    {
+      "url": "https://arxiv.org/abs/2112.03386",
+      "text": "Guided\n                  Imitation of Task and Motion Planning."
+    },
+    {
+      "url": "https://arxiv.org/abs/2102.03896",
+      "text": "Consequences\n\t\t  of Misaligned AI."
+    },
+    {
+      "url": "https://arxiv.org/abs/1902.09725",
+      "text": "Conservative\n\t\t  Agency via Attainable Utility Preservation."
+    },
+    {
+      "url": "https://arxiv.org/abs/1901.08654",
+      "text": "The\n\t\t  Assistive Multi-Armed Bandit."
+    },
+    {
+      "url": "https://arxiv.org/abs/1812.09376",
+      "text": "Human-AI\n\t\t  Learning Performance in Multi-Armed Bandits."
+    },
+    {
+      "url": "https://arxiv.org/abs/1811.01267",
+      "text": "Legible\n\t\t  Normativity for AI Alignment: The Value of Silly\n\t\t  Rules."
+    },
+    {
+      "url": "https://arxiv.org/abs/1804.04268",
+      "text": "Incomplete\n\t\t  Contracting and AI Alignment."
+    },
+    {
+      "url": "https://arxiv.org/abs/1806.03820",
+      "text": "An\n\t\t  Efficient, Generalized Bellman Update for\n\t\t  Cooperative Inverse Reinforcement Learning."
+    },
+    {
+      "url": "https://arxiv.org/abs/1806.02501",
+      "text": "Simplifying\n\t\t  Reward Design through Divide-and-Conquer."
+    },
+    {
+      "url": "https://arxiv.org/abs/1707.06354",
+      "text": "Pragmatic-Pedagogic\n\t\t  Value Alignment."
+    },
+    {
+      "url": "https://arxiv.org/abs/1711.02827",
+      "text": "Inverse\n\t\t  Reward Design."
+    },
+    {
+      "url": "https://arxiv.org/abs/1611.08219",
+      "text": "The\n\t\t  Off-Switch Game."
+    },
+    {
+      "url": "https://arxiv.org/abs/1705.09990",
+      "text": "Should\n\t\t  Robots be Obedient?"
+    },
+    {
+      "url": "https://arxiv.org/abs/1802.01536",
+      "text": "Expressive\n\t\t  Robot Motion Timing."
+    },
+    {
+      "url": "https://arxiv.org/abs/1606.03137",
+      "text": "Cooperative\n\t\t  Inverse Reinforcement Learning."
+    },
+    {
+      "url": "files/planopt.pdf",
+      "text": "Sequential\n\t\t  Quadratic Programming for Task Plan\n\t\t  Optimization."
+    },
+    {
+      "url": "files/guided_search_tamp.pdf",
+      "text": "Guided\n\t\t  Search for Task and Motion Plans Using Learned\n\t\t  Heuristics."
+    },
+    {
+      "url": "files/iros15ibsp.pdf",
+      "text": "Modular\n\t\t  Task and Motion Planning in Belief Space."
+    },
+    {
+      "url": "files/bsp_bbvi.pdf",
+      "text": "Multitasking:\n\t\t  Efficient Optimal Planning for Bandit\n\t\t  Superprocesses."
+    },
+    {
+      "url": "files/bsp_bbvi_supplementary.pdf",
+      "text": "Supplementary\n\t\t  Materials."
+    },
+    {
+      "url": "files/icra2015mmqe_final.pdf",
+      "text": "Beyond\n\t\t  Lowest-Warping Cost Action Selection in Trajectory\n\t\t  Transfer."
+    },
+    {
+      "url": "files/2014-IROS-jointopt.pdf",
+      "text": "Unifying\n\t\t  Scene Registration and Trajectory Optimization for\n\t\t  Learning from Demonstrations with Application to\n\t\t  Manipulation of Deformable Objects."
+    },
+    {
+      "url": "files/opt_in_the_now_icra13.pdf",
+      "text": "Optimization\n\t\t  in the Now: Dynamic Peephole Optimization for\n\t\t  Hierarchical Planning"
+    },
+    {
+      "url": "https://arxiv.org/abs/2204.11966",
+      "text": "Estimating\n                  and Penalizing Induced Preference Shifts in\n                  Recommender Systems."
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.10939",
+      "text": "What\n\t\t  are you optimizing for? Aligning Recommender Systems\n\t\t  with Human Values."
+    },
+    {
+      "url": "https://arxiv.org/abs/2012.14536",
+      "text": "Multi-Principal\n\t\t  Assistance Games: Definition and Collegial\n\t\t  Mechanisms."
+    },
+    {
+      "url": "https://arxiv.org/abs/1906.02641",
+      "text": "An\n\t\t  Extensible Interactive Interface for Agent\n\t\t  Design."
+    },
+    {
+      "url": "https://arxiv.org/abs/1905.01019",
+      "text": "Adversarial\n                  Training with Voronoi Constraints."
+    },
+    {
+      "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-207.html",
+      "text": "The\n                  Principal-Agent Value Alignment Problem in\n                  Artificial Intelligence"
+    },
+    {
+      "url": "https://dspace.mit.edu/handle/1721.1/85421",
+      "text": "Execution\n\t\t  Cost Optimization for Hierarchical Planning in the\n\t\t  Now"
+    },
+    {
+      "url": "https://forms.gle/bpN9pJ8TpbopPe7v9",
+      "text": "prospective\n                student interest form"
+    },
+    {
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/",
+      "text": "EECS\n                Graduate Admissions page"
+    }
+  ],
+  "images": [
+    {
+      "src": "main.png",
+      "alt": "Dylan Hadfield-Menell"
+    }
+  ]
+}

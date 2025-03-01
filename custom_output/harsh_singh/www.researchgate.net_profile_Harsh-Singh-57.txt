@@ -1,0 +1,325 @@
+                              [Home](https://www.researchgate.net/)
+                              [Kamla Nehru Institute of Technology, Sultanpur](https://www.researchgate.net/institution/Kamla-Nehru-Institute-of-Technology-Sultanpur)
+                              Department of Electronics Engineering
+                              Harsh Vikram Singh
+                                    | KNIT
+                                    ·
+                                Doctor of Philosophy
+                              Professor
+                            Contact
+                                  Connect with experts in your field
+                                Join ResearchGate to contact this researcher and connect with your scientific community.
+                                      Join for free
+                                      Log in
+                              [About](profile/Harsh-Singh-57#about)
+                              [Publications](profile/Harsh-Singh-57#publications)
+                                55
+                              [Network](profile/Harsh-Singh-57#network)
+                  9,436
+                  Reads
+                          How we measure 'reads'
+                        A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text.
+                          [Learn more](https://explore.researchgate.net/display/support/Reads)
+                  480
+                  Citations
+                Publications (55)
+                              [A Novel Deep Learning Based Dual Watermarking System for Securing Healthcare Data](https://www.researchgate.net/publication/389128567_A_Novel_Deep_Learning_Based_Dual_Watermarking_System_for_Securing_Healthcare_Data)
+                                Article
+                                    Jan 2025
+                                    Suniti Singh
+                            The sharing of patient information on an open network has drawn attention to the healthcare system. Security is the primary issue while sharing documents online. Thus, a dual watermarking technique has been developed to improve the security of shared data. The classical watermarking schemes are resilient to many attacks. Protecting the authenticity...
+                                    View
+                              [Enhancing medical image security through machine learning and dual watermarking-based technique](https://www.researchgate.net/publication/384542755_Enhancing_medical_image_security_through_machine_learning_and_dual_watermarking-based_technique)
+                                    Oct 2024
+                              [Artificial Intelligence Driven Intelligent Computational Model for Heart Disease Prediction: Leveraging Feature Selection](https://www.researchgate.net/publication/379097765_Artificial_Intelligence_Driven_Intelligent_Computational_Model_for_Heart_Disease_Prediction_Leveraging_Feature_Selection)
+                                Conference Paper
+                                Full-text available
+                                    Jan 2024
+                                    Purnima Pal
+                                    Veena . Grover
+                                    Manju Nandal
+                                [...]
+                            In recent years, heart disease has become a 
+very serious threat to the health and safety of people all 
+over the globe. Typically, this condition occurs when 
+there is an insufficient supply of blood from the heart to 
+various parts of the body, which hampers their usual 
+operations. Early and timely detection of this disease 
+holds paramount impo...
+                              [Robust watermarking of medical images using SVM and hybrid DWT-SVD](https://www.researchgate.net/publication/384423650_Robust_watermarking_of_medical_images_using_SVM_and_hybrid_DWT-SVD)
+                                          +2
+                              [Harnessing the Power of Ensemble Machine Learning for the Heart Stroke Classification](https://www.researchgate.net/publication/376562194_Harnessing_the_Power_of_Ensemble_Machine_Learning_for_the_Heart_Stroke_Classification)
+                                    Dec 2023
+                                    Srishti Dikshit
+                            A heart stroke, also known as a myocardial infarction or heart attack, is a critical medical condition that arises when there is an obstruction in the coronary arteries that provide blood to the heart muscles. This blockage results in a diminished flow of blood and oxygen to a specific area of the heart. This abrupt interruption initiates a gradual...
+                              [Steganography in Images Using LSB Technique](https://www.researchgate.net/publication/371671984_Steganography_in_Images_Using_LSB_Technique)
+                                    Jun 2023
+                                    Arun kumar Singh
+                                    Juhi Singh
+                                    Singh
+                            This paper, a novel data-hiding technique based on the LSB technique of digital images is presented. Data hiding is one of best topic in secret communication. A lossless data hiding technique using LSB in images is presented in this paper. LSB data hiding technique does not affect the visible properties of the image. Steganography is art and scienc...
+                              [Published book on Cyber Security and Cyber Forensics](https://www.researchgate.net/publication/368830596_Published_book_on_Cyber_Security_and_Cyber_Forensics)
+                                Book
+                                    Jan 2023
+                                    Dr.Rajdeep Chakraborty
+                                    Dr.Devendra Kumar
+                                    Mohit Tiwari
+                            Cyber security and Cyber Forensics
+
+https://sipinternationalpublishers.com/product-detail.php?PID=ODYy
+                              [Robust watermarking of Medical Images using SVM and hybrid DWT-SVD](https://www.researchgate.net/publication/372408534_Robust_watermarking_of_Medical_Images_using_SVM_and_hybrid_DWT-SVD)
+                              [Design and Analysis of BFO-PBFO based Optimized Watermarking Algorithm for Medical Images](https://www.researchgate.net/publication/368969472_Design_and_Analysis_of_BFO-PBFO_based_Optimized_Watermarking_Algorithm_for_Medical_Images)
+                                    Dec 2022
+                                    Pushpanjali Singh
+                              [Security of E-healthcare data using DWT-SVD based Hybrid watermarking](https://www.researchgate.net/publication/361339863_Security_of_E-healthcare_data_using_DWT-SVD_based_Hybrid_watermarking)
+                                    Apr 2022
+                              [A low complexity hyperspectral image compression through 3D set partitioned embedded zero block coding](https://www.researchgate.net/publication/354664677_A_low_complexity_hyperspectral_image_compression_through_3D_set_partitioned_embedded_zero_block_coding)
+                                    Jan 2022
+                                    Shrish Bajpai
+                                    Naimur Rahman Kidwai
+                                    Amit Kumar Singh
+                            Memory management of the hyperspectral image sensor is a challenging issue. The existing hyperspectral image compression schemes play a dominant role in minimizing the cost of storage equipment and bandwidth for data transmission for resource constraints onboard hyperspectral image sensors. Traditionally many transform-based set partition hyperspec...
+                              [Security of Medical Images Using DWT and SVD Watermarking Technique](https://www.researchgate.net/publication/357029502_Security_of_Medical_Images_Using_DWT_and_SVD_Watermarking_Technique)
+                                Chapter
+                              [Machine Learning for Healthcare: A Survey & its Algorithm for the Security of Medical Images](https://www.researchgate.net/publication/358456838_Machine_Learning_for_Healthcare_A_Survey_its_Algorithm_for_the_Security_of_Medical_Images)
+                                    Dec 2021
+                            Recently Machine learning (ML) techniques shows a tremendous growth due to their superior achievements especially in the area of medical healthcare and has many applications like diagnosis and prediction of disease, tele surgery, monitoring of disease, medical image interpretation and segmentation, analysis of medical image etc. Due to the widespre...
+                              [Secure Image Restoration and Contrast Enhancement Using Wavelet Transform and Thresholding Technique](https://www.researchgate.net/publication/337742093_Secure_Image_Restoration_and_Contrast_Enhancement_Using_Wavelet_Transform_and_Thresholding_Technique)
+                                    Jan 2020
+                                    Yogesh Kumar Mishra
+                              [MR Image Denoising Using Adaptive Wavelet Soft Thresholding](https://www.researchgate.net/publication/337742124_MR_Image_Denoising_Using_Adaptive_Wavelet_Soft_Thresholding)
+                                    Sima Sahu
+                                    Basant Kumar
+                              [Analysis of Energy Consumption and Implementation of R-Statistical Programming for Load Forecasting in Presence of Solar Generation](https://www.researchgate.net/publication/337989263_Analysis_of_Energy_Consumption_and_Implementation_of_R-Statistical_Programming_for_Load_Forecasting_in_Presence_of_Solar_Generation)
+                                    Sn Singh
+                                    Saikat Chakrabarti
+                                    S. N. Singh
+                              [Despeckling of ultrasound images based on the multiresolution approach and Gaussianization transform](https://www.researchgate.net/publication/344837982_Despeckling_of_ultrasound_images_based_on_the_multiresolution_approach_and_Gaussianization_transform)
+                            Nowadays, preservation of clinical data in medical images is an important research issue. Ultrasound imaging has a vast application in medical science in disease detection and diagnosis. Suppression of speckle noise called despeckling is greatly required in ultrasound images for enhancing and improving texture analysis and edge preservation. Gaussi...
+                              [Correction to: A Robust Watermarking Scheme Using Machine Learning Transmitted Over High-Speed Network for Smart Cities](https://www.researchgate.net/publication/338198792_Correction_to_A_Robust_Watermarking_Scheme_Using_Machine_Learning_Transmitted_Over_High-Speed_Network_for_Smart_Cities)
+                                    Dec 2019
+                                    Ankur Rai
+                            In the original version of the book, the following belated correction has been incorporated: The affiliation of Ankur Rai has been changed from “Kamla Nehru Institute of Technology, Sultanpur 228118, India” to “Invertis University, Bareilly, Uttar Pradesh, India”. The erratum chapter and the book have been updated with the change.
+                              [Correction to: Medical Image Watermarking in Transform Domain](https://www.researchgate.net/publication/337407253_Correction_to_Medical_Image_Watermarking_in_Transform_Domain)
+                                    Nov 2019
+                            In the original version of the book, the following belated correction has been incorporated: The affiliation of Ankur Rai has been changed from “Kamla Nehru Institute of Technology, Sultanpur 228118, India” to “Assistant Professor, Electronics and Communication Engineering, Invertis University, Bareilly 243123, Uttar Pradesh, India”. The erratum ch...
+                              [Low memory block tree coding for hyperspectral images](https://www.researchgate.net/publication/333700243_Low_memory_block_tree_coding_for_hyperspectral_images)
+                                    Oct 2019
+                            Hyperspectral image sensors are resource constrained and have limited on-board memory. Processing of high volume hyperspectral images pose a challenge to the memory and resources of the sensor. Contemporary wavelet based image compression schemes have intensive memory requirement of which 3D-WBTC have superior coding performance due to through the...
+                              [3D modified wavelet block tree coding for hyperspectral images](https://www.researchgate.net/publication/339802274_3D_modified_wavelet_block_tree_coding_for_hyperspectral_images)
+                                    Aug 2019
+                            p> A novel wavelet-based efficient hyperspectral image compression scheme for low memory sensors has been proposed. The proposed scheme uses the 3D dyadic wavelet transform to exploit intersubband and intrasubband correlation among the wavelet coefficients. By doing the reconstruction of the transform image cube, taking the difference between the f...
+                              [3D Wavelet Block Tree Coding for Hyperspectral Images](https://www.researchgate.net/publication/343722612_3D_Wavelet_Block_Tree_Coding_for_Hyperspectral_Images)
+                                Preprint
+                                    Apr 2019
+                            : A novel hyperspectral image compression scheme based on set partitioned compression scheme is proposed. This compression scheme uses the 3D wavelet transform to exploits the both, inter sub-band & intra sub-band correlation, among the wavelet coefficients of transformed hyperspectral images. The compression scheme is based on the spatial oriented...
+                                          +3
+                              [De-noising of ultrasound image using Bayesian approached heavy-tailed Cauchy distribution](https://www.researchgate.net/publication/320023021_De-noising_of_ultrasound_image_using_Bayesian_approached_heavy-tailed_Cauchy_distribution)
+                                    Feb 2019
+                            Medical ultrasound images are used in clinical diagnosis and generally degraded by speckle noise. This makes difficulty in automatic interpretation of diseases in ultrasound images. This paper presents a speckle removal algorithm by modeling the wavelet coefficients. A Bayesian approach is implemented to find the noise free coefficients. Cauchy pri...
+                              [DCT- and DWT-Based Intellectual Property Right Protection in Digital Images: AICC 2018](https://www.researchgate.net/publication/328746055_DCT-_and_DWT-Based_Intellectual_Property_Right_Protection_in_Digital_Images_AICC_2018)
+                                    Jan 2019
+                              [A Robust Watermarking Scheme Using Machine Learning Transmitted Over High-Speed Network for Smart Cities](https://www.researchgate.net/publication/328746180_A_Robust_Watermarking_Scheme_Using_Machine_Learning_Transmitted_Over_High-Speed_Network_for_Smart_Cities)
+                            Medical images are more typical than any other ordinary images. In telemedicine applications, transmission of medical image via open channel, demands strong security and copyright protection. This paper discusses a safe and secure watermarking technique using a machine learning algorithm. In this paper, propagation of watermarked image is simulated...
+                              [Medical Image Watermarking in Transform Domain: Proceedings of ICSICCS-2018](https://www.researchgate.net/publication/329073161_Medical_Image_Watermarking_in_Transform_Domain_Proceedings_of_ICSICCS-2018)
+                              [Robust Watermarking using Genetic Algorithm in DCT Domain](https://www.researchgate.net/publication/332682851_Robust_Watermarking_using_Genetic_Algorithm_in_DCT_Domain)
+                                    Jul 2018
+                                    Raj Vikram Singh
+                                    Subodh Waria
+                                    Rajiv Kumar Singh
+                            In this paper, a novel and efficient data hiding using Genetic Algorithm in DCT Domain implemented. Watermarking is an essential zone of research as of late including various applications. It is the investigation of inserting data into the cover picture viz., content, video, and picture (payload) without making measurably huge change the cover pict...
+                              [Statistical modeling and Gaussianization procedure based de-speckling algorithm for retinal OCT images](https://www.researchgate.net/publication/325018841_Statistical_modeling_and_Gaussianization_procedure_based_de-speckling_algorithm_for_retinal_OCT_images)
+                                    May 2018
+                            This paper presents a de-noising method for speckle noise removal called de-speckling, retinal optical coherence tomography image by combining the features of wavelet transform, statistical modeling, Bayesian estimators and Gaussianization procedure. De-speckling methods based on statistical modeling of wavelet coefficients depend on the correct es...
+                              [Study on Watermarking Techniques in Digital Images](https://www.researchgate.net/publication/329392529_Study_on_Watermarking_Techniques_in_Digital_Images)
+                                    Sarvesh Kumar Verma
+                              [Highly Impartible Spatial Domain Steganography in Double Precision Images](https://www.researchgate.net/publication/327935301_Highly_Impartible_Spatial_Domain_Steganography_in_Double_Precision_Images)
+                                    Apr 2018
+                              [A Bayesian Multiresolution Approach for Noise Removal in Medical Magnetic Resonance Images](https://www.researchgate.net/publication/322373210_A_Bayesian_Multiresolution_Approach_for_Noise_Removal_in_Medical_Magnetic_Resonance_Images)
+                                    Jan 2018
+                            A Bayesian approach using wavelet coefficient modeling is proposed for de-noising additive white Gaussian noise in medical magnetic resonance imaging (MRI). In a parallel acquisition process, the magnetic resonance image is affected by white Gaussian noise, which is additive in nature. A normal inverse Gaussian probability distribution function is...
+                              [Diagnosis of Carious Legions Using Digital Processing of Dental Radiographs](https://www.researchgate.net/publication/323263878_Diagnosis_of_Carious_Legions_Using_Digital_Processing_of_Dental_Radiographs)
+                                    Raghav Agarwal
+                            Diagnosis of caries is a difficult process in the clinical setting, because of the obvious reasons like edge line in the Approximal surfaces is not so clear and also the complicated setting of pits and fissures in the Occlusal surface. Due to this, dependency on the expert advice of doctor increases which changes, with difference in opinion of diff...
+                              [A heavy-tailed levy distribution for despeckling ultrasound image](https://www.researchgate.net/publication/323718931_A_heavy-tailed_levy_distribution_for_despeckling_ultrasound_image)
+                                    Dec 2017
+                              [Feature extraction & classification of hyperspectral images using singular spectrum analysis & multinomial logistic regression classifiers](https://www.researchgate.net/publication/325516214_Feature_extraction_classification_of_hyperspectral_images_using_singular_spectrum_analysis_multinomial_logistic_regression_classifiers)
+                                    Nov 2017
+                              [SVM based robust watermarking for enhanced medical image security](https://www.researchgate.net/publication/312034345_SVM_based_robust_watermarking_for_enhanced_medical_image_security)
+                                    Sep 2017
+                            Medical images are more typical than any other ordinary images, since it stores patient’s information for diagnosis purpose. Such images need more security and confidentiality as total diagnosis depends on it. In telemedicine applications, transmission of medical image via open channel, demands strong security and copyright protection. In our propo...
+                              [Machine Learning-Based Robust Watermarking Technique for Medical Image Transmitted Over LTE Network](https://www.researchgate.net/publication/318148238_Machine_Learning-Based_Robust_Watermarking_Technique_for_Medical_Image_Transmitted_Over_LTE_Network)
+                                    Jun 2017
+                            This paper discusses a safe and secure watermarking technique using a machine learning algorithm. In this paper, the propagation of a watermarked image is simulated over the third-generation partnership project (3GPP)/long-term evolution (LTE) downlink physical layer. The watermark data are scrambled and a transform domain-based hybrid watermarking...
+                              [Image watermarking using genetic algorithm in DCT domain](https://www.researchgate.net/publication/320647754_Image_watermarking_using_genetic_algorithm_in_DCT_domain)
+                                    Jan 2017
+                                    Sonam Tyagi
+                              [A review paper on diagnosis of approximal and occlusal dental caries using digital processing of medical images](https://www.researchgate.net/publication/364800951_A_review_paper_on_diagnosis_of_approximal_and_occlusal_dental_caries_using_digital_processing_of_medical_images)
+                                    Mar 2016
+                                    Abhay Kumar Agrawal
+                              [Digital watermarking techniques for security applications](https://www.researchgate.net/publication/368162028_Digital_watermarking_techniques_for_security_applications)
+                                    Sandeep Kumar Gangwar
+                              [A comparative analysis of different facial action tracking models and techniques](https://www.researchgate.net/publication/368164602_A_comparative_analysis_of_different_facial_action_tracking_models_and_techniques)
+                                    Prem Chand Yadav
+                                    Ankit Kumar Patel
+                                    Anurag Singh
+                              [Secure and Robust Watermarking Using Wavelet Transform and Student t-distribution](https://www.researchgate.net/publication/284358207_Secure_and_Robust_Watermarking_Using_Wavelet_Transform_and_Student_t-distribution)
+                                    Dec 2015
+                                    Surbhi Singh
+                                    Anand Mohan
+                            In this paper, we propose secure and robust data hiding algorithm based on hiding in random coefficients of Discrete Wavelet Transform and student t-distribution. The watermark image is scrambled to increases its security and robustness. Performance evaluation for robustness and imperceptibility of proposed algorithm has been made using bit error r...
+                              [DCT based Secure Data Hiding for Intellectual Property Right Protection](https://www.researchgate.net/publication/271741759_DCT_based_Secure_Data_Hiding_for_Intellectual_Property_Right_Protection)
+                                    Nov 2014
+                                    Ashutosh Kumar Singh
+                                    Suman Yadav
+                            In this paper, an algorithm for embedding copyright mark into host image based on discrete cosine transform (DCT) and Spread Spectrum has proposed. The proposed algorithm works by dividing the cover into blocks of equal sizes and then embeds the watermark in middle band of DCT coefficient of cover image. Performance evaluation of proposed algorithm...
+                              [Intellectual property right protection of image data using DCT and spread spectrum-based watermarking](https://www.researchgate.net/publication/262360466_Intellectual_property_right_protection_of_image_data_using_DCT_and_spread_spectrum-based_watermarking)
+                                    Jan 2013
+                            For digital image, watermarking provides intellectual property right protection through embedded copyright mark. However, due to attacks using signal processing methods offers challenges in designing robust copyright techniques. This paper presents a novel method for enhancing robustness in copyright marking into mid-frequency discrete cosine trans...
+                              [Study and analysis of wavelet based image compression techniques](https://www.researchgate.net/publication/271323830_Study_and_analysis_of_wavelet_based_image_compression_techniques)
+                                    Dec 2012
+                                    RJ Yadav
+                                    Surender Pal Gangwar
+                            This paper presented comprehensive study with performance analysis of very recent Wavelet transform based image compression techniques. Image compression is one of the necessities for such communication. The goals of image compression are to minimize the storage requirement and communication bandwidth. Compression is achieved by the removal of redu...
+                              [DCT-domain robust data hiding using chaotic sequence](https://www.researchgate.net/publication/261377758_DCT-domain_robust_data_hiding_using_chaotic_sequence)
+                                    Dec 2011
+                                    Siddharth Singh
+                                    T.J. Siddiqui
+                                    Rajiv Singh
+                            In this paper, we propose DCT-domain robust data hiding algorithm using chaotic sequence. The algorithm works by dividing the cover into blocks of equal sizes and then embeds the watermark in middle band of DCT coefficient. Performance evaluation for robustness and imperceptibility of proposed algorithm has been made using the bit error rate (BER)...
+                              [Robust copyright marking using Weibull distribution](https://www.researchgate.net/publication/220593507_Robust_copyright_marking_using_Weibull_distribution)
+                                    Sep 2011
+                                    Suresh Rai
+                                    Surya Pal Singh
+                            For multimedia document, watermarking provides many advantages; however, its vulnerability due to attacks using signal processing methods offers challenge in designing robust techniques. This paper presents a novel method for enhancing robustness in copyright marking into mid-frequency discrete cosine transform (DCT) coefficients of an image. We es...
+                              [Secure Spread-Spectrum Watermarking for Telemedicine Applications](https://www.researchgate.net/publication/220049902_Secure_Spread-Spectrum_Watermarking_for_Telemedicine_Applications)
+                                    Jul 2011
+                            This paper presents a new spread-spectrum watermarking algorithm for digital images in discrete wavelet transform (DWT) domain. The algorithm is applied for embedding watermarks like patient identification /source identification or doctors signature in binary image format into host digital radiological image for potential telemedicine applications....
+                              [Wavelet transform based applications in image processing](https://www.researchgate.net/publication/236597601_Wavelet_transform_based_applications_in_image_processing)
+                                    Jan 2011
+                              [Statistical modelling of wavelet coefficients of CT scan image](https://www.researchgate.net/publication/251920103_Statistical_modelling_of_wavelet_coefficients_of_CT_scan_image)
+                                    Dec 2009
+                            Prior knowledge of wavelet coefficient statistics is a key issue in the development of better quantization strategy for enhancing compression efficiency of digital images. Since statistics of medical images are quite different from those of natural images, there is a need for statistical modelling of wavelet coefficients in different subbands. This...
+                              [MOS Prediction of SPIHT Medical Images Using Objective Quality Parameters](https://www.researchgate.net/publication/224563935_MOS_Prediction_of_SPIHT_Medical_Images_Using_Objective_Quality_Parameters)
+                                    Jun 2009
+                            Correlating objective and subjective quality assessment parameters of compressed digital medical images has been an open challenging problem in tele-radiology. Establishing this correlation is crucial in determining the upper limit of image compression threshold for preserving diagnostically relevant information based on mean opinion score (MOS). T...
+                              [Novel Efficient and Secure Medical Data Transmission on WiMAX](https://www.researchgate.net/publication/23717578_Novel_Efficient_and_Secure_Medical_Data_Transmission_on_WiMAX)
+                                    Dec 2008
+                            This paper discusses an improved technique for bandwidth-efficient and secure transmission of medical records over simulated orthogonal frequency division multiplexing (OFDM)-based Worldwide Interoperability for Microwave Access (WiMAX)/IEEE 802.16 physical layer. Medical data compaction along with security has been achieved by embedding electrocar...
+                              [Achieving enhanced perceptual quality of stego-images for secure multimedia transmission](https://www.researchgate.net/publication/279442123_Achieving_enhanced_perceptual_quality_of_stego-images_for_secure_multimedia_transmission)
+                                    Jan 2007
+                                    SK Balasubramanian
+                              [Minimizing Security Threats in Multimedia Systems](https://www.researchgate.net/publication/224687189_Minimizing_Security_Threats_in_Multimedia_Systems)
+                                    Jun 2006
+                                    S.K. Balasubramanian
+                            This paper describes security enhancement of multimedia data using steganography. The proposed method is based on a new method of embedding ASCII text characters into moderatory bits of IEEE standard multimedia images, which are used as cover media. Simulation results for peak signal to noise ratio (PSNR) and mean square error (MSE) for text data e...
+                              [A New Algorithm for Enhanced Robustness of Copyright Mark](https://www.researchgate.net/publication/238792665_A_New_Algorithm_for_Enhanced_Robustness_of_Copyright_Mark)
+                              [A New Robust Method of Hiding Text Characters for Secure Open Channel Transmission](https://www.researchgate.net/publication/250782784_A_New_Robust_Method_of_Hiding_Text_Characters_for_Secure_Open_Channel_Transmission)
+                            Summary This paper discusses a new method of hiding ASCII characters based on match between bit value of the randomly selected image pixel and the data bits. Bit positions in the higher nibbles of the cover image are used for data hiding at a position indicated using a 2-bit code. Simulation results on Lena, Gibbon and Cat images (1) for hiding a l...
+                              Cited
+                                              [William Pearlman](profile/William-Pearlman)
+                                                Rensselaer Polytechnic Institute
+                                              [Ross Anderson](profile/Ross-Anderson-6)
+                                                University of Cambridge
+                                              [Sushil Jajodia](profile/Sushil-Jajodia)
+                                                George Mason University
+                                              [Dimitrios D. Koutsouris](profile/Dimitrios-Koutsouris)
+                                                National Technical University of Athens
+                                              [D. L. Donoho](profile/D-Donoho)
+                                                Stanford University
+                              Cited By
+                                                Indian Institute of Technology BHU
+                                              [Vishal Singh Chandel](profile/Vishal-Chandel)
+                                                Rajkiya Engineering College Ambedkar Nagar
+                                              [Ghanshyam Singh](profile/Ghanshyam-Singh-4)
+                                                University of Johannesburg
+                                              [Hossein Rabbani](profile/Hossein-Rabbani)
+                                                Isfahan University of Medical Sciences
+                                              [Zahra Amini](profile/Zahra-Amini-2)
+                Current institution
+                                    Sultānpur, India
+                              Current position
+                            Harsh Vikram Singh's Lab
+                Co-authors
+                      Top co-authors
+                                          Bharati Vidyapeeth College of Engineering, Delhi
+                                          Integral University
+                                        [Dr. Saikat Gochhait](profile/Dr-Saikat-Gochhait)
+                                          Symbiosis Institute of Digital and  Telecom Management, Symbiosis International Deemed University
+                                          Indian Institute of Technology Kanpur
+                                          Amity University
+                          All co-authors (50)
+                                          Department
+                                                Department of Electronics and Communications Engineering
+                                                Department of Electrical and Computer Engineering
+                                                Department of Electronics and Communication Engineering
+                                          [Ashish Khare](profile/Ashish-Khare-6)
+                                                Department of Electronics & Communication
+                                          [Animesh Anand](profile/Animesh-Anand-2)
+                                                Computer Science & Engineering
+                                                School of Rural Development
+                                                Department of Electrical Engineering
+                                                ECE
+                                                Department of MechanicalEngineering (ME)
+                                                Computer Science and Engineering
+                                                Computer Science
+                                                Zoology
+                                          [Aarushi Thusu](profile/Aarushi-Thusu)
+                                                Artificial Intelligence and Machine Learning
+                                                Department of Business Management
+                                                Department of management
+                  Advertisement
+                          Join ResearchGate to find the people and research you need to help your work
+                              25+ million
+                              members
+                              160+ million
+                              publication pages
+                              2.3+ billion
+                              citations
+                        Loading...
+                    Lab members
+                    Current journal roles
+                        What type of researcher are you?
+                        Only verified researchers can join ResearchGate and send messages to other members.
+                                      Academic or student
+                                      University students and faculty, institute members, and independent researchers
+                                      Corporate, government, or NGO researcher
+                                      Technology or product developers, R&D specialists, and government or NGO employees in scientific roles
+                                      Medical
+                                      Health care professionals, including clinical researchers
+                                      Not a researcher
+                                      Journalists, citizen scientists, or anyone interested in reading and discovering research
+                      You may be eligible for a free account
+                          Sorry, you need to be a researcher to join ResearchGate.
+                          Due to our privacy policy, only current members can send messages to people on ResearchGate.
+                      Already a member?
+                            Back
+                            Close
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=Qov4yY9uYuYlCYmcarp5t7uIrHFVBJ9i1s2AJHEA-lZZ71L7d0bnsFZrpmt5OFKJiTy-Qh9s7SZEOkKRq5RtRche7SA)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

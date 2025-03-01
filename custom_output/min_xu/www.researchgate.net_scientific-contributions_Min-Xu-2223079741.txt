@@ -1,0 +1,215 @@
+            or
+            [Discover by subject area](https://www.researchgate.net/topics)
+          Log in
+          [Join for free](https://www.researchgate.net/signup.SignUp.html)
+              Min Xu’s research while affiliated with Fudan University and other places
+                Ad
+                What is this page?
+                This page lists works of an author who doesn't have a ResearchGate profile or hasn't added the works to their profile yet. It is automatically generated from public (personal) data to further our legitimate goal of comprehensive and accurate scientific recordkeeping. If you are this author and want this page removed, please
+                  [let us know](https://help.researchgate.net/hc/en-us/requests/new?ticket_form_id=13146494812305)
+                  .
+                Publications (37)
+              $
+                    [Dipole engineering at HfO2/SiO2 interface by ultra-thin Al2O3 to modulate flat-band voltage for cryogenic temperatures](https://www.researchgate.net/publication/388442659_Dipole_engineering_at_HfO2SiO2_interface_by_ultra-thin_Al2O3_to_modulate_flat-band_voltage_for_cryogenic_temperatures)
+                            [Article](publication/388442659_Dipole_engineering_at_HfO2SiO2_interface_by_ultra-thin_Al2O3_to_modulate_flat-band_voltage_for_cryogenic_temperatures)
+                        April 2025
+                        ·
+                        11 Reads
+                    Vacuum
+                          Ziqiang Huang
+                        [...]
+                    [Bottom p-i-n Isolation Enabling GAA Nanosheet Transistor for Low-Power Applications](https://www.researchgate.net/publication/384319879_Bottom_p-i-n_Isolation_Enabling_GAA_Nanosheet_Transistor_for_Low-Power_Applications)
+                        November 2024
+                        17 Reads
+                    IEEE Transactions on Electron Devices
+                        A novel gate-all-around (GAA) nanosheet field-effect transistor (NSFET) with bottom p-i-n isolation is proposed for the first time, which can effectively suppress the parasitic subchannel leakage through introducing a reverse-biased p-i-n subtunnel FET (TFET) channel. By combining the advantages of GAA MOS channel and sub-TFET channel, the proposed NSFET with bottom p-i-n isolation scheme can reduce off leakage current to the same level as NSFET with full bottom dielectric isolation (BDI) scheme, exhibiting superior process compatibility and excellent immunity to process variations at the same time. Performance benchmarking in terms of both static power consumption and power delay product of bottom p-i-n NSFETs compared to full BDI NSFETs and PTS NSFETs has been carried out to assess the device performance for low-power operation.
+                          Read more
+                    [Design Technology Co-Optimization for Gate-All-Around Nanosheet Transistors Considering Source/Drain Confinement and Post-Gate Single Diffusion Break](https://www.researchgate.net/publication/380924970_Design_Technology_Co-Optimization_for_Gate-All-Around_Nanosheet_Transistors_Considering_SourceDrain_Confinement_and_Post-Gate_Single_Diffusion_Break)
+                        July 2024
+                        51 Reads
+                        2 Citations
+                        In this work, a novel self-aligned source/drain confinement (SA-SDC) scheme is proposed to enable the downsizing of gate-all-around (GAA) nanosheet (NS) field-effect transistors (FETs). Compared with the traditional diamond-shaped source/drain (S/D) epitaxy, the proposed SA-SDC scheme suppresses the lateral over expansion and facilitates wrap-around contact (WAC) formation, resulting in the decrease of device area, parasitic capacitance (
+                                      C
+                                      para
+                          ), and resistance (
+                                      R
+                          ). A calibrated 3-D TCAD simulation demonstrates a 35% reduction in the device 
+RC 
+delay for the SA-SDC NS FET. Considering various device structures and channel stress variations induced by diffusion break integration schemes, a comprehensive investigation of the 15-stage ring oscillator (RO) is conducted. By integrating the stress-enhanced postgate single diffusion break (PG-SDB) process, the SA-SDC NAND2 cell achieves an additional 21% reduction in the power dissipation or a 9% increase in the frequency. Power, performance, and area (PPA) are also collaboratively optimized for different applications using the quantitative quality factor. Particularly, the NAND2 cell is optimized within the constrained footprint. The cell, with 30–40-nm NS width of the n-type device, exhibits the optimal and robust performance for all the simulated technology/design options.
+                            +6
+                    [A Comprehensive Study of NF3-Based Selective Etching Processes: Application to the Fabrication of Vertically Stacked Horizontal Gate-All-around Si Nanosheet Transistors](https://www.researchgate.net/publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors)
+                            [Full-text available](publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors)
+                        May 2024
+                        179 Reads
+                          Nanomaterials
+                        In this paper, we demonstrate a comprehensive study of NF3-based selective etching processes for inner spacer formation and for channel release, enabling stacked horizontal gate-all-around Si nanosheet transistor architectures. A cyclic etching process consisting of an oxidation treatment step and an etching step is proposed and used for SiGe selective etching. The cyclic etching process exhibits a slower etching rate and higher etching selectivity compared to the direct etching process. The cycle etching process consisting of Recipe 1, which has a SiGe etching rate of 0.98 nm/cycle, is used for the cavity etch. The process achieved good interlayer uniformity of cavity depth (cavity depth ≤ 5 ± 0.3 nm), while also obtaining a near-ideal rectangular SiGe etch front shape (inner spacer shape = 0.84) and little Si loss (0.44 nm@ each side). The cycle etching process consisting of Recipe 4 with extremely high etching selectivity is used for channel release. The process realizes the channel release of nanosheets with a multi-width from 30 nm to 80 nm with little Si loss. In addition, a selective isotropic etching process using NF3/O2/Ar gas mixture is used to etch back the SiN film. The impact of the O2/NF3 ratio on the etching selectivity of SiN to Si and the surface roughness of SiN after etching is investigated. With the introduction of O2 into NF3/Ar discharge, the selectivity increases sharply, but when the ratio of O2/NF3 is up to 1.0, the selectivity tends to a constant value and the surface roughness of SiN increases rapidly. The optimal parameter is O2/NF3 = 0.5, resulting in a selectivity of 5.4 and a roughness of 0.19 nm.
+                          [Download](journal/Nanomaterials-2079-4991/publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors/links/666c10b085a4ee7261c11cf5/A-Comprehensive-Study-of-NF3-Based-Selective-Etching-Processes-Application-to-the-Fabrication-of-Vertically-Stacked-Horizontal-Gate-All-around-Si-Nanosheet-Transistors.pdf?origin=scientificContributions)
+                    [GaN monolithic digital units on P-GaN platform](https://www.researchgate.net/publication/380526561_GaN_monolithic_digital_units_on_P-GaN_platform)
+                        21 Reads
+                            +3
+                    [Improved Vth Stability and Gate Reliability of GaN-Based MIS-HEMTs by Employing Alternating O2 Plasma Treatment](https://www.researchgate.net/publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment)
+                        March 2024
+                        85 Reads
+                        1 Citation
+                        The Vth stability and gate reliability of AlGaN/GaN metal–insulator–semiconductor high-electron-mobility transistors (MIS-HEMTs) with alternating O2 plasma treatment were systematically investigated in this article. It was found that the conduction band offset at the Al2O3/AlGaN interface was elevated to 2.4 eV, which contributed to the suppressed gate leakage current. The time-dependent dielectric breakdown (TDDB) test results showed that the ALD-Al2O3 with the alternating O2 plasma treatment had better quality and reliability. The AlGaN/GaN MIS-HEMT with the alternating O2 plasma treatment demonstrated remarkable advantages in higher Vth stability under high-temperature and long-term gate bias stress.
+                    [Fabrication of the low-k films with tunable k value as spacers in advanced CMOS technology](https://www.researchgate.net/publication/378629994_Fabrication_of_the_low-k_films_with_tunable_k_value_as_spacers_in_advanced_CMOS_technology)
+                        February 2024
+                        123 Reads
+                    Journal of Vacuum Science & Technology A Vacuum Surfaces and Films
+                        In advanced CMOS technology, a suitable spacer scheme is crucial to alleviate the effects of increasing parasitic resistance and capacitance on device performance as the critical dimensions shrinking. Low dielectric constant (low-k) films, possessing a tunable k value ranging from 3.5 to 6.5, were fabricated using plasma-enhanced atomic layer deposition in a single chamber. The fabrication process involved the deposition of the SiN film via SiH2I2 with N2 plasma, as well as the deposition of the SiOX, SiOCN, and SiON films using diisopropylamino silane with O2, Ar/O2, and N2/O2 plasmas, respectively. The introduction of groups containing carbon (C) tended to loosen the film structure, due to its weak bond strength with Si, thus made distinctions in structural and electrical stability. We developed such a process which can adjust the C-group concentration and O, N content to tune the film k value. The SiOx, SiOCN, SiON, and SiN films had high breakdown strength of 9.04, 7.23, 9.41, and over 11 MV cm−1, and meanwhile low leakage current density of 2.42 × 10−9, 4.78 × 10−8, 1.29 × 10−9, and 9.26 × 10−10 A cm−2, respectively. The films exhibited remarkable thermal stability, enhanced breakdown strength, and suppressed leakage with annealing treatment, which could be attributed to the desorption of —CHX groups. Moreover, the low-k materials demonstrated excellent step coverage both in the inner-spacer cavity and on sidewalls, exploring the potential application as spacers in advanced CMOS structure.
+                            +4
+                    [A Fast Transient Response Capacitor-Less LDO with Transient Enhancement Technology](https://www.researchgate.net/publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology)
+                        384 Reads
+                        7 Citations
+                    Micromachines
+                        This paper proposes a fast transient load response capacitor-less low-dropout regulator (CL-LDO) for digital analog hybrid circuits in the 180 nm process, capable of converting input voltages from 1.2 V to 1.8 V into an output voltage of 1 V. The design incorporates a rail-to-rail input and push–pull output (RIPO) amplifier to enhance the gain while satisfying the requirement for low power consumption. A super source follower buffer (SSFB) with internal stability is introduced to ensure loop stability. The proposed structure ensures the steady-state performance of the LDO without an on-chip capacitor. The auxiliary circuit, or transient enhancement circuit, does not compromise the steady-state stability and effectively enhances the transient performance during sudden load current steps. The proposed LDO consumes a quiescent current of 47 µA and achieves 25 µV/mA load regulation with a load current ranging from 0 to 20 mA. The simulation results demonstrate that a settling time of 0.2 µs is achieved for load steps ranging from 0 mA to 20 mA, while a settling time of 0.5 µs is attained for load steps ranging from 20 mA to 0 mA, with an edge time of 0.1 µs.
+                    [Novel enhancement-mode p-channel GaN MOSFETs with an AlN insert layer](https://www.researchgate.net/publication/387361372_Novel_enhancement-mode_p-channel_GaN_MOSFETs_with_an_AlN_insert_layer)
+                        January 2024
+                        8 Reads
+                    IEEE Electron Device Letters
+                        In this work, an enhancement-mode (E-mode) p-channel GaN metal‒oxide‒semiconductor field-effect transistor (p-MOSFET) with a maximum ON-state current (
+I
+                          ON
+                          ) density of 10.5 mA/mm, threshold voltage (
+V
+                          TH
+                          ) of −2.45 V, and 
+I
+                          /
+I
+                          OFF
+                          ratio of 108 is demonstrated on a commercial GaN wafer designed on a p-GaN HEMT. Furthermore, we present a novel E-mode p-FET featuring an AlN insert
+I
+                          layer within the p-GaN layer. The AlN layer introduces extra capacitance in the conducting channel and decreases the body factor m of devices. The p-GaN/AlN/p-GaN/AlGaN structure reduces the equivalent channel capacitance, achieving a minimum point-by-point subthreshold swing (
+SS 
+) of 60 mV/dec. Compared with that of the convent
+I
+                          al p-GaN channel FET, the 
+SS 
+decreases from 225 to 105 mV/dec over three orders, the 
+V
+                          shifts to −3.05 V, the 
+I
+                          ratio increases to 2 × 108, and the device also has an ultralow off-state leakage current in the range of 10
+                          −8
+                          mA/mm. The proposed structure is compelling for GaN-based complementary metal‒oxide‒semiconductor (CMOS) logic and power devices.
+                    [Si Interlayers Trimming Strategy in Gate-All-Around Device Architecture for Si and SiGe Dual-Channel CMOS Integration](https://www.researchgate.net/publication/375090153_Si_Interlayers_Trimming_Strategy_in_Gate-All-Around_Device_Architecture_for_Si_and_SiGe_Dual-Channel_CMOS_Integration)
+                        November 2023
+                        70 Reads
+                        4 Citations
+                        A practicable Si interlayers trimming strategy to attain thinned nanosheet (NS) using an in situ steam generation (ISSG) oxidation and removal process has been proposed for Si and SiGe dual-channel CMOS integration. After adopting the Si interlayers trimming strategy, four-level Si NSs were uniformly thinned from ~11.0 to ~6.4 nm and its device features excellent electrical performance, such as SS = 65 mV/dec, DIBL = 11 mV/V, and
+                                      I
+                                      on
+                                    /
+                                      off
+                          =
+                                    4.7
+                                    ×
+                                    1
+                                      0
+                                      5
+                          . This can be attributed to the fact that better gate control and electrostatic capability is achieved due to NSs thinning. Meanwhile, as gate length further scaling, Si interlayers trimming strategy exhibits better short-channel effect (SCE), which is verified by technology computer-aided design (TCAD) simulation. Additionally, the effect of Si interlayers trimming on the threshold voltage (
+                                      V
+                          ) is comprehensively investigated. It is confirmed that the decrease in
+                          is caused by the changes in metal gate-stack filling between NSs, changes in NS geometry, and geometry-dependent quantum mechanical (QM) effects.
+                  [2](https://www.researchgate.net/scientific-contributions/Min-Xu-2223079741/publications/2#articles)
+                  [3](https://www.researchgate.net/scientific-contributions/Min-Xu-2223079741/publications/3#articles)
+                  [4](https://www.researchgate.net/scientific-contributions/Min-Xu-2223079741/publications/4#articles)
+              /$
+                Citations (23)
+                          ... A flipped voltage follower based output capacitor-less low dropout regulator is attractive for low power SoC applications
+                            [27]
+                            , [34]- [41], [41]- [46]. It has a simple structure, fast transient responses, good regulation and loop stability, compared to the conventional LDO.  ...
+                            Reference:
+                              [A Review on Frequency Compensation and Transient Enhancement Schemes of Flipped Voltage Follower LDO Regulators for SoC Applications](publication/388295274_A_Review_on_Frequency_Compensation_and_Transient_Enhancement_Schemes_of_Flipped_Voltage_Follower_LDO_Regulators_for_SoC_Applications)
+                        Citing Article
+                          ... Meanwhile, there is little research on the threshold stability and gate reliability of the ALD-Al 2 O 3 gate dielectric. We have already characterized the trap states and performance of the device with alternating O 2 plasma treatment in our previous articles
+                            [22]
+                            . In this work, the V th stability and gate reliability characteristics of the AlGaN/GaN MIS-HEMTs with the alternating O 2 plasma treatment were investigated.  ...
+                  [O 2 Plasma Alternately Treated ALD-Al 2 O 3 as Gate Dielectric for High Performance AlGaN/GaN MIS-HEMTs](https://www.researchgate.net/publication/376934021_O_2_Plasma_Alternately_Treated_ALD-Al_2_O_3_as_Gate_Dielectric_for_High_Performance_AlGaNGaN_MIS-HEMTs)
+                        January 2023
+                  IEEE Access
+                          ... Designed with a 180-nanometer process, this regulator eliminates the need for on-chip capacitors while maintaining steady-state performance, improving transient response during load current variations. Sun et al.
+                            [39]
+                            introduced a fully integrated adaptive on-time (AOT) control buck converter, capable of switching between pulse-width modulation (PWM) and pulse-skip modulation (PSM) based on load current variations, optimizing efficiency under light-load conditions. Fu et al. [40] proposed a method for manufacturing high-performance MEMS accelerometers using the TGV process.  ...
+                              [Editorial for the Special Issue on Advanced Micro- and Nano-Manufacturing Technologies](publication/386593895_Editorial_for_the_Special_Issue_on_Advanced_Micro-_and_Nano-Manufacturing_Technologies)
+                  [A Fast Transient Adaptive On-Time Controlled BUCK Converter with Dual Modulation](https://www.researchgate.net/publication/374306462_A_Fast_Transient_Adaptive_On-Time_Controlled_BUCK_Converter_with_Dual_Modulation)
+                        September 2023
+                          ... ILD deposition was carried out in Fig. 5r. Finally, metal deposition and contact were established in Fig. 5s [18][19][20]
+                            [21]
+                            . Compared to traditional devices, Nanosheet iTFET exhibits a larger overlap area between the gate and source metal within the same volume, as illustrated in Fig. 6.  ...
+                              [Nanosheet integration of induced tunnel field-effect transistor with lower cost and lower power](publication/381923302_Nanosheet_integration_of_induced_tunnel_field-effect_transistor_with_lower_cost_and_lower_power)
+                  [A Buried Thermal Rail (BTR) Technology to Improve Electrothermal Characteristics of Complementary Field-Effect Transistor (CFET)](https://www.researchgate.net/publication/373745362_A_Buried_Thermal_Rail_BTR_Technology_to_Improve_Electrothermal_Characteristics_of_Complementary_Field-Effect_Transistor_CFET)
+                          ... In advanced epitaxial structures, Zhang et al.
+                            [24]
+                            designed an unbuffered AlGaN/GaN epitaxial structure on a SiC substrate, achieving superior crystallinity and surface morphology compared to traditional methods. This innovation improves control over growth stress and contributes to the fabrication of high-performance devices.  ...
+                  [Non-Buffer Epi-AlGaN/GaN on SiC for High-Performance Depletion-Mode MIS-HEMTs Fabrication](https://www.researchgate.net/publication/373420478_Non-Buffer_Epi-AlGaNGaN_on_SiC_for_High-Performance_Depletion-Mode_MIS-HEMTs_Fabrication)
+                        July 2023
+                          ... Given the thinness of the AlGaN barrier layer, even slight over-etching of the AlGaN layer or plasmainduced damage at the etched surface can substantially reduce the 2DEG channel density, increasing the on-resistance. Thus, research efforts have been dedicated to selectively etching the p-GaN layer, utilizing either oxygen-based processes [13][14][15][16][17] or fluorine-based plasma etching [18][19][20]
+                            [22]. In the context of the selective etching process, the inclusion of an over-etching step is essential to guarantee the complete removal of the p-GaN layer.  ...
+                              [Fluorine-Based Low-Damage Selective Etching Process for E-Mode p-GaN/AlGaN/GaN HFET Fabrication](publication/388146417_Fluorine-Based_Low-Damage_Selective_Etching_Process_for_E-Mode_p-GaNAlGaNGaN_HFET_Fabrication)
+                  [A Novel Atomic-Level Post-Etch-Surface-Reinforcement Process for High-Performance p-GaN Gate HEMTs Fabrication](https://www.researchgate.net/publication/373009033_A_Novel_Atomic-Level_Post-Etch-Surface-Reinforcement_Process_for_High-Performance_p-GaN_Gate_HEMTs_Fabrication)
+                        August 2023
+                          ... Despite their initial success, FinFETs encountered performance limitations as semiconductor technology advanced to nodes smaller than 3 nm [19][20][21] These limitations included heightened susceptible to SCEs, reliability issues, and significant fabrication challenges. Consequently, GAA NS FETs have emerged as compelling candidates for sub-2-nm nodes 19,
+                            22
+                            offering both superior performance standards and desired capabilities 23,24 GAA NS FETs provide a more robust solution to SCEs due to their fully surrounded gate architecture, which offers improved electrostatic control. This design effectively mitigates leakage currents and enhances the drive current, thereby improving overall device performance.  ...
+                              [Effects of Bottom Channel Coverage Ratio on Leakage Current and Static Power Consumption of Vertically Stacked GAA Si NS FETs](publication/388437432_Effects_of_Bottom_Channel_Coverage_Ratio_on_Leakage_Current_and_Static_Power_Consumption_of_Vertically_Stacked_GAA_Si_NS_FETs)
+                  [A Novel Scheme for Full Bottom Dielectric Isolation in Stacked Si Nanosheet Gate-All-Around Transistors](https://www.researchgate.net/publication/371936691_A_Novel_Scheme_for_Full_Bottom_Dielectric_Isolation_in_Stacked_Si_Nanosheet_Gate-All-Around_Transistors)
+                        May 2023
+                          ... With regard to the passivation layer, Al 2 O 3 is frequently used as a means to prevent corrosion of underlying metals [36][37][38][39]; this is due to its relatively high chemical robustness. Intergranular oxides have been shown to either hinder or help the LME process [26,[40][41][42][43][44][45][46][47][48]; however, the impact of intergranular Al 2 O 3 is not clear as there have not been many studies regarding Ga on Al 2 O 3 (despite Al 2 O 3 being used as a substrate for the growth of gallium nitride (GaN) [49][50][51][52]
+                            [53]
+                            and gallium oxide (Ga 2 O 3 ) films [54][55][56][57]). Of the few studies done on Ga with Al 2 O 3 , Yang et al. [58] found on the basis of density functional theory (DFT) that Ga binds preferentially onto Al 2 O 3 (0001) surfaces with a binding energy of ∼ − 1.7 eV.  ...
+                              [Gallium defects in α-Al2O3: A density functional theory study](publication/381156546_Gallium_defects_in_a-Al2O3_A_density_functional_theory_study)
+                  [In Situ H-Radical Surface Treatment on Aluminum Gallium Nitride for High-Performance Aluminum Gallium Nitride/Gallium Nitride MIS-HEMTs Fabrication](https://www.researchgate.net/publication/371792774_In_Situ_H-Radical_Surface_Treatment_on_Aluminum_Gallium_Nitride_for_High-Performance_Aluminum_Gallium_NitrideGallium_Nitride_MIS-HEMTs_Fabrication)
+                        June 2023
+                          ... Compared to the NSFET with a conventional PTS scheme, implementing the PTS doping scheme only under the gate reduces the increased BTBT current caused by the aggressively high PTS doping. In addition, the SiC material is a wide-bandgap semiconductor material, which further suppresses the substrate leakage current thanks to a larger tunneling barrier width for carriers
+                            . Compared to the BOX-NSFET, the SiC-NSFET can avoid stress reduction along the channel direction caused by the bottom oxide isolation layer.  ...
+                              [Leakage and Thermal Reliability Optimization of Stacked Nanosheet Field-Effect Transistors with SiC Layers](publication/379211998_Leakage_and_Thermal_Reliability_Optimization_of_Stacked_Nanosheet_Field-Effect_Transistors_with_SiC_Layers)
+                  [Strained Si Nanosheet pFET Based on SiC Strain Relaxed Buffer Layer for High Performance and Low Power Logic Applications](https://www.researchgate.net/publication/371649826_Strained_Si_Nanosheet_pFET_based_on_SiC_Strain_Relaxed_Buffer_Layer_for_High_Performance_and_Low_Power_Logic_Applications)
+                          ... Fin patterning, which involves photolithography and etching processes, is performed to form the fin. Special care is taken during etching to maintain low surface roughness and controlled grain sizes, which are critical for the device's electrical performance
+                            [12]
+                            - [13]. The spacer region is formed using the spacer image transfer technique.  ...
+                              [Revealing the Reliability Performance of a Dielectric Modulated Negative Capacitance Junctionless FinFET Biosensor](publication/386061117_Revealing_the_Reliability_Performance_of_a_Dielectric_Modulated_Negative_Capacitance_Junctionless_FinFET_Biosensor)
+                  [A Simulation Study of Junctionless Forksheet on Sub-2 nm Node Logic Applications](https://www.researchgate.net/publication/370990783_A_Simulation_Study_of_Junctionless_Forksheet_on_Sub-2_nm_Node_Logic_Applications)
+                  Top co-authors
+                            [David Wei Zhang](profile/David-Zhang-17)
+                          Fudan University
+                            [Chunlei Wu](profile/Chunlei-Wu)
+                            [Maolin Pan](profile/Maolin-Pan)
+                            [Tao Liu](scientific-contributions/Tao-Liu-2087011300)
+                            [Saisheng Xu](scientific-contributions/Saisheng-Xu-2212322858)
+                            [Kun Chen](scientific-contributions/Kun-Chen-2036182798)
+                            [Chen Wang](scientific-contributions/Chen-Wang-2042325836)
+                            [Dawei Wang](scientific-contributions/Dawei-Wang-2208705862)
+                            [Jingwen Yang](scientific-contributions/Jingwen-Yang-2208692758)
+                            [Xin Sun](scientific-contributions/Xin-Sun-2208720243)
+                  Top journals
+                          Published by IEEE (Institute of Electrical and Electronics Engineers)
+                          Published by MDPI and Chinese Society of Micro-Nano Technology (CSMNT)
+Spanish Carbon Group (GEC)
+                          Published by MDPI and The Chinese Society of Micro-Nano Technology (CSMNT)
+                          Published by Elsevier BV
+                  Affiliations
+                            State Key Lab of ASIC & System
+                            School of Microelectronics
+                  Publication stats
+                      Citations
+                    243
+                [Browse more researchers](/directory/profiles)
+            Company
+            [About us](about)
+            [Blog](blog)
+            [Careers](careers)
+            Resources
+            [Help Center](deref/https%3A%2F%2Fexplore.researchgate.net?forcePage=false)
+            [Contact us](https://help.researchgate.net/hc/en-us/requests/new?ticket_form_id=13146494812305)
+            Business Solutions
+            [Marketing Solutions](https://www.researchgate.net/marketing-solutions)
+            [Scientific Recruitment](scientific-recruitment)
+            [Publisher Solutions](https://www.researchgate.net/publisher-solutions)
+              © 2008-
+            [Terms](terms-of-service)
+            [Privacy](privacy-policy)
+            [Copyright](ip-policy)
+            [Imprint](imprint)
+            Consent preferences

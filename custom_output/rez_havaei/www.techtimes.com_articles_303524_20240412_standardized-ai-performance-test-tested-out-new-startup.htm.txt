@@ -1,0 +1,74 @@
+              [Tech](/personaltech)
+              [Science](/science)
+              [Business](/biztech)
+              [Health](/health)
+              [Culture](/t-lounge)
+              [Deals & Reviews](/reviews)
+        [Home](/)
+        Standardized AI Performance Test, Tested Out by New AI Startup
+        A test to compare large language models.
+                By
+                  [Aldohn Domingo](https://www.techtimes.com/reporters/aldohn-domingo)
+                  Updated: Apr 12 2024, 00:30 AM EDT
+                  Share on Facebook
+                  Share on Twitter
+                  Share on LinkedIn
+                  Share on Reddit
+                  Share on Flipboard
+                  Share on Pocket
+                A new startup, Vals.ai, is looking to create a standardized test for measuring
+                  [artificial intelligence](https://www.techtimes.com/tags/artificial-intelligence)
+                  and large language models, intending to create a universal way of testing out AI in specific aspects, as reported by
+                  [Bloomberg](https://www.bloomberg.com/news/newsletters/2024-04-11/this-startup-is-trying-to-test-how-well-ai-models-actually-work)
+                  .
+                Along with founding engineer Rez Havaei, Rayan Krishnan and Langston Nashold left Stanford's master's program in artificial intelligence to start Vals.ai.
+                The business is developing an unbiased, third-party review system for large-language models in collaboration with Stanford researchers and industry specialists in fields including accounting, law, and finance.
+                The startup also develops test questions using statistics relevant to academia and industry.
+                      Illustration picture shows the ChatGPT artificial intelligence software, which generates human-like conversation, Friday 03 February 2023 in Lierde. BELGA PHOTO NICOLAS MAETERLINCK (Photo by NICOLAS MAETERLINCK / BELGA MAG / Belga via AFP)
+                      Photo by NICOLAS MAETERLINCK/BELGA MAG/AFP via Getty Images
+                    (Photo by NICOLAS MAETERLINCK/BELGA MAG/AFP via Getty Images) The illustration picture shows the ChatGPT artificial intelligence software, which generates human-like conversation, on Friday, 03 February 2023, in Lierde. BELGA PHOTO NICOLAS MAETERLINCK (Photo by NICOLAS MAETERLINCK / BELGA MAG / Belga via AFP)
+                Following a brief peek earlier in the year, Vals.ai officially debuted on Thursday. The company also said it had secured an unknown sum of pre-seed money from Pear VC, with further involvement from a Sequoia scout investor.
+                The desire for objective testing is reflected in investor interest, especially as more businesses consider using AI for specialized professional duties.
+                Krishnan's organization has already discovered potential flaws in AI models. According to recommendations from an accountant the business hired, Vals.ai's initial report revealed that top models struggled with tax-related queries.
+                The most accurate model, GPT-4 from OpenAI, achieved an accuracy rate of 54.5%. The accuracy of Google's Gemini Pro was only 31.3% of the time. To put it another way: Hold off on firing your accountant.
+                Read Also:
+                  [Texas Brings AI-Powered Student Essays Test Grader, Different from ChatGPT](https://www.techtimes.com/articles/303426/20240409/texas-brings-ai-powered-student-essays-test-grader-different-chatgpt.htm)
+                The Need for Standardized AI Tests
+                Even though artificial intelligence startups are receiving billions of dollars in funding, the industry lacks an impartial, industry-standard test to evaluate the performance of AI software.
+                Competitor Anthropic to OpenAI has stated that many existing assessments of an AI model's safety and capabilities are "limited."
+                Furthermore, Aiden Gomez, the CEO of Cohere, has referred to the public model evaluation process as a "broken" system.
+                Because of this, AI companies usually create their own benchmarks to demonstrate how well their services perform on reading comprehension, mathematics, and Python coding tasks.
+                AI Safety Testing
+                While tech giants continue to look for standardized tests on AI, the United States, and the United Kingdom recently announced they will be
+                  [collaborating to test out AI models' safety](https://www.techtimes.com/articles/303144/20240401/us-uk-join-forces-ai-safety-testing.htm)
+                The two AI safety testing groups in each country will develop a common approach for AI safety testing that requires using the same tools and supporting infrastructure, according to a press release.
+                Additionally, it stated that the institutes intend to work together to test an AI model that the entire public can use. The organizations would try to switch employees and exchange data while adhering to contracts, national laws, and regulations.
+                Legislators and tech industry leaders will probably rely on AI safety institutes to help lower the hazards associated with quickly developing AI systems.
+                The companies that made ChatGPT, Claude, and Anthropic, respectively, have published detailed plans for how safety testing will direct the creation of new products in the future.
+                The recently concluded AI Act of the European Union and U.S. The executive order issued by President Joe Biden mandates that companies developing advanced artificial intelligence models disclose the results of their safety testing.
+                Related Article:
+                  [Top Japanese Companies Demand AI Regulation: "Democracy and Social Order Could Collapse"](https://www.techtimes.com/articles/303365/20240408/top-japanese-companies-demand-ai-regulation-democracy-social-order-collapse.htm)
+                      Here are some tricks that you can do to have more privacy when using OpenAI's ChatGPT.
+                      Tech Times
+                  (Photo: Tech Times)
+            ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+              Tags:
+              [AI](/tags/ai)
+              [Artificial Intelligence](/tags/artificial-intelligence)
+                Join the Discussion
+            Most Popular
+                      [Amazon Alexa+ AI Upgraded With New Features: Set Routines, Analyze Documents, and More](/articles/309503/20250226/amazon-alexa-ai-upgraded-new-features-set-routines-analyze-documents-more.htm)
+                      [Max Offers Free Live Sports, News Content for Subscribers to Enjoy at No Extra Charge](/articles/309508/20250227/max-offers-free-live-sports-news-content-subscribers-enjoy-no-extra-charge.htm)
+                      [Valve's 'Deckard' VR Headset Is Rumored to Be on Its Way, May Have a Price Tag of $1,200](/articles/309504/20250226/valves-deckard-vr-headset-rumored-its-way-may-have-price-tag-1200.htm)
+                      [Meta Aria Gen 2 AR Glasses Can Measure Heart Rate, Features Contact Microphone, and More](/articles/309517/20250227/meta-aria-gen-2-ar-glasses-can-measure-heart-rate-features-contact-microphone-more.htm)
+                      [OpenAI ChatGPT 4.5 Has Better Emotional Intelligence, Deeper Knowledge—Can It Compete With DeepSeek?](/articles/309515/20250227/openai-chatgpt-45-has-better-emotional-intelligence-deeper-knowledgecan-it-compete-deepseek.htm)
+              Subscribe to Tech Times!
+              Sign up for our free newsletter for the Latest coverage!
+              [Features](/feature)
+              [Buzz](/techbuzz)
+              [About Us](/about-us)
+              [Contact Us](/contact-us)
+              [Terms & Conditions](/termsofservice)
+              [Privacy Policy](/privacypolicy)
+      ©
+2025 Tech Times LLC. All rights reserved.

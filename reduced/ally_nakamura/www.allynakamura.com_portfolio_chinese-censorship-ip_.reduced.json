@@ -1,0 +1,37 @@
+{
+  "title": "Chinese Censorship | Ally Nakamura",
+  "meta_description": "In this independent research project, Jeffrey Shen and I created\u00a0CensorScout\u00a0and the\u00a0Weibo Censorship Dashboard, two pilot applications that make several steps\u2026",
+  "main_content": "In this independent research project, Jeffrey Shen and I created CensorScout and the Weibo Censorship Dashboard , two pilot applications that make several steps toward increased transparency into censorship on Weibo and provide valuable\u2014albeit limited\u2014information regarding the state of Chinese Internet censorship. Published paper for open access on SSRN , made daily top-tens in several sections and top 10% of authors by downloads in the year following. Completed as part of Digital Propaganda & Censorship , an Independent Project at Phillips Academy under the mentorship of John Palfrey , Michael Barker, and Malgorzata Stergios.",
+  "links": [
+    {
+      "url": "http://jeffreyshen.com/",
+      "text": "Jeffrey Shen"
+    },
+    {
+      "url": "https://github.com/DPCLab/CensorScout-Front",
+      "text": "CensorScout"
+    },
+    {
+      "url": "http://dpclab.org/china/dashboard/",
+      "text": "Weibo Censorship Dashboard"
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3266193",
+      "text": "SSRN"
+    },
+    {
+      "url": "https://dpclab.org/",
+      "text": "Digital Propaganda & Censorship"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Palfrey",
+      "text": "John Palfrey"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://shynet.rmrm.io/ingress/aa93dbb3-7d36-4de1-8642-5074c7e33c92/pixel.gif",
+      "alt": ""
+    }
+  ]
+}

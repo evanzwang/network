@@ -1,0 +1,29 @@
+    [
+              [me](/)
+                      [work](/work)
+                      [posts](/posts)
+                      [tunes](/tunes)
+                      [shots](/shots)
+                      [reading](/reading)
+                      [games](/games)
+                      [coding](/coding)
+                      [design](/design)
+                      [school](/school)
+                ]
+            Igor Barakaiev
+          [EE-gor bah-rah-KAH-yev]
+            Most recently, I’ve been working on
+              [Imaginara](https://imaginara.ink)
+              and
+              [Memory+](https://memory.plus)
+              with David Eagleman.
+            Before that, I worked on consolidating data pipelines at
+              [Bloomberg Indices](https://www.bloomberg.com/professional/products/bloomberg-terminal/)
+              , distributing coding tasks to remote engineers at
+              [GitStart](https://gitstart.com)
+              (YC-backed), processing content for trust & safety at
+              [Cove](https://getcove.com/)
+              (Neo-backed), and building the infrastructure for pricing a significant portion of the German car insurance market at
+              [QuantCo](https://quantco.com)
+              .
+    [!

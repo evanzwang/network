@@ -1,0 +1,30 @@
+        Catherine Lee
+      .site-branding
+    #masthead
+                              Poetics
+                              paintings
+                              singularities
+                              repeating sets
+                              standing sculptures
+                              works on paper
+                              open series
+                              Exhibitions
+        #main
+      #primary
+    #content
+              [NEWS](http://catherinelee.net/news/)
+              [WORKS IN PROGRESS](http://catherinelee.net/works-in-progress/)
+              [BIOGRAPHY](http://catherinelee.net/biography/)
+              [BIBLIOGRAPHY](http://catherinelee.net/bibliography/)
+              [GALLERIES](http://catherinelee.net/galleries/)
+              [VIDEO](http://catherinelee.net/video/)
+              [LINKS](http://catherinelee.net/links/)
+    .widget-area
+        .site-name
+        Proudly powered by
+          [WordPress](https://wordpress.org/)
+          .
+        .powered-by
+      .site-info
+    #colophon
+  #page

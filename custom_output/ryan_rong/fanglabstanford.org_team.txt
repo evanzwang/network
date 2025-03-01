@@ -1,0 +1,42 @@
+            0
+          Background
+            Social
+            Title and nav wrapper
+              Title
+                  [Fang Lab at Stanford](/)
+              Nav
+                      [About](/about)
+                      [Team](/team)
+                      [Research](/research)
+                      [Publications](/publications)
+                      [Join Us](/joinus)
+                      [Wiki](/wiki)
+            Actions
+            Burger
+                Open Menu
+                Close Menu
+      (Mobile) Menu Navigation
+                Menu Navigation
+                            Our Team
+                          Rongxin Fang (Principal investigator)
+                          Rongxin is an Assistant Professor at Stanford University in the Departments of Neurosurgery and Genetics (by courtesy) and a member of the Wu Tsai Neuroscience Institute.
+                          Rongxin received his Ph.D. in Bioinformatics and Systems Biology at UC San Diego, where he was advised by Bing Ren (2015-2019). During this time, he developed high-throughput genomic technologies and computational tools to map the structure and activity of the mammalian genome at a large scale with single-cell resolution. He then applied these approaches to understand how
+                            cis
+                            -regulatory elements such as enhancers in the genome control gene expression and how this process can give rise to the distinct gene expression programs that underlie the cellular diversity in the mammalian brain.
+                          As an HHMI-Damon Runyon Postdoctoral Fellow in the laboratory of Xiaowei Zhuang at Harvard University (2019-2024), he developed and applied genome-scale and volumetric 3D transcriptome imaging methods to map the molecular and cellular architecture of the mammalian brain during evolution and aging. He also participated in the collaboration with Adam Cohen and Catherine Dulac to combine transcriptome imaging with functional neuronal recording to identify neuronal populations in the animal brain that underlie specific bran functions.
+                          He has received multiple fellowships and awards, including the Damon Runyon Postdoctoral Fellowship, Rising Star in Engineering in Health (Johns Hopkins & Columbia University), Next Generation Leaders (Allen Institute) and Damon Runyon-Dale F. Frey Award for Breakthrough Scientists.
+                          His work has been supported by HHMI, Damon Runyon Cancer Research Foundation, 4D Nucleome, ENCODE Project, Roadmap Epigenome Consortia, and BRAIN Initiative.
+                          Outside the lab, Rongxin enjoys long-distance running and biking.
+                            [Google Scholar](https://scholar.google.com/citations?user=wOvrIHQAAAAJ&hl=en)
+                            |
+                            [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/rongxin.fang.1/bibliography/public/)
+                            [Twitter](https://x.com/RongxinFang)
+                            [Email](mailto:r3fang@stanford.edu?)
+                          [Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/)
+                          [Department of Neurosurgery](https://med.stanford.edu/neurosurgery.html)
+                          [Department of Genetics](https://med.stanford.edu/genetics.html)
+                          [Stanford School of Medicine](https://med.stanford.edu/)
+                          [Stanford University](https://www.stanford.edu/)
+                        Twitter:
+                          [@RongxinFang](https://x.com/RongxinFang)
+                          [r3fang@stanford.edu](mailto:r3fang@stanford.edu?)

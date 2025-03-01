@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- Theme: fruitsalad -->
+  <head>
+    <title>MIT ESP - Uzay Girit</title>
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" lang="en-us" xml:lang="en-us" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+  
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/media/styles/qsd.css" />
+
+    <link href="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/css/bootstrap-responsive.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="/media/styles/theme_compiled.css"/>
+    <link href="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/google-code-prettify/prettify.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" type="text/css" href="/media/styles/user_visibility.css" media="all" />
+    
+    <link rel="stylesheet" type="text/css" href="/media/styles/jquery-ui/jquery-ui.css" />
+    
+    
+<link rel="shortcut icon" href="/media/images/favicon.ico" />
+<!--[if lte IE 6]>
+<style type="text/css">
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#body {
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+#ie6_warning {
+  color: tabcolor2;
+  font-size: 0.83em;
+}
+#ie6_warning p {
+  position: relative;
+  left: 10px;
+}
+#search_box {
+  top: -28px;
+  border: 0px;
+  border-bottom: 0;
+  margin: 0;
+}
+#submenu {
+  width: 600px;
+}
+#submenu li {
+  display: inline;
+}
+</style>
+<![endif]-->
+<!--[if gt IE 6]>
+<style type="text/css">
+#body {
+  position: absolute;
+  left: 136px;
+  top: 55px;
+}
+#tab_sidebar {
+  position: absolute;
+  left: 136px;
+  top: 55px;
+}
+#submenu li {
+  display: inline;
+}
+</style>
+<![endif]-->
+
+<style type="text/css">
+
+.required { border: 2px solid black; }
+
+.form_error { font-size: 80%; font-style: italic; color: #C00; }
+
+label { font-family: Arial, Lucida, Helvetica, sans-serif; font-size: 0.8em; font-weight: normal;}
+label.groupheader { font-size: 1.2em; font-weight: bold; }
+#divmaintext table td { vertical-align: top; }
+
+#divmaintext hr { border: 1px solid black; }
+img.biophoto { border: 1px solid black; }
+
+</style>
+
+
+    
+
+    
+    <script type="text/javascript" src="/media/scripts/dwcode.js"> </script>
+    
+
+    
+    
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/jquery/jquery-1.7.2.js"> </script>
+    
+    
+    <script type="text/javascript" src="/media/scripts/jquery.cookie.js"> </script>
+    
+    
+    <script type="text/javascript" src="/media/scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="/media/scripts/jquery-ui.timepicker.js"></script>
+    <script type="text/javascript" src="/media/scripts/datepicker-duration.js"></script>
+    
+    <script type="text/javascript" src="/media/scripts/common.js"></script>
+    
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react-with-addons.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script>
+    <script type="text/javascript" src="/media/scripts/lodash.compat.min.js"></script>
+
+    
+    <script type="text/javascript" src="/media/scripts/content/user_data.js"></script>
+    
+    <script type="text/javascript">
+      esp_user['cur_grade'] = 2025 + 12 - esp_user['cur_yog'];
+    </script>
+    
+    <script type="text/javascript" src="/media/scripts/content/user_classes.js"></script>
+    <script type="text/javascript" src="/media/scripts/csrf_init.js"></script>
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      messageStyle: "none",
+      displayAlign: "left",
+      displayIndent: "0em",
+      "HTML-CSS": {
+      styles: {
+      '.MathJax_Display': {
+      display: "inline"
+      }
+      }
+      }
+      });
+    </script>
+
+    <script type="text/javascript" src="/media/scripts/json2.js"></script>
+    <script type="text/javascript" src="/media/scripts/qsd.js"></script>
+    <script type="text/javascript" src="/media/scripts/jsprettify-all-latest.js"></script>
+    <script type="text/javascript"> window.jsprettify.run(); </script>
+    
+
+    
+
+    
+<!--[if lt IE 9]>
+<script src="/media/scripts/IE9.js"></script>
+<![endif]-->
+
+  </head>
+  
+  <body>
+    
+
+<div id="adminbar" class="admin hidden" style="position: fixed !important">
+  <div class="title" onclick="ESP.toggleDisplay('adminbar_content');">Admin Toolbar</div>
+  <div id="adminbar_content"></div>
+</div>
+<script type="text/javascript">
+var currentPrograms = [
+
+    {
+        urlBase: "Splash/2025",
+        name: "Splash 2025",
+        class_search: true
+    },
+
+]; 
+</script>
+<script type="text/javascript" src="/media/scripts/admin_bar.js"> </script>
+    <div id="page" class="tabcolor0">
+    <div id="tab_sidebar">
+      <ul id="menu">
+      <li id="tab_logo" class="tabcolor0" ><span class="accent">&nbsp;</span><a href="/"><img id="logo" alt="home" src="/media/images/theme/logo.png" /></a></li>
+      
+      
+      <li id="tab_1" class="tabcolor1" ><span class="accent">&nbsp;</span><a href="/teach/Splash/index.html">SPLASH</a></li>
+      
+      <li id="tab_2" class="tabcolor2" ><span class="accent">&nbsp;</span><a href="/teach/HSSP/index.html">HSSP</a></li>
+      
+      <li id="tab_3" class="tabcolor3" ><span class="accent">&nbsp;</span><a href="/teach/Cascade/index.html">CASCADE</a></li>
+      
+      <li id="tab_4" class="tabcolor4" ><span class="accent">&nbsp;</span><a href="/teach/logistics/index.html">LOGISTICS</a></li>
+      
+      
+      <li class="admin hidden tabcolor9" ><span class="accent">&nbsp;</span><a href="/manage/programs/">MANAGE</a></li>
+      <li class="unmorph hidden tabcolor9" ><span class="accent">&nbsp;</span><a href="/myesp/switchback/">UNMORPH</a><div id="unmorph_text" style="font-size: 0.7em; margin-left: 16px"></div></li>
+      </ul>
+  </div>
+  <div id="body">
+    <div class="corners"><div class="ul"></div><div class="ur"></div><div class="dl"></div><div class="dr"></div></div>
+    <div id="header">
+
+    <div id="cross_link">
+    
+    <span class="leftedge"><a href="/teach/index.html"></a></span><span class="teach"><a href="/teach/index.html">Teach</a></span>
+    
+    <span class="leftedge inactive"><a href="/learn/index.html"></a></span><span class="teach inactive"><a href="/learn/index.html">Learn</a></span>
+    
+    <span class="leftedge inactive"><a href="/volunteer/index.html"></a></span><span class="teach inactive"><a href="/volunteer/index.html">Volunteer</a></span>
+    
+    </div>
+      <div id="search_box">
+      <span class="leftedge"></span>
+	<form name="search_form" method="get" action="https://www.google.com/search">
+	 <input type='hidden' name='sitesearch' value='esp.mit.edu' />
+	  <input type="text" id="search_field" name="q" />
+	  <input type="hidden" id="search_submit" name="search_submit" value="" />
+      <input type="image" src="/media/images/theme/search-icon.png" />
+	</form>
+      </div>
+      <div id="contact_info">
+        <span class="title accentcolor">MIT Educational Studies Program</span>
+        <span class="normal">84 Massachusetts Avenue, Room W20-467<br />Cambridge, MA 02139</span>
+        <span class="normal">Email: <a href="mailto:esp@mit.edu">esp@mit.edu</a></span>
+        <span class="normal">
+          
+            <a href="/faq.html">FAQ</a> |
+          
+          <a href="/contact.html">contact us</a> | 
+	  <a href="/about/donate.html">donate</a>
+          
+            | <a href="https://www.instagram.com/mit_esp/">instagram</a>
+          
+          
+        </span>
+      </div>
+
+<div id="login_box">
+
+<!-- login -->
+<div class="not_logged_in">
+<form name="login_form" id="login_form" method="post" action="/myesp/login/">
+  <input type="hidden" name="next" value="/teach/teachers/halcyonn/bio.html" />
+  <input type="text" id="login_user" name="username" />
+  <input type="password" id="login_pswd" name="password" />
+  <span id="login_arrow1"></span>
+  <input type="submit" id="login_submit" name="login_submit" value="Log in" />
+  <span id="login_arrow2"></span>
+  <a href="/myesp/register" id="login_signup">Sign up</a>
+  <a href="/myesp/loginhelp.html" id="login_help">need help?</a>
+</form>
+</div>
+<div class="logged_in hidden">
+  <div id="loginbox_user_name">
+    <span id="user_first_name"></span> <span id="user_last_name"></span>
+    <br />
+    <span id="user_data">
+        <span id="user_username"></span> / <span id="user_userid"></span>
+    </span>
+</div>
+
+  <span class="accentcolor"><a href="/myesp/signout/">Logout</a> | <a href="/myesp/accountmanage.html">My Profile</a></span>
+</div>
+
+</div>
+
+    </div>
+    <div id="page_main">
+      <div class="corners"><div class="ul"></div><div class="ur"></div><div class="dl"></div><div class="dr"></div></div>
+
+<div id="content_header">
+<div class="corners"><div class="ul"></div><div class="ur"></div></div>
+
+<h1 class="title">&nbsp;</h1>
+
+</div>
+
+
+
+
+
+
+
+
+      <div id="content">
+          
+
+<h1 style="font-size: 120%;">ESP Biography</h1>
+
+
+<br /><br />
+<h2>UZAY GIRIT, ESP Teacher</h2>
+<hr />
+
+
+<br />
+<br />
+<table cellspacing=0 cellpadding="5" border="0">
+<tr>
+  <td width="300">
+  <strong>Major:</strong> Not available. <br /><br />
+  <strong>College/Employer:</strong> MIT <br /><br />
+  <strong>Year of Graduation:</strong> 2026 <br /><br />
+
+  </td>
+  <td>
+   <img src="/media/images/not-available.jpg" title="Picture of Uzay Girit"  
+        alt="Picture of Uzay Girit" align="right" class="biophoto" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+  <h2>Brief Biographical Sketch:</h2>
+  <p>
+    <p>Not Available.</p>
+  </p>
+  <br />
+  <br />
+  <h2>Past Classes</h2> &nbsp;
+  <span>(Clicking a class title will bring you to the course's section of the corresponding course catalog)</span>
+  <br />
+  <br />
+  
+
+  
+
+  
+  <a href="/learn/Splash/2023/catalog#class_15766"  style="color: #000000">M15766: Groups with grapes</a> in Splash 2023 (Nov. 18 - 19, 2023)
+<br />
+<div style="font-size: 80%; font-style: italic; margin: 0 0 0 20px;">
+Speed through the intuitions and framework of basic group theory. Dive into the nature of symmetry to learn about why these objects are ubiquitous in the world of math, relating things you wouldn&#39;t expect to be related. There will be fun with groups, with grapes, and with you!
+</div>
+<br /><br />
+  
+  <a href="/learn/Splash/2022/catalog#class_15412"  style="color: #000000">M15412: Game theory</a> in Splash 2022 (Nov. 19 - 20, 2022)
+<br />
+<div style="font-size: 80%; font-style: italic; margin: 0 0 0 20px;">
+How do games work? What in life can be formalized as a mathematical &quot;game&quot;? An interactive class relating the language of mathematics, rationality and game theory.
+</div>
+<br /><br />
+  
+
+ 
+  
+  
+  
+  </td>
+  
+</tr>
+</table>
+
+
+      </div>
+      <!--[if lte IE 6]>
+      <div id="ie6_warning">
+<p>You're using a really old Web browser!  This site will look a lot better if you <a href="http://www.microsoft.com/windows/internet-explorer/">upgrade</a>.</p>
+      </div>
+      <![endif]-->
+      
+      
+      
+    </div>
+    <div id="footer">
+      &copy; MIT Educational Studies Program, 2025
+      <br />
+      <a href="/privacy-policy.html" target="_blank">Privacy Policy</a>
+    </div>
+  </div>
+</div>
+
+
+
+    
+
+    
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/google-code-prettify/prettify.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-transition.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-alert.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-modal.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-scrollspy.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-tab.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-tooltip.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-popover.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-button.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-collapse.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-carousel.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/bootstrap-typeahead.js"></script>
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/application.js"></script>
+    
+    <script src="/media/scripts/nav.js" type="text/javascript"></script>
+
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://esp-piwik.mit.edu/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://esp-piwik.mit.edu/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+    
+  </body>
+</html>
+

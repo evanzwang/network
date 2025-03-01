@@ -1,0 +1,16 @@
+        [Aadit Juneja](/)
+              [Home](/)
+              [About](/about/)
+        2025
+          February 25, 2025
+          [A Distributed Inference Engine for SmolLM with Rust and gRPC](/2025/02/25/Rust-gRPC-Inference-Engine/)
+          January 01, 2025
+          [RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models](/2025/01/01/RL-For-Inference-Acceleration/)
+        2024
+          December 24, 2024
+          [Frequency Based Constrained Decoding for Language Model Watermarks](/2024/12/24/Constrained-Decoding-For-LM-Watermarks/)
+          December 18, 2024
+          [Agent for Seamless Meeting Scheduling](/2024/12/18/Seamless-Meeting-Scheduling/)
+          November 22, 2024
+          [Tempus AI Short Recommendation](/2024/11/22/Tempus-AI-Short/)
+  JS for Bootstrap

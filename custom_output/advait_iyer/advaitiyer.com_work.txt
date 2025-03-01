@@ -1,0 +1,41 @@
+      [Advait Iyer](/)
+      | Work
+          [Aethero](https://aethero.com)
+          -> Hardware Engineer
+        Helped build space-rated edge AI computers.
+          [University of Michigan](https://umich.edu)
+          ->
+          [Computer Architecture](https://www.eecs.umich.edu/courses/eecs470/)
+          TA
+        Taught lab sections on hardware design using SystemVerilog.
+        Helped students design a synthesizable out of order RISC-V processor for the Pentium6 and MIPS R10K register renaming styles.
+        Developed a Piazza addiction.
+          [Tesla](https://tesla.com)
+          -> Software Engineering Intern
+        Wrote a performance monitoring library for the infotainment system.
+        Developed the new weather feature for the 2024 summer release. Also made telemetry improvements.
+        Continued my education in technology brotherhood at the heart of Silicon Valley.
+          -> Research Assistant, CE Lab
+        Worked on GPU acceleration for heterogeneous LLM/DB workloads. Accepted to VLDB 2025.
+        Realised I don’t have the patience for a PhD.
+        Worked on the revamped on-screen PRND gear slider for the 2024 Model 3 released in Europe and China.
+        Developed navigation and controls features for summer and holiday releases.
+        Enjoyed rides in the Cybertruck and new Model 3; somehow survived the BART and Caltrain as well.
+          [Logic Design](https://ece.engin.umich.edu/academics/course-information/course-descriptions/eecs-270/)
+        Co-created and maintained the course’s RTL DV platform.
+        Deployed on autograder.io using Docker and used by every computer engineering student (~300/sem).
+        Led a lab section on FPGA prototyping using Verilog (Modelsim for simulation, Quartus Prime for synthesis/PnR/STA for Altera DE2-115 boards).
+        Evaluations indicated students didn’t hate me.
+          [MARA Holdings](https://www.mara.com/)
+          -> Engineering Intern
+        Optimised merged mining protocols, deployed nodes on AWS EC2 instances for testing.
+        Was not paid in Bitcoin.
+          [Zepto](https://zeptonow.com)
+          (FKA KiranaKart) -> Ops/Growth/Engineering
+        Startup was just getting off the ground—did a bunch of random engineering and growth stuff.
+        Also answered customer support calls and made deliveries on occasion.
+      [Writing](/writing)
+      •
+      [Projects](/projects)
+      [Quotes](/quotes)
+      [Work](/work)

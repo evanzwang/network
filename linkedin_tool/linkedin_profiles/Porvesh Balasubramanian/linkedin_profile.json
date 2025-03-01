@@ -1,0 +1,428 @@
+[
+  {
+    "fullName": "Porvesh Balasubramanian",
+    "linkedin_internal_id": "936624281",
+    "first_name": "Porvesh",
+    "last_name": "Balasubramanian",
+    "public_identifier": "porvesh-balasubramanian",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQF-oRvVIfMO7Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1657813827508?e=2147483647&v=beta&t=2s_RPlJtPYEHCd2PBmNIilT-XMeIwXOVrmYOh1OMm9E",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGi8Z-OXC7sBQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710792007259?e=2147483647&v=beta&t=-W6iHmvurMW952fsvoEcfmDnQhIv7IaxGPq1y_LGrlw",
+    "headline": "Founding Engineer @ Bronco AI",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "followers": "Issued Feb 2022",
+    "connections": "Issued Feb 2022",
+    "about": "A fourth-year Computer science student interested in systems, robotics, and mathematics. Feel free to email me at porveshb@umich.edu",
+    "experience": [
+      {
+        "position": "Founding Engineer",
+        "company_url": "https://www.linkedin.com/company/bronco-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEg56GSDfAA6g/company-logo_100_100/company-logo_100_100/0/1731355518228/bronco_ai_logo?e=2147483647&v=beta&t=VWjzG96BgaRCG8BtaDj8S2MwyAkN4bGq_vGPNCTmlvk",
+        "company_name": "Bronco AI",
+        "location": "San Francisco, California, United States",
+        "summary": "Building AI agents for chip design and verification",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Robotics Research Assistant - Real Time Computing Lab",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_100_100/company-logo_100_100/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=2147483647&v=beta&t=8J27xXQiT6lATjThmak1lJ4L7Z2KplU3tnLHshIYP4o",
+        "company_name": "University of Michigan College of Engineering",
+        "location": null,
+        "summary": "Built, controlled and raced the F1Tenth autonomous vehicle.",
+        "starts_at": "Apr 2024",
+        "ends_at": "Jan 2025",
+        "duration": "10 months"
+      },
+      {
+        "position": "Program Assitant - BIRDS Lab",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_100_100/company-logo_100_100/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=2147483647&v=beta&t=8J27xXQiT6lATjThmak1lJ4L7Z2KplU3tnLHshIYP4o",
+        "company_name": "University of Michigan College of Engineering",
+        "location": null,
+        "summary": "Recruited, scheduled and engaged participants for a research study.Set up study sessions, and technical equipments.",
+        "starts_at": "Aug 2024",
+        "ends_at": "Dec 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Grader",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_100_100/company-logo_100_100/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=2147483647&v=beta&t=8J27xXQiT6lATjThmak1lJ4L7Z2KplU3tnLHshIYP4o",
+        "company_name": "University of Michigan College of Engineering",
+        "location": null,
+        "summary": "EECS 373 - Embedded Systems & EECS 498 - Adv Data Structures",
+        "starts_at": "Aug 2024",
+        "ends_at": "Dec 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Distributed Systems Research Assistant - OrderLab",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_100_100/company-logo_100_100/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=2147483647&v=beta&t=8J27xXQiT6lATjThmak1lJ4L7Z2KplU3tnLHshIYP4o",
+        "company_name": "University of Michigan College of Engineering",
+        "location": null,
+        "summary": "Worked on OathKeeper, a tool used to validate distributed systems to detect and enforce essential semantic rules at\nruntime for preventing silent semantic violations and maintaining system correctness.",
+        "starts_at": "May 2024",
+        "ends_at": "Sep 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Engineering Center Tutor",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_100_100/company-logo_100_100/0/1631307390795?e=2147483647&v=beta&t=biUbAvMst70Isp55XPAhKXb27SbtHxroKABNHOf3Y18",
+        "company_name": "University of Michigan",
+        "location": null,
+        "summary": "1 on 1 Tutoring for Upper-Level EECS Classes",
+        "starts_at": "Aug 2023",
+        "ends_at": "Dec 2024",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "Study Group Leader",
+        "company_url": "https://www.linkedin.com/company/michigan-research-and-discovery-scholars?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQG30koYO-4OTg/company-logo_100_100/company-logo_100_100/0/1630581521897/michigan_research_and_discovery_scholars_logo?e=2147483647&v=beta&t=9wSqQMYsFhhxjtoCHAy5YILopYxXfw3ZLnxA9dxYHx8",
+        "company_name": "Michigan Research and Discovery Scholars",
+        "location": null,
+        "summary": "EECS 280 - Intro Data Structures and AlgorithmsConducted in-person and virtual office hours, helping students in code debugging, reinforcing course concepts, and nurturing their programming skills",
+        "starts_at": "Aug 2023",
+        "ends_at": "Dec 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "Mission System Software Intern",
+        "company_url": "https://www.linkedin.com/company/northrop-grumman-corporation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFnJf3Nn259IA/company-logo_100_100/company-logo_100_100/0/1630610111160/northrop_grumman_corporation_logo?e=2147483647&v=beta&t=K8pfKECf7OSDUwyHLawBryuZsVQ0rLy8IDfwML15vKg",
+        "company_name": "Northrop Grumman",
+        "location": null,
+        "summary": "PXE BootingAutomated the Boot Image Generation, reducing the time from 5 weeks to 3 minutes.Ensured seamless booting of the desired linux operating system.",
+        "starts_at": "Jun 2023",
+        "ends_at": "Aug 2023",
+        "duration": "3 months"
+      },
+      {
+        "position": "Business Analyst",
+        "company_url": "https://www.linkedin.com/company/propel-impact-consulting-group?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHJmSrMEC7yVg/company-logo_100_100/company-logo_100_100/0/1736967849805/propel_impact_consulting_group_logo?e=2147483647&v=beta&t=Xpczdg874hmtjViO1IcFFNl-m_Hb5XXwb0tcipvXwmY",
+        "company_name": "Propel Business Club",
+        "location": null,
+        "summary": "Consulting",
+        "starts_at": "Aug 2022",
+        "ends_at": "Apr 2023",
+        "duration": "9 months"
+      },
+      {
+        "position": "Student Coach",
+        "company_url": "https://www.linkedin.com/school/umichece/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQExsxT8miKZ_Q/company-logo_100_100/company-logo_100_100/0/1630636559911?e=2147483647&v=beta&t=21B9SsE-9jOKOxGonJS9Bke9_HNvUaq0dZR1NfTftwQ",
+        "company_name": "Electrical and Computer Engineering at the University of Michigan",
+        "location": null,
+        "summary": "Contributed to develop weekly lesson plans in Python for Pathbird, a platform targeted at high school students without prior experience in coding and Computer Science.Taught Python to over 1500 students from all over the world.",
+        "starts_at": "May 2022",
+        "ends_at": "Sep 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Software Intern",
+        "company_url": "https://uk.linkedin.com/company/dealsplus?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHwbehtpWP00w/company-logo_100_100/company-logo_100_100/0/1661865783813/dealsplus_logo?e=2147483647&v=beta&t=OWACf_VnG8adUuvqSuTZ-2gJDxFXU1oObKG5-AA5VEI",
+        "company_name": "DealsPlus",
+        "location": null,
+        "summary": "Fullstack DevRevamped user experience by designing and implementing a Flask-based backend for the website.Implemented impactful visual changes using Quasar Framework.",
+        "starts_at": "May 2022",
+        "ends_at": "Aug 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Undergraduate Research Assistant",
+        "company_url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_100_100/company-logo_100_100/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=2147483647&v=beta&t=8J27xXQiT6lATjThmak1lJ4L7Z2KplU3tnLHshIYP4o",
+        "company_name": "University of Michigan College of Engineering",
+        "location": null,
+        "summary": "Adept Lab at UC BerkeleyWorked on UCLID5 - an integrated modeling, verification and synthesis tool.",
+        "starts_at": "Apr 2022",
+        "ends_at": "Aug 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Undergraduate Research Assistant",
+        "company_url": "https://www.linkedin.com/school/michiganross/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQEhm6CxadhHZg/company-logo_100_100/company-logo_100_100/0/1630561313753/university_of_michigan_stephen_m_ross_school_of_business_logo?e=2147483647&v=beta&t=gzwkvXMyU66Sl2f67gpaaAvb3w0ZSCnGs_bkKArxGNE",
+        "company_name": "University of Michigan - Stephen M. Ross School of Business",
+        "location": "Ann Arbor, Michigan, United States",
+        "summary": "Follow the Leader? Rethinking Leadership and Hierarchy in the WorkplaceConducted and coded interviews of individuals working in the gig economy and compared them with individuals working in traditional organizations to investigate relational and social challenges.Conducted literature review of top 20 journals to examine the intersection of leadership and communication.",
+        "starts_at": "Aug 2021",
+        "ends_at": "Apr 2022",
+        "duration": "9 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-michigan/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Michigan",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_100_100/company-logo_100_100/0/1631307390795?e=2147483647&v=beta&t=biUbAvMst70Isp55XPAhKXb27SbtHxroKABNHOf3Y18",
+        "college_degree": "Bachelor of Engineering - BE, Computer Science",
+        "college_degree_field": "3.8/4.0",
+        "college_duration": "2021 - 2025",
+        "college_activity": ""
+      },
+      {
+        "college_name": "Sri Sankara Senior Secondary School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "Majored in Computer Science",
+        "college_degree_field": "94%",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_name": "St. Johns Universal School, Chennai",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "94%",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Bronco AI",
+      "description1_link": "https://www.linkedin.com/company/bronco-ai?trk=public_profile_topcard-current-company",
+      "description2": "University of Michigan",
+      "description2_link": "https://www.linkedin.com/school/university-of-michigan/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fporvesh%2Egithub%2Eio%2F&urlhash=Kk9K&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/kunal-mans_after-the-incredible-response-to-our-launch-activity-7301314902814523393-Vz9-",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQGGGys51vS7gQ/feedshare-thumbnail_720_1280/B4EZVN7L1qGwBA-/0/1740769117224?e=2147483647&v=beta&t=UKS5mmKDS18WW9LCvhhWCglTiNUmZTYMDnFLSMQngxE",
+        "title": "After the incredible response to our launch of LeetGPU Playground, Ishaan Arya and I have just shipped something we think all you GPU programming and\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/tawseef-rahman_im-pleased-to-announce-that-i-have-accepted-activity-7301107186410127362-9EeH",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQGGSketKY0bRA/feedshare-shrink_800/B4DZVK.TDiGcAk-/0/1740719600410?e=2147483647&v=beta&t=A3WWCYP0eZpY1yh5bh0wOvAtdJfm0gRyilZ6xtHlxJg",
+        "title": "I'm pleased to announce that I have accepted an offer to join BorgWarner as a Software Engineer Intern for the summer of 2025!\n\nI'm incredibly\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jason-salt_palantir-activity-7300936689818972160-rCIc",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGU038LlHIZGg/feedshare-shrink_800/B56ZVIjO5YGoAg-/0/1740678951027?e=2147483647&v=beta&t=fMonObEvtwqal5AVP4Sz0YtkYAS5l9tX1kDb_SwNfJY",
+        "title": "\"If you work for Palantir, everyone knows you're good.\"\n\nEvery CEO wants to think they have the best team. Palantir CEO, Alex Karp, knows he has the\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/emiliano-bonilla-8a0a95187_were-releasing-a-built-in-control-sequence-activity-7300964585258246145-Lebb",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQF-GSknxli0tg/videocover-high/B4EZVI8kHeHgBs-/0/1740685596800?e=2147483647&v=beta&t=o8dRGzaZm4TNkyNdyvConJBu9UMixgVAQWu2PGKap2k",
+        "title": "We're releasing a built-in control sequence editor in the Synnax console. Write and run precisely timed loops on real-time targets from the same\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jiachew_teslaintern2025-activity-7295206008807731201-NBAy",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHIEHcH_fL6YA/feedshare-shrink_1280/B56ZT3HNFJGUAo-/0/1739312649662?e=2147483647&v=beta&t=qEsxyhflot3H2MKZaVoLezxtBZBG_UBPX7zdWwvZ9S4",
+        "title": "I am excited to announce that I will be joining Tesla this May as an Embedded Software Engineering Intern in Palo Alto!\n\nA huge thanks Teresa W. for\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/advaitpaliwal_friday-has-raised-a-2m-seed-round-email-activity-7295486822908936194-8CbT",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEybv3irYlpLA/feedshare-shrink_800/B4DZT4swfHHkAg-/0/1739339270825?e=2147483647&v=beta&t=p71H3-Z2LaTiJE1vK_uBzO6dUzF6utL3QCEmP-CHodQ",
+        "title": "Friday has raised a $2M seed round.\n\nEmail can be something you love \u2764\ufe0f\n\nComing this Valentine\u2019s Day\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kishansripada_just-used-1954-in-claude-37-extended-thinking-activity-7301015775572606977-A1bO",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHcLOpqUI-qSw/feedshare-shrink_800/B56ZVJrKgOGUAg-/0/1740697807209?e=2147483647&v=beta&t=dBcP2Qk9oe1oJj7OD19S0x4FKKWocdUdeDQayVT5sH4",
+        "title": "just used $19.54 in claude 3.7 extended thinking credits to build something in 1 hour that would have taken me 10s of hours pre-ai\n\nan ai email\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/global-business-summit_gbs2025-etnowgbs2025-globalbusinesssummit-activity-7295353843276550145-eI9w",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQH617OX-Psw0g/feedshare-shrink_800/B4DZT5NpmaHYAk-/0/1739347895973?e=2147483647&v=beta&t=9kqGIqd7ssBDPFsOj-3G1eHvUvi1dRqhiw8tJ4TmKOM",
+        "title": "Siddharth Bhatia Co-Founder & CEO of TurboML, is at the forefront of real-time AI innovation, building on his groundbreaking Ph.D. research published\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/university-of-michigan_signs-of-spring-activity-7300234366708785153-8k59",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGKbKM8hbv7XQ/feedshare-shrink_800/B56ZU.kb56HsAk-/0/1740511501603?e=2147483647&v=beta&t=cgvqdIAbuGUme9uGaS6ttpNIYtkw9JUdhIJzDvcQ3Z0",
+        "title": "Signs of spring \u2600\ufe0f\u303d\ufe0f",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bhatia-siddharth_when-the-legend-nods-you-know-youre-onto-activity-7300372662533402625-54yl",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQELD4PpZYkwTw/feedshare-shrink_1280/B56ZVAiP9tHoAk-/0/1740544475977?e=2147483647&v=beta&t=vc_R5GTUP0ksbivo_5Jl_6RZB5_SllE5beekqdrSAKo",
+        "title": "When the legend nods, you know you're onto something big! \ud83d\ude80",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/greg-feingold-3a890a91_today-we-shared-a-first-look-at-the-next-activity-7299898620651130880-26L8",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGCiOE9858Kfw/videocover-high/B56ZU5zD1rGUBs-/0/1740431451875?e=2147483647&v=beta&t=ortYtoqR0GlEahnsagOZyGAFg0Nv3eG8Nmwamcc4J5M",
+        "title": "Today we shared a first look at the next product from Perplexity: Comet, a web browser built for agentic search.\n\nWe're looking forward to revealing\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/im-hiring-for-2-full-stack-sdes-in-seattle-activity-7299972673156132865-aeMk",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "I'm hiring for 2(!) full stack SDEs in Seattle. The application link is no longer posted publicly but I can still get a few candidates into the\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/michaelm244_we-just-announced-our-series-b-on-the-heels-activity-7299835036441206786-zekE",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHCipcB9MGz9A/feedshare-shrink_800/B4DZU45LVIHYAs-/0/1740416296088?e=2147483647&v=beta&t=PQvADt_sCPGSa11eNP0jXdKfjzfoMQCR0FezzjDXv1k",
+        "title": "We just announced our Series B on the heels of record-setting growth, going from zero to 8-figures ARR\u00a0within three years of founding. We're now\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/detweiler_investing-in-mercor-felicis-activity-7298391653118066688-hX3X",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQGeH3laLpNrhQ/articleshare-shrink_800/articleshare-shrink_800/0/1740068695132?e=2147483647&v=beta&t=xAVph6jVhkqqVtPB1Abf9G253SAxVJraQhXSlVTJDS8",
+        "title": "The easiest decision of my life was marrying my wife.\n\nThe second was investing in Mercor.\n\nSundeep and I are thrilled to be leading their Series B\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sriram-krishnamurthy-50859212_the-womens-section-flying-high-at-super-activity-7292889483325161472-aytG",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHhgC0usb1cGQ/feedshare-shrink_2048_1536/B56ZTWMOlSGsAo-/0/1738760334514?e=2147483647&v=beta&t=FqU0cg-aC9NiSyZiLK3K9IX_N0sK6U2zQaP2bMjBq08",
+        "title": "The women's section flying high at Super Kings Academy Chennai Super Kings Cricket Limited to start off the year 2025\n\nU19 women's world cup winner -\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/zichen-zhang-charlie_eecs-482-midterm-notes-notion-activity-7298564369313906688-rSNU",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQGkGEB_RBmrpg/articleshare-shrink_800/articleshare-shrink_800/0/1740113189094?e=2147483647&v=beta&t=bw6ySrQcXe_1HOh3cZzr7UGaPFgimlq2yOl1g9BEbII",
+        "title": "For those who are taking EECS 482 Operating Sys this semester, I compiled my notes: https://lnkd.in/gDN-ECF6. \n\nBasically general programming\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/we-are-hiring-cursor-managers-these-are-activity-7298871210090672128-min4",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "We are hiring Cursor Managers\n\n\nThese are roughly the skills we are looking for\n\n- Empathy towards Cursor\n- Ability to talk to Cursor all night   \n-\u2026",
+        "activity": "Liked by Porvesh Balasubramanian"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_position": "Teaching Volunteer",
+        "company_name": "Wisdom of Words",
+        "company_duration": "",
+        "starts_at": "Aug 2017",
+        "ends_at": "Aug 2019"
+      },
+      {
+        "company_url": "https://in.linkedin.com/company/sankaraeyefoundation?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Fundraising Volunteer",
+        "company_name": "Sankara Eye Foundation , India",
+        "company_duration": "",
+        "starts_at": "Jan 2019",
+        "ends_at": "Apr 2019"
+      },
+      {
+        "company_position": "Fundraising Coordinator",
+        "company_name": "Sri Sankara Senior Secondary School",
+        "company_duration": "",
+        "starts_at": "Feb 2020",
+        "ends_at": "Apr 2020"
+      },
+      {
+        "company_url": "https://in.linkedin.com/company/nammaooru?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Volunteer",
+        "company_name": "Namma Ooru Foundation",
+        "company_duration": "",
+        "starts_at": "Jun 2020",
+        "ends_at": "May 2021"
+      }
+    ],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Feb 2022",
+        "credential_id": "See credential",
+        "credential_url": "https://www.udemy.com/certificate/UC-682a6056-783f-4c15-b6da-fa05e8ca6000/?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "Data Visualization in Python Masterclass\u2122: Beginners to Pro",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.udemy.com/certificate/UC-8624cb26-00d1-4fbd-9721-c05f7b4bfed3/?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=aHl55JZmApxMr1IUyZ8nHvqhyeYIqBPC136YCXMufm0",
+        "certification": "Machine Learning - Stanford University",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jun 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/PLWPBUQHDLZE?trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Algorithms"
+      },
+      {
+        "name": "Computer Architecture"
+      },
+      {
+        "name": "Computer Networks"
+      },
+      {
+        "name": "Deep Learning"
+      },
+      {
+        "name": "Distributed Systems (Winter 2025)"
+      },
+      {
+        "name": "Embedded Systems"
+      },
+      {
+        "name": "Game Engine Architecture"
+      },
+      {
+        "name": "Mobile Robotics (Winter 2025)"
+      },
+      {
+        "name": "Operating Systems"
+      },
+      {
+        "name": "Robot Learning, Planning & Controls"
+      },
+      {
+        "name": "Robot Operating Systems"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Tamil",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Dean's Honor List",
+        "organization": "College of Engineering",
+        "duration": "Dec 2024",
+        "summary": "Every semester for 4 years."
+      },
+      {
+        "name": "Black Belt, Wado-ryu Martial Arts",
+        "organization": "-",
+        "duration": "",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

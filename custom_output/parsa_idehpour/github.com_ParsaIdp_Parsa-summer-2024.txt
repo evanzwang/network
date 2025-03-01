@@ -1,0 +1,174 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2FParsaIdp%2FParsa-summer-2024)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ParsaIdp%2FParsa-summer-2024)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                    [ParsaIdp](/ParsaIdp)
+                  /
+                    [Parsa-summer-2024](/ParsaIdp/Parsa-summer-2024)
+                  Public
+                    You must be signed in to change notification settings
+                      0
+                        Star
+                        2
+                Parsa Idehpour work in LyRl
+                    stars
+                    forks
+                    Branches
+                    Tags
+                    Activity
+                    Code
+                    Pull requests
+                    Projects
+                    Insights
+                    Additional navigation options
+              ParsaIdp/Parsa-summer-2024
+                                    $
+                                    /$
+                                        Go to file
+                                Folders and files
+                                          Last commit message
+                                          Last commit date
+                                          Latest commit
+                                              History
+                                                    9 Commits
+                                                [README.md](/ParsaIdp/Parsa-summer-2024/blob/main/README.md)
+                                                [bpac.py](/ParsaIdp/Parsa-summer-2024/blob/main/bpac.py)
+                                                [kfac.py](/ParsaIdp/Parsa-summer-2024/blob/main/kfac.py)
+                                                [model.py](/ParsaIdp/Parsa-summer-2024/blob/main/model.py)
+                                          View all files
+                                    Repository files navigation
+                                            README
+                                        Parsa Summer 2024
+                                        My work in LyRL
+                                        1.
+                                          Purpose
+                                          : Implements the method outlined in the
+                                          [referenced paper](https://arxiv.org/abs/1703.11008)
+                                          to compute PAC-Bayes bounds.
+                                          Model
+                                          : Applies to a 2-layer fully connected neural network.
+                                          Dataset
+                                          : Trained on the MNIST dataset.
+                                        2.
+                                          : Trains a 2-layer fully connected neural network.
+                                          : Implements the results of the paper
+                                          [does the data induce capacity control in deep learning](https://arxiv.org/abs/2110.14163)
+                              About
+                              Stars
+                              Watchers
+                                  1
+                                  watching
+                              Forks
+                                [Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FParsaIdp%2FParsa-summer-2024&report=ParsaIdp+%28user%29)
+                              [Releases](/ParsaIdp/Parsa-summer-2024/releases)
+                            No releases published
+                              [Packages](/users/ParsaIdp/packages?repo_name=Parsa-summer-2024)
+                            No packages published
+                            Languages
+                                  Python
+                                  100.0%
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

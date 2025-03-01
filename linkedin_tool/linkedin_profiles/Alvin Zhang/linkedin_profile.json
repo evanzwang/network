@@ -1,0 +1,300 @@
+[
+  {
+    "fullName": "Alvin Zhang",
+    "linkedin_internal_id": "1171747745",
+    "first_name": "Alvin",
+    "last_name": "Zhang",
+    "public_identifier": "zhangalv",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGR-LGMvC8sow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730348155423?e=2147483647&v=beta&t=aPQpdFhMYP1H44PDEEeFUWC6TCbkolyD_6S20QikdAI",
+    "headline": "Electrical Engineering + CS @ Caltech",
+    "location": "322 followers\n          \n          \n              320 connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Venture Fellow",
+        "company_url": "https://www.linkedin.com/company/new-era-vc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFOlxpbuUvgRA/company-logo_100_100/company-logo_100_100/0/1684353595187?e=2147483647&v=beta&t=OHe9c6PN5ctSCDODKx71xYN-QhAgnhcffXaSnX3kfXA",
+        "company_name": "New Era Ventures",
+        "location": null,
+        "summary": "Investing at the early-stage | zhangalv@neweraventures.com",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Event Organizer",
+        "company_url": "https://www.linkedin.com/company/hacktech?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGFI-bx72Kfdw/company-logo_100_100/company-logo_100_100/0/1724987355237/hacktech_logo?e=2147483647&v=beta&t=fL_YyvNpcjPDhV-_XQtw8JVuUYn8FnEwmDmWbtWD4hA",
+        "company_name": "Hacktech",
+        "location": null,
+        "summary": "Logistics and sourcing sponsorships for Caltech's annual hackathon",
+        "starts_at": "Sep 2024",
+        "ends_at": "Present",
+        "duration": "7 months"
+      },
+      {
+        "position": "Machine Learning Researcher",
+        "company_url": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "Caltech",
+        "location": null,
+        "summary": "Enhancing LLM agents",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Researcher",
+        "company_url": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "Caltech",
+        "location": null,
+        "summary": "Long-range statistical mechanics models and simulations. Mentored by Prof. Tom Hutchcroft",
+        "starts_at": "Nov 2024",
+        "ends_at": "Feb 2025",
+        "duration": "4 months"
+      },
+      {
+        "position": "Avionics Engineer",
+        "company_url": "https://www.linkedin.com/company/parsec-caltech-rocketry?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGQbAgTWOM9ng/company-logo_100_100/company-logo_100_100/0/1707163809035?e=2147483647&v=beta&t=mfGYUCTkvGckaS4fXd3BGzAuDk0I6Un05-UR1h7JqCc",
+        "company_name": "PARSEC - Caltech Rocketry",
+        "location": null,
+        "summary": "Hardware + software implementing rocket communication protocols",
+        "starts_at": "Oct 2024",
+        "ends_at": "Feb 2025",
+        "duration": "5 months"
+      },
+      {
+        "position": "Undergraduate Fellow",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Caltech AI Alignment (CAIA) Machine Learning Fellowship",
+        "location": null,
+        "summary": "Collaboration + discussion on novel AI research",
+        "starts_at": "Oct 2024",
+        "ends_at": "Dec 2024",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Caltech",
+        "college_image": "https://media.licdn.com/dms/image/v2/C510BAQFCGqEmSwrc4w/company-logo_100_100/company-logo_100_100/0/1631338994369?e=2147483647&v=beta&t=c9UlAx6IJwmjpR9EGoLUCmZJO7WiBgPNVrZw-N5Pmow",
+        "college_degree": "BS",
+        "college_degree_field": "Electrical Engineering + Computer Science",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/lakeside-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Lakeside School",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGFmOQmzpxg9A/company-logo_100_100/company-logo_100_100/0/1683732883164/lakeside_school_logo?e=2147483647&v=beta&t=EmadOLH7MckKZvCCrgmAOikCRtzVRtqqN4PJi35CNyo",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2020 - 2024",
+        "college_activity": "Co-President/Co-Founder: Computer Science Club - organized + directed club eventsVarsity Swim"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "New Era Ventures",
+      "description1_link": "https://www.linkedin.com/company/new-era-vc?trk=public_profile_topcard-current-company",
+      "description2": "Caltech",
+      "description2_link": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/techcrunch_techcrunch-technews-artificialintelligence-activity-7298419153177128962-LtE7",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQHqR3YCGzqbMQ/image-shrink_1280/B56ZUkxjF2GQAM-/0/1740078723881?e=2147483647&v=beta&t=scp4XTRkVOTzjy17CaRLzE4xT8LLl3YN9F5wYMvLYmA",
+        "title": "Mercor, the AI recruiting startup founded by three 21-year-old Thiel Fellows, has raised $100 million in a Series B round, the company confirmed to\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/togethercomputer_today-were-announcing-our-305m-series-activity-7298375921277800450-Jvjs",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF96zDbadE9eA/feedshare-shrink_800/B56ZUkKOZgGsAg-/0/1740068415602?e=2147483647&v=beta&t=qtqxwns_EujdoiUpQtwTeYQ0DMQEwkreC6UN9qB-cuo",
+        "title": "\ud83d\udce3 Today we're announcing our $305M Series B funding led by General Catalyst and co-led by Prosperity7 Ventures, with participation from a\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/alex-lieberman_i-spoke-to-a-serial-entrepreneur-yesterday-activity-7298107385959645184-OJsv",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "i spoke to a serial entrepreneur yesterday who started 3 unicorns. \n\nhe's building yet another business, so i asked him why he just keeps going. \n\nhe\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cristian-ponce5_autonomous-discovery-namely-in-materials-activity-7298054446024916993-PtTI",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Autonomous discovery (namely in materials and the life sciences) has been a quiet space. Ross King kicked off Adam & Eve in 1999, and it isn't until\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mike-raab_one-of-the-less-discussed-behaviors-of-successful-activity-7295511481901584384-4Dgs",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "One of the less discussed behaviors of successful founders in my experience is intellectual honesty. \n\nParticularly in the earliest stages, being\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/molly-fowler_one-of-the-most-unexpected-outcomes-of-dorm-activity-7285706240679182336-WUOJ",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFOBxT43_F3ug/feedshare-shrink_800/B4EZRwHNuuHAAg-/0/1737047728441?e=2147483647&v=beta&t=0AvY6CtPoZbryZq2DKaj7E4_eNpCuR9-E8wPZ7I6G8I",
+        "title": "One of the most unexpected outcomes of Dorm Room Fund has been just how powerful the alumni of our investing program have become to the longevity of\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/navvye-anand_caltech-accepts-less-than-300-people-yearly-activity-7285055706125234178-JpR-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHIHHcCg8cpiw/feedshare-shrink_800/B56ZRm3QQuH0Ag-/0/1736892548479?e=2147483647&v=beta&t=6jm8Aiyr50cIHGWoFUgRwF7grmMDrBj_KtAullZ2ooA",
+        "title": "Caltech accepts less than 300 people yearly...\n\nI paused my journey at Caltech and took a leap to build Bindwell\u2014an AI platform for pesticide R&D\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/getresults_my-deepest-respect-and-admiration-for-the-activity-7282648997356347392-99TK",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFIDhqs_21ZKw/feedshare-shrink_800/B56ZREqq8xGsAg-/0/1736318825225?e=2147483647&v=beta&t=KY1spRQCv5fNtg396ruxGbJWWL7W6kPBDZ6v_RTwhAQ",
+        "title": "My deepest respect and admiration for the firefighters on the front lines tonight battling these LA fires\u2026they are superheroes with helmets.",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/konstantinebuhler_if-the-next-decade-has-trillions-of-opportunity-activity-7283900197825363968-M67u",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGleS4lbiSsNQ/feedshare-shrink_800/B56ZRWcoSBHoAg-/0/1736617134542?e=2147483647&v=beta&t=RTrAPe2WDNY4HTD1GIB6mKzp2x29FIwsaXeCQRWyA4U",
+        "title": "If the next decade has trillions of opportunity in \"physical AI\" here are some less-obvious companies types that will benefit: \n-Robotics software /\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aravind-srinivas-16051987_i-am-looking-to-recruit-someone-to-work-together-activity-7283706097234784256-wJA-",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "I am looking to recruit someone to work together on growing Perplexity in India.  It will be fun and intense. You must be based in India and willing\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cartesia-ai_were-excited-to-officially-welcome-darius-activity-7274486661625823233-EYtP",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "We're excited to officially welcome Darius Kianersi, who interned with us this fall, to our Technical Staff \ud83c\udf89 .\n\nDarius was studying Computer\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aswingunasekar_zeto-inc-secures-31-million-in-series-activity-7282810763658829825-eDad",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFaJiSh1BU3sA/articleshare-shrink_800/articleshare-shrink_800/0/1736341328580?e=2147483647&v=beta&t=-XwXiNN1N1Nzx6x9bSjXOY7xoRj1lOqsTrXPa1_5Rnw",
+        "title": "I am delighted to announce the closing our $31m Series B funding round. We welcome our new investors and are very excited for what lies ahead for\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cody-finke-ph-d-213b88ab_cement-maker-brimstone-to-bolster-us-aluminum-activity-7282848101910900736-0nw_",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQEuD_yiBXYKnw/articleshare-shrink_800/articleshare-shrink_800/0/1738249837682?e=2147483647&v=beta&t=CLm14n_uUbQ-HlAgGeoLpVAvNsPLzX54j3ccq8kKlqE",
+        "title": "Brimstone announced today that its $189M\u00a0U.S. Department of Energy (DOE)\u00a0award is under contract. Our upcoming\u00a0Brimstone\u00a0Rock Refinery will also\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/t-shi_last-night-dorm-room-fund-and-sequoia-capital-activity-7282618274373103617-gxr-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGEWu7dLA02xw/feedshare-shrink_800/B56ZREAcYyHoAg-/0/1736307759494?e=2147483647&v=beta&t=604g9XwwiS06NHUz_6NCpbGaK9rwrqUOgVSkPtU-zkQ",
+        "title": "Last night, Dorm Room Fund and Sequoia Capital brought together a group of incredible founders for an unforgettable evening together. One insight\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/saleh-naghdi_in-other-news-i-am-pursuing-a-phd-in-physics-activity-7274649334216822784-GmGW",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH37SpYWtb0Aw/feedshare-shrink_800/B56ZPS.8xEHIAg-/0/1734411552274?e=2147483647&v=beta&t=3THEWXf5fPuV1vDRWQRsJTRruokTyaHEtr7T38IkT4s",
+        "title": "In other news\u2026 I am pursuing a PhD in physics at Caltech! And, fittingly, I\u2019m now boarding the same LA to Melbourne flight on which exactly a year\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mernit_a-good-startup-name-is-critical-but-i-haven-activity-7278059785764179969-1haC",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "A good startup name is critical, but I haven\u2019t found an algorithmic approach to it. \n\nI spent the last few months building a machine learning model\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/reyansh-juneja_heres-my-2024-wrap-my-ups-downs-both-activity-7278028090356719616-DPAh",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFPxb7O-DZMSQ/feedshare-shrink_800/B56ZQC_96yHoAg-/0/1735217114628?e=2147483647&v=beta&t=vpKkRn_5iDHYkuPcEU5g6yLyy1SbXoyW_suVeOkTH_g",
+        "title": "Here's my 2024 Wrap,\nMy ups & downs, both documented here. \n\nIn 2024,\n[-] I made $13,000+ from Consultation & Profits\n[-] Mentored 30+ Startups based\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jinjingliang_1148-pm-christmas-eve-found-our-cto-activity-7277813767386624000-Z0pN",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGzh2Faf1MgeQ/feedshare-shrink_800/B56ZP_8_qvG8Ag-/0/1735166014515?e=2147483647&v=beta&t=09UwwkD1Atq64dRd6ASEgYKv9gv54XsmAqdRG3XOjXY",
+        "title": "\ud83c\udf84 11:48 PM, Christmas Eve. \n\nFound our CTO Neil Parker still coding away.  Same spot I saw him exactly a year ago when we were building Stably 1.0.\u2026",
+        "activity": "Liked by Alvin Zhang"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jason-thatcher-0329764_academichumor-activity-7277314580396085249-PbJe",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEDd01SB10_ng/feedshare-shrink_2048_1536/B4EZP1yUNJGcAs-/0/1734995439728?e=2147483647&v=beta&t=nDzQ40_lkReW3QyIR29bAupjGvJVd4LU2G-7uv2Dans",
+        "title": "Haha so true! I almost fell for the joke! Well played to the creators!\n\n#academichumor",
+        "activity": "Liked by Alvin Zhang"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/american-red-cross?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Founder and Club President",
+        "company_name": "American Red Cross",
+        "company_duration": "",
+        "starts_at": "Aug 2021",
+        "ends_at": "Jun 2024"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/alvinhaozhang?trk=public_profile_samename-profile",
+        "name": "Alvin Zhang",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/zhang-alvin?trk=public_profile_samename-profile",
+        "name": "Alvin Zhang",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alvinjz2?trk=public_profile_samename-profile",
+        "name": "Alvin Zhang",
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alvinzhang1?trk=public_profile_samename-profile",
+        "name": "Alvin Zhang",
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "2022-23 NISCA Swimming and Diving All American",
+        "organization": "National Interscholastic Swimming Coaches Association",
+        "duration": "Aug 2023",
+        "summary": ""
+      },
+      {
+        "name": "USA Swimming 2022-2023 Scholastic All-America Team",
+        "organization": "USA Swimming",
+        "duration": "Jul 2023",
+        "summary": ""
+      },
+      {
+        "name": "President\u2019s Volunteer Service Award - Silver",
+        "organization": "AmeriCorps",
+        "duration": "Jun 2023",
+        "summary": ""
+      },
+      {
+        "name": "4x AIME Qualifier with Distinction",
+        "organization": "Mathematical Association of America",
+        "duration": "",
+        "summary": "2022, 2023"
+      },
+      {
+        "name": "National Merit Scholarship Finalist",
+        "organization": "-",
+        "duration": "",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

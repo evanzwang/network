@@ -1,0 +1,308 @@
+[
+  {
+    "fullName": "Vaibhavi J.",
+    "linkedin_internal_id": "533942618",
+    "first_name": "Vaibhavi",
+    "last_name": "J.",
+    "public_identifier": "vaibhavi-jhawar",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C4E16AQGu-Hz8ykrFiw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1658298860441?e=2147483647&v=beta&t=iHp7yK3scEqwGThR_rDKeOaEiZzPJ6Pj6BgMEk1_d7M",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C5603AQGhP60WPnhEnw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1587419963265?e=2147483647&v=beta&t=PyeZNunHXrOgIEtTxMkfGe0itawxwRGR0VpkF8wQaJU",
+    "headline": "Recent CS Graduate | Passionate About Product Innovation | Interested in Software Engineering and Product Roles",
+    "location": "716 followers\n          \n          \n              500+ connections",
+    "about": "Hi, I'm so glad you found my LinkedIn! My name is Vaibhavi (vay-bh-vee), and I am curious about all things tech. In my free time, I am a photographer, a cuisine adventurer, and a badminton player. I am also passionate about personal and professional development, and I love the opportunity to learn from others. Happy to connect with you :)",
+    "experience": [
+      {
+        "position": "Machine Learning and Product Mangagment Intern",
+        "company_url": "https://www.linkedin.com/company/stealth-startup-careers?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_100_100/company-logo_100_100/0/1735368022724/stealth_startup_51_logo?e=2147483647&v=beta&t=1i0dQhrw7PP6WXHh5KlNBZJnCIP8p9MZJyxISsOwvRs",
+        "company_name": "Stealth Startup",
+        "location": "San Francisco Bay Area",
+        "summary": "",
+        "starts_at": "Feb 2024",
+        "ends_at": "Present",
+        "duration": "1 year 2 months"
+      },
+      {
+        "position": "Autonomy Intern",
+        "company_url": "https://www.linkedin.com/company/monarch-tractor?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFKkxYRBrQccQ/company-logo_100_100/company-logo_100_100/0/1733165966467/monarch_tractor_logo?e=2147483647&v=beta&t=NYicCtIB8U-eUdlL5D2i3JY0wrQXZmnXGyBeLG7wdOA",
+        "company_name": "Monarch Tractor",
+        "location": "Livermore, California, United States",
+        "summary": "",
+        "starts_at": "Jun 2022",
+        "ends_at": "Oct 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Data Science Intern",
+        "company_url": "https://www.linkedin.com/company/assembledbrands?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHp7a6xeLO4ZQ/company-logo_100_100/company-logo_100_100/0/1637092486512/assembledbrands_logo?e=2147483647&v=beta&t=DNnAcg2tCVRPA1C6557ID8a-uR1xpnEW5l9rLWuSEzc",
+        "company_name": "Assembled Brands",
+        "location": "Remote",
+        "summary": "- Prescriptively analyzing year-on-year revenue schemas of companies to capture potential investments better - Data wrangling on Big Query and Google Drive with Google Collab and Python to provide clean data for regression analysis",
+        "starts_at": "Mar 2022",
+        "ends_at": "Jul 2022",
+        "duration": "5 months"
+      },
+      {
+        "position": "Frontend Developer",
+        "company_url": "https://www.linkedin.com/company/northrop-grumman-collaboration-project?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGfE8pZiUix6A/company-logo_100_100/company-logo_100_100/0/1630631878199/northrop_grumman_collaboration_project_logo?e=2147483647&v=beta&t=7LXr1N33uA6LPmB32MroGaZX9CoBwW5HDMa-2QG2hh4",
+        "company_name": "Northrop Grumman Collaboration Project",
+        "location": "Pomona, California, United States",
+        "summary": "- Constructed a GUI for the Ground Control Station using Vue.js- Designed an intuitive, non-intrusive user interface using Figma to reduce stress and accidents in emergency situations- Integrated with the back-end, and tested the GUI to ensure all integral data updates in real-time and are distinguishable",
+        "starts_at": "Aug 2021",
+        "ends_at": "May 2022",
+        "duration": "10 months"
+      },
+      {
+        "position": "Student Success Ambassador",
+        "company_url": "https://www.linkedin.com/school/cal-poly-pomona/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFFO12NE2lOVw/company-logo_100_100/company-logo_100_100/0/1737999459363/cal_poly_pomona_logo?e=2147483647&v=beta&t=UGe7Ox5jfa2hmDNhJUod0D4gz8XGUPMaynfmhp7G98s",
+        "company_name": "California State Polytechnic University-Pomona",
+        "location": "Remote",
+        "summary": "- Facilitated campus resources for 1500+ students through programming 15+ office sessions, events, and workshops- Increased 10% of student engagements on the College of Science\u2019s Instagram, YouTube, and website building 80+ followers through content creation of flyers, posts, and events",
+        "starts_at": "Feb 2021",
+        "ends_at": "Jun 2021",
+        "duration": "5 months"
+      },
+      {
+        "position": "Student Mentor",
+        "company_url": "https://www.linkedin.com/company/codeforfun?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEVE9HFZj3mrg/company-logo_100_100/company-logo_100_100/0/1630662359022/codeforfun_logo?e=2147483647&v=beta&t=yF_oAuUXWRhor2MV575xxyDOuyIII0-HqbmcAa_Efsk",
+        "company_name": "Code for fun",
+        "location": "Fremont, California, United States",
+        "summary": "",
+        "starts_at": "Jun 2017",
+        "ends_at": "Aug 2017",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/cal-poly-pomona/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "California State Polytechnic University-Pomona",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQFFO12NE2lOVw/company-logo_100_100/company-logo_100_100/0/1737999459363/cal_poly_pomona_logo?e=2147483647&v=beta&t=UGe7Ox5jfa2hmDNhJUod0D4gz8XGUPMaynfmhp7G98s",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2019 - 2023",
+        "college_activity": "Data Science Minor"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/american-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "American High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C510BAQER-vqSZe3ctg/company-logo_100_100/company-logo_100_100/0/1631391549280?e=2147483647&v=beta&t=9HuCU7k7g-C_2B7uCLEe9wJkdHcD0LsrohmeTBgjwtk",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2015 - 2019",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Stealth Startup",
+      "description1_link": "https://www.linkedin.com/company/stealth-startup-careers?trk=public_profile_topcard-current-company",
+      "description2": "California State Polytechnic University-Pomona",
+      "description2_link": "https://www.linkedin.com/school/cal-poly-pomona/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/tri-city-food-bank-and-thrift-store?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Food bank and Thrift Store Volunteer",
+        "company_name": "Tri City Food Bank and Thrift Store",
+        "company_duration": "",
+        "starts_at": "Jun 2015",
+        "ends_at": "Aug 2015"
+      },
+      {
+        "company_position": "Tutor",
+        "company_name": "Mission Valley Tutoring",
+        "company_duration": "",
+        "starts_at": "Jun 2018",
+        "ends_at": "Aug 2018"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/sanya-agrawal-a32a15182?trk=public_profile_browsemap-profile",
+        "name": "Sanya Agrawal",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mckaylakeller?trk=public_profile_browsemap-profile",
+        "name": "McKayla Keller",
+        "summary": "Associate Software Development Analyst",
+        "location": "East Lansing, MI"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mahgabin-khanom?trk=public_profile_browsemap-profile",
+        "name": "Mahgabin Khanom",
+        "summary": "",
+        "location": "New York City Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/michellewlim?trk=public_profile_browsemap-profile",
+        "name": "Michelle Lim",
+        "summary": "Software Development Engineer @ AWS Transcribe",
+        "location": "Fremont, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/teja-sarraff?trk=public_profile_browsemap-profile",
+        "name": "Teja Sarraff",
+        "summary": "Software Engineer @ Akamai",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ronakguliani?trk=public_profile_browsemap-profile",
+        "name": "Ronak G.",
+        "summary": "CS + Physics @ PSU",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ohorban?trk=public_profile_browsemap-profile",
+        "name": "Alex Horban",
+        "summary": "MEng CS @ Cornell Tech | Ex Data Science @ Intuit",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nylaseymour?trk=public_profile_browsemap-profile",
+        "name": "Nyla Seymour",
+        "summary": "B.S, Computer Engineering",
+        "location": "Orlando, FL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/tuanhuynh2780?trk=public_profile_browsemap-profile",
+        "name": "Tuan Huynh",
+        "summary": "",
+        "location": "Seattle, WA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/caydenowens?trk=public_profile_browsemap-profile",
+        "name": "Cayden Owens",
+        "summary": "Mayo Clinic Administrative Fellow",
+        "location": "Rochester, MN"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mayuresh-vernekar?trk=public_profile_browsemap-profile",
+        "name": "Mayuresh Vernekar",
+        "summary": "M.D. Student at Chicago Medical School",
+        "location": "Minneapolis, MN"
+      },
+      {
+        "link": "https://www.linkedin.com/in/dalitsobanda?trk=public_profile_browsemap-profile",
+        "name": "Dalitso Banda",
+        "summary": "BE Computer Engineering @CCNY| Currently @ NYT | prev @Nextdoor",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/assma-boughoula-55384244?trk=public_profile_browsemap-profile",
+        "name": "Assma Boughoula",
+        "summary": "PhD Student at University of Illinois at Urbana-Champaign",
+        "location": "Urbana-Champaign Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/xai-phommarath-0675b91b5?trk=public_profile_browsemap-profile",
+        "name": "Xai Phommarath",
+        "summary": "",
+        "location": "Aurora, CO"
+      },
+      {
+        "link": "https://www.linkedin.com/in/yiwen-sarina-chen?trk=public_profile_browsemap-profile",
+        "name": "Yiwen (Sarina) Chen",
+        "summary": "",
+        "location": "Irvine, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/job-gomez-38a937112?trk=public_profile_browsemap-profile",
+        "name": "Job Gomez",
+        "summary": "Substitute Teacher at Grow Public Schools",
+        "location": "Bakersfield, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/madhav-sharma-5739b716a?trk=public_profile_browsemap-profile",
+        "name": "Madhav Sharma",
+        "summary": "Electrical Engineer at Broadcom",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/shivanipatole?trk=public_profile_browsemap-profile",
+        "name": "Shivani Patole",
+        "summary": "",
+        "location": "Jersey City, NJ"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mdarraji?trk=public_profile_browsemap-profile",
+        "name": "Mehrdad Darraji",
+        "summary": "",
+        "location": "Austin, TX"
+      },
+      {
+        "link": "https://www.linkedin.com/in/yxyang?trk=public_profile_browsemap-profile",
+        "name": "Yuxiang Yang",
+        "summary": "",
+        "location": "Mountain View, CA"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://in.linkedin.com/in/welcome-to-vaibhavi-z-profile?trk=public_profile_samename-profile",
+        "name": "Vaibhavi J",
+        "summary": "|| Operations Analyst at Rippling || Ex-Stripe ||",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vaibhavi-j-912458270?trk=public_profile_samename-profile",
+        "name": "VAIBHAVI J",
+        "summary": "Masters of Computer Application \u2013 Computer Science IT & Industry Aspiring Developer | Front-End & Full-Stack Enthusiast | Exploring DBMS | Ready to Grow and Build with Code",
+        "location": "Mysuru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vaibhavi-j-a31b27221?trk=public_profile_samename-profile",
+        "name": "Vaibhavi J.",
+        "summary": "Vice President Of Business Development",
+        "location": "Ahmedabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vaibhavi-j-a10218264?trk=public_profile_samename-profile",
+        "name": "Vaibhavi J.",
+        "summary": "Attended Savitribai Phule Pune University",
+        "location": "Pune"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vaibhavi-j-k-92863b1ba?trk=public_profile_samename-profile",
+        "name": "Vaibhavi J K",
+        "summary": "Cloud Engineer @ HPE Aruba",
+        "location": "Mysuru"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [
+      {
+        "name": "Alpha Kappa Psi | Chi Epsilon Chapter",
+        "position": "VP of Professional Development (2022-2023) | Director of Professional Advancement (2021-2022)"
+      },
+      {
+        "name": "Badminton Club",
+        "position": "Member"
+      },
+      {
+        "name": "sheCodes",
+        "position": "Member"
+      },
+      {
+        "name": "Tamanna",
+        "position": "President, Treasurer, Team Capitain, Publicist, Founding Member"
+      }
+    ],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

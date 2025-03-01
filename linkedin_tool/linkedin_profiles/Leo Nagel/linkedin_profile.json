@@ -1,0 +1,430 @@
+[
+  {
+    "fullName": "Leo Nagel",
+    "linkedin_internal_id": "896427783",
+    "first_name": "Leo",
+    "last_name": "Nagel",
+    "public_identifier": "leonhardn",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQFZBZgefx7OgA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1618797975632?e=2147483647&v=beta&t=YVyKrS0MhYH2bj6BACmsKTAzGUe7GVLD62Mql__RxoQ",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "Electrical Engineering & Computer Science Student at UC Berkeley",
+    "location": "826 followers\n          \n          \n              500+ connections",
+    "about": "\ud83c\udf1f Passionate about Advancing Society through Technology \ud83d\ude80Hello LinkedIn community! \ud83d\udc4b Excited to connect with you all. I'm Leo Nagel, a student at UC Berkeley, diving deep into the realms of Computer Science and Electrical Engineering. My journey at UC Berkeley has sparked a profound interest in how technology, particularly in the realm of generative algorithms, can shape a brighter future for us all.Exploring the intersection of computer science and electrical engineering, I'm deeply intrigued by the potential of generative algorithms to revolutionize various aspects of our lives. From fostering creativity to tackling complex societal issues, the applications of this technology are vast and promising. Outside the academic realm, I've been actively engaged in projects exploring the practical implications of these concepts, fueling my passion for leveraging technology to drive positive change.Keen to connect with fellow enthusiasts and professionals who share a vision for harnessing technology to enhance society. Let's collaborate and explore the endless possibilities together!",
+    "experience": [
+      {
+        "position": "Curriculum Developer",
+        "company_url": "https://vn.linkedin.com/company/mad4stem?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHEscjkA2ivgw/company-logo_100_100/company-logo_100_100/0/1642260464409/unis_stem_logo?e=2147483647&v=beta&t=VW6vScFBPrlh9FNMy3Dvw2YvNz_MLP5CcFON1hAj9_8",
+        "company_name": "Mad for Stem",
+        "location": "Remote",
+        "summary": "- Cooperating with my colleagues to create three interdisciplinary courses, covering topics from economics, computer science, data science and technology",
+        "starts_at": "Feb 2022",
+        "ends_at": "Dec 2022",
+        "duration": "11 months"
+      },
+      {
+        "position": "Intern",
+        "company_url": "https://cn.linkedin.com/school/huazhong-university-of-science-and-technology/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQE9XxomSh8IwQ/company-logo_100_100/company-logo_100_100/0/1631300895603?e=2147483647&v=beta&t=SqIEJYEs7IgEqt83N9pefxedz1LpMZ1P0EsewSBqlEs",
+        "company_name": "Huazhong University of Science and Technology",
+        "location": "Wuhan, Hubei, China",
+        "summary": "",
+        "starts_at": "Aug 2022",
+        "ends_at": "Aug 2022",
+        "duration": "1 month"
+      },
+      {
+        "position": "Student Member",
+        "company_url": "https://www.linkedin.com/company/carbon-copies?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQESQOLHpkWmLA/company-logo_100_100/company-logo_100_100/0/1630611782817/carbon_copies_logo?e=2147483647&v=beta&t=xuYmEQJ3KUTg5bFwuNVRNkhabGUH0h5j3CbeyWsUfQ8",
+        "company_name": "Carboncopies",
+        "location": "Remote",
+        "summary": "",
+        "starts_at": "Feb 2022",
+        "ends_at": "Mar 2022",
+        "duration": "2 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Electrical Engineering & Computer Science",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://hk.linkedin.com/school/universityofhongkong/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The University of Hong Kong",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_100_100/company-logo_100_100/0/1631325687808?e=2147483647&v=beta&t=9HIgJ_bx28U_7MGxNF_4tKLUDlOS10ImHHJdHLRW6_E",
+        "college_degree": "Visiting Undergraduate Student",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://cn.linkedin.com/school/dulwich-college-shanghai/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Dulwich College Shanghai Pudong",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHaYqCbrgwzSg/company-logo_100_100/company-logo_100_100/0/1631302575316?e=2147483647&v=beta&t=PcbaUL1a3reM6E_KfmDb12GRqjud8sQMrDYIToXH9zM",
+        "college_degree": "International Baccalaureate Diploma",
+        "college_degree_field": "44/45 (IB Final Score)",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "University-Level Online Program",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_name": "Summer Science Program",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "Online Alternative Course",
+        "college_degree_field": "Astrophysics",
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://cn.linkedin.com/school/international-school-of-tianjin/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "International School of Tianjin",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFQEv_bCwY8NA/company-logo_100_100/company-logo_100_100/0/1631338255082?e=2147483647&v=beta&t=XYYd9RzToDtAe6K741-_ef-2LWG20hwH-hPn6zsR5wU",
+        "college_degree": "Interna\u021bional Baccalaureate Diploma",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://ca.linkedin.com/school/uwaterloo/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Waterloo",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQE6pj0rV9W9kg/company-logo_100_100/company-logo_100_100/0/1723748867263/uwaterloo_logo?e=2147483647&v=beta&t=FeBzmd9tAH_EkWTq3Z8OOb2TbbCjTS8YrpBdR2heBoc",
+        "college_degree": "Quantum Cryptography School for Young Students (Non-Degree Program)",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Mad for Stem",
+      "description1_link": "https://vn.linkedin.com/company/mad4stem?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/abhiaarya_rishi-srihari-and-i-built-vercel-for-ai-models-activity-7297389896955019264-8dhs",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGVm-gyX4QUXg/feedshare-thumbnail_720_1280/B56ZUWJCCbGUA8-/0/1739833222037?e=2147483647&v=beta&t=SrjHigjtGSDDuo25d05nMezN1hyjM-v2ye4pyQcmfZs",
+        "title": "Rishi Srihari and I built Vercel for AI models in 30 hours at TreeHacks. \n\nGenerate full LoRA datasets with Groq, Browserbase, and Perplexity, train\u2026",
+        "activity": "Liked by Leo Nagel"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ciaracade_ghc24-openai-activity-7266767647772401664-AV0H",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEzWsVf5biIqA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732519389334?e=2147483647&v=beta&t=s_5QBq2fF6Ukgfof6bBiTzl-xz6gdc35zaJ4jG6e7sA",
+        "title": "\ud83e\udd73  I'm thrilled to share that OpenAI awarded me a prestigious scholarship during #GHC24,  in recognition of my academic excellence and dedication to\u2026",
+        "activity": "Liked by Leo Nagel"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/uchicago_prof-james-a-robinson-uchicagos-newest-activity-7251592788318830593-xlXg",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQFviXde-NchTg/image-shrink_800/image-shrink_800/0/1728914443251?e=2147483647&v=beta&t=H3APMeK1Qu4jilG2Gg9l-wop9hQixoNcDKBVrw8aHJ8",
+        "title": "Prof. James A. Robinson, UChicago\u2019s newest Nobel Prize laureate, at his home Oct. 14, after learning he was awarded a share of the Sveriges Riksbank\u2026",
+        "activity": "Liked by Leo Nagel"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/%2E406-ventures_406-ventures-student-fellows-celebrates-activity-7246872295858651136-cmOa",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEPiwovVhlmEA/feedshare-shrink_800/feedshare-shrink_800/0/1727788992068?e=2147483647&v=beta&t=sCb1xE2kPmIZpFGrNjpLNs_xZJNq1gG-t6xFYJEnGKI",
+        "title": ".406 Ventures Student Fellows celebrates its sweet sixteen. Class XVI of its Student Fellows Program, that is. \ud83c\udf89\n\nLast week the program\u2019s newest\u2026",
+        "activity": "Liked by Leo Nagel"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://uk.linkedin.com/company/gsyphysics?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Chief Executive",
+        "company_name": "Global Society of Young Physicists",
+        "company_duration": "",
+        "starts_at": "Feb 2022",
+        "ends_at": "May 2024"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/international-discord-model-united-nations?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Deputy Secretary General",
+        "company_name": "International Discord Model United Nations",
+        "company_duration": "",
+        "starts_at": "Mar 2020",
+        "ends_at": "Apr 2020"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/international-discord-model-united-nations?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Head of Information Technology",
+        "company_name": "International Discord Model United Nations",
+        "company_duration": "",
+        "starts_at": "Nov 2019",
+        "ends_at": "May 2020"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/company/six-degrees-of-robotics?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Six Degrees of Robotics\n        \n              \n          \ud83c\udf10 Groundbreaking Compression Standard for Haptics Published! \ud83c\udf10\n\nThe Technical University of Munich (TUM) has led an eight-year effort culminating in the publication of the first standard for the compression and transmission of the sense of touch, named \"Haptic Codecs for the Tactile Internet\" (HCTI). This pioneering standard lays the groundwork for advancements in tele-surgery, tele-driving, and immersive gaming experiences.\n\nHaptic codecs, much like JPEG for images and MP3 for audio, enable the efficient transmission of tactile information over the Internet. The new IEEE standard 1918.1.1 encodes and decodes data to allow users to experience remote tactile interactions, such as feeling the grip of a robot arm or the texture of materials like paper or metal.\n\nProf. Eckehard Steinbach, leading the research at TUM, highlighted the challenge of transmitting haptic feedback, which requires bidirectional data flow and ultra-low latency to maintain realistic interactions. The new standard reduces the clock rate from 4,000 to 100 times per second, aligning closely with human perception thresholds.\n\nThe applications of HCTI are vast:\n\n\u2695\ufe0f Telesurgery: Enables surgeons to perform operations remotely with precision, even across long distances.\n\n\ud83d\ude9a Teledriving: Facilitates remote control of vehicles, enhancing safety and flexibility in autonomous driving.\n\n\ud83d\udc89 Emergency Medical Services: Allows remote ultrasound diagnostics by doctors while en route to hospitals.\n\n\ud83c\udfa6 Entertainment: Enhances realism in gaming and films by transmitting physical sensations.\n\n\ud83d\udcbb E-commerce: Provides tactile feedback for online shoppers, enhancing the shopping experience.\n\nThis new standard is expected to spur innovation and new applications, much like JPEG and MP3 did for their respective fields.\n\nFor more details, visit TUM's official website -https://lnkd.in/eDfvSz_x\n\nTo access the standard, visit IEEE here - https://lnkd.in/eenTQAaH",
+        "location": "30"
+      },
+      {
+        "link": "https://www.linkedin.com/company/qcfd-h2020?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "QCFD\n        \n              \n          \ud83d\udce2 New Insights in Quantum Gate Design with Reinforcement Learning\n\nOur recent collaborative research involving the University of California, Berkeley, Lawrence Berkeley National Laboratory, the Max Planck Institute for the Physics of Complex Systems, and Forschungszentrum J\u00fclich has focused on leveraging reinforcement learning (RL) to optimize control pulses for transmon qubit entangling gates.\n\nIn this study, we utilized a continuous control RL algorithm to design high-fidelity, entangling two-qubit gates for superconducting qubits, such as cross-resonance and CNOT gates. Our approach does not rely on prior information about the physical system, which allows the RL agent to explore a broader range of pulse sequences. The results showed that the RL-optimized pulses not only surpassed standard cross-resonance gates in fidelity but also reduced gate duration, while maintaining robustness against stochastic noise.\n\nThese findings highlight the potential of RL-based optimization methods to enhance quantum gate design, contributing to the development of more efficient and scalable quantum computing systems.\n\n\ud83d\udcda For more information, please read the full paper here: https://lnkd.in/eMc97S8i\n \nAuthors: Ho Nam Nguyen, Felix Motzoi, Mekena Metcalf, K. Birgitta Whaley, Marin Bukov, Markus Schmitt.\n\n#QuantumComputing #ReinforcementLearning #SuperconductingQubits #QuantumControl\u00a0#QCFD\u00a0#ResearchUpdate",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/company/towards-data-science?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Towards Data Science\n        \n              \n          Could reinforcement learning help validate AI-generated ideas in biology? The answer might just be yes. Meghan Heintz explores how RL is being applied in self-driving cars and autonomous labs.",
+        "location": "5"
+      },
+      {
+        "link": "https://www.linkedin.com/school/berkeleyengineering/?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "UC Berkeley College of Engineering\n        \n              \n          Berkeley Engineering\u2019s 2024 in review: Best bioinspiration\n\nThe patterns on shark skin, known as riblets, have inspired a research team led by Grace Gu, assistant professor of mechanical engineering, to design a textured surface that reduces drag and mitigates flow-based noise on the towed sonar arrays that aid in underwater exploration.\n\nRevisit the story: bit.ly/49qhyMh",
+        "location": "72"
+      },
+      {
+        "link": "https://www.linkedin.com/company/ai-feed?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Artificial Intelligence Feed\n        \n              \n          ETH Zurich Researchers Introduce Data-Driven Linearization DDL: A Novel Algorithm in Systematic Linearization for Dynamical Systems\n\nAccurately modeling nonlinear dynamical systems using observable data remains a significant challenge across various fields such as fluid dynamics, climate science, and mechanical engineering. Traditional linear approximation methods often fall shor...\n\nhttps://lnkd.in/e-FjAjAS\n\n\n#AI #ML #Automation",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/showcase/epfl-institute-of-electrical-and-micro-engineering/?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "EPFL Electrical And Micro Engineering\n        \n              \n          \ud83c\udf89 Congratulations to Ming-Lo Wu from the AQUA \u2013 Advanced Quantum Architecture Lab - on the successful defense of his PhD thesis \u201cSingle-Photon Avalanche Diode Image Sensors for Harsh Radiation Environments\u201d under the supervision of Prof. Edoardo Charbon.\n\n\ud83d\udd0e The thesis investigates both the theoretical limits and the practical performance of SPAD image sensors across diverse applications, including high dynamic range imaging, fluorescence lifetime imaging, light-in-flight imaging, and particle detection. Additionally, the study examines the impact of harsh environmental conditions such as radiation, temperature, and lighting on the performance of SPAD image sensors.\n\n#epfl_edmi",
+        "location": "33"
+      },
+      {
+        "link": "https://www.linkedin.com/company/ai-feed?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Artificial Intelligence Feed\n        \n              \n          Researchers from ETH Zurich and UC Berkeley Introduce MaxInfoRL: A New Reinforcement Learning Framework for Balancing Intrinsic and Extrinsic Exploration\n\nReinforcement Learning, despite its popularity in a variety of fields, faces some fundamental difficulties that refrain users from exploiting its full potential. To begin with, algorithms like PPO, which are widely used, suffer from the curse of sam...\n\nhttps://lnkd.in/eAVguWvg\n\n\n#AI #ML #Automation",
+        "location": "1"
+      },
+      {
+        "link": "https://ch.linkedin.com/company/eth-ai-center?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "ETH AI Center\n        \n              \n          \ud83c\udf1f Exciting Updates from ETH AI Center at ICLR! \ud83c\udf1f\nLast week, our dedicated PhD & Postdoctoral fellows showcased their innovative research across various fields at the ICLR conference. Here\u2019s a glimpse into the work they presented:\n\n\ud83d\udd0d Aliz\u00e9e Pace tackled the challenge of uncertainty in offline learning. Her method introduces a new way to measure uncertainty, enhancing the reliability of conclusions in real-world applications. Read the full paper: https://lnkd.in/d4Wnm8_D\n\n\ud83d\udd0d Manish Prajapat developed a novel learning approach for scenarios where rewards diminish over time. This method is particularly effective for route planning and environmental monitoring. Read the full paper: https://lnkd.in/dgS_HbvR\n\n\ud83d\udd0d Emanuele Palumbo introduced a model that learns from diverse data types, such as images and text, without extensive labeled examples. It efficiently organizes output into groups, even without predefined categories. Read the full paper: https://lnkd.in/dvsFTaNh\n\n\ud83d\udd0d Riccardo De Santi simplified how computers learn from past experiences with a new method that uses intuitive diagrams instead of complex formulas, proving effective in data-scarce situations. Read the full paper: https://lnkd.in/dthk8EX8\n\n\ud83d\udd0d Javier Rando explored the risks of training large language models that could be manipulated to produce harmful outputs. His work includes a test to help prevent such issues. Read the full paper: https://lnkd.in/dHpMFqfn\n\n\ud83d\udd0d Dr. Theodora Kontogianni and Dr. Francis Engelmann introduced AGILE3D, a model that enhances 3D object outlining by allowing multi-object segmentation, reducing the need for manual corrections, and increasing efficiency. Read the full paper: https://lnkd.in/etcJcQ3V\n\n\ud83d\udd0d Dr. Francis Engelmann also improved visual-language models for 3D scene segmentation with OpenNeRF, which integrates VLM features into 3D rendering, achieving superior performance. Read the full paper: https://lnkd.in/dnawDNQ6\n\n\ud83d\udd0d Chenhao Li created a method that enhances machine learning from motion data by identifying patterns to better predict and understand movements, aiding adaptation to new environments. Read the full paper: https://lnkd.in/dA8WevYM\n\nWe are proud of our fellows\u2019 contributions to advancing AI research and their commitment to solving complex global challenges. Join us in celebrating their achievements!\n#AIResearch #ICLR #MachineLearning #Innovation #ETHZurich",
+        "location": "91"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jaishnoor?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jaishnoor K.\n        \n              \n          I recently read an article about how researchers from UC Berkeley and ETH Zurich used ChatGPT to control robotic arms. \nhttps://lnkd.in/gvYDwgFc\n\nAnd even more recently, I read yet \u2728 another \u2728  article- about how easy it is to jailbreak LLM-powered robots (automated, 100% success).\nhttps://lnkd.in/gwgp4mEB\n\nThe juxtaposition of these two articles, released within a short time of each other (5 days!), is a testament to the risks and rewards of Gen AI. It also highlights the increasing importance of cybersecurity and the new challenges we face. \n\n#genai #LLMs #cybersecurity #jailbreaking #robots",
+        "location": "5\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/company/universum-labs?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Universum Labs\n        \n              \n          \ud83e\udd97 Relatively quiet day on the quantum front \u2014 but there is quantum excitement to be had in Berkeley Lab\u2019s process for identifying and fabricating quantum materials. Plus, if there were QIS standards for secondary schooling, these would be it.\n\n\u2686 Researchers at Berkeley Lab have combined rapid computational predictions with precise fabrication techniques to accelerate the discovery of quantum materials; the results are shared in a publicly available database called the Quantum Defect Genome\n\n\u2686 IBM has become a partner in the Superconducting Quantum Materials and Systems Center at Fermilab, focusing on advancing superconducting quantum computing technology through tackling challenges in quantum computing, communication, large-scale deployment, and the workforce\n\n\u2686 Quandela and Welinq have teamed up to combine their expertise in quantum processors and interconnect technology to create custom quantum links for photonic quantum computers\n\n\u2686 attocube systems Inc is providing essential tools for the quantum technology supply chain to improve energy efficiency for scalable quantum computing applications\n\n\u2686 The case for integrating quantum informatics into secondary school curricula is made by positioning it within traditional computer science education, aligning it with the Great Principles of Computing, and establishing standards for expected student outcomes\n\n\u2686 Don't miss a single qubit -- follow Cierra Choucair & subscribe to the free newsletter for your daily quantum computing news & research insights. \nhashtag\n\n#quantumcomputing #quantumtechnology  #innovation #quantumscience #quantumphysics",
+        "location": "1"
+      },
+      {
+        "link": "https://www.linkedin.com/company/inmindsoftware?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "inMind Software\n        \n              \n          \ud83e\udd16 Exciting strides in robotics! The Berkeley Humanoid Robotics team is pushing the boundaries of what's possible with their cutting-edge humanoid robots. These advanced robots are designed to navigate complex environments, perform intricate tasks, and potentially transform industries from healthcare to manufacturing.\n\nThe future of robotics is here, and it's incredibly promising. Innovations like these not only showcase technological prowess but also hint at a future where humans and robots collaborate seamlessly.\n\nExplore more about Berkeley Humanoid Robotics and their groundbreaking work here.\nhttps://lnkd.in/dfYiQKC7\nhttps://lnkd.in/dfJTgi-H\n\n#Robotics #AI #Innovation #Technology #FutureOfWork",
+        "location": "5"
+      },
+      {
+        "link": "https://ca.linkedin.com/company/the-quantum-insider?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "The Quantum Insider\n        \n              \n          Scientists from Pasqal and the University of Exeter developed a differentiable quantum generative modeling protocol to efficiently solve stochastic differential equations and generate multidimensional probability distributions.\n\nETH Z\u00fcrich researchers demonstrated a provable quadratic speedup in kernel-based quantum learners by incorporating Grover's algorithm into a quantum support vector machine.\n\nDiraq's team developed a global control scheme for semiconductor spin qubits to overcome issues related to frequency crowding to move towards fault-tolerant quantum computing on a silicon-CMOS platform.\n\nAnd much more. Read every qubit \ud83d\udc49https://lnkd.in/gM2rn3bK\n#QuantumComputing #QuantumTechnology #Innovation",
+        "location": "22"
+      },
+      {
+        "link": "https://www.linkedin.com/company/ordo-fraterna-fibonacci?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ordo Fraterna Fibonacci\n        \n              \n          Physicists magnetize a material with light\nThe technique provides researchers with a powerful tool for controlling magnetism, and could help in designing faster, smaller, more energy-efficient memory chips.\nMIT News\nhttps://lnkd.in/ebWP-_dP",
+        "location": ""
+      },
+      {
+        "link": "https://ch.linkedin.com/company/terra-quantum-ag?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Terra Quantum AG\n        \n              \n          \ud83c\udf0c Where Quantum Physics Meets the Fabric of Spacetime\n\nWe are proud to share an achievement by our Terra Quantum AG team, published in the journal Entropy MDPI. Led by Florian Neukart, Reuben Brasher, and Eike Marx, this research introduces the Quantum Memory Matrix (#QMM) hypothesis\u2014a revolutionary framework that addresses one of the most profound questions in physics:\n\nWhat happens to information when it falls into a black hole?\n\nThe #QMM proposes that spacetime itself acts as a dynamic quantum memory, preserving and encoding information through \u201cquantum imprints.\u201d This ensures that information is never truly lost, even in the extreme conditions of black hole evaporation. By reconciling Quantum Mechanics and General Relativity, the #QMM offers new perspectives on the interplay between quantum information and spacetime dynamics.\n\nBut why does this matter for quantum technology?\n\n\ud83d\udd17 Information Encoding and Retrieval\nThe #QMM provides a foundational mechanism for encoding and preserving quantum information\u2014the core of quantum computing. Its insights into how information behaves in extreme environments like black holes could inspire breakthroughs in error correction, data storage, and distributed quantum systems.\n\n\u269b\ufe0f Quantum Dynamics in Spacetime\nBy revealing how quantum states interact with spacetime, the #QMM opens new paths for innovations in quantum communication, cryptography, and sensing technologies.\n\n\ud83d\udca1 Advancing Quantum Innovation\nAt Terra Quantum AG, we are committed to connecting theoretical breakthroughs with practical applications. The #QMM\u2019s insights could help redefine how we process, secure, and utilize quantum information across a range of industries.\n\nThis work not only pushes the boundaries of physics but also demonstrates Terra Quantum AG\u2019s dedication to bridging the gap between theory and technology. It\u2019s a step toward understanding how quantum principles and spacetime dynamics intertwine\u2014laying the groundwork for the next generation of quantum innovation.\n\n\ud83d\udcda Read the full paper here: https://lnkd.in/eF8XHPgM and below \ud83d\udc47\n\nCongratulations to Florian Neukart, Eike Marx, Reuben Brasher, and the entire team for their remarkable contribution to science and technology!\n\n#QuantumIsNow #QuantumComputing #QuantumPhysics #QuantumGravity #Innovation #QuantumMemoryMatrix Markus Pflitsch",
+        "location": "115\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/showcase/photonicsspectra/?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Photonics Spectra\n        \n              \n          A research team from Stony Brook University, led by professor of physics Dominik Schneble, has uncovered a new regime, or set of conditions within a system, for cooperative radiative phenomena, casting new light on a 70-year-old problem in quantum optics: \n\n#Photonics #Optics #Quantum",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/company/berkeley-ieor?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Berkeley Industrial Engineering & Operations Research\n        \n              \n          Congratulations to Berkeley IEOR PhD student Haoting Zhang, fellow PhD student Jinghai He, recent alum Jingxu Xu (PhD \u201924), and Professor Zeyu Zheng for winning the Best Theoretical Paper Award at the 2024 Winter Simulation Conference.\n\nThe INFORMS Winter Simulation Conference is a leading global forum that highlights the transformative role of simulation in system design, innovation, and operations. The Best Theoretical Paper Award is given annually to one outstanding paper among all accepted theory-focused contributions, recognizing exceptional contributions to advancing simulation methodologies. This recognition underscores the impact of Zhang, He, and Xu\u2019s research in the evolving fields of AI and simulation.\n\nYou can read more about the award here: https://bit.ly/40sxsot\n\n#research #machinelearning #ucberkeley #AI",
+        "location": "34"
+      },
+      {
+        "link": "https://ca.linkedin.com/company/sciencefeatured?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Science Featured\n        \n              \n          Exploring the Invisible Forces of Angular-Momentum Waves in Physics - https://scft.link/uW3w5\n\nProfessor Jing-Ling Chen, Xing-Yan Fan, and Xiang-Ru Xie from Nankai University have discovered angular-momentum waves, potentially revolutionizing our understanding of particle physics. \n\nTheir study was published in the journal Results in Physics. These waves, derived from the Yang-Mills equations, suggest new insights into the fundamental forces of nature and potential technological advancements.\n\n#angularmomentum #particlephysics #YangMills #physicsresearch #sciencefeatured #sciencenews",
+        "location": "2"
+      },
+      {
+        "link": "https://www.linkedin.com/company/research-analysis-institute-bangladesh?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Research & Analysis Institute\n        \n              \n          \ud83d\ude80 Revolutionizing Material Discovery with AI-Driven Electron Structure Calculations\n\nResearchers at Yale University have developed a groundbreaking AI-based method that dramatically accelerates the computation of electronic structures in materials\u2014a crucial step in understanding their properties.\n\n\ud83d\udca1 Key Highlights:\n\nInnovative Approach: Leveraging a variational autoencoder (VAE), the method creates a compact, unsupervised representation of the electron wave function.\n\nEfficiency Boost: Reduces computation time from a million CPU hours to just about an hour!\n\nApplications: This breakthrough is particularly impactful for studying 2D materials, enabling rapid exploration of their excited state properties and behaviors.\n\nImpact: Opens new possibilities for discovering materials with enhanced light interaction, conductivity, and more, making previously inaccessible calculations feasible.\n\n\n\ud83d\udd2c Why It Matters:\nBy slashing computational costs and time, this innovation democratizes access to complex simulations, empowering researchers worldwide to accelerate advancements in material science.\n\n\ud83d\udcd6 Dive deeper into the details here: Faster Electron Structure Calculations Make Material Discovery Easier\n\nLet\u2019s connect to discuss how AI is reshaping the future of computational science! \ud83c\udf1f\n\n#AI #MaterialsScience #QuantumMechanics #ComputationalChemistry #Innovation #Research #Breakthrough",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/company/wildman-s-ai-news-update?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Wildman's Ai News Update\n        \n              \n          PLAID: A New AI Approach for Co-Generating Sequence and All-Atom Protein Structures by Sampling from the Latent Space of ESMFold\nhttps://lnkd.in/g_yWiRFx  Follow, like, and share. Provided by #NathanWildman.",
+        "location": ""
+      },
+      {
+        "link": "https://uk.linkedin.com/company/researchsea?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Asia Research News\n        \n              \n          A first: Physicists at the Japan Proton Accelerator Research Complex (J-PARC) have found a way to accelerate fast-moving #muon particles into a highly controlled beam, opening possibilities for smaller particle colliders.\n\nhttps://lnkd.in/eNb-mzuy\n\n#physics #science #chemistry #standardmodel #particlephysics",
+        "location": "3"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/leonard-nagel-a821206?trk=public_profile_samename-profile",
+        "name": "Leonard Nagel",
+        "summary": "",
+        "location": "Greater Tampa Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leo-silbernagel-7587807a?trk=public_profile_samename-profile",
+        "name": "Leo Silbernagel",
+        "summary": "--",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leo-silbernagel-84a71a63?trk=public_profile_samename-profile",
+        "name": "Leo Silbernagel",
+        "summary": "Parts Tech Support at Wallwork Truck Center",
+        "location": "St George, UT"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leonard-nagel-2843b536?trk=public_profile_samename-profile",
+        "name": "LEONARD NAGEL",
+        "summary": "OWNER at LEONARD M NAGEL, E.A.",
+        "location": "West Bloomfield, MI"
+      }
+    ],
+    "recommendations": [
+      {
+        "link": "https://uk.linkedin.com/in/aryagonullu?trk=public_profile_recommendations",
+        "name": "Arya Lal Gonullu",
+        "summary": "\u201cI\u2019ve been working with Leo on a  non-profit by the name of the Global Society of Young Physicists since its foundation. Leo's dedication as the Chief Executive at the Global Society of Young Physicists is truly commendable with his commitment to excellence. His hard-working and intellectual nature shine through in every task the organisation undertakes, making him an invaluable colleague. I wish Leo the best in his future endeavours.\u201d"
+      },
+      {
+        "link": "https://www.linkedin.com/in/dylanskim?trk=public_profile_recommendations",
+        "name": "Dylan Kim",
+        "summary": "\u201cI worked with Leo during my time running M4S. He was employee #1 and quickly integrated into our team, wearing a lot of 'startup shoes' which included curriculum development, project management, basic accounting, and go-to-market strategizing. Leo is hard-working, creative, and passionate about what he does. Great addition to any startup or project. As I recollect my time working with him, his innate passion to help others, and prioritize team over self is the most memorable. Rock on, Leo!!\u201d"
+      }
+    ],
+    "publications": [],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Chinese",
+        "level": "Elementary proficiency"
+      },
+      {
+        "name": "Latin",
+        "level": "Elementary proficiency"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Association for Computing Machinery",
+        "position": "Student Member"
+      },
+      {
+        "name": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "position": "Student Member"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Object Detection from Street Images (Computer Vision)",
+        "link": "https://www.linkedin.com/in/andrew-repine-76a649217?trk=public_profile_project_contributor-image",
+        "duration": "Jul 2021 - Jul 2021"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/andrew-repine-76a649217?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/ellie-sachinis?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/bowen-murphy-604925217?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/evan-miller-profile?trk=public_profile_project_contributor-image",
+        "duration": ""
+      }
+    ],
+    "awards": [
+      {
+        "name": "1st Place in the Berkeley Trading Invitational",
+        "organization": "Traders at Berkeley",
+        "duration": "Aug 2024",
+        "summary": "Placed in first out of over 130 participants in a quantitative finance and trading competition at UC Berkeley."
+      },
+      {
+        "name": "Gold Award in the Senior Maths Challenge",
+        "organization": "United Kingdom Mathematics Trust",
+        "duration": "Oct 2022",
+        "summary": ""
+      },
+      {
+        "name": "International STEM Olympiad Finalist",
+        "organization": "I-STEM Olympiad",
+        "duration": "Dec 2021",
+        "summary": ""
+      },
+      {
+        "name": "National Honor Award",
+        "organization": "European Economics Olympiad",
+        "duration": "Dec 2021",
+        "summary": "Qualified for national finals."
+      },
+      {
+        "name": "Tuition Scholarship",
+        "organization": "International School of Tianjin",
+        "duration": "Mar 2021",
+        "summary": "A tuition scholarship covers approximately 80% of school fees over the course of two years. Roughly equivalent to 410,000 RMB (approx. equivalent to US$60,000) total. The selection process for the scholarship takes academic performance, co-curricular involvement and, to some degree, financial need into account."
+      },
+      {
+        "name": "First Place in RoboSax",
+        "organization": "Chemnitz University of Technology",
+        "duration": "Jun 2018",
+        "summary": "RoboSax is an annual robotics competition based in Saxony. It is organized by the Robotics AG of the Johannes-Kepler-Gymnasium and supported by the Chemnitz University of Technology."
+      }
+    ],
+    "score": []
+  }
+]

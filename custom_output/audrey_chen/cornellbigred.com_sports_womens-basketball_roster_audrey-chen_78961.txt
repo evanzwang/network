@@ -1,0 +1,239 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+    Start of Floodlight Tag: Please do not remove
+Activity name of this tag: sitevisits-cornellcollege
+URL of the webpage where the tag is expected to be placed: http://www.google.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 09/14/2023
+    End of Floodlight Tag: Please do not remove
+    Pause All Rotators
+  Begin comScore Tag
+  End comScore Tag
+      Cornell University
+        Main Navigation
+          ko if: false
+            [Ivy League on ESPN](http://www.ivyleaguenetwork.com/)
+            [Photo Galleries](/galleries/)
+            [Big Red Activity Book Download](/news/2020/3/27/baseball-the-kids-need-something-to-do-this-weekend-try-the-cornell-activity-book.aspx)
+            [Baseball](/sports/baseball)
+            [Baseball: Schedule](/sports/baseball/schedule)
+            [Baseball: Roster](/sports/baseball/roster)
+            [Baseball: News](/sports/baseball/archives)
+            [Basketball](/sports/mens-basketball)
+            [Basketball: Schedule](/sports/mens-basketball/schedule)
+            [Basketball: Roster](/sports/mens-basketball/roster)
+            [Basketball: News](/sports/mens-basketball/archives)
+            [Cross Country](/sports/mens-cross-country)
+            [Cross Country: Schedule](/sports/mens-cross-country/schedule)
+            [Cross Country: Roster](/sports/mens-cross-country/roster)
+            [Cross Country: News](/sports/mens-cross-country/archives)
+            [Football](/sports/football)
+            [Football: Schedule](/sports/football/schedule)
+            [Football: Roster](/sports/football/roster)
+            [Football: News](/sports/football/archives)
+            [Golf](/sports/mens-golf)
+            [Golf: Schedule](/sports/mens-golf/schedule)
+            [Golf: Roster](/sports/mens-golf/roster)
+            [Golf: News](/sports/mens-golf/archives)
+            [Ice Hockey](/sports/mens-ice-hockey)
+            [Ice Hockey: Schedule](/sports/mens-ice-hockey/schedule)
+            [Ice Hockey: Roster](/sports/mens-ice-hockey/roster)
+            [Ice Hockey: News](/sports/mens-ice-hockey/archives)
+            [Lacrosse](/sports/mens-lacrosse)
+            [Lacrosse: Schedule](/sports/mens-lacrosse/schedule)
+            [Lacrosse: Roster](/sports/mens-lacrosse/roster)
+            [Lacrosse: News](/sports/mens-lacrosse/archives)
+            [Polo](/sports/mens-polo)
+            [Polo: Schedule](/sports/mens-polo/schedule)
+            [Polo: Roster](/sports/mens-polo/roster)
+            [Polo: News](/sports/mens-polo/archives)
+            [Rowing - Heavyweight](/sports/rowing)
+            [Rowing - Heavyweight: Schedule](/sports/rowing/schedule)
+            [Rowing - Heavyweight: Roster](/sports/rowing/roster)
+            [Rowing - Heavyweight: News](/sports/rowing/archives)
+            [Rowing - Lightweight](/sports/mens-rowing)
+            [Rowing - Lightweight: Schedule](/sports/mens-rowing/schedule)
+            [Rowing - Lightweight: Roster](/sports/mens-rowing/roster)
+            [Rowing - Lightweight: News](/sports/mens-rowing/archives)
+            [Soccer](/sports/mens-soccer)
+            [Soccer: Schedule](/sports/mens-soccer/schedule)
+            [Soccer: Roster](/sports/mens-soccer/roster)
+            [Soccer: News](/sports/mens-soccer/archives)
+            [Sprint Football](/sports/sprint-football)
+            [Sprint Football: Schedule](/sports/sprint-football/schedule)
+            [Sprint Football: Roster](/sports/sprint-football/roster)
+            [Sprint Football: News](/sports/sprint-football/archives)
+            [Squash](/sports/mens-squash)
+            [Squash: Schedule](/sports/mens-squash/schedule)
+            [Squash: Roster](/sports/mens-squash/roster)
+            [Squash: News](/sports/mens-squash/archives)
+            [Swimming & Diving](/sports/mens-swimming-and-diving)
+            [Swimming & Diving: Schedule](/sports/mens-swimming-and-diving/schedule)
+            [Swimming & Diving: Roster](/sports/mens-swimming-and-diving/roster)
+            [Swimming & Diving: News](/sports/mens-swimming-and-diving/archives)
+            [Tennis](/sports/mens-tennis)
+            [Tennis: Schedule](/sports/mens-tennis/schedule)
+            [Tennis: Roster](/sports/mens-tennis/roster)
+            [Tennis: News](/sports/mens-tennis/archives)
+            [Track & Field](/sports/mens-track-and-field)
+            [Track & Field: Schedule](/sports/mens-track-and-field/schedule)
+            [Track & Field: Roster](/sports/mens-track-and-field/roster)
+            [Track & Field: News](/sports/mens-track-and-field/archives)
+            [Wrestling](/sports/wrestling)
+            [Wrestling: Schedule](/sports/wrestling/schedule)
+            [Wrestling: Roster](/sports/wrestling/roster)
+            [Wrestling: News](/sports/wrestling/archives)
+            [Equestrian](/sports/equestrian)
+            [Equestrian: Schedule](/sports/equestrian/schedule)
+            [Equestrian: Roster](/sports/equestrian/roster)
+            [Equestrian: News](/sports/equestrian/archives)
+            [Fencing](/sports/fencing)
+            [Fencing: Schedule](/sports/fencing/schedule)
+            [Fencing: Roster](/sports/fencing/roster)
+            [Fencing: News](/sports/fencing/archives)
+            [Field Hockey](/sports/field-hockey)
+            [Field Hockey: Schedule](/sports/field-hockey/schedule)
+            [Field Hockey: Roster](/sports/field-hockey/roster)
+            [Field Hockey: News](/sports/field-hockey/archives)
+            [Gymnastics](/sports/womens-gymnastics)
+            [Gymnastics: Schedule](/sports/womens-gymnastics/schedule)
+            [Gymnastics: Roster](/sports/womens-gymnastics/roster)
+            [Gymnastics: News](/sports/womens-gymnastics/archives)
+            [Rowing](/sports/womens-rowing)
+            [Rowing: Schedule](/sports/womens-rowing/schedule)
+            [Rowing: Roster](/sports/womens-rowing/roster)
+            [Rowing: News](/sports/womens-rowing/archives)
+            [Sailing](/sports/womens-sailing)
+            [Sailing: Schedule](/sports/womens-sailing/schedule)
+            [Sailing: Roster](/sports/womens-sailing/roster)
+            [Sailing: News](/sports/womens-sailing/archives)
+            [Softball](/sports/softball)
+            [Softball: Schedule](/sports/softball/schedule)
+            [Softball: Roster](/sports/softball/roster)
+            [Softball: News](/sports/softball/archives)
+            [Swimming & Diving : Schedule](/sports/womens-swimming-and-diving/schedule)
+            [Swimming & Diving : Roster](/sports/womens-swimming-and-diving/roster)
+            [Swimming & Diving : News](/sports/womens-swimming-and-diving/archives)
+            [Volleyball](/sports/womens-volleyball)
+            [Volleyball: Schedule](/sports/womens-volleyball/schedule)
+            [Volleyball: Roster](/sports/womens-volleyball/roster)
+            [Volleyball: News](/sports/womens-volleyball/archives)
+            [Compliance](/sports/2007/7/11/ComplianceMain.aspx)
+            [Physical Education](/sports/2011/9/20/GEN_0920115301.aspx)
+            [Recreation](/sports/2011/9/20/GEN_0920110716.aspx)
+            [Sports Nutrition](/sports/sports-nutrition)
+            [Sports Medicine](/sports/2007/7/11/AthleticTraining.aspx)
+            [Strength & Conditioning](/sports/strength-conditioning)
+            [Student-Athlete Services](/sports/2007/7/11/SAServices.aspx)
+            [— Red Key Athlete Honor Society](/sports/2007/11/28/red_key_society.aspx)
+            [Staff Directory](/staff-directory)
+            [Travel to Cornell](/sports/2011/9/27/GEN_TRAVEL)
+            [Bear Essentials (Secure)](/policymanual)
+            [Big Red Bios](/sports/2017/4/28/big-red-bios.aspx)
+            [Big Red Threads Archive](https://cornellbigred.com/sports/2023/9/26/big-red-threads-archives.aspx)
+            [Diversity, Equity & Inclusion](https://cornellbigred.com/sports/2022/12/15/diversity-equity-and-inclusion.aspx)
+            [EADA Report](/sports/2016/10/14/eada-report)
+            [Facilities](/facilities/)
+            [General Releases](/sports/general)
+            [Hall of Fame](/honors/hall-of-fame)
+            [History](/sports/2007/7/11/History.aspx)
+            [Kids Club](/news/2015/1/7/Kids_Club_0107154509.aspx?path=kidsclub)
+            [Mission Statement](/sports/2007/7/11/MissionStatement.aspx)
+            [Newsletter](https://cornellbigredtickets.us16.list-manage.com/subscribe?u=8c394e668249f21fb28dad91f&id=cbc77d3582)
+            [Traditions](/sports/2007/7/11/CornellTraditions.aspx)
+            [Meinig Fieldhouse Project](https://sway.cloud.microsoft/C0iLLNADUJv1OIPA?ref=Link)
+            [Meinig Fieldhouse Information](https://sway.cloud.microsoft/C0iLLNADUJv1OIPA?ref=Link)
+            [Cornell Chronicle Project Announcement](https://news.cornell.edu/stories/2023/10/new-indoor-sports-facility-honor-peter-c-meinig-61)
+            [Composite Schedule](/calendar)
+            [Multimedia Events](/coverage)
+            [Special Events](https://scl.cornell.edu/news-events/events?title=&field_department_tags_target_id=34556)
+            [Make a Gift](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&sort=1&dids=4.302.240.241.242.243.244.245.246.247.248.249.250.251.252.5.255.256.440.260.261.262.263.264.442.265.266.267.270.441.268.269)
+            [The Meinig Fieldhouse Project](https://sway.cloud.microsoft/C0iLLNADUJv1OIPA?ref=Link)
+            [Men's Basketball](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=241.)
+            [Women's Basketball](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=242.)
+            [M&W Cross Country](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=270.)
+            [Men's Ice Hockey](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=249.)
+            [Women's Ice Hockey](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=250.)
+            [Men's Lacrosse](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=251.)
+            [Women's Lacrosse](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=252.)
+            [M&W Polo](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=255.)
+            [Men's Soccer](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=260.)
+            [Women's Soccer](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=261.)
+            [M&W Squash](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=264.)
+            [M&W Swimming & Diving](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=265.)
+            [Men's Tennis](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=266.)
+            [Women's Tennis](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=267.)
+            [M&W Track & Field](https://securelb.imodules.com/s/1717/giving/interior.aspx?sid=1717&gid=2&pgid=16421&bledit=1&dids=270.)
+            [Ticket Information](https://cornellbigredtickets.universitytickets.com/w/)
+            [BigRedTix.com](https://vivenu.com/seller/cornell-athletics-4qf3)
+            [Shop](https://sideline.bsnsports.com/schools/new_york/ithaca/cornell-university)
+          /ko
+        Sport Navigation
+          2024-25 Women's Basketball Roster
+            Choose a Player:
+              Andrews, Alana
+              Chen, Audrey
+              Davis, Jada
+              Engels, Paige
+              Green, Lexi
+              Hathorn, Sarah
+              Jackson, Clarke
+              Kaus, Rachel
+              Kilgoe, Azareya
+              Knee, Vivienne
+              Langston, Kelsey
+              Linoxilakis, Arianna
+              Pape, Emily
+              Parker-Hall, Summer
+              Perry, Kameryn
+              Watts, Maya
+            Go
+                Caroline Sherman / Cornell Athletics
+            Pause
+                12
+                  Audrey
+                  Chen
+                    Position
+                    Guard
+                    Height
+                    5-7
+                    Class
+                    Freshman
+                    High School
+                    La Salle HS
+                    Hometown
+                    South Pasadena, Calif.
+            Biography
+              PRIOR TO CORNELL
+              PERSONAL
+            Statistics
+              ko if: isLoading
+              ko ifnot: isLoading
+              ko if: stats
+              ko with: stats
+              ko if: gamehigh_stats || current_stats
+              ko if: gamehigh_stats == null && current_stats == null
+                No statistics available for this season.
+              ko if: career_stats
+                Career Statistics
+              ko ifnot: (stats && career_stats)
+              There are no statistics available for this player.
+      Footer
+              © 2025 Cornell University Athletics
+              Teagle Hall, 512 Campus Road, Ithaca, NY 14853
+          If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, Contact
+            [web-accessibility@cornell.edu](mailto:web-accessibility@cornell.edu)
+            for assistance.
+                  [Terms of Service](http://sidearmsports.com/terms-of-service)
+                    , opens in new window
+                  [Privacy Policy](http://sidearmsports.com/privacypolicy)
+                  [Accessibility](https://sidearmsports.com/accessibility-statement)
+                    Sidearm Sports, opens a new window
+          Ad Blocker Detected
+          Thanks for visiting
+          The use of software that blocks ads hinders our ability to serve you the content you came here to enjoy.
+          We ask that you consider turning off your ad blocker so we can deliver you the best experience possible while you are here.
+          Thank you for your support!
+      Close
+  BEGIN ControlTag for "Sidearm"
+  END ControlTag

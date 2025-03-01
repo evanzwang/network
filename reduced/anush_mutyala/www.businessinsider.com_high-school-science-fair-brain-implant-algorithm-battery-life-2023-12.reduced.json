@@ -1,0 +1,97 @@
+{
+  "title": "High School Science Fair Winner Creates Brain Implant Algorithm - Business Insider",
+  "meta_description": "Brain implants have terrible battery lives. For a science fair project, a high school student created an algorithm that makes them last for decades.",
+  "main_content": "Science A high schooler's award-winning algorithm could help Elon Musk's company Neuralink and pave the way for neural implants that never need replacing Jenny McGrath 2023-12-20T11:18:01Z Share icon An curved arrow pointing right. Share Facebook Email X LinkedIn Copy Link lighning bolt icon An icon in the shape of a lightning bolt. Impact Link Save Article Icon A bookmark Save Read in app Canadian high school student Anush Mutyala with the headset he used as part of his neural implant science fair project. Canada-Wide Science Fair This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? Log in . Neural implants can help patients perform tasks they couldn't do otherwise, but battery life is an issue. The batteries on wireless devices drain quickly and need to be replaced via surgery every few years. For a high school science fair project, Anush Mutyala invented an algorithm to improve battery life. Canadian high school student Anush Mutyala wants to create a neural implant that never needs to be replaced. His project, which could significantly improve the lifespan of batteries in neural implants, won a bronze excellence award at the Canada-Wide Science Fair in May . Mutyala told Business Insider that he was partly inspired for this project by Elon Musk's Neuralink , saying energy efficiency is the area where he thinks Neuralink is falling behind and could use improvement. Neuralink is developing a device that Musk has compared to a \"FitBit in your skull.\" It uses a lithium battery that will last about 11 hours before it needs recharging, according to Bloomberg . Mutyala said his algorithm makes batteries far more efficient. \"If I did end up fully fledgling this out on an implant, you would be able to see a drastic difference in power consumption just based on what I've been able to already show with the science fair project,\" he said. An implant that never needs its batteries changed Doctors have used neurotechnology to help a stroke patient speak again and a man with ALS perform a host of tasks, like turning on the lights, through his computer. The issue is that, with some wireless implants, the batteries don't last forever. \"Traditionally these implants need to be replaced every couple of years with brain surgery,\" Mutyala told Business Insider. Other estimates say it's more like three to five years. For his project, Mutyala used a headset to non-invasively capture brain waves of people thinking of moving their hands or feet. With that data, he created an algorithm that could be used to improve the lifespan of batteries in neural implants by helping to address implants' biggest power drain. \"Most of it comes from how data is being taken from the brain and then read, understood, decoded, and translated into something of use,\" he said. A battery that could last 70 times longer By limiting power use to when there were specific triggers, Mutyala said batteries could last almost 70 times longer. Related stories \"You would essentially never need to replace the implants\" to put in a new battery, he said. Though he didn't have the hardware to test the hypothesis, Mutyala believes his algorithm would also help cut down on the latency between when a person would think of moving their hand and when the hand would actually move. Who inspired Mutyala In addition to Musk, Mutyala also pulled inspiration from the late scientist Stephen Hawking , who had ALS and used a voice synthesizer to speak. In his last book , Hawking wrote that he believed brain-computer interfaces are the future of communication, and Mutyala agrees. \"He required assistive technologies to communicate with his students,\" Mutyala said. \"But this was pretty primitive in comparison to what we can do today.\" Professor Stephen Hawking said brain-computer interfaces are the future. ANDREW COWIE/AFP/Getty Images While Mutyala said he'll likely continue to pursue research in the field of neural implants, he thinks it's already making huge strides from where it was a decade ago. The main goal is to make the process less burdensome for patients, he said. \"I think that's where we're moving towards, where it's something as simple as a pacemaker,\" he said. Read next",
+  "links": [
+    {
+      "url": "/",
+      "text": "HOME"
+    },
+    {
+      "url": "https://www.businessinsider.com/subscription",
+      "text": "Subscribe"
+    },
+    {
+      "url": "/science",
+      "text": "Science"
+    },
+    {
+      "url": "https://www.businessinsider.com/author/jenny-mcgrath",
+      "text": "Jenny McGrath"
+    },
+    {
+      "url": "mailto:?subject=A high schooler's award-winning algorithm could help Elon Musk's company Neuralink and pave the way for neural implants that never need replacing&body=A%20high%20schooler's%20award-winning%20algorithm%20could%20help%20Elon%20Musk's%20company%20Neuralink%20and%20pave%20the%20way%20for%20neural%20implants%20that%20never%20need%20replacing%0D%0A%0D%0Ahttps%3A%2F%2Fwww.businessinsider.com%2Fhigh-school-science-fair-brain-implant-algorithm-battery-life-2023-12&",
+      "text": "Email"
+    },
+    {
+      "url": "https://insider-app.onelink.me/4cpG/?af_js_web=true&af_ss_ver=2_3_0&af_dp=insider%3A%2F%2Fbi%2Fpost%2Fhigh-school-science-fair-brain-implant-algorithm-battery-life-2023-12&af_force_deeplink=true&is_retargeting=true&deep_link_value=https%3A%2F%2Fwww.businessinsider.com%2Fhigh-school-science-fair-brain-implant-algorithm-battery-life-2023-12&pid=businessinsider&c=post_page_share_bar_v2_smart_4.13.23",
+      "text": "Read in app"
+    },
+    {
+      "url": "/subscription",
+      "text": "Become an Insider"
+    },
+    {
+      "url": "https://www.businessinsider.com/interest-neuralink-human-trial-patient-elon-musk-brain-implant-report-2023-11",
+      "text": "Neural implants"
+    },
+    {
+      "url": "https://youthscience.ca/wp-content/uploads/2023/05/CWSF2023-Award-Results-Scholarships-EN.pdf",
+      "text": "award"
+    },
+    {
+      "url": "https://cwsf.youthscience.ca/",
+      "text": "Canada-Wide Science Fair"
+    },
+    {
+      "url": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
+      "text": "Elon Musk's Neuralink"
+    },
+    {
+      "url": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11",
+      "text": "will last"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2023-11-07/elon-musk-s-neuralink-brain-implant-startup-is-ready-to-start-surgery",
+      "text": "Bloomberg"
+    },
+    {
+      "url": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
+      "text": "help a stroke patient speak"
+    },
+    {
+      "url": "https://www.businessinsider.com/brain-computer-interface-what-is-it-how-does-it-work-2022-9",
+      "text": "man with ALS"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8239223/",
+      "text": "Other estimates"
+    },
+    {
+      "url": "https://www.businessinsider.com/best-articles-on-stephen-hawking-2018-3",
+      "text": "Stephen Hawking"
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/50615313-brief-answers-to-the-big-questions",
+      "text": "last book"
+    },
+    {
+      "url": "/subscription",
+      "text": "Become an Insider"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i.insider.com/6581d6251c5c7b8c9a09c52b?width=700",
+      "alt": "A high school student in a navy blazer and white shirt holds a black headset"
+    },
+    {
+      "src": "data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'/%3E",
+      "alt": "Stephen Hawking"
+    },
+    {
+      "src": "https://sb.scorecardresearch.com/p?c1=2&c2=9900186&cv=3.6.0&;cj=1&comscorekw=science",
+      "alt": ""
+    }
+  ]
+}

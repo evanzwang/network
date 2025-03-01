@@ -1,0 +1,104 @@
+    Loading...
+    The system can't perform the operation now. Try again later.
+          Citations per year
+          Duplicate citations
+            The following articles are merged in Scholar. Their
+              are counted only for the first article.
+          Merged citations
+          This "Cited by" count includes citations to the following articles in Scholar. The ones marked
+            *
+            may be different from the article in the profile.
+              Add co-authors
+              Co-authors
+          Follow
+                  New articles by this author
+                  New citations to this author
+                  New articles related to this author's research
+              Email address for updates
+                  Done
+    [if lte IE 9]><div class="gs_alrt" style="padding:16px"><div>Sorry, some features may not work in this version of Internet Explorer.</div><div>Please use <a href="//www.google.com/chrome/">Google Chrome</a> or <a href="//www.mozilla.com/firefox/">Mozilla Firefox</a> for the best experience.</div></div><![endif]
+              My profile
+              My library
+              Metrics
+              Alerts
+              Settings
+            Sign in
+            [Get my own profile](/citations?hl=en)
+                Cited by
+                    All
+                    Since 2020
+                    58
+                    3
+                  0
+                  36
+                  18
+                    2022
+                    2023
+                    2024
+                    2025
+                      6
+                      12
+                      [Dylan Hadfield-Menell](/citations?user=4mVPFQ8AAAAJ&hl=en)
+                      Massachusetts Institute of Technology
+                      Verified email at csail.mit.edu
+                      [Stephen Casper](/citations?user=zaF8UJcAAAAJ&hl=en)
+                      PhD student, MIT
+                      Verified email at mit.edu
+                      [Jiawei Li（李佳蔚）](/citations?user=ujknY1gAAAAJ&hl=en)
+                      Tsinghua University
+                      Verified email at mails.tsinghua.edu.cn
+                      [Jérémy Scheurer](/citations?user=_6nYXQYAAAAJ&hl=en)
+                      Apollo Research
+                      Verified email at apolloresearch.ai
+                      [Mikita Balesni](/citations?user=mDXcNBMAAAAJ&hl=en)
+                      Research Scientist, Apollo Research
+                      [Owain Evans](/citations?user=4VpTwzIAAAAJ&hl=en)
+                      Associate, CHAI, UC Berkeley
+                      Verified email at philosophy.ox.ac.uk
+                      [Marius Hobbhahn](/citations?user=SJ1y8o0AAAAJ&hl=en)
+                      PhD in Machine Learning, University of Tübingen
+                      Verified email at uni-tuebingen.de
+                      [Alexander Meinke](/citations?user=lPM1t5oAAAAJ&hl=en)
+                      [Bilal Chughtai](/citations?user=i-L98bwAAAAJ&hl=en)
+                      Google DeepMind
+                      Verified email at google.com
+                      [Rudolf Laine](/citations?user=74kO9PkAAAAJ&hl=en)
+                      Verified email at cantab.ac.uk
+                      [Tony Wang](/citations?user=YWiob00AAAAJ&hl=en)
+                  Kaivalya Hariharan
+                MIT CSAIL
+                  [Deep Learning](/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning)
+                  [Adversarial Examples](/citations?view_op=search_authors&hl=en&mauthors=label:adversarial_examples)
+                          [Title](/citations?hl=en&user=JXNx9pQAAAAJ&view_op=list_works&sortby=title)
+                              Sort
+                              [Sort by citations](/citations?hl=en&user=JXNx9pQAAAAJ&view_op=list_works)
+                              [Sort by year](/citations?hl=en&user=JXNx9pQAAAAJ&view_op=list_works&sortby=pubdate)
+                              [Sort by title](/citations?hl=en&user=JXNx9pQAAAAJ&view_op=list_works&sortby=title)
+                          [Year](/citations?hl=en&user=JXNx9pQAAAAJ&view_op=list_works&sortby=pubdate)
+                        [Red teaming deep neural networks with feature synthesis tools](/citations?view_op=view_citation&hl=en&user=JXNx9pQAAAAJ&citation_for_view=JXNx9pQAAAAJ:u-x6o8ySG0sC)
+                        S Casper, T Bu, Y Li, J Li, K Zhang, K Hariharan, D Hadfield-Menell
+                        Advances in Neural Information Processing Systems 36, 80470-80516
+                          , 2023
+                        [24](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17762979219147247801)
+                        [Me, myself, and ai: The situational awareness dataset (sad) for llms](/citations?view_op=view_citation&hl=en&user=JXNx9pQAAAAJ&citation_for_view=JXNx9pQAAAAJ:9yKSN-GCB0IC)
+                        R Laine, B Chughtai, J Betley, K Hariharan, M Balesni, J Scheurer, ...
+                        Advances in Neural Information Processing Systems 37, 64010-64118
+                          , 2025
+                        [19](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13235583375283119996)
+                        [Diagnostics for deep neural networks with automated copy/paste attacks](/citations?view_op=view_citation&hl=en&user=JXNx9pQAAAAJ&citation_for_view=JXNx9pQAAAAJ:u5HHmVD_uO8C)
+                        S Casper, K Hariharan, D Hadfield-Menell
+                        arXiv preprint arXiv:2211.10024
+                          , 2022
+                        [Forbidden facts: An investigation of competing objectives in Llama-2](/citations?view_op=view_citation&hl=en&user=JXNx9pQAAAAJ&citation_for_view=JXNx9pQAAAAJ:d1gkVwhDpl0C)
+                        TT Wang, M Wang, K Hariharan, N Shavit
+                        arXiv preprint arXiv:2312.08793
+                        [Between the Bars: Gradient-based Jailbreaks are Bugs that induce Features](/citations?view_op=view_citation&hl=en&user=JXNx9pQAAAAJ&citation_for_view=JXNx9pQAAAAJ:qjMakFHDy7sC)
+                        K Hariharan, U Girit
+                        Red Teaming GenAI: What Can We Learn from Adversaries?
+                          , 0
+                Articles 1–5
+                      Show more
+        [Privacy](//www.google.com/intl/en/policies/privacy/)
+        [Terms](//www.google.com/intl/en/policies/terms/)
+        [About Scholar](/intl/en/scholar/about.html)
+        [Search help](//support.google.com/websearch?p=scholar_dsa&hl=en)

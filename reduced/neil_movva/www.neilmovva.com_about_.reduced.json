@@ -1,0 +1,37 @@
+{
+  "title": "About \u00b7 Neil Movva",
+  "meta_description": "",
+  "main_content": "About updated June 2021 Resume (PDF) I work at the intersection of deep learning and computer architecture. I think ML algorithms should inspire silicon architectures, and vice-versa. To that end, I currently work at Apple on the Neural Engine project. Previously, I graduated from Stanford with a BS and MS in electrical engineering. My coursework centered on AI / ML algorithms, with a special focus on computer vision and graphics. In my summer internships, I spent two summers at NVIDIA in the Deep Learning Architecture group, writing CUDA and learning about GPU microarch to train huge models at maximum speed. I also spent a very exciting summer at Built Robotics , where I helped design an autonomous vehicle's perception system from the ground up. Now, I'm interested in on-device inference, where efficiency is king. This is a multi-pronged effort, built on bleeding-edge semiconductor engineering, novel computer architectures, and a reimagination of deep learning algorithms. I'm excited about all the above! As much as I love learning about silicon, I actually spend most of my time in software. In college, I worked on light fields, computational photography, and vision-based robotic autonomy, to name a few highlights. I'm very comfortable with building and tuning deep learning models, and have strong familiarity with modern techniques in applied ML. In my free time, I like to get some use from my EE degree by designing embedded electronics, usually for robotics. I'm also an amateur sysadmin, managing a small-scale server farm designed to get big FLOPs on the cheap.",
+  "links": [
+    {
+      "url": "https://www.neilmovva.com/",
+      "text": "Neil Movva"
+    },
+    {
+      "url": "https://www.neilmovva.com/",
+      "text": "Home"
+    },
+    {
+      "url": "/about/",
+      "text": "About"
+    },
+    {
+      "url": "nmovva-resume.pdf",
+      "text": "Resume (PDF)"
+    },
+    {
+      "url": "https://www.builtrobotics.com",
+      "text": "Built Robotics"
+    },
+    {
+      "url": "/about/profile.jpg",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "/about/profile.jpg",
+      "alt": "Neil Movva's profile picture. Click to view larger."
+    }
+  ]
+}

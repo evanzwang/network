@@ -1,0 +1,368 @@
+{
+  "title": "Trishala Neeraj | Semantic Scholar",
+  "meta_description": "Semantic Scholar profile for Trishala Neeraj, with 475 highly influential citations and 14 scientific research papers.",
+  "main_content": "Co-Author Has PDF More Filters More Filters Filters Sort by Most Influential Papers Sort by Citation Count Sort by Recency BLOOM: A 176B-Parameter Open-Access Multilingual Language Model Teven Le Scao Angela Fan +388 authors Thomas Wolf Computer Science, Linguistics arXiv.org 9 November 2022 TLDR BLOOM is a 176B-parameter open-access language model designed and built thanks to a collaboration of hundreds of researchers and achieves competitive performance on a wide variety of benchmarks, with stronger results after undergoing multitask prompted finetuning. Expand 2,146 212 PDF (opens in a new tab) arXiv (opens in a new tab) Save Alert Cite Multitask Prompted Training Enables Zero-Shot Task Generalization Victor Sanh Albert Webson +38 authors Alexander M. Rush Computer Science arXiv.org 15 October 2021 TLDR A system for easily mapping any natural language tasks into a human-readable prompted form and fine-tune a pretrained encoder-decoder model on this multitask mixture covering a wide variety of tasks. Expand 1,599 135 PDF (opens in a new tab) arXiv (opens in a new tab) Save Alert Cite Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models Aarohi Srivastava Abhinav Rastogi +447 authors Ziyi Wu Computer Science, Linguistics arXiv.org 9 June 2022 TLDR Evaluation of OpenAI's GPT models, Google-internal dense transformer architectures, and Switch-style sparse transformers on BIG-bench, across model sizes spanning millions to hundreds of billions of parameters finds that model performance and calibration both improve with scale, but are poor in absolute terms. Expand 1,549 121 PDF (opens in a new tab) arXiv (opens in a new tab) Save Alert Cite BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing Jason Alan Fries Leon Weber +40 authors Benjamin Beilharz Computer Science, Medicine Neural Information Processing Systems 30 June 2022 TLDR BigBIO is introduced, a community library of 126+ biomedical NLP datasets, currently covering 12 task categories and 10+ languages that facilitates reproducible meta-dataset curation via programmatic access to datasets and their metadata, and is compatible with current platforms for prompt engineering and end-to-end few/zero shot language model evaluation. Expand 41 2 PDF (opens in a new tab) arXiv (opens in a new tab) Save Alert Cite ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization David Wan Koustuv Sinha +106 authors Kalyan Saladi Computer Science Annual Meeting of the Association for\u2026 2024 TLDR This work presents ACUE-VAL, a metric that leverages the power of LLMs to perform two sub-tasks: decomposing summaries into atomic content units (ACUs) and validating them against the source document, and shows reduced preference bias towards LLM-generated sum-mary. Expand 4 1 PDF (opens in a new tab) Publisher (opens in a new tab) Save Alert Cite Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners Qihuang Zhong Kang Wang +140 authors Le Hou Computer Science TLDR A novel prompt strategy called Deeply Understanding the Problems (DUP) prompting is proposed, inspired by how humans solve complex reasoning problems, designed to enhance the comprehensive understanding of problems by LLMs. Expand 11 1 Save Alert Cite Multitask Prompted Training Enables Zero-Shot Task Generalization Victor Sanh Albert Webson +37 authors Alexander M. Rush Computer Science International Conference on Learning\u2026 2022 15 1 View Paper (opens in a new tab) Save Alert Cite Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models Aarohi Srivastava Abhinav Rastogi +447 authors Ziyi Wu Linguistics, Computer Science Trans. Mach. Learn. Res. 2023 4 1 View Paper (opens in a new tab) Save Alert Cite A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles Xiao Ma Trishala Neeraj Mor Naaman Computer Science, Linguistics International Conference on Web and Social Media 3 May 2017 TLDR A novel computational framework to predict the perceived trustworthiness of host profile texts in the context of online lodging marketplaces and insights into the linguistic factors that contribute to higher and lower perceived trustworthy for profiles of different lengths are provided. Expand 21 1 PDF (opens in a new tab) Publisher (opens in a new tab) Save Alert Cite FINALE : Finance Domain Instruction-Tuning Dataset with High-Quality Rationales via Chain-of-Thought Prompting Sangmin Lee Suzie Oh +1,049 authors Kaza Computer Science, Business TLDR FINALE is proposed, a financial instruction tuning dataset that includes high-quality rationales generated through the use of a Chain-of-Thought (CoT) prompting and quality filtering that demonstrates the effectiveness of FINALE and emphasizes the importance of training models to generate high-quality rationales. Expand Save Alert Cite ... 1 2 ...",
+  "links": [
+    {
+      "url": "/author/Trishala-Neeraj/10729963",
+      "text": "Trishala Neeraj"
+    },
+    {
+      "url": "/faq#h-index",
+      "text": "h-index"
+    },
+    {
+      "url": "/author/Trishala-Neeraj/10729963/claim",
+      "text": "Claim Author Page"
+    },
+    {
+      "url": "/paper/BLOOM%3A-A-176B-Parameter-Open-Access-Multilingual-Scao-Fan/964bd39b546f0f6625ff3b9ef1083f797807ef2e",
+      "text": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model"
+    },
+    {
+      "url": "/author/Teven-Le-Scao/1379806208",
+      "text": "Teven Le Scao"
+    },
+    {
+      "url": "/author/Angela-Fan/144270981",
+      "text": "Angela Fan"
+    },
+    {
+      "url": "/author/Thomas-Wolf/50335211",
+      "text": "Thomas Wolf"
+    },
+    {
+      "url": "/venue?name=arXiv.org",
+      "text": "arXiv.org"
+    },
+    {
+      "url": "/paper/BLOOM%3A-A-176B-Parameter-Open-Access-Multilingual-Scao-Fan/964bd39b546f0f6625ff3b9ef1083f797807ef2e#citing-papers",
+      "text": "2,146"
+    },
+    {
+      "url": "/paper/BLOOM%3A-A-176B-Parameter-Open-Access-Multilingual-Scao-Fan/964bd39b546f0f6625ff3b9ef1083f797807ef2e?sort=is-influential#citing-papers",
+      "text": "212"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.05100.pdf",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.05100.pdf",
+      "text": "arXiv (opens in a new tab)"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/17dd3555fd1ccf1141cf984347fa1b3fd6b009ca",
+      "text": "Multitask Prompted Training Enables Zero-Shot Task Generalization"
+    },
+    {
+      "url": "/author/Victor-Sanh/51918868",
+      "text": "Victor Sanh"
+    },
+    {
+      "url": "/author/Albert-Webson/1991019030",
+      "text": "Albert Webson"
+    },
+    {
+      "url": "/author/Alexander-M.-Rush/2531268",
+      "text": "Alexander M. Rush"
+    },
+    {
+      "url": "/venue?name=arXiv.org",
+      "text": "arXiv.org"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/17dd3555fd1ccf1141cf984347fa1b3fd6b009ca#citing-papers",
+      "text": "1,599"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/17dd3555fd1ccf1141cf984347fa1b3fd6b009ca?sort=is-influential#citing-papers",
+      "text": "135"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2110.08207.pdf",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2110.08207.pdf",
+      "text": "arXiv (opens in a new tab)"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/bd1331b233e84bab7eba503abc60b31ac08e7881",
+      "text": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+    },
+    {
+      "url": "/author/Aarohi-Srivastava/2169175069",
+      "text": "Aarohi Srivastava"
+    },
+    {
+      "url": "/author/Abhinav-Rastogi/2188497",
+      "text": "Abhinav Rastogi"
+    },
+    {
+      "url": "/author/Ziyi-Wu/2253894469",
+      "text": "Ziyi Wu"
+    },
+    {
+      "url": "/venue?name=arXiv.org",
+      "text": "arXiv.org"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/bd1331b233e84bab7eba503abc60b31ac08e7881#citing-papers",
+      "text": "1,549"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/bd1331b233e84bab7eba503abc60b31ac08e7881?sort=is-influential#citing-papers",
+      "text": "121"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.04615.pdf",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.04615.pdf",
+      "text": "arXiv (opens in a new tab)"
+    },
+    {
+      "url": "/paper/BigBIO%3A-A-Framework-for-Data-Centric-Biomedical-Fries-Weber/d3e4553f0a1fd465ae358701f1bdc2e8265308d6",
+      "text": "BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing"
+    },
+    {
+      "url": "/author/Jason-Alan-Fries/31592365",
+      "text": "Jason Alan Fries"
+    },
+    {
+      "url": "/author/Leon-Weber/20308468",
+      "text": "Leon Weber"
+    },
+    {
+      "url": "/author/Benjamin-Beilharz/1379935164",
+      "text": "Benjamin Beilharz"
+    },
+    {
+      "url": "/venue?name=Neural%20Information%20Processing%20Systems",
+      "text": "Neural Information Processing Systems"
+    },
+    {
+      "url": "/paper/BigBIO%3A-A-Framework-for-Data-Centric-Biomedical-Fries-Weber/d3e4553f0a1fd465ae358701f1bdc2e8265308d6#citing-papers",
+      "text": "41"
+    },
+    {
+      "url": "/paper/BigBIO%3A-A-Framework-for-Data-Centric-Biomedical-Fries-Weber/d3e4553f0a1fd465ae358701f1bdc2e8265308d6?sort=is-influential#citing-papers",
+      "text": "2"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.15076.pdf",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.15076.pdf",
+      "text": "arXiv (opens in a new tab)"
+    },
+    {
+      "url": "/paper/ACUEval%3A-Fine-grained-Hallucination-Evaluation-and-Wan-Sinha/170abc1fbb39c49c5fb1fd2b1273239826739a3f",
+      "text": "ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization"
+    },
+    {
+      "url": "/author/David-Wan/2316163989",
+      "text": "David Wan"
+    },
+    {
+      "url": "/author/Koustuv-Sinha/2266467601",
+      "text": "Koustuv Sinha"
+    },
+    {
+      "url": "/author/Kalyan-Saladi/1859294",
+      "text": "Kalyan Saladi"
+    },
+    {
+      "url": "/venue?name=Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics",
+      "text": "Annual Meeting of the Association for\u2026"
+    },
+    {
+      "url": "/paper/ACUEval%3A-Fine-grained-Hallucination-Evaluation-and-Wan-Sinha/170abc1fbb39c49c5fb1fd2b1273239826739a3f#citing-papers",
+      "text": "4"
+    },
+    {
+      "url": "/paper/ACUEval%3A-Fine-grained-Hallucination-Evaluation-and-Wan-Sinha/170abc1fbb39c49c5fb1fd2b1273239826739a3f?sort=is-influential#citing-papers",
+      "text": "1"
+    },
+    {
+      "url": "https://aclanthology.org/2024.findings-acl.597.pdf",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://doi.org/10.18653/v1%2F2024.findings-acl.597",
+      "text": "Publisher (opens in a new tab)"
+    },
+    {
+      "url": "/paper/Achieving-%3E97-on-GSM8K%3A-Deeply-Understanding-the-Zhong-Wang/1fd84f4414420485cc982158f068ca929a16db18",
+      "text": "Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners"
+    },
+    {
+      "url": "/author/Qihuang-Zhong/2114810150",
+      "text": "Qihuang Zhong"
+    },
+    {
+      "url": "/author/Kang-Wang/2297998382",
+      "text": "Kang Wang"
+    },
+    {
+      "url": "/author/Le-Hou/2153400663",
+      "text": "Le Hou"
+    },
+    {
+      "url": "/paper/Achieving-%3E97-on-GSM8K%3A-Deeply-Understanding-the-Zhong-Wang/1fd84f4414420485cc982158f068ca929a16db18#citing-papers",
+      "text": "11"
+    },
+    {
+      "url": "/paper/Achieving-%3E97-on-GSM8K%3A-Deeply-Understanding-the-Zhong-Wang/1fd84f4414420485cc982158f068ca929a16db18?sort=is-influential#citing-papers",
+      "text": "1"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/fe0825f9ddb1cccb545f4249da55b6b55e577bbd",
+      "text": "Multitask Prompted Training Enables Zero-Shot Task Generalization"
+    },
+    {
+      "url": "/author/Victor-Sanh/51918868",
+      "text": "Victor Sanh"
+    },
+    {
+      "url": "/author/Albert-Webson/2291172852",
+      "text": "Albert Webson"
+    },
+    {
+      "url": "/author/Alexander-M.-Rush/2260132137",
+      "text": "Alexander M. Rush"
+    },
+    {
+      "url": "/venue?name=International%20Conference%20on%20Learning%20Representations",
+      "text": "International Conference on Learning\u2026"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/fe0825f9ddb1cccb545f4249da55b6b55e577bbd#citing-papers",
+      "text": "15"
+    },
+    {
+      "url": "/paper/Multitask-Prompted-Training-Enables-Zero-Shot-Task-Sanh-Webson/fe0825f9ddb1cccb545f4249da55b6b55e577bbd?sort=is-influential#citing-papers",
+      "text": "1"
+    },
+    {
+      "url": "https://openreview.net/forum?id=9Vrb9D0WI4",
+      "text": "View Paper (opens in a new tab)"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/9dfe937f405b95bfc5e8e3679329a1f16b37e276",
+      "text": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+    },
+    {
+      "url": "/author/Aarohi-Srivastava/2169175069",
+      "text": "Aarohi Srivastava"
+    },
+    {
+      "url": "/author/Abhinav-Rastogi/2188497",
+      "text": "Abhinav Rastogi"
+    },
+    {
+      "url": "/author/Ziyi-Wu/2314148011",
+      "text": "Ziyi Wu"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/9dfe937f405b95bfc5e8e3679329a1f16b37e276#citing-papers",
+      "text": "4"
+    },
+    {
+      "url": "/paper/Beyond-the-Imitation-Game%3A-Quantifying-and-the-of-Srivastava-Rastogi/9dfe937f405b95bfc5e8e3679329a1f16b37e276?sort=is-influential#citing-papers",
+      "text": "1"
+    },
+    {
+      "url": "https://openreview.net/forum?id=uyTL5Bvosj",
+      "text": "View Paper (opens in a new tab)"
+    },
+    {
+      "url": "/paper/A-Computational-Approach-to-Perceived-of-Airbnb-Ma-Neeraj/a04494109397096810e7979788c72753c05b6a9b",
+      "text": "A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles"
+    },
+    {
+      "url": "/author/Xiao-Ma/2317911329",
+      "text": "Xiao Ma"
+    },
+    {
+      "url": "/author/Trishala-Neeraj/10729963",
+      "text": "Trishala Neeraj"
+    },
+    {
+      "url": "/author/Mor-Naaman/1687465",
+      "text": "Mor Naaman"
+    },
+    {
+      "url": "/venue?name=International%20Conference%20on%20Web%20and%20Social%20Media",
+      "text": "International Conference on Web and Social Media"
+    },
+    {
+      "url": "/paper/A-Computational-Approach-to-Perceived-of-Airbnb-Ma-Neeraj/a04494109397096810e7979788c72753c05b6a9b#citing-papers",
+      "text": "21"
+    },
+    {
+      "url": "/paper/A-Computational-Approach-to-Perceived-of-Airbnb-Ma-Neeraj/a04494109397096810e7979788c72753c05b6a9b?sort=is-influential#citing-papers",
+      "text": "1"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/ICWSM/article/download/14937/14787",
+      "text": "PDF (opens in a new tab)"
+    },
+    {
+      "url": "https://doi.org/10.1609/icwsm.v11i1.14937",
+      "text": "Publisher (opens in a new tab)"
+    },
+    {
+      "url": "/paper/FINALE-%3A-Finance-Domain-Instruction-Tuning-Dataset-Lee-Oh/942633d606bfb6ab8654b71b2ee07b05904efd96",
+      "text": "FINALE : Finance Domain Instruction-Tuning Dataset with High-Quality Rationales via Chain-of-Thought Prompting"
+    },
+    {
+      "url": "/author/Sangmin-Lee/2341658584",
+      "text": "Sangmin Lee"
+    },
+    {
+      "url": "/author/Suzie-Oh/2341675197",
+      "text": "Suzie Oh"
+    },
+    {
+      "url": "/author/Kaza/2341554722",
+      "text": "Kaza"
+    },
+    {
+      "url": "/author/Jos-Rozen/120419790",
+      "text": "Jos Rozen21 Publications \u2022 5,414 Citations"
+    },
+    {
+      "url": "/author/Ryan-Teehan/2131107966",
+      "text": "Ryan Teehan18 Publications \u2022 5,372 Citations"
+    },
+    {
+      "url": "/author/Jason-Alan-Fries/31592365",
+      "text": "Jason Alan Fries38 Publications \u2022 6,047 Citations"
+    },
+    {
+      "url": "/author/Harshit-Pandey/144834468",
+      "text": "Harshit Pandey24 Publications \u2022 3,783 Citations"
+    },
+    {
+      "url": "/author/Trishala-Neeraj/10729963/co-authors",
+      "text": "View All Co-Authors"
+    },
+    {
+      "url": "https://allenai.org/privacy-policy.html",
+      "text": "Privacy Policy (opens in a new tab)"
+    },
+    {
+      "url": "https://allenai.org/terms",
+      "text": "Terms of Service (opens in a new tab)"
+    },
+    {
+      "url": "http://api.semanticscholar.org/corpus/legal",
+      "text": "Dataset License (opens in a new tab)"
+    }
+  ],
+  "images": []
+}

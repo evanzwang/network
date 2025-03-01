@@ -1,0 +1,56 @@
+{
+  "title": "Aaquib Syed - ACL Anthology",
+  "meta_description": "",
+  "main_content": "Aaquib Syed 2024 pdf bib abs Attribution Patching Outperforms Automated Circuit Discovery Aaquib Syed | Can Rager | Arthur Conmy Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP Automated interpretability research has recently attracted attention as a potential research direction that could scale explanations of neural network behavior to large models. Existing automated circuit discovery work applies activation patching to identify subnetworks responsible for solving specific tasks (circuits). In this work, we show that a simple method based on attribution patching outperforms all existing methods while requiring just two forward passes and a backward pass. We apply a linear approximation to activation patching to estimate the importance of each edge in the computational subgraph. Using this approximation, we prune the least important edges of the network. We survey the performance and limitations of this method, finding that averaged over all tasks our method has greater AUC from circuit recovery than other methods. Search Co-authors Arthur Conmy 1 Can Rager 1 Venues blackboxnlp 1 Fix data",
+  "links": [
+    {
+      "url": "https://aclanthology.org/2024.blackboxnlp-1.25.pdf",
+      "text": "pdf"
+    },
+    {
+      "url": "/2024.blackboxnlp-1.25.bib",
+      "text": "bib"
+    },
+    {
+      "url": "/2024.blackboxnlp-1.25/",
+      "text": "Attribution Patching Outperforms Automated Circuit Discovery"
+    },
+    {
+      "url": "/people/a/aaquib-syed/",
+      "text": "Aaquib Syed"
+    },
+    {
+      "url": "/people/c/can-rager/",
+      "text": "Can Rager"
+    },
+    {
+      "url": "/people/a/arthur-conmy/",
+      "text": "Arthur Conmy"
+    },
+    {
+      "url": "/volumes/2024.blackboxnlp-1/",
+      "text": "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP"
+    },
+    {
+      "url": "https://www.semanticscholar.org/search?q=Aaquib+Syed",
+      "text": "Search"
+    },
+    {
+      "url": "/people/a/arthur-conmy/",
+      "text": "Arthur Conmy"
+    },
+    {
+      "url": "/people/c/can-rager/",
+      "text": "Can Rager"
+    },
+    {
+      "url": "/venues/blackboxnlp/",
+      "text": "blackboxnlp"
+    },
+    {
+      "url": "https://github.com/acl-org/acl-anthology/issues/new?assignees=anthology-assist&labels=correction%2Cmetadata&projects=&template=02-name-correction.yml&title=Author+Page%3A+aaquib-syed",
+      "text": "Fix data"
+    }
+  ],
+  "images": []
+}

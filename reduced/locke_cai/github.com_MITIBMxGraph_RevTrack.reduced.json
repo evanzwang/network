@@ -1,0 +1,301 @@
+{
+  "title": "GitHub - MITIBMxGraph/RevTrack: [ICAIF 2024 Oral] Official PyTorch Implementation of \"Identifying Money Laundering Subgraphs on the Blockchain\"",
+  "meta_description": "[ICAIF 2024 Oral] Official PyTorch Implementation of \"Identifying Money Laundering Subgraphs on the Blockchain\" - MITIBMxGraph/RevTrack",
+  "main_content": "MITIBMxGraph / RevTrack Public Notifications You must be signed in to change notification settings Fork 1 Star 4 [ICAIF 2024 Oral] Official PyTorch Implementation of \"Identifying Money Laundering Subgraphs on the Blockchain\" License View license 4 stars 1 fork Branches Tags Activity Star Notifications You must be signed in to change notification settings MITIBMxGraph/RevTrack main Branches Tags Go to file Code Folders and files Name Name Last commit message Last commit date Latest commit History 5 Commits .vscode .vscode algorithms algorithms checkpoints checkpoints configurations configurations data/ elliptic/ raw data/ elliptic/ raw datasets datasets debug debug experiments experiments figures figures scripts scripts utils utils .gitignore .gitignore LICENSE LICENSE README.md README.md main.py main.py requirements.txt requirements.txt View all files Repository files navigation RevTrack : Identifying Money Laundering Subgraphs on the Blockchain Kiwhan Song * \u00b7 Mohamed Ali Dhraief * \u00b7 Muhua Xu Locke Cai \u00b7 Xuhao Chen \u00b7 Arvind \u00b7 Jie Chen MIT \u00b7 MIT-IBM Watson AI Lab \u00b7 IBM \u00b7 IBM Research ICAIF 2024 Oral Paper | Pretrained Models This is the official repository for the paper Identifying Money Laundering Subgraphs on the Blockchain . We provide the code for RevTrack , RevClassify , and RevFilter , together with the code for the experiments in the paper and model checkpoints. See the instructions below. @inproceedings{song2024revtrack, title={Identifying Money Laundering Subgraphs on the Blockchain}, author={Kiwhan Song and Mohamed Ali Dhraief and Muhua Xu and Locke Cai and Xuhao Chen and Arvind and Jie Chen}, booktitle={Proceedings of the Fifth ACM International Conference on AI in Finance}, year={2024}, } Setup Requirements Create a new conda environment and install the required packages : conda create python=3.10 -n revtrack conda activate revtrack pip install -r requirements.txt Wandb We use Weights & Biases for logging and checkpointing. Sign up for a wandb account, run wandb login to login, and modify the wandb entity and project in configurations/config.yaml to your wandb account and desired project name. Dataset The original Elliptic2 dataset is available here . For the convenience of the users, we provide a preprocessed version of the dataset placed in the data/elliptic/raw directory . However, we serve node embeddings separately on Google Drive due to its large size. Please download the node embedding file ( raw_emb.pt ) and place it in the data/elliptic/raw directory . Pre-trained Model Checkpoints All model checkpoints are located in the checkpoints directory . For RevTrack (DS variant), we provide three models each for both finetuned and non-finetuned versions. We also provide three models for each baseline (MLP, NGCF, LightGCN) in the subgraph recommendation task. Reproducing Experiments For running all the experiments in the paper, we use wandb sweeps , which allows us to search over hyperparameters, or run a set of experiments with different seeds or settings. We used a single V100 GPU for all experiments in the paper. For all the experiments, we provide a yaml configuration file in the configurations/sweep directory. You can run it using the following command : # Initialize your sweep: wandb sweep --project < project > --entity < entity > < path_to_yaml_file > # Your terminal will output a sweep ID. # Run the sweep by launching the sweep agent: wandb agent < entity > / < project > / < sweep_id > # (Launch on multiple terminals to parallelize, if you want) Note that the YAML files reference our pre-trained model checkpoints in the checkpoints directory. If you want to evaluate your own checkpoints, you can modify the parameters.load.values field in the YAML files. RevTrack RevTrack is an algorithm that identifies potential senders and receivers of each subgraph. The provided dataset is already preprocessed using RevTrack , as mentioned above. We will also share the RevTrack preprocessing code soon. RevClassify (Subgraph Classification) We have two variants of RevClassify : RevClassify BP and RevClassify DS . Test metrics are logged as final_test/f1 and final_test/prauc . Task variant Sweep YAML File Hyperparameter Tuning RevClassify BP configurations/sweep/subgraph_classification/tuning/BP.yaml Hyperparameter Tuning RevClassify DS configurations/sweep/subgraph_classification/tuning/DS.yaml Subgraph Classification (Full-shot) RevClassify BP configurations/sweep/subgraph_classification/full_shot/BP.yaml Subgraph Classification (Full-shot) RevClassify DS configurations/sweep/subgraph_classification/full_shot/DS.yaml Subgraph Classification (Few-shot) RevClassify BP configurations/sweep/subgraph_classification/few_shot/BP.yaml Subgraph Classification (Few-shot) RevClassify DS configurations/sweep/subgraph_classification/few_shot/DS.yaml RevFilter (Subgraph Recommendation) We have four experiments for evaluating RevFilter . Each experiment has a corresponding folder with sweep yaml files. The test metrics are logged as final_test/HR and final_test/NDCG . Task Sweep YAML Files Baseline comparison on multiple settings configurations/sweep/subgraph_recommendation/multisettings/{RevFilter, MLP, NGCF, LightGCN}.yaml Studying the impact of sparsity configurations/sweep/subgraph_recommendation/sparsity/{RevFilter, MLP, NGCF, LightGCN}.yaml Studying the impact of $k$ configurations/sweep/subgraph_recommendation/top_k/{RevFilter, MLP, NGCF, LightGCN}.yaml Ablation study configurations/sweep/subgraph_recommendation/ablations/{default, no_finetuning, no_iter, no_keep_mult.yaml} RevFilter: Quick Commands for Training and Evaluation Pre-training python -m main +name=RevFilter_pretrain dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation ' experiment.tasks=[training] ' experiment.validation.test_during_training=False Fine-tuning python -m main +name=RevFilter_finetune dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation ' experiment.tasks=[training] ' experiment.training.early_stopping.enabled=False experiment.validation.test_during_training=False experiment.training.max_epochs=300 dataset.augment.enabled=True seed=0 load= < your_pretrained_wandb_id or checkpoints/RevTrack/0.ckpt > Evaluation python -m main +name=RevFilter_eval dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation ' experiment.tasks=[test] ' experiment.test.batch_size=16 seed=0 load= < your_finetuned_wandb_id or checkpoints/RevTrack/0_tuned.ckpt > +shortcut= < your_setting > # your_setting should be formatted as: a+b@k e.g., 10+1000@100 Acknowledgements This research was sponsored by MIT-IBM Watson AI Lab . This repo is forked from Boyuan Chen 's research template repo . By its MIT license, you must keep the above sentence in README.md and the LICENSE file to credit the author. By directly reading the template repo's README.md , you can learn how this repo is structured and how to use it. About [ICAIF 2024 Oral] Official PyTorch Implementation of \"Identifying Money Laundering Subgraphs on the Blockchain\" Resources Readme License View license Activity Custom properties Stars 4 stars Watchers 2 watching Forks 1 fork Report repository Releases No releases published Packages 0 No packages published Languages Python 100.0%",
+  "links": [
+    {
+      "url": "/MITIBMxGraph",
+      "text": "MITIBMxGraph"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack",
+      "text": "RevTrack"
+    },
+    {
+      "url": "/login?return_to=%2FMITIBMxGraph%2FRevTrack",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2FMITIBMxGraph%2FRevTrack",
+      "text": "Fork\n    1"
+    },
+    {
+      "url": "/login?return_to=%2FMITIBMxGraph%2FRevTrack",
+      "text": "Star\n 4"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/LICENSE",
+      "text": "View license"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/stargazers",
+      "text": "4\n          stars"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/forks",
+      "text": "1\n          fork"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/login?return_to=%2FMITIBMxGraph%2FRevTrack",
+      "text": "Star"
+    },
+    {
+      "url": "/login?return_to=%2FMITIBMxGraph%2FRevTrack",
+      "text": "Notifications"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/branches",
+      "text": ""
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tags",
+      "text": ""
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/commits/main/",
+      "text": "5 Commits"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/commits/main/",
+      "text": ""
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/.vscode",
+      "text": ".vscode"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/.vscode",
+      "text": ".vscode"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/algorithms",
+      "text": "algorithms"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/algorithms",
+      "text": "algorithms"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/checkpoints",
+      "text": "checkpoints"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/checkpoints",
+      "text": "checkpoints"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/configurations",
+      "text": "configurations"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/configurations",
+      "text": "configurations"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/data/elliptic/raw",
+      "text": "data/elliptic/raw"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/data/elliptic/raw",
+      "text": "data/elliptic/raw"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/datasets",
+      "text": "datasets"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/datasets",
+      "text": "datasets"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/debug",
+      "text": "debug"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/debug",
+      "text": "debug"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/experiments",
+      "text": "experiments"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/experiments",
+      "text": "experiments"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/figures",
+      "text": "figures"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/figures",
+      "text": "figures"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/scripts",
+      "text": "scripts"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/scripts",
+      "text": "scripts"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/utils",
+      "text": "utils"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/tree/main/utils",
+      "text": "utils"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/.gitignore",
+      "text": ".gitignore"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/LICENSE",
+      "text": "LICENSE"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/LICENSE",
+      "text": "LICENSE"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/main.py",
+      "text": "main.py"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/main.py",
+      "text": "main.py"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/requirements.txt",
+      "text": "requirements.txt"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/requirements.txt",
+      "text": "requirements.txt"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.08394",
+      "text": "Paper"
+    },
+    {
+      "url": "https://github.com/MITIBMxGraph/RevTrack/tree/main/checkpoints/RevTrack",
+      "text": "Pretrained Models"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.08394",
+      "text": "Identifying Money Laundering Subgraphs on the Blockchain"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/blob/main/figures/RevTrack.png",
+      "text": ""
+    },
+    {
+      "url": "https://wandb.ai/site",
+      "text": "Weights & Biases"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.19109",
+      "text": "Elliptic2"
+    },
+    {
+      "url": "https://www.kaggle.com/datasets/ellipticco/elliptic2-data-set",
+      "text": "here"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1UBLRxiEg0SK_sWoOWe-55nLOniV9I4HX/view?usp=sharing",
+      "text": "Google Drive"
+    },
+    {
+      "url": "https://docs.wandb.ai/guides/sweeps/",
+      "text": "wandb sweeps"
+    },
+    {
+      "url": "https://mitibmwatsonailab.mit.edu/",
+      "text": "MIT-IBM Watson AI Lab"
+    },
+    {
+      "url": "https://boyuan.space/",
+      "text": "Boyuan Chen"
+    },
+    {
+      "url": "https://github.com/buoyancy99/research-template",
+      "text": "repo"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/custom-properties",
+      "text": "Custom properties"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/stargazers",
+      "text": "4\n      stars"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/watchers",
+      "text": "2\n      watching"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/forks",
+      "text": "1\n      fork"
+    },
+    {
+      "url": "/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FMITIBMxGraph%2FRevTrack&report=MITIBMxGraph+%28user%29",
+      "text": "Report repository"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/releases",
+      "text": "Releases"
+    },
+    {
+      "url": "/orgs/MITIBMxGraph/packages?repo_name=RevTrack",
+      "text": "Packages\n      0"
+    },
+    {
+      "url": "/MITIBMxGraph/RevTrack/search?l=python",
+      "text": "Python\n100.0%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/MITIBMxGraph/RevTrack/raw/main/figures/RevTrack.png",
+      "alt": "plot"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "title": "",
+  "meta_description": "",
+  "main_content": "6.111 Final Projects Fall 2019 No. Team members Project Staff 1 Isabelle Chong Jose Guajardo Nancy Hidalgo Mario Bros Classic in Real Life Abstract Proposal Presentation Checklist Report Video Diana 2 Jeana Choi Ryan Mansilla Leilani Trautman Stereoscopic Observation System (SOS) Abstract Proposal Presentation Checklist Report Video Mike 3 Gian Delfin Vivian Huang Luis Terrones-Verastegui Gim\u2019s Labyrinth Abstract Proposal Presentation Checklist Report Video Mike 4 Ray Dedhia Diana Hernandez Petra Hernandez Gesture Control Fighting Game Abstract Proposal Presentation Checklist Report Gim 5 Andrea Bolivar Matos Grace Quaratiello Dance Dance Revolution Abstract Proposal Presentation Checklist Report Sarah 6 Jacob Pritzker Rahul Yesantharao Freeform Production of Gorgeous Audio Abstract Proposal Presentation Checklist Report Video Diana 7 Colin Chaney Charles Lindsay FPGA Software Define Radio (SDR) Abstract Proposal Presentation Checklist Report Video Joe 8 Emmanuel Havugimana Shuto Ogihara Chase-bot Abstract Proposal Presentation Checklist Report Video Diana 9 Roderick Bayliss Brandon John FPGA Minesweeper Abstract Proposal Presentation Checklist Report Diana 10 James Abel Jacob McGuire QAM Receiver for Video Signals from a Quadcopter Camera Abstract Proposal Presentation Checklist Report Gim 11 Miles Dai Hannah Field FPGA RFID Utility Abstract Proposal Presentation Checklist Report Video Mike 12 Evan Gabhart Roberto Gauna Benjamin Sheffer An Electronic Drum Abstract Proposal Presentation Checklist Report Sarah 13 Olutimilehin Omotunde Roberto Ramirez E.D.I.T.H. Abstract Proposal Presentation Checklist Report Video Joe 14 Ishaan Govindarajan Eric Pence The DiGuitar Abstract Proposal Presentation Checklist Report Video Sarah 15 Cecelia Chu Parker Huntington FPGA Ray Tracer Abstract Proposal Presentation Checklist Report Video Diana 16 Brendan Ashworth Max Hardy Anthony Nardomarino FPGA Piano-Playing Robot Abstract Proposal Presentation Checklist Report Video Gim 17 Rhian Chavez Miles Johnson FPGA Light Controller Abstract Proposal Presentation Checklist Report Gim 18 Kika Arias Elaine Ng FPGA Auto-Tune Abstract Proposal Presentation Checklist Report Sarah 19 Israel Bonilla Sidne Gregory Daniel Klahn Nintendo Entertainment System Emulation Abstract Proposal Presentation Checklist Report Mike 20 Endrias Kahssay Natnael Kahssay Ziheng Wang An HFT Accelerator Abstract Proposal Presentation Checklist Report Report Update Joe 21 Alejandro Diaz Sarah Spector FPGuitAr Hero Abstract Proposal Presentation Checklist Report Video Sarah 22 Matthew Johnston Tyler Moroso Brandon Motes The Beep Boop 9000 Abstract Proposal Presentation Checklist Report Joe 23 Kendall Garner Claire Traweek digitEyes Abstract Proposal Presentation Checklist Report Video Joe 24 Charity Midenyo Jenessa Rodriguez Bradley Seymour 3D Tetris Abstract Proposal Presentation Checklist Report Sarah 25 Jeremy McCulloch Adam Potter Sreya Vangara Pepper\u2019s Ghost Approximation Abstract Proposal Presentation Checklist Report Video Mike 26 Grayson King Bahrudin Trbalic ChessAI - Real Life Chess against AI Abstract Proposal Presentation Checklist Report Mike 27 Roberto Garcia FPGA Tetris Abstract Proposal Presentation Checklist Gim 28 Jackson Gray Aaron Yeiser FPGA Brushless Motor Controller Abstract Proposal Presentation Checklist Report Gim",
+  "links": [
+    {
+      "url": "chongi_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "chongi_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "chongi_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "chongi_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "chongi_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "jeana_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "trautman_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "trautman_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "trautman_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jeana_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "terrones_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "vivh_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "vivh_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "gdolphin_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "vivh_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "dianah13_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "rdedhia_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "rdedhia_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "rdedhia_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "rdedhia_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "bolivara_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "graceq_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "graceq_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "bolivara_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "graceq_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "jacobp_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "jacobp_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "jacobp_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "jacobp_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jacobp_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "cmll_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "colinpc_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "colinpc_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "colinpc_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "colinpc_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "ehavugi_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "ehavugi_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "shuto_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "ehavugi_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "ehavugi_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "bvjohn_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "bvjohn_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "bvjohn_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "bvjohn_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "bvjohn_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "jmabel_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "jmabel_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "jmabel_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "jmabel_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jmabel_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "hfield_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "milesdai_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "hfield_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "hfield_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "milesdai_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "egabby97_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "egabby97_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "egabby97_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "egabby97_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "egabby97_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "omotunde_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "robram_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "robram_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "omotunde_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "robram_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "epence_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "epence_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "epence_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "govish_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "epence_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "ccchu_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "ccchu_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "huntingt_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "huntingt_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "ccchu_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "anthonyn_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "anthonyn_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "anthonyn__Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "brendana_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "brendana_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "milksush_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "milksush_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "rhianc_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "rhianc_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "milksush_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "elaineng_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "kaarias_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "kaarias_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "elaineng_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "kaarias_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "sidne_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "sidne_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "dklahn_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "dklahn_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "dklahn_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "nkk_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "endrias_Project_Proposal_Revision.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "endrias_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "endrias_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "endrias_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "endrias_Project_Final_Report3.pdf",
+      "text": "Report Update"
+    },
+    {
+      "url": "addiaz15_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "sspector_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "sspector_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "sspector_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "addiaz15_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "mlarash_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "mlarash_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "mlarash_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "mlarash_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "btmotes_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "kgarner_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "ctraweek_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "ctraweek_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "kgarner_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "ctraweek_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "jessie99_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "bseymour_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "bseymour_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "bseymour_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jessie99_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "jeremymc_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "svangara_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "jeremymc_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "jeremymc_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jeremymc_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "bahrudin_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "bahrudin_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "bahrudin_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "graysonk_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "bahrudin_Project_Final_Report.pdf",
+      "text": "Report"
+    },
+    {
+      "url": "garciar_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "garciar_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "garciar_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "garciar_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jackmaxg_Project_Abstract.pdf",
+      "text": "Abstract"
+    },
+    {
+      "url": "jackmaxg_Project_Proposal.pdf",
+      "text": "Proposal"
+    },
+    {
+      "url": "ayeiser_Project_Design_Presentation.pdf",
+      "text": "Presentation"
+    },
+    {
+      "url": "ayeiser_Project_Checklist.pdf",
+      "text": "Checklist"
+    },
+    {
+      "url": "jackmaxg_Project_Final_Report.pdf",
+      "text": "Report"
+    }
+  ],
+  "images": []
+}

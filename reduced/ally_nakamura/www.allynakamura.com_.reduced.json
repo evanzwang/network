@@ -1,0 +1,69 @@
+{
+  "title": "Ally Nakamura | About, contact, and portfolio",
+  "meta_description": "I\u2019m a Stanford new grad in SF, originally from the DMV and Tokyo. I love everything healthcare and am currently working on helping medical device\u2026",
+  "main_content": "I\u2019m a Stanford new grad in SF, originally from the DMV and Tokyo. I love everything healthcare and am currently working on helping medical device companies deploy AI to make their workflows easier. On weekends you can find me hiking, going to new DJ sets, eating sushi, or playing poker with friends. About Me I\u2019m working on Catapult through PearX . I was previously at Instagram, DoNotPay , and the National Institutes of Health. I\u2019m a Softbank Masason Scholar . I have a BS/MS in CS(AI) from Stanford. I was a TA for Stanford\u2019s (best imo) intro to programming and data structures class ! Past Side Quests I worked with Stanford\u2019s Open Virtual Assistant Lab to build EHR-Xamine: a virtual assistant for electronic clinical health records. We reduced physician burnout by making it easier and faster to interpret patient records. @ DoNotPay, I led an AI-enabled email client, featured by Forbes and Wired . I built a voice agent to automatically handle reference checks for healthcare staffing agencies. I also love hackathons and have built AI dating apps (think of \u201cHang the DJ\u201d from Black Mirror \u2013 we simulated first dates between agents to better curate matches) and launched the world\u2019s first AI crypto coin ($DEVIN) that scaled to $15M mcap. Contact You can email me at ally@trycatapult.ai . You can also find me on Twitter , Linkedin , Medium , and Github . Recent Writing You can find my writing on Medium , where I recently just migrated my unorganized thoughts from Apple Notes.",
+  "links": [
+    {
+      "url": "https://trycatapult.ai/",
+      "text": "Catapult"
+    },
+    {
+      "url": "https://pear.vc/pearx/",
+      "text": "PearX"
+    },
+    {
+      "url": "https://donotpay.com/",
+      "text": "DoNotPay"
+    },
+    {
+      "url": "https://masason-foundation.org/en/",
+      "text": "Softbank Masason Scholar"
+    },
+    {
+      "url": "https://web.stanford.edu/class/cs106b/",
+      "text": "class"
+    },
+    {
+      "url": "https://www.forbes.com/sites/curtissilver/2020/10/07/donotpay-launches-donotpay-email-so-you-dont-have-to-pay-via-email/",
+      "text": "Forbes"
+    },
+    {
+      "url": "https://www.wired.com/story/donotpay-unsubscribe-spam-class-action/",
+      "text": "Wired"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1gjG5WI-h4gLKo3xx8C4-QX8eWyBhogec/view?usp=drive_link",
+      "text": "voice agent"
+    },
+    {
+      "url": "mailto:ally@trycatapult.ai",
+      "text": "ally@trycatapult.ai"
+    },
+    {
+      "url": "https://x.com/NakamuraAlly",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ally-nakamura/",
+      "text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/@ally.nakamura",
+      "text": "Medium"
+    },
+    {
+      "url": "https://github.com/ally-nak",
+      "text": "Github"
+    },
+    {
+      "url": "https://medium.com/@ally.nakamura",
+      "text": "Medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://shynet.rmrm.io/ingress/aa93dbb3-7d36-4de1-8642-5074c7e33c92/pixel.gif",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "fullName": "Audrey Chen",
+    "linkedin_internal_id": "976761861",
+    "first_name": "Audrey",
+    "last_name": "Chen",
+    "public_identifier": "audrey-chen-tech",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQFGkYunNhBnxw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738199919194?e=2147483647&v=beta&t=fZ_fsdkYtGOGPiDy7AjiOjdTHG3OabDyubCp0UTn-h0",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQHi5addWjMElA/profile-displayphoto-shrink_200_200/B56ZS4zalDHsAY-/0/1738267274735?e=2147483647&v=beta&t=uyeytLEn_VuhWzl4hKEgYp0vh3EizQrXkGordf52sR8",
+    "headline": "21x Hackathon Wins, 68k insta @jia.seed | co-founder @ nosu.io (vcs backed) | Intuit",
+    "location": "31K followers\n          \n          \n              500+ connections",
+    "followers": "Issued Jun 2024",
+    "connections": "Issued Jun 2024",
+    "about": "Nosu operations engineering intern application: https://t.co/pNJaFDO86tReach @ jia_seed on X, or  Audgeviolin07@gmail.com \ud83c\udfc6 Won 21x hackathons (70% win rate cause i was so determined to win lol), including Princeton, Upenn, Anarchy AI (YC23), to a total of $20,000 in prizes.I also share education on my content creation insta @jia.seed, and my discord is #croissant8186I\u2019M ON A GAP SEMESTER FROM UNIVERSITY THIS SPRING <35 Internships/Roles: Intuit(SWE Intern), Intel(AI PC Pilot Program), Meta Fellowship, NASA USRC(swe researcher), Android Industries(spring IT intern)Content Creator: 60k developers @ jia.seed on Instagram, 20k on Linkedin @ Audrey ChenGithub: https://github.com/audgeviolin07 I also side-quest and dabble in music @ JIA seed on spotify. 140,000+ streams + 1,600 monthly listeners :3Probably going to set up a we-funder",
+    "experience": [
+      {
+        "position": "Software Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/intuit?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_100_100/company-logo_100_100/0/1661446146222/intuit_logo?e=2147483647&v=beta&t=5hsEsGdMVVpQSXz7yjJc2fshydqwaa7AOmiIPwuwgmA",
+        "company_name": "Intuit",
+        "location": null,
+        "summary": "Incoming Summer 2025, Lead Management & Planning team in VEP Sales & Growth, doing predictive AI!MailChimp, TurboTax.Turbotaxxing instead of Fanumtaxxing",
+        "starts_at": "2025",
+        "ends_at": "Present",
+        "duration": "less than a year"
+      },
+      {
+        "position": "Co-founder, CEO (backed by vcs, $100k raised, 7,800+ users)",
+        "company_url": "https://www.linkedin.com/company/nosuio?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFxLA9UBtGlIA/company-logo_100_100/company-logo_100_100/0/1733773529419?e=2147483647&v=beta&t=JWDTYmB4LShmm9W6vuriPoO4fSMPMFcHbZU1kl7uBhI",
+        "company_name": "nosu",
+        "location": null,
+        "summary": "AI organization software for hackathons and developers. We're disrupting the AI company distribution market solving the problem of ai companies having a disconnect in communication with onboarding users, particularly low-code. Backed by Boost VC, Earthling VC, and 13 angels, including 2 YC founders and unicorn leaders. Hehehaha startup fun. Profitable btw",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "AI Student Engineer @ AI PC Pilot Program",
+        "company_url": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
+        "company_name": "Intel Corporation",
+        "location": "Remote",
+        "summary": "Over 9 weeks, developed a machine learning model to diagnose diabetic retinopathy by creatively implementing transfer learning and finetuning the resnet50 model on a kaggle dataset of 3360 images with npu, resulting in boosting accuracy from 67% to 80%.",
+        "starts_at": "Jul 2024",
+        "ends_at": "Present",
+        "duration": "9 months"
+      },
+      {
+        "position": "OneAPI Ambassador",
+        "company_url": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
+        "company_name": "Intel Corporation",
+        "location": "East Lansing, Michigan, United States",
+        "summary": "Delivered high-performance computing (HPC), or visualization-focused training and workshops to over 33k+ in person and online students, accelerating participation and visibility in Intel programs by 30%.Recognized with level two certification for using the OpenVINOTM Toolkit and Intel\u00ae Cloud .Wrote Medium blogs showcasing documentation and creative technical solutions.",
+        "starts_at": "Apr 2024",
+        "ends_at": "Present",
+        "duration": "1 year"
+      },
+      {
+        "position": "Content Creator and Speaker (67k followers)",
+        "company_url": "https://www.linkedin.com/company/instagram?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFt6KqGwvGCzg/company-logo_100_100/company-logo_100_100/0/1652805738201/instagram_logo?e=2147483647&v=beta&t=Swglsan_4n2MzhD1cnGRqYmsBDFHlTShv5Dga3iTYDA",
+        "company_name": "Instagram",
+        "location": "Remote",
+        "summary": "-64k following under the account @jia.seed, top individual video 5M views- 10M+ views on all reels combined-Educational content about technology, hackathons, and other engineering tips-15 brand deals (mobile pixels etc.), $3500 in earnings",
+        "starts_at": "May 2024",
+        "ends_at": "Present",
+        "duration": "11 months"
+      },
+      {
+        "position": "Drone Research Software Engineer - NASA USRC",
+        "company_url": "https://www.linkedin.com/company/nasa?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGRBHWCcaAqGg/company-logo_100_100/company-logo_100_100/0/1630507197379/nasa_logo?e=2147483647&v=beta&t=fo-Q6QobUq8rf0LAPLMALv3sxvdNUSa2U_m8Vg8cYk8",
+        "company_name": "NASA - National Aeronautics and Space Administration",
+        "location": null,
+        "summary": "Laser Energized Aerial Drone System (LEADS) is a NASA undergraduate research project with a solution to the limitations of current drone technology for monitoring wildfires.",
+        "starts_at": "Feb 2024",
+        "ends_at": "Present",
+        "duration": "1 year 2 months"
+      },
+      {
+        "position": "Co-director",
+        "company_url": "https://www.linkedin.com/company/spartahack?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQGM3FqNE8l3yA/company-logo_100_100/company-logo_100_100/0/1699045086485/spartahack_logo?e=2147483647&v=beta&t=e-0p10vKNLud5zmcA2cnuN7f_zhoNe57xY_3tmsKHas",
+        "company_name": "SpartaHack",
+        "location": "East Lansing, Michigan, United States",
+        "summary": "",
+        "starts_at": "Apr 2024",
+        "ends_at": "Present",
+        "duration": "1 year"
+      },
+      {
+        "position": "Organizer - Operations Team",
+        "company_url": "https://www.linkedin.com/company/spartahack?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQGM3FqNE8l3yA/company-logo_100_100/company-logo_100_100/0/1699045086485/spartahack_logo?e=2147483647&v=beta&t=e-0p10vKNLud5zmcA2cnuN7f_zhoNe57xY_3tmsKHas",
+        "company_name": "SpartaHack",
+        "location": null,
+        "summary": "Operations - tracks, event planning Proposed and successfully implemented the \u201cExploratory\u201d competition track to direct and enhance the innovative projects at the hackathon which was the most popular hacker track by 60%",
+        "starts_at": "Sep 2023",
+        "ends_at": "Present",
+        "duration": "1 year 7 months"
+      },
+      {
+        "position": "DevOps/SRE Fellow @ Meta",
+        "company_url": "https://www.linkedin.com/school/mlh-fellowship/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGig0-5n4XMkA/company-logo_100_100/company-logo_100_100/0/1671221609482/mlh_fellowship_logo?e=2147483647&v=beta&t=6IyKYRvutAZ_sm8CWF3HDu6tVnm19zfV1i4-AOu7dbQ",
+        "company_name": "MLH Fellowship",
+        "location": "United States",
+        "summary": "Collaborated with Meta engineering mentors on the Meta project and contribute to Meta open source initiatives.Developed a website using Python, Flask, Jinja, MySQL, Docker, NGINX, and unittest.Implemented a CI/CD pipeline utilizing Bash scripts, Docker, and GitHub workflows for automated testing and deployment.Configured system and container monitoring, alerting, and visualization with Prometheus and Grafana.",
+        "starts_at": "May 2024",
+        "ends_at": "Sep 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Internal Affairs Director (Founding Team)",
+        "company_url": "https://www.linkedin.com/company/wecracked?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFIYqg2yGh3Qw/company-logo_100_100/company-logo_100_100/0/1720301454615/wecracked_logo?e=2147483647&v=beta&t=J8Kh0fugKsfgPX9tVH8ULS5eQLXOGoIa6Q5B_9agOVs",
+        "company_name": "WeCracked",
+        "location": "Remote",
+        "summary": "-directing a team of 6 on a startup that makes hackathon travel more accessible to students and builds community -content creator for hume.ai partnership-1,300+ users-LLC under three sponsorships",
+        "starts_at": "Jun 2024",
+        "ends_at": "Aug 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "Mentor",
+        "company_url": "https://www.linkedin.com/company/the-tech-cadets?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFGvqgo-AC3ng/company-logo_100_100/company-logo_100_100/0/1711824011103?e=2147483647&v=beta&t=mYHACybZxcMrVXCkqf3as2Dq9OoYzF7I26HmSm3tGhk",
+        "company_name": "The Tech Cadets",
+        "location": null,
+        "summary": "",
+        "starts_at": "May 2024",
+        "ends_at": "Jul 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "IT Engineering Intern",
+        "company_url": "https://www.linkedin.com/company/avancez-llc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFUUz9jGUZTtQ/company-logo_100_100/company-logo_100_100/0/1696262333822/avancez_llc_logo?e=2147483647&v=beta&t=slkJec7w7TGx8LKC5-jOr2qa0cWq-2Wp5DoacihFusY",
+        "company_name": "Avancez LLC",
+        "location": null,
+        "summary": "\u2022Desktop Troubleshooting and End-User Support requests\u2022Documented, implemented, monitored, and supported infrastructure and end-user issues\u2022Worked through IT requests via phone, email or instant message and explaining and deploying solutions in technical and nontechnical terms\u2022Assisted in responding to alerts or emergency issues during normal business hours\u2022Provided and helped create end-user documentation and training as needed\u2022Performed computer back-up procedures for data in accordance with backup policies\u2022Provided preventive maintenance of all computer hardware and software, coordinating with external vendors\u2022Coordinated with Corporate IT team on a regular basis for support resolution and project-based work\u2022Assisted with new facility launches, upgrades and support\u2022Completed daily IT checklists as required as part of preventative and proactive monitoring\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jan 2024",
+        "ends_at": "Jul 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Curriculum and Web Developer",
+        "company_url": "https://www.linkedin.com/company/msu-women-in-engineering-outreach?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFGpwXNG0nsCA/company-logo_100_100/company-logo_100_100/0/1630572159375/msu_women_in_engineering_outreach_logo?e=2147483647&v=beta&t=vlMUWVziC9arYFGYRkEf63QHGgsPCI2X2Qajv7qJ180",
+        "company_name": "MSU Women in Engineering Outreach",
+        "location": null,
+        "summary": "",
+        "starts_at": "May 2023",
+        "ends_at": "Jul 2024",
+        "duration": "1 year 3 months"
+      },
+      {
+        "position": "E-Board: Workshop Coordinator",
+        "company_url": "https://www.linkedin.com/company/msu-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGH57Y5zrV5Yw/company-logo_100_100/company-logo_100_100/0/1727051385646/msu_ai_logo?e=2147483647&v=beta&t=C7fKoBODt0GO6Q6EeWO7eIYYThYqqIYS0vsmn1luwWk",
+        "company_name": "AI Club at MSU",
+        "location": "Michigan, United States",
+        "summary": "\u2022Coordinated workshops for a prominent non-profit AI club with a membership base of over 1000 individuals.\u2022Delivered weekly presentations to audiences of up to 300 attendees, fostering a deeper understanding of AI concepts.\u2022Developed and designed educational slides that covered advanced AI topics, including prompt engineering and langchain, to enhance members' knowledge and skills.",
+        "starts_at": "Apr 2023",
+        "ends_at": "Jul 2024",
+        "duration": "1 year 4 months"
+      },
+      {
+        "position": "Financial Analyst",
+        "company_url": "https://www.linkedin.com/company/michigan-state-university-student-investment-association?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQESpihYNC_nQw/company-logo_100_100/company-logo_100_100/0/1630496136395?e=2147483647&v=beta&t=MqAn7RBnReQ0gTxzgaZMg5tGQc0c1q7J_m1DJc54FJQ",
+        "company_name": "Michigan State University Student Investment Association",
+        "location": null,
+        "summary": "-Interviewed into the competitive analyst position, took initiative to directly contribute and researched stocks to contribute to the 35k student portfolio-Presented stocks in a stock pitch",
+        "starts_at": "Sep 2022",
+        "ends_at": "Jul 2024",
+        "duration": "1 year 11 months"
+      },
+      {
+        "position": "Founder, Business Owner",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "SheeshSeaglass",
+        "location": "East Lansing, Michigan, United States",
+        "summary": "- Grew $17.99 to 2.1k in sales revenue, 65% net profit margin for product.- Media advertising",
+        "starts_at": "Jun 2022",
+        "ends_at": "Jul 2024",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Service Desk Specialist",
+        "company_url": "https://www.linkedin.com/company/sparrow-health-system?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEhyLJGVGZyag/company-logo_100_100/company-logo_100_100/0/1713275892129/sparrow_health_system_logo?e=2147483647&v=beta&t=MvWMFdKBxoUhyxnyTa7CTSfrUQh0QQ7VfXCdWoLv_v4",
+        "company_name": "Sparrow Health System",
+        "location": "East Lansing, Michigan, United States",
+        "summary": "- Greeted 200+ club guests per shift- Managed member accounts, court scheduling, and sports equipment on a database- Answered 30 calls per shift to a multi-line phone system, answering questions and quickly transferring calls to enhance customer experience.- Calculated day monetary inventory on closing shifts-Worked unusual hours (ex. 4:45am to 9am)",
+        "starts_at": "Jun 2022",
+        "ends_at": "Jul 2024",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Vice President",
+        "company_url": "https://www.linkedin.com/company/think-edin?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQG501b0WL1woQ/company-logo_100_100/company-logo_100_100/0/1710557310259/think_edin_logo?e=2147483647&v=beta&t=FpZkOW9N_IoGNoWKy_kp1lofHF48qCqrEyepRxvflWw",
+        "company_name": "ThinkedIn",
+        "location": null,
+        "summary": "",
+        "starts_at": "Mar 2024",
+        "ends_at": "Apr 2024",
+        "duration": "2 months"
+      },
+      {
+        "position": "Restaurant Chef",
+        "company_url": "https://www.linkedin.com/company/culversrestaurants?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGPB_lMsiSjgQ/company-logo_100_100/company-logo_100_100/0/1631381225437/culversrestaurants_logo?e=2147483647&v=beta&t=IL3YkW9QojniN5fxmMdTSVcu-v_RSnp4KrQ5m_qQuA0",
+        "company_name": "Culver's Restaurants",
+        "location": "Okemos, Michigan, United States",
+        "summary": "-Built burgers in a fast-paced, team environment -Waited tables and enthusiastically helped dining guests -Organized the kitchen inventory with labels and expiration charts",
+        "starts_at": "Jun 2022",
+        "ends_at": "Aug 2022",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/michigan-state-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Michigan State University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQFx0VIjYYSXBw/company-logo_100_100/company-logo_100_100/0/1645471386372/michigan_state_university_logo?e=2147483647&v=beta&t=8iz7-UPGdaClJsAC_04mKsA62Z8AhHjLFq4grYc7FbI",
+        "college_degree": "Bachelor of Engineering - BE",
+        "college_degree_field": "Junior",
+        "college_duration": "2022 - 2026",
+        "college_activity": "ON LEAVE FOR SPRING 2025Minor in Economics, Deans List 2x, Co-President @ Spartahack Hackathon, AI Club Eboard Workshop Coordinator, Project Coordinator, Student Investment Association AnalystState school uni lol. Had a great time"
+      },
+      {
+        "college_name": "Okemos High School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": "2018 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Intuit",
+      "description1_link": "https://www.linkedin.com/company/intuit?trk=public_profile_topcard-current-company",
+      "description2": "Michigan State University",
+      "description2_link": "https://www.linkedin.com/school/michigan-state-university/?trk=public_profile_topcard-school",
+      "description3": "Websites",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Faudreychendev%2Ecom&urlhash=nMRo&trk=public_profile_website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/150-students-and-early-career-folks-pulled-activity-7301371198771249152-bXao",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEMlY_VOwryuA/feedshare-shrink_800/B56ZVOuVnkGoAw-/0/1740782542742?e=2147483647&v=beta&t=JChHtFLwZwqd_wjnlrefxbPU2Jfo9UErTkGmxjZ874U",
+        "title": "150+ students and early career folks pulled up to the Intern Ship event last night, making this the largest space in SF for some of the brightest\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/gladyswan_founders-investors-scaling-activity-7301340345928163329-RTKh",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHcaCjY1WtRzQ/feedshare-shrink_800/B56ZVOSQHBGoAg-/0/1740775184109?e=2147483647&v=beta&t=PuDH4NtpiTpP1TzgM2rc7xpLEiz5f0TK-aGan-WutjI",
+        "title": "\ud83d\ude80\u00a0What a night!\u00a0\ud83d\ude80\n\nWe had an incredible time hosting Batter Up! Series w/ Hustle Fund\u00a0&\u00a0Angel Squad, bringing together early-stage #founders and\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/linda--nguyen_amazoninterview-techcareers-faang-activity-7301291863938936834-0HeC",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGWyFRALqZfqA/feedshare-shrink_2048_1536/B56ZVNmQZpHEAw-/0/1740763629513?e=2147483647&v=beta&t=gzsR1WHPWsWhBvye_J7QeYIjqdU28s71s6p9zh2U5lw",
+        "title": "\ud835\udddc \ud835\udde3\ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 Amazon \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddf2\ud835\ude04 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udfec \ud835\udde3\ud835\uddff\ud835\uddf2\ud835\uddfd\nHere\u2019s how:\n\n\ud835\udfed. \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde7\ud835\uddf2\ud835\uddf0\ud835\uddf5\ud835\uddfb\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\uddf9\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/duynguyen21_startup-founders-msu-activity-7301331065611177984-Cd6I",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQFspEyItFGqZw/videocover-high/B4EZVOJ2u3HUBs-/0/1740772970978?e=2147483647&v=beta&t=rzO-Um7hqMQpSDhDEYn5Ca_cJmKp7Zn0qMjq7_bnpNU",
+        "title": "i don\u2019t code\n\nbut i build a social media startup\n\nhere\u2019s how:\n\n(shoutout to Minh Tue Nguyen and Hoang Lam Pham)\n\n#startup #founders #msu\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/millsmacy_i-had-the-immense-pleasure-of-interviewing-activity-7301295444234575872-J-Zd",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHiiqOZm3kcfw/feedshare-shrink_800/B56ZVNpgawHQAg-/0/1740764484438?e=2147483647&v=beta&t=HuxVNqJjoC8IzkRObD3jR6QogOm7OTNVhOjfuy2RuIg",
+        "title": "I had the immense pleasure of interviewing the lovely Steve May, CTO of Pixar, as part of a16z speedrun's speaker series this week. \n\nWe talked about\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/antoine-descamps-_its-not-what-you-say-but-how-you-say-it-activity-7301278090016481281-PIBt",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQGEauoPPXlHKg/videocover-high/B4EZVNZtYVHMBw-/0/1740760342146?e=2147483647&v=beta&t=mp4zYxw_mCDET0TANgzSrOHMWJSp0lzw67MxMjetCZ4",
+        "title": "It's not what you say, but how you say it!\n\nWatch AI completely fail to detect my accent.\n\nThat's why I'm exploring latent spaces.\n\nPreserving voice\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/lovinson-dieujuste_how-i-solve-leetcode-daily-problems-using-activity-7301292796303294464-22yf",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHHDfCSMhcfAw/feedshare-shrink_800/B4EZVNnGyGG0Ag-/0/1740763853142?e=2147483647&v=beta&t=m73xIrc8bwgiNDAuKA5UUaaee454tQRpLHuK_TK9eC8",
+        "title": "How I solve Leetcode Daily Problems using Competitive Programming pt.4\neg: DP Build Back Technique\ud83e\uddf1\n\n\nFirst, I want to start by saying a huge\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jvngyn_one-year-ago-i-did-something-that-was-completely-activity-7301286085123354625-lDJ9",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGxttutdcVraA/feedshare-shrink_800/B56ZVNhAF_HEAg-/0/1740762252581?e=2147483647&v=beta&t=LqZ0X1Y3XQciSA8478ZP3AVZvvGd6quouYzRzj7vg4A",
+        "title": "One year ago, I did something that was completely out of my comfort zone.\n\nI gave a TedxTalk.\n\nIf you happen to have ever interacted with me irl\u2026",
+        "activity": "Liked by Audrey Chen"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/victoria-clotet_when-i-was-11-weekends-meant-one-thing-activity-7301039518747430912-rH70",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEusf32O4wjXQ/feedshare-shrink_2048_1536/B4DZVKAvogHkAo-/0/1740703466117?e=2147483647&v=beta&t=g9CVSQqTHbBxZh8C0WcFsAJXDYg3zOYH8Rn09IieDxo",
+        "title": "When I was 11, weekends meant one thing: gaming with my friends. \ud83c\udfae\n\nAnd we always used Curse\u2014an app that made our sessions better.\n\nFast forward to\u2026",
+        "activity": "Liked by Audrey Chen"
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
+        "certification": "oneAPI Ambassador Level 1",
+        "company_url": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Intel Corporation",
+        "issue_date": "Issued Jun 2024",
+        "credential_id": "See credential",
+        "credential_url": "https://www.credly.com/badges/fcfedd2f-ccd8-4f87-91cf-f276dce578a0/linked_in_profile?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEXOcDsmAJ9sw/company-logo_100_100/company-logo_100_100/0/1648658247777?e=2147483647&v=beta&t=R9KQlrYRbvqOVCYuwlVXs-dJHCYQSvZyPGu1w-zJmug",
+        "certification": "vSphere 8.0 Update 1: vLCM Standalone host support",
+        "company_url": "https://www.linkedin.com/company/vmware-vsphere?trk=public_profile_profile-section-card_image-click",
+        "company_name": "VMware vSphere",
+        "issue_date": "Issued Dec 2023",
+        "credential_id": ""
+      }
+    ],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/auds?trk=public_profile_samename-profile",
+        "name": "Audrey Chen",
+        "summary": "Technical program manager at Formlabs",
+        "location": "Cambridge, MA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/audrey-chen-5aa5992?trk=public_profile_samename-profile",
+        "name": "Audrey Chen",
+        "summary": "",
+        "location": "North Wales, PA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/audreychenn?trk=public_profile_samename-profile",
+        "name": "Audrey Chen",
+        "summary": "",
+        "location": "Berkeley, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/audreychentech?trk=public_profile_samename-profile",
+        "name": "Audrey Chen",
+        "summary": "",
+        "location": "Cupertino, CA"
+      }
+    ],
+    "recommendations": [
+      {
+        "link": "https://www.linkedin.com/in/lunathanael?trk=public_profile_recommendations",
+        "name": "Nathanael Lu",
+        "summary": "\u201cAudrey is undoubtedly one of the most brilliant minds I have had the privilege of working with. During the Optiver Trading Kaggle Competition, her exceptional work ethic set a standard many Software Developers aspire to achieve. Audrey's ability to think critically and innovatively was evident in her impressive success across various competitive hackathons. As a workshop coordinator at the MSU AI Club, I personally witnessed her strong leadership skills. Audrey's resilience and adaptability not only inspire those around her but also leave a lasting, positive impact on everyone she encounters.\n\nI wholeheartedly recommend Audrey for any role, from technically demanding positions to complex leadership roles, as her commitment to excellence is truly remarkable.\u201d"
+      }
+    ],
+    "publications": [],
+    "courses": [
+      {
+        "name": "AP Calculus AB"
+      },
+      {
+        "name": "Algorithmic Thinking/Programming"
+      },
+      {
+        "name": "Brain and Behavior"
+      },
+      {
+        "name": "Calculus 2"
+      },
+      {
+        "name": "Calculus 3"
+      },
+      {
+        "name": "Calculus 4"
+      },
+      {
+        "name": "Cognitive Psychology"
+      },
+      {
+        "name": "Intermediate Microeconomics"
+      },
+      {
+        "name": "Introduction to Macroeconomics"
+      },
+      {
+        "name": "Introduction to Microeconomics"
+      },
+      {
+        "name": "Writing as Inquiry"
+      }
+    ],
+    "languages": [],
+    "organizations": [
+      {
+        "name": "Founders, Inc.",
+        "position": "-"
+      },
+      {
+        "name": "Rewrite The Code (RTC)",
+        "position": "-"
+      }
+    ],
+    "projects": [],
+    "awards": [
+      {
+        "name": "1st Place Winner - HackRTC",
+        "organization": "Illinois Institute of Technology Real-Time Communications Lab",
+        "duration": "Oct 2023",
+        "summary": "-Recipient of $600 prize -Led project idea 'sentimentSolved' in a team of 6 programmers and created a platform to assist  individuals with social-emotional agnosia in interpreting the world around them-Trained a model on a kaggle dataset with keras, tensorflow, and opencv that was able to recognize facial expressions with 95% accuracy."
+      },
+      {
+        "name": "1st Place Winner, Best Use of Streamlit - MHacks",
+        "organization": "University of Michigan",
+        "duration": "Oct 2023",
+        "summary": "-Led project idea \"Pinpoint Ai\" in a team of two, utilizing langchain to vectorize medical research papers and call on the embeddings to aid in emergency room diagnoses. -Successfully demoed an example where Pinpoint Ai more accurately diagnoses symptoms with VTE (venous thromboembolism) rather than ChatGPT's incorrect diagnosis of DVT (Deep Vein Thrombosis)"
+      },
+      {
+        "name": "1st Place Winner, Best Use of Verbwire API - HackPrinceton",
+        "organization": "Princeton University",
+        "duration": "Oct 2023",
+        "summary": "-Participated in a group of four to develop a lacing algorithm and smart contract marketplace to protect artists in the cryptosphere, with a 97% accuracy in matching the artist to the altered NFT."
+      },
+      {
+        "name": "1st Place Winner - DePaul 7th Annual Purpose Pitch Competition",
+        "organization": "Coleman Entrepreneurship Center DePaul University",
+        "duration": "Jun 2023",
+        "summary": "-Recipient of $6,000 along with two co-founders for our start-up, SKIIP"
+      },
+      {
+        "name": "3rd Prize Spartan Code White",
+        "organization": "Spartan Hackers",
+        "duration": "Apr 2023",
+        "summary": "-Semester long hackathon for all Michigan State University students with four cash prizes.-Engineered a device for disabilities with Tensorflow AI, Coral USB accelerator, Raspberry pi, Raspberry pi Pico, and Ultrasonic Distance Sensor."
+      },
+      {
+        "name": "First Place Hardware Track",
+        "organization": "Ohio University BlossomHack",
+        "duration": "Apr 2023",
+        "summary": "-50+ competitors at the hackathon-Individually engineered a device, \"Home Hero\", on raspberry pi pico for the visually impaired in 24 hours that successfully ran-Used Thonny, Micropython, PIR Human Sensor, Ultrasonic Distance Sensor, and Raspberry Pi Pico"
+      },
+      {
+        "name": "Official Overall Hackathon Win - First Place Software Hack",
+        "organization": "WECE Hacks University of Illinois Urbana Champaign",
+        "duration": "Apr 2023",
+        "summary": "-Led project idea in a team of three women-Safety app for women that successfully ran. Lets users send requests to others requesting for where they want to go, as well as the geolocation of the user. As a user sends the location and request, other users in their vicinity will be receiving message in the app, and swipe if other users would like to join the trip.-Used google api, github, google-cloud, html, javascript, python, react-native"
+      },
+      {
+        "name": "Track Winner Citrus Hack",
+        "organization": "Citrus Hack, UC Riverside",
+        "duration": "Apr 2023",
+        "summary": "-600+ Competitors-Worked in a team of 4 to create a machine learning website for teaching sign language using Vite, TailwindCSS, Flask, and Socket.io-To accurately detect and recognize ASL letters, we employed Handtrack.js for hand detection and a custom Convolutional Neural Network (CNN) model, specifically trained on ASL data for letter recognition."
+      },
+      {
+        "name": "AI Futures Pico Pi Challenge First Place - Category 3",
+        "organization": "AI Futures Mantel Technologies",
+        "duration": "Mar 2023",
+        "summary": "\"The third category judged how useful the project was for a college student\u2019s daily life.  Congratulations to Audrey Chen for her project to detect movement / distractions in a dorm room and activate a light to remind you to get back to studying.  Very creative application that is useful and as she noted in her presentation can be extended to display specific reminders.  Great work!!\""
+      },
+      {
+        "name": "Ap Scholar Award",
+        "organization": "Collegeboard",
+        "duration": "",
+        "summary": ""
+      },
+      {
+        "name": "Dean\u2019s List, 2 Semesters",
+        "organization": "Dean of Michigan State University",
+        "duration": "",
+        "summary": "Maintained above a 3.5 gpa"
+      }
+    ],
+    "score": [
+      {
+        "name": "ACT",
+        "score": "Score: 33",
+        "duration": "Jun 2021",
+        "summary": ""
+      }
+    ]
+  }
+]

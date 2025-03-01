@@ -1,0 +1,396 @@
+[
+  {
+    "fullName": "Kyle Cui",
+    "linkedin_internal_id": "835187517",
+    "first_name": "Kyle",
+    "last_name": "Cui",
+    "public_identifier": "kcui5",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQGl6CVlb4xbKg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1639189992523?e=2147483647&v=beta&t=OKe9kV-u8nZfga7p4BcVms7vTtsnhsonN6rjujyjCsE",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQGytKzOEG_6dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718228863156?e=2147483647&v=beta&t=T0dxmH8eAXRVfUcarGQfXPiHskeY3d32_tQMZxibCaQ",
+    "headline": "Building CTRL Sheet | Computer Science & Physics at University of California, Berkeley",
+    "location": "478 followers\n          \n          \n              478 connections",
+    "followers": "Issued Jun 2019",
+    "connections": "Issued Jun 2019",
+    "about": "I'm Kyle Cui, currently Cofounder and CEO of CTRL Sheet.I graduated from U.C. Berkeley where I studied Computer Science and Physics.",
+    "experience": [
+      {
+        "position": "Co-Founder & CEO",
+        "company_url": "https://www.linkedin.com/company/ctrlsheet?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFcjcTamTu-Ug/company-logo_100_100/company-logo_100_100/0/1727983761848?e=2147483647&v=beta&t=T4tHxfTJJOLWxmycp0qVHD6l-YXAalIohGmXRTPawBs",
+        "company_name": "CTRL Sheet",
+        "location": null,
+        "summary": "www.ctrlsheet.aiAntler VC F24",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Metaphor3D",
+        "location": "San Francisco, California, United States",
+        "summary": "\u2022 Deployed TypeScript app w/ Azure for cloud API endpoints generating machine learning output at 70% less latency\u2022 Designed user data pipeline in Python & led data analysis on user events to scale app with 30% more user retention\u2022 Optimized data processing with Rust loop vectorization, cache coherency, algorithm changes to perform 20% faster",
+        "starts_at": "Jun 2023",
+        "ends_at": "Aug 2023",
+        "duration": "3 months"
+      },
+      {
+        "position": "Executive Vice President",
+        "company_url": "https://www.linkedin.com/company/xratb?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFfh9oKlnEoCA/company-logo_100_100/company-logo_100_100/0/1630637081176/virtual_reality_at_berkeley_logo?e=2147483647&v=beta&t=u1kfUFSwYan-G0hMjcBMhgPo0gDauv-bq0RkXnYL5JU",
+        "company_name": "Extended Reality at Berkeley",
+        "location": null,
+        "summary": "\u2022 Led internal and external functions of 50+ club members by managing club resources, partnerships, and events\u2022 Organized engagement events for 9 project teams to onboard, train, and collaborate between club developers\u2022 Learned ethical and ergonomic augmented and virtual reality engineering techniques to develop club projects",
+        "starts_at": "Aug 2021",
+        "ends_at": "Dec 2022",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "Artificial Intelligence Virtual Reality Research Intern",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQET4WuLdTzDPQ/company-logo_100_100/company-logo_100_100/0/1731605469670/uc_berkeley_eecs_logo?e=2147483647&v=beta&t=GRkMfuxk3y8GhtCBxc1nvSKYysRH1Ss7Qf-4JqQM3IM",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "ScenicVR Research Group at Verified AI Advised by Professor Sanjit Seshia\u2022\tDeveloped adversarial AI agents in simulated scenarios to boost rapid skill acquisition in virtual reality environment\u2022\tGenerated probabilistic simulations of procedural content for automatic curriculum generation to train 20 test subjects\u2022\tReconstructed virtual reality game in C# & Unity3D with Autodesk Maya capable of networking 10+ VR headsets",
+        "starts_at": "May 2021",
+        "ends_at": "Dec 2022",
+        "duration": "1 year 8 months"
+      },
+      {
+        "position": "Course Staff (Academic Intern)",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQET4WuLdTzDPQ/company-logo_100_100/company-logo_100_100/0/1731605469670/uc_berkeley_eecs_logo?e=2147483647&v=beta&t=GRkMfuxk3y8GhtCBxc1nvSKYysRH1Ss7Qf-4JqQM3IM",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": null,
+        "summary": "Discrete Math and Probability (CS70) and Structure and Interpretation of Computer Programs (CS61A) Courses\u2022 Led 15+ students through weekly course labs to enhance understanding and provide support for course content\u2022 Staffed office hours and provided instruction at discussion sessions to aid students and encourage comprehension\u2022 Taught course content to 15+ students and promoted enthusiasm for 1600+ students through online support platform",
+        "starts_at": "May 2021",
+        "ends_at": "Dec 2021",
+        "duration": "8 months"
+      },
+      {
+        "position": "Venture Capital Analyst",
+        "company_url": "https://www.linkedin.com/company/steel-perlot?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHXrd7HMa9Clg/company-logo_100_100/company-logo_100_100/0/1638921468213/steel_perlot_logo?e=2147483647&v=beta&t=e0P7FYVPedS1vhCdMApdJ3DOoD1qlOKUM2JvK-QDTwo",
+        "company_name": "Steel Perlot",
+        "location": "Manhattan, New York, United States",
+        "summary": "",
+        "starts_at": "May 2022",
+        "ends_at": "Aug 2022",
+        "duration": "4 months"
+      },
+      {
+        "position": "Student Researcher",
+        "company_url": "https://www.linkedin.com/company/fhl-vive-center-for-enhanced-reality?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHo0ndW3op4ug/company-logo_100_100/company-logo_100_100/0/1630656116852?e=2147483647&v=beta&t=fIKG6jG1lgBVSoO2IJjYwRPfJKmujt1nwEJ9w36PE8E",
+        "company_name": "FHL Vive Center for Enhanced Reality",
+        "location": "Berkeley, California, United States",
+        "summary": "Immersive Semi-Autonomous Aerial Command System Advised by Professor Allen Yang\u2022\tDesigned Hamilton-Jacobi reachability algorithms for obstacle avoidance path planning in 4 degrees of freedom\u2022\tConstructed Rapidly-Exploring Random Tree algorithm with ray casting & smoothing to boost runtime efficiency 98%\u2022\tCreated interface between path finding algorithms and computer vision data taken from cameras on industrial drones",
+        "starts_at": "Sep 2021",
+        "ends_at": "May 2022",
+        "duration": "9 months"
+      },
+      {
+        "position": "Office Assistant",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Mears & McCullough Accounting Firm",
+        "location": "Cranford, New Jersey, United States",
+        "summary": "\u2022 Designed new filing system to organize decades of financial statements to maximize office efficiency\u2022 Prepared and processed tax documents and corresponded with 200 clients to accurately organize tax forms\u2022 Recorded and analyzed bank statements and calculated monthly amortizations of firm\u2019s largest clients",
+        "starts_at": "Dec 2017",
+        "ends_at": "Dec 2020",
+        "duration": "3 years 1 month"
+      },
+      {
+        "position": "Research Assistant",
+        "company_url": "https://www.linkedin.com/school/cunyedu/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGCZWsJRWc__Q/company-logo_100_100/company-logo_100_100/0/1683119150367/city_university_of_new_york_logo?e=2147483647&v=beta&t=5pMdmPH5b6sAqKpCY9bpM8I3MitWwwRYufOOnWwiIxI",
+        "company_name": "The City University of New York",
+        "location": "Manhattan, New York, United States",
+        "summary": "Mentored by Professor Hao Tang\u25cf Created Android app using Unity 3D engine and C# to assist the visually impaired in navigating buildings\u25cf Designed physics models and extrapolated map data from academic buildings for accurate and realistic training\u25cf Pioneered the app into live experiments with test subjects by communicating with graduate students and professors",
+        "starts_at": "Aug 2018",
+        "ends_at": "Aug 2018",
+        "duration": "1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Bachelor of Arts - BA",
+        "college_degree_field": "Computer Science (Honors) & Physics",
+        "college_duration": "2020 - 2024",
+        "college_activity": "GPA: 3.8/4.0"
+      },
+      {
+        "college_url": "https://se.linkedin.com/school/uppsala-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Uppsala University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQE7ERkqy7WU_w/company-logo_100_100/company-logo_100_100/0/1631312136757?e=2147483647&v=beta&t=YbvX5vwOJlYwHpRCkQhud3N4QeU63cz09KBWGvvJ9nw",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2023",
+        "college_activity": "Study abroad through UCEAP"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/union-county-magnet-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Union County Magnet High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHzUNyLllHCCw/company-logo_100_100/company-logo_100_100/0/1631356752516/union_county_magnet_high_school_logo?e=2147483647&v=beta&t=LBuqxfGis3umm9qbd04iBk8feZGImf7vuhttwa9HO8o",
+        "college_degree": "High School Diploma",
+        "college_degree_field": null,
+        "college_duration": "2016 - 2020",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "CTRL Sheet",
+      "description1_link": "https://www.linkedin.com/company/ctrlsheet?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/savindu-wimalasooriya_im-excited-to-announce-wwwctrlsheetai-activity-7290887301998460930-HUbb",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQHTGMh77_etVQ/videocover-high/B56ZS5vSUwHQBs-/0/1738282973643?e=2147483647&v=beta&t=MOKQzB1n0BF4paHjGzq2oH0_sP_xcR6mMxSOaLVHwAk",
+        "title": "I'm excited to announce www.ctrlsheet.ai, your AI agent for spreadsheets!\n\nCTRL Sheet can help you build out models and gather data from the internet\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ravi-bakhai-ba785791_this-morning-someone-decided-to-create-a-activity-7265444494613884930-aYze",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHPfkDoKL0ugw/feedshare-shrink_1280/feedshare-shrink_1280/0/1732216951725?e=2147483647&v=beta&t=533PxmusrX8QLhVBaqWXnzUKAWW7V8hUMsMFD05y788",
+        "title": "This morning, someone decided to create a coin ($LIVE) and livestream until it hits $100m market cap. Currently, it is at $20m market cap. \n\nStreamer\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kevin-serwatka_excited-to-share-that-ive-joined-antlers-activity-7251622215845101568-8MIG",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQELVzoFkw9Jzg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1728921464369?e=2147483647&v=beta&t=plr0rhjMLMl1SazlUu6jq6qOJMTkDts0zu5qASJALAk",
+        "title": "Excited to share that I\u2019ve joined Antler's Residency program to accelerate the growth of my startup.",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sidsrivastava_ucberkeley-proudparents-graduationday-activity-7198678213546446850-dXO0",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFQdNppDiUPRw/feedshare-shrink_800/feedshare-shrink_800/0/1716298627032?e=2147483647&v=beta&t=dvSQui_wQsCkw6kFY9diMTLmRiVWCf-SNGdMZs0dZKU",
+        "title": "I couldn't resist sharing a personal proud dad moment with my trusted network! This past week, my son Sanskar Siddharth graduated from #UCBerkeley\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/paul-bryzek_ucberkeley-haasschoolofbusiness-mba-activity-7198371635211505664-6M4J",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEIqbB3F_XzMQ/feedshare-shrink_800/feedshare-shrink_800/0/1716225535175?e=2147483647&v=beta&t=Dij1faZ5lylsKGM5RBa8FR3S6lBAe0vFltW5TAxJO6M",
+        "title": "I'm thrilled to announce that I've successfully completed my MBA from the prestigious University of California, Berkeley, Haas School of Business\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/savindu-wimalasooriya_im-excited-to-join-sixth-street-this-summer-activity-7194829920949182464-cMIU",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF-x_lv3a9a2Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715381125196?e=2147483647&v=beta&t=36uC5X3T2QOrV6DoKcJVkGX6QtPo_MeNx8j5w8r3YmQ",
+        "title": "I'm excited to join Sixth Street this summer in New York as a SWE intern!\n\nI want to thank Madeleine Livingston and Brendan Chang for a seamless\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sharan-sahu_i-am-thrilled-to-announce-that-starting-this-activity-7188997633321963521-v0w6",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGoHhTRb0zr7A/feedshare-shrink_800/feedshare-shrink_800/0/1713938358394?e=2147483647&v=beta&t=imMKBW3no1JDXtSjNSblMVDsdtqkle98OW_F1wz4R-c",
+        "title": "I am thrilled to announce that starting this fall, I will be attending Cornell University to pursue a Ph.D. in Statistics and Data Science! I feel\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nguyen-derrick_ethdenver2024-thankyouccc-activity-7170621594199908352-B8ks",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHEw049Wo8sBg/feedshare-shrink_800/feedshare-shrink_800/0/1709605108096?e=2147483647&v=beta&t=IGVQKRFjA0JJ_4gikMN-nPuHRepmxuAsgv9irHzIyQA",
+        "title": "I'm excited to share my recent experience at #ETHDenver2024. It was an amazing chance to connect with professionals who share my interest, dive into\u2026",
+        "activity": "Liked by Kyle Cui"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bhandarkar_hackathon-futuretech-innovation-activity-7109612049415999488--o1j",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHNW6K6Z2cNXQ/feedshare-shrink_800/feedshare-shrink_800/0/1695023400549?e=2147483647&v=beta&t=QPUKb-PntlCAGZtwrU9TfBWD0AAH-OW_X-HJQb_PWg4",
+        "title": "Had an absolute blast this weekend participating in the UX/AI Hackathon at the AGI House! It was an adrenaline-filled 8 hours of hacking, where\u2026",
+        "activity": "Liked by Kyle Cui"
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHzUNyLllHCCw/company-logo_100_100/company-logo_100_100/0/1631356752516/union_county_magnet_high_school_logo?e=2147483647&v=beta&t=LBuqxfGis3umm9qbd04iBk8feZGImf7vuhttwa9HO8o",
+        "certification": "Autodesk AutoCAD User Certification",
+        "company_url": "https://www.linkedin.com/school/union-county-magnet-high-school/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Union County Magnet High School",
+        "issue_date": "Issued Jun 2019",
+        "credential_id": ""
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/michael-cavaretta-795a965?trk=public_profile_browsemap-profile",
+        "name": "Michael Cavaretta",
+        "summary": "",
+        "location": "Livonia, MI"
+      },
+      {
+        "link": "https://www.linkedin.com/in/markallensmith?trk=public_profile_browsemap-profile",
+        "name": "Mark Smith",
+        "summary": "",
+        "location": "Henderson, NV"
+      },
+      {
+        "link": "https://www.linkedin.com/in/fleurydi?trk=public_profile_browsemap-profile",
+        "name": "Fleury Keigni",
+        "summary": "",
+        "location": "Fort George G. Meade, MD"
+      },
+      {
+        "link": "https://www.linkedin.com/in/babar-syed-00758811?trk=public_profile_browsemap-profile",
+        "name": "Babar Syed",
+        "summary": "",
+        "location": "Sugar Land, TX"
+      },
+      {
+        "link": "https://www.linkedin.com/in/valerielong?trk=public_profile_browsemap-profile",
+        "name": "Valerie Long, SPHR, SHRM-SCP",
+        "summary": "",
+        "location": "Chattanooga, TN"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nileshjain03?trk=public_profile_browsemap-profile",
+        "name": "Nilesh Jain",
+        "summary": "",
+        "location": "Pleasanton, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/safa-hussain-73716477?trk=public_profile_browsemap-profile",
+        "name": "Safa Hussain",
+        "summary": "",
+        "location": "Davis, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/malan?trk=public_profile_browsemap-profile",
+        "name": "David J. Malan",
+        "summary": "I teach CS50",
+        "location": "Cambridge, MA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/realgenekim?trk=public_profile_browsemap-profile",
+        "name": "Gene Kim",
+        "summary": "",
+        "location": "Portland, OR"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jeffforderer?trk=public_profile_browsemap-profile",
+        "name": "Jeff Forderer",
+        "summary": "",
+        "location": "El Dorado Hills, CA"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://ca.linkedin.com/in/kylecui?trk=public_profile_samename-profile",
+        "name": "Kyle Cui",
+        "summary": "Engineering & AI @ Nasdaq",
+        "location": "Toronto, ON"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kcui?trk=public_profile_samename-profile",
+        "name": "Kyle Cui",
+        "summary": "",
+        "location": "San Jose, CA"
+      },
+      {
+        "link": "https://ph.linkedin.com/in/kyle-cui-5b41a41ab?trk=public_profile_samename-profile",
+        "name": "kyle cui",
+        "summary": "Lead Manager at Remodel Favor",
+        "location": "Cebu"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kyle-cui-977913315?trk=public_profile_samename-profile",
+        "name": "Kyle Cui",
+        "summary": "Student at Westtown School",
+        "location": "Chester Springs, PA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Analytic Mechanics"
+      },
+      {
+        "name": "Data Structures"
+      },
+      {
+        "name": "Designing Information Devices and Systems"
+      },
+      {
+        "name": "Discrete Mathematics and Probability Theory"
+      },
+      {
+        "name": "Dynamical System and Chaos"
+      },
+      {
+        "name": "Electromagnetism and Optics"
+      },
+      {
+        "name": "Great Ideas of Computer Architecture (Machine Structures)"
+      },
+      {
+        "name": "Introduction to Artificial Intelligence"
+      },
+      {
+        "name": "Introduction to Experimental Physics I"
+      },
+      {
+        "name": "Introduction to General Astronomy"
+      },
+      {
+        "name": "Introduction to Machine Learning"
+      },
+      {
+        "name": "Introduction to Mathematical Physics"
+      },
+      {
+        "name": "Introduction to Statistical and Thermal Physics"
+      },
+      {
+        "name": "Introductory Electromagnetism, Waves, and Optics"
+      },
+      {
+        "name": "Introductory Mechanics and Relativity"
+      },
+      {
+        "name": "Introductory Thermodynamics and Quantum Mechanics"
+      },
+      {
+        "name": "Multivariable Calculus"
+      },
+      {
+        "name": "Observational Astrophysics I"
+      },
+      {
+        "name": "Optimization Models"
+      },
+      {
+        "name": "Physics and Finance"
+      },
+      {
+        "name": "The Structure and Interpretation of Computer Programs"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Chinese",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

@@ -1,0 +1,40 @@
+                  Vatsal Baherwani
+                  I'm an undergrad student at the University of Maryland, graduating in 2025.
+                  This summer I will join the
+                    [Center for Human-Compatible AI](https://humancompatible.ai/)
+                    as a research fellow.
+                    [Email](mailto:vatsalbaherwani@gmail.com)
+                    /
+                    [CV](data/VatsalBaherwaniCV.pdf)
+                    <a href="data/JonBarron-bio.txt">Bio</a> &nbsp;/&nbsp;
+                    [Google Scholar](https://scholar.google.com/citations?user=sAV3TUoAAAAJ)
+                    [Twitter](https://twitter.com/vatsalbaherwani)
+                    [Github](https://github.com/vatsal0/)
+                    [LinkedIn](https://linkedin.com/in/vatsal-baherwani)
+                    [Blog](https://medium.com/@vatsalbaherwani)
+                  Research
+                  I am interested in making AI more accessible, interpretable, and trustworthy. This includes:
+                    Exploring computationally efficient architectures and training methods for LLMs
+                    Understanding how and where knowledge is represented in neural networks
+                    Ensuring AI models adhere to specific rules and act toward human-aligned interests
+                    Video Diffusion Models Encode Motion in Early Timesteps
+                  , Yixuan Ren, Abhinav Shrivastava
+                  Under Review
+                  <a href="">project page</a>
+                /
+                <a href="">arXiv</a>
+                  We show that motion information is independently learned in early timesteps of the diffusion process, prior to the materialization of spatial attributes. We use this insight to present a simple and efficient method for targeted video motion customization.
+                    Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts
+                  Vatsal Baherwani*
+                  , Zain Sarwar, Benjamin Therien, Supriyo Chakraborty, Tom Goldstein
+                  NeurIPS 2024 OPT, ENLSP, Neural Compression Workshops
+                  We approximate the dense backward pass of a sparse mixture-of-experts model, leading to improved training stability and performance with negligible overhead.
+                    Racial and Gender Stereotypes Encoded Into CLIP Representations
+                  , Joseph Vincent
+                  ICLR 2024 Tiny Paper
+                  We demonstrate that image and text embeddings in CLIP exhibit strong biases corresponding to prevalent racial and gender stereotypes.
+                  Thanks to
+                    [Jon Barron](https://jonbarron.info/)
+                    for his
+                    [website template](https://github.com/jonbarron/jonbarron_website)
+                    .

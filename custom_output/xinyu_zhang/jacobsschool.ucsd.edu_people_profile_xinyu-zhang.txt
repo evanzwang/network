@@ -1,0 +1,255 @@
+  THEME DEBUG
+  THEME HOOK: 'off_canvas_page_wrapper'
+  BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig'
+    THEME HOOK: 'page'
+    FILE NAME SUGGESTIONS:
+   * page--node--person-profile.html.twig
+   * page--node--3613.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   x page.html.twig
+    BEGIN OUTPUT from 'themes/bootstrap_dev2/templates/page.html.twig'
+              THEME HOOK: 'region'
+              FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--header.html.twig
+   * region.html.twig
+              BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/layout/region--nowrap.html.twig'
+              THEME HOOK: 'block'
+              FILE NAME SUGGESTIONS:
+   * block--bootstrap-dev2-branding.html.twig
+   x block--system-branding-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+              BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/block/block--system-branding-block.html.twig'
+              END OUTPUT from 'themes/bootstrap_barrio/templates/block/block--system-branding-block.html.twig'
+              FILE NAME SUGGESTIONS:
+   * block--jacobs-school-block.html.twig
+   * block--navbartoggler.html.twig
+   * block--block-content--b6f6e54b-40bf-486f-83ef-a5ff7af539d6.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+              BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/block/block.html.twig'
+                  THEME HOOK: 'field'
+                  FILE NAME SUGGESTIONS:
+   * field--block-content--body--jacobs-school-block.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--jacobs-school-block.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+                  BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/field/field--text-with-summary.html.twig'
+                  END OUTPUT from 'themes/bootstrap_barrio/templates/field/field--text-with-summary.html.twig'
+              END OUTPUT from 'themes/bootstrap_barrio/templates/block/block.html.twig'
+              FILE NAME SUGGESTIONS:
+   * block--bootstrap-dev2-search.html.twig
+   x block--search-form-block.html.twig
+   * block--search.html.twig
+   * block.html.twig
+              BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/block/block--search-form-block.html.twig'
+                    THEME HOOK: 'form'
+                    FILE NAME SUGGESTIONS:
+   x form--search-block-form.html.twig
+   * form.html.twig
+                    BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/block/form--search-block-form.html.twig'
+                      THEME HOOK: 'form_element'
+                      BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/form/form-element.html.twig'
+                        THEME HOOK: 'form_element_label'
+                        BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/form/form-element-label.html.twig'
+                        Search
+                        END OUTPUT from 'themes/bootstrap_barrio/templates/form/form-element-label.html.twig'
+                        THEME HOOK: 'input__search'
+                        FILE NAME SUGGESTIONS:
+   * input--search.html.twig
+   x input.html.twig
+                        BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/form/input.html.twig'
+                        END OUTPUT from 'themes/bootstrap_barrio/templates/form/input.html.twig'
+                      END OUTPUT from 'themes/bootstrap_barrio/templates/form/form-element.html.twig'
+                      THEME HOOK: 'container'
+                      BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/form/container.html.twig'
+                        THEME HOOK: 'input__submit'
+                        FILE NAME SUGGESTIONS:
+   * input--submit.html.twig
+   x input--submit-button.html.twig
+   * input.html.twig
+                        BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/form/input--submit-button.html.twig'
+                        END OUTPUT from 'themes/bootstrap_barrio/templates/form/input--submit-button.html.twig'
+                      END OUTPUT from 'themes/bootstrap_barrio/templates/form/container.html.twig'
+                    END OUTPUT from 'themes/bootstrap_barrio/templates/block/form--search-block-form.html.twig'
+              END OUTPUT from 'themes/bootstrap_barrio/templates/block/block--search-form-block.html.twig'
+              END OUTPUT from 'themes/bootstrap_barrio/templates/layout/region--nowrap.html.twig'
+                FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--primary-menu.html.twig
+   * region.html.twig
+                FILE NAME SUGGESTIONS:
+   * block--menujsoe-2.html.twig
+   * block--system-menu-block--menu-jsoe.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+                BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/block/block--system-menu-block.html.twig'
+                  Menu - JSOE
+                  THEME HOOK: 'menu__menu_jsoe'
+                  FILE NAME SUGGESTIONS:
+   x menu--menu-jsoe.html.twig
+   * menu--menu-jsoe--menujsoe-2.html.twig
+   x menu--menu-jsoe.html.twig
+   * menu.html.twig
+                  BEGIN OUTPUT from 'themes/bootstrap_dev2/templates/menu--menu-jsoe.html.twig'
+                        About
+                          [Mission & Vision](/about/mission)
+                          [Leadership](/about/leadership)
+                          [Diversity](/about/diversity)
+                          [Rankings](/about/rankings)
+                          [News](/news)
+                          [Brand](https://jacobsschool.ucsd.edu/logos)
+                          [Careers](/about/careers)
+                          [History](/about/history)
+                          [Contacts](/about/contacts)
+                          [Map and Directions](/about/directions)
+                        Prospective Students
+                          [Undergraduate Majors](/prospective-students/undergraduate-majors)
+                          [Prospective Undergraduates](/prospective-students/undergraduates)
+                          [Prospective MS Students](/prospective-students/ms)
+                          [Prospective PhD Students](/prospective-students/phd)
+                          [Master's for Working Professionals](/mas)
+                          [Cosmos (pre-college)](/cosmos)
+                        Current Students
+                          [IDEA Engineering Student Center](/idea)
+                          [Jobs and Internships](https://jacobsschool.ucsd.edu/cap/job-internship)
+                          [Maker Spaces](/envision)
+                          [Global Sustainable Development](https://cgsd.ucsd.edu/index.html)
+                          [Entrepreneurship](https://ige.ucsd.edu)
+                          [Teams and Orgs](/idea/current-undergraduates/undergraduate)
+                          [Culture Building Programs](/current-students/culture-building)
+                        Faculty + Research
+                          [Faculty Profiles](/faculty/profiles)
+                          [Research Centers](/research/centers-institutes)
+                          [Research Brochures](/brochures)
+                          [NAE Members](/faculty/nae-members)
+                          [Endowed Chairs](/faculty/endowed-chairs)
+                          [18 New Endowed Chairs](/18NewEndowedChairs)
+                          [Faculty Scholars and Fellows](/faculty-scholars-and-fellows)
+                          [Best Teacher Awards](/faculty/best-teacher-awards)
+                        Academic Departments
+                          [Bioengineering](https://be.ucsd.edu)
+                          [Chemical & Nano Engineering](https://ne.ucsd.edu)
+                          [Computer Science & Engineering](https://cse.ucsd.edu)
+                          [Electrical & Computer Engineering](https://ece.ucsd.edu)
+                          [Mechanical & Aerospace Engineering](https://mae.ucsd.edu)
+                          [Structural Engineering](https://se.ucsd.edu)
+                        Partner with Us
+                          [Industry](/cap/industry)
+                          [Alumni](/alumni)
+                          [Giving](/giving)
+                          [Entrepreneurs](https://ige.ucsd.edu/)
+                          [Franklin Antonio Hall](http://fah.ucsd.edu/)
+                  END OUTPUT from 'themes/bootstrap_dev2/templates/menu--menu-jsoe.html.twig'
+                END OUTPUT from 'themes/bootstrap_barrio/templates/block/block--system-menu-block.html.twig'
+            FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--highlighted.html.twig
+   * region.html.twig
+            FILE NAME SUGGESTIONS:
+   * block--bootstrap-dev2-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+            BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig'
+            END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig'
+                  FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--content.html.twig
+   * region.html.twig
+                  FILE NAME SUGGESTIONS:
+   * block--bootstrap-dev2-page-title.html.twig
+   * block--page-title-block.html.twig
+   * block--core.html.twig
+   x block.html.twig
+                      THEME HOOK: 'page_title'
+                      BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/content/page-title.html.twig'
+                      END OUTPUT from 'themes/bootstrap_barrio/templates/content/page-title.html.twig'
+                  FILE NAME SUGGESTIONS:
+   * block--bootstrap-dev2-content.html.twig
+   * block--system-main-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+                      THEME HOOK: 'node'
+                      FILE NAME SUGGESTIONS:
+   * node--3613--full.html.twig
+   * node--3613.html.twig
+   * node--person-profile--full.html.twig
+   x node--person-profile.html.twig
+   * node--full.html.twig
+   * node.html.twig
+                      BEGIN OUTPUT from 'themes/bootstrap_dev2/templates/node--person-profile.html.twig'
+                            Xinyu   Zhang
+                            Professor, Electrical and Computer Engineering
+                              5G millimeter-wave networking; distributed and multi-user MIMO; mobile video streaming and virtual reality; visible light sensing and localization; RFID sensing; low-power and batteryless Internet-of-Things.
+                              Zhang’s research focuses on wireless networking and mobile computing, more specifically on wireless network architectures that can achieve orders of magnitude performance gain over conventional networks, and computational sensing mechanisms that reuse wireless signals to sense ambient activities with near-vision precision. His research builds on an experimental foundation and is often validated through end-to-end system implementation. His team is the first to address the system-level challenges in realizing millimeter-wave networking, which promises to realize wire-speed connectivity anywhere, anytime.He also designed physical-layer informed protocols that can eliminate the performance glitches in mobile applications, such as mobile Web, video streaming, and virtual reality.
+                              In addition, Zhang’s research augments commodity mobile devices with ambient intelligence, so that they can leverage ambient signals to track human/object locations and activities at near-vision precision. The wireless sensing modalities he developed provide emerging Internet of Things applications with certain enabling mechanisms, such as centimeter-precision indoor localization for smartphones, 3D orientation and position tracking for batteryless objects, etc.
+                              Capsule Bio:
+                              Zhang is an associate professor of Electrical and Computer Engineering at UC San Diego. Before joining UC San Diego, he was an assistant professor at the University of Wisconsin-Madison from 2012 to 2017. He received his Ph.D. degree in Computer Science and Engineering from the University of Michigan in 2012. He is the recipient of ACM MobiCom Best Paper Award (2011), NSF CAREER award (2014), and Google Research Award (2017).
+                              Selected Publications:
+                                [http://xyzhang.ucsd.edu/publications.html](http://xyzhang.ucsd.edu/publications.html)
+                              [Update your profile](/faculty/profile/update)
+                              Email:
+                              Office Phone:
+                            <p class="faculty_profile_print_link"><a></a><a href="/faculty/profile/print?id=23" target="_blank"><i class="fas fa-print mr-2"></i>Print Your Profile</a></p>
+                      END OUTPUT from 'themes/bootstrap_dev2/templates/node--person-profile.html.twig'
+              FILE NAME SUGGESTIONS:
+   * region--footer-fifth.html.twig
+   x region.html.twig
+              BEGIN OUTPUT from 'themes/bootstrap_barrio/templates/layout/region.html.twig'
+                FILE NAME SUGGESTIONS:
+   * block--basic.html.twig
+   * block--bootstrap-dev2-jacobsschoolfooter-2.html.twig
+   * block--block-content--8f85395f-85f8-4789-a8b5-8d0c32b2ac41.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+                    FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+                            SOCIAL MEDIA
+                                  LinkedIn
+                                  Instagram
+                                  Bluesky
+                                  Facebook
+                                  Twitter
+                            PHOTOS AND VIDEOS
+                                  Flickr
+                                  YouTube
+                            [Subscribe to our newsletter](https://jacobsschool.ucsd.edu/news/monthly-newsletter)
+                            [JACOBS SCHOOL HOME](/)
+                            [PROSPECTIVE UNDERGRAD INFO](/prospective-students/undergraduates)
+                            [FACULTY DATABASE](/faculty)
+                            [CONTACT US](/about/contacts)
+                            [JACOBS SCHOOL IT SUPPORT](http://support.eng.ucsd.edu/)
+                            [FOR FACULTY & STAFF](http://soeadm.ucsd.edu/)
+                            [LOGOS & BRANDING](/logos)
+                            [UC SAN DIEGO DIRECTORY](http://www.ucsd.edu/directory/)
+              END OUTPUT from 'themes/bootstrap_barrio/templates/layout/region.html.twig'
+            FILE NAME SUGGESTIONS:
+   * region--footer-end.html.twig
+   x region.html.twig
+              FILE NAME SUGGESTIONS:
+   * block--jacobs-school-block.html.twig
+   * block--copyrightandlinks-2.html.twig
+   * block--block-content--ab4f494c-c10b-40be-bf92-fb6379bc77c5.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+                    ©
+                      [Accessibility](https://accessibility.ucsd.edu/report-a-concern/index.html)
+                      |
+                      [Privacy](https://ucsd.edu/about/privacy.html)
+                      [Terms of Use](https://ucsd.edu/about/terms-of-use.html)
+    END OUTPUT from 'themes/bootstrap_dev2/templates/page.html.twig'
+  END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig'

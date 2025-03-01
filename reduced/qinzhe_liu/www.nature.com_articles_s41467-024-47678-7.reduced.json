@@ -1,0 +1,2353 @@
+{
+  "title": "A fine-scale Arabidopsis chromatin landscape reveals chromatin conformation-associated transcriptional dynamics | Nature Communications",
+  "meta_description": "Plants, as sessile organisms, deploy transcriptional dynamics for adapting to extreme growth conditions such as cold stress. Emerging evidence suggests that chromatin architecture contributes to transcriptional regulation. However, the relationship between chromatin architectural dynamics and transcriptional reprogramming in response to cold stress remains unclear. Here, we apply a chemical-crosslinking assisted proximity capture (CAP-C) method to elucidate the fine-scale chromatin landscape, revealing chromatin interactions within gene bodies closely associated with RNA polymerase II (Pol II) densities across initiation, pausing, and termination sites. We observe dynamic changes in chromatin interactions alongside Pol II activity alterations during cold stress, suggesting local chromatin dynamics may regulate Pol II activity. Notably, cold stress does not affect large-scale chromatin conformations. We further identify a comprehensive promoter-promoter interaction (PPI) network across the genome, potentially facilitating co-regulation of gene expression in response to cold stress. Our study deepens the understanding of chromatin conformation-associated gene regulation in plant response to cold. Plants utilize transcriptional dynamics to adapt to cold stress. Here, Zhang et al. describe a network of chromatin interactions between gene promoters across the Arabidopsis genome that could facilitate co-regulation of gene expression during cold stress.",
+  "main_content": "A fine-scale Arabidopsis chromatin landscape reveals chromatin conformation-associated transcriptional dynamics Download PDF Download PDF Subjects Abiotic Chromatin structure Plant molecular biology Abstract Plants, as sessile organisms, deploy transcriptional dynamics for adapting to extreme growth conditions such as cold stress. Emerging evidence suggests that chromatin architecture contributes to transcriptional regulation. However, the relationship between chromatin architectural dynamics and transcriptional reprogramming in response to cold stress remains unclear. Here, we apply a chemical-crosslinking assisted proximity capture (CAP-C) method to elucidate the fine-scale chromatin landscape, revealing chromatin interactions within gene bodies closely associated with RNA polymerase II (Pol II) densities across initiation, pausing, and termination sites. We observe dynamic changes in chromatin interactions alongside Pol II activity alterations during cold stress, suggesting local chromatin dynamics may regulate Pol II activity. Notably, cold stress does not affect large-scale chromatin conformations. We further identify a comprehensive promoter-promoter interaction (PPI) network across the genome, potentially facilitating co-regulation of gene expression in response to cold stress. Our study deepens the understanding of chromatin conformation-associated gene regulation in plant response to cold. Similar content being viewed by others Global profiling of RNA\u2013chromatin interactions reveals co-regulatory gene expression networks in Arabidopsis Article 14 October 2021 HSFA1a modulates plant heat stress responses and alters the 3D chromatin organization of enhancer-promoter interactions Article Open access 28 January 2023 Genome-wide identification of accessible chromatin regions by ATAC-seq upon induction of the transcription factor bZIP11 in Arabidopsis Article Open access 27 July 2023 Introduction As sessile organisms, plants have developed adaptive strategies to thrive under diverse environmental pressures, including harsh growth conditions. In recent years, significant effort has focussed on unraveling the molecular mechanisms that underlie plant response and adaptation to environmental stress 1 . Cold stress is a critical factor that affects plant growth and development, often limiting the geographical range of plant species. During cold stress, plants undergo global transcriptional reprogramming, resulting in the upregulation or downregulation of many genes 1 . In addition to changes in steady-state gene expression levels, a recent study has shown that Pol II activities during transcription elongation, such as Pol II pausing, are dynamically altered in response to cold 2 . It has been suggested that Pol II activities, including Pol II pausing, are closely linked to chromatin organization 3 . However, it is poorly understood whether changes in chromatin dynamics occur in response to cold and contribute to this global transcriptional reprogramming. Furthermore, among all upregulated or downregulated genes, genes associated with metabolic pathways and photosynthesis were upregulated or downregulated in parallel, alongside those genes involved in cold response 1 . These genes are suggested to be co-regulated by cold-responsive transcription factors in balancing the trade-off between plant growth and cold tolerance 4 . However, it is unclear how these transcription factors can co-regulate different genes with distinct functions. Chromatin interactions may offer a potential explanation for how transcription factors can co-regulate genes with distinct functions by bringing together different regions of the genome. The latest advances in high-throughput chromatin conformation capturing technologies, such as Hi-C, have revolutionized our comprehension of chromatin architecture in plants 5 , 6 . However, Hi-C with its several kilobase (kb) resolution along with protein-mediated crosslinking has limited capability for exploring either chromatin conformations at the gene level or promoter-promoter interaction (PPI) networks at the genome-wide scale. To decipher whether chromatin interactions contribute to transcriptional reprogramming in plant response to cold, here, we leveraged chemical-crosslinking assisted proximity capture (CAP-C) methodology that directly crosslinks DNAs 7 . CAP-C provided a chromatin contact map with high resolution and low background noise 7 . Thus, we generated the first fine landscape of Arabidopsis chromatin interactions with high resolution and accuracy. Our CAP-C determined that chromatin interactions were significantly associated with Pol II activities at the gene level. We observed chromatin dynamics coupled with transcriptional reprogramming in response to cold treatments (3-h and 12-h at 4 \u00b0C). We also captured a comprehensive PPI network primed in the genome that may facilitate gene expression co-regulation in response to cold. Together, our study suggested that plants adopted distinct and multi-level chromatin conformations in tuning transcriptions in response to cold. Results CAP-C successfully captured global chromatin conformational features at high resolution and low background noise in Arabidopsis To examine high-resolution chromatin conformational features at the gene level, we applied chemical-crosslinking assisted proximity capture (CAP-C). This method enables the identification of short-range interactions without the mediation of proteins using a new type of crosslinker, poly (amidoamine) (PAMAM) dendrimers 7 . A small-sized dendrimer favors finer interactions 7 . Here, we used the smallest G3 dendrimer (3.6 nm diameter) to obtain a fine chromatin conformational map in Arabidopsis (Fig. 1a ). Nuclei from 10-day-old Arabidopsis seedlings growing at 22 \u00b0C were extracted and incubated with dendrimers. After UV crosslinking the dendrimers with double-stranded DNAs (Fig. 1a and Supplementary Fig. 1a ), the complex was digested into ~200 bp. Bifunctional bridging linkers were added to the reaction, ligating to dendrimers via \u201cclick chemistry\u201d 8 . The ligated products were enriched by capturing the biotin on the bridge linker before subjecting to library construction and high-throughput sequencing (Fig. 1a ). We termed the read pairs that contain the bridge linker in the middle as the valid \u201cchromatin contacts\u201d. Two independent biological replicates were generated with high reproducibility (Supplementary Fig. 1b ). Fig. 1: CAP-C for the high-resolution chromatin conformations in Arabidopsis. a Shown schematically here, the CAP experimental procedure involved extracting nuclei from seedlings and incubating them with dendrimer. Multi-functional dendrimers and chromatin were photo-crosslinked by UV light irradiation. Following global fragmentation, the azide handle (N3 group) attached to the dendrimer-chromatin complex was then reacted with a bi-functional bridge linker oligonucleotide for two-step proximity ligation. The resulting chimeric fragments (one end labeled blue, another end labeled red, with the biotin-labeled bridge linker in the middle) were then purified for library construction, sequencing, and data analysis to obtain chromatin contact profiles. b 4C-like inter-chromosomal interaction profiles showing the average contact probabilities across the centromeres and telomeres regions for each chromosome. c Normalized contact matrix maps of CAP-C (upper panel) and Hi-C 12 (bottom panel) at various resolutions of the centromeric region of chromosome 1. d Relative contact frequency versus genomic distance curves of CAP-C and Hi-C 12 . X -axis: the distance between contact loci from 1 kb to 10 Mb. Y -axis: contact density normalized by sequencing depth. Full size image To verify the efficacy of our CAP-C approach, we first evaluated the overall characteristics of chromatin conformations. Prior cytological investigations revealed that the chromatin architecture of Arabidopsis exhibits significant interaction patterns that encompass pericentromeres and telomeres 9 , 10 , 11 . Our CAP-C data showed strong chromatin contacts at both telomeric ends of all five chromosomes (Fig. 1b , upper panel), consistent with previous Hi-C data 11 , 12 . Notably, our CAP-C also detected strong chromatin contacts in centromeric regions (Fig. 1b , lower panel) that were not detectable in Hi-C 11 , 12 . Further comparisons across the centromeric regions between CAP-C and Hi-C at different resolutions (20 kb, 10 kb, and 2 kb) (Fig. 1c ) revealed that our CAP-C chromatin contacts signals were stronger and finer with lower background noise compared to Hi-C (Fig. 1c ). Our CAP-C clearly captured chromatin contacts toward ~200 bp resolution, enabling us to identify local chromatin contacts (Supplementary Fig. 1c ). We further assessed the effectiveness of our CAP-C by averaging the genome-wide contact frequency. In contrast to Hi-C data 12 (Supplementary Data 2 ), our CAP-C data showed more short-range chromatin contacts (Fig. 1d ). Together, our results confirmed that we had successfully applied CAP-C in Arabidopsis , generating a fine chromatin conformational map at ~200 bp resolution with low background noise. CAP-C efficiently identified local chromatin conformational features in Arabidopsis Our high-resolution chromatin contact map enabled us to characterize local chromatin organizational features and to validate these features on individual gene loci, enhancer-promoter (E-P) and promoter-promoter (P-P) interactions. To facilitate comparison with the previous studies 13 , 14 , we used Fit-Hi-C 15 to identify highly enriched chromatin contacts (termed as stable chromatin contacts). Previously reported chromatin interactions across the FLOWERING LOCUS C ( FLC ) locus 12 , 14 were identified from our CAP-C (Fig. 2a , red curve) data. Additionally, we identified short-range stable chromatin contacts enriched in the first intron region of FLC proposed to be associated with promoter-proximal Pol II pausing 16 . Another interaction loop between the promoter region of PINOID ( PID ) and the loci of lnc RNA APOLO ( AT2G34655 ) 13 , 17 was also apparent in our CAP-C (Fig. 2b , red curve) data, further supporting that our CAP-C accurately captured chromatin contacts at the gene level. Fig. 2: Characterization of chromatin conformations. a , b The stable chromatin contacts around FLC ( a ) and PID and APOLO ( b ) loci. The schematic gene structure was aligned to stable chromatin contacts (loops) captured by CAP-C and coverage results, with boxes representing exons and lines representing introns. The red curve shows the reported chromatin contacts validated experimentally, and the black curves show the newly identified stable chromatin contacts by CAP-C, associated with which are the CAP-C reads shown under the chromatin contacts. c , d Representative examples demonstrating enhancer-promoter interactions. Black boxes represent gene loci, arrows show the promoter regions and transcription directions. Brown boxes represent active enhancer loci. Interactions between an enhancer and a promoter are shown in the red curve. GRO-seq reads (GRO+ represents the sense strand, while GRO\u2212 represents the antisense strand) and the corresponding histone ChIP-seq tracks (H3K36me3, H3K4me3, H3K9Ac) were shown underneath each enhancer and gene locus. GIVE plots showing representative short-range ( e , RPP7 ) and long-range ( f , REC ) intra-chromosomal DNA-DNA interactions based on our CAP-C data under normal growth conditions. To depict interactions, the chromosomes were plotted horizontally twice, producing a top and a bottom track. Each red line represents a chromatin contact, with the color scale indicating the strength of the contacts. The black boxes and lines indicate genes on the chromosomes. Full size image E-P interactions are another form of fine-scale chromatin contacts 18 . As critical regulatory components, enhancers can regulate gene expression through E-P interactions 19 , 20 , 21 . To verify the accuracy of our CAP-C data, we took advantage of the global nuclear run-on sequencing (GRO-seq) data that defined active enhancer sites across Arabidopsis genomes 22 . We observed that chromatin contacts were highly enriched across active enhancer sites (Supplementary Fig. 2a ). It was suggested that the AT3G03850 ( Small auxin up RNA26 , SAUR26 ) forms E-P interactions with those enhancers with the E-box (CANNTG)-like motif CAAGT(T/G)G, targeted by a transcription factor KANADI1 ( KAN1 ) 23 . Here, we identified that one active enhancer with the E-box (CANNTG)-like motif CAAGT(T/G)G exists immediately downstream of the SAUR26 . We found this active enhancer site that was highly transcribed and associated with active histone markers such as H3K36me3, H3K4me3, and H3K9ac (Fig. 2c ). This active enhancer locus directly interacted with the promoter region of the SAUR26 , leading to its associated high expression (Fig. 2c ). Another example of the chromatin interaction between an active enhancer site and the promoter region of its adjacent gene AT1G31910 ( GHMP kinase ) is illustrated in Fig. 2d . Therefore, these results further support that our CAP-C is robust and sensitive. We further conducted comprehensive characterizations of E-P chromatin contacts (Supplementary Data 8 and 9 ). Previous studies showed that enhancers work as transcriptional regulatory elements, orchestrating gene expression from a distance 24 , 25 . We then conducted an analysis on the distribution of the distances for all E-P chromatin contacts determined in our CAP-C libraries in all the chromosomes (Supplementary Fig. 3 and Supplementary Data 8 and 9 ). We found that the majority (89%) of E-P chromatin contacts were distal while 11% were proximal, aligning with previous findings 24 , 25 . Among proximal contacts, 62% were upstream and 38% downstream of the interacting promoter, while distal contacts exhibited 51% upstream and 49% downstream orientation (Supplementary Fig. 4 and Supplementary Data 8 ). Taken together, our CAP-C detected both proximal and distal E-P chromatin contacts with a predominant tandem orientation. Our CAP-C was able to capture interactions between different gene loci. Several genes engaging in many intra-chromosomal interactions using Bridge Linker-Hi-C (BL-Hi-C) were reported as a single gene locus interacting with multiple loci across the same chromosome 26 . Intra-chromosomal interactions representative of protein-coding genes AT1G58602 ( Recognition of Peronospora Parasitica 7 , RPP7 ) and AT1G01320 ( Reduced Chloroplast Coverage 1 , REC1 ) are illustrated in Fig. 2e , f , respectively. AT3G56825 and AT4G13495 , which are responsible for transcribing snRNA U2.4 and lncRNA, respectively, are two additional gene examples that contain numerous known intra-chromosomal interactions (Supplementary Fig. 2b, c ). Our CAP-C not only verified the interactions previously reported by BL-Hi-C but also enabled us to identify more short-range interactions. We closely examined these interactions and identified another fine-scale type of chromatin contact known as promoter-promoter interaction (PPI). PPI pinpointed the promoter region of a particular gene interacting with the promoter region(s) of one or more other genes 27 . With regards to RPP7 and REC1 , they interacted with 108 and 120 genes, respectively, on the same chromosome that engaged in PPIs (Fig. 2e, f ). These PPIs may facilitate the RNA-mediated chromatin interactions reported at these loci 26 . Thus, our CAP-C data has successfully shown genes engaging in many distinguishable intra-chromosomal interactions, supporting the high resolution and sensitivity of our CAP-C method. Our collective findings suggested that our CAP-C approach can accurately and sensitively detect intricate chromatin conformational characteristics. Local chromatin contacts at the gene level are significantly associated with Pol II activities Local interactions at the gene level are proposed to be closely linked with RNA polymerase II (Pol II) activities 18 , 28 . In our CAP-C study, we examined the association between chromatin contacts and Pol II activities. As nascent RNA expression levels can indicate overall Pol II activities 22 , we investigated our CAP-C chromatin data and found that gene chromatin contacts are significantly associated with transcriptional levels (Fig. 3a , Spearman\u2019s R s = 0.39). We have also observed an association between chromatin accessibilities and local chromatin interactions as measured by our CAP-C (Supplementary Fig. 5 and Supplementary Data 2 ). We further explored relationship between representative histone modifications/variants and chromatin contact density at the gene level. Our results demonstrate that active histone modifications, including H3K18Ac, H2A.Z, H3K9Ac, H3PanAc, H3K36me2, H3K4me3, and H3K4me2, are significantly linked with gene chromatin contacts (Fig. 3b and Supplementary Data 2 and 3 ). Moreover, repressive modifications, such as H3K27me3, H3K27me1, and H3K9me2, are negatively associated with gene chromatin contacts (Fig. 3b and Supplementary Data 2 and 3 ). Fig. 3: CAP-C association between local chromatin contacts and Pol II activities. a Correlation between gene chromatin contacts with transcriptional activities. The gene chromatin contact was measured by normalized chromatin contact density per gene. The transcription activity was measured by GRO-seq 22 signal enrichment. The correlation between gene chromatin contacts and Pol II activities was 0.39, p value = 8.150194e \u2212224 , two-sided Spearman\u2019s rank correlation. b Based on Spearman\u2019s rank correlation, coefficient correlations with significant p values between CAP-C gene chromatin contacts and different histone modifications are shown, two-sided Spearman\u2019s rank correlation. c Meta-profile shows CAP-C interaction signal profiles of highly (pink) and weakly (light blue) transcribed genes, as shown by 10% of the highest ( n = 2739) and lowest ( n = 2769) transcribed genes, which are calculated using GRO-seq 22 . mRNAs were aligned by the transcription start site (TSS) and the transcription termination site (TTS). d Correlation between gene chromatin contact and Pol II elongation activity. The gene chromatin contact was measured by normalized chromatin contact density per gene. The Pol II elongation activity was measured by Ser 5p Pol II pNET-seq 22 . The correlation between gene chromatin contacts and Ser 5p Pol II activities was 0.27, p value < 1.7e \u2212308 , two-sided Spearman\u2019s rank correlation. Meta-profiles show the CAP-C chromatin contacts signal profile of 10% of the highly (red, n = 10,663) and weakly (blue, n = 10,511) Ser 5p Pol II activities across the ( e ) 5\u2019SS or ( f ) the 1st 5\u2019SS, as shown by 10% of the highest ( n = 1933) and lowest ( n = 1944) Ser 5p Pol II activities. Full size image Notably, histone modifications were shown to affect Pol II elongation during transcription 29 . Thus, we examined the distribution of these chromatin contacts across the gene bodies. We ranked our mRNAs according to expression levels and found that highly expressed genes contain overall more chromatin contacts across the gene bodies compared to weakly expressed genes (Fig. 3c ). In particular, there were more chromatin contacts around transcription start sites (TSSs) and transcription termination sites (TTSs) (Fig. 3c ) where transcriptional activities were higher 22 . We then explored the regions between TSS and TTS by dividing genes into groups with and without introns. We found that chromatin contacts were significantly more intense in those genes containing introns than those without (Supplementary Fig. 6a ). After partitioning the exons and introns, we observed that the frequency of chromatin contacts within introns is significantly greater than those within exons (Supplementary Fig. 6b ). Notably, the chromatin contacts were not evenly distributed across exon and intron regions but rather were enhanced at the start and end of the introns (Supplementary Fig. 6c ). This feature reminds us of Pol II pausing signatures across the 5\u2019 Splicing Site (5\u2019SS) located ~25 bp downstream of the 5\u2019SS 2 . To investigate any association between gene-body chromatin contacts and Pol II pausing signatures, we measured the correlation between CAP-C gene chromatin contacts with Pol II activities across the gene body. The phosphorylation of Ser5 inside the carboxyl-terminal domain (CTD) representing transcriptional activity during Pol II elongation is well-documented 28 . Notably, we found a significant positive correlation (Fig. 3d , Spearman\u2019s R s = 0.27) between gene chromatin contacts and Ser5P Pol II density, indicating a potential link between these two features. After ranking Ser5P Pol II density, we investigated the chromatin contact frequency across exon-intron junction sites. Our results indicated that the regions with high Ser5P Pol II densities exhibited more chromatin contacts than those with low Ser5P Pol II densities (Fig. 3e ). Notably, this disparity was most prominent at the first exon-intron junction, which is critical to Pol II elongation activity (Fig. 3f ). Our findings thus shed light on pervasive associations between chromatin contacts and Pol II activities during initiation, elongation, and termination at the gene level. Chromatin conformation-associated Pol II activities are dynamically altered in plant response to cold A previous study found that the Pol II densities across exon-intron junction sites dynamically changed in response to cold treatments (3-h and 12-h at 4 \u00b0C) 2 . The Pol II pausing signal dropped rapidly during cold treatment for 3 h and gradually restored during cold treatment for 12 h 2 . This result suggested a dynamic reprogramming of nascent Pol II activities in plant response to cold stress. Thus, we speculated whether these transcriptional dynamics of Pol II activities during elongation were linked to chromatin conformations. To test this, we generated CAP-C libraries corresponding to the same cold treatments of seedlings at 4 \u00b0C for 3 and 12 h, respectively (Fig. 4a , Supplementary Fig. 1b and Supplementary Data 1 ). We compared the correlation between gene chromatin contacts obtained from CAP-C libraries and Pol II densities derived from previous plant native elongating transcripts sequencing (plaNET-seq) libraries for varying cold treatment durations (Fig. 4b, c , Supplementary Fig. 7a and Supplementary Data 2 ). We found significant positive correlations between gene chromatin contacts and Pol II densities at normal temperature (22 \u00b0C), and at 4 \u00b0C for 3 h and 4 \u00b0C for 12 h, respectively (Fig. 4b, c and Supplementary Fig. 7a Spearman\u2019s R s = 0.47, Spearman\u2019s R s = 0.44, Spearman\u2019s R s = 0.41, respectively). These findings suggested that the relationship between chromatin contacts and Pol II activities at the gene level was likely to be pervasive across diverse conditions. Fig. 4: Chromatin contacts dynamically coordinate with Pol II activities in response to cold stress. a Schematic illustration of plant cold treatments. 10 day-old seedlings were exposed to low temperature (4 \u00b0C) for 3 or 12 h. Samples were collected for CAP-C library constructions. b , c Correlations between gene chromatin contacts and transcriptional activities under 3 h and 12 h cold treatments, respectively. The gene chromatin contact was measured by normalized chromatin contact density per gene. The transcription activity was measured by the plaNET-seq 2 . The correlation between gene chromatin contacts and Pol II activities was 0.44, p value < 1.7e\u2212308 for 3 h cold treatment and 0.41, p value < 1.7e\u2212308 for 12 h cold treatment, two-sided Spearman\u2019s rank correlation. Meta-profiles show the CAP-C chromatin contact profile 100 bp upstream and 200 bp downstream of the ( d ) 5\u2019SS or ( e ) the 1st 5\u2019SS (22 \u00b0C in red, 4 \u00b0C treatment for 3 h in dark blue, 4 \u00b0C treatment for 12 h in light blue). Z -score normalization was applied to normalize the difference of the sequencing depths in the libraries of three conditions. Examples show the chromatin contacts and Pol II density signal profiles across the gene AT5G09310 ( PEN-2 ) ( f ) and AT1G31830 ( PUT2 ) ( g ). Full size image Next, we assessed chromatin contact densities across exon-intron junction sites and found that the changes in chromatin contacts were notably similar to Pol II density changes under cold treatments (Fig. 4d , e and Supplementary Fig. 7b, c ). Specifically, the chromatin contacts located downstream of 5\u2019SS dropped sharply during 3 h in the cold, but gradually reverted to control levels during 12 h in the cold (Fig. 4d ). In particular, these dynamic changes of local chromatin contacts were more prominent across the first exon-intron junctions (Fig. 4e ). This associative evidence between local chromatin interactions and Pol II activities implied that local chromatin conformations may facilitate transcriptional reprogramming in plant response to cold stress. Example associations across the first 5\u2019SS of genes AT5G09310 ( Probable gamma-secretase subunit , PEN-2 ) and AT1G31830 ( Paraquat resistant 2 , PUT2 ), between corresponding dynamic changes of both local chromatin contacts and Pol II activities, are illustrated in Fig. 4f, g . Hence, our findings suggested that during extreme growth conditions, such as cold stress, dynamic changes in local chromatin contacts within the gene locus occur that may contribute to the reprogramming of transcriptional activities. CAP-C revealed a comprehensive PPI network that pervaded the genome After discovering alterations of local chromatin conformations in response to cold, we then assessed large-scale chromatin conformations. We found that most large-scale chromatin conformations remain stable (Supplementary Fig. 8 ). We then investigated PPIs across the whole genome and identified PPIs that existed concurrently in three sets of CAP-C libraries under different temperature conditions that were likely to be thermo-stable and primed. Notably, we found a considerable number of PPIs, including intra-chromosomal and inter-chromosomal interactions, across all five chromosomes, forming a comprehensive PPI network (Fig. 5a, b ). Furthermore, two PPI network hotspots were determined (Fig. 5a ) connecting one gene locus to multiple genes. One of these hotspots was found on chromosome 2, where the promoter of AT2G01023 interacted with the promoters of 4827 genes. The other hotspot was situated on chromosome 3, where the promoter of AT3G41768 (rDNA) interacted with the promoters of 5407 genes (Fig. 5a ). These two PPI networks might be primed to assist the extensive RNA-mediated chromatin contacts in these loci 26 . We also did a comprehensive analysis on the PPIs (Supplementary Fig. 9 and Supplementary Data 10 and 11 ). A notable majority (77%) of these interactions occurred in a cis manner, where interactions take place on the same chromosome, while 23% were trans PPIs (Supplementary Fig. 9 and Supplementary Data 10 ). Among these cis PPIs, the most prevalent orientation was tandem PPIs (51%), characterized by genes with PPIs being transcribed in the same direction. Divergent PPIs accounted for 40% and convergent PPIs constitute 9%. Fig. 5: The primed promoter-promoter interaction network may harbor transcription factors. a A genome-wide promoter-promoter interaction (PPI) map of Arabidopsis for the PPIs present under three temperature conditions was displayed using Cytoscape 3.9.1 50 . The dark pink and purple dots inside the network were two PPI hotspots in chromosomes 2 and 3, respectively. The five individual chromosomes were shown in different colors. The size of the dots indicated the number of PPIs. b An enlarged region of the PPI network on chromosome 2. c Histogram of chromatin contacts over the PPIs across the binding sites of 422 transcription factor (TF). TF binding sites were obtained from previous ChIP experiments 31 , 52 (see Supplementary Data 2 ). d Heatmap showing strengths of PPIs across the binding sites of the bHLH, NAC, and WRKY transcription factor families, respectively. Full size image Previous chromatin linkage studies in humans suggested that binding sites of transcription factors (TFs) may be involved in chromatin interactions in regulating gene expressions 30 . Therefore, we examined extensive ChIP-seq datasets for experimentally identified TF binding sites 31 and plotted our CAP-C chromatin contacts across these specific TF binding sites. We found that PPIs were highly enriched at these TF binding sites (Fig. 5c ). Notably, these enrichments occurred for most transcription factors such as the well-documented TF families bHLH, NAC, and WRKY (Fig. 5d and Supplementary Data 4 ), suggesting that these primed PPIs preferentially formed at the TF binding sites that may habor these transcription factors. Primed promoter-promoter interactions may facilitate the co-regulation of gene expression in response to cold To test the notion that primed PPIs may be involved in co-regulating gene expression, we performed the co-expression analysis for all three conditions 32 . We calculated the Pearson correlation coefficient for expression of all gene pairs involved in PPIs. Randomly selected gene pairs with the same number and similar distance distribution of the PPI connected gene pairs were built as control groups. We found that the Pearson correlation coefficients for expression of all gene pairs with PPIs for all three conditions were significantly higher than those from the random gene pairs (Fig. 6a and Supplementary Fig. 11 ), indicating that the gene pairs with PPIs tend to be co-expressed. Thus, our results suggest that the primed PPIs may contribute to the co-regulations of gene expression in response to cold treatments. Fig. 6: Promoter-promoter interactions may facilitate co-regulation of gene expression in response to cold. a Pearson correlation coefficients of expressions from random gene pairs and PPI connected gene pairs at 22 \u00b0C. The Pearson correlation coefficients for gene pairs connected by promoter-promoter interaction (PPI) are significantly higher compared to those for randomly selected genes pairs. Randomly selected gene pairs with the same number and similar distance distribution of the PPI connected gene pairs were built as control groups. Random gene pairs A: random gene pairs with the same number; random gene pairs B: random gene pairs with similar distance distribution of PPI gene pairs. Both random procedures were repeated 1000 times. p < 0.0001, two-sided Spearman\u2019s rank correlation. b A circus plot showed the interactions between the promoters of AT3G41768 (rDNA) and 313 genes in the inner circle. From inner to outside, the second circle (blue) showed the co-downregulation of gene expression between 22 \u00b0C and 3-h cold treatment (4 \u00b0C). The third circle (red) showed co-upregulation of gene expression between 3-h and 12-h cold treatments (4 \u00b0C). The outermost circle displayed the five Arabidopsis chromosomes. c Examples showed PPIs of each gene pair. plaNET-seq profile 2 showed the transcriptional level of each gene locus at 22 \u00b0C, 3-h, and 12-h cold treatments (4 \u00b0C). Full size image Notably, among these gene pairs, there was one primed PPI hotspot where the promoter of the rDNA gene ( AT3G41768 ) interacted with promoters of 313 genes. Interestingly, the 313 genes and the rDNA gene were co-downregulated after 3 h of cold treatment and co-upregulated after 12 h of cold treatment (Fig. 6b ). This co-regulation of gene expression might assist the extensive RNA-mediated chromatin interactions in these loci 26 . Thus, our results suggested that this primed PPI network comprising the promoters of the rDNA gene and other 313 genes together formed the transcription factories for co-regulating gene expression in response to cold. Further assessment of other co-regulatory gene pairs containing primed PPIs showed that for many gene pairs where one gene was involved in stress response, its co-regulatory gene partner was mainly involved in either cellular metabolic processes or developmental processes (Supplementary Data 6 ). To better visualize PPI-mediated co-regulation of gene expression, we plotted the primed PPIs in examples of gene pairs. In Fig. 6c , we illustrate three co-differentially expressed gene pairs with primed PPIs: (1) AT1G60220 and AT1G60230 encode a stress-responsive SUMO protease and a SAM superfamily protein which participates in chloroplast function, respectively. We found their expression levels were co-downregulated after 3 h of cold treatment and co-upregulated after 12 h of cold treatment (Fig. 6c ). (2) AT1G78210 and AT1G78230 respectively encode alpha/beta-Hydrolases for enhancing tolerance to freezing and the outer arm dynein light chain 1 (ODALC1) protein that regulates intracellular transport, cell division, and organelle positioning. We found both genes were co-upregulated after 3 h of cold treatment and recovered back to control levels after 12 h of cold treatment. (3) AT1G80940 and AT1G80950 encode a SNF1-RELATED PROTEIN KINASE that regulates stomatal closure in response to stress and LYSOPHOSPHATIDYLETHANOLAMINE involved in cell membrane metabolism, respectively. Both gene expression levels were strongly suppressed after 3 h of cold treatment and returned to control levels after 12 h of cold treatment. We further assessed the T-DNA inserted mutants where a previous study suggested that T-DNA insertion is capable of disrupting chromatin interactions 33 . We identified a T-DNA insertion mutant, the lpeat1-1 mutant (SALK_065009), with the T-DNA inserted into the promoter of gene AT1G80950 across the PPI sites (Supplementary Fig. 12a ). We then confirmed the PPIs detected in our CAP-C in the wild-type plants using 3C and reciprocal 3C experiments 14 , 34 (Supplementary Fig. 12b, c ). The PPIs between the gene pair AT1G80940 and AT1G80950 were disrupted in the T-DNA insertion mutant (Supplementary Fig. 12b, c ). Similarly, we confirmed another two T-DNA inserted mutants: the oadlc-1 (SALK_093069) (Supplementary Fig. 12d ) and the rssp-1 (SALK_093069) (Supplementary Fig. 12g ). The identified PPIs between the gene pair AT1G78210 and AT1G78230 , and PPIs between the gene pair AT1G60220 and AT1G60230 were also disrupted in these T-DNA insertion mutants (Supplementary Fig. 12e, f , h, i ). Following the validations of abolished PPIs in these T-DNA mutants, we further measured the co-regulation of gene expressions. In the comparison of 3-h 4 \u00b0C vs. 22 \u00b0C in the Col-0 wild-type plants, a distinct co-downregulation trend was observed in the gene pair AT1G80940 and AT1G80950 , consistent with the results from the plaNET-seq data (Fig. 6 and Supplementary Fig. 13a, b ). Similarly, in the comparison of 12-h 4 \u00b0C vs. 3-h 4 \u00b0C, a co-upregulation pattern was observed (Fig. 6 and Supplementary Fig. 13a, b ). In the lpeat1-1 mutant, the gene expression of AT1G80950 was significantly reduced at 22 \u00b0C along with significantly different cold responses (Supplementary Fig. 13b ). Interestingly, in the lpeat1-1 mutant, the expression of the PPI paired gene AT1G80940 was also significantly decreased at 22 \u00b0C (Supplementary Fig. 13b ). The corresponding plant response expression patterns under different cold treatments were very different from those observed in the wild-type plants (Supplementary Fig. 13b ). Similar results were observed in the other two T-DNA mutants (Supplementary Fig. 13c\u2013f ). To further validate the effect of PPI disruption, we also successfully generated the CRISPR/Cas9 stable transgenic lines for the two sets of gene pairs connected by PPIs. For the gene pair AT1G80940 and AT1G80950 connected by PPIs, we obtained a CRISPR/Cas9 stable transgenic line with a 512-bp region within the promoter of AT1G80940 across the PPI sites (Supplementary Fig. 14a ). This deletion was confirmed by gel analysis and Sanger sequencing (Supplementary Fig. 14b, c ). In the context of the promoter deletion mutants for AT1G80940 , the expression patterns of both genes in plant response to the different cold treatments were very different from those in the wild-type plants (Supplementary Fig. 14d ). Similarly, we have also validated our identified PPIs in the gene pair of AT1G78210 and AT1G78230 (Supplementary Fig. 14e ). For the gene pair AT1G78210 and AT1G78230 connected by PPIs, guide RNAs were designed to target and delete a 565-bp region within the promoter of AT1G78210 across the PPI sites (Supplementary Fig. 14f, g ). In the promoter deletion mutants for AT1G78210 , the expression patterns of both genes in response to cold were also dramatically different from those in the wild-type plants (Supplementary Fig. 14h ). The significant impacts on the co-regulatory gene expression we observed further underscore the importance of PPIs in co-regulating gene expressions. Taken together, these results indicated that PPIs are important for the gene expressions of these gene pairs and their co-regulations in response to cold. Taken together, our validations from both T-DNA mutants and CRISPR-Cas9-based deletion mutants indicate the importance of PPIs in the co-regulations of gene pair expression in response to cold stress. Discussion Recent effort has improved our understanding of chromatin architectures in plants 35 . Whether plant chromatin conformations have a regulatory impact on gene expression remains largely unknown. As sessile organisms, plants deploy global transcription reprogramming in response to environmental changes such as cold stress 1 . It is unclear whether chromatin conformations alter in response to cold stress. If conformational changes occur, are these chromatin dynamics responsive to transcriptional reprogramming? Here, we applied CAP-C methodology in Arabidopsis to chemically crosslink proximal genomic DNA loci directly. We generated the first high-resolution chromatin contact map and identified fine-scale chromatin features that were associated with transcription dynamics, contributing to plant response to the cold. We also uncovered comprehensive PPI networks prewired in the genome, that may facilitate cold-responsive gene expression co-regulation. Our study successfully generated the first high-resolution chromatin contact map with fine-scale details of ~200 base pairs in Arabidopsis (Supplementary Fig. 1c ). The use of direct DNA crosslinking with bridge linker ligation has enabled us to detect short-range chromatin contacts with low background noise, resulting in high accuracy and sensitivity (Figs. 1 and 2 and Supplementary Figs. 1 and 2 ). Our CAP-C approach had a distinct advantage over traditional Hi-C as it reduced reliance on protein-DNA crosslinking. Thus, we were able to capture strong chromatin contacts at centromeric regions that were not observed in Hi-C (Fig. 1b ), consistent with the DNA FISH fluorescent pattern 10 . As a result, CAP-C uncovered intrinsic chromatin conformation features with high reproducibility (Supplementary Fig. 1b ). Using CAP-C, we identified well-established chromatin contacts at the gene level (Fig. 2a, b ) as well as E-P interactions between active enhancers and neighboring gene promoters (Fig. 2c, d ). Notably, our CAP-C detected E-P chromatin contacts on enhancer-transcribed RNA (eRNAs) 22 , 25 , 36 , further supporting CAP-C\u2019s sensitivity for identifying local cis -regulatory elements. Therefore, we found CAP-C to be well suited for discovering intrinsic local chromatin conformations and Hi-C better suited for exploring protein-mediated long-range chromatin interactions. Combining both approaches could be applied to systematically decipher chromatin features at different scales. Our high-resolution chromatin contact map enabled us to reveal that fine-scale chromatin contacts were responsive to transcriptional activities (Fig. 3a ) at the gene level. High chromatin contacts positively correlated with active histone modifications and negatively correlated with repressive histone modifications (Fig. 3b ), similar to observations in mammals 18 . Additionally, the association between chromatin accessibility and chromatin interactions (Supplementary Fig. 5 ) may indicate the gene folding between TSS and the TTS 37 . Besides transcription-associated enrichment of chromatin contacts around transcription start and termination sites (Fig. 3c ), we found significant positive correlations between Pol II pausing and local chromatin contacts (Fig. 3d and Supplementary Fig. 7a ), indicating a potential link between these two features. Moreover, our results indicated that genes with high Pol II densities across exon-intron junction sites exhibited more chromatin contacts than those with low Pol II densities (Fig. 3e ). Notably, this disparity was most prominent at the first exon-intron junction, which is critical for Pol II elongation activity (Fig. 3f ), suggesting that local chromatin conformations may be finely primed across the gene body to define transcription activity. Interestingly, we found these local chromatin conformations changed dynamically in response to cold, consistent with changes in Pol II pausing signals, particularly downstream of the 5\u2019SS (Fig. 4 ). The Pol II pausing signal downstream of the 5\u2019SS is an important checkpoint during Pol II elongation 2 , thus affecting transcription activity. Therefore, being able to dynamically tune local chromatin conformations inside the gene may offer a novel way of regulating cold-responsive transcription activity to enhance plant thermo-resilience to environmental temperature stress. In contrast to the plasticity of local chromatin conformations, we did not find large-scale chromatin conformations altered in response to cold (Supplementary Fig. 8 ). Instead, we found a large thermo-stable PPI network across all five chromosomes that is likely primed in the genome (Fig. 5a, b ). Notably, ChIP-seq experimental data showed these PPI sites were highly enriched across TF binding sites, (Supplementary Data 2 and Fig. 5c, d ), suggesting these PPIs are primed across the genome that may harbor transcription factors. We also found that the gene pairs with PPIs tend to be co-expressed in three conditions (Fig. 6a ), implying the PPIs may participate in the co-regulations of gene expression in response to cold treatments. Due to chromatin interactions enabling the connectivity between two genes, certain transcription factors may bind with these interacting PPI sites and co-regulate the gene pair. For instance, the PPI sites of the three gene pairs in Fig. 6c were across the binding sites of a cold-responsive transcription factor ICE1 ( Inducer of CBF Expression 1 ) 31 , suggesting that these PPIs may harbor ICE1 for co-regulating gene expression in plant response to cold. This hypothesis needs to be further proved in future work. Notably, those PPI-mediated co-regulated genes are not only associated with stress response functions, but also cellular metabolites and developmental processes (Supplementary Data 6 and 11 ), suggesting that PPI may contribute to balancing the trade-off between plant development and stress response. The principle of trade-off in plants underscores a strategic allocation of resources, directing plants toward either a stress response or growth contingent upon prevailing conditions. The trade-off mechanism exemplifies how resource allocation is dynamically modulated to enhance plant adaptability and fitness, even amid challenging environmental circumstances 38 , 39 . The primed PPIs captured in our CAP-C library have revealed a diverse array of pathways, particularly noteworthy were pathways associated with stress responses, anatomical structure development, biosynthesis, and metabolic pathways. Within these categories, we identified a delicate interplay of genes that function as positive and negative regulators within their respective pathways. The co-regulation of these genes could possibly be a mechanism for the trade-off phenomenon. In plant cold-responsiveness, we observed dynamic changes of local chromatin conformations contributing to the fine-tuning of transcription activities, in contrast to the large-scale chromatin conformations which remained largely stable, possibly due to maintaining global genome integrity in cold. A prior Hi-C investigation revealed that rice chromosomal configurations underwent significant changes at a large scale under the cold treatment at 16 \u00b0C, resulting in a reduction of long-range interactions exceeding 1 Mb and an increase in A-B compartment interactions 40 . Another previous Hi-C study of heat stress in metazoans reported a similar observation that global chromatin architectures remain unchanged while local distal chromatin interactions were relatively plastic 41 . A recent Hi-C study on tomato chromatin organization reported that heat stress strongly affected global chromatin reorganization and the Heat Shock Factor (HSF) transcription factor HSFA1a was required for chromatin reorganization 42 . Our observation of the unchanged large-scale chromatin conformations in response to cold may be due to the unique chromatin architecture of Arabidopsis , which is topologically associated domain (TAD) deficient or thermodynamically stable under conditions at 4 \u00b0C that preferably maintain genome integrity. It is also possible that plants adopt different strategies in response to different stresses. In summary, our study generated the first fine-scale Arabidopsis intrinsic chromatin landscape with high resolution and low background noise, facilitating both the determination of local chromatin contacts at the gene level as well as an extensive, globally primed PPI network. Our successful demonstration of CAP-C application in Arabidopsis should stimulate future exploration of intrinsic fine-scale chromatin architecture, particularly local chromatin conformations in other plant species. Our findings of cold-responsive local chromatin conformation-associated transcriptional dynamics open a novel pathway for investigating plant stress-responsive regulatory transcription. Our primed PPI network across the genome may be involved in balancing the trade-off between plant development and stress response. Methods Plants and growth conditions The Arabidopsis thaliana ecotype Columbia (Col-0) and T-DNA insertion mutants (SALK_065009, SALK_093069, SALK_126003) were obtained from the Nottingham Arabidopsis Stock Centre (NASC), Arabidopsis thaliana ecotype Columbia (Col-0) seeds were sterilized using 70% ethanol for 10 min, washed with distilled water three times, and plated on one-half strength Murashige and Skoog medium supplemented with 1% sucrose. Plates were stratified for 4 days at 4 \u00b0C and then moved to long-day conditions with 16 h light/8 h dark for 10 days. The seedlings were then harvested and fixed for CAP-C library construction. The cold treatment was performed as described 2 . The CAP-C library construction Seedlings were crosslinked in 1% formaldehyde for 15 min under a vacuum and kept on ice throughout the process. Crosslinking was then quenched with 0.125 M glycine for 5 min under a vacuum. The seedling tissues were rinsed three times and dried with paper towels, fast-frozen, and stored at \u221280 \u00b0C for nuclei isolation later. To start nuclei isolation, frozen tissue was ground into a fine powder, and Honda buffer (20 mM HEPES, 0.44 M sucrose, 1.25% Ficoll 400, 2.5% Dextran T40, 10 mM MgCl 2 , 0.5% Triton X-100, 5 mM Dithiothreitol (DTT), and 1\u00d7 Protease inhibitor cocktail) added. The homogenate was then centrifuged at 3000 \u00d7 g under 4 \u00b0C and washed several times at 2000 \u00d7 g until the pellet turned gray. The resulting pellet was resuspended in 1 ml CAP-C buffer (50 mM Tris\u00b7HCl pH 7.5, 100 mM NaCl, 1% Triton X-100, 1 mM MgCl 2 , 0.1 mM CaCl 2 , 1\u00d7 protease inhibitor mixture). Purified nuclei were then photo-crosslinked with dendrimer by irradiating under 365 nm UV light for 30 min. Crosslinked chromatin was then digested with proteinase K overnight. After purification with phenol/chloroform, the digested DNA-Dendrimer complexes were then fragmented by DNaseI into 50\u2013200 bp fragments. The bridge linker (customized with IDT: F: /5Phos/GTCAGA/iDBCON/AAGATATCGCGT, R:/5Phos/CGCGATATC/iBiodT/TATCTGACT) was then added to the reaction at 37 \u00b0C for 2 h to allow for the click reaction with the Et3N branch of the dendrimer. After the removal of the free adapters, ligation was performed between the DNA-dendrimer-adapter complex by T4 DNA ligase. Chimeric fragments were then pulled down by the biotin label on the adapter. Sequencing libraries were constructed using the NEB Library prep kit. Libraries were then subjected to the MGI platform (BGI) for 150 bp pair-end sequencing. The CAP-C data processing The 150 bp pair-end FASTQ formatted files were aligned to the TAIR10 reference genome using HiC-Pro 43 (version 3.0.0). The linker sequence was trimmed by cutadapt 44 (version 1.18). R1 and R2 were merged according to the previous method 7 . The mapping result was filtered using MAPQ \u2265 10 for each sample. Juicer 45 was then used to convert the merged-sorted file into a.hic formatted file. All contact matrices at the 200 bp resolution were visually represented as contact maps using HiCExplorer 46 (version 3.5.1) and Genomic-Interactive-Visualization-Engine (GIVE) 47 . Genome-wide contact decaying was shown using hicPlotDistVsCounts from HiCExplorer 46 . Only valid and filtered contact pairs were used for all downstream analyses. The characterization of CAP-C mapped reads of all replicates from all growth conditions used in this study was summarized in Supplementary Data 1 . A pre-formatted text file was prepared before converting it into a.hic formatted file with the following resolutions (200 bp, 2 Kb, 10 Kb, 20 Kb). To generate a CAP-C merge file, G3 replicated libraries in the pre-formatted text file were concatenated and merged-sorted. Juicer 45 was then used for converting the merged-sorted file into a.hic formatted file. All contact matrices visually represented as contact maps were VC-normalized with Juicer 45 . The reproducibility between two biological replicates was calculated using hicCorrelate from HiCExplorer 46 . The stable chromatin contacts calling Genome-wide stable chromatin contacts were identified using Fit-Hi-C 15 , 48 (version 2.0.7) at the 200 bp resolution, following a previously reported method 49 (Supplementary Data 1 and 7 ). The promoter\u2013promoter network illustration The promoter-promoter interaction network was integrated into a global network using Cytoscape (version 3.9.1) 50 as shown in Fig. 5a , the network was visualized by the third-party application AllegroLayout. Gephi 51 (version 0.10.0) with ForceAtlas 2 was used for a closer look visualization of the promoter-promoter interaction network. ChIP-seq and ATAC-seq data processing ChIP-seq datasets for different histone modifications 31 , 52 were processed using the reported pipeline 53 . ATAC-seq data were processed according to the previous report 54 . We followed the methodology used by the authors from which the data originated. The downloaded data were removed adapters by using trim_galore. The cleaned data were mapped to Arabidopsis thaliana reference genome (TAIR10) by using bowtie, with parameters: -X 2000 -m 1. Samtools were used to remove duplicate reads, and reads located on the mitochondria and chloroplasts were removed. plaNET-seq, pNET-seq and GRO-seq data processing plaNET-seq datasets were processed following the reported method 2 . GRO-seq and pNET-seq datasets were processed based on a previously reported study 22 . Calculation of differentially expressed genes was performed using htseq-count 55 and DESeq2 56 . Htseq-count was run with the default parameters and the addition of \u2013stranded=yes. 3C quantification, normalization and controls 3C experiment was done by following the previous study 14 . Relative interaction frequencies were determined by qPCR. Normalization for differences in DNA concentration among samples was achieved through a loading control (LC) employing primer sets that do not span any restriction site. To address variations in primer efficiency during PCR, normalization was performed against a control template (CT) DNA, which contained all potential ligation products in equimolar proportions. The CT DNA was produced by digesting BAC plasmids with ApoI and subsequent random ligation without dilution. All figures presented in this study reflect the mean values from a minimum of two distinct biological samples. Each 3C DNA preparation underwent quantification through independent qPCR assays, and each qPCR experiment consisted of triplicate analyses for all DNA samples. The complete list of primers and BAC plasmids employed in the experiment can be found in Supplementary Data 12 . Generation of CRISPR mutants Specific sgRNAs were chosen for the generation of CRISPR/Cas9 constructs and were subsequently cloned into the pICSL002217A plasmid (TSLSynBio). A comprehensive list of sgRNA primers can be found in Supplementary Data 12 . Quantitative real-time PCR RNA was extracted using RNeasy Plant Mini Kit. First-strand cDNA was synthesized using reverse transcriptase Superscript III (Invitrogen) and oligo dT primer. Quantitative qRT-PCR was performed with LightCycler\u00ae 480 SYBR Green I Master (Roche) using CFX96 Touch Real-Time PCR Detection System (BIORAD) according to the manufacturer\u2019s protocol. ACTIN2 was used as the internal control. All Primers used in the experiment are listed in Supplementary Data 12 . Reporting summary Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article. Data availability Sequencing data in this study were deposited in the Sequence Read Archive (SRA) ( https://www.ncbi.nlm.nih.gov/sra ) under BioProject ID number PRJNA912614 . A full list of primers is available in Supplementary Table 12 . Source data are provided with this paper. Code availability The code used for analyses is available at https://github.com/Huakun-Lab/CAP-C-in-Arabidopsis . References Kidokoro, S., Shinozaki, K. & Yamaguchi-Shinozaki, K. Transcriptional regulatory network of plant cold-stress responses. Trends Plant Sci. 27 , 922\u2013935 (2022). Article CAS PubMed Google Scholar Kindgren, P., Ivanov, M. & Marquardt, S. Native elongation transcript sequencing reveals temperature dependent dynamics of nascent RNAPII transcription in Arabidopsis. Nucleic Acids Res. 48 , 2332\u20132347 (2020). Article CAS PubMed Google Scholar Jonkers, I. & Lis, J. T. Getting up to speed with transcription elongation by RNA polymerase II. Nat. Rev. Mol. Cell Biol. 16 , 167\u2013177 (2015). Article CAS PubMed PubMed Central Google Scholar Ding, Y., Shi, Y. & Yang, S. Advances and challenges in uncovering cold tolerance regulatory mechanisms in plants. N. Phytol. 222 , 1690\u20131704 (2019). Article Google Scholar Ouyang, W., Xiao, Q., Li, G. & Li, X. Technologies for capturing 3D genome architecture in plants. Trends Plant Sci. 26 , 196\u2013197 (2021). Article CAS PubMed Google Scholar Ouyang, W., Xiong, D., Li, G. & Li, X. Unraveling the 3D genome architecture in plants: present and future. Mol. Plant 13 , 1676\u20131693 (2020). Article CAS PubMed Google Scholar You, Q. et al. Direct DNA crosslinking with CAP-C uncovers transcription-dependent chromatin organization at high resolution. Nat. Biotechnol. 39 , 225\u2013235 (2021). Article CAS PubMed Google Scholar Kolb, H. C., Finn, M. G. & Sharpless, K. B. Click chemistry: diverse chemical function from a few good reactions. Angew. Chem. Int. Ed. Engl. 40 , 2004\u20132021 (2001). Article CAS PubMed Google Scholar Moissiard, G. et al. MORC family ATPases required for heterochromatin condensation and gene silencing. Science 336 , 1448\u20131451 (2012). Article ADS CAS PubMed PubMed Central Google Scholar Schubert, V., Berr, A. & Meister, A. Interphase chromatin organisation in Arabidopsis nuclei: constraints versus randomness. Chromosoma 121 , 369\u2013387 (2012). Article CAS PubMed Google Scholar Feng, S. et al. Genome-wide Hi-C analyses in wild-type and mutants reveal high-resolution chromatin interactions in Arabidopsis. Mol. Cell 55 , 694\u2013707 (2014). Article CAS PubMed PubMed Central Google Scholar Liu, C. et al. Genome-wide analysis of chromatin packing in Arabidopsis thaliana at single-gene resolution. Genome Res. 26 , 1057\u20131068 (2016). Article CAS PubMed PubMed Central Google Scholar Ariel, F. et al. R-Loop mediated trans action of the APOLO long noncoding RNA. Mol. Cell 77 , 1055 (2020). Article CAS PubMed Google Scholar Crevill\u00e9n, P., Sonmez, C., Wu, Z. & Dean, C. A gene loop containing the floral repressor FLC is disrupted in the early phase of vernalization. EMBO J. 32 , 140\u2013148 (2013). Article PubMed Google Scholar Kaul, A., Bhattacharyya, S. & Ay, F. Identifying statistically significant chromatin contacts from Hi-C data with FitHiC2. Nat. Protoc. 15 , 991\u20131012 (2020). Article CAS PubMed PubMed Central Google Scholar Wu, Z. et al. Quantitative regulation of FLC via coordinated transcriptional initiation and elongation. Proc. Natl Acad. Sci. USA 113 , 218\u2013223 (2016). Article ADS CAS PubMed Google Scholar Ariel, F. et al. Noncoding transcription by alternative RNA polymerases dynamically regulates an auxin-driven chromatin loop. Mol. Cell 55 , 383\u2013396 (2014). Article CAS PubMed Google Scholar Hsieh, T. S. et al. Resolving the 3D landscape of transcription-linked mammalian chromatin folding. Mol. Cell 78 , 539\u2013553.e8 (2020). Article CAS PubMed PubMed Central Google Scholar Beagan, J. A. et al. YY1 and CTCF orchestrate a 3D chromatin looping switch during early neural lineage commitment. Genome Res. 27 , 1139\u20131152 (2017). Article CAS PubMed PubMed Central Google Scholar Weintraub, A. S. et al. YY1 is a structural regulator of enhancer-promoter loops. Cell 171 , 1573\u20131588.e28 (2017). Article CAS PubMed PubMed Central Google Scholar Phillips-Cremins, J. E. et al. Architectural protein subclasses shape 3D organization of genomes during lineage commitment. Cell 153 , 1281\u20131295 (2013). Article CAS PubMed PubMed Central Google Scholar Zhu, J., Liu, M., Liu, X. & Dong, Z. RNA polymerase II activity revealed by GRO-seq and pNET-seq in Arabidopsis. Nat. Plants 4 , 1112\u20131123 (2018). Article CAS PubMed Google Scholar Xie, Y. et al. Meta-analysis of arabidopsis KANADI1 direct target genes identifies a basic growth-promoting module acting upstream of hormonal signaling pathways. Plant Physiol. 169 , 1240\u20131253 (2015). Article PubMed PubMed Central Google Scholar Stadhouders, R. et al. Transcription regulation by distal enhancers: who\u2019s in the loop? Transcription 3 , 181\u2013186 (2012). Article PubMed PubMed Central Google Scholar Xie, Y. et al. Enhancer transcription detected in the nascent transcriptomic landscape of bread wheat. Genome Biol. 23 , 109 (2022). Article CAS PubMed PubMed Central Google Scholar Li, L. et al. Global profiling of RNA-chromatin interactions reveals co-regulatory gene expression networks in Arabidopsis. Nat. Plants 7 , 1364\u20131378 (2021). Article CAS PubMed Google Scholar Li, G. et al. Extensive promoter-centered chromatin interactions provide a topological basis for transcription regulation. Cell 148 , 84\u201398 (2012). Article CAS PubMed PubMed Central Google Scholar Harlen, K. M. & Churchman, L. S. The code and beyond: transcription regulation by the RNA polymerase II carboxy-terminal domain. Nat. Rev. Mol. Cell Biol. 18 , 263\u2013273 (2017). Article CAS PubMed Google Scholar Li, B., Carey, M. & Workman, J. L. The role of chromatin during transcription. Cell 128 , 707\u2013719 (2007). Article CAS PubMed Google Scholar Kim, S. & Shendure, J. Mechanisms of interplay between transcription factors and the 3D genome. Mol. Cell 76 , 306\u2013319 (2019). Article CAS PubMed Google Scholar Hammal, F., de Langen, P., Bergon, A., Lopez, F. & Ballester, B. ReMap 2022: a database of Human, Mouse, Drosophila and Arabidopsis regulatory regions from an integrative analysis of DNA-binding sequencing experiments. Nucleic Acids Res. 50 , D316\u2013d325 (2022). Article CAS PubMed Google Scholar Peng, Y. et al. Chromatin interaction maps reveal genetic regulation for quantitative traits in maize. Nat. Commun. 10 , 2632 (2019). Article ADS PubMed PubMed Central Google Scholar Zhu, B., Zhang, W., Zhang, T., Liu, B. & Jiang, J. Genome-wide prediction and validation of intergenic enhancers in Arabidopsis using open chromatin signatures. Plant Cell 27 , 2415\u20132426 (2015). Article CAS PubMed Central Google Scholar Jamge, S., Stam, M., Angenent, G. C. & Immink, R. G. H. A cautionary note on the use of chromosome conformation capture in plants. Plant Methods 13 , 101 (2017). Article PubMed PubMed Central Google Scholar Domb, K., Wang, N., Hummel, G. & Liu, C. Spatial features and functional implications of plant 3D genome organization. Annu. Rev. Plant Biol. 73 , 173\u2013200 (2022). Article CAS PubMed Google Scholar Zhang, Y. et al. Dynamic enhancer transcription associates with reprogramming of immune genes during pattern triggered immunity in Arabidopsis. BMC Biol. 20 , 165 (2022). Article PubMed Central Google Scholar Lee, H. & Seo, P. J. Accessible gene borders establish a core structural unit for chromatin architecture in Arabidopsis. Nucleic Acids Res. 51 , 10261\u201310277 (2023). Article CAS PubMed PubMed Central Google Scholar Monson, R. K., Trowbridge, A. M., Lindroth, R. L. & Lerdau, M. T. Coordinated resource allocation to plant growth-defense tradeoffs. N. Phytol. 233 , 1051\u20131066 (2022). Article Google Scholar Huot, B., Yao, J., Montgomery, B. L. & He, S. Y. Growth-defense tradeoffs in plants: a balancing act to optimize fitness. Mol. Plant 7 , 1267\u20131287 (2014). Article CAS PubMed Central Google Scholar Liu, C., Cheng, Y. J., Wang, J. W. & Weigel, D. Prominent topologically associated domains differentiate global chromatin packing in rice from Arabidopsis. Nat. Plants 3 , 742\u2013748 (2017). Article CAS PubMed Google Scholar Ray, J. et al. Chromatin conformation remains stable upon extensive transcriptional changes driven by heat shock. Proc. Natl Acad. Sci. USA 116 , 19431\u201319439 (2019). Article ADS CAS PubMed PubMed Central Google Scholar Huang, Y. et al. HSFA1a modulates plant heat stress responses and alters the 3D chromatin organization of enhancer-promoter interactions. Nat. Commun. 14 , 469 (2023). Article ADS CAS PubMed PubMed Central Google Scholar Servant, N. et al. HiC-Pro: an optimized and flexible pipeline for Hi-C data processing. Genome Biol. 16 , 259 (2015). Article PubMed PubMed Central Google Scholar Martin, M. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet J. 17 , 3 (2011). Durand, N. C. et al. Juicer provides a one-click system for analyzing loop-resolution Hi-C experiments. Cell Syst. 3 , 95\u201398 (2016). Article CAS PubMed PubMed Central Google Scholar Wolff, J. et al. Galaxy HiCExplorer 3: a web server for reproducible Hi-C, capture Hi-C and single-cell Hi-C data analysis, quality control and visualization. Nucleic Acids Res. 48 , W177\u2013W184 (2020). Article CAS PubMed PubMed Central Google Scholar Cao, X., Yan, Z., Wu, Q., Zheng, A. & Zhong, S. GIVE: portable genome browsers for personal websites. Genome Biol. 19 , 92 (2018). Article PubMed PubMed Central Google Scholar Ay, F., Bailey, T. L. & Noble, W. S. Statistical confidence estimation for Hi-C data reveals regulatory chromatin contacts. Genome Res. 24 , 999\u20131011 (2014). Article CAS PubMed PubMed Central Google Scholar Wang, M. et al. Genomic innovation and regulatory rewiring during evolution of the cotton genus Gossypium. Nat. Genet. 54 , 1959\u20131971 (2022). Article CAS PubMed Google Scholar Shannon, P. et al. Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res. 13 , 2498\u20132504 (2003). Article CAS PubMed PubMed Central Google Scholar Bastian, M., Heymann, S. & Jacomy, M. Gephi: an open source software for exploring and manipulating networks. In Proceedings of the International AAAI Conference on Web and Social Media 3, 361\u2013362 (2009). Liu, Q. et al. The characterization of Mediator 12 and 13 as conditional positive gene regulators in Arabidopsis. Nat. Commun. 11 , 2798 (2020). Article ADS CAS PubMed PubMed Central Google Scholar Park, S. J., Kim, J. H., Yoon, B. H. & Kim, S. Y. A ChIP-Seq data analysis pipeline based on bioconductor packages. Genomics Inf. 15 , 11\u201318 (2017). Article Google Scholar Potok, M. E. et al. Arabidopsis SWR1-associated protein methyl-CpG-binding domain 9 is required for histone H2A.Z deposition. Nat. Commun. 10 , 3352 (2019). Article ADS CAS PubMed PubMed Central Google Scholar Putri, G. H., Anders, S., Pyl, P. T., Pimanda, J. E. & Zanini, F. Analysing high-throughput sequencing data in Python with HTSeq 2.0. Bioinformatics 38 , 2943\u20132945 (2022). Article CAS PubMed PubMed Central Google Scholar Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 15 , 550 (2014). Article PubMed PubMed Central Google Scholar Download references Acknowledgements The study is supported by the National Key R&D Program of China (2023ZD04073), the National Key Research and Development Program of China (2021YFF1000900), the National Natural Science Foundation of China (32170229 and 32000178), the Fundamental Research Funds for the Central Universities (2412023YQ005), the United Kingdom Biotechnology and Biological Sciences Research Council (BBSRC: BB/X01102X/1, BBS/E/J/000PR9788, BB/L025000/1, and BB/N022572/1), and the European Research Council (ERC: 680324). We thank Dr Yilin Xie (Guangzhou) for providing us with the active enhancer data derived from the Arabidopsis pNET-seq data. We thank Dr. Sebastian Marquardt (Copenhagen Plant Science Centre) for his support in analyzing the plaNET-seq data. We thank Dame Professor Caroline Dean (John Innes Centre) for her discussions regarding this work. This research was supported by the Key Laboratory of Molecular Epigenetics\u2019 High-Performance Computing Cluster. Author information Author notes These authors contributed equally: Yueying Zhang, Qianli Dong, Zhen Wang, Qinzhe Liu. Authors and Affiliations Key Laboratory of Molecular Epigenetics of Ministry of Education, Northeast Normal University, Changchun, 130024, China Yueying Zhang, Qianli Dong, Wenqing Sun, Ling Ding & Huakun Zhang Department of Cell and Developmental Biology, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK Yueying Zhang, Zhen Wang, Haopeng Yu, Jitender Cheema & Yiliang Ding Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 100101, Beijing, China Zhen Wang & Xiaofeng Cao Howard Hughes Medical Institute, The University of Chicago, Chicago, IL, 60637, USA Qinzhe Liu, Qiancheng You & Chuan He Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, The University of Chicago, Chicago, IL, 60637, USA Qinzhe Liu, Qiancheng You & Chuan He Authors Yueying Zhang View author publications You can also search for this author in PubMed Google Scholar Qianli Dong View author publications You can also search for this author in PubMed Google Scholar Zhen Wang View author publications You can also search for this author in PubMed Google Scholar Qinzhe Liu View author publications You can also search for this author in PubMed Google Scholar Haopeng Yu View author publications You can also search for this author in PubMed Google Scholar Wenqing Sun View author publications You can also search for this author in PubMed Google Scholar Jitender Cheema View author publications You can also search for this author in PubMed Google Scholar Qiancheng You View author publications You can also search for this author in PubMed Google Scholar Ling Ding View author publications You can also search for this author in PubMed Google Scholar Xiaofeng Cao View author publications You can also search for this author in PubMed Google Scholar Chuan He View author publications You can also search for this author in PubMed Google Scholar Yiliang Ding View author publications You can also search for this author in PubMed Google Scholar Huakun Zhang View author publications You can also search for this author in PubMed Google Scholar Contributions Y.D., C.H. and H.Z. conceived the study; Y.Z., Q.D., Q.L., Q.Y., Y.D., C.H. and H.Z. designed the study; Y.Z., H.Z., Z.W., Q.L., W.S., Q.Y. and L.D. performed the experiments; Y.Z., H.Z., Q.D., H.Y. and J.C. conducted the data analyses; Y.D., C.H., X.C. and H.Z. supervised the analyses; Y.Z. and H.Z. wrote the paper with input from all authors. Corresponding authors Correspondence to Yiliang Ding or Huakun Zhang . Ethics declarations Competing interests The authors declare no competing interests. Peer review Peer review information Nature Communications thanks Chang Liu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available. Additional information Publisher\u2019s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Supplementary information Supplementary Information Peer Review File Description of Additional Supplementary Files Supplementary Data 1 Supplementary Data 2 Supplementary Data 3 Supplementary Data 4 Supplementary Data 5 Supplementary Data 6 Supplementary Data 7 Supplementary Data 8 Supplementary Data 9 Supplementary Data 10 Supplementary Data 11 Supplementary Data 12 Reporting Summary Source data Source Data Rights and permissions Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Reprints and permissions About this article Cite this article Zhang, Y., Dong, Q., Wang, Z. et al. A fine-scale Arabidopsis chromatin landscape reveals chromatin conformation-associated transcriptional dynamics. Nat Commun 15 , 3253 (2024). https://doi.org/10.1038/s41467-024-47678-7 Download citation Received : 24 March 2023 Accepted : 08 April 2024 Published : 16 April 2024 DOI : https://doi.org/10.1038/s41467-024-47678-7 Share this article Anyone you share the following link with will be able to read this content: Get shareable link Sorry, a shareable link is not currently available for this article. Copy to clipboard Provided by the Springer Nature SharedIt content-sharing initiative Download PDF Advertisement",
+  "links": [
+    {
+      "url": "//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=-542097946&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-024-47678-7%26doi%3D10.1038/s41467-024-47678-7%26techmeta%3D23,38,45,77,88%26subjmeta%3D100,101,1659,2661,2665,337,449,631%26kwrd%3DAbiotic,Chromatin+structure,Plant+molecular+biology",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "/subjects/abiotic",
+      "text": "Abiotic"
+    },
+    {
+      "url": "/subjects/chromatin-structure",
+      "text": "Chromatin structure"
+    },
+    {
+      "url": "/subjects/plant-molecular-biology",
+      "text": "Plant molecular biology"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41477-021-01004-x?fromPaywallRec=false",
+      "text": "Global profiling of RNA\u2013chromatin interactions reveals co-regulatory gene expression networks in Arabidopsis"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-023-36227-3?fromPaywallRec=false",
+      "text": "HSFA1a modulates plant heat stress responses and alters the 3D chromatin organization of enhancer-promoter interactions"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41597-023-02395-6?fromPaywallRec=false",
+      "text": "Genome-wide identification of accessible chromatin regions by ATAC-seq upon induction of the transcription factor bZIP11 in Arabidopsis"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR3",
+      "text": "3"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR4",
+      "text": "4"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR5",
+      "text": "5"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR6",
+      "text": "6"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR7",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR7",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR7",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR7",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR8",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/1",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/1",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR11",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR11",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR11",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR13",
+      "text": "13"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR14",
+      "text": "14"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR15",
+      "text": "15"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR12",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR14",
+      "text": "14"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR16",
+      "text": "16"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR13",
+      "text": "13"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR17",
+      "text": "17"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/2",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/2",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR18",
+      "text": "18"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR21",
+      "text": "21"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "2a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR23",
+      "text": "23"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM11",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM12",
+      "text": "9"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR24",
+      "text": "24"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR25",
+      "text": "25"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "3"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM11",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM12",
+      "text": "9"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR24",
+      "text": "24"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR25",
+      "text": "25"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "4"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM11",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR26",
+      "text": "26"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2e"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "2b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR27",
+      "text": "27"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2e, f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR26",
+      "text": "26"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR18",
+      "text": "18"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR28",
+      "text": "28"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "5"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM6",
+      "text": "3"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM6",
+      "text": "3"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/3",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/3",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR29",
+      "text": "29"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "6a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "6b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "6c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR28",
+      "text": "28"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3e"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM4",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "7a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "7a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/4",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/4",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "7b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4e"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4f, g"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5a, b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR26",
+      "text": "26"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "9"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM13",
+      "text": "10"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM14",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "9"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM13",
+      "text": "10"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/5",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR50",
+      "text": "50"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR31",
+      "text": "31"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR52",
+      "text": "52"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/5",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR30",
+      "text": "30"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR31",
+      "text": "31"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM7",
+      "text": "4"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR32",
+      "text": "32"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/6",
+      "text": ""
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7/figures/6",
+      "text": "Full size image"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR26",
+      "text": "26"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM9",
+      "text": "6"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR33",
+      "text": "33"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR14",
+      "text": "14"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR34",
+      "text": "34"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12g"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12e, f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "h, i"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13a, b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13a, b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "13c\u2013f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14b, c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14e"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14f, g"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "14h"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR35",
+      "text": "35"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR10",
+      "text": "10"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "1b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2a, b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig2",
+      "text": "2c, d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR25",
+      "text": "25"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR36",
+      "text": "36"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR18",
+      "text": "18"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "5"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR37",
+      "text": "37"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "7a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3e"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig3",
+      "text": "3f"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig4",
+      "text": "4"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "8"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5a, b"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM5",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5c, d"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig6",
+      "text": "6c"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR31",
+      "text": "31"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM9",
+      "text": "6"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM14",
+      "text": "11"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR38",
+      "text": "38"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR39",
+      "text": "39"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR40",
+      "text": "40"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR41",
+      "text": "41"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR42",
+      "text": "42"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR43",
+      "text": "43"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR44",
+      "text": "44"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR7",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR45",
+      "text": "45"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR46",
+      "text": "46"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR47",
+      "text": "47"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR46",
+      "text": "46"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM4",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR45",
+      "text": "45"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR45",
+      "text": "45"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR46",
+      "text": "46"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR15",
+      "text": "15"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR48",
+      "text": "48"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR49",
+      "text": "49"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM4",
+      "text": "1"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM10",
+      "text": "7"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR50",
+      "text": "50"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Fig5",
+      "text": "5a"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR51",
+      "text": "51"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR31",
+      "text": "31"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR52",
+      "text": "52"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR53",
+      "text": "53"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR54",
+      "text": "54"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR2",
+      "text": "2"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR22",
+      "text": "22"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR55",
+      "text": "55"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR56",
+      "text": "56"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#ref-CR14",
+      "text": "14"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM15",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM15",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM15",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM16",
+      "text": "Nature Portfolio Reporting Summary"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/sra",
+      "text": "https://www.ncbi.nlm.nih.gov/sra"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA912614",
+      "text": "PRJNA912614"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#MOESM1",
+      "text": "12"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7#Sec23",
+      "text": "Source data"
+    },
+    {
+      "url": "https://github.com/Huakun-Lab/CAP-C-in-Arabidopsis",
+      "text": "https://github.com/Huakun-Lab/CAP-C-in-Arabidopsis"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.tplants.2022.01.008",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XivF2jt7s%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35210165",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Transcriptional%20regulatory%20network%20of%20plant%20cold-stress%20responses&journal=Trends%20Plant%20Sci.&doi=10.1016%2Fj.tplants.2022.01.008&volume=27&pages=922-935&publication_year=2022&author=Kidokoro%2CS&author=Shinozaki%2CK&author=Yamaguchi-Shinozaki%2CK",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fnar%2Fgkz1189",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXhslWnurzF",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31863587",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Native%20elongation%20transcript%20sequencing%20reveals%20temperature%20dependent%20dynamics%20of%20nascent%20RNAPII%20transcription%20in%20Arabidopsis&journal=Nucleic%20Acids%20Res.&doi=10.1093%2Fnar%2Fgkz1189&volume=48&pages=2332-2347&publication_year=2020&author=Kindgren%2CP&author=Ivanov%2CM&author=Marquardt%2CS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fnrm3953",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2MXjtFemsrw%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25693130",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4782187",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Getting%20up%20to%20speed%20with%20transcription%20elongation%20by%20RNA%20polymerase%20II&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fnrm3953&volume=16&pages=167-177&publication_year=2015&author=Jonkers%2CI&author=Lis%2CJT",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1111%2Fnph.15696",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Advances%20and%20challenges%20in%20uncovering%20cold%20tolerance%20regulatory%20mechanisms%20in%20plants&journal=N.%20Phytol.&doi=10.1111%2Fnph.15696&volume=222&pages=1690-1704&publication_year=2019&author=Ding%2CY&author=Shi%2CY&author=Yang%2CS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.tplants.2020.10.007",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXit1Cqu7fM",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33199261",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Technologies%20for%20capturing%203D%20genome%20architecture%20in%20plants&journal=Trends%20Plant%20Sci.&doi=10.1016%2Fj.tplants.2020.10.007&volume=26&pages=196-197&publication_year=2021&author=Ouyang%2CW&author=Xiao%2CQ&author=Li%2CG&author=Li%2CX",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molp.2020.10.002",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXit1yjsr3M",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33065269",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Unraveling%20the%203D%20genome%20architecture%20in%20plants%3A%20present%20and%20future&journal=Mol.%20Plant&doi=10.1016%2Fj.molp.2020.10.002&volume=13&pages=1676-1693&publication_year=2020&author=Ouyang%2CW&author=Xiong%2CD&author=Li%2CG&author=Li%2CX",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41587-020-0643-8",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXhs1KhtL3N",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32839564",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Direct%20DNA%20crosslinking%20with%20CAP-C%20uncovers%20transcription-dependent%20chromatin%20organization%20at%20high%20resolution&journal=Nat.%20Biotechnol.&doi=10.1038%2Fs41587-020-0643-8&volume=39&pages=225-235&publication_year=2021&author=You%2CQ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1002%2F1521-3773%2820010601%2940%3A11%3C2004%3A%3AAID-ANIE2004%3E3.0.CO%3B2-5",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BD3MXksVOis78%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11433435",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Click%20chemistry%3A%20diverse%20chemical%20function%20from%20a%20few%20good%20reactions&journal=Angew.%20Chem.%20Int.%20Ed.%20Engl.&doi=10.1002%2F1521-3773%2820010601%2940%3A11%3C2004%3A%3AAID-ANIE2004%3E3.0.CO%3B2-5&volume=40&pages=2004-2021&publication_year=2001&author=Kolb%2CHC&author=Finn%2CMG&author=Sharpless%2CKB",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1126%2Fscience.1221472",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2012Sci...336.1448M",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC38XotlCjsrg%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22555433",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376212",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=MORC%20family%20ATPases%20required%20for%20heterochromatin%20condensation%20and%20gene%20silencing&journal=Science&doi=10.1126%2Fscience.1221472&volume=336&pages=1448-1451&publication_year=2012&author=Moissiard%2CG",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1007/s00412-012-0367-8",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC38XhtVOht7jL",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22476443",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Interphase%20chromatin%20organisation%20in%20Arabidopsis%20nuclei%3A%20constraints%20versus%20randomness&journal=Chromosoma&doi=10.1007%2Fs00412-012-0367-8&volume=121&pages=369-387&publication_year=2012&author=Schubert%2CV&author=Berr%2CA&author=Meister%2CA",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2014.07.008",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2cXhtlKmtb3J",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25132175",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4347903",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Genome-wide%20Hi-C%20analyses%20in%20wild-type%20and%20mutants%20reveal%20high-resolution%20chromatin%20interactions%20in%20Arabidopsis&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2014.07.008&volume=55&pages=694-707&publication_year=2014&author=Feng%2CS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1101%2Fgr.204032.116",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC28Xhs12rs7zL",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27225844",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4971768",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Genome-wide%20analysis%20of%20chromatin%20packing%20in%20Arabidopsis%20thaliana%20at%20single-gene%20resolution&journal=Genome%20Res.&doi=10.1101%2Fgr.204032.116&volume=26&pages=1057-1068&publication_year=2016&author=Liu%2CC",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2019.12.015",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtFCmsb4%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31952990",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=R-Loop%20mediated%20trans%20action%20of%20the%20APOLO%20long%20noncoding%20RNA&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2019.12.015&volume=77&publication_year=2020&author=Ariel%2CF",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Femboj.2012.324",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23222483",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=A%20gene%20loop%20containing%20the%20floral%20repressor%20FLC%20is%20disrupted%20in%20the%20early%20phase%20of%20vernalization&journal=EMBO%20J.&doi=10.1038%2Femboj.2012.324&volume=32&pages=140-148&publication_year=2013&author=Crevill%C3%A9n%2CP&author=Sonmez%2CC&author=Wu%2CZ&author=Dean%2CC",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41596-019-0273-0",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXislelurs%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31980751",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7451401",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Identifying%20statistically%20significant%20chromatin%20contacts%20from%20Hi-C%20data%20with%20FitHiC2&journal=Nat.%20Protoc.&doi=10.1038%2Fs41596-019-0273-0&volume=15&pages=991-1012&publication_year=2020&author=Kaul%2CA&author=Bhattacharyya%2CS&author=Ay%2CF",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1073%2Fpnas.1518369112",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2016PNAS..113..218W",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2MXitVylsrrI",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26699513",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Quantitative%20regulation%20of%20FLC%20via%20coordinated%20transcriptional%20initiation%20and%20elongation&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.1518369112&volume=113&pages=218-223&publication_year=2016&author=Wu%2CZ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2014.06.011",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2cXhtFGqsrrN",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25018019",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Noncoding%20transcription%20by%20alternative%20RNA%20polymerases%20dynamically%20regulates%20an%20auxin-driven%20chromatin%20loop&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2014.06.011&volume=55&pages=383-396&publication_year=2014&author=Ariel%2CF",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2020.03.002",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXlslKhtr4%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32213323",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703524",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Resolving%20the%203D%20landscape%20of%20transcription-linked%20mammalian%20chromatin%20folding&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2020.03.002&volume=78&pages=539-553.e8&publication_year=2020&author=Hsieh%2CTS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1101%2Fgr.215160.116",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2sXhsFamt7fJ",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28536180",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495066",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=YY1%20and%20CTCF%20orchestrate%20a%203D%20chromatin%20looping%20switch%20during%20early%20neural%20lineage%20commitment&journal=Genome%20Res.&doi=10.1101%2Fgr.215160.116&volume=27&pages=1139-1152&publication_year=2017&author=Beagan%2CJA",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2017.11.008",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2sXhvFCisrzN",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29224777",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785279",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=YY1%20is%20a%20structural%20regulator%20of%20enhancer-promoter%20loops&journal=Cell&doi=10.1016%2Fj.cell.2017.11.008&volume=171&pages=1573-1588.e28&publication_year=2017&author=Weintraub%2CAS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2013.04.053",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC3sXotlCrtrs%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23706625",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712340",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Architectural%20protein%20subclasses%20shape%203D%20organization%20of%20genomes%20during%20lineage%20commitment&journal=Cell&doi=10.1016%2Fj.cell.2013.04.053&volume=153&pages=1281-1295&publication_year=2013&author=Phillips-Cremins%2CJE",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41477-018-0280-0",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC1cXitVyisbrM",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30374093",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=RNA%20polymerase%20II%20activity%20revealed%20by%20GRO-seq%20and%20pNET-seq%20in%20Arabidopsis&journal=Nat.%20Plants&doi=10.1038%2Fs41477-018-0280-0&volume=4&pages=1112-1123&publication_year=2018&author=Zhu%2CJ&author=Liu%2CM&author=Liu%2CX&author=Dong%2CZ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1104%2Fpp.15.00764",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26246448",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4587460",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Meta-analysis%20of%20arabidopsis%20KANADI1%20direct%20target%20genes%20identifies%20a%20basic%20growth-promoting%20module%20acting%20upstream%20of%20hormonal%20signaling%20pathways&journal=Plant%20Physiol.&doi=10.1104%2Fpp.15.00764&volume=169&pages=1240-1253&publication_year=2015&author=Xie%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.4161%2Ftrns.20720",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22771987",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654767",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Transcription%20regulation%20by%20distal%20enhancers%3A%20who%E2%80%99s%20in%20the%20loop%3F&journal=Transcription&doi=10.4161%2Ftrns.20720&volume=3&pages=181-186&publication_year=2012&author=Stadhouders%2CR",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s13059-022-02675-1",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XhtlOisb%2FO",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35501845",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9063354",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Enhancer%20transcription%20detected%20in%20the%20nascent%20transcriptomic%20landscape%20of%20bread%20wheat&journal=Genome%20Biol.&doi=10.1186%2Fs13059-022-02675-1&volume=23&publication_year=2022&author=Xie%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41477-021-01004-x",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XjsFOjt7c%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34650265",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Global%20profiling%20of%20RNA-chromatin%20interactions%20reveals%20co-regulatory%20gene%20expression%20networks%20in%20Arabidopsis&journal=Nat.%20Plants&doi=10.1038%2Fs41477-021-01004-x&volume=7&pages=1364-1378&publication_year=2021&author=Li%2CL",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2011.12.014",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC38XhtFKgtrY%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22265404",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339270",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Extensive%20promoter-centered%20chromatin%20interactions%20provide%20a%20topological%20basis%20for%20transcription%20regulation&journal=Cell&doi=10.1016%2Fj.cell.2011.12.014&volume=148&pages=84-98&publication_year=2012&author=Li%2CG",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fnrm.2017.10",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2sXkt1Onur4%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28248323",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=The%20code%20and%20beyond%3A%20transcription%20regulation%20by%20the%20RNA%20polymerase%20II%20carboxy-terminal%20domain&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fnrm.2017.10&volume=18&pages=263-273&publication_year=2017&author=Harlen%2CKM&author=Churchman%2CLS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2007.01.015",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BD2sXis12ju7c%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17320508",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=The%20role%20of%20chromatin%20during%20transcription&journal=Cell&doi=10.1016%2Fj.cell.2007.01.015&volume=128&pages=707-719&publication_year=2007&author=Li%2CB&author=Carey%2CM&author=Workman%2CJL",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2019.08.010",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC1MXhslOgs7zJ",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31521504",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Mechanisms%20of%20interplay%20between%20transcription%20factors%20and%20the%203D%20genome&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2019.08.010&volume=76&pages=306-319&publication_year=2019&author=Kim%2CS&author=Shendure%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fnar%2Fgkab996",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38Xis1Cht78%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34751401",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=ReMap%202022%3A%20a%20database%20of%20Human%2C%20Mouse%2C%20Drosophila%20and%20Arabidopsis%20regulatory%20regions%20from%20an%20integrative%20analysis%20of%20DNA-binding%20sequencing%20experiments&journal=Nucleic%20Acids%20Res.&doi=10.1093%2Fnar%2Fgkab996&volume=50&pages=D316-d325&publication_year=2022&author=Hammal%2CF&author=Langen%2CP&author=Bergon%2CA&author=Lopez%2CF&author=Ballester%2CB",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41467-019-10602-5",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2019NatCo..10.2632P",
+      "text": "ADS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31201335",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6572838",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Chromatin%20interaction%20maps%20reveal%20genetic%20regulation%20for%20quantitative%20traits%20in%20maize&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-019-10602-5&volume=10&publication_year=2019&author=Peng%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1105%2Ftpc.15.00537",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC28Xis1Kgt7s%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815101",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Genome-wide%20prediction%20and%20validation%20of%20intergenic%20enhancers%20in%20Arabidopsis%20using%20open%20chromatin%20signatures&journal=Plant%20Cell&doi=10.1105%2Ftpc.15.00537&volume=27&pages=2415-2426&publication_year=2015&author=Zhu%2CB&author=Zhang%2CW&author=Zhang%2CT&author=Liu%2CB&author=Jiang%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s13007-017-0251-x",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29177001",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5691870",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=A%20cautionary%20note%20on%20the%20use%20of%20chromosome%20conformation%20capture%20in%20plants&journal=Plant%20Methods&doi=10.1186%2Fs13007-017-0251-x&volume=13&publication_year=2017&author=Jamge%2CS&author=Stam%2CM&author=Angenent%2CGC&author=Immink%2CRGH",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1146%2Fannurev-arplant-102720-022810",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XivF2jurk%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35130445",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Spatial%20features%20and%20functional%20implications%20of%20plant%203D%20genome%20organization&journal=Annu.%20Rev.%20Plant%20Biol.&doi=10.1146%2Fannurev-arplant-102720-022810&volume=73&pages=173-200&publication_year=2022&author=Domb%2CK&author=Wang%2CN&author=Hummel%2CG&author=Liu%2CC",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s12915-022-01362-8",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301868",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Dynamic%20enhancer%20transcription%20associates%20with%20reprogramming%20of%20immune%20genes%20during%20pattern%20triggered%20immunity%20in%20Arabidopsis&journal=BMC%20Biol.&doi=10.1186%2Fs12915-022-01362-8&volume=20&publication_year=2022&author=Zhang%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fnar%2Fgkad710",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB2cXis1Cjt70%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37884483",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10602878",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Accessible%20gene%20borders%20establish%20a%20core%20structural%20unit%20for%20chromatin%20architecture%20in%20Arabidopsis&journal=Nucleic%20Acids%20Res.&doi=10.1093%2Fnar%2Fgkad710&volume=51&pages=10261-10277&publication_year=2023&author=Lee%2CH&author=Seo%2CPJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1111%2Fnph.17773",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Coordinated%20resource%20allocation%20to%20plant%20growth-defense%20tradeoffs&journal=N.%20Phytol.&doi=10.1111%2Fnph.17773&volume=233&pages=1051-1066&publication_year=2022&author=Monson%2CRK&author=Trowbridge%2CAM&author=Lindroth%2CRL&author=Lerdau%2CMT",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fmp%2Fssu049",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2MXktlKlsbc%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4168297",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Growth-defense%20tradeoffs%20in%20plants%3A%20a%20balancing%20act%20to%20optimize%20fitness&journal=Mol.%20Plant&doi=10.1093%2Fmp%2Fssu049&volume=7&pages=1267-1287&publication_year=2014&author=Huot%2CB&author=Yao%2CJ&author=Montgomery%2CBL&author=He%2CSY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41477-017-0005-9",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC1cXktVGqtL4%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28848243",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Prominent%20topologically%20associated%20domains%20differentiate%20global%20chromatin%20packing%20in%20rice%20from%20Arabidopsis&journal=Nat.%20Plants&doi=10.1038%2Fs41477-017-0005-9&volume=3&pages=742-748&publication_year=2017&author=Liu%2CC&author=Cheng%2CYJ&author=Wang%2CJW&author=Weigel%2CD",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1073%2Fpnas.1901244116",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2019PNAS..11619431R",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvVGnsrrM",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31506350",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765289",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Chromatin%20conformation%20remains%20stable%20upon%20extensive%20transcriptional%20changes%20driven%20by%20heat%20shock&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.1901244116&volume=116&pages=19431-19439&publication_year=2019&author=Ray%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41467-023-36227-3",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2023NatCo..14..469H",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3sXisF2it7c%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36709329",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9884265",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=HSFA1a%20modulates%20plant%20heat%20stress%20responses%20and%20alters%20the%203D%20chromatin%20organization%20of%20enhancer-promoter%20interactions&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-023-36227-3&volume=14&publication_year=2023&author=Huang%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s13059-015-0831-x",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26619908",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4665391",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=HiC-Pro%3A%20an%20optimized%20and%20flexible%20pipeline%20for%20Hi-C%20data%20processing&journal=Genome%20Biol.&doi=10.1186%2Fs13059-015-0831-x&volume=16&publication_year=2015&author=Servant%2CN",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cels.2016.07.002",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFKksbk%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27467249",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846465",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Juicer%20provides%20a%20one-click%20system%20for%20analyzing%20loop-resolution%20Hi-C%20experiments&journal=Cell%20Syst.&doi=10.1016%2Fj.cels.2016.07.002&volume=3&pages=95-98&publication_year=2016&author=Durand%2CNC",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fnar%2Fgkaa220",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXis1entrvL",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32301980",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319437",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Galaxy%20HiCExplorer%203%3A%20a%20web%20server%20for%20reproducible%20Hi-C%2C%20capture%20Hi-C%20and%20single-cell%20Hi-C%20data%20analysis%2C%20quality%20control%20and%20visualization&journal=Nucleic%20Acids%20Res.&doi=10.1093%2Fnar%2Fgkaa220&volume=48&pages=W177-W184&publication_year=2020&author=Wolff%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s13059-018-1465-6",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30016975",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6050681",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=GIVE%3A%20portable%20genome%20browsers%20for%20personal%20websites&journal=Genome%20Biol.&doi=10.1186%2Fs13059-018-1465-6&volume=19&publication_year=2018&author=Cao%2CX&author=Yan%2CZ&author=Wu%2CQ&author=Zheng%2CA&author=Zhong%2CS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1101%2Fgr.160374.113",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC2cXhtVSgu77M",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24501021",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032863",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Statistical%20confidence%20estimation%20for%20Hi-C%20data%20reveals%20regulatory%20chromatin%20contacts&journal=Genome%20Res.&doi=10.1101%2Fgr.160374.113&volume=24&pages=999-1011&publication_year=2014&author=Ay%2CF&author=Bailey%2CTL&author=Noble%2CWS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41588-022-01237-2",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XjtVGru7%2FP",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36474047",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Genomic%20innovation%20and%20regulatory%20rewiring%20during%20evolution%20of%20the%20cotton%20genus%20Gossypium&journal=Nat.%20Genet.&doi=10.1038%2Fs41588-022-01237-2&volume=54&pages=1959-1971&publication_year=2022&author=Wang%2CM",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1101%2Fgr.1239303",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BD3sXovFWrtr4%3D",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14597658",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Cytoscape%3A%20a%20software%20environment%20for%20integrated%20models%20of%20biomolecular%20interaction%20networks&journal=Genome%20Res.&doi=10.1101%2Fgr.1239303&volume=13&pages=2498-2504&publication_year=2003&author=Shannon%2CP",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41467-020-16651-5",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020NatCo..11.2798L",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtFWlsrjK",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32493925",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7271234",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=The%20characterization%20of%20Mediator%2012%20and%2013%20as%20conditional%20positive%20gene%20regulators%20in%20Arabidopsis&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-020-16651-5&volume=11&publication_year=2020&author=Liu%2CQ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.5808%2FGI.2017.15.1.11",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=A%20ChIP-Seq%20data%20analysis%20pipeline%20based%20on%20bioconductor%20packages&journal=Genomics%20Inf.&doi=10.5808%2FGI.2017.15.1.11&volume=15&pages=11-18&publication_year=2017&author=Park%2CSJ&author=Kim%2CJH&author=Yoon%2CBH&author=Kim%2CSY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41467-019-11291-w",
+      "text": "Article"
+    },
+    {
+      "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2019NatCo..10.3352P",
+      "text": "ADS"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsVygurnK",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31350403",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659704",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Arabidopsis%20SWR1-associated%20protein%20methyl-CpG-binding%20domain%209%20is%20required%20for%20histone%20H2A.Z%20deposition&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-019-11291-w&volume=10&publication_year=2019&author=Potok%2CME",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1093%2Fbioinformatics%2Fbtac166",
+      "text": "Article"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB38XhslalurzM",
+      "text": "CAS"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35561197",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113351",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Analysing%20high-throughput%20sequencing%20data%20in%20Python%20with%20HTSeq%202.0&journal=Bioinformatics&doi=10.1093%2Fbioinformatics%2Fbtac166&volume=38&pages=2943-2945&publication_year=2022&author=Putri%2CGH&author=Anders%2CS&author=Pyl%2CPT&author=Pimanda%2CJE&author=Zanini%2CF",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1186/s13059-014-0550-8",
+      "text": "Article"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25516281",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049",
+      "text": "PubMed Central"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Moderated%20estimation%20of%20fold%20change%20and%20dispersion%20for%20RNA-seq%20data%20with%20DESeq2&journal=Genome%20Biol.&doi=10.1186%2Fs13059-014-0550-8&volume=15&publication_year=2014&author=Love%2CMI&author=Huber%2CW&author=Anders%2CS",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://citation-needed.springer.com/v2/references/10.1038/s41467-024-47678-7?format=refman&flavour=references",
+      "text": "Download references"
+    },
+    {
+      "url": "/search?author=Yueying%20Zhang",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yueying%20Zhang",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yueying%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Qianli%20Dong",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qianli%20Dong",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qianli%20Dong%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Zhen%20Wang",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhen%20Wang",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhen%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Qinzhe%20Liu",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qinzhe%20Liu",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qinzhe%20Liu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Haopeng%20Yu",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Haopeng%20Yu",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Haopeng%20Yu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Wenqing%20Sun",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wenqing%20Sun",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Wenqing%20Sun%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Jitender%20Cheema",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jitender%20Cheema",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jitender%20Cheema%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Qiancheng%20You",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qiancheng%20You",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qiancheng%20You%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Ling%20Ding",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ling%20Ding",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ling%20Ding%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Xiaofeng%20Cao",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xiaofeng%20Cao",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xiaofeng%20Cao%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Chuan%20He",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Chuan%20He",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Chuan%20He%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Yiliang%20Ding",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yiliang%20Ding",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yiliang%20Ding%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?author=Huakun%20Zhang",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Huakun%20Zhang",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Huakun%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "mailto:yiliang.ding@jic.ac.uk",
+      "text": "Yiliang Ding"
+    },
+    {
+      "url": "mailto:zhanghk045@nenu.edu.cn",
+      "text": "Huakun Zhang"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM1_ESM.pdf",
+      "text": "Supplementary Information"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM2_ESM.pdf",
+      "text": "Peer Review File"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM3_ESM.pdf",
+      "text": "Description of Additional Supplementary Files"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM4_ESM.xlsx",
+      "text": "Supplementary Data 1"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM5_ESM.xlsx",
+      "text": "Supplementary Data 2"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM6_ESM.xlsx",
+      "text": "Supplementary Data 3"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM7_ESM.xlsx",
+      "text": "Supplementary Data 4"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM8_ESM.xlsx",
+      "text": "Supplementary Data 5"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM9_ESM.xlsx",
+      "text": "Supplementary Data 6"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM10_ESM.xlsx",
+      "text": "Supplementary Data 7"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM11_ESM.xlsx",
+      "text": "Supplementary Data 8"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM12_ESM.xlsx",
+      "text": "Supplementary Data 9"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM13_ESM.xlsx",
+      "text": "Supplementary Data 10"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM14_ESM.xlsx",
+      "text": "Supplementary Data 11"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM15_ESM.xlsx",
+      "text": "Supplementary Data 12"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM16_ESM.pdf",
+      "text": "Reporting Summary"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_MOESM17_ESM.xlsx",
+      "text": "Source Data"
+    },
+    {
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "text": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "url": "https://s100.copyright.com/AppDispatchServlet?title=A%20fine-scale%20Arabidopsis%20chromatin%20landscape%20reveals%20chromatin%20conformation-associated%20transcriptional%20dynamics&author=Yueying%20Zhang%20et%20al&contentID=10.1038%2Fs41467-024-47678-7&copyright=The%20Author%28s%29&publication=2041-1723&publicationDate=2024-04-16&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY",
+      "text": "Reprints and permissions"
+    },
+    {
+      "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-024-47678-7",
+      "text": ""
+    },
+    {
+      "url": "https://citation-needed.springer.com/v2/references/10.1038/s41467-024-47678-7?format=refman&flavour=citation",
+      "text": "Download citation"
+    },
+    {
+      "url": "/articles/s41467-024-47678-7.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=487728250&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-024-47678-7%26doi%3D10.1038/s41467-024-47678-7%26techmeta%3D23,38,45,77,88%26subjmeta%3D100,101,1659,2661,2665,337,449,631%26kwrd%3DAbiotic,Chromatin+structure,Plant+molecular+biology",
+      "text": ""
+    },
+    {
+      "url": "/search/advanced",
+      "text": "Advanced search"
+    },
+    {
+      "url": "/subjects",
+      "text": "Explore articles by subject"
+    },
+    {
+      "url": "/naturecareers",
+      "text": "Find a job"
+    },
+    {
+      "url": "/authors/index.html",
+      "text": "Guide to authors"
+    },
+    {
+      "url": "/authors/editorial_policies/",
+      "text": "Editorial policies"
+    },
+    {
+      "url": "https://www.nature.com/info/privacy",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner",
+      "text": "Sign up for Nature Briefing"
+    }
+  ],
+  "images": [
+    {
+      "src": "//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature_communications/article&sz=728x90&c=-542097946&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-024-47678-7%26doi%3D10.1038/s41467-024-47678-7%26techmeta%3D23,38,45,77,88%26subjmeta%3D100,101,1659,2661,2665,337,449,631%26kwrd%3DAbiotic,Chromatin+structure,Plant+molecular+biology",
+      "alt": "Advertisement"
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41477-021-01004-x/MediaObjects/41477_2021_1004_Fig1_HTML.png",
+      "alt": ""
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-023-36227-3/MediaObjects/41467_2023_36227_Fig1_HTML.png",
+      "alt": ""
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41597-023-02395-6/MediaObjects/41597_2023_2395_Fig1_HTML.png",
+      "alt": ""
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig1_HTML.png",
+      "alt": "figure 1"
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig2_HTML.png",
+      "alt": "figure 2"
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig3_HTML.png",
+      "alt": "figure 3"
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig4_HTML.png",
+      "alt": "figure 4"
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig5_HTML.png",
+      "alt": "figure 5"
+    },
+    {
+      "src": "//media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-47678-7/MediaObjects/41467_2024_47678_Fig6_HTML.png",
+      "alt": "figure 6"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgxIiB3aWR0aD0iNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJtMTcuMzUgMzUuNDUgMjEuMy0xNC4ydi0xNy4wM2gtMjEuMyIgZmlsbD0iIzk4OTg5OCIvPjxwYXRoIGQ9Im0zOC42NSAzNS40NS0yMS4zLTE0LjJ2LTE3LjAzaDIxLjMiIGZpbGw9IiM3NDc0NzQiLz48cGF0aCBkPSJtMjggLjVjLTEyLjk4IDAtMjMuNSAxMC41Mi0yMy41IDIzLjVzMTAuNTIgMjMuNSAyMy41IDIzLjUgMjMuNS0xMC41MiAyMy41LTIzLjVjMC02LjIzLTIuNDgtMTIuMjEtNi44OC0xNi42Mi00LjQxLTQuNC0xMC4zOS02Ljg4LTE2LjYyLTYuODh6bTAgNDEuMjVjLTkuOCAwLTE3Ljc1LTcuOTUtMTcuNzUtMTcuNzVzNy45NS0xNy43NSAxNy43NS0xNy43NSAxNy43NSA3Ljk1IDE3Ljc1IDE3Ljc1YzAgNC43MS0xLjg3IDkuMjItNS4yIDEyLjU1cy03Ljg0IDUuMi0xMi41NSA1LjJ6IiBmaWxsPSIjNTM1MzUzIi8+PHBhdGggZD0ibTQxIDM2Yy01LjgxIDYuMjMtMTUuMjMgNy40NS0yMi40MyAyLjktNy4yMS00LjU1LTEwLjE2LTEzLjU3LTcuMDMtMjEuNWwtNC45Mi0zLjExYy00Ljk1IDEwLjctMS4xOSAyMy40MiA4Ljc4IDI5LjcxIDkuOTcgNi4zIDIzLjA3IDQuMjIgMzAuNi00Ljg2eiIgZmlsbD0iIzljOWM5YyIvPjxwYXRoIGQ9Im0uMiA1OC40NWMwLS43NS4xMS0xLjQyLjMzLTIuMDFzLjUyLTEuMDkuOTEtMS41Yy4zOC0uNDEuODMtLjczIDEuMzQtLjk0LjUxLS4yMiAxLjA2LS4zMiAxLjY1LS4zMi41NiAwIDEuMDYuMTEgMS41MS4zNS40NC4yMy44MS41IDEuMS44MWwtLjkxIDEuMDFjLS4yNC0uMjQtLjQ5LS40Mi0uNzUtLjU2LS4yNy0uMTMtLjU4LS4yLS45My0uMi0uMzkgMC0uNzMuMDgtMS4wNS4yMy0uMzEuMTYtLjU4LjM3LS44MS42Ni0uMjMuMjgtLjQxLjYzLS41MyAxLjA0LS4xMy40MS0uMTkuODgtLjE5IDEuMzkgMCAxLjA0LjIzIDEuODYuNjggMi40Ni40NS41OSAxLjA2Ljg4IDEuODQuODguNDEgMCAuNzctLjA3IDEuMDctLjIzcy41OS0uMzkuODUtLjY4bC45MSAxYy0uMzguNDMtLjguNzYtMS4yOC45OS0uNDcuMjItMSAuMzQtMS41OC4zNC0uNTkgMC0xLjEzLS4xLTEuNjQtLjMxLS41LS4yLS45NC0uNTEtMS4zMS0uOTEtLjM4LS40LS42Ny0uOS0uODgtMS40OC0uMjItLjU5LS4zMy0xLjI2LS4zMy0yLjAyem04LjQtNS4zM2gxLjYxdjIuNTRsLS4wNSAxLjMzYy4yOS0uMjcuNjEtLjUxLjk2LS43MnMuNzYtLjMxIDEuMjQtLjMxYy43MyAwIDEuMjcuMjMgMS42MS43MS4zMy40Ny41IDEuMTQuNSAyLjAydjQuMzFoLTEuNjF2LTQuMWMwLS41Ny0uMDgtLjk3LS4yNS0xLjIxLS4xNy0uMjMtLjQ1LS4zNS0uODMtLjM1LS4zIDAtLjU2LjA4LS43OS4yMi0uMjMuMTUtLjQ5LjM2LS43OC42NHY0LjhoLTEuNjF6bTcuMzcgNi40NWMwLS41Ni4wOS0xLjA2LjI2LTEuNTEuMTgtLjQ1LjQyLS44My43MS0xLjE0LjI5LS4zLjYzLS41NCAxLjAxLS43MS4zOS0uMTcuNzgtLjI1IDEuMTgtLjI1LjQ3IDAgLjg4LjA4IDEuMjMuMjQuMzYuMTYuNjUuMzguODkuNjdzLjQyLjYzLjU0IDEuMDNjLjEyLjQxLjE4Ljg0LjE4IDEuMzIgMCAuMzItLjAyLjU3LS4wNy43NmgtNC4zNmMuMDcuNjIuMjkgMS4xLjY1IDEuNDQuMzYuMzMuODIuNSAxLjM4LjUuMjkgMCAuNTctLjA0LjgzLS4xM3MuNTEtLjIxLjc2LS4zN2wuNTUgMS4wMWMtLjMzLjIxLS42OS4zOS0xLjA5LjUzLS40MS4xNC0uODMuMjEtMS4yNi4yMS0uNDggMC0uOTItLjA4LTEuMzQtLjI1LS40MS0uMTYtLjc2LS40LTEuMDctLjctLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDQtLjI2LS45NS0uMjYtMS41MnptNC42LS42MmMwLS41NS0uMTEtLjk4LS4zNC0xLjI4LS4yMy0uMzEtLjU4LS40Ny0xLjA2LS40Ny0uNDEgMC0uNzcuMTUtMS4wNy40NS0uMzEuMjktLjUuNzMtLjU4IDEuM3ptMi41LjYyYzAtLjU3LjA5LTEuMDguMjgtMS41My4xOC0uNDQuNDMtLjgyLjc1LTEuMTNzLjY5LS41NCAxLjEtLjcxYy40Mi0uMTYuODUtLjI0IDEuMzEtLjI0LjQ1IDAgLjg0LjA4IDEuMTcuMjNzLjYxLjM0Ljg1LjU3bC0uNzcgMS4wMmMtLjE5LS4xNi0uMzgtLjI4LS41Ni0uMzctLjE5LS4wOS0uMzktLjE0LS42MS0uMTQtLjU2IDAtMS4wMS4yMS0xLjM1LjYzLS4zNS40MS0uNTIuOTctLjUyIDEuNjcgMCAuNjkuMTcgMS4yNC41MSAxLjY2LjM0LjQxLjc4LjYyIDEuMzIuNjIuMjggMCAuNTQtLjA2Ljc4LS4xNy4yNC0uMTIuNDUtLjI2LjY0LS40MmwuNjcgMS4wM2MtLjMzLjI5LS42OS41MS0xLjA4LjY1LS4zOS4xNS0uNzguMjMtMS4xOC4yMy0uNDYgMC0uOS0uMDgtMS4zMS0uMjQtLjQtLjE2LS43NS0uMzktMS4wNS0uN3MtLjUzLS42OS0uNy0xLjEzYy0uMTctLjQ1LS4yNS0uOTYtLjI1LTEuNTN6bTYuOTEtNi40NWgxLjU4djYuMTdoLjA1bDIuNTQtMy4xNmgxLjc3bC0yLjM1IDIuOCAyLjU5IDQuMDdoLTEuNzVsLTEuNzctMi45OC0xLjA4IDEuMjN2MS43NWgtMS41OHptMTMuNjkgMS4yN2MtLjI1LS4xMS0uNS0uMTctLjc1LS4xNy0uNTggMC0uODcuMzktLjg3IDEuMTZ2Ljc1aDEuMzR2MS4yN2gtMS4zNHY1LjZoLTEuNjF2LTUuNmgtLjkydi0xLjJsLjkyLS4wN3YtLjcyYzAtLjM1LjA0LS42OC4xMy0uOTguMDgtLjMxLjIxLS41Ny40LS43OXMuNDItLjM5LjcxLS41MWMuMjgtLjEyLjYzLS4xOCAxLjA0LS4xOC4yNCAwIC40OC4wMi42OS4wNy4yMi4wNS40MS4xLjU3LjE3em0uNDggNS4xOGMwLS41Ny4wOS0xLjA4LjI3LTEuNTMuMTctLjQ0LjQxLS44Mi43Mi0xLjEzLjMtLjMxLjY1LS41NCAxLjA0LS43MS4zOS0uMTYuOC0uMjQgMS4yMy0uMjRzLjg0LjA4IDEuMjQuMjRjLjQuMTcuNzQuNCAxLjA0Ljcxcy41NC42OS43MiAxLjEzYy4xOS40NS4yOC45Ni4yOCAxLjUzcy0uMDkgMS4wOC0uMjggMS41M2MtLjE4LjQ0LS40Mi44Mi0uNzIgMS4xM3MtLjY0LjU0LTEuMDQuNy0uODEuMjQtMS4yNC4yNC0uODQtLjA4LTEuMjMtLjI0LS43NC0uMzktMS4wNC0uN2MtLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDUtLjI3LS45Ni0uMjctMS41M3ptMS42NSAwYzAgLjY5LjE0IDEuMjQuNDMgMS42Ni4yOC40MS42OC42MiAxLjE4LjYyLjUxIDAgLjktLjIxIDEuMTktLjYyLjI5LS40Mi40NC0uOTcuNDQtMS42NiAwLS43LS4xNS0xLjI2LS40NC0xLjY3LS4yOS0uNDItLjY4LS42My0xLjE5LS42My0uNSAwLS45LjIxLTEuMTguNjMtLjI5LjQxLS40My45Ny0uNDMgMS42N3ptNi40OC0zLjQ0aDEuMzNsLjEyIDEuMjFoLjA1Yy4yNC0uNDQuNTQtLjc5Ljg4LTEuMDIuMzUtLjI0LjctLjM2IDEuMDctLjM2LjMyIDAgLjU5LjA1Ljc4LjE0bC0uMjggMS40LS4zMy0uMDljLS4xMS0uMDEtLjIzLS4wMi0uMzgtLjAyLS4yNyAwLS41Ni4xLS44Ni4zMXMtLjU1LjU4LS43NyAxLjF2NC4yaC0xLjYxem0tNDcuODcgMTVoMS42MXY0LjFjMCAuNTcuMDguOTcuMjUgMS4yLjE3LjI0LjQ0LjM1LjgxLjM1LjMgMCAuNTctLjA3LjgtLjIyLjIyLS4xNS40Ny0uMzkuNzMtLjczdi00LjdoMS42MXY2Ljg3aC0xLjMybC0uMTItMS4wMWgtLjA0Yy0uMy4zNi0uNjMuNjQtLjk4Ljg2LS4zNS4yMS0uNzYuMzItMS4yNC4zMi0uNzMgMC0xLjI3LS4yNC0xLjYxLS43MS0uMzMtLjQ3LS41LTEuMTQtLjUtMi4wMnptOS40NiA3LjQzdjIuMTZoLTEuNjF2LTkuNTloMS4zM2wuMTIuNzJoLjA1Yy4yOS0uMjQuNjEtLjQ1Ljk3LS42My4zNS0uMTcuNzItLjI2IDEuMS0uMjYuNDMgMCAuODEuMDggMS4xNS4yNC4zMy4xNy42MS40Ljg0LjcxLjI0LjMxLjQxLjY4LjUzIDEuMTEuMTMuNDIuMTkuOTEuMTkgMS40NCAwIC41OS0uMDkgMS4xMS0uMjUgMS41Ny0uMTYuNDctLjM4Ljg1LS42NSAxLjE2LS4yNy4zMi0uNTguNTYtLjk0LjczLS4zNS4xNi0uNzIuMjUtMS4xLjI1LS4zIDAtLjYtLjA3LS45LS4ycy0uNTktLjMxLS44Ny0uNTZ6bTAtMi4zYy4yNi4yMi41LjM3LjczLjQ1LjI0LjA5LjQ2LjEzLjY2LjEzLjQ2IDAgLjg0LS4yIDEuMTUtLjYuMzEtLjM5LjQ2LS45OC40Ni0xLjc3IDAtLjY5LS4xMi0xLjIyLS4zNS0xLjYxLS4yMy0uMzgtLjYxLS41Ny0xLjEzLS41Ny0uNDkgMC0uOTkuMjYtMS41Mi43N3ptNS44Ny0xLjY5YzAtLjU2LjA4LTEuMDYuMjUtMS41MS4xNi0uNDUuMzctLjgzLjY1LTEuMTQuMjctLjMuNTgtLjU0LjkzLS43MXMuNzEtLjI1IDEuMDgtLjI1Yy4zOSAwIC43My4wNyAxIC4yLjI3LjE0LjU0LjMyLjgxLjU1bC0uMDYtMS4xdi0yLjQ5aDEuNjF2OS44OGgtMS4zM2wtLjExLS43NGgtLjA2Yy0uMjUuMjUtLjU0LjQ2LS44OC42NC0uMzMuMTgtLjY5LjI3LTEuMDYuMjctLjg3IDAtMS41Ni0uMzItMi4wNy0uOTVzLS43Ni0xLjUxLS43Ni0yLjY1em0xLjY3LS4wMWMwIC43NC4xMyAxLjMxLjQgMS43LjI2LjM4LjY1LjU4IDEuMTUuNTguNTEgMCAuOTktLjI2IDEuNDQtLjc3di0zLjIxYy0uMjQtLjIxLS40OC0uMzYtLjctLjQ1LS4yMy0uMDgtLjQ2LS4xMi0uNy0uMTItLjQ1IDAtLjgyLjE5LTEuMTMuNTktLjMxLjM5LS40Ni45NS0uNDYgMS42OHptNi4zNSAxLjU5YzAtLjczLjMyLTEuMy45Ny0xLjcxLjY0LS40IDEuNjctLjY4IDMuMDgtLjg0IDAtLjE3LS4wMi0uMzQtLjA3LS41MS0uMDUtLjE2LS4xMi0uMy0uMjItLjQzcy0uMjItLjIyLS4zOC0uM2MtLjE1LS4wNi0uMzQtLjEtLjU4LS4xLS4zNCAwLS42OC4wNy0xIC4ycy0uNjMuMjktLjkzLjQ3bC0uNTktMS4wOGMuMzktLjI0LjgxLS40NSAxLjI4LS42My40Ny0uMTcuOTktLjI2IDEuNTQtLjI2Ljg2IDAgMS41MS4yNSAxLjkzLjc2cy42MyAxLjI1LjYzIDIuMjF2NC4wN2gtMS4zMmwtLjEyLS43NmgtLjA1Yy0uMy4yNy0uNjMuNDgtLjk4LjY2cy0uNzMuMjctMS4xNC4yN2MtLjYxIDAtMS4xLS4xOS0xLjQ4LS41Ni0uMzgtLjM2LS41Ny0uODUtLjU3LTEuNDZ6bTEuNTctLjEyYzAgLjMuMDkuNTMuMjcuNjcuMTkuMTQuNDIuMjEuNzEuMjEuMjggMCAuNTQtLjA3Ljc3LS4ycy40OC0uMzEuNzMtLjU2di0xLjU0Yy0uNDcuMDYtLjg2LjEzLTEuMTguMjMtLjMxLjA5LS41Ny4xOS0uNzYuMzFzLS4zMy4yNS0uNDEuNGMtLjA5LjE1LS4xMy4zMS0uMTMuNDh6bTYuMjktMy42M2gtLjk4di0xLjJsMS4wNi0uMDcuMi0xLjg4aDEuMzR2MS44OGgxLjc1djEuMjdoLTEuNzV2My4yOGMwIC44LjMyIDEuMi45NyAxLjIuMTIgMCAuMjQtLjAxLjM3LS4wNC4xMi0uMDMuMjQtLjA3LjM0LS4xMWwuMjggMS4xOWMtLjE5LjA2LS40LjEyLS42NC4xNy0uMjMuMDUtLjQ5LjA4LS43Ni4wOC0uNCAwLS43NC0uMDYtMS4wMi0uMTgtLjI3LS4xMy0uNDktLjMtLjY3LS41Mi0uMTctLjIxLS4zLS40OC0uMzctLjc4LS4wOC0uMy0uMTItLjY0LS4xMi0xLjAxem00LjM2IDIuMTdjMC0uNTYuMDktMS4wNi4yNy0xLjUxcy40MS0uODMuNzEtMS4xNGMuMjktLjMuNjMtLjU0IDEuMDEtLjcxLjM5LS4xNy43OC0uMjUgMS4xOC0uMjUuNDcgMCAuODguMDggMS4yMy4yNC4zNi4xNi42NS4zOC44OS42N3MuNDIuNjMuNTQgMS4wM2MuMTIuNDEuMTguODQuMTggMS4zMiAwIC4zMi0uMDIuNTctLjA3Ljc2aC00LjM3Yy4wOC42Mi4yOSAxLjEuNjUgMS40NC4zNi4zMy44Mi41IDEuMzguNS4zIDAgLjU4LS4wNC44NC0uMTMuMjUtLjA5LjUxLS4yMS43Ni0uMzdsLjU0IDEuMDFjLS4zMi4yMS0uNjkuMzktMS4wOS41M3MtLjgyLjIxLTEuMjYuMjFjLS40NyAwLS45Mi0uMDgtMS4zMy0uMjUtLjQxLS4xNi0uNzctLjQtMS4wOC0uNy0uMy0uMzEtLjU0LS42OS0uNzItMS4xMy0uMTctLjQ0LS4yNi0uOTUtLjI2LTEuNTJ6bTQuNjEtLjYyYzAtLjU1LS4xMS0uOTgtLjM0LTEuMjgtLjIzLS4zMS0uNTgtLjQ3LTEuMDYtLjQ3LS40MSAwLS43Ny4xNS0xLjA4LjQ1LS4zMS4yOS0uNS43My0uNTcgMS4zem0zLjAxIDIuMjNjLjMxLjI0LjYxLjQzLjkyLjU3LjMuMTMuNjMuMi45OC4yLjM4IDAgLjY1LS4wOC44My0uMjNzLjI3LS4zNS4yNy0uNmMwLS4xNC0uMDUtLjI2LS4xMy0uMzctLjA4LS4xLS4yLS4yLS4zNC0uMjgtLjE0LS4wOS0uMjktLjE2LS40Ny0uMjNsLS41My0uMjJjLS4yMy0uMDktLjQ2LS4xOC0uNjktLjMtLjIzLS4xMS0uNDQtLjI0LS42Mi0uNHMtLjMzLS4zNS0uNDUtLjU1Yy0uMTItLjIxLS4xOC0uNDYtLjE4LS43NSAwLS42MS4yMy0xLjEuNjgtMS40OS40NC0uMzggMS4wNi0uNTcgMS44My0uNTcuNDggMCAuOTEuMDggMS4yOS4yNXMuNzEuMzYuOTkuNTdsLS43NC45OGMtLjI0LS4xNy0uNDktLjMyLS43My0uNDItLjI1LS4xMS0uNTEtLjE2LS43OC0uMTYtLjM1IDAtLjYuMDctLjc2LjIxLS4xNy4xNS0uMjUuMzMtLjI1LjU0IDAgLjE0LjA0LjI2LjEyLjM2cy4xOC4xOC4zMS4yNmMuMTQuMDcuMjkuMTQuNDYuMjFsLjU0LjE5Yy4yMy4wOS40Ny4xOC43LjI5cy40NC4yNC42NC40Yy4xOS4xNi4zNC4zNS40Ni41OC4xMS4yMy4xNy41LjE3LjgyIDAgLjMtLjA2LjU4LS4xNy44My0uMTIuMjYtLjI5LjQ4LS41MS42OC0uMjMuMTktLjUxLjM0LS44NC40NS0uMzQuMTEtLjcyLjE3LTEuMTUuMTctLjQ4IDAtLjk1LS4wOS0xLjQxLS4yNy0uNDYtLjE5LS44Ni0uNDEtMS4yLS42OHoiIGZpbGw9IiM1MzUzNTMiLz48L2c+PC9zdmc+",
+      "alt": "Check for updates. Verify currency and authenticity via CrossMark"
+    },
+    {
+      "src": "//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature_communications/article&sz=300x250&c=487728250&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-024-47678-7%26doi%3D10.1038/s41467-024-47678-7%26techmeta%3D23,38,45,77,88%26subjmeta%3D100,101,1659,2661,2665,337,449,631%26kwrd%3DAbiotic,Chromatin+structure,Plant+molecular+biology",
+      "alt": "Advertisement"
+    },
+    {
+      "src": "/static/images/logos/nature-briefing-logo-n150-white-d81c9da3ec.svg",
+      "alt": "Nature Briefing"
+    },
+    {
+      "src": "https://verify.nature.com/verify/nature.png",
+      "alt": ""
+    }
+  ]
+}

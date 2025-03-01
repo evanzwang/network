@@ -1,0 +1,2053 @@
+{
+  "title": "Zifei XU | Research Fellow | Ph.D. | University of Liverpool, Liverpool | UoL | School of Engineering | Research profile",
+  "meta_description": "I am a Marie-Curie fellow working at the University of Liverpool. I am studying on diagnostics, prognostics and health management technologies for mechanical systems of floating offshore wind turbines.",
+  "main_content": "Home University of Liverpool School of Engineering Zifei Xu Zifei Xu University of Liverpool | UoL \u00b7 School of Engineering Ph.D. Marie Curie Fellowship (awarded in 2022) Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in About 31 Publications 2,978 Reads How we measure 'reads' A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text. Learn more 706 Citations Introduction I am a Marie-Curie fellow working at the University of Liverpool. I am studying on diagnostics, prognostics and health management technologies for mechanical systems of floating offshore wind turbines. Skills and Expertise Signal Processing Fault Diagnosis Prognostics and Health Management Advanced Machine Learning Additional affiliations August 2023 - July 2024 Liverpool John Moores University Liverpool Logistics Offshore and Marine Research Institute (LOOM) Liverpool, United Kingdom Position Senior Research Fellow October 2022 - August 2023 Liverpool John Moores University Liverpool Logistics Offshore and Marine Institute (LOOM) Liverpool, United Kingdom Position Postdoctoral Research Fellow Education September 2016 - June 2022 University of Shanghai for Science and Technology Field of study Fault diagnostics and prognostics of wind turbine Publications Publications (31) Fault diagnosis of wind turbine bearing using a multi-scale convolutional neural network with bidirectional long short term memory and weighted majority voting for multi-sensors Article Oct 2021 Zifei Xu Xuan Mei Xinyu Wang [...] Chun Li In order to solve the problems of insufficient extrapolation of intelligent models for the fault diagnosis of bearings in real wind turbines, this study has developed a multi-scale convolutional neural network with bidirectional long short term memory (MSCNN-BiLSTM) model for improving the generalization abilities under complex working and testing... View Fault diagnosis of rolling bearings using an Improved Multi-Scale Convolutional Neural Network with Feature Attention mechanism Article Oct 2020 Zifei Xu Chun Li Yang Yang Machine learning techniques have been successfully applied for the intelligent fault diagnosis of rolling bearings in recent years. This study has developed an Improved Multi-Scale Convolutional Neural Network integrated with a Feature Attention mechanism (IMS-FACNN) model to address the poor performance of traditional CNN-based models under unstea... View Hydrodynamic characteristics of forced oscillation of heave plate with fractal characteristics based on floating wind turbine platform Article Sep 2020 Bo Wang Zifei Xu Chun Li [...] Qinwei Ding The heave plate is widely used in the field of marine engineering because of its advantage of increasing damping and added mass. In this paper, the fractal theory is applied to the structure design of the heave plate and a fractal plate has been proposed. With the technology of dynamic mesh and user defined functions (UDF) in Fluent, numerical simu... View Fault diagnosis of rolling bearing of wind turbines based on the Variational Mode Decomposition and Deep Convolutional Neural Networks Article Jul 2020 Zifei Xu Chun Li Yang Yang Machine learning techniques have been successfully applied in intelligent fault diagnosis of rolling bearings in recent years. However, in the real world industrial application, the dissimilarity of data due to changes in the working conditions and data acquisition environment often cause a poor performance of the existing fault diagnosis methods.... View Nature-inspired innovative platform designs for optimized performance of Floating vertical Axis wind turbines Article Feb 2025 Qingsong Liu Musa Bashir Haoda Huang [...] Chun Li View Aerodynamic Performance Investigation of Vertical Axis Wind Turbine Based on Composite Flow Control Technique: Slot Blade Integrated with Active Flap Control Preprint Jan 2025 Huahao Ou Weipao Miao Chun Li [...] Zifei Xu View A novel bearing remaining useful life prediction methodology with slope-based change point detection and WOA-Attention-BiLSTM model Article Jan 2025 Guangqi Qiu Binlu Ye Yingkui Gu [...] Zifei Xu Appropriate health indicator (HI) and efficient prediction models are critical factors for accurate remaining useful life (RUL) prediction, particularly, when dealing with fluctuations and redundant information in the HI curve. To address these challenges, this study proposed an HI construction method for better characterization of the degradation... View Early anomaly detection of wind turbine gearbox based on SLFormer neural network Article Nov 2024 Zekun Wang Xue Jiang Zifei Xu [...] Qing 'an Li View Physics-informed probabilistic deep network with interpretable mechanism for trustworthy mechanical fault diagnosis Article Full-text available Oct 2024 Zifei Xu Kaicheng Zhao Jin Wang Musa Bashir The application of data-driven models based on the neural network is pivotal to developing an intelligent fault diagnostic flowchart. However, the reliability and interpretability of these models for fault prediction have presented challenges in neural network-based diagnostic approach. Another challenge is data availability, which has also been a... View Investigation of aero-hydro-elastic-mooring behavior of a H-type floating vertical axis wind turbine using coupled CFD-FEM method. Article Full-text available Oct 2024 Qingsong Liu Musa Bashir Gregorio Iglesias [...] Chun Li View Dynamic analysis of an improved shared moorings for floating offshore wind farm Article Jul 2024 Lu Xie Chun Li Minnan Yue [...] Yangtian Yan View Nature-Inspired Innovative Platform Designs for Optimized Performance of Floating Vertical Axis Wind Turbines Preprint Jan 2024 Qingsong Liu Musa Bashir Haoda Huang [...] Chun Li View Optimized design of wind turbine airfoil aerodynamic performance and structural strength based on surrogate model Article Dec 2023 Qiang Zhang Weipao Miao Qingsong Liu [...] Minnan Yue View Rolling Bearing Fault Diagnosis Method using Time-Frequency Information Integration and Multi-Scale TransFusion Network Article Dec 2023 Zekun Wang Zifei Xu Chang Cai [...] Qing 'an Li View Fault diagnosis of rolling bearing using CNN and PCA fractal based feature extraction Article Oct 2023 Kaicheng Zhao Junqing Xiao Chun Li [...] Minnan Yue View Dynamic response analysis of floating wind turbine platform in local fatigue of mooring Article Mar 2023 Kang Sun Zifei Xu Shujun Li [...] Chun Li View A Novel Health Indicator for Intelligent Prediction of Rolling Bearing Remaining Useful Life based on Unsupervised Learning Model Article Full-text available Jan 2023 Zifei Xu Musa Bashir Qingsong Liu [...] N.N. Ekere Construction of an intelligent Health Indicator (HI) that can accurately describe the degradation process is a prerequisite to accelerating the development of an automatic remaining useful life (RUL) prediction model for rotating machinery such as bearings. This research aims to develop an intelligent model that can predict the remaining useful lif... View Recommendation for strut designs of vertical axis wind turbines: Effects of strut profiles and connecting configurations on the aerodynamic performance Article Full-text available Jan 2023 Weipao Miao Qingsong Liu Qiang Zhang [...] Zhou Ye The strut is a necessary support structure that connects the vertical axis wind turbine blade to the rotating shaft and transfers the torque, and is one of the key factors affecting the aerodynamic performance of the wind turbine. However, research on struts is limited and the appropriate strut design remain uncertain. Therefore, in this paper, the... View Collaborative Fault Diagnosis of Wind Turbine Gearbox Based on Probabilistic Neural Network with Decision Information Fusion Preprint Jan 2023 Zifei Xu Weipao Miao Kang Sun [...] Musa Bashir View +4 Data-Driven Damage Quantification of Floating Offshore Wind Turbine Platforms Based on Multi-Scale Encoder-Decoder with Self-Attention Article Full-text available Nov 2022 Musa Bashir Zifei Xu Jin Wang Carlos Guedes Soares A Multi-Scale Convolutional Neural Network with Self Attention-based Auto Encoder\u2013Decoder (MSCSA-AED), is a novel high-performance framework, presented here for the quantification of damage on a multibody floating offshore wind turbine (FOWT) structure. The model is equipped with similarity measurement to enhance its capability to accurately quanti... View Aerodynamic and aeroacoustic performance assessment of a vertical axis wind turbine by synergistic effect of blowing and suction Article Oct 2022 Qingsong Liu Weipao Miao Musa Bashir [...] Chun Li The power efficiency of Darrieus wind turbines significantly deteriorates during rotation caused by periodic dynamic stall at low tip speed ratios. This leads to a strong fluctuation in torque and a reduction in energy acquisition. This paper aims to improve the aerodynamic performance of an H-type Darrieus wind turbine using an innovative fluidic... View Multisensory collaborative damage diagnosis of a 10MW floating offshore wind turbine tendons using multi-scale convolutional neural network with attention mechanism Article Full-text available Sep 2022 Zifei Xu Musa Bashir Yang Yang [...] Chun Li An effective damage diagnosis and prognostic management method can considerably reduce operation and maintenance costs of floating wind turbines. In this research, an intelligent damage diagnosis framework, named \u201cMS-ACNN\u201d, has been developed using a multi-scale deep convolution neural network model fused with an attention mechanism. The framework... View Investigation of the aerodynamic characteristics of horizontal axis wind turbine using an active flow control method via boundary layer suction Article Aug 2022 Peilin Wang Qingsong Liu Chun Li [...] Zifei Xu The boundary layer suction (BLS) has the merit of effectively suppressing the formation and development of separation vortices by removing low-momentum fluid occurs on the leading-edge of airfoil suction surface. The present paper numerically investigates the impacts of BLS on the aerodynamic performance of a horizontal axis wind turbine (HAWT). Fi... View An Intelligent Fault Diagnosis for Machine Maintenance using Weighted Soft-Voting Rule based Multi-Attention Module with Multi-Scale Information Fusion Article Full-text available Jun 2022 Zifei Xu Musa Bashir Wanfu Zhang [...] Chun Li The ability of engineering systems to process multi-scale information is a crucial requirement in the development of an intelligent fault diagnosis model. This study develops a hybrid multi-scale convolutional neural network model coupled with multi-attention capability (HMS-MACNN) to solve both the inefficient and insufficient extrapolation proble... View A comprehensive analysis of blade tip for vertical axis wind turbine: Aerodynamics and the tip loss effect Article Feb 2022 Weipao Miao Qingsong Liu Zifei Xu [...] Wanfu Zhang Vertical axis wind turbines are receiving renewed attention due to the challenges faced by horizontal axis wind turbines in recent years. To achieve commercial applications, a key aspect is to improve the relatively low power coefficient of vertical axis wind turbines. Among several factors that affects output efficiency, the three-dimensional tip... View TENDON DAMAGE DETECTION OF 10MW FLOATING OFFSHORE WIND TURBINES BASED ON CONVOLUTIONAL NEURAL NETWORK WITH OPTIMIZED VARIATIONAL MODE DECOMPOSITION Chapter Full-text available Nov 2021 Zifei Xu Musa Bashir Chun Li [...] Yang Yang The stability and health condition of mooring system in a floating offshore wind turbine determine its operating life and power generalization efficiency. Suitable SHM method can ensure safe and stable operation of a FOWT. A tendon damage detect model in a data-driven way is developed in this paper and benefits from the advantages of variational mo... View Fault Diagnosis of Wind Turbine Bearing Using a Multi-Scale Convolutional Neural Network for Multi-Sensors Article Jan 2021 Zifei Xu Chun Li Xinyu Wang Jiangtao Jin View Research on influence of ice-induced vibration on offshore wind turbines Article May 2019 Kehua Ye Chun Li Yang Yang [...] Zifei Xu This paper presents the simulation of offshore wind turbines (OWTs) suffering from turbulent wind and ice-induced vibrations (IIVs). To ascertain the effectiveness of IIVs, the fully coupled simulation of the NREL 5 MW OWT is implemented. The OWT model, which is processed as a multibody system, takes the aerodynamic load and the IIV simultaneously.... View Influences of the cone structure of a monopile offshore wind turbine on its dynamic responses under ice loading condition Article Nov 2018 Zifei Xu Kerr Ye C. Li [...] Yang Yang The support structure stability is the fundamental guarantee for the operation safety of offshore wind turbines. A NREL 5 MW wind turbine was selected as the baseline turbine and the ice loads were estimated by using the Ralston theory and considering the turbulent wind. The dynamic behaviors of the wind turbine tower installed with a cone structur... View Analysis on Anti-ice Performance of Offshore Wind Turbines with Ice Breaking Cone Article Sep 2018 Zifei Xu Kerr Ye C. Li Yang Yang To reduce the ice damage to the structure of an offshore wind turbine, an ice breading cone was installed at the boundary between wind turbine and sea level. Based on Matlock and Ralston methods, a calculation model was established for the collision load between the ice and the tower base, and subsequently a dynamic simulation model was set up for... View Floating Ice Load Reduction of Offshore Wind Turbines by Two Approaches Article Full-text available Apr 2018 Kehua Ye Chun Li Fudong Chen [...] Junwei Zhang The offshore wind turbines (OWTs) constructed at the northern sea areas under cold climate are frequently subjected to floating ice loads. It is imperative to reduce the damage owing to the floating ice with some appropriate approaches. The purpose of this paper is to ascertain the effectiveness of the tuned mass damper (TMD) and the ice-breaking c... View Network Cited View All Maurizio Collu University of Strathclyde Carlos Guedes Soares University of Lisbon Hamid Montazeri Eindhoven University of Technology Michael Borg BORG R&D Lorenzo Battisti University of Trento Cited By View All Asoke K Nandi Brunel University London N.N. Ekere Liverpool John Moores University Dai Zhou Shanghai Jiao Tong University Zheng Liu University of British Columbia - Okanagan Musa Bashir Current institution University of Liverpool School of Engineering Liverpool, United Kingdom Current position Research Fellow Current journal roles Peer Reviewer Engineering Applications of Artificial Intelligence Engineering Applications of Artificial Intelligence Reliability Engineering & System Safety Reliability Engineering & System Safety Applied Intelligence Applied Intelligence Mechanical Systems and Signal Processing Mechanical Systems and Signal Processing IEEE Transactions on Industrial Informatics IEEE Transactions on Industrial Informatics +3 more journals Guest Editor Applied Sciences Applied Sciences Measurement Science and Technology Measurement Science and Technology Associate Editor Applied Intelligence Applied Intelligence Co-authors Top co-authors Weipao Miao University of Shanghai for Science and Technology Yang Yang Ningbo University Chang Cai Institute of Engineering Thermophysics, Chinese Academy of Sciences Guangqi Qiu Jiangxi University of Science and Technology Nanting Yu All co-authors (50) View All Zhou Ye Department Department of Anesthesiology (The First Hospital Affiliated to Soochow University) He Li Department School of Engineering Chun Li Department Department of Thermal Energy and Power Engineering (Energy and Environmental Engineering) Kerr Ye Department School of Computer Science Peng Huang Department School of Mechanical and Electrical Engineering Xiaohui Zhong Department College of Metallurgy and Energy Qingsong Liu Department Mechanical Engineering and Materials Research Centre (MEMARC) N.N. Ekere Department School of Engineering, Technology and Maritime Operations Minnan Yue Department Institute of Fluid Mechanics Musa Bashir Carlos Guedes Soares Department Centre for Marine Technology and Ocean Engineering (CENTEC) Wanfu Zhang Department School of Energy and Power Engineering Jin Wang Jianzhong Xu C. Li Kehua Ye Advertisement Join ResearchGate to find the people and research you need to help your work 25+ million members 160+ million publication pages 2.3+ billion citations Join for free",
+  "links": [
+    {
+      "url": "https://www.researchgate.net/",
+      "text": "Home"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Liverpool",
+      "text": "University of Liverpool"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Liverpool",
+      "text": "University of Liverpool | UoL\u00a0\u00b7\u00a0School of Engineering"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=rV03UEczEE__Cdm4q3yl6TiPs6sO69bKYNULVuDWEkF_7M33MvzdbZaKk0PQlbxNG0OK-ZoBl529cg",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=rV03UEczEE__Cdm4q3yl6TiPs6sO69bKYNULVuDWEkF_7M33MvzdbZaKk0PQlbxNG0OK-ZoBl529cg",
+      "text": "Log in"
+    },
+    {
+      "url": "https://explore.researchgate.net/display/support/Reads",
+      "text": "Learn more"
+    },
+    {
+      "url": "topic/Signal-Processing",
+      "text": "Signal Processing"
+    },
+    {
+      "url": "topic/Fault-Diagnosis",
+      "text": "Fault Diagnosis"
+    },
+    {
+      "url": "search.Search.html?type=question&query=Prognostics%20and%20Health%20Management",
+      "text": "Prognostics and Health Management"
+    },
+    {
+      "url": "topic/Advanced-Machine-Learning",
+      "text": "Advanced Machine Learning"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/Liverpool_John_Moores_University",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/Liverpool_John_Moores_University",
+      "text": "Liverpool John Moores University"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/Liverpool_John_Moores_University",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/Liverpool_John_Moores_University",
+      "text": "Liverpool John Moores University"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Shanghai_for_Science_and_Technology",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Shanghai_for_Science_and_Technology",
+      "text": "University of Shanghai for Science and Technology"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355518358_Fault_diagnosis_of_wind_turbine_bearing_using_a_multi-scale_convolutional_neural_network_with_bidirectional_long_short_term_memory_and_weighted_majority_voting_for_multi-sensors",
+      "text": "Fault diagnosis of wind turbine bearing using a multi-scale convolutional neural network with bidirectional long short term memory and weighted majority voting for multi-sensors"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Xuan-Mei-2194911029",
+      "text": "Xuan Mei"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Xinyu-Wang-2205093790",
+      "text": "Xinyu Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355518358_Fault_diagnosis_of_wind_turbine_bearing_using_a_multi-scale_convolutional_neural_network_with_bidirectional_long_short_term_memory_and_weighted_majority_voting_for_multi-sensors",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/346431374_Fault_diagnosis_of_rolling_bearings_using_an_Improved_Multi-Scale_Convolutional_Neural_Network_with_Feature_Attention_mechanism",
+      "text": "Fault diagnosis of rolling bearings using an Improved Multi-Scale Convolutional Neural Network with Feature Attention mechanism"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/346431374_Fault_diagnosis_of_rolling_bearings_using_an_Improved_Multi-Scale_Convolutional_Neural_Network_with_Feature_Attention_mechanism",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342817672_Hydrodynamic_characteristics_of_forced_oscillation_of_heave_plate_with_fractal_characteristics_based_on_floating_wind_turbine_platform",
+      "text": "Hydrodynamic characteristics of forced oscillation of heave plate with fractal characteristics based on floating wind turbine platform"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Bo-Wang-2195202228",
+      "text": "Bo Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Qinwei-Ding-2122972987",
+      "text": "Qinwei Ding"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342817672_Hydrodynamic_characteristics_of_forced_oscillation_of_heave_plate_with_fractal_characteristics_based_on_floating_wind_turbine_platform",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342791983_Fault_diagnosis_of_rolling_bearing_of_wind_turbines_based_on_the_Variational_Mode_Decomposition_and_Deep_Convolutional_Neural_Networks",
+      "text": "Fault diagnosis of rolling bearing of wind turbines based on the Variational Mode Decomposition and Deep Convolutional Neural Networks"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342791983_Fault_diagnosis_of_rolling_bearing_of_wind_turbines_based_on_the_Variational_Mode_Decomposition_and_Deep_Convolutional_Neural_Networks",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388601275_Nature-inspired_innovative_platform_designs_for_optimized_performance_of_Floating_vertical_Axis_wind_turbines",
+      "text": "Nature-inspired innovative platform designs for optimized performance of Floating vertical Axis wind turbines"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Haoda-Huang-2239151266",
+      "text": "Haoda Huang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388601275_Nature-inspired_innovative_platform_designs_for_optimized_performance_of_Floating_vertical_Axis_wind_turbines",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/387925495_Aerodynamic_Performance_Investigation_of_Vertical_Axis_Wind_Turbine_Based_on_Composite_Flow_Control_Technique_Slot_Blade_Integrated_with_Active_Flap_Control",
+      "text": "Aerodynamic Performance Investigation of Vertical Axis Wind Turbine Based on Composite Flow Control Technique: Slot Blade Integrated with Active Flap Control"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Huahao-Ou-2302505540",
+      "text": "Huahao Ou"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Weipao-Miao-2302520326",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/387925495_Aerodynamic_Performance_Investigation_of_Vertical_Axis_Wind_Turbine_Based_on_Composite_Flow_Control_Technique_Slot_Blade_Integrated_with_Active_Flap_Control",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388507924_A_novel_bearing_remaining_useful_life_prediction_methodology_with_slope-based_change_point_detection_and_WOA-Attention-BiLSTM_model",
+      "text": "A novel bearing remaining useful life prediction methodology with slope-based change point detection and WOA-Attention-BiLSTM model"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Guangqi-Qiu",
+      "text": "Guangqi Qiu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Binlu-Ye-2304179165",
+      "text": "Binlu Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yingkui-Gu-2133384221",
+      "text": "Yingkui Gu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388507924_A_novel_bearing_remaining_useful_life_prediction_methodology_with_slope-based_change_point_detection_and_WOA-Attention-BiLSTM_model",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/385455216_Early_anomaly_detection_of_wind_turbine_gearbox_based_on_SLFormer_neural_network",
+      "text": "Early anomaly detection of wind turbine gearbox based on SLFormer neural network"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Zekun-Wang-2191274484",
+      "text": "Zekun Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Xue-Jiang-2232249916",
+      "text": "Xue Jiang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Qing-an-Li-2269794641",
+      "text": "Qing 'an Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/385455216_Early_anomaly_detection_of_wind_turbine_gearbox_based_on_SLFormer_neural_network",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384500862_Physics-informed_probabilistic_deep_network_with_interpretable_mechanism_for_trustworthy_mechanical_fault_diagnosis",
+      "text": "Physics-informed probabilistic deep network with interpretable mechanism for trustworthy mechanical fault diagnosis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kaicheng-Zhao-2247650581",
+      "text": "Kaicheng Zhao"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Jin-Wang-10902490",
+      "text": "Jin Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384500862_Physics-informed_probabilistic_deep_network_with_interpretable_mechanism_for_trustworthy_mechanical_fault_diagnosis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384508362_Investigation_of_aero-hydro-elastic-mooring_behavior_of_a_H-type_floating_vertical_axis_wind_turbine_using_coupled_CFD-FEM_method",
+      "text": "Investigation of aero-hydro-elastic-mooring behavior of a H-type floating vertical axis wind turbine using coupled CFD-FEM method."
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Gregorio-Iglesias-2288630950",
+      "text": "Gregorio Iglesias"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384508362_Investigation_of_aero-hydro-elastic-mooring_behavior_of_a_H-type_floating_vertical_axis_wind_turbine_using_coupled_CFD-FEM_method",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/382256434_Dynamic_analysis_of_an_improved_shared_moorings_for_floating_offshore_wind_farm",
+      "text": "Dynamic analysis of an improved shared moorings for floating offshore wind farm"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Lu-Xie-2286921015",
+      "text": "Lu Xie"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Minnan-Yue",
+      "text": "Minnan Yue"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yangtian-Yan-2199383143",
+      "text": "Yangtian Yan"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/382256434_Dynamic_analysis_of_an_improved_shared_moorings_for_floating_offshore_wind_farm",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384410640_Nature-Inspired_Innovative_Platform_Designs_for_Optimized_Performance_of_Floating_Vertical_Axis_Wind_Turbines",
+      "text": "Nature-Inspired Innovative Platform Designs for Optimized Performance of Floating Vertical Axis Wind Turbines"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Haoda-Huang-2239151266",
+      "text": "Haoda Huang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384410640_Nature-Inspired_Innovative_Platform_Designs_for_Optimized_Performance_of_Floating_Vertical_Axis_Wind_Turbines",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376126214_Optimized_design_of_wind_turbine_airfoil_aerodynamic_performance_and_structural_strength_based_on_surrogate_model",
+      "text": "Optimized design of wind turbine airfoil aerodynamic performance and structural strength based on surrogate model"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Qiang-Zhang-2237338343",
+      "text": "Qiang Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Minnan-Yue",
+      "text": "Minnan Yue"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376126214_Optimized_design_of_wind_turbine_airfoil_aerodynamic_performance_and_structural_strength_based_on_surrogate_model",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376836970_Rolling_Bearing_Fault_Diagnosis_Method_using_Time-Frequency_Information_Integration_and_Multi-Scale_TransFusion_Network",
+      "text": "Rolling Bearing Fault Diagnosis Method using Time-Frequency Information Integration and Multi-Scale TransFusion Network"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Zekun-Wang-2191274484",
+      "text": "Zekun Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chang-Cai-13",
+      "text": "Chang Cai"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Qing-an-Li-2269794641",
+      "text": "Qing 'an Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376836970_Rolling_Bearing_Fault_Diagnosis_Method_using_Time-Frequency_Information_Integration_and_Multi-Scale_TransFusion_Network",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/375280918_Fault_diagnosis_of_rolling_bearing_using_CNN_and_PCA_fractal_based_feature_extraction",
+      "text": "Fault diagnosis of rolling bearing using CNN and PCA fractal based feature extraction"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kaicheng-Zhao-2247650581",
+      "text": "Kaicheng Zhao"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Junqing-Xiao-2247633218",
+      "text": "Junqing Xiao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Minnan-Yue",
+      "text": "Minnan Yue"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/375280918_Fault_diagnosis_of_rolling_bearing_using_CNN_and_PCA_fractal_based_feature_extraction",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/366933755_Dynamic_response_analysis_of_floating_wind_turbine_platform_in_local_fatigue_of_mooring",
+      "text": "Dynamic response analysis of floating wind turbine platform in local fatigue of mooring"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kang-Sun-2198739574",
+      "text": "Kang Sun"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Shujun-Li-2240448745",
+      "text": "Shujun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/366933755_Dynamic_response_analysis_of_floating_wind_turbine_platform_in_local_fatigue_of_mooring",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-framework-of-MSMHA-AED-for-HI-construction_fig1_367073462",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-framework-of-the-proposed-bearing-prognostic-approach-using-the-MSMHA-AED-model-As_fig2_367073462",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-Comparison-of-different-HI-construction-methods_tbl1_367073462",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-prognostic-performance_tbl2_367073462",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/367073462_A_Novel_Health_Indicator_for_Intelligent_Prediction_of_Rolling_Bearing_Remaining_Useful_Life_based_on_Unsupervised_Learning_Model",
+      "text": "A Novel Health Indicator for Intelligent Prediction of Rolling Bearing Remaining Useful Life based on Unsupervised Learning Model"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Nn-Ekere",
+      "text": "N.N. Ekere"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/367073462_A_Novel_Health_Indicator_for_Intelligent_Prediction_of_Rolling_Bearing_Remaining_Useful_Life_based_on_Unsupervised_Learning_Model",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365882257_Recommendation_for_strut_designs_of_vertical_axis_wind_turbines_Effects_of_strut_profiles_and_connecting_configurations_on_the_aerodynamic_performance",
+      "text": "Recommendation for strut designs of vertical axis wind turbines: Effects of strut profiles and connecting configurations on the aerodynamic performance"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Qiang-Zhang-2237338343",
+      "text": "Qiang Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zhou-Ye-8",
+      "text": "Zhou Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365882257_Recommendation_for_strut_designs_of_vertical_axis_wind_turbines_Effects_of_strut_profiles_and_connecting_configurations_on_the_aerodynamic_performance",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373408326_Collaborative_Fault_Diagnosis_of_Wind_Turbine_Gearbox_Based_on_Probabilistic_Neural_Network_with_Decision_Information_Fusion",
+      "text": "Collaborative Fault Diagnosis of Wind Turbine Gearbox Based on Probabilistic Neural Network with Decision Information Fusion"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kang-Sun-2198739574",
+      "text": "Kang Sun"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373408326_Collaborative_Fault_Diagnosis_of_Wind_Turbine_Gearbox_Based_on_Probabilistic_Neural_Network_with_Decision_Information_Fusion",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Monotonicity-of-the-quantified-damage-using-three-models_fig1_365836885",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Cont_fig2_365836885",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Damage-quantification-by-Euclidean-similarity-a-Surge-acceleration-under-4-m-s_fig3_365836885",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Cont_fig4_365836885",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-of-different-similarity-functions-a-Under-4-m-s-measured-by-C-b-Under_fig5_365836885",
+      "text": "+4"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365836885_Data-Driven_Damage_Quantification_of_Floating_Offshore_Wind_Turbine_Platforms_Based_on_Multi-Scale_Encoder-Decoder_with_Self-Attention",
+      "text": "Data-Driven Damage Quantification of Floating Offshore Wind Turbine Platforms Based on Multi-Scale Encoder-Decoder with Self-Attention"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Jin-Wang-10902490",
+      "text": "Jin Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Carlos-Guedes-Soares",
+      "text": "Carlos Guedes Soares"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365836885_Data-Driven_Damage_Quantification_of_Floating_Offshore_Wind_Turbine_Platforms_Based_on_Multi-Scale_Encoder-Decoder_with_Self-Attention",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/364255128_Aerodynamic_and_aeroacoustic_performance_assessment_of_a_vertical_axis_wind_turbine_by_synergistic_effect_of_blowing_and_suction",
+      "text": "Aerodynamic and aeroacoustic performance assessment of a vertical axis wind turbine by synergistic effect of blowing and suction"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/364255128_Aerodynamic_and_aeroacoustic_performance_assessment_of_a_vertical_axis_wind_turbine_by_synergistic_effect_of_blowing_and_suction",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Flowchart-of-F2A-Module_fig1_363252503",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-flowchart-of-the-proposed-MS-ACNN-MWV-for-FOWT-fault-detection-The-operating_fig2_363252503",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Schematic-of-tendon-configurations-in-a-multibody-FOWT-platform_fig3_363252503",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-of-anti-noise-assessments-for-diagnosis-methods_fig4_363252503",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363252503_Multisensory_collaborative_damage_diagnosis_of_a_10MW_floating_offshore_wind_turbine_tendons_using_multi-scale_convolutional_neural_network_with_attention_mechanism",
+      "text": "Multisensory collaborative damage diagnosis of a 10MW floating offshore wind turbine tendons using multi-scale convolutional neural network with attention mechanism"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363252503_Multisensory_collaborative_damage_diagnosis_of_a_10MW_floating_offshore_wind_turbine_tendons_using_multi-scale_convolutional_neural_network_with_attention_mechanism",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363016544_Investigation_of_the_aerodynamic_characteristics_of_horizontal_axis_wind_turbine_using_an_active_flow_control_method_via_boundary_layer_suction",
+      "text": "Investigation of the aerodynamic characteristics of horizontal axis wind turbine using an active flow control method via boundary layer suction"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Peilin-Wang-2198724102",
+      "text": "Peilin Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363016544_Investigation_of_the_aerodynamic_characteristics_of_horizontal_axis_wind_turbine_using_an_active_flow_control_method_via_boundary_layer_suction",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Procedure-for-solving-weights-in-the-weighted-soft-voting-rule-module-As-shown-in-Figure_fig2_361542289",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-of-anti-noise-robustness-for-model-As-shown-in-Figure-8-when-the-test_fig3_361542289",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Scores-calculated-by-multi-attention-block-1-for-a-range-of-gearbox-conditions-To-further_fig4_361542289",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Mechanism-of-weighted-soft-voting-rule-in-Multi-Attention-As-shown-in-Figure-11-scale-1_fig5_361542289",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Figure1-An-illustration-of-Hybrid-MS-Block-As-shown-in-Figure-1-two-multi-scale-MS_fig1_361542289",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/361542289_An_Intelligent_Fault_Diagnosis_for_Machine_Maintenance_using_Weighted_Soft-Voting_Rule_based_Multi-Attention_Module_with_Multi-Scale_Information_Fusion",
+      "text": "An Intelligent Fault Diagnosis for Machine Maintenance using Weighted Soft-Voting Rule based Multi-Attention Module with Multi-Scale Information Fusion"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Wanfu-Zhang",
+      "text": "Wanfu Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Chun-Li-2236426924",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/361542289_An_Intelligent_Fault_Diagnosis_for_Machine_Maintenance_using_Weighted_Soft-Voting_Rule_based_Multi-Attention_Module_with_Multi-Scale_Information_Fusion",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/357300751_A_comprehensive_analysis_of_blade_tip_for_vertical_axis_wind_turbine_Aerodynamics_and_the_tip_loss_effect",
+      "text": "A comprehensive analysis of blade tip for vertical axis wind turbine: Aerodynamics and the tip loss effect"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Wanfu-Zhang",
+      "text": "Wanfu Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/357300751_A_comprehensive_analysis_of_blade_tip_for_vertical_axis_wind_turbine_Aerodynamics_and_the_tip_loss_effect",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-10-MW-TELWIND-wind-turbine_fig1_356068832",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-flowchart-of-the-VMD-CNN-based-damage-detection-system-for-FOWT-tendon_fig2_356068832",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Details-of-10-MW-FOWT-mooring-system-damage-magnitude-detection_tbl1_356068832",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-optimal-parameters-for-tendon-2-tendon-4-and-tendon-6_tbl2_356068832",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/356068832_TENDON_DAMAGE_DETECTION_OF_10MW_FLOATING_OFFSHORE_WIND_TURBINES_BASED_ON_CONVOLUTIONAL_NEURAL_NETWORK_WITH_OPTIMIZED_VARIATIONAL_MODE_DECOMPOSITION",
+      "text": "TENDON DAMAGE DETECTION OF 10MW FLOATING OFFSHORE WIND TURBINES BASED ON CONVOLUTIONAL NEURAL NETWORK WITH OPTIMIZED VARIATIONAL MODE DECOMPOSITION"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/356068832_TENDON_DAMAGE_DETECTION_OF_10MW_FLOATING_OFFSHORE_WIND_TURBINES_BASED_ON_CONVOLUTIONAL_NEURAL_NETWORK_WITH_OPTIMIZED_VARIATIONAL_MODE_DECOMPOSITION",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/367904356_Fault_Diagnosis_of_Wind_Turbine_Bearing_Using_a_Multi-Scale_Convolutional_Neural_Network_for_Multi-Sensors",
+      "text": "Fault Diagnosis of Wind Turbine Bearing Using a Multi-Scale Convolutional Neural Network for Multi-Sensors"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Xinyu-Wang-2205093790",
+      "text": "Xinyu Wang"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Jiangtao-Jin-2205053380",
+      "text": "Jiangtao Jin"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/367904356_Fault_Diagnosis_of_Wind_Turbine_Bearing_Using_a_Multi-Scale_Convolutional_Neural_Network_for_Multi-Sensors",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/332831324_Research_on_influence_of_ice-induced_vibration_on_offshore_wind_turbines",
+      "text": "Research on influence of ice-induced vibration on offshore wind turbines"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kehua-Ye-2114102404",
+      "text": "Kehua Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/332831324_Research_on_influence_of_ice-induced_vibration_on_offshore_wind_turbines",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330656162_Influences_of_the_cone_structure_of_a_monopile_offshore_wind_turbine_on_its_dynamic_responses_under_ice_loading_condition",
+      "text": "Influences of the cone structure of a monopile offshore wind turbine on its dynamic responses under ice loading condition"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Kerr-Ye",
+      "text": "Kerr Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/C-Li-2083025047",
+      "text": "C. Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330656162_Influences_of_the_cone_structure_of_a_monopile_offshore_wind_turbine_on_its_dynamic_responses_under_ice_loading_condition",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330344090_Analysis_on_Anti-ice_Performance_of_Offshore_Wind_Turbines_with_Ice_Breaking_Cone",
+      "text": "Analysis on Anti-ice Performance of Offshore Wind Turbines with Ice Breaking Cone"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Zifei-Xu-3",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Kerr-Ye",
+      "text": "Kerr Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/C-Li-2083025047",
+      "text": "C. Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330344090_Analysis_on_Anti-ice_Performance_of_Offshore_Wind_Turbines_with_Ice_Breaking_Cone",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/324090451_Floating_Ice_Load_Reduction_of_Offshore_Wind_Turbines_by_Two_Approaches",
+      "text": "Floating Ice Load Reduction of Offshore Wind Turbines by Two Approaches"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Kehua-Ye-2114102404",
+      "text": "Kehua Ye"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Fudong-Chen-2140537478",
+      "text": "Fudong Chen"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Junwei-Zhang-2140552974",
+      "text": "Junwei Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/324090451_Floating_Ice_Load_Reduction_of_Offshore_Wind_Turbines_by_Two_Approaches",
+      "text": "View"
+    },
+    {
+      "url": "profile/Maurizio-Collu",
+      "text": ""
+    },
+    {
+      "url": "profile/Maurizio-Collu",
+      "text": "Maurizio Collu"
+    },
+    {
+      "url": "profile/Carlos-Guedes-Soares",
+      "text": ""
+    },
+    {
+      "url": "profile/Carlos-Guedes-Soares",
+      "text": "Carlos Guedes Soares"
+    },
+    {
+      "url": "profile/Hamid-Montazeri",
+      "text": ""
+    },
+    {
+      "url": "profile/Hamid-Montazeri",
+      "text": "Hamid Montazeri"
+    },
+    {
+      "url": "profile/Michael-Borg-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Michael-Borg-3",
+      "text": "Michael Borg"
+    },
+    {
+      "url": "profile/Lorenzo-Battisti-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Lorenzo-Battisti-2",
+      "text": "Lorenzo Battisti"
+    },
+    {
+      "url": "profile/Asoke-Nandi",
+      "text": ""
+    },
+    {
+      "url": "profile/Asoke-Nandi",
+      "text": "Asoke K Nandi"
+    },
+    {
+      "url": "profile/Nn-Ekere",
+      "text": ""
+    },
+    {
+      "url": "profile/Nn-Ekere",
+      "text": "N.N. Ekere"
+    },
+    {
+      "url": "profile/Dai-Zhou-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Dai-Zhou-2",
+      "text": "Dai Zhou"
+    },
+    {
+      "url": "profile/Zheng-Liu-48",
+      "text": ""
+    },
+    {
+      "url": "profile/Zheng-Liu-48",
+      "text": "Zheng Liu"
+    },
+    {
+      "url": "profile/Musa-Bashir",
+      "text": ""
+    },
+    {
+      "url": "profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Liverpool",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University_of_Liverpool",
+      "text": "University of Liverpool"
+    },
+    {
+      "url": "profile/Weipao-Miao",
+      "text": ""
+    },
+    {
+      "url": "profile/Weipao-Miao",
+      "text": "Weipao Miao"
+    },
+    {
+      "url": "profile/Yang-Yang-154",
+      "text": ""
+    },
+    {
+      "url": "profile/Yang-Yang-154",
+      "text": "Yang Yang"
+    },
+    {
+      "url": "profile/Chang-Cai-13",
+      "text": ""
+    },
+    {
+      "url": "profile/Chang-Cai-13",
+      "text": "Chang Cai"
+    },
+    {
+      "url": "profile/Guangqi-Qiu",
+      "text": ""
+    },
+    {
+      "url": "profile/Guangqi-Qiu",
+      "text": "Guangqi Qiu"
+    },
+    {
+      "url": "profile/Nanting-Yu-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Nanting-Yu-2",
+      "text": "Nanting Yu"
+    },
+    {
+      "url": "profile/Zhou-Ye-8",
+      "text": ""
+    },
+    {
+      "url": "profile/Zhou-Ye-8",
+      "text": ""
+    },
+    {
+      "url": "profile/Zhou-Ye-8",
+      "text": "Zhou Ye"
+    },
+    {
+      "url": "profile/He-Li-42",
+      "text": ""
+    },
+    {
+      "url": "profile/He-Li-42",
+      "text": ""
+    },
+    {
+      "url": "profile/He-Li-42",
+      "text": "He Li"
+    },
+    {
+      "url": "profile/Chun-Li-44",
+      "text": ""
+    },
+    {
+      "url": "profile/Chun-Li-44",
+      "text": ""
+    },
+    {
+      "url": "profile/Chun-Li-44",
+      "text": "Chun Li"
+    },
+    {
+      "url": "profile/Kerr-Ye",
+      "text": ""
+    },
+    {
+      "url": "profile/Kerr-Ye",
+      "text": ""
+    },
+    {
+      "url": "profile/Kerr-Ye",
+      "text": "Kerr Ye"
+    },
+    {
+      "url": "profile/Peng-Huang-51",
+      "text": ""
+    },
+    {
+      "url": "profile/Peng-Huang-51",
+      "text": ""
+    },
+    {
+      "url": "profile/Peng-Huang-51",
+      "text": "Peng Huang"
+    },
+    {
+      "url": "profile/Xiaohui-Zhong-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Xiaohui-Zhong-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Xiaohui-Zhong-3",
+      "text": "Xiaohui Zhong"
+    },
+    {
+      "url": "profile/Qingsong-Liu-16",
+      "text": ""
+    },
+    {
+      "url": "profile/Qingsong-Liu-16",
+      "text": ""
+    },
+    {
+      "url": "profile/Qingsong-Liu-16",
+      "text": "Qingsong Liu"
+    },
+    {
+      "url": "profile/Nn-Ekere",
+      "text": ""
+    },
+    {
+      "url": "profile/Nn-Ekere",
+      "text": ""
+    },
+    {
+      "url": "profile/Nn-Ekere",
+      "text": "N.N. Ekere"
+    },
+    {
+      "url": "profile/Minnan-Yue",
+      "text": ""
+    },
+    {
+      "url": "profile/Minnan-Yue",
+      "text": ""
+    },
+    {
+      "url": "profile/Minnan-Yue",
+      "text": "Minnan Yue"
+    },
+    {
+      "url": "profile/Musa-Bashir",
+      "text": ""
+    },
+    {
+      "url": "profile/Musa-Bashir",
+      "text": ""
+    },
+    {
+      "url": "profile/Musa-Bashir",
+      "text": "Musa Bashir"
+    },
+    {
+      "url": "profile/Carlos-Guedes-Soares",
+      "text": ""
+    },
+    {
+      "url": "profile/Carlos-Guedes-Soares",
+      "text": ""
+    },
+    {
+      "url": "profile/Carlos-Guedes-Soares",
+      "text": "Carlos Guedes Soares"
+    },
+    {
+      "url": "profile/Wanfu-Zhang",
+      "text": ""
+    },
+    {
+      "url": "profile/Wanfu-Zhang",
+      "text": ""
+    },
+    {
+      "url": "profile/Wanfu-Zhang",
+      "text": "Wanfu Zhang"
+    },
+    {
+      "url": "scientific-contributions/Jin-Wang-10902490",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jin-Wang-10902490",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jin-Wang-10902490",
+      "text": "Jin Wang"
+    },
+    {
+      "url": "scientific-contributions/Jianzhong-Xu-13100133",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jianzhong-Xu-13100133",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jianzhong-Xu-13100133",
+      "text": "Jianzhong Xu"
+    },
+    {
+      "url": "scientific-contributions/C-Li-2083025047",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/C-Li-2083025047",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/C-Li-2083025047",
+      "text": "C. Li"
+    },
+    {
+      "url": "scientific-contributions/Kehua-Ye-2114102404",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Kehua-Ye-2114102404",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Kehua-Ye-2114102404",
+      "text": "Kehua Ye"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FZifei-Xu-3%3FsendMessage%3D1&_sg=6QCqATs2JAC2emiP-ON3KcHf-cLq6lvBDncUcAENR-D0B26lxhS-gRzwDdEwrhgkHYO0bZxyQ69Y1A",
+      "text": "Log in"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FZifei-Xu-3%3FsendMessage%3D1&_sg=6QCqATs2JAC2emiP-ON3KcHf-cLq6lvBDncUcAENR-D0B26lxhS-gRzwDdEwrhgkHYO0bZxyQ69Y1A",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html?ev=su_profileMessage&_sg=RV2LKjl6i4Nic9XYO2vK2KOA5XAHFd8cO3zj0hoNWi-vSkR-mOJDoDc0fpgsIPh1Igl2UdwCu5HkMRDLWAygZXpEe2w",
+      "text": "Join for free"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281277045803-1725917087754_Q128/Zifei-Xu-3.jpg",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267455396548681%401440777743894_m",
+      "alt": "Liverpool John Moores University"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267455396548681%401440777743894_m",
+      "alt": "Liverpool John Moores University"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267469405523968%401440781083019_m",
+      "alt": "University of Shanghai for Science and Technology"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xuan Mei"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xinyu Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Bo Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qinwei Ding"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Haoda Huang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Huahao Ou"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Guangqi Qiu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Binlu Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yingkui Gu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zekun Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xue Jiang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qing 'an Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kaicheng Zhao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jin Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Gregorio Iglesias"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lu Xie"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Minnan Yue"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yangtian Yan"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Haoda Huang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qiang Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Minnan Yue"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zekun Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chang Cai"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qing 'an Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kaicheng Zhao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Junqing Xiao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Minnan Yue"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kang Sun"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Shujun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 2: The framework of MSMHA-AED for HI construction"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 3: The framework of the proposed bearing prognostic approach..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "The Comparison of different HI construction methods"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "The prognostic performance"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "N.N. Ekere"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qiang Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zhou Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kang Sun"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 7. Monotonicity of the quantified damage using three models."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 8. Cont."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 8. Damage quantification by Euclidean similarity. (a) Surge..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 9. Cont."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 9. Comparison of different similarity functions. (a) Under 4..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jin Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Carlos Guedes Soares"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 2: Flowchart of F2A Module"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 5: The flowchart of the proposed MS-ACNN-MWV for FOWT fault..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 6: Schematic of tendon configurations in a multibody FOWT platform"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 8: Comparison of anti-noise assessments for diagnosis methods."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Peilin Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 2: Procedure for solving weights in the weighted soft-voting..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 8: Comparison of anti-noise robustness for model As shown in..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 10: Scores calculated by multi-attention block 1 for a range of..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 11: Mechanism of weighted soft-voting rule in Multi-Attention As..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure:1 An illustration of Hybrid MS Block As shown in Figure 1, two..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Wanfu Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Wanfu Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 1: The 10 MW TELWIND wind turbine"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 4: The flowchart of the VMD-CNN-based damage detection system..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Details of 10 MW FOWT mooring system damage magnitude detection"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "The optimal parameters for tendon 2, tendon 4 and tendon 6"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xinyu Wang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jiangtao Jin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kehua Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kerr Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "C. Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zifei Xu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kerr Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "C. Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kehua Ye"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fudong Chen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Junwei Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Maurizio Collu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Carlos Guedes Soares"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Hamid Montazeri"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Borg"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lorenzo Battisti"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Asoke K Nandi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "N.N. Ekere"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Dai Zhou"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Zheng Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A11431281306701886%401738345076610_m",
+      "alt": "University of Liverpool"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Weipao Miao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yang Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Chang Cai"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Guangqi Qiu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Nanting Yu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Zhou Ye"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Zhou Ye"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/716089797382144-1547740520348_Q64/He-Li-42.jpg",
+      "alt": "He Li"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/716089797382144-1547740520348_Q64/He-Li-42.jpg",
+      "alt": "He Li"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/780283854991364-1563045576668_Q64/Chun-Li-44.jpg",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/780283854991364-1563045576668_Q64/Chun-Li-44.jpg",
+      "alt": "Chun Li"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Kerr Ye"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Kerr Ye"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/1100134922371075-1639304013927_Q64/Peng-Huang-51.jpg",
+      "alt": "Peng Huang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/1100134922371075-1639304013927_Q64/Peng-Huang-51.jpg",
+      "alt": "Peng Huang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/599946088677376-1520049702040_Q64/Xiaohui-Zhong-3.jpg",
+      "alt": "Xiaohui Zhong"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/599946088677376-1520049702040_Q64/Xiaohui-Zhong-3.jpg",
+      "alt": "Xiaohui Zhong"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Qingsong Liu"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/655974708826115-1533407966742_Q64/Nn-Ekere.jpg",
+      "alt": "N.N. Ekere"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/655974708826115-1533407966742_Q64/Nn-Ekere.jpg",
+      "alt": "N.N. Ekere"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281228824955-1710232348767_Q64/Minnan-Yue.jpg",
+      "alt": "Minnan Yue"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281228824955-1710232348767_Q64/Minnan-Yue.jpg",
+      "alt": "Minnan Yue"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Musa Bashir"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/272204751437849-1441910078365_Q64/Carlos-Guedes-Soares.jpg",
+      "alt": "Carlos Guedes Soares"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/272204751437849-1441910078365_Q64/Carlos-Guedes-Soares.jpg",
+      "alt": "Carlos Guedes Soares"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/311181334515712-1451202819162_Q64/Wanfu-Zhang.jpg",
+      "alt": "Wanfu Zhang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/311181334515712-1451202819162_Q64/Wanfu-Zhang.jpg",
+      "alt": "Wanfu Zhang"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jin Wang"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jin Wang"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jianzhong Xu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jianzhong Xu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "C. Li"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "C. Li"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Kehua Ye"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Kehua Ye"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/420699284191573/images/symbols/svg/classification-academic.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/415447567661256/images/symbols/svg/classification-corporate.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/44240833271040/images/symbols/svg/classification-medical.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/41625716582999/images/symbols/svg/classification-notresearcher.svg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+  navigation
+            The Stanford Natural Language Processing Group
+            The Stanford NLP Group
+              [people](/people/)
+              [publications](/pubs/)
+              old url: /blog/
+              [research blog](https://ai.stanford.edu/blog/nlp/)
+              [software](/software/)
+              [teaching](/teaching/)
+              [join](/prospective/)
+              [local](/new_local/)
+              <a href="http://nlp.stanford.edu/local/">local</a>
+        /.navbar-collapse
+          People
+          <div class="headline top">People</div>
+          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12" style="border-right: 1px solid #ccc;">
+            <img src="/static/img/group-photo.jpg" class="img-responsive img-rounded">
+              Professors
+                    Chris Manning
+                  Linguistics & Computer Science
+                    Dan Jurafsky
+                    Percy Liang
+                  Computer Science
+                    Chris Potts
+                  Linguistics
+                    Tatsunori Hashimoto
+                    Monica Lam
+                    Diyi Yang
+              Affiliated Professors
+                    Noah Goodman
+                  Psychology & Computer Science
+                    Douwe Kiela
+                  Symbolic Systems
+                    Dora Demszky
+                  Graduate School of Education
+                    Tengyu Ma
+                    Azalia Mirhoseini
+                    Laura Gwilliams
+                  Psychology
+                    Cory Shain
+                    Robert Hawkins
+                    Ludwig Schmidt
+              Postdocs
+                <img style="margin-left:auto;margin-right:auto;width:150px;height:150px;" src="/static/img/people/placeholder.jpg" class="img-responsive img-rounded">
+                    Martijn Bartelds
+                    Róbert Csordás
+                    Ian Covert
+                    Jan-Philipp Fränken
+                    Kristina Gligoric
+                    Jiaxin Pei
+                    Chen Shani
+                    Yu Sun
+                    Yuqing Wang
+                    Peter West
+              PhD Students
+                    Aryaman Arora
+                    Neil Band
+                    Rishi Bommasani
+                    Steven Cao
+                    Myra Cheng
+                    Yann Dubois
+                    Kefan Dong
+                    Moussa Doumbouya
+                    Steven Feng
+                  Antón de la Fuente
+                    Anna Goldie
+                    Emily Goodwin
+                    Hans Hanley
+                    Mike Hardy
+                    Adolfo Hermosillo
+                  Saminul Haque
+                    Jing Huang
+                    Qian Huang
+                    Ahmad Jabbar
+                    Sarang Jeong
+                    Jasper Jian
+                    Harshit Joshi
+                    Julie Kallini
+                    Siddharth Karamcheti
+                    Moo Jin Kim
+                    Rohith Kuditipudi
+                    Michael Li
+                    Hong Liu
+                    Ken Ziyu Liu
+                    Shicheng (George) Liu
+                    Xiang (Lisa) Li
+                    Nelson Liu
+                  Arvind Mahankali
+                    Shikhar Murty
+                    Tolúlọpẹ́ Ògúnrẹ̀mí
+                    Joon Sung Park
+                    Jaylen Pittman
+                    Gabriel Poesia
+                    Ben Prystawski
+                  Josh Rozner
+                    Jon Saad-Falcon
+                    Sina Semnani
+                    Shiori Sagawa
+                    Omar Shaikh
+                    Chenglei Si
+                  Dilara Soylu
+                    Megha Srivastava
+                    Mirac Suzgun
+                  Sheridan Stewart
+                    Marie-Emanuelle Tano
+                    Yuka Tatsumi
+                    Tristan Thrush
+                    Rose E. Wang
+                    Zhengxuan Wu
+                    Zitong Yang
+                    Erik Zelikman
+                    Tianyi Zhang
+                  Xikun Zhang
+                    Lucia Zheng
+                    Kaitlyn Zhou
+                    Tony Z. Zhou
+                    Caleb Ziems
+                    Yijia Shao
+                    Atlas Kazemian
+              Masters Students
+                    Nic Becker
+                    Ryan Chi
+                    Bryan Chia
+                    Abhinav Garg
+                    Chenchen Gu
+                    Pranav Jain
+                  Yucheng Jiang
+                    Samin Khan
+                    Suhas Kotha
+                    Chih-Ying Liu
+                  Praneeth Medepalli
+                    Ananjan Nandi
+                    Anjali Ragupathi
+                    Michael Ryan
+                    Kamyar Salahi
+                    Parth Sarthi
+                    Ji Hun Wang
+                    Violet Yao
+                  Andy Zhang
+              Undergraduate Students
+                    Thanawan (Ly-Ly) Atchariyachanvanit
+                  Michelle Bao
+                  Eli Browne
+                  Hung Bui
+                    Riley Carlson
+                  Sarah Chen
+                  Gordon Chi
+                    Nathan Chi
+                    Rohan Davidi
+                    Jasmine Gonzalez
+                  Nathan Kim
+                    Tae Kyu Kim
+                    Katherine Li
+                    Ting Lin
+                  Alberto Mancarella
+                    Kelvin  Nguyen
+                  Raj Palleti
+                    Abhay Singhal
+                    Kushal Thaman
+                    Pawan Wirawarn
+                    Lora Xie
+                    Houjun Liu
+                    Prady Saligram
+                    Jason Zhang
+              Visiting Scholars
+                    David Broman
+                  Gaku Morio
+                    Joel Niklaus
+                    Yangjun Ruan
+                  Mitsunori Toma
+                    Yanzhe Zhang
+              Staff
+                  John Bauer
+                    Yifan Mai
+              Alumni
+                Research Scientists
+                      [Michel Galley](http://www-nlp.stanford.edu/~mgalley)
+                      ,
+                    Microsoft Research
+                      [Ramesh Nallapati](http://www.cs.stanford.edu/~nmramesh/)
+                    IBM Research
+                      [Mihai Surdeanu](http://www.surdeanu.info/mihai/)
+                    Associate Professor, School of Information: Science, Technology and the Arts (SISTA), the University of Arizona
+                Ph.D. Students
+                      [Gabor Angeli](https://cs.stanford.edu/~angeli/)
+                    Square
+                      [Drew Arad Hudson](https://cs.stanford.edu/people/dorarad)
+                    Research Scientist, DeepMind
+                      [Sam Bowman](http://www.nyu.edu/projects/bowman/)
+                    Associate Professor in Linguistics and Data Science, NYU
+                    Reverie Ventures
+                      [Giovanni Campagna](https://gcampax.com)
+                    Bardeen
+                      [Hancheng Cao](http://hanchengcao.me/)
+                    Assistant Professor, Emory University
+                      [Juan Ignacio Cases Martin](https://www.linkedin.com/in/ignacio-cases/)
+                    Research Scientist at Orby AI
+                      [Arun Tejasvi Chaganty](http://arun.chagantys.org/)
+                    Google Research
+                      [Nate Chambers](http://www.usna.edu/Users/cs/nchamber/)
+                    Professor in Computer Science, the United States Naval Academy
+                      [Angel Chang](https://angelxuanchang.github.io)
+                    Assistant Professor, Simon Fraser University
+                      [Pi-Chuan Chang](https://research.google/people/pi-chuan-chang/)
+                    Google
+                      [Danqi Chen](https://www.cs.princeton.edu/~danqic/)
+                    Assistant Professor, Princeton University
+                      [Jason Chuang](https://www.linkedin.com/in/jcchuang/)
+                    Mozilla
+                      [Kevin Clark](http://cs.stanford.edu/~kevclark)
+                    Research Scientist, Google AI, Canada
+                      [Uriel Cohen Priva](http://blogs.brown.edu/ucohenpr/)
+                    Associate Professor of Cognitive, Linguistic, and Psychological Sciences, Brown University
+                    Assistant Professor of Education Data Science, School of Education, Stanford University
+                      [Timothy Dozat](https://www.linkedin.com/in/timothy-dozat-982770198)
+                      [Kawin Ethayarajh](https://kawine.github.io/)
+                    Postdoctoral fellow at Princeton Language and Intelligence (PLI)
+                      [Jenny Finkel](http://nlp.stanford.edu/jrfinkel/)
+                      [Roy Frostig](http://cs.stanford.edu/~rfrostig/)
+                      [Atticus Geiger](https://atticusg.github.io)
+                    Postdoctoral Researcher, Practical AI Alignment and Interpretability Research Group
+                      [Spence Green](http://www.spencegreen.com/)
+                    CEO of Lilt
+                      [Demi Guo](http://demiguo.org/)
+                      [Sonal Gupta](http://www.cs.stanford.edu/people/sonal/)
+                    Research Scientist, Facebook
+                      [Kelvin Guu](http://kelvinguu.com/)
+                      Statistics
+                    Research Scientist, Google AI
+                      [Michael Hahn](http://www.mhahn.info/)
+                    Tenure-Track Professor (W2) at Saarland Informatics Campus at Saarland University
+                      [Will Hamilton](https://williamleif.github.io/)
+                    Adjunct Professor of Computer Science at McGill, Senior Quantitative Researcher at Citadel LLC
+                      [Peter Henderson](https://www.peterhenderson.co/)
+                    Assistant Professor, Princeton
+                      [John Hewitt](https://nlp.stanford.edu/~johnhew)
+                    Visiting Researcher, Google DeepMind; Assistant Professor of Computer Science, Columbia University (2025-)
+                      [Jenny Hong](https://jennyhong.github.io/)
+                      Management Science and Engineering
+                    Research Scientist, Responsible AI at Meta
+                      [Dan Iter](https://www.linkedin.com/in/daniter/)
+                    Fastino
+                      [Robin Jia](http://stanford.edu/~robinjia/)
+                    Assistant Professor at USC
+                      [Pratyusha (Ria) Kalluri](https://riakalluri.com/)
+                      [Sepandar Kamvar](https://www.linkedin.com/in/sdk12345/)
+                      SCCM
+                      [Fereshte Khani](https://fereshte-khani.github.io)
+                    Senior Applied Scientist, Office of Applied Research, Microsoft
+                      [Omar Khattab](https://omarkhattab.com)
+                    Research Scientist, Databricks, and incoming Assistant Professor, MIT
+                      [Dan Klein](https://people.eecs.berkeley.edu/~klein/)
+                    Professor, Berkeley EECS
+                      [Pang Wei Koh](https://koh.pw)
+                    Senior Research Scientist, Google Seattle
+                      [Heeyoung Lee](https://www.linkedin.com/in/heeyoung-lee-7a2ab723/)
+                      Electrical Engineering
+                    at stealth startup
+                      [Elisa Kreiss](https://www.coalas-lab.com/elisakreiss)
+                    Assistant Professor, Department of Communication, UCLA
+                      [Urvashi Khandelwal](https://urvashik.github.io/)
+                    Google DeepMind
+                      [Ananya Kumar](https://ananyakumar.wordpress.com/)
+                    OpenAI
+                    Matthew Lamm,
+                      [Mina Lee](https://minalee-research.github.io/)
+                    Assistant Professor, Computer Science, University of Chicago
+                      [Roger Levy](https://www.mit.edu/~rplevy/)
+                    Professor, MIT BCS
+                      [Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/)
+                    Shannon.ai and Zhejiang University
+                      [Xuechen Li](https://www.lxuechen.com/)
+                      [Yiwei Luo](https://yiweiluo.github.io)
+                      [Thang Luong](https://nlp.stanford.edu/~lmthang/)
+                    Research Scientist, Google Brain
+                      [Bill MacCartney](http://nlp.stanford.edu/~wcmac/)
+                    Consulting Professor of Computer Science, Stanford University
+                      [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
+                    Professor, Université Catholique de Louvain, Belgium
+                      [Eric Mitchell](https://eric-mitchell.github.io)
+                      [Will Monroe](https://wmonroeiv.github.io/)
+                    Research Scientist, Duolingo
+                      [Rob Monarch](http://www.robertmunro.com/)
+                    Apple
+                      [Mehrad Moradshahi](https://www.linkedin.com/in/mehradmoradshahi/)
+                      [Jesse Mu](https://cs.stanford.edu/~muj/)
+                    Alignment Team, Anthropic
+                      [Isabel Papadimitriou](https://nlp.stanford.edu/~isabelvp/)
+                    Kempner Fellow, Harvard University; Assistant Professor of Linguistics, University of British Columbia (2025-)
+                      [Ashwin Paranjape](https://ashwinparanjape.github.io)
+                    Samaya AI
+                      [Panupong Pasupat](http://cs.stanford.edu/~ppasupat/)
+                    Research Scientist, Google
+                      [Eva Portelance](https://evaportelance.github.io/)
+                    Assistant Professor, Department of decision sciences, HEC Montréal
+                      [Reid Pryzant](https://www.linkedin.com/in/rpryzant/)
+                    AI Scientist, Freestone Grove Partners
+                      [Peng Qi](http://qipeng.me/)
+                    Amazon
+                      [Daniel Ramage](http://www.linkedin.com/profile/view?id=13798079)
+                      [Chetanya Rastogi](https://www.linkedin.com/in/chetanyarastogi)
+                    Brevian
+                      [Nay San](https://www.resunay.com/)
+                    Rime
+                      [Sebastian Schuster](http://sebschu.com/)
+                    Lecturer (~assistant professor),  University College London
+                      [Abi See](http://cs.stanford.edu/people/abisee/)
+                    DeepMind
+                      [Natalia Silveira](http://web.stanford.edu/~natalias/)
+                      [Rion Snow](http://ai.stanford.edu/~rion/)
+                      [Richard Socher](http://www.socher.org)
+                    CEO, You.com
+                      [Dan Sosa](https://dansosa.me/)
+                      Biomedical Informatics
+                    Co-Founder, Parsnip
+                      [Valentin Spitkovsky](http://cs.stanford.edu/~valentin/)
+                      [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu)
+                    Assistant Professor, UC Berkeley
+                      [Yun-Hsuan Sung](http://research.google.com/pubs/author37810.html)
+                      [Rohan Taori](https://www.rohantaori.com/)
+                    Anthropic
+                      [Alex Tamkin](http://alextamkin.com)
+                    Research Scientist, Anthropic
+                      [Kristina Toutanova](http://nlp.stanford.edu/kristina/)
+                      [Huihsin Tseng](https://www.linkedin.com/in/huihsintseng)
+                      Linguistics (CU Boulder)
+                      [Adam Vogel](https://www.linkedin.com/in/adamvogel/)
+                      [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/)
+                    Assistant Professor of Linguistics and Faculty Associate, Institute for Policy Research, Northwestern University
+                      [Mengqiu Wang](http://cs.stanford.edu/people/mengqiu/)
+                    Zero Zero Robotics
+                      [Sida Wang](http://www.sidaw.xyz)
+                    Facebook AI Research
+                      [Julia White](https://www.linkedin.com/in/julia-isabel-white)
+                    Senior NLP Engineer, Samsung Research America
+                      [Sang Michael Xie](https://cs.stanford.edu/~eix/)
+                    Meta
+                      [Ziang Xie](https://cs.stanford.edu/~zxie/)
+                    Sapling Intelligence
+                      [Silei Xu](https://web.stanford.edu/~silei/)
+                    Zoom
+                      [Michihiro Yasunaga](http://cs.stanford.edu/~myasu)
+                      [Yuhao Zhang](http://yuhao.im/)
+                    Scientist, AWS AI
+                      [Virginia  Adams](https://github.com/vadam5)
+                      [Ananth Agarwal](https://www.linkedin.com/in/ananthagarwal/)
+                      [Galen Andrew](https://scholar.google.com/citations?user=TNWwJ-UAAAAJ&hl=en)
+                      [Ruth-Ann Armstrong](https://ruth-ann.github.io/)
+                      [Steven Bills](https://www.linkedin.com/in/steven-bills/)
+                      Symbolic Systems and Computer Science
+                    Paul Chen,
+                      [Pei-Chun (Heather) Chen](https://www.linkedin.com/in/heather-pei-chun-chen-58a31a50/)
+                    Director, Product, Kiavi
+                      [Ethan A. Chi](http://www.ethanachi.com)
+                    Hudson River Trading
+                      [Sahil Chopra](https://www.linkedin.com/in/schopra8/)
+                    Co-Founder, Linum
+                      [David Clausen](https://www.linkedin.com/in/david-clausen-04992b28/)
+                      [Miriam Connor](https://www.linkedin.com/in/miriam-connor-719b6b63/)
+                    Kismet Health
+                      [Nathan Dass](https://www.linkedin.com/in/nathandass/)
+                    MS/MBA Candidate at Harvard
+                      [Naomi Eigbe](https://www.linkedin.com/in/naomieigbe/)
+                    Inflection.ai
+                      [Mihail Eric](https://www.mihaileric.com/)
+                    Co-Founder, Storia AI
+                      [Milind Ganjoo](https://www.linkedin.com/in/mganjoo/)
+                      [Teg Grenager](https://www.linkedin.com/in/grenager)
+                    Co-Founder and CEO at Joinable
+                      [Raghav Gupta](https://www.linkedin.com/in/raghav-gupta-59777b59/)
+                      [Surabhi Gupta](https://www.linkedin.com/in/surbs/)
+                    CTO at Klaviyo, Board Member at GetYourGuide
+                      [Andrey Gusev](http://cs.stanford.edu/~agusev)
+                    Pinterest
+                      [David Hall](https://www.linkedin.com/in/dlwhall)
+                    Research Engineering Lead at Stanford CRFM / Stanford HAI
+                    Raine Hoover,
+                    Twitter
+                      [Eric H. Huang](http://ai.stanford.edu/~ehhuang)
+                      [Kaili Huang](https://kailihuang.com/)
+                      [Thad Hughes](https://www.linkedin.com/in/thad-hughes/?originalSubdomain=ca)
+                    Imbue
+                    Alexander Iyabor,
+                      [Hang Jiang](https://hjian42.github.io)
+                    PhD Student, MIT
+                    Nikhil Johri,
+                    Engineering Manager, Meta
+                    Kathleen Kenealy,
+                      ICME
+                      [Adam Keppler](https://www.akeppler.com/)
+                    CEO, Algo Works
+                      [Amita Kamath](https://nlp.stanford.edu/~kamatha/)
+                    Pre-doctoral Young Investigator, Allen Institute for AI
+                      [Stefan Krawczyk](http://cs.stanford.edu/people/stefank/)
+                    Stitch Fix
+                      [Vijay Krishnan](https://www.linkedin.com/in/vijay0/)
+                    Turing
+                      [Michael Levin](http://risujin.org/)
+                      [Lucy Li](https://lucy3.github.io/)
+                    PhD Student, UC Berkeley
+                      [Siyan Li](https://siyan-sylvia-li.com/)
+                    PhD student, Columbia University
+                      [Madeline Liao](http://madelineliao.com)
+                      [Konstantin Lopyrev](http://www.linkedin.com/in/klopyrev)
+                      [Hanson Lu](https://linkedin.com/in/hansonhxlu)
+                    Julia Mendelsohn,
+                    postdoc U Chicago and incoming Assistant Professor, University of Maryland
+                      [Mike Mintz](http://www.mikemintz.com/)
+                      Symbolic Systems, Computer Science
+                    IMC Financial Markets
+                      [William Morgan](http://www.cs.stanford.edu/~wmorgan/)
+                    CEO of Buoyant
+                      [Felix Muzny](https://muzny.github.io/)
+                    Instructor at Northeastern University
+                      [Julia (Neidert) Neizonek](https://www.linkedin.com/in/julia-neidert/overlay/about-this-profile/)
+                    Cambly, Inc.
+                      [Benjamin Newman](http://blnewman.com)
+                    Pre-doctoral scholar, Allen Institute for AI
+                      [Jamie Nicolson](http://www.jamienicolson.com/)
+                    Candice Penelton,
+                    PhD student, Johns Hopkins
+                      [Alex Perelygin](https://www.linkedin.com/in/alex-perelygin-59091040/)
+                    Plaid
+                      [Hieu Pham](http://cs.stanford.edu/~hyhieu/)
+                      [Melvin Johnson Premkumar](http://web.stanford.edu/~melvinj/)
+                      [Karthik Raghunathan](http://nlp.stanford.edu/~rkarthik)
+                    Microsoft
+                      [Abhinav Rastogi](https://www.linkedin.com/in/abhi-rast/)
+                      [Kevin Reschke](https://www.linkedin.com/in/kevin-reschke-0497a111/)
+                    BigPi.ai
+                      [Kaushik Ram Sadagopan](https://www.linkedin.com/in/kaushik95)
+                      Mechanical Engineering
+                    Facebook
+                      [Conal Sathi](https://www.linkedin.com/in/conalsathi/)
+                    Infinitus Systems
+                      [TG Sido](http://www.tgsido.com)
+                      [Kendrick Shen](https://kendrickshen.com)
+                      [Kai Sheng Tai](http://kaishengtai.github.io)
+                    Research Scientist, Meta AI
+                      [Vaish Shrivastava](https://vshrivas.github.io/)
+                      [Joseph Smarr](https://www.linkedin.com/in/jsmarr/)
+                    Shopify
+                      [Jillian Tang](http://jilliantang.com/)
+                      [Julie Tibshirani](https://www.linkedin.com/in/julie-tibshirani/)
+                    Sourcegraph
+                      [Connor Toups](https://www.linkedin.com/in/connortoups)
+                      [Danny Tse](https://www.linkedin.com/in/danny-tse/)
+                    Jump Trading
+                      [Catalin Voss](https://www.linkedin.com/in/catalinvoss)
+                      [Eric Yeh](http://www.ai.sri.com/~yeh/)
+                    SRI International
+                      [Akhila Yerukola](https://www.linkedin.com/in/akhilayerukola/)
+                    Samsung Research America
+                      [Steven Woonyeon Yoo](http://www.stevenyoo.com/)
+                    Atlassian
+                      [Zijian Wang](https://nlp.stanford.edu/~zijwang)
+                    Applied Scientist, Amazon
+                      [Jean Wu](https://www.linkedin.com/in/jeanwu/)
+                    PhD Student, Stanford
+                    Hugh Zhang,
+                      [William Zhang](https://www.linkedin.com/in/williamxz/)
+                      [Yian Zhang](https://yianzhang.github.io/)
+                      [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)
+                    PhD student, Stanford
+                      [Xinran Zhao](https://colinzhaoust.github.io/)
+                    PhD student at CMU LTI
+                      [Victor Zhong](http://www.victorzhong.com)
+                    PhD student, University of Washington
+                    Amir Zur,
+                      [Jonathan Berant](http://www-nlp.stanford.edu/joberant/)
+                    Associate Professor, Tel-Aviv University
+                      [Steven Bethard](http://bethard.faculty.arizona.edu/)
+                    Associate Professor, University of Arizona School of Information
+                      [Federico Bianchi](https://federicobianchi.io/)
+                    Senior ML Scientist, TogetherAI
+                      [Antoine Bosselut](https://atcbosselut.github.io/)
+                    Assistant Professor, School of Computer and Communication Sciences, EPFL
+                      [Dallas Card](https://dallascard.github.io/)
+                    Assistant Professor, School of Information, University of Michigan
+                      [Niladri Chatterji](https://niladri-chatterji.github.io/)
+                      [Daniel Cer](http://dmcer.net/)
+                    Research Scientist, Google Research
+                      [Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/)
+                    Professor & Director of Language Technologies Institute, Carnegie Mellon University
+                      [Chris Donahue](https://chrisdonahue.com)
+                      [Esin Durmus](https://esdurmus.github.io)
+                    Research Scientist, Anthropic (Social Impacts Team)
+                      [Anjalie Field](https://anjalief.github.io/)
+                    Assistant Professor, Department of Computer Science, Johns Hopkins University
+                      [Matthias Gerstgrasser](https://matthias.gerstgrasser.net/)
+                      [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/)
+                    Professor, Department of Informatics, University of Edinburgh
+                      Computer Science and Statistics
+                    Assistant Professor, Department of Computer Science, Stanford University
+                      [He He](https://hhexiy.github.io/)
+                    Assistant Professor, New York University
+                      [Kenneth Heafield](https://kheafield.com/)
+                    Reader (Associate Professor), University of Edinburgh
+                      [Ruihong Huang](http://faculty.cse.tamu.edu/huangrh/)
+                    Associate Professor, Texas A&M University
+                      [David Jurgens](https://jurgens.people.si.umich.edu/)
+                    Assistant Professor, University of Michigan School of Information
+                      [Jonas Kuhn](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/)
+                    Professor of Computational Linguistics, University of Stuttgart
+                      [Vivek Kulkarni](https://viveksck.github.io)
+                    Grammarly
+                      [Yoav Levine](https://yoavlevine.com/)
+                    Assistant Professor, Tel Aviv University
+                      [Kyle Mahowald](https://mahowak.github.io)
+                    Assistant Professor, Department of Linguistics, UT Austin
+                      [David McClosky](http://nlp.stanford.edu/~mcclosky/)
+                    Staff Data Scientist, QuantAQ, Inc.
+                      [Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)
+                    Associate Professor, Cornell University
+                      [Ani Nenkova](https://www.linkedin.com/in/ani-nenkova-6223b9212/)
+                    Principal Scientist at Adobe Research
+                      [Sebastian Padó](http://www.nlpado.de/~sebastian)
+                      [Yves Peirsman](https://perswww.kuleuven.be/~u0042527/)
+                    Deontic
+                      [Jeffrey Pennington](https://nlp.stanford.edu/~jpennin/)
+                      [Vinodkumar Prabhakaran](http://www.cs.stanford.edu/~vinod/)
+                    Senior Research Scientist, Google
+                      [Marta Recasens](http://clic.ub.edu/en/users/marta-recasens)
+                      [Siva Reddy](http://sivareddy.in)
+                    Assistant Professor, McGill University and Mila
+                      [Eugenia H. Rho](https://eugeniarho.com/)
+                    Assistant Professor of Computer Science, Virginia Tech
+                      [Shibani Santurkar](https://shibanisanturkar.com/)
+                      [Xiaolin Shi](https://sites.google.com/site/shixiaolin/)
+                    Snap Inc.
+                      [Vivek Srikumar](http://svivek.com/)
+                    Associate Professor, University of Utah
+                      [John Thickstun](https://homes.cs.washington.edu/~thickstn/)
+                    Assistant Professor, Cornell University
+                      [Dimitris Tsipras](http://people.csail.mit.edu/tsipras/)
+                      [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/)
+                    Associate Professor, University of Washington
+                      [Yuhuai (Tony) Wu](https://yuhuaiwu.github.io)
+                    Co-Founder, xAI
+                      [Jiahong Yuan](https://www.linkedin.com/in/jiahong-yuan-79046715/)
+                    Professor, University of Science and Technology of China
+                      [Justine Zhang](https://tisjune.github.io/)
+                Undergrad Students
+                    Masters student, Stanford University
+                      [Irene Gao](https://i-gao.github.io/)
+                      [Jon Gauthier](http://www.foldl.me)
+                    PhD student in the Department of Brain and Cognitive Sciences, MIT
+                    Sam Ginn,
+                      [Aria Haghighi](http://www.aria42.com/)
+                      [Chloe Kiddon](http://www.cs.washington.edu/homes/chloe/)
+                      [Jiayi Li](https://www.linkedin.com/in/jiayi-li-54307617b)
+                      Mathematics
+                    Anwesha Mukherjee,
+                      [Kristen Parton](http://www1.cs.columbia.edu/~kristen/)
+                    Instagram
+                      [Eli Pugh](http://elipugh.github.io/)
+                    Harry Shin,
+                    Avash Shrestha,
+                    PhD student in the Computer Science Department, Stanford
+                    Hoang Ngoc Vy Thai,
+                    Graham Todd,
+                    PhD student, New York University
+                      [Keenon Werling](https://www.linkedin.com/in/keenon-werling-aa068bb0)
+                    PhD Student, Computer Science, Stanford University
+                Research Programmers
+                      [Chris(topher) Cox](https://www.facebook.com/chris.cox)
+                      Symbolic Systems. 2004-2005
+                    Chief Product Officer, Facebook
+                      [Anna Rafferty](https://sites.google.com/site/annanrafferty/)
+                      Computer Science. 2006-2008
+                    Associate Profesor of Computer Science, Carleton College
+                      [Jing Ge](https://candicegjing.github.io)
+                      Computer Science. 2019-2020
+                Visiting Professors
+                      [Eneko Agirre](http://ixa2.si.ehu.es/eneko/)
+                    Professor, University of the Basque Country
+                      [Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb/)
+                    Professor, IIT Bombay
+                      [Paula Buttery](https://www.cl.cam.ac.uk/~pjb48/)
+                    Professor, University of Cambridge
+                      [Wanxiang Che](http://ir.hit.edu.cn/~car/)
+                    Professor, Harbin Institute of Technology
+                      [Pedro Domingos](http://www.cs.washington.edu/homes/pedrod/)
+                    Professor, University of Washington
+                      [John Hale](https://ling.franklin.uga.edu/directory/people/john-hale)
+                      Linguistics and Computer Science
+                    Professor, University of Georgia
+                      [Jussi Karlgren](http://www.lingvi.st/)
+                    Principal Research Scientist, Spotify, and Docent (Adjunct Professor) of Language Technology, Helsinki University
+                      [Karen Livescu](http://ttic.edu/livescu)
+                      Computer Science and Linguistics
+                    Professor, TTI Chicago
+                      [Paula Merlo](http://clcl.unige.ch)
+                    Associate Professor, University of Geneva
+                      [Satoshi Oyama](https://sites.google.com/site/oyamasatoshi/)
+                    Associate Professor, Hokkaido University
+                      [Cindi Thompson](http://www.usfca.edu/Faculty/Cindi_Thompson/)
+                Other Visitors
+                    PhD student, Computational Linguistics, University of Groningen
+                    Emrah Budur,
+                    YoungJoo Chung,
+                    Rakuten
+                      [Karel D'Oosterlinck](https://kareldo.github.io)
+                      Linguistics and CSLI
+                      [Valentin Hofmann](https://valentinhofmann.github.io/)
+                    Postdoc, Allen Institute and U Washington
+                    Senior Science Manager, Alexa AI
+                    Yuta Koreeda,
+                    Haejun Lee,
+                    Samsung
+                    Juncen Li,
+                    Tencent
+                    Yasuhide Miura,
+                    Fujifilm
+                      [Xiang Ren](https://www.seanre.com/)
+                    Associate Professor, University of Southern California
+                    Raghu Subramanian,
+                    Nonadoo
+                    Assistant Professor, Stanford University
+                    Jason Bolton,
+                      Research Programmer
+      <div class="widewrapper strong-highlight">
+      <div class="container calltoaction">
+        <span>Click on this button to offer us high-paying and world-changing jobs.</span>
+        <a href="#" class="btn btn-grove-one btn-xlg btn-bold">IT'S THE RIGHT CHOICE</a>
+      </div>
+    </div>
+          Stanford NLP Group
+          Gates Computer Science Building
+          [Directions and Parking](http://forum.stanford.edu/visitors/directions/gates.php)
+            Affiliated Groups
+                [Stanford AI Lab](http://ai.stanford.edu/)
+                [Stanford InfoLab](http://infolab.stanford.edu/)
+                [CSLI](https://www-csli.stanford.edu/)
+        <div class="col-sm-3">
+	 </div>
+            Connect
+            <div class="row">
+                [Stack Overflow](http://stackoverflow.com/tags/stanford-nlp)
+                [Github](https://github.com/stanfordnlp/CoreNLP)
+        <div class="row center-block">
+           <a href="https://github.com/stanfordnlp/CoreNLP" class="social github"></a>
+           <a href="https://twitter.com/stanfordnlp" class="social twitter"></a>
+	 </div>
+            Local links
+              [NLP Lunch](/local/nlp_lunch.shtml)
+              ·
+              [NLP Reading Group](http://nlp.stanford.edu/read/)
+              [NLP Seminar](http://nlp.stanford.edu/seminar/)
+              [Calendar](/local/calendar.shtml)
+              [Cluster Info](https://nlp.stanford.edu/local/cluster-info/index.html)
+              [Cluster Onboarding](https://docs.google.com/document/d/1WmdhdR_-uigbtHHcINz7sTB-vlFasTp8pQ0Y6L4eCm4)
+              [AI Speakers](http://ai.stanford.edu/portfolio-view/distinguished-speaker-series)
+              [Q&A](/local/qa/)

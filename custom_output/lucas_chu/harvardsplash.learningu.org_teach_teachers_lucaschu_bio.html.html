@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- Theme: fruitsalad -->
+  <head>
+    <title>Harvard Splash - Lucas Chu</title>
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" lang="en-us" xml:lang="en-us" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+  
+
+    
+
+
+    <link rel="shortcut icon" href="/media/images/favicon.ico?v=0x7311L">
+    <link rel="stylesheet" type="text/css" href="/media/styles/qsd.css" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap-responsive.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="/media/styles/theme_compiled.css?v=0x4611"/>
+    <link href="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/google-code-prettify/prettify.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" type="text/css" href="/media/styles/user_visibility.css" media="all" />
+    
+    <link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.13.2/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+    
+    
+<!--[if lte IE 6]>
+<style type="text/css">
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#body {
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+#ie6_warning {
+  color: tabcolor2;
+  font-size: 0.83em;
+}
+#ie6_warning p {
+  position: relative;
+  left: 10px;
+}
+#search_box {
+  top: -28px;
+  border: 0px;
+  border-bottom: 0;
+  margin: 0;
+}
+#submenu {
+  width: 600px;
+}
+#submenu li {
+  display: inline;
+}
+</style>
+<![endif]-->
+<!--[if gt IE 6]>
+<style type="text/css">
+#body {
+  position: absolute;
+  left: 136px;
+  top: 55px;
+}
+#tab_sidebar {
+  position: absolute;
+  left: 136px;
+  top: 55px;
+}
+#submenu li {
+  display: inline;
+}
+</style>
+<![endif]-->
+
+<style type="text/css">
+
+.required { border: 2px solid black; }
+
+.form_error { font-size: 80%; font-style: italic; color: #C00; }
+
+label { font-family: Arial, Lucida, Helvetica, sans-serif; font-size: 0.8em; font-weight: normal;}
+label.groupheader { font-size: 1.2em; font-weight: bold; }
+#divmaintext table td { vertical-align: top; }
+
+#divmaintext hr { border: 1px solid black; }
+img.biophoto { border: 1px solid black; }
+
+</style>
+
+
+    
+
+    
+    <script type="text/javascript" src="/media/scripts/dwcode.js"> </script>
+    
+
+    
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    <!-- Included in case there is any remaining deprecated jquery code -->
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js"></script>
+    
+    
+    <script type="text/javascript" src="/media/scripts/jquery.cookie.js"> </script>
+    
+    
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.13.2/jquery-ui.js"></script>
+    <script type="text/javascript" src="/media/scripts/jquery-ui.timepicker.js"></script>
+    <script type="text/javascript" src="/media/scripts/datepicker-duration.js"></script>
+    
+    <script type="text/javascript" src="/media/scripts/common.js"></script>
+    
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react-with-addons.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script>
+    <script type="text/javascript" src="/media/scripts/lodash.compat.min.js"></script>
+
+    
+    <script type="text/javascript" src="/media/scripts/content/user_data.js"></script>
+    
+    <script type="text/javascript">
+      esp_user['cur_grade'] = 2025 + 12 - esp_user['cur_yog'];
+    </script>
+    
+    <script type="text/javascript" src="/media/scripts/content/user_classes.js"></script>
+    <script type="text/javascript" src="/media/scripts/csrf_init.js"></script>
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      messageStyle: "none",
+      displayAlign: "left",
+      displayIndent: "0em",
+      "HTML-CSS": {
+      styles: {
+      '.MathJax_Display': {
+      display: "inline"
+      }
+      }
+      }
+      });
+    </script>
+
+    <!-- prevent forms from being submitted twice -->
+    <script text="text/javascript">
+      $j(function() {
+        $j('[type=submit]:not(.stripe-button-el):not(.save)').on('click', function(event){
+          <!-- prevent any other behaviors -->
+          event.preventDefault();
+          event.stopPropagation();
+          
+          <!-- disable the submit button -->
+          $j(this).prop('disabled', true);
+          var form = $j(this).parents('form');
+          <!-- this adds a hidden field in case we care what the button name/value are -->
+          $j('<input>', {
+              type: 'hidden',
+              name: $j(this).prop('name'),
+              value: $j(this).prop('value')
+          }).appendTo(form);
+          <!-- check csrf cookie in form (we prevented this above) -->
+          check_csrf_cookie(form[0]);
+          var submitted = false;
+          <!-- check form validity -->
+          if(form[0].reportValidity()) {
+            <!-- run form's onsubmit if it has one -->
+            if(form[0].hasAttribute("onsubmit")) {
+              if(form[0].onsubmit()) {
+                form[0].submit();
+                submitted = true;
+              }
+            } else {
+              form[0].submit();
+              submitted = true;
+            }
+          }
+          <!-- if we didn't end up submitting the form, reenable the submit button -->
+          if(!submitted) {
+            $j(this).prop('disabled', false);
+          }
+        });
+      });
+    </script>
+
+    <script type="text/javascript" src="/media/scripts/json2.js"></script>
+    <script type="text/javascript" src="/media/scripts/qsd.js"></script>
+    <script type="text/javascript" src="/media/scripts/jsprettify-all-latest.js"></script>
+    <script type="text/javascript"> window.jsprettify.run(); </script>
+    
+
+    
+
+    
+<!--[if lt IE 9]>
+<script src="/media/scripts/IE9.js"></script>
+<![endif]-->
+
+  </head>
+  
+  <body>
+    
+<link rel="stylesheet" type="text/css" href="/media/default_styles/admin_bar.css">
+<div id="adminbar" class="admin hidden" style="position: fixed !important">
+  <div class="title" onclick="ESP.toggleDisplay('adminbar_content');">Admin Toolbar</div>
+  <div id="adminbar_content"></div>
+</div>
+<script type="text/javascript">
+var currentPrograms = [
+
+    {
+        urlBase: "Splash/2022_Spring",
+        name: "Splash Splash Spring 2022",
+        class_search: true
+    },
+
+];
+var debug = false;
+</script>
+<script type="text/javascript" src="/media/scripts/admin_bar.js"> </script>
+    <div id="page" class="tabcolor4">
+    <div id="tab_sidebar">
+      <ul id="menu">
+      <li id="tab_logo" class="tabcolor0" ><span class="accent">&nbsp;</span><a href="/"><img id="logo" alt="home" src="/media/images/theme/logo.png?v=8daf9a" /></a></li>
+      
+      
+      <li id="tab_1" class="tabcolor1" ><span class="accent">&nbsp;</span><a href="/teach/splash2019.html">SPLASH</a></li>
+      
+      <li id="tab_2" class="tabcolor2" ><span class="accent">&nbsp;</span><a href="/aboutus.html">ABOUT US</a></li>
+      
+      
+      <li class="admin hidden tabcolor9" ><span class="accent">&nbsp;</span><a href="/manage/programs/">MANAGE</a></li>
+      <li class="unmorph hidden tabcolor9" ><span class="accent">&nbsp;</span><a href="/myesp/switchback/">UNMORPH</a><div id="unmorph_text" style="font-size: 0.7em; margin-left: 16px"></div></li>
+      </ul>
+  </div>
+  <div id="body">
+    <div class="corners"><div class="ul"></div><div class="ur"></div><div class="dl"></div><div class="dr"></div></div>
+    <div id="header">
+
+    <div id="cross_link">
+    
+    <span class="leftedge inactive"><a href="/learn/splash.html"></a></span><span class="teach inactive"><a href="/learn/splash.html">Learn</a></span>
+    
+    <span class="leftedge"><a href="/teach/splash.html"></a></span><span class="teach"><a href="/teach/splash.html">Teach</a></span>
+    
+    </div>
+      <div id="search_box">
+      <span class="leftedge"></span>
+	<form name="search_form" method="get" action="https://www.google.com/search">
+	 <input type='hidden' name='sitesearch' value='harvardsplash.learningu.org' />
+	  <input type="text" id="search_field" name="q" />
+	  <input type="hidden" id="search_submit" name="search_submit" value="" />
+      <input type="image" src="/media/images/theme/search-icon.png" />
+	</form>
+      </div>
+      <div id="contact_info">
+        
+        <span class="title accentcolor">Harvard Undergraduate Studies in Education</span>
+        
+        
+        
+        <span class="normal">Email: <a href="mailto:harvardhuse@gmail.com">harvardhuse@gmail.com</a></span>
+        
+        
+        <span class="normal">
+          
+          <a href="/contact.html">contact us</a>
+          
+          
+        </span>
+        
+        
+        <span class="normal">
+          
+          
+          
+            <a href="https://www.facebook.com/harvardhuse/">facebook</a>
+          
+        </span>
+        
+      </div>
+
+<div id="login_box">
+
+<!-- login -->
+<div class="not_logged_in">
+<form name="login_form" id="login_form" method="post" action="/myesp/login/">
+  <input type="hidden" name="next" value="/teach/teachers/lucaschu/bio.html" />
+  <input type="text" id="login_user" name="username" />
+  <input type="password" id="login_pswd" name="password" />
+  <span id="login_arrow1"></span>
+  <input type="submit" id="login_submit" name="login_submit" value="Log in" />
+  <span id="login_arrow2"></span>
+  <a href="/myesp/register" id="login_signup">Sign up</a>
+  <a href="/myesp/loginhelp.html" id="login_help">need help?</a>
+</form>
+</div>
+<div class="logged_in hidden">
+  <div id="loginbox_user_name">
+    <span id="user_first_name"></span> <span id="user_last_name"></span>
+    <br />
+    <span id="user_data">
+        <span id="user_username"></span> / <span id="user_userid"></span>
+    </span>
+</div>
+
+  <span class="accentcolor"><a href="/myesp/signout/">Logout</a> | <a href="/myesp/accountmanage">Manage Account</a></span>
+</div>
+
+</div>
+
+    </div>
+    <div id="page_main">
+      <div class="corners"><div class="ul"></div><div class="ur"></div><div class="dl"></div><div class="dr"></div></div>
+
+<div id="content_header">
+<div class="corners"><div class="ul"></div><div class="ur"></div></div>
+
+<h1 class="title">&nbsp;</h1>
+
+</div>
+
+
+
+
+
+
+
+
+      <div id="content">
+          
+          
+
+<h1 style="font-size: 120%;">USE Biography</h1>
+
+
+<br /><br />
+<h2>LUCAS CHU, serial non-profit founder</h2>
+<hr />
+
+
+<br />
+<br />
+<table cellspacing=0 cellpadding="5" border="0">
+<tr>
+  <td width="300">
+  <strong>Major:</strong> Not available. <br /><br />
+  <strong>College/Employer:</strong> Harvard <br /><br />
+  <strong>Year of Graduation:</strong> Not available. <br /><br />
+
+  </td>
+  <td>
+   <img src="/media/uploaded/bio_pictures/21_04/IMG_0276.jpg" title="Picture of Lucas Chu"  
+        alt="Picture of Lucas Chu" align="right" class="biophoto" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+  <h2>Brief Biographical Sketch:</h2>
+  <p>
+    <p>Hi! My name is Lucas.<br />I study economics and course 6 at MIT.<br />On campus, I&#39;m a part of the Harvard Political and Economic Review, the AACF, and Active Minds.<br />On the institution side, I’m also a part of metalab, i-Labs, Memorial Church, and the FAS Standing Committee on Public Service. Off-campus, I run erevna, a hackathon-hosting nonprofit supporting thousands of student researchers.<br /></p>
+  </p>
+  <br />
+  <br />
+  <h2>Past Classes</h2> &nbsp;
+  <span>(Clicking a class title will bring you to the course's section of the corresponding course catalog)</span>
+  <br />
+  <br />
+  
+
+  
+
+  
+  <a href="/learn/Splash/2021_Spring/catalog#class_102"  style="color: #000000">X102: Start a start-up</a> in Splash Spring 2021 (Apr. 17 - 18, 2021)
+<br />
+<div style="font-size: 80%; font-style: italic; margin: 0 0 0 20px;">
+Ever had an idea that you wish existed?
+
+In this hour, you&#39;ll learn a little about the why, when, how, what, where, and who of startups.
+Tentative Plan:
+0-5: Introductions
+5-15: Improv pitching
+15-30:  Best practices 
+30-40: Breakout rooms 
+35-50: 2 minute pitches
+50-60: Judging and Next steps
+</div>
+<br /><br />
+  
+
+ 
+  
+  
+  
+  </td>
+  
+</tr>
+</table>
+
+
+      </div>
+      <!--[if lte IE 6]>
+      <div id="ie6_warning">
+<p>You're using a really old Web browser!  This site will look a lot better if you <a href="http://www.microsoft.com/windows/internet-explorer/">upgrade</a>.</p>
+      </div>
+      <![endif]-->
+      
+      
+      
+    </div>
+    <div id="footer">
+      &copy; Harvard Undergraduate Studies in Education, 2024
+      <br />
+      <a href="https://www.learningu.org/about/privacy/" target="_blank">Privacy Policy</a>
+    </div>
+  </div>
+</div>
+
+
+
+    
+
+    
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="https://dfwb7shzx5j05.cloudfront.net/bootstrap/docs/assets/js/google-code-prettify/prettify.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/js/bootstrap.js"></script>
+    
+    <script src="/media/scripts/nav.js" type="text/javascript"></script>
+
+    
+    
+  </body>
+</html>
+

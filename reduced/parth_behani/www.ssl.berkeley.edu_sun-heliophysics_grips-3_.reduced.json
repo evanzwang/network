@@ -1,0 +1,61 @@
+{
+  "title": "GRIPS Fact Sheet \u2013 Space Sciences Lab",
+  "meta_description": "The balloon-borne Gamma-Ray Imager/Polarimeter for Solar flares (GRIPS) instrument will provide a near-optimal combination of high-resolution imaging, spectroscopy, and polarimetry of solar-flare gamma-ray/hard X-ray emissions from ~20 keV to >~10 MeV.",
+  "main_content": "Skip to content GRIPS GRIPS (Gamma Ray Imager/Polarimeter for Solar Flares) GRIPS-2 is a high-altitude balloon payload designed to study particle acceleration and transport in impulsive solar-flares. It flew over Antarctica in January 2016 at a height of 130,000 ft, and the team is currently in the preparation phase for the second flight (scheduled for December, 2024). GRIPS-2 utilizes 16 double sided high-purity germanium strip detectors that measure photons\u2019 spectra from 20keV to 10 MeV and their polarization, and a single-grid, multi-pitch rotating modulator (MPRM) collimator that allows imaging at 12.5 arcsec FWHM resolution over the full Sun. The energy and angular resolutions are suited to observe/image the 2.2 MeV neutron capture line and separate it from hard X-ray footpoints for almost all flares. GRIPS will address: (1) the spatial separation between electron and ions acceleration site, (2) the angular distribution of accelerated electrons, and (3) the spatial and temporal evolution of accelerated/ambient species. GRIPS Website PARTNERS Goddard Space Flight Center, NSF PRINCIPAL INVESTIGATOR (PI) Pascal Saint-Hilaire TEAM Albert Shih, Brent Mochizuki, Samer Al-Nussirat, Hunter Kanniainen, Meredith Wieber, Jessie Duncan, Parth Behani SPONSORS NASA, CSBF SCHEDULE Launch -December 2024 SCIENCE Sun, Solar Flares Space Sciences Laboratory at the University of California, Berkeley 7 Gauss Way Berkeley, CA 94720 Contact us Facebook-square Twitter-square Youtube-square Instagram Linkedin-in SSL is not open to the public. Please contact our administrative team at spacesciencesadmins@ssl.berkeley.edu should you need access to our lab.\u200b Copyright \u00a9 UC Regents; all rights reserved 2025 Privacy Statement",
+  "links": [
+    {
+      "url": "https://grips.ssl.berkeley.edu/",
+      "text": "GRIPS Website"
+    },
+    {
+      "url": "https://goo.gl/maps/5V3d5V4EQReDerVQ9",
+      "text": "7 Gauss WayBerkeley, CA 94720"
+    },
+    {
+      "url": "mailto:spacesciencesadmins@berkeley.edu?subject=Inquiry from SSL website (footer)&body=Hello SSL,",
+      "text": "Contact us"
+    },
+    {
+      "url": "https://www.facebook.com/UCBSSL/",
+      "text": "Facebook-square"
+    },
+    {
+      "url": "https://twitter.com/ucbssl",
+      "text": "Twitter-square"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC6eK5TtFiCV77Q2UjjuA-sQ",
+      "text": "Youtube-square"
+    },
+    {
+      "url": "https://www.instagram.com/ucb_ssl/",
+      "text": "Instagram"
+    },
+    {
+      "url": "https://www.linkedin.com/company/ucbssl/",
+      "text": "Linkedin-in"
+    },
+    {
+      "url": "https://www.berkeley.edu/",
+      "text": ""
+    },
+    {
+      "url": "mailto:spacesciencesadmins@ssl.berkeley.edu",
+      "text": "spacesciencesadmins@ssl.berkeley.edu"
+    },
+    {
+      "url": "https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites",
+      "text": "Privacy Statement"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ssl.berkeley.edu/wp-content/uploads/2018/09/grips.png",
+      "alt": "grips"
+    },
+    {
+      "src": "https://www.ssl.berkeley.edu/wp-content/uploads/2023/01/image-21.png",
+      "alt": "alt=\"\""
+    }
+  ]
+}

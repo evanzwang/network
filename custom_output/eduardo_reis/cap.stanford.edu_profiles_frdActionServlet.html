@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <![endif]-->
+
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="google" value="notranslate" />
+<link rel="icon" href="https://cap.stanford.edu/profiles/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://cap.stanford.edu/profiles/favicon.ico" type="image/x-icon">
+<title>CAP Network - Internal</title>
+<!-- Need set "no index by google" for json -->
+
+<link id="calStyle" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons/js/yui/build/assets/skins/sam/calendar.css" />
+<link id="menuStyle" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons/js/yui/build/menu/assets/skins/sam/menu.css" />
+<link type="text/css" href="https://cap.stanford.edu/profiles/wdgt.css" rel="stylesheet" />
+<link id="searchDetailStyles" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/searchDetails.css"/>
+<link id="mainStyle" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons/css/core.css" />
+<link id="capStyles" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons-cap/cap.css" />
+<link id="mediaviewerStyles" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/includes/js/mediaviewer/mediaviewer.css" />
+
+<script>var mainContextPath = 'profiles';</script>
+<script type="text/javascript" src="https://cap.stanford.edu/profiles/uicommons-cap/jquery/jquery-latest.min.js"> </script>
+<script type="text/javascript" src="https://cap.stanford.edu/profiles/uicommons/js/yui3/build/yui/yui-min.js"></script>
+
+ <!-- googleanalytics_frag.jsp -->
+
+<!--
+      The Google Universal Analytics is being replaced by
+      Google Analytics 4.
+
+      https://developers.google.com/tag-platform/gtagjs/reference#event
+      https://developers.google.com/tag-platform/gtagjs/reference/events
+
+      Combining tags:
+      https://developers.google.com/tag-platform/gtagjs/routing
+-->
+
+
+<script>
+  window.googleAnalyticsId =  'UA-8214842-2';
+  window.googleAnalyticsId2 = 'UA-29412127-22';
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VPX7MDCHHF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VPX7MDCHHF');
+  </script>
+
+
+
+
+
+<script type="text/javascript" src="https://cap.stanford.edu/profiles/uicommons/js/main.js"></script>
+<script id="core-js" type="text/javascript" src="https://cap.stanford.edu/profiles/uicommons/js/googleanalytics.js"></script>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons-cap/vendor/fontawesome/css/font-awesome.min.css"/>
+
+<!-- style override for quick changes via the public web without a release -->
+<link id="capOverrideStyles" rel="stylesheet" type="text/css" href="https://cap.stanford.edu/profiles/uicommons-cap/cap_override_internal.css" />
+
+
+  <!-- Do not index by google -->
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW" /> 
+
+
+
+  
+
+
+
+
+
+
+
+  <!--  No pageSpecificJs -->
+
+
+
+
+
+</head>
+
+
+  
+  
+    
+  
+
+<!--[if IE 6]><body class="ie6 irt-skin-1 irt-skin-cap-1 yui-skin-sam irt-cap-stanford-skin "><![endif]-->
+<!--[if IE 7]><body class="ie7 irt-skin-1 irt-skin-cap-1 yui-skin-sam irt-cap-stanford-skin "><![endif]-->
+<!--[if IE 8]><body class="ie8 irt-skin-1 irt-skin-cap-1 yui-skin-sam irt-cap-stanford-skin "><![endif]-->
+<!--[if IE 9]><body class="ie9 irt-skin-1 irt-skin-cap-1 yui-skin-sam irt-cap-stanford-skin "><![endif]-->
+<!--[if gt IE 9]><!--> <body class="webkit irt-skin-1 irt-skin-cap-1 yui-skin-sam irt-cap-stanford-skin "> <!--<![endif]-->
+
+
+
+
+
+
+
+
+
+
+<!-- this was dynamic but switched to use static content server instead -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+  
+
+
+    <div id="calContainer" style="display: none; position: absolute; z-index: 2;"></div>
+
+    <div id="container">
+    
+
+        
+        <div id="brand">
+          <div class="logo">
+            <a class="preview" href="http://www.stanford.edu/">
+              <span class="stanford-logo">Stanford</span>
+            </a>
+            <a class="preview" href="https://profiles.stanford.edu/">
+              <span class="profiles-logo">Profiles</span>
+            </a>
+          </div>
+
+          <div id="authBar">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                <div id="auth">
+                    
+                      
+                      
+                          <div class="authPortrait">
+                              <a title=""><img src="https://cap.stanford.edu/profiles/auth/viewImage?profileId=-1&amp;type=small&amp;showNoImage=true&amp;lastModified=" alt="Portrait of " /></a>
+                          </div>
+                      
+                    
+                    <div id="authDetails">
+                        <span id="userName">
+                      
+                          
+                          
+                              
+                          
+                      
+                    </span>
+
+                        
+
+                        <div id="authMenu">
+                            <ul>
+                                
+                            </ul>
+                        </div><!-- END div#authMenu -->
+                    </div><!-- END div#authDetails -->
+                    
+                </div><!-- END div#auth -->
+            </div><!-- END div#authBar -->
+          <div style="clear:both;"></div>
+
+        </div>
+
+        <div class="banner"></div>
+
+
+        <div id="mainContent">
+
+            <!-- announcement.jsp -->
+
+
+ 
+
+  
+
+
+
+
+            <div id="appSpace" class="appSpace ">
+
+                <!-- announcement.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+                
+            
+            
+            
+
+            
+                <!-- importing displayPage /public/page_not_found.jsp -->
+                <div  class="capsule">
+      <h1>Page Not Found</h1>
+      <div class="message">Please check the URL used in your browser.
+        
+        If you believe the URL is correct, please use the Feedback button on the right to report the problem.
+      </div>
+      <div class="message">
+        <b>Error Details</b>
+        <ul>
+          <li>URL: https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=301499</li>
+          <li>Original URI: /profiles/frdActionServlet</li>
+        </ul>
+      </div>
+</div>
+
+            
+
+            
+
+            
+
+            
+
+            
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <!-- !!!!!!!!!!helpIncludeUrl + templatePage /includes/cap/help/!!!!!!!!! -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+            
+            </div><!-- END div#appSpace -->
+
+          
+          
+        </div><!-- END div#mainContent -->
+        
+
+        <div id="globalFooter">
+          <div id="copyrightSOM">
+             <span>&copy; Stanford University. 450 Serra Mall, Stanford, CA 94305. (650) 723-2300</span>
+             <a href="http://stanford.edu/site/terms.html">Terms Of Use</a>
+             <a href="http://stanford.edu/site/copyright.html">Copyright Complaints</a>
+          </div>
+
+        </div>
+    
+</div><!-- END div#container -->
+
+<!-- Feedback widget  -->
+  <div id="feedbackContainer">
+
+    <div id="feedbackTab" onclick="open_in_new_tab('');">
+      <span id="expandFeedbackTab" class="feedbackTabArrow left">Show Feedback</span>
+      <a class="feedbackTabLink" title="feedback">Feedback</a>
+    </div>
+  </div><!-- END #feedbackContainer -->
+<!-- Feedback widget  -->
+
+<!-- Be careful to change this file since it is used by public, intranet, admin, subAdmin pages! -->
+
+
+
+
+
+
+
+<!-- researchProjectVisiblity:  -->
+<!-- projectVisiblity:  -->
+<!-- presentationVisiblity:  -->
+<!-- opportunitiesVisibility:  -->
+<!-- labAffiliationVisibility:  -->
+<!-- postDoctoralAdvisorsVisiblity:  -->
+<!-- supervisorVisiblity:  -->
+<!-- webLinksVisibility:  -->
+<!-- labAffiliationAdvisorNames:  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN: visibiltyDialog -->
+<div id="visibiltyDialog" class="mPanel nodisplay">
+  <div class="bd">
+    <form id="editVisibilityStatusForm" action="https://cap.stanford.edu/profiles/auth/frdAuthActionServlet" method="post">
+      <input type="hidden" name="choiceId" value="editVisibilityFlag" />
+      <input name="fid" type="hidden" value="" />
+      <input name="editProfilePageIsInvoker" type="hidden" value="false" />
+      
+      <input type="hidden" value="" id="isRegistryProfile" />
+      <input type="hidden" value="<a target='_blank' href='https://stanfordyou.stanford.edu'>StanfordYou </a>" id="visibilityLocation" />
+
+      
+      
+      <!-- BEGIN:  -->
+      
+
+
+
+
+
+
+
+
+
+<!-- OVERALL - overAllProfileVisibility = OVERALL_PROFILE_VISIBILITY  -->
+<!-- OVERALL - priorOverAllProfileVisibility = PRIOR_OVERALL_PROFILE_VISIBILITY -->
+
+<fieldset class="granular">
+  <legend></legend>
+
+  <div id="globalVisibility">
+    <input type="hidden" value="" id="currentOverAllValue" />
+    <input type="hidden" value="" id="isExcluded" />
+    <input type="hidden" value="" id="priorOverAllValue" />
+    <input type="hidden" value="OVERALL_PROFILE_VISIBILITY||" id="vslct_OVERALL_PROFILE_VISIBILITY_MAIN_DEFAULT" />
+    <input type="hidden" value="" id="vslct_OVERALL_PROFILE_VISIBILITY_MAIN" name="vslct_OVERALL_PROFILE_VISIBILITY_MAIN" />
+
+    <div style="padding-bottom: 5px; margin-left: -10px;">
+      
+      
+    </div>
+    <p id="overAllVisibilityStausMsg" class="adminNoteAlert nodisplay">This change will take effect only when you click on the 'Save' button
+      below.</p>
+  </div>
+
+  
+    
+    
+      <!-- OVERALL_PROFILE_VISIBILITY non-registry profile -->
+      <!-- <p>DEBUG:OVERALL_PROFILE_VISIBILITY non-registry profile</p> -->
+      <fieldset class="noInput">
+        <label for="vslct_">Make my profile visible to</label> <select id="vslct_"
+          name="vslct_" >
+          <option value="||PUBLIC"
+            >Public</option>
+          <option value="||STANFORD"
+            >Stanford
+            only</option>
+        </select>
+        <p id="name_overall_visibility" class="adminNote nodisplay">You must make your overall profile publicly visible if you want to display any
+          other content publicly.</p>
+      </fieldset>
+      <!-- TODO smells check -->
+    
+  
+</fieldset>
+
+
+
+  
+
+
+
+
+
+      <!-- END:  -->
+
+      
+      
+      <!-- BEGIN:  -->
+      
+
+
+
+
+
+
+      <!-- END:  -->
+
+      
+      
+
+      
+      
+
+      <fieldset id="buttonSet">
+        <input type="submit" id="saveVisiblityBtn" value="Save" />
+        <input type="reset" id="editVisibilityStatusFormReset" value="Cancel" />
+      </fieldset>
+
+    </form>
+  </div>
+</div>
+<!-- END: visibiltyDialog -->
+
+
+<!-- Be careful to change this file since it is used by public, intranet, admin, subAdmin pages! -->
+
+
+
+
+<div id="optInDialog" class="mPanel nodisplay">
+  <div class="bd">
+    <form id="optInForm" action="https://cap.stanford.edu/profiles/auth/frdAuthActionServlet" method="post">
+      <input type="hidden" name="choiceId" value="optIn" />
+      <input id="fid" name="fid" type="hidden" value=""/>
+      <input name="OVERALL_PROFILE_VISIBILITY" type="hidden"  value="VISIBLE"/>
+      <p>
+      
+        
+        
+          Your profile is currently not visible to anyone but you.  Would you like to make your profile visible?
+        
+      
+      </p>
+      <p>
+      <input type="checkbox" name="dontAskAgain" id="dontAskAgain" value="true"/>
+      <label for="dontAskAgain">Don't ask me again</label>
+      </p>
+      <fieldset id="optInDialogButtonSet">
+      <input type="submit" id="optInSetVisibleBtn" value="Yes" />
+      <input type="reset" id="optInFormReset" value="Not now" />
+    </fieldset>
+    </form>
+  </div>
+</div>
+
+<div id="optInSubDialog" class="mPanel nodisplay">
+  <div class="bd">
+   <p>
+   
+        
+        
+          You can change your visibility anytime by clicking on the My Profile tab or "edit my profile" and selecting "Profile visibility settings".
+        
+      
+   </p>
+      <fieldset id="optInSubDialogButtonSet">
+      <input type="reset" id="optInSubDialogCancel" value="OK" />
+    </fieldset>
+
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+  YAHOO.util.Event.throwErrors = true; //display any YAHOO widget errors
+
+  
+
+  function initMainAuthPage() {
+        IRT.CAP.choiceId = "printerprofile";
+        IRT.CAP.VISIBLITY.visibiltyUtil.init();
+        // IRT.CAP.INTRANET.ediProfileUpdateStatusMsg.init({"contextPath":"/profiles"});
+        // IRT.CAP.INTRANET.wdgt_myProfile.init({"contextPath":"/profiles"});
+        IRT.CAP.INTRANET.optInDialog.init({"contextPath":"/profiles", "showOptInDialog":false});
+        IRT.CAP.INTRANET.social.init({"choiceIdAttr":"printerprofile", "contextPath":"/profiles"});
+        IRT.CAP.INTRANET.wdgt_feedbackForm.init({"contextPath":"/profiles"});
+        YAHOO.widget.Logger.enableBrowserConsole();
+    }
+
+    YAHOO.util.Event.onDOMReady(initMainAuthPage);
+
+    function addLoadEvent(func) {
+        var oldonload = window.onload;
+        if (typeof window.onload != 'function') {
+            window.onload = func;
+        } else {
+            window.onload = function() {
+                if (oldonload) {
+                    oldonload();
+                }
+                func();
+            }
+        }
+    }
+
+    function preloader() {
+        var imageViewElts = document.getElementsByName('imageView');
+        var imageType =  "big";
+
+        for (var i=0; i<imageViewElts.length; i++) {
+            var imageViewEltId = imageViewElts[i].id;
+            var imageViewEltIdSplitResult = imageViewEltId.split("_");
+
+            var appUrl = imageViewEltIdSplitResult[1];
+            appUrl = appUrl.replace(/XxX/g,"\/");
+
+            var fid = imageViewEltIdSplitResult[2];
+
+            if (imageViewEltIdSplitResult.length > 3) {
+                var imageType = imageViewEltIdSplitResult[3];
+            }
+
+            if (imageViewEltIdSplitResult.length > 4) {
+                var profileLastModified = imageViewEltIdSplitResult[4];
+            }
+
+            imageViewElts[i].src = appUrl + "/auth/viewImage?profileId=" + fid + "&type=" + imageType + "&showNoImage=true&lastModified="+ profileLastModified;
+        }
+    }
+
+    addLoadEvent(preloader);
+
+    function open_in_new_tab(url) {
+      var win=window.open(url, '_blank');
+      win.focus();
+    }
+
+    function copyToClipBoard(id) {
+      var elt = document.getElementById(id);
+      var range = document.createRange();
+      range.selectNode(elt);
+      window.getSelection().removeAllRanges();
+      window.getSelection().addRange(range);
+      document.execCommand('copy');
+      window.getSelection().removeAllRanges();
+      elt.style.visibility = "hidden";
+      setTimeout(function(){elt.style.visibility = "";},200);
+    }
+
+</script>
+
+</body>
+</html>

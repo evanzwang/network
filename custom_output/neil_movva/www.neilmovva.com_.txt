@@ -1,0 +1,15 @@
+          Neil Movva
+        deep learning + silicon
+          [Home](https://www.neilmovva.com/)
+          [About](/about/)
+          [Software-Defined Power](https://www.neilmovva.com/posts/sdp/)
+        Jun 2, 2021
+            Over the last decade, consumer electronics became
+              excellent
+              at handling electric power - converting it, moving it, storing it. Mobile computers, electric vehicles, and micro-scale solar installations all demanded these improvements, so the industry delivered. Let's investigate some of the core advances here, and try bringing them to hobbyist applications.
+          [Smartfet](https://www.neilmovva.com/posts/smartfet/)
+        Mar 5, 2018
+            Smartfet is a small, self-contained module designed to abstract away the complexity of high-power switching. It's designed as a simple answer to the question, “how can I modulate power to this beefy load?”
+          [Cricket](https://www.neilmovva.com/posts/cricket/)
+        Jan 20, 2018
+            Cricket is a hobbyist-grade solution for 360º planar rangefinding and mapping. Intended to be a rudimentary imitation of LiDAR, we trade the precision optoelectronics for hardware that's dirt-cheap and readily accessible.

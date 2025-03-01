@@ -1,0 +1,25 @@
+{
+  "title": "Dhruv Gautam \u2013 Read.cv",
+  "meta_description": "Read Dhruv Gautam's CV",
+  "main_content": "Dhruv Gautam Education 2022 \u2014 Now B.A. Computer Science at University of California, Berkeley Work Experience 2024 \u2014 Now Researcher at Berkeley Artificial Intelligence Research (BAIR) 2024 \u2014 2024 Research Intern at Microsoft 2022 \u2014 2023 Researcher at UC Berkeley Sky Computing Lab",
+  "links": [
+    {
+      "url": "/explore",
+      "text": "Explore"
+    },
+    {
+      "url": "/sites/about",
+      "text": "Sites"
+    },
+    {
+      "url": "https://posts.cv",
+      "text": "Posts"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://res.cloudinary.com/read-cv/image/upload/c_fill,h_92,w_92/dpr_1.0/v1/1/profilePhotos/cs8HfjgmkkavLVChVqiW0u5frp42/7eb3e038-8461-4b37-b0a0-729764952a5f.jpg?_a=DATAdtfiZAA0",
+      "alt": "Dhruv Gautam"
+    }
+  ]
+}

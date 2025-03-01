@@ -1,0 +1,149 @@
+          [Home](https://rituraj.com/home)
+          [About](https://rituraj.com/about)
+          [Products](https://rituraj.com/products)
+          [Clients](https://rituraj.com/clients)
+          [Team](https://rituraj.com/team)
+          [Careers](https://rituraj.com/careers)
+          [Contact](https://rituraj.com/contact)
+  HEADER IMAGES
+	Carousel images showcase
+          <h1 class="text-bg-black el-50 et-30 er-0 eb-0 text-dark font-weight-bold px-3 animatedd bounceInLeft slow">Your Home Essentials</h1>
+                <p class="text-bg-green-dk-2 el-55 et-40 er-0 eb-0 text-dark px-3 animatedd bounceInRight slow">Our huge collection of products are essential for your home.</p>
+          <h1 class="text-bg-black el-20 et-30 er-0 eb-0 text-dark font-weight-bold px-3 animatedd bounceInDown slow">Decorate Your Home</h1>
+                <p class="text-bg-green-dk-1 el-25 et-40 er-0 eb-0 px-3 animatedd bounceInUp slow">Our products can be a destination of your home's decorating possibilities.</p>
+          <h1 class="text-bg-white-lighter el-15 et-35 er-0 eb-0 text-dark font-weight-bold px-3 animatedd bounceInRight slow">Luxurious Lifestyle</h1>
+                <p class="text-bg-firebrick-lighter el-20 et-45 er-0 eb-0 px-3 text-white animatedd bounceInLeft slow">Turn your ordinary home into a dreamt luxury home.</p>
+        Previous
+        Next
+  WHO WE ARE
+  <section class="bg-gainsboro py-5">
+    <div class="row mx-75">
+        <div class="col-md-12 text-center">
+            <h1 class="gfont-raleway mb-3" id="page-title">Who We Are</h1>
+            <p class="lead-110 gfont-raleway text-justify">
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: page_desc</p>
+<p>Filename: views/home_view.php</p>
+<p>Line Number: 58</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/d4s9womry9hr/public_html/application/views/home_view.php<br />
+			Line: 58<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/d4s9womry9hr/public_html/application/controllers/Home.php<br />
+			Line: 26<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/d4s9womry9hr/public_html/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+        </div>
+    </div>
+</section>
+  COMPANY OVERVIEW
+        PASSIONATE ABOUT AFFORDABLE STYLE
+        For more than 50 years, we’ve set out to demonstrate home furnishings can be made a better way. Our committed, meticulous and accomplished team is focused on continuous enhancement. Our exclusive products and accessories start with a sketch inspired by our design teams travels around the world.
+        Economical manufacturing promotes customer value and quality.
+        QUALITY DESIGNS & SAMPLING
+        Our in-house designers react promptly to consumer tastes, and realize one style does not fit all. That’s why you’ll find so much to love in our ample collection of room-to-room furnishings.
+        Explore on-trend styles made for blending and standing out.
+        MANUFACTURING & INFRASTRUCTURE
+        Our production facility is equipped with Weaving Machines, Fabric Inspection Capabilities, Processing Machines, Product Development Capabilities using modern equipment, streamlined systems and strict quality control protocols and extensive testing so that products arrive in homes, ready to be loved for years.
+        QUALITY ASSURANCE
+        Raw materials and finished products endure comprehensive assessments for durability, appearance, and feel. Tests and product standards are executed and overseen in our laboratories, on our production floors, in our stock warehouses, and at the point of shipment.
+  COMPANY OVERVIEW
+<section class="bg-gainsboro py-3">
+    <div class="row mx-75 my-5">
+        <div class="col-md-6 wow zoomIn slower">
+            <h3 class="gfont-raleway font-weight-bold text-center">PASSIONATE ABOUT AFFORDABLE STYLE</h3>
+            <img src="https://rituraj.com/assets/img/content/about-img-1.jpg" class="img-fluid" alt="Responsive image">   
+             <p>For more than 50 years, we’ve set out to demonstrate home furnishings can be made a better way. Our committed, meticulous and accomplished team is focused on continuous enhancement. Our exclusive products and accessories start with a sketch inspired by our design teams travels around the world.</p>
+            <p>Economical manufacturing promotes customer value and quality.</p>
+        </div>
+        <div class="col-md-6 wow zoomIn slower">
+            <h3 class="gfont-raleway font-weight-bold text-center">QUALITY DESIGNS &amp; SAMPLING</h3>
+            <img src="https://rituraj.com/assets/img/content/about-img-2.jpg" class="img-fluid" alt="Responsive image"> 
+            <p>Our in-house designers react promptly to consumer tastes, and realize one style does not fit all. That’s why you’ll find so much to love in our ample collection of room-to-room furnishings.</p>
+
+            <p>Explore on-trend styles made for blending and standing out.</p>
+        </div>
+    </div>
+    <div class="row mx-75 my-5">
+        <div class="col-md-6 wow zoomIn slower">
+            <h3 class="gfont-raleway font-weight-bold text-center">MANUFACTURING &amp; INFRASTRUCTURE</h3>
+            <img src="https://rituraj.com/assets/img/content/about-img-4.jpg" class="img-fluid" alt="Responsive image">  
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, quis, delectus. Ducimus dolorem nemo inventore excepturi delectus autem, blanditiis, quibusdam et, corporis sed eum cum similique, esse architecto quia itaque!
+        </div>
+        <div class="col-md-6 wow zoomIn slower">
+            <h3 class="gfont-raleway font-weight-bold text-center">QUALITY ASSURANCE</h3>
+            <img src="https://rituraj.com/assets/img/content/about-img-3.jpg" class="img-fluid" alt="Responsive image">  
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, quis, delectus. Ducimus dolorem nemo inventore excepturi delectus autem, blanditiis, quibusdam et, corporis sed eum cum similique, esse architecto quia itaque!
+        </div>
+    </div>
+</section>
+  End wrapper
+    Sitemaps
+        Products text
+          ABOUT
+          We manufacture a large number of value added product mix of Pillows, Bath, Table linens, Kitchen, and other Textiles along with Wooden items and Personal Protective Equipment (PPE)
+            &amp; Medical supplies
+            which are exported to different parts of world and are available for sale on Amazon or you can buy directly from our factory store.
+        Company
+              [About us](https://rituraj.com/about)
+              [Our Team](https://rituraj.com/team)
+              [Gallery](https://rituraj.com/gallery)
+        Get In Touch
+              [Contact us](https://rituraj.com/contact)
+              [Find us](https://www.google.com/maps/place/Rituraj+Textile+and+General+Industries+Pvt.+Ltd./@28.6830612,77.3759962,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfa8021d59703:0x382b666829b1fd20!8m2!3d28.6830565!4d77.3781849)
+                Connect with us
+        Contacts
+              CONTACTS
+                Address
+                  31B, Loni Road, Mohan Nagar,
+                  Ghaziabad, Uttar Pradesh 201007
+                  Email:
+                  [info@rituraj.com](mailto:info@rituraj.com)
+                  Phone:
+                  [+91-120-4185-100](tel:+911204185100)
+                We are open
+                Mon-Sat from 9am to 6pm
+        WE ARE HIRING
+          Send us your resume at
+            [careers@rituraj.com](mailto: careers@rituraj.com)
+    Copyright
+        Copyright © 2017-2025, Rituraj Textiles
+            [Cookie policy](https://rituraj.com/cookies)
+            [Privacy policy](https://rituraj.com/privacy)
+            [Terms of use](https://rituraj.com/terms)

@@ -1,0 +1,481 @@
+{
+  "title": "Xinyu Zhang@University of California San Diego",
+  "meta_description": "",
+  "main_content": "Home Research Publications Teaching Team Links ML for wireless, and wireless for ML. Related publications: ( SenSys'23 ) RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models Xingyu Chen , Xinyu Zhang ( JSAC'21 ) HiveMind: Towards Cellular Native Machine Learning Model Splitting Song Wang , Xinyu Zhang, Hiromasa Uchiyama, Hiroki Matsuda ( CVPR'21 ) Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals Kun Qian , Shilin Zhu , Xinyu Zhang, Li Erran Li ( Source code and data set ) ( IMWUT/UbiComp'21 ) Robust Inertial Motion Tracking Through Deep Sensor Fusion Across Smart Earbuds And Smartphone Jian Gong , Xinyu Zhang, Yuanjun Huang , Ju Ren, Yaoxue Zhang ( Source code and data set ) ( MobiCom'21 ) Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models Huanhuan Zhang, Anfu Zhou, Yuhan Hu, Chaoyue Li, Guangping Wang, Xinyu Zhang, Huadong Ma, Leilei Wu, Aiyun Chen, Changhui Wu ( IMWUT/UbiComp'21 ) Robust RF Vital Sign Sensing Under Free Body Movement Jian Gong , Xinyu Zhang, Kaixin Lin , Ju Ren, Yaoxue Zhang, Wenxun Qiu ( MobiCom'20 ) OnRL: Improving Mobile Video Telephony via Online Reinforcement Learning Anfu Zhou, Huanhuan Zhang, Guangyuan Su, Leilei Wu, Ruoxuan Ma, Zhen Meng, Xinyu Zhang, Xiufeng Xie, Huadong Ma, Xiaojiang Chen ( MobiCom'19 ) Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony Anfu Zhou, Huanhuan Zhang, Guangyuan Su, Leilei Wu, Ruoxuan Ma, Zhen Meng, Xinyu Zhang, Xiufeng Xie, Huadong Ma, Xiaojiang Chen ( UbiComp/IMWUT'19 ) Learning to Recognize Unmodified Lights with Invisible Features Huanhuan Zhang, Anfu Zhou, Dongzhu Xu, Shaoqing Xu, Xinyu Zhang, Huadong Ma Intelligent and secure IoT. Related publications: ( MobiSys'24 ) Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture Kai Zheng , Wuqiong Zhao , Timothy Woodford , Renjie Zhao , Xinyu Zhang, Yingbo Hua ( UbiComp'24 ) Protego: Securing Wireless Communication Via Programmable Metasurface Ke Sun , Chunyu Xia , Xinyu Zhang, Hao Chen, Charlie Jianzhong Zhang ( SenSys'23 ) NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems Kai Zheng , Kun Qian , Timothy Woodford , Xinyu Zhang ( Best Paper Award ) ( NDSS'23 ) StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors Ke Sun , Chunyu Xia , Songlin Xu , Xinyu Zhang ( MobiCom'22 ) Protego: Securing Wireless Communication Via Programmable Metasurface Xinyi Li, Chao Feng, Fengyi Song, Chenghan Jiang, Yangfan Zhang, Ke Li, Xinyu Zhang, Xiaojiang Chen ( MobiCom'21 ) UltraSE: Single-Channel Speech Enhancement Using Ultrasound Ke Sun , Xinyu Zhang ( CCS'21 ) The Invisible Shadow: How Security Cameras Leak Private Activities Jian Gong , Xinyu Zhang, Ju Ren, Yaoxue Zhang ( SenSys'20 ) \"Alexa, Stop Spying on Me!\": Speech Privacy Protection Against Voice Assistants Ke Sun , Chen Chen , Xinyu Zhang ( SIGCOMM'20 ) NFC+: Breaking NFC Networking Limits through Resonance Engineering Renjie Zhao , Purui Wang, Xianshang Lin, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xinyu Zhang, Chenren Xu, Ming Zhang Millimeter-wave networking through directional and steerable beams. Check our M-Cube and WiMi software-radio testbeds! Related publications: ( MobiSys'21 ) SpaceBeam: LiDAR-Driven One-Shot mmWave Beam Management Timothy Woodford , Xinyu Zhang, Eugene Chai, Karthikeyan Sundaresan, Amir Khojastepour ( MobiCom'20 ) M-Cube: A Millimeter-Wave Massive MIMO Software Radio Renjie Zhao , Timothy Woodford , Teng Wei , Kun Qian , Xinyu Zhang ( Best Paper Award. Check out our M-Cube open-source hardware . We have been distributing M-Cube replicas to the research community. Contact us if you are interested.) ( MobiCom'20 ) Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility Jingqi Huang *, Song Wang *, Xinyu Zhang ( MobiCom'20 ) X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays Song Wang *, Jingqi Huang *, Xinyu Zhang, Hyoil Kim, Sujit Dey ( MobiCom'18 ) Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim ( MobiCom'17 ) Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support Teng Wei , Xinyu Zhang ( MobiCom'17 ) WiFi-Assisted 60 GHz Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim ( NSDI'17 ) Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors Teng Wei , Anfu Zhou , Xinyu Zhang ( INFOCOM'17 ) Beam-forecast: Facilitating Mobile 60 GHz Networks via Model-driven Beam Steering Anfu Zhou, Xinyu Zhang, Huadong Ma ( MobiCom'16 ) OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna Jialiang Zhang , Xinyu Zhang, Pushkar Kulkarni, Parameswaran Ramanathan ( OpenMili demo on YouTube) ( NSDI'16 ) BeamSpy: Enabling Robust 60 GHz Links Under Blockage Sanjib Sur , Xinyu Zhang, Parameswaran Ramanathan, Ranveer Chandra ( SIGMETRICS'15 ) 60 GHz Indoor Networking through Flexible Beams: A Link-Level Profiling Sanjib Sur , Vignesh Venkateswaran , Xinyu Zhang, Parameswaran Ramanathan Printable wireless sensing and smart surfaces for IoT applications. Related publications: ( UbiComp'24 ) KeyStub: A Passive RFID-based Keypad Interface Using Resonant John Nolan , Kun Qian , Xinyu Zhang ( SenSys'23 ) Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding Timothy Woodford , Kun Qian , Xinyu Zhang ( MobiCom'23 ) UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing Kun Qian , Lulu Yao, Kai Zheng , Xinyu Zhang, Tina Ng ( MobiCom'22 ) MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion Kun Qian , Lulu Yao, Xinyu Zhang, Tina Ng ( SIGCOMM'21 ) RoS: Passive Smart Surface for Roadside-to-Vehicle Communication John Nolan *, Kun Qian *, Xinyu Zhang ( MobiCom'21 ) RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing Chao Feng, Xinyi Li, Yangfan Zhang, Xiaojing Wang, Liqiong Chang, Fuwei Wang, Xinyu Zhang, Xiaojiang Chen ( NSDI'18 ) Sensing Human-Object Interaction Through Passive Chipless WiFi Tags Chuhan Gao , Yilong Li , Xinyu Zhang ( MobiCom'18 ) Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction Chuhan Gao , Xinyu Zhang, Suman Banerjee Physical-layer informed mobile applications: bridging the gap between high network throughput and poor user experience. Related publications: ( CoNEXT'17 ) POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks Xiufeng Xie , Xinyu Zhang ( MobiSys'17 ) Accelerating Mobile Web Loading Using Cellular Link Information Xiufeng Xie , Xinyu Zhang, Shilin Zhu ( MobiCom'15 ) piStream: Physical Layer Informed Adaptive Video Streaming Over LTE Xiufeng Xie , Xinyu Zhang, Swarun Kumar, Li Erran Li Visible light as a sensing medium for the Internet of Things. Related publications: ( MobiCom'17 ) Automating Visual Privacy Protection Using a Smart LED Chi Zhang *, Shilin Zhu *, Xinyu Zhang ( LiShield demo on YouTube) ( MobiCom'17 ) Pulsar: Towards Ubiquitous Visible Light Localization Chi Zhang , Xinyu Zhang ( Pulsar demo on YouTube) ( MobiSys'17 ) Enabling High-Precision Visible Light Localization in Today's Buildings Shilin Zhu , Xinyu Zhang ( MobiCom'16 ) LiTell: Robust Indoor Localization Using Unmodified Light Fixtures Chi Zhang , Xinyu Zhang ( LiTell demo on YouTube) ( INFOCOM'15 ) Dancing with Light: Predictive In-frame Rate Selection for Visible Light Networks Jialiang Zhang , Xinyu Zhang, Gang Wu Enabling \"in-air\" mobile interaction through high-precision wireless sensing. UbiK (MobiSys'14) Related publications: ( MobiCom'16 ) Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things Teng Wei , Xinyu Zhang ( Tagyro demo on YouTube) ( MobiCom'15 ) mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios Teng Wei , Xinyu Zhang ( mTrack demo on YouTube) ( MobiCom'15 ) Extending Mobile Interaction Through Near-Field Visible Light Sensing Chi Zhang , Joshua Tabor , Jialiang Zhang , Xinyu Zhang ( Okuli demo on YouTube) ( MobiSys'14 ) Ubiquitous Keyboard for Small Mobile Devices: Harnessing Multipath Fading for Fine-Grained Keystroke Localization Junjue Wang , Kaichen Zhao , Xinyu Zhang, Chunyi Peng ( UbiK demo on YouTube) ( UbiComp'14 ) Leveraging Directional Antenna Capabilities for Fine-Grained Gesture Recognition Pedro Melgarejo, Xinyu Zhang, Parameswaran Ramanathan, David Chu Scalable multi-user MIMO and network MIMO: bridging the gap between theoretical link capacity and practical network throughput. Related publications: ( MobiCom'16 ) Practical MU-MIMO User Selection on 802.11ac Commodity Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim ( INFOCOM'16 ) Random Access Signaling for Network MIMO Uplink Teng Wei , Xinyu Zhang ( MobiCom'15 ) Hekaton: Efficient and Practical Large-Scale MIMO Xiufeng Xie , Eugene Chai, Xinyu Zhang , Karthikeyan Sundaresan, Amir Khojastepour, Sampath Rangarajan ( MobiHoc'15 ) Cross-Cell DoF Distribution: Combating Channel Hardening Effect in Multi-Cell MU-MIMO Networks Xiufeng Xie , Xinyu Zhang, Eugene Chai ( MobiHoc'15 ) Signpost: Scalable MU-MIMO Signaling with Zero CSI Feedback Anfu Zhou , Teng Wei , Xinyu Zhang, Min Liu, ZhongCheng Li ( IPSN'15 ) Bringing Multi-Antenna Gain to Energy-Constrained Wireless Devices Sanjib Sur *, Teng Wei *, Xinyu Zhang ( INFOCOM'14 ) Scalable User Selection for MU-MIMO Networks Xiufeng Xie , Xinyu Zhang ( MobiCom'13 ) Adaptive Feedback Compression for MIMO Networks Xiufeng Xie , Xinyu Zhang, Karthikeyan Sundaresan ( MobiCom'13 ) NEMOx: Scalable Network MIMO for Wireless Networks Xinyu Zhang, Karthikeyan Sundaresan, Mohammad A. (Amir) Khojastepour, Sampath Rangarajan, Kang G. Shin High-fidelity mobile sensing through smart signal processing. Related publications: ( INFOCOM'16 ) Continuous and Fine-grained Breathing Volume Monitoring from Afar Using Wireless Signals Phuc Nguyen, Xinyu Zhang, Ann Halbower, Tam Vu ( MobiCom'15 ) Acoustic Eavesdropping through Wireless Vibrometry Teng Wei , Shu Wang , Anfu Zhou , Xinyu Zhang ( Wireless vibrometry demo on YouTube) ( MobiSys'14 ) Autodirective Audio Capturing Through a Synchronized Smartphone Array Sanjib Sur , Teng Wei , Xinyu Zhang Fundamentals of full-duplex wireless networking. Related publications: ( ToN'16 ) Fundamental Analysis of Full-duplex Gains in Wireless Networks Shu Wang , Vignesh Venkateswaran , Xinyu Zhang ( INFOCOM'15 ) Exploring Full-Duplex Gains in Multi-Cell Wireless Networks: A Spatial Stochastic Framework Shu Wang , Vignesh Venkateswaran , Xinyu Zhang ( INFOCOM'14 ) Does Full-duplex Double the Capacity of Wireless Networks? Xiufeng Xie , Xinyu Zhang ( ICNP'14 ) Semi-Synchronous Channel Access for Full-duplex Wireless Networks Xiufeng Xie , Xinyu Zhang ( HotNets'11 ) The Case for Antenna Cancellation for Scalable Full Duplex Wireless Communications Mohammad A. Khojastepour, Karthikeyan Sundaresan, Sampath Rangarajan, Xinyu Zhang, Sanaz Barghi Ph.D. and M.S. Thesis Work Redesigning the carrier sensing and idle listening mechanism in CSMA wireless networks, to reduce the dominating idle power. Related publications: ( MobiCom'11 ) E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks Xinyu Zhang, Kang G. Shin. (slides: .pptx ) ( Best Paper Award , fast-tracked to IEEE Transactions on Mobile Computing) Redesigning the carrier signaling mechanism in CSMA, to enable coexistence of heterogeneous wireless networks. Related publications: ( MobiHoc'11 ) Enabling Coexistence of Heterogeneous Wireless Systems: Case for ZigBee and WiFi Xinyu Zhang, Kang G. Shin. (slides: .pptx ) ( ToN'11 ) Cooperative Carrier Signaling: Harmonizing Coexisting WPAN and WLAN Devices Xinyu Zhang, Kang G. Shin Redesigning the spectrum allocation/access mechanism in WiFi, to enable the coexistence of heterogeneous channel widths. Related publications: ( ICNP'11 ) Adaptive Subcarrier Nulling: Enabling Partial Spectrum Sharing in Wireless LANs Xinyu Zhang, Kang G. Shin. (slides: .pptx ) Redesigning the collision resolution mechanism of CSMA wireless networks, to enable delay-optimal broadcast and asynchronous cooperative relaying. Related publications: ( INFOCOM'10 ) Chorus: Collision Resolution for Efficient Wireless Broadcast Xinyu Zhang, Kang G. Shin. (slides: .pptx ) ( INFOCOM'10 ) DAC: Distributed Asynchronous Cooperation for Wireless Relay Networks Xinyu Zhang, Kang G. Shin. (slides: .pptx ) ( TMC'11 ) Delay-Optimal Broadcast for Multi-Hop Wireless Networks Using Self-Interference Cancellation Xinyu Zhang, Kang G. Shin To appear in IEEE Transactions on Mobile Computing ( TMC ), 2011 Sensing, scheduling and pricing in cognitive radio networks. Related publications: ( INFOCOM'11 ) Spatio-Temporal Fusion for Small-scale Primary Detection in Cognitive Radio Networks Alexander W. Min, Xinyu Zhang, Kang G. Shin ( JSAC'11 ) Detection of Small-scale Primary Users in Cognitive Radio Networks. Alexander W. Min, Xinyu Zhang, Kang G. Shin ( TMC'11 ) Exploiting Spectrum Heterogeneity in Dynamic Spectrum Market. Alexander W. Min, Xinyu Zhang, Jaehyuk Choi, Kang G. Shin Economics in Network Coding. Related publications: ( INFOCOM'09 ) On the Market Power of Network Coding in P2P Content Distribution Systems. Xinyu Zhang, Baochun Li. (slides: .pdf ) ( TPDS'11 ) On the Market Power of Network Coding in P2P Content Distribution Systems. (Extended version) Xinyu Zhang, Baochun Li Multipath network coding for lossy wireless mesh networks Related publications: ( JSAC'09 ) Optimized Multipath Network Coding in Lossy Wireless Networks. (Extended version of the ICDCS'08 paper) Xinyu Zhang, Baochun Li ( MobiHoc'08 ) Dice: a Game Theoretic Framework for Wireless Multipath Network Coding. Xinyu Zhang, Baochun Li ( ICDCS'08 ) Optimized Multipath Network Coding in Lossy Wireless Networks. Xinyu Zhang, Baochun Li Network coding for multichannel wireless networks, including multi-channel multi-radio, MIMO and OFDMA based systems. Related publications: ( TVT'11 ) Network Coding Aware Dynamic Subcarrier Assignment in OFDMA Wireless Networks. (Extended version of the ICC'08 paper) Xinyu Zhang, Baochun Li ( SECON'08 ) On the Benefits of Network Coding in Multi-Channel Wireless Networks. Xinyu Zhang, Baochun Li ( ICC'08 ) Network Coding Aware Dynamic Subcarrier Assignment in OFDMA Wireless Networks. Xinyu Zhang, Baochun Li Distributed emulation of large-scale wireless networks. Related publications: ( MASS'08 ) Drift: A Highly Condensed Emulation Framework for Mobile Nodes in Server Clusters. (Regular paper) Xinyu Zhang, Baochun Li",
+  "links": [
+    {
+      "url": "http://www.statcounter.com/",
+      "text": ""
+    },
+    {
+      "url": "index.html",
+      "text": "Home"
+    },
+    {
+      "url": "research.html",
+      "text": "Research"
+    },
+    {
+      "url": "publications.html",
+      "text": "Publications"
+    },
+    {
+      "url": "teaching.html",
+      "text": "Teaching"
+    },
+    {
+      "url": "team.html",
+      "text": "Team"
+    },
+    {
+      "url": "links.html",
+      "text": "Links"
+    },
+    {
+      "url": "papers/Xingyu.Chen_SenSys23_RFGen.pdf",
+      "text": "RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9562523",
+      "text": "HiveMind: Towards Cellular Native Machine Learning Model Splitting"
+    },
+    {
+      "url": "papers/Kun.Qian_CVPR21_MVDNet.pdf",
+      "text": "Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals"
+    },
+    {
+      "url": "https://github.com/qiank10/MVDNet",
+      "text": "Source code and data set"
+    },
+    {
+      "url": "papers/Jian.Gong_UbiComp21_DeepIT.pdf",
+      "text": "Robust Inertial Motion Tracking Through Deep Sensor Fusion Across Smart Earbuds And Smartphone"
+    },
+    {
+      "url": "https://github.com/jamesdeep/DeepIT",
+      "text": "Source code and data set"
+    },
+    {
+      "url": "papers/Jian.Gong_UbiComp21_Robust_RF_Sensing.pdf",
+      "text": "Robust RF Vital Sign Sensing Under Free Body Movement"
+    },
+    {
+      "url": "papers/Kai.Zheng_MobiSys24_HybRadar.pdf",
+      "text": "Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture"
+    },
+    {
+      "url": "Ke.Sun_UbiComp24_EgoADL.pdf",
+      "text": "Protego: Securing Wireless Communication Via Programmable Metasurface"
+    },
+    {
+      "url": "papers/Kai.Zheng_SenSys23_NeuroRadar.pdf",
+      "text": "NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems"
+    },
+    {
+      "url": "papers/Ke.Sun_NDSS23_StealthyIMU.pdf",
+      "text": "StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors"
+    },
+    {
+      "url": "papers/Ke.Sun_MobiCom21_UltraSE.pdf",
+      "text": "UltraSE: Single-Channel Speech Enhancement Using Ultrasound"
+    },
+    {
+      "url": "papers/Jian.Gong_CCS21_InvisibleShadow.pdf",
+      "text": "The Invisible Shadow: How Security Cameras Leak Private Activities"
+    },
+    {
+      "url": "papers/KSun_SenSys20_MicShield.pdf",
+      "text": "\"Alexa, Stop Spying on Me!\": Speech Privacy Protection Against Voice Assistants"
+    },
+    {
+      "url": "papers/RZhao_SIGCOMM20_NFC+.pdf",
+      "text": "NFC+: Breaking NFC Networking Limits through Resonance Engineering"
+    },
+    {
+      "url": "http://m3.ucsd.edu",
+      "text": "M-Cube"
+    },
+    {
+      "url": "wimi/index.html",
+      "text": "WiMi"
+    },
+    {
+      "url": "papers/Tim.Woodford_MobiSys21_SpaceBeam.pdf",
+      "text": "SpaceBeam: LiDAR-Driven One-Shot mmWave Beam Management"
+    },
+    {
+      "url": "papers/RZhao_MobiCom20_M-Cube.pdf",
+      "text": "M-Cube: A Millimeter-Wave Massive MIMO Software Radio"
+    },
+    {
+      "url": "http://m3.ucsd.edu/sdr",
+      "text": "M-Cube open-source hardware"
+    },
+    {
+      "url": "papers/JHuang_MobiCom20_V2X.pdf",
+      "text": "Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility"
+    },
+    {
+      "url": "papers/SWang_MobiCom20_X-Array.pdf",
+      "text": "X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays"
+    },
+    {
+      "url": "papers/SSur_MobiCom18_UbiG.pdf",
+      "text": "Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks"
+    },
+    {
+      "url": "papers/TWei_MobiCom17_Pia.pdf",
+      "text": "Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support"
+    },
+    {
+      "url": "papers/SSur_MobiCom17_MUST.pdf",
+      "text": "WiFi-Assisted 60 GHz Networks"
+    },
+    {
+      "url": "papers/TWei_NSDI17_EMi.pdf",
+      "text": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+    },
+    {
+      "url": "papers/JZhang_MobiCom16_OpenMili.pdf",
+      "text": "OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna"
+    },
+    {
+      "url": "https://youtu.be/4AETPMl_Wmk",
+      "text": "OpenMili demo"
+    },
+    {
+      "url": "papers/SSur_NSDI16_BeamSpy.pdf",
+      "text": "BeamSpy: Enabling Robust 60 GHz Links Under Blockage"
+    },
+    {
+      "url": "papers/SSur_SIGMETRICS_60GHzLink.pdf",
+      "text": "60 GHz Indoor Networking through Flexible Beams: A Link-Level Profiling"
+    },
+    {
+      "url": "papers/John.Nolan_UbiComp24_KeyStub.pdf",
+      "text": "KeyStub: A Passive RFID-based Keypad Interface Using Resonant"
+    },
+    {
+      "url": "papers/Timothy.Woodford_SenSys23_MetaSight.pdf",
+      "text": "Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding"
+    },
+    {
+      "url": "papers/Kun.Qian_MobiCom22_MilliMirror.pdf",
+      "text": "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing"
+    },
+    {
+      "url": "papers/Kun.Qian_MobiCom22_MilliMirror.pdf",
+      "text": "MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
+    },
+    {
+      "url": "papers/Nolan_Qian_SIGCOMM21_RoS.pdf",
+      "text": "RoS: Passive Smart Surface for Roadside-to-Vehicle Communication"
+    },
+    {
+      "url": "papers/CGao_NSDI18_LiveTag.pdf",
+      "text": "Sensing Human-Object Interaction Through Passive Chipless WiFi Tags"
+    },
+    {
+      "url": "papers/CGao_MobiCom18_Inkpad.pdf",
+      "text": "Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction"
+    },
+    {
+      "url": "papers/XXie_CoNEXT17_POI360.pdf",
+      "text": "POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks"
+    },
+    {
+      "url": "papers/XXie_MobiSys17_CLAW.pdf",
+      "text": "Accelerating Mobile Web Loading Using Cellular Link Information"
+    },
+    {
+      "url": "papers/XXie_MobiCom15_piStream.pdf",
+      "text": "piStream: Physical Layer Informed Adaptive Video Streaming Over LTE"
+    },
+    {
+      "url": "papers/SZhu_CZhang_MobiCom17_LiShield.pdf",
+      "text": "Automating Visual Privacy Protection Using a Smart LED"
+    },
+    {
+      "url": "https://youtu.be/XZq_HOD9150",
+      "text": "LiShield demo"
+    },
+    {
+      "url": "papers/CZhang_MobiCom17_Pulsar.pdf",
+      "text": "Pulsar: Towards Ubiquitous Visible Light Localization"
+    },
+    {
+      "url": "https://youtu.be/DBGoOdOsMFo",
+      "text": "Pulsar demo"
+    },
+    {
+      "url": "papers/CZhang_MobiCom16_LiTell.pdf",
+      "text": "LiTell: Robust Indoor Localization Using Unmodified Light Fixtures"
+    },
+    {
+      "url": "https://youtu.be/9ot78ZTMDcM",
+      "text": "LiTell demo"
+    },
+    {
+      "url": "papers/JZhang_INFOCOM15_VLC.pdf",
+      "text": "Dancing with Light: Predictive In-frame Rate Selection for Visible Light Networks"
+    },
+    {
+      "url": "papers/TWei_MobiCom16_Tagyro.pdf",
+      "text": "Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things"
+    },
+    {
+      "url": "https://youtu.be/sxTKrBZXP7k",
+      "text": "Tagyro demo"
+    },
+    {
+      "url": "papers/TWei_MobiCom15_mTrack.pdf",
+      "text": "mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LpJ3JrlFAOo",
+      "text": "mTrack demo"
+    },
+    {
+      "url": "papers/CZhang_MobiCom15_Okuli.pdf",
+      "text": "Extending Mobile Interaction Through Near-Field Visible Light Sensing"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NcCnbacKzaQ",
+      "text": "Okuli demo"
+    },
+    {
+      "url": "papers/Wang_MobiSys14_UbiK.pdf",
+      "text": "Ubiquitous Keyboard for Small Mobile Devices: Harnessing\n            Multipath Fading for Fine-Grained Keystroke Localization"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RIIQGNYCFyk",
+      "text": "UbiK demo"
+    },
+    {
+      "url": "papers/Melgarejo_UbiComp14_Gesture.pdf",
+      "text": "Leveraging Directional Antenna Capabilities for Fine-Grained Gesture Recognition"
+    },
+    {
+      "url": "papers/SSur_MobiCom16_MUSE.pdf",
+      "text": "Practical MU-MIMO User Selection on 802.11ac Commodity Networks"
+    },
+    {
+      "url": "papers/TWei_INFOCOM16_NURA.pdf",
+      "text": "Random Access Signaling for Network MIMO Uplink"
+    },
+    {
+      "url": "papers/XXie_MobiCom15_Hekaton.pdf",
+      "text": "Hekaton: Efficient and Practical Large-Scale MIMO"
+    },
+    {
+      "url": "papers/XXie_MobiHoc15_Kardia.pdf",
+      "text": "Cross-Cell DoF Distribution: Combating Channel Hardening Effect in Multi-Cell MU-MIMO Networks"
+    },
+    {
+      "url": "papers/AZhou_MobiHoc15_Signpost.pdf",
+      "text": "Signpost: Scalable MU-MIMO Signaling with Zero CSI Feedback"
+    },
+    {
+      "url": "papers/SSur_TWei_IPSN15_Halma.pdf",
+      "text": "Bringing Multi-Antenna Gain to Energy-Constrained Wireless Devices"
+    },
+    {
+      "url": "papers/Xie_INFOCOM14_OPUS.pdf",
+      "text": "Scalable User Selection for MU-MIMO Networks"
+    },
+    {
+      "url": "papers/Xie-MobiCom13-AFC.pdf",
+      "text": "Adaptive Feedback Compression for MIMO Networks"
+    },
+    {
+      "url": "papers/Zhang-MobiCom13-NEMOx.pdf",
+      "text": "NEMOx: Scalable Network MIMO for Wireless Networks"
+    },
+    {
+      "url": "papers/PNguyen_INFOCOM16_TidalVolume.pdf",
+      "text": "Continuous and Fine-grained Breathing Volume Monitoring from Afar Using Wireless Signals"
+    },
+    {
+      "url": "papers/TWei_MobiCom15_Vibrometry.pdf",
+      "text": "Acoustic Eavesdropping through Wireless Vibrometry"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ufn8JXohEfI",
+      "text": "Wireless vibrometry demo"
+    },
+    {
+      "url": "papers/Sur_Wei_MobiSys14_Dia.pdf",
+      "text": "Autodirective Audio Capturing Through a Synchronized Smartphone Array"
+    },
+    {
+      "url": "papers/SWang_INFOCOM15_fullduplexGain.pdf",
+      "text": "Exploring Full-Duplex Gains in Multi-Cell Wireless Networks: A Spatial Stochastic Framework"
+    },
+    {
+      "url": "papers/Xie_INFOCOM14_fullduplexGain.pdf",
+      "text": "Does Full-duplex Double the Capacity of Wireless Networks?"
+    },
+    {
+      "url": "papers/Xie_ICNP14_FuMAC.pdf",
+      "text": "Semi-Synchronous Channel Access for Full-duplex Wireless Networks"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/xyzhang_kgshin_mobicom11.pdf",
+      "text": "E-MiLi: Energy-Minimizing Idle Listening in\n                    Wireless Networks"
+    },
+    {
+      "url": "talks/xyzhang_kgshin_mobicom11_slides.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2011/xyzhang_kgshin_mobihoc11.pdf",
+      "text": "Enabling Coexistence of\n                                    Heterogeneous Wireless\n                                    Systems: Case for ZigBee and\n                                    WiFi"
+    },
+    {
+      "url": "talks/mobihoc11Slides--xyzhang_kgshin.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "papers/CCS.pdf",
+      "text": "Cooperative Carrier Signaling: Harmonizing\n                                    Coexisting WPAN and WLAN Devices"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/xyzhang_kgshin_icnp11.pdf",
+      "text": "Adaptive Subcarrier Nulling: Enabling\n                                    Partial Spectrum Sharing in Wireless LANs"
+    },
+    {
+      "url": "talks/xyzhang_kgshin_icnp11_slides.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2010/xyzhang-infocom10-chorus-final.pdf",
+      "text": "Chorus: Collision Resolution for Efficient Wireless Broadcast"
+    },
+    {
+      "url": "talks/INFOCOM10Slides--Chorus.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2010/xyzhang-infocom10-dac-final.pdf",
+      "text": "DAC: Distributed Asynchronous Cooperation for Wireless Relay Networks"
+    },
+    {
+      "url": "talks/INFOCOM10Slides--DAC.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2010/infocom_alex.pdf",
+      "text": "Spatio-Temporal Fusion for\n\t\t\t\t\t\t\t\t\t\t\t\t\tSmall-scale Primary\n\t\t\t\t\t\t\t\t\t\t\t\t\tDetection in Cognitive Radio\n\t\t\t\t\t\t\t\t\t\t\t\t\tNetworks"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/JSAC11_Min.pdf",
+      "text": "Detection of Small-scale Primary Users in Cognitive Radio Networks."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-infocom09.pdf",
+      "text": "On the Market Power of\n                                                    Network Coding in P2P\n                                                    Content Distribution\n                                                    Systems."
+    },
+    {
+      "url": "talks/xzhang-infocom09-slides.pdf",
+      "text": ".pdf"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-tpds11.pdf",
+      "text": "On the Market Power of\n                                                    Network Coding in P2P\n                                                    Content Distribution\n                                                    Systems."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-jsac09.pdf",
+      "text": "Optimized Multipath\nNetwork Coding in Lossy Wireless Networks."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-mobihoc08.pdf",
+      "text": "Dice: a Game\nTheoretic Framework for Wireless Multipath Network Coding."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-icdcs08.pdf",
+      "text": "Optimized\nMultipath Network Coding in Lossy Wireless Networks."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-secon08.pdf",
+      "text": "On the\nBenefits of Network Coding in Multi-Channel Wireless Networks."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-icc08.pdf",
+      "text": "Network Coding\nAware Dynamic Subcarrier Assignment in OFDMA Wireless Networks."
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-mass08.pdf",
+      "text": "Drift: A Highly\nCondensed Emulation Framework for Mobile Nodes in Server Clusters."
+    }
+  ],
+  "images": [
+    {
+      "src": "http://c17.statcounter.com/counter.php?sc_project=1797931&java=0&security=5a8882f7&invisible=1",
+      "alt": " "
+    },
+    {
+      "src": "images/sigmetrics15.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/WiMi2_full.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/LiveTag.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/Inkput.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/piStream.png",
+      "alt": ""
+    },
+    {
+      "src": "images/DLit.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/UbiK.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/mTrack.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/Okuli.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/NEMOx.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/Dia.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/vibrometry.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/E-MiLi_testbed.png",
+      "alt": ""
+    },
+    {
+      "src": "images/CCSshowcase.png",
+      "alt": ""
+    },
+    {
+      "src": "images/ASNexpe.png",
+      "alt": ""
+    },
+    {
+      "src": "images/Chorus_DAC.png",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,1113 @@
+{
+  "title": "Min Xu's research works | Fudan University and other places",
+  "meta_description": "Min Xu's 37 research works with 243 citations, including: Dipole engineering at HfO2/SiO2 interface by ultra-thin Al2O3 to modulate flat-band voltage for cryogenic temperatures",
+  "main_content": "Ad What is this page? This page lists works of an author who doesn't have a ResearchGate profile or hasn't added the works to their profile yet. It is automatically generated from public (personal) data to further our legitimate goal of comprehensive and accurate scientific recordkeeping. If you are this author and want this page removed, please let us know . Publications (37) Dipole engineering at HfO2/SiO2 interface by ultra-thin Al2O3 to modulate flat-band voltage for cryogenic temperatures Article April 2025 \u00b7 11 Reads Vacuum Ziqiang Huang \u00b7 Tao Liu \u00b7 Lewen Qian \u00b7 [...] \u00b7 David Wei Zhang Bottom p-i-n Isolation Enabling GAA Nanosheet Transistor for Low-Power Applications Article November 2024 \u00b7 17 Reads IEEE Transactions on Electron Devices Chunlei Wu \u00b7 Yumin Xu \u00b7 Boqian Shen \u00b7 [...] \u00b7 David Wei Zhang A novel gate-all-around (GAA) nanosheet field-effect transistor (NSFET) with bottom p-i-n isolation is proposed for the first time, which can effectively suppress the parasitic subchannel leakage through introducing a reverse-biased p-i-n subtunnel FET (TFET) channel. By combining the advantages of GAA MOS channel and sub-TFET channel, the proposed NSFET with bottom p-i-n isolation scheme can reduce off leakage current to the same level as NSFET with full bottom dielectric isolation (BDI) scheme, exhibiting superior process compatibility and excellent immunity to process variations at the same time. Performance benchmarking in terms of both static power consumption and power delay product of bottom p-i-n NSFETs compared to full BDI NSFETs and PTS NSFETs has been carried out to assess the device performance for low-power operation. Read more Design Technology Co-Optimization for Gate-All-Around Nanosheet Transistors Considering Source/Drain Confinement and Post-Gate Single Diffusion Break Article July 2024 \u00b7 51 Reads \u00b7 2 Citations IEEE Transactions on Electron Devices Dawei Wang \u00b7 Tao Liu \u00b7 Xin Sun \u00b7 [...] \u00b7 David Wei Zhang In this work, a novel self-aligned source/drain confinement (SA-SDC) scheme is proposed to enable the downsizing of gate-all-around (GAA) nanosheet (NS) field-effect transistors (FETs). Compared with the traditional diamond-shaped source/drain (S/D) epitaxy, the proposed SA-SDC scheme suppresses the lateral over expansion and facilitates wrap-around contact (WAC) formation, resulting in the decrease of device area, parasitic capacitance ( C para \\textit{C}_{\\text{para}} ), and resistance ( R para \\textit{R}_{\\text{para}} ). A calibrated 3-D TCAD simulation demonstrates a 35% reduction in the device RC delay for the SA-SDC NS FET. Considering various device structures and channel stress variations induced by diffusion break integration schemes, a comprehensive investigation of the 15-stage ring oscillator (RO) is conducted. By integrating the stress-enhanced postgate single diffusion break (PG-SDB) process, the SA-SDC NAND2 cell achieves an additional 21% reduction in the power dissipation or a 9% increase in the frequency. Power, performance, and area (PPA) are also collaboratively optimized for different applications using the quantitative quality factor. Particularly, the NAND2 cell is optimized within the constrained footprint. The cell, with 30\u201340-nm NS width of the n-type device, exhibits the optimal and robust performance for all the simulated technology/design options. Read more +6 A Comprehensive Study of NF3-Based Selective Etching Processes: Application to the Fabrication of Vertically Stacked Horizontal Gate-All-around Si Nanosheet Transistors Article Full-text available May 2024 \u00b7 179 Reads Nanomaterials Xin Sun \u00b7 Jiayang Li \u00b7 Lewen Qian \u00b7 [...] \u00b7 David Wei Zhang In this paper, we demonstrate a comprehensive study of NF3-based selective etching processes for inner spacer formation and for channel release, enabling stacked horizontal gate-all-around Si nanosheet transistor architectures. A cyclic etching process consisting of an oxidation treatment step and an etching step is proposed and used for SiGe selective etching. The cyclic etching process exhibits a slower etching rate and higher etching selectivity compared to the direct etching process. The cycle etching process consisting of Recipe 1, which has a SiGe etching rate of 0.98 nm/cycle, is used for the cavity etch. The process achieved good interlayer uniformity of cavity depth (cavity depth \u2264 5 \u00b1 0.3 nm), while also obtaining a near-ideal rectangular SiGe etch front shape (inner spacer shape = 0.84) and little Si loss (0.44 nm@ each side). The cycle etching process consisting of Recipe 4 with extremely high etching selectivity is used for channel release. The process realizes the channel release of nanosheets with a multi-width from 30 nm to 80 nm with little Si loss. In addition, a selective isotropic etching process using NF3/O2/Ar gas mixture is used to etch back the SiN film. The impact of the O2/NF3 ratio on the etching selectivity of SiN to Si and the surface roughness of SiN after etching is investigated. With the introduction of O2 into NF3/Ar discharge, the selectivity increases sharply, but when the ratio of O2/NF3 is up to 1.0, the selectivity tends to a constant value and the surface roughness of SiN increases rapidly. The optimal parameter is O2/NF3 = 0.5, resulting in a selectivity of 5.4 and a roughness of 0.19 nm. Read more Download GaN monolithic digital units on P-GaN platform Article May 2024 \u00b7 21 Reads Maolin Pan \u00b7 Hai Huang \u00b7 YiFei Zhao \u00b7 [...] \u00b7 Min Xu +3 Improved Vth Stability and Gate Reliability of GaN-Based MIS-HEMTs by Employing Alternating O2 Plasma Treatment Article Full-text available March 2024 \u00b7 85 Reads \u00b7 1 Citation Nanomaterials Xinling Xie \u00b7 Qiang Wang \u00b7 Maolin Pan \u00b7 [...] \u00b7 Min Xu The Vth stability and gate reliability of AlGaN/GaN metal\u2013insulator\u2013semiconductor high-electron-mobility transistors (MIS-HEMTs) with alternating O2 plasma treatment were systematically investigated in this article. It was found that the conduction band offset at the Al2O3/AlGaN interface was elevated to 2.4 eV, which contributed to the suppressed gate leakage current. The time-dependent dielectric breakdown (TDDB) test results showed that the ALD-Al2O3 with the alternating O2 plasma treatment had better quality and reliability. The AlGaN/GaN MIS-HEMT with the alternating O2 plasma treatment demonstrated remarkable advantages in higher Vth stability under high-temperature and long-term gate bias stress. Read more Download Fabrication of the low-k films with tunable k value as spacers in advanced CMOS technology Article February 2024 \u00b7 123 Reads \u00b7 1 Citation Journal of Vacuum Science & Technology A Vacuum Surfaces and Films Lewen Qian \u00b7 Xin Sun \u00b7 Tao Liu \u00b7 [...] \u00b7 David Wei Zhang In advanced CMOS technology, a suitable spacer scheme is crucial to alleviate the effects of increasing parasitic resistance and capacitance on device performance as the critical dimensions shrinking. Low dielectric constant (low-k) films, possessing a tunable k value ranging from 3.5 to 6.5, were fabricated using plasma-enhanced atomic layer deposition in a single chamber. The fabrication process involved the deposition of the SiN film via SiH2I2 with N2 plasma, as well as the deposition of the SiOX, SiOCN, and SiON films using diisopropylamino silane with O2, Ar/O2, and N2/O2 plasmas, respectively. The introduction of groups containing carbon (C) tended to loosen the film structure, due to its weak bond strength with Si, thus made distinctions in structural and electrical stability. We developed such a process which can adjust the C-group concentration and O, N content to tune the film k value. The SiOx, SiOCN, SiON, and SiN films had high breakdown strength of 9.04, 7.23, 9.41, and over 11 MV cm\u22121, and meanwhile low leakage current density of 2.42 \u00d7 10\u22129, 4.78 \u00d7 10\u22128, 1.29 \u00d7 10\u22129, and 9.26 \u00d7 10\u221210 A cm\u22122, respectively. The films exhibited remarkable thermal stability, enhanced breakdown strength, and suppressed leakage with annealing treatment, which could be attributed to the desorption of \u2014CHX groups. Moreover, the low-k materials demonstrated excellent step coverage both in the inner-spacer cavity and on sidewalls, exploring the potential application as spacers in advanced CMOS structure. Read more +4 A Fast Transient Response Capacitor-Less LDO with Transient Enhancement Technology Article Full-text available February 2024 \u00b7 384 Reads \u00b7 7 Citations Micromachines Chufan Chen \u00b7 Mengyuan Sun \u00b7 Leiyi Wang \u00b7 [...] \u00b7 Min Xu This paper proposes a fast transient load response capacitor-less low-dropout regulator (CL-LDO) for digital analog hybrid circuits in the 180 nm process, capable of converting input voltages from 1.2 V to 1.8 V into an output voltage of 1 V. The design incorporates a rail-to-rail input and push\u2013pull output (RIPO) amplifier to enhance the gain while satisfying the requirement for low power consumption. A super source follower buffer (SSFB) with internal stability is introduced to ensure loop stability. The proposed structure ensures the steady-state performance of the LDO without an on-chip capacitor. The auxiliary circuit, or transient enhancement circuit, does not compromise the steady-state stability and effectively enhances the transient performance during sudden load current steps. The proposed LDO consumes a quiescent current of 47 \u00b5A and achieves 25 \u00b5V/mA load regulation with a load current ranging from 0 to 20 mA. The simulation results demonstrate that a settling time of 0.2 \u00b5s is achieved for load steps ranging from 0 mA to 20 mA, while a settling time of 0.5 \u00b5s is attained for load steps ranging from 20 mA to 0 mA, with an edge time of 0.1 \u00b5s. Read more Download Novel enhancement-mode p-channel GaN MOSFETs with an AlN insert layer Article January 2024 \u00b7 8 Reads IEEE Electron Device Letters Hai Huang \u00b7 Maolin Pan \u00b7 Qiang Wang \u00b7 [...] \u00b7 David Wei Zhang In this work, an enhancement-mode (E-mode) p-channel GaN metal\u2012oxide\u2012semiconductor field-effect transistor (p-MOSFET) with a maximum ON-state current ( I ON ) density of 10.5 mA/mm, threshold voltage ( V TH ) of \u22122.45 V, and I ON / I OFF ratio of 108 is demonstrated on a commercial GaN wafer designed on a p-GaN HEMT. Furthermore, we present a novel E-mode p-FET featuring an AlN insert I ON layer within the p-GaN layer. The AlN layer introduces extra capacitance in the conducting channel and decreases the body factor m of devices. The p-GaN/AlN/p-GaN/AlGaN structure reduces the equivalent channel capacitance, achieving a minimum point-by-point subthreshold swing ( SS ) of 60 mV/dec. Compared with that of the convent I ON al p-GaN channel FET, the SS decreases from 225 to 105 mV/dec over three orders, the V TH shifts to \u22123.05 V, the I ON / I OFF ratio increases to 2 \u00d7 108, and the device also has an ultralow off-state leakage current in the range of 10 \u22128 mA/mm. The proposed structure is compelling for GaN-based complementary metal\u2012oxide\u2012semiconductor (CMOS) logic and power devices. Read more Si Interlayers Trimming Strategy in Gate-All-Around Device Architecture for Si and SiGe Dual-Channel CMOS Integration Article November 2023 \u00b7 70 Reads \u00b7 4 Citations IEEE Transactions on Electron Devices Fei Zhao \u00b7 Yan Li \u00b7 Yongliang Li \u00b7 [...] \u00b7 Wenwu Wang A practicable Si interlayers trimming strategy to attain thinned nanosheet (NS) using an in situ steam generation (ISSG) oxidation and removal process has been proposed for Si and SiGe dual-channel CMOS integration. After adopting the Si interlayers trimming strategy, four-level Si NSs were uniformly thinned from ~11.0 to ~6.4 nm and its device features excellent electrical performance, such as SS = 65 mV/dec, DIBL = 11 mV/V, and I on / I off {I} _{\\text {on}}/{I} _{\\text {off}} = 4.7 \u00d7 1 0 5 4.7\\times 10^{{5}} . This can be attributed to the fact that better gate control and electrostatic capability is achieved due to NSs thinning. Meanwhile, as gate length further scaling, Si interlayers trimming strategy exhibits better short-channel effect (SCE), which is verified by technology computer-aided design (TCAD) simulation. Additionally, the effect of Si interlayers trimming on the threshold voltage ( V TH {V} _{\\text {TH}} ) is comprehensively investigated. It is confirmed that the decrease in V TH {V} _{\\text {TH}} is caused by the changes in metal gate-stack filling between NSs, changes in NS geometry, and geometry-dependent quantum mechanical (QM) effects. Read more Ad Citations (23) ... A flipped voltage follower based output capacitor-less low dropout regulator is attractive for low power SoC applications [27] , [34]- [41], [41]- [46]. It has a simple structure, fast transient responses, good regulation and loop stability, compared to the conventional LDO. ... Reference: A Review on Frequency Compensation and Transient Enhancement Schemes of Flipped Voltage Follower LDO Regulators for SoC Applications A Fast Transient Response Capacitor-Less LDO with Transient Enhancement Technology Citing Article Full-text available February 2024 Micromachines Chufan Chen \u00b7 Mengyuan Sun \u00b7 Leiyi Wang \u00b7 [...] \u00b7 Min Xu ... Meanwhile, there is little research on the threshold stability and gate reliability of the ALD-Al 2 O 3 gate dielectric. We have already characterized the trap states and performance of the device with alternating O 2 plasma treatment in our previous articles [22] . In this work, the V th stability and gate reliability characteristics of the AlGaN/GaN MIS-HEMTs with the alternating O 2 plasma treatment were investigated. ... Reference: Improved Vth Stability and Gate Reliability of GaN-Based MIS-HEMTs by Employing Alternating O2 Plasma Treatment O 2 Plasma Alternately Treated ALD-Al 2 O 3 as Gate Dielectric for High Performance AlGaN/GaN MIS-HEMTs Citing Article Full-text available January 2023 IEEE Access Qiang Wang \u00b7 Maolin Pan \u00b7 Zhang Penghao \u00b7 [...] \u00b7 Min Xu ... Designed with a 180-nanometer process, this regulator eliminates the need for on-chip capacitors while maintaining steady-state performance, improving transient response during load current variations. Sun et al. [39] introduced a fully integrated adaptive on-time (AOT) control buck converter, capable of switching between pulse-width modulation (PWM) and pulse-skip modulation (PSM) based on load current variations, optimizing efficiency under light-load conditions. Fu et al. [40] proposed a method for manufacturing high-performance MEMS accelerometers using the TGV process. ... Reference: Editorial for the Special Issue on Advanced Micro- and Nano-Manufacturing Technologies A Fast Transient Adaptive On-Time Controlled BUCK Converter with Dual Modulation Citing Article Full-text available September 2023 Micromachines Mengyuan Sun \u00b7 Chufan Chen \u00b7 Leiyi Wang \u00b7 [...] \u00b7 Min Xu ... ILD deposition was carried out in Fig. 5r. Finally, metal deposition and contact were established in Fig. 5s [18][19][20] [21] . Compared to traditional devices, Nanosheet iTFET exhibits a larger overlap area between the gate and source metal within the same volume, as illustrated in Fig. 6. ... Reference: Nanosheet integration of induced tunnel field-effect transistor with lower cost and lower power A Buried Thermal Rail (BTR) Technology to Improve Electrothermal Characteristics of Complementary Field-Effect Transistor (CFET) Citing Article Full-text available September 2023 Micromachines Zhecheng Pan \u00b7 Tao Liu \u00b7 Jingwen Yang \u00b7 [...] \u00b7 David Wei Zhang ... In advanced epitaxial structures, Zhang et al. [24] designed an unbuffered AlGaN/GaN epitaxial structure on a SiC substrate, achieving superior crystallinity and surface morphology compared to traditional methods. This innovation improves control over growth stress and contributes to the fabrication of high-performance devices. ... Reference: Editorial for the Special Issue on Advanced Micro- and Nano-Manufacturing Technologies Non-Buffer Epi-AlGaN/GaN on SiC for High-Performance Depletion-Mode MIS-HEMTs Fabrication Citing Article Full-text available July 2023 Micromachines Zhang Penghao \u00b7 Luyu Wang \u00b7 Kaiyue Zhu \u00b7 [...] \u00b7 David Wei Zhang ... Given the thinness of the AlGaN barrier layer, even slight over-etching of the AlGaN layer or plasmainduced damage at the etched surface can substantially reduce the 2DEG channel density, increasing the on-resistance. Thus, research efforts have been dedicated to selectively etching the p-GaN layer, utilizing either oxygen-based processes [13][14][15][16][17] or fluorine-based plasma etching [18][19][20] [21] [22]. In the context of the selective etching process, the inclusion of an over-etching step is essential to guarantee the complete removal of the p-GaN layer. ... Reference: Fluorine-Based Low-Damage Selective Etching Process for E-Mode p-GaN/AlGaN/GaN HFET Fabrication A Novel Atomic-Level Post-Etch-Surface-Reinforcement Process for High-Performance p-GaN Gate HEMTs Fabrication Citing Article Full-text available August 2023 Nanomaterials Luyu Wang \u00b7 Zhang Penghao \u00b7 Kaiyue Zhu \u00b7 [...] \u00b7 David Wei Zhang ... Despite their initial success, FinFETs encountered performance limitations as semiconductor technology advanced to nodes smaller than 3 nm [19][20][21] These limitations included heightened susceptible to SCEs, reliability issues, and significant fabrication challenges. Consequently, GAA NS FETs have emerged as compelling candidates for sub-2-nm nodes 19, 22 offering both superior performance standards and desired capabilities 23,24 GAA NS FETs provide a more robust solution to SCEs due to their fully surrounded gate architecture, which offers improved electrostatic control. This design effectively mitigates leakage currents and enhances the drive current, thereby improving overall device performance. ... Reference: Effects of Bottom Channel Coverage Ratio on Leakage Current and Static Power Consumption of Vertically Stacked GAA Si NS FETs A Novel Scheme for Full Bottom Dielectric Isolation in Stacked Si Nanosheet Gate-All-Around Transistors Citing Article Full-text available May 2023 Micromachines Jingwen Yang \u00b7 Ziqiang Huang \u00b7 Dawei Wang \u00b7 [...] \u00b7 David Wei Zhang ... With regard to the passivation layer, Al 2 O 3 is frequently used as a means to prevent corrosion of underlying metals [36][37][38][39]; this is due to its relatively high chemical robustness. Intergranular oxides have been shown to either hinder or help the LME process [26,[40][41][42][43][44][45][46][47][48]; however, the impact of intergranular Al 2 O 3 is not clear as there have not been many studies regarding Ga on Al 2 O 3 (despite Al 2 O 3 being used as a substrate for the growth of gallium nitride (GaN) [49][50][51][52] [53] and gallium oxide (Ga 2 O 3 ) films [54][55][56][57]). Of the few studies done on Ga with Al 2 O 3 , Yang et al. [58] found on the basis of density functional theory (DFT) that Ga binds preferentially onto Al 2 O 3 (0001) surfaces with a binding energy of \u223c \u2212 1.7 eV. ... Reference: Gallium defects in \u03b1-Al2O3: A density functional theory study In Situ H-Radical Surface Treatment on Aluminum Gallium Nitride for High-Performance Aluminum Gallium Nitride/Gallium Nitride MIS-HEMTs Fabrication Citing Article Full-text available June 2023 Micromachines Yannan Yang \u00b7 Rong Fan \u00b7 Zhang Penghao \u00b7 [...] \u00b7 David Wei Zhang ... Compared to the NSFET with a conventional PTS scheme, implementing the PTS doping scheme only under the gate reduces the increased BTBT current caused by the aggressively high PTS doping. In addition, the SiC material is a wide-bandgap semiconductor material, which further suppresses the substrate leakage current thanks to a larger tunneling barrier width for carriers [27] . Compared to the BOX-NSFET, the SiC-NSFET can avoid stress reduction along the channel direction caused by the bottom oxide isolation layer. ... Reference: Leakage and Thermal Reliability Optimization of Stacked Nanosheet Field-Effect Transistors with SiC Layers Strained Si Nanosheet pFET Based on SiC Strain Relaxed Buffer Layer for High Performance and Low Power Logic Applications Citing Article Full-text available January 2023 IEEE Access Kun Chen \u00b7 Jinwen Yang \u00b7 Chunlei Wu \u00b7 [...] \u00b7 David Wei Zhang ... Fin patterning, which involves photolithography and etching processes, is performed to form the fin. Special care is taken during etching to maintain low surface roughness and controlled grain sizes, which are critical for the device's electrical performance [12] - [13]. The spacer region is formed using the spacer image transfer technique. ... Reference: Revealing the Reliability Performance of a Dielectric Modulated Negative Capacitance Junctionless FinFET Biosensor A Simulation Study of Junctionless Forksheet on Sub-2 nm Node Logic Applications Citing Article July 2023 IEEE Transactions on Electron Devices Xinlong Shi \u00b7 Tao Liu \u00b7 Ying Wang \u00b7 [...] \u00b7 Liming Wang",
+  "links": [
+    {
+      "url": "https://help.researchgate.net/hc/en-us/requests/new?ticket_form_id=13146494812305",
+      "text": "let us know"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388442659_Dipole_engineering_at_HfO2SiO2_interface_by_ultra-thin_Al2O3_to_modulate_flat-band_voltage_for_cryogenic_temperatures",
+      "text": "Dipole engineering at HfO2/SiO2 interface by ultra-thin Al2O3 to modulate flat-band voltage for cryogenic temperatures"
+    },
+    {
+      "url": "publication/388442659_Dipole_engineering_at_HfO2SiO2_interface_by_ultra-thin_Al2O3_to_modulate_flat-band_voltage_for_cryogenic_temperatures",
+      "text": "Article"
+    },
+    {
+      "url": "scientific-contributions/Ziqiang-Huang-2227989584",
+      "text": "Ziqiang Huang"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "scientific-contributions/Lewen-Qian-2226525165",
+      "text": "Lewen Qian"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384319879_Bottom_p-i-n_Isolation_Enabling_GAA_Nanosheet_Transistor_for_Low-Power_Applications",
+      "text": "Bottom p-i-n Isolation Enabling GAA Nanosheet Transistor for Low-Power Applications"
+    },
+    {
+      "url": "publication/384319879_Bottom_p-i-n_Isolation_Enabling_GAA_Nanosheet_Transistor_for_Low-Power_Applications",
+      "text": "Article"
+    },
+    {
+      "url": "profile/Chunlei-Wu",
+      "text": "Chunlei Wu"
+    },
+    {
+      "url": "scientific-contributions/Yumin-Xu-2237457607",
+      "text": "Yumin Xu"
+    },
+    {
+      "url": "scientific-contributions/Boqian-Shen-2237457843",
+      "text": "Boqian Shen"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380924970_Design_Technology_Co-Optimization_for_Gate-All-Around_Nanosheet_Transistors_Considering_SourceDrain_Confinement_and_Post-Gate_Single_Diffusion_Break",
+      "text": "Design Technology Co-Optimization for Gate-All-Around Nanosheet Transistors Considering Source/Drain Confinement and Post-Gate Single Diffusion Break"
+    },
+    {
+      "url": "publication/380924970_Design_Technology_Co-Optimization_for_Gate-All-Around_Nanosheet_Transistors_Considering_SourceDrain_Confinement_and_Post-Gate_Single_Diffusion_Break",
+      "text": "Article"
+    },
+    {
+      "url": "scientific-contributions/Dawei-Wang-2208705862",
+      "text": "Dawei Wang"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "scientific-contributions/Xin-Sun-2208720243",
+      "text": "Xin Sun"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "figure/Schematic-diagram-of-the-RPS-etcher_fig1_380920802",
+      "text": ""
+    },
+    {
+      "url": "figure/A-simplified-process-flow-and-schematic-diagram-of-inner-spacer-formation-a-Hard-mask_fig2_380920802",
+      "text": ""
+    },
+    {
+      "url": "figure/Schematic-diagram-of-cavity-etch-using-the-direct-etching-process-and-the-cyclic-etching_fig3_380920802",
+      "text": ""
+    },
+    {
+      "url": "figure/The-etching-characteristics-of-the-direct-etching-process-and-the-cyclic-etching-process_fig4_380920802",
+      "text": ""
+    },
+    {
+      "url": "figure/Cross-sectional-TEM-images-of-the-Si-SiGe-multilayer-structure-obtained-by-cyclic-etching_fig5_380920802",
+      "text": "+6"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors",
+      "text": "A Comprehensive Study of NF3-Based Selective Etching Processes: Application to the Fabrication of Vertically Stacked Horizontal Gate-All-around Si Nanosheet Transistors"
+    },
+    {
+      "url": "publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors",
+      "text": "Article"
+    },
+    {
+      "url": "publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors",
+      "text": "Full-text available"
+    },
+    {
+      "url": "https://www.researchgate.net/journal/Nanomaterials-2079-4991",
+      "text": "Nanomaterials"
+    },
+    {
+      "url": "scientific-contributions/Xin-Sun-2208720243",
+      "text": "Xin Sun"
+    },
+    {
+      "url": "scientific-contributions/Jiayang-Li-2282814980",
+      "text": "Jiayang Li"
+    },
+    {
+      "url": "scientific-contributions/Lewen-Qian-2226525165",
+      "text": "Lewen Qian"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "journal/Nanomaterials-2079-4991/publication/380920802_A_Comprehensive_Study_of_NF3-Based_Selective_Etching_Processes_Application_to_the_Fabrication_of_Vertically_Stacked_Horizontal_Gate-All-around_Si_Nanosheet_Transistors/links/666c10b085a4ee7261c11cf5/A-Comprehensive-Study-of-NF3-Based-Selective-Etching-Processes-Application-to-the-Fabrication-of-Vertically-Stacked-Horizontal-Gate-All-around-Si-Nanosheet-Transistors.pdf?origin=scientificContributions",
+      "text": "Download"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/380526561_GaN_monolithic_digital_units_on_P-GaN_platform",
+      "text": "GaN monolithic digital units on P-GaN platform"
+    },
+    {
+      "url": "publication/380526561_GaN_monolithic_digital_units_on_P-GaN_platform",
+      "text": "Article"
+    },
+    {
+      "url": "profile/Maolin-Pan",
+      "text": "Maolin Pan"
+    },
+    {
+      "url": "scientific-contributions/Hai-Huang-2080367569",
+      "text": "Hai Huang"
+    },
+    {
+      "url": "scientific-contributions/YiFei-Zhao-2281448959",
+      "text": "YiFei Zhao"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "figure/a-Schematic-cross-sectional-illustration-of-the-AlGaN-GaN-MIS-HEMT-b-Schematic_fig1_379015674",
+      "text": ""
+    },
+    {
+      "url": "figure/a-b-2-m-2-m-surface-morphology-of-the-ALD-Al2O3_fig2_379015674",
+      "text": ""
+    },
+    {
+      "url": "figure/a-Gate-leakage-current-density-characteristic-and-b-FN-tunneling-plot-of-log-J-Eox2_fig3_379015674",
+      "text": ""
+    },
+    {
+      "url": "figure/a-b-tBD-of-device-A-and-device-B-c-d-Weibull-plots-of-the-tBD-distribution-for_fig4_379015674",
+      "text": ""
+    },
+    {
+      "url": "figure/a-b-Temperature-dependent-ID-VGS-characteristics-of-device-A-and-device-B-with-the_fig5_379015674",
+      "text": "+3"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment",
+      "text": "Improved Vth Stability and Gate Reliability of GaN-Based MIS-HEMTs by Employing Alternating O2 Plasma Treatment"
+    },
+    {
+      "url": "publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment",
+      "text": "Article"
+    },
+    {
+      "url": "publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment",
+      "text": "Full-text available"
+    },
+    {
+      "url": "https://www.researchgate.net/journal/Nanomaterials-2079-4991",
+      "text": "Nanomaterials"
+    },
+    {
+      "url": "scientific-contributions/Xinling-Xie-2254420038",
+      "text": "Xinling Xie"
+    },
+    {
+      "url": "scientific-contributions/Qiang-Wang-2155303190",
+      "text": "Qiang Wang"
+    },
+    {
+      "url": "profile/Maolin-Pan",
+      "text": "Maolin Pan"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "journal/Nanomaterials-2079-4991/publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment/links/66051176b839e05a209d7ed6/Improved-Vth-Stability-and-Gate-Reliability-of-GaN-Based-MIS-HEMTs-by-Employing-Alternating-O2-Plasma-Treatment.pdf?origin=scientificContributions",
+      "text": "Download"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/378629994_Fabrication_of_the_low-k_films_with_tunable_k_value_as_spacers_in_advanced_CMOS_technology",
+      "text": "Fabrication of the low-k films with tunable k value as spacers in advanced CMOS technology"
+    },
+    {
+      "url": "publication/378629994_Fabrication_of_the_low-k_films_with_tunable_k_value_as_spacers_in_advanced_CMOS_technology",
+      "text": "Article"
+    },
+    {
+      "url": "scientific-contributions/Lewen-Qian-2226525165",
+      "text": "Lewen Qian"
+    },
+    {
+      "url": "scientific-contributions/Xin-Sun-2208720243",
+      "text": "Xin Sun"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "figure/Conventional-architecture-of-LDO_fig1_378415478",
+      "text": ""
+    },
+    {
+      "url": "figure/Structures-of-a-input-stage-of-RIPO-amplifier-b-complete-schematic-of-RIPO-amplifier_fig2_378415478",
+      "text": ""
+    },
+    {
+      "url": "figure/Schematic-of-super-source-follower-buffer_fig3_378415478",
+      "text": ""
+    },
+    {
+      "url": "figure/Small-signal-modeling-of-proposed-CL-LDO_fig4_378415478",
+      "text": ""
+    },
+    {
+      "url": "figure/Frequency-response-at-different-I-Load-values_fig5_378415478",
+      "text": "+4"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology",
+      "text": "A Fast Transient Response Capacitor-Less LDO with Transient Enhancement Technology"
+    },
+    {
+      "url": "publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology",
+      "text": "Article"
+    },
+    {
+      "url": "publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Chufan-Chen-2262322223",
+      "text": "Chufan Chen"
+    },
+    {
+      "url": "scientific-contributions/Mengyuan-Sun-2262325280",
+      "text": "Mengyuan Sun"
+    },
+    {
+      "url": "scientific-contributions/Leiyi-Wang-2262311203",
+      "text": "Leiyi Wang"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology/fulltext/65d89b24e7670d36abd71670/A-Fast-Transient-Response-Capacitor-Less-LDO-with-Transient-Enhancement-Technology.pdf?origin=scientificContributions",
+      "text": "Download"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/387361372_Novel_enhancement-mode_p-channel_GaN_MOSFETs_with_an_AlN_insert_layer",
+      "text": "Novel enhancement-mode p-channel GaN MOSFETs with an AlN insert layer"
+    },
+    {
+      "url": "publication/387361372_Novel_enhancement-mode_p-channel_GaN_MOSFETs_with_an_AlN_insert_layer",
+      "text": "Article"
+    },
+    {
+      "url": "scientific-contributions/Hai-Huang-2080367569",
+      "text": "Hai Huang"
+    },
+    {
+      "url": "profile/Maolin-Pan",
+      "text": "Maolin Pan"
+    },
+    {
+      "url": "scientific-contributions/Qiang-Wang-2155303190",
+      "text": "Qiang Wang"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/375090153_Si_Interlayers_Trimming_Strategy_in_Gate-All-Around_Device_Architecture_for_Si_and_SiGe_Dual-Channel_CMOS_Integration",
+      "text": "Si Interlayers Trimming Strategy in Gate-All-Around Device Architecture for Si and SiGe Dual-Channel CMOS Integration"
+    },
+    {
+      "url": "publication/375090153_Si_Interlayers_Trimming_Strategy_in_Gate-All-Around_Device_Architecture_for_Si_and_SiGe_Dual-Channel_CMOS_Integration",
+      "text": "Article"
+    },
+    {
+      "url": "profile/Fei-Zhao-75",
+      "text": "Fei Zhao"
+    },
+    {
+      "url": "scientific-contributions/Yan-Li-2130982454",
+      "text": "Yan Li"
+    },
+    {
+      "url": "profile/Yongliang-Li-5",
+      "text": "Yongliang Li"
+    },
+    {
+      "url": "profile/Wenwu-Wang-4",
+      "text": "Wenwu Wang"
+    },
+    {
+      "url": "publication/388295274_A_Review_on_Frequency_Compensation_and_Transient_Enhancement_Schemes_of_Flipped_Voltage_Follower_LDO_Regulators_for_SoC_Applications",
+      "text": "A Review on Frequency Compensation and Transient Enhancement Schemes of Flipped Voltage Follower LDO Regulators for SoC Applications"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology",
+      "text": "A Fast Transient Response Capacitor-Less LDO with Transient Enhancement Technology"
+    },
+    {
+      "url": "publication/378415478_A_Fast_Transient_Response_Capacitor-Less_LDO_with_Transient_Enhancement_Technology",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Chufan-Chen-2262322223",
+      "text": "Chufan Chen"
+    },
+    {
+      "url": "scientific-contributions/Mengyuan-Sun-2262325280",
+      "text": "Mengyuan Sun"
+    },
+    {
+      "url": "scientific-contributions/Leiyi-Wang-2262311203",
+      "text": "Leiyi Wang"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "publication/379015674_Improved_Vth_Stability_and_Gate_Reliability_of_GaN-Based_MIS-HEMTs_by_Employing_Alternating_O2_Plasma_Treatment",
+      "text": "Improved Vth Stability and Gate Reliability of GaN-Based MIS-HEMTs by Employing Alternating O2 Plasma Treatment"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/376934021_O_2_Plasma_Alternately_Treated_ALD-Al_2_O_3_as_Gate_Dielectric_for_High_Performance_AlGaNGaN_MIS-HEMTs",
+      "text": "O 2 Plasma Alternately Treated ALD-Al 2 O 3 as Gate Dielectric for High Performance AlGaN/GaN MIS-HEMTs"
+    },
+    {
+      "url": "publication/376934021_O_2_Plasma_Alternately_Treated_ALD-Al_2_O_3_as_Gate_Dielectric_for_High_Performance_AlGaNGaN_MIS-HEMTs",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Qiang-Wang-2155303190",
+      "text": "Qiang Wang"
+    },
+    {
+      "url": "profile/Maolin-Pan",
+      "text": "Maolin Pan"
+    },
+    {
+      "url": "profile/Zhang_Penghao2",
+      "text": "Zhang Penghao"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "publication/386593895_Editorial_for_the_Special_Issue_on_Advanced_Micro-_and_Nano-Manufacturing_Technologies",
+      "text": "Editorial for the Special Issue on Advanced Micro- and Nano-Manufacturing Technologies"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/374306462_A_Fast_Transient_Adaptive_On-Time_Controlled_BUCK_Converter_with_Dual_Modulation",
+      "text": "A Fast Transient Adaptive On-Time Controlled BUCK Converter with Dual Modulation"
+    },
+    {
+      "url": "publication/374306462_A_Fast_Transient_Adaptive_On-Time_Controlled_BUCK_Converter_with_Dual_Modulation",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Mengyuan-Sun-2262325280",
+      "text": "Mengyuan Sun"
+    },
+    {
+      "url": "scientific-contributions/Chufan-Chen-2262322223",
+      "text": "Chufan Chen"
+    },
+    {
+      "url": "scientific-contributions/Leiyi-Wang-2262311203",
+      "text": "Leiyi Wang"
+    },
+    {
+      "url": "scientific-contributions/Min-Xu-2223079741",
+      "text": "Min Xu"
+    },
+    {
+      "url": "publication/381923302_Nanosheet_integration_of_induced_tunnel_field-effect_transistor_with_lower_cost_and_lower_power",
+      "text": "Nanosheet integration of induced tunnel field-effect transistor with lower cost and lower power"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373745362_A_Buried_Thermal_Rail_BTR_Technology_to_Improve_Electrothermal_Characteristics_of_Complementary_Field-Effect_Transistor_CFET",
+      "text": "A Buried Thermal Rail (BTR) Technology to Improve Electrothermal Characteristics of Complementary Field-Effect Transistor (CFET)"
+    },
+    {
+      "url": "publication/373745362_A_Buried_Thermal_Rail_BTR_Technology_to_Improve_Electrothermal_Characteristics_of_Complementary_Field-Effect_Transistor_CFET",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Zhecheng-Pan-2212316179",
+      "text": "Zhecheng Pan"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "scientific-contributions/Jingwen-Yang-2208692758",
+      "text": "Jingwen Yang"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/386593895_Editorial_for_the_Special_Issue_on_Advanced_Micro-_and_Nano-Manufacturing_Technologies",
+      "text": "Editorial for the Special Issue on Advanced Micro- and Nano-Manufacturing Technologies"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373420478_Non-Buffer_Epi-AlGaNGaN_on_SiC_for_High-Performance_Depletion-Mode_MIS-HEMTs_Fabrication",
+      "text": "Non-Buffer Epi-AlGaN/GaN on SiC for High-Performance Depletion-Mode MIS-HEMTs Fabrication"
+    },
+    {
+      "url": "publication/373420478_Non-Buffer_Epi-AlGaNGaN_on_SiC_for_High-Performance_Depletion-Mode_MIS-HEMTs_Fabrication",
+      "text": "Full-text available"
+    },
+    {
+      "url": "profile/Zhang_Penghao2",
+      "text": "Zhang Penghao"
+    },
+    {
+      "url": "scientific-contributions/Luyu-Wang-2218929166",
+      "text": "Luyu Wang"
+    },
+    {
+      "url": "scientific-contributions/Kaiyue-Zhu-2218920215",
+      "text": "Kaiyue Zhu"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/388146417_Fluorine-Based_Low-Damage_Selective_Etching_Process_for_E-Mode_p-GaNAlGaNGaN_HFET_Fabrication",
+      "text": "Fluorine-Based Low-Damage Selective Etching Process for E-Mode p-GaN/AlGaN/GaN HFET Fabrication"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/373009033_A_Novel_Atomic-Level_Post-Etch-Surface-Reinforcement_Process_for_High-Performance_p-GaN_Gate_HEMTs_Fabrication",
+      "text": "A Novel Atomic-Level Post-Etch-Surface-Reinforcement Process for High-Performance p-GaN Gate HEMTs Fabrication"
+    },
+    {
+      "url": "publication/373009033_A_Novel_Atomic-Level_Post-Etch-Surface-Reinforcement_Process_for_High-Performance_p-GaN_Gate_HEMTs_Fabrication",
+      "text": "Full-text available"
+    },
+    {
+      "url": "https://www.researchgate.net/journal/Nanomaterials-2079-4991",
+      "text": "Nanomaterials"
+    },
+    {
+      "url": "scientific-contributions/Luyu-Wang-2218929166",
+      "text": "Luyu Wang"
+    },
+    {
+      "url": "profile/Zhang_Penghao2",
+      "text": "Zhang Penghao"
+    },
+    {
+      "url": "scientific-contributions/Kaiyue-Zhu-2218920215",
+      "text": "Kaiyue Zhu"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/388437432_Effects_of_Bottom_Channel_Coverage_Ratio_on_Leakage_Current_and_Static_Power_Consumption_of_Vertically_Stacked_GAA_Si_NS_FETs",
+      "text": "Effects of Bottom Channel Coverage Ratio on Leakage Current and Static Power Consumption of Vertically Stacked GAA Si NS FETs"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/371936691_A_Novel_Scheme_for_Full_Bottom_Dielectric_Isolation_in_Stacked_Si_Nanosheet_Gate-All-Around_Transistors",
+      "text": "A Novel Scheme for Full Bottom Dielectric Isolation in Stacked Si Nanosheet Gate-All-Around Transistors"
+    },
+    {
+      "url": "publication/371936691_A_Novel_Scheme_for_Full_Bottom_Dielectric_Isolation_in_Stacked_Si_Nanosheet_Gate-All-Around_Transistors",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Jingwen-Yang-2208692758",
+      "text": "Jingwen Yang"
+    },
+    {
+      "url": "scientific-contributions/Ziqiang-Huang-2227989584",
+      "text": "Ziqiang Huang"
+    },
+    {
+      "url": "scientific-contributions/Dawei-Wang-2208705862",
+      "text": "Dawei Wang"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/381156546_Gallium_defects_in_a-Al2O3_A_density_functional_theory_study",
+      "text": "Gallium defects in \u03b1-Al2O3: A density functional theory study"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/371792774_In_Situ_H-Radical_Surface_Treatment_on_Aluminum_Gallium_Nitride_for_High-Performance_Aluminum_Gallium_NitrideGallium_Nitride_MIS-HEMTs_Fabrication",
+      "text": "In Situ H-Radical Surface Treatment on Aluminum Gallium Nitride for High-Performance Aluminum Gallium Nitride/Gallium Nitride MIS-HEMTs Fabrication"
+    },
+    {
+      "url": "publication/371792774_In_Situ_H-Radical_Surface_Treatment_on_Aluminum_Gallium_Nitride_for_High-Performance_Aluminum_Gallium_NitrideGallium_Nitride_MIS-HEMTs_Fabrication",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Yannan-Yang-2218926111",
+      "text": "Yannan Yang"
+    },
+    {
+      "url": "scientific-contributions/Rong-Fan-2218930030",
+      "text": "Rong Fan"
+    },
+    {
+      "url": "profile/Zhang_Penghao2",
+      "text": "Zhang Penghao"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/379211998_Leakage_and_Thermal_Reliability_Optimization_of_Stacked_Nanosheet_Field-Effect_Transistors_with_SiC_Layers",
+      "text": "Leakage and Thermal Reliability Optimization of Stacked Nanosheet Field-Effect Transistors with SiC Layers"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/371649826_Strained_Si_Nanosheet_pFET_based_on_SiC_Strain_Relaxed_Buffer_Layer_for_High_Performance_and_Low_Power_Logic_Applications",
+      "text": "Strained Si Nanosheet pFET Based on SiC Strain Relaxed Buffer Layer for High Performance and Low Power Logic Applications"
+    },
+    {
+      "url": "publication/371649826_Strained_Si_Nanosheet_pFET_based_on_SiC_Strain_Relaxed_Buffer_Layer_for_High_Performance_and_Low_Power_Logic_Applications",
+      "text": "Full-text available"
+    },
+    {
+      "url": "scientific-contributions/Kun-Chen-2036182798",
+      "text": "Kun Chen"
+    },
+    {
+      "url": "scientific-contributions/Jinwen-Yang-2253976179",
+      "text": "Jinwen Yang"
+    },
+    {
+      "url": "scientific-contributions/Chunlei-Wu-2253948705",
+      "text": "Chunlei Wu"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "publication/386061117_Revealing_the_Reliability_Performance_of_a_Dielectric_Modulated_Negative_Capacitance_Junctionless_FinFET_Biosensor",
+      "text": "Revealing the Reliability Performance of a Dielectric Modulated Negative Capacitance Junctionless FinFET Biosensor"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370990783_A_Simulation_Study_of_Junctionless_Forksheet_on_Sub-2_nm_Node_Logic_Applications",
+      "text": "A Simulation Study of Junctionless Forksheet on Sub-2 nm Node Logic Applications"
+    },
+    {
+      "url": "profile/Xinlong-Shi",
+      "text": "Xinlong Shi"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "profile/Ying-Wang-500",
+      "text": "Ying Wang"
+    },
+    {
+      "url": "profile/Liming-Wang-41",
+      "text": "Liming Wang"
+    },
+    {
+      "url": "profile/David-Zhang-17",
+      "text": "David Wei Zhang"
+    },
+    {
+      "url": "profile/Chunlei-Wu",
+      "text": "Chunlei Wu"
+    },
+    {
+      "url": "profile/Maolin-Pan",
+      "text": "Maolin Pan"
+    },
+    {
+      "url": "scientific-contributions/Tao-Liu-2087011300",
+      "text": "Tao Liu"
+    },
+    {
+      "url": "scientific-contributions/Saisheng-Xu-2212322858",
+      "text": "Saisheng Xu"
+    },
+    {
+      "url": "scientific-contributions/Kun-Chen-2036182798",
+      "text": "Kun Chen"
+    },
+    {
+      "url": "scientific-contributions/Chen-Wang-2042325836",
+      "text": "Chen Wang"
+    },
+    {
+      "url": "scientific-contributions/Dawei-Wang-2208705862",
+      "text": "Dawei Wang"
+    },
+    {
+      "url": "scientific-contributions/Jingwen-Yang-2208692758",
+      "text": "Jingwen Yang"
+    },
+    {
+      "url": "scientific-contributions/Xin-Sun-2208720243",
+      "text": "Xin Sun"
+    },
+    {
+      "url": "/journal/Nanomaterials-2079-4991",
+      "text": "Nanomaterials"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/Fudan_University2",
+      "text": "Fudan University"
+    },
+    {
+      "url": "/directory/profiles",
+      "text": "Browse more researchers"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/318727562694656-1453001980387_Q64/Chunlei-Wu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.researchgate.net/publication/380920802/figure/fig1/AS:11431281251786718@1718358196888/Schematic-diagram-of-the-RPS-etcher_Q320.jpg",
+      "alt": "Schematic diagram of the RPS etcher."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/380920802/figure/fig2/AS:11431281251770969@1718358199496/A-simplified-process-flow-and-schematic-diagram-of-inner-spacer-formation-a-Hard-mask_Q320.jpg",
+      "alt": "A simplified process flow and schematic diagram of inner spacer formation. (a) Hard mask growth and pattern formation. (b) Fin recess. (c) Polymer removal and oxide removal. (d) SiGe cavity etch for defining depth of the inner spacer. (e) Inner spacer film deposition. (f) Inner spacer film etch back."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/380920802/figure/fig3/AS:11431281251786724@1718358203117/Schematic-diagram-of-cavity-etch-using-the-direct-etching-process-and-the-cyclic-etching_Q320.jpg",
+      "alt": "Schematic diagram of cavity etch using the direct etching process and the cyclic etching process."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/380920802/figure/fig4/AS:11431281251834776@1718358206728/The-etching-characteristics-of-the-direct-etching-process-and-the-cyclic-etching-process_Q320.jpg",
+      "alt": "The etching characteristics of the direct etching process and the cyclic etching process consisting of different etching recipes. (a) SiGe etching rate. (b) Etching selectivity of SiGe to Si. (c) Etching selectivity of SiGe to SiN."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/380920802/figure/fig5/AS:11431281251776790@1718358213637/Cross-sectional-TEM-images-of-the-Si-SiGe-multilayer-structure-obtained-by-cyclic-etching_Q320.jpg",
+      "alt": "Cross-sectional TEM images of the Si/SiGe multilayer structure obtained by cyclic etching consisting of Recipe 1 with 5 cycles. (a) The SiGe etch front shape. (b) The interlayer uniformity of cavity depth. (c) The Si loss of NS."
+    },
+    {
+      "src": "https://i1.rgstatic.net/partner-brand/asset/AS:11431281238468984@1713953143253/logo",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.researchgate.net/publication/379015674/figure/fig1/AS:11431281232122947@1711608184134/a-Schematic-cross-sectional-illustration-of-the-AlGaN-GaN-MIS-HEMT-b-Schematic_Q320.jpg",
+      "alt": "(a) Schematic cross-sectional illustration of the AlGaN/GaN MIS-HEMT. (b) Schematic process flow of depositing ALD-Al2O3 film with the alternating O2 plasma treatment."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/379015674/figure/fig2/AS:11431281232113860@1711608184522/a-b-2-m-2-m-surface-morphology-of-the-ALD-Al2O3_Q320.jpg",
+      "alt": "(a,b) 2 \u00b5m \u00d7 2 \u00b5m surface morphology of the ALD-Al2O3."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/379015674/figure/fig3/AS:11431281232122948@1711608185441/a-Gate-leakage-current-density-characteristic-and-b-FN-tunneling-plot-of-log-J-Eox2_Q320.jpg",
+      "alt": "(a) Gate leakage current density characteristic and (b) FN tunneling plot of log (J/Eox2) versus 1/Eox for device A and device B."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/379015674/figure/fig4/AS:11431281232020919@1711608185870/a-b-tBD-of-device-A-and-device-B-c-d-Weibull-plots-of-the-tBD-distribution-for_Q320.jpg",
+      "alt": "(a,b) tBD of device A and device B. (c,d) Weibull plots of the tBD distribution for device A and device B."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/379015674/figure/fig5/AS:11431281232122949@1711608186453/a-b-Temperature-dependent-ID-VGS-characteristics-of-device-A-and-device-B-with-the_Q320.jpg",
+      "alt": "(a,b) Temperature-dependent ID-VGS characteristics of device A and device B with the measurement temperature increasing from 30 to 150 \u00b0C."
+    },
+    {
+      "src": "https://i1.rgstatic.net/partner-brand/asset/AS:11431281238468984@1713953143253/logo",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.researchgate.net/publication/378415478/figure/fig1/AS:11431281225386558@1708695216340/Conventional-architecture-of-LDO_Q320.jpg",
+      "alt": "Figure 1. Conventional architecture of LDO."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/378415478/figure/fig2/AS:11431281225300052@1708695216485/Structures-of-a-input-stage-of-RIPO-amplifier-b-complete-schematic-of-RIPO-amplifier_Q320.jpg",
+      "alt": "Figure 2. Structures of (a) input stage of RIPO amplifier, (b) complete schematic of RIPO amplifier."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/378415478/figure/fig3/AS:11431281225300053@1708695216639/Schematic-of-super-source-follower-buffer_Q320.jpg",
+      "alt": "Figure 3. Schematic of super source follower buffer."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/378415478/figure/fig4/AS:11431281225386560@1708695216797/Small-signal-modeling-of-proposed-CL-LDO_Q320.jpg",
+      "alt": "Figure 4. Small-signal modeling of proposed CL-LDO."
+    },
+    {
+      "src": "https://www.researchgate.net/publication/378415478/figure/fig5/AS:11431281225300054@1708695216968/Frequency-response-at-different-I-Load-values_Q320.jpg",
+      "alt": "Figure 5. Frequency response at different I Load values."
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281155197680-1683105983032_Q64/Fei-Zhao-75.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/657552111054848-1533784048698_Q64/Yongliang-Li-5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/809165891063810-1569931590791_Q64/Wenwu-Wang-4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/partner-brand/asset/AS:11431281238468984@1713953143253/logo",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/889998932987916-1589203689906_Q64/Xinlong-Shi.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/1017419782950913-1619583187453_Q64/Liming-Wang-41.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/318727562694656-1453001980387_Q64/Chunlei-Wu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267469476827160%401440781100512_m",
+      "alt": ""
+    }
+  ]
+}

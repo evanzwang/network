@@ -1,0 +1,704 @@
+  Google Tag Manager
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/
+  Begin comScore Tag
+  End comScore Tag
+        Bored Panda works better on our iPhone app
+        [Continue in app](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Takeover&mt=8)
+            Get Premium
+            Dark mode theme is available exclusively for premium users. Learn more about the benefits of subscribing.
+              No fees, cancel anytime.
+          [Upgrade now](/premium/?utm_source=boredpanda&utm_medium=darkmode&utm_campaign=premium_darkmode)
+            Sign In
+              <img class="desktop" src="
+              /wp-content/themes/boredpanda/images/premium/primis-popup-cover.webp">
+            Get Premium – Enjoy No Ads
+                  Modal close
+            Are you sure you want to post this?
+            We're asking people to rethink comments that seem similar to others that have been reported or downvoted
+              Dialog close
+              Facebook
+          Facebook Post
+              Messenger radial
+          Messenger
+              Twitter x
+          X Post
+              Whatsapp
+          WhatsApp
+              Pinterest share
+          Pinterest
+              Mail share
+          Email
+        Copy Link
+    Tap
+      open in external browser
+    Want a Better Reading Experience?
+      "Open in External Browser"
+            ko with:loginForm
+              Log In
+              ko if: socialEnabled
+                Continue with Facebook
+                Continue with Apple
+              /ko
+              ko ifnot: socialEnabled
+              Please use a standard web browser (like Safari, Chrome, Firefox, Edge) to log in with Google or Facebook. Social logins don’t work in some apps.
+                or
+                    New to Bored Panda?
+                    Sign Up
+              By continuing, you agree and acknowledge that you've read to Bored Panda's
+                [Terms of Service](/terms-of-service/)
+            ko with: signupForm
+                I would like to get emails about cool stuff on Bored Panda
+                  Have an account?
+            ko with: forgotForm
+                Reset your password
+                Enter your email address or username and we’ll send you a link to reset your password
+                Check your inbox
+                An email with a link to reset your password was sent to the email address associated with your account
+                  Didn't get an email?
+            ko with: registerEmail
+              Provide email
+              Please enter your email to complete registration
+            ko with: accountActivation
+              Activate to continue
+              Your account isn't active yet. We've emailed you an activation link. Please check your inbox and click the link to activate your account
+          We and our trusted partners use technology such as cookies on our site to personalize content and ads, provide
+          social media features, and analyze our traffic. You can read more about it and change your preferences
+            [here](/privacy-policy/)
+            .
+    TODO: Remove this check after these types are implemented in apps
+            Bored Panda iOS App
+            Available on App Store
+            [Continue in App](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Header&mt=8)
+            Bored Panda Android App
+            Available on Google Play
+        By using our services you agree to our use of cookies to improve your visit. You can change your preferences
+      Agree
+              [BoredPanda](https://www.boredpanda.com)
+                Tooltip close
+            Search
+                  Add post form top
+            Add Post
+        @TODO: implement with new search feature
+        <div class="search-wrapper">
+        <div class="search-input-wrapper">
+        <div class="search-icon">
+        </div>
+        <input class="search-input" type="text" placeholder="Search Bored Panda" />
+              CATEGORIES
+              [Funny](https://www.boredpanda.com/funny/)
+              [Art](https://www.boredpanda.com/art/)
+              [Shopping](https://www.boredpanda.com/shopping/)
+              [Relationships](https://www.boredpanda.com/relationships/)
+              [Other](https://www.boredpanda.com/other/)
+              [Animals](https://www.boredpanda.com/animals/)
+              [Travel](https://www.boredpanda.com/travel/)
+              [Social Issues](https://www.boredpanda.com/social-issues/)
+              [Parenting](https://www.boredpanda.com/parenting/)
+              [Community](https://www.boredpanda.com/community/)
+              [Comics](https://www.boredpanda.com/comics/)
+              [Entertainment](https://www.boredpanda.com/entertainment/)
+              [Food](https://www.boredpanda.com/food/)
+              [Curiosities](https://www.boredpanda.com/curiosities/)
+              [Home & Design](https://www.boredpanda.com/home-design/)
+              [Work & Money](https://www.boredpanda.com/work-money/)
+              [History](https://www.boredpanda.com/history/)
+              [Science & Technology](https://www.boredpanda.com/science-technology/)
+              [Occasions](https://www.boredpanda.com/occasions/)
+              [Wholesome](https://www.boredpanda.com/wholesome/)
+              [Health](https://www.boredpanda.com/health/)
+              [Pet Wellness](https://www.boredpanda.com/pet-wellness/)
+              [Quotes](https://www.boredpanda.com/quotes/)
+              [Environment](https://www.boredpanda.com/environment/)
+              SHOW ALL CATEGORIES
+              SHOW LESS CATEGORIES
+                PLAY & VOTE
+              [Smart Games](/games/)
+              [Quiz · Trivia](/quizzes/)
+              [Polls](/polls/)
+              [Face-Off](/showdowns/)
+                WHAT'S NEW?
+                  [Top Posts](/top/)
+                  [Premium](/premium/)
+                  [Top Users](/users-top/)
+                SUBSCRIBE
+              [Newsletter](/bored-panda-newsletter/)
+              Notifications
+                RESOURCES
+                    Dark mode
+                [Add new post](/add-new-post/)
+                [Contact](/contact/)
+                [About us](/about-us/)
+                [Jobs](/jobs/)
+                [Advertise](https://www.boredpanda.com/advertise/)
+                [Sitemap](/sitemap-page/)
+                [Privacy Policy](/privacy-policy/)
+                GET THE APP
+            © 2025 Bored Panda
+            Premium: 50% Off!
+            News
+            Facts
+            Reviews
+            Games
+          [About Us](https://www.boredpanda.com/about-us/)
+          [Get the App](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Sidebar&mt=8)
+              Add post
+            [Home](https://www.boredpanda.com)
+            [Trending](https://www.boredpanda.com?show=trending)
+            [Latest](https://www.boredpanda.com?show=recent)
+        The Bored Panda iOS app is live!
+      Fight boredom with iPhones and iPads
+      [Bored Panda](https://www.boredpanda.com)
+          [Partnership](https://www.boredpanda.com/partnership/)
+          [Success stories](https://www.boredpanda.com/success-stories/)
+        <li>
+        <a href="
+        "
+        ?//=__('Challenges', 'boredpanda')?
+        </a>
+        </li>
+        Challenges
+            For Bored Panda Members Only, Join Our Weekly Newsletter
+              Yes, subscribe me to Bored Panda Weekly Newsletter!
+              Continue
+                ×
+                Sidebar
+                /Sidebar
+                          Join the Fun!
+                        Join 1.2 million Panda readers who get the best art, memes, and fun stories every week!
+                            Form
+                                Sign-up Form Inputs
+                                If one input
+                                          Sign Up »
+                                              Loading...
+                                If more than one input
+                                /Sign-up Form Inputs
+                                Privacy policy
+                                          P.S. It's 100% free, unsubscribe anytime.
+                            /Form
+            SUCCESS PAGE
+                          Thank you!
+                        You're on the list! Expect to receive your first email very soon!
+            Bored Panda is Even Better on the App!
+                Stay Updated with Real-Time Notifications
+                Instant Access via Homescreen Tap
+                Simple Interface - Even Your Cat Can Use It!
+              [Get it now](https://play.google.com/store/apps/details?id=com.boredpanda.android&referrer=utm_source%3Dfacebook%26utm_medium%3Dcrosspromo%26utm_content%3Dbutton%26utm_campaign%3Dweb_to_app_utm)
+                          Facebook share
+                          Twitter share
+                      Twitter
+                      Open list views
+                  144K
+                  views
+                ,
+                Mar 09, 2020
+              30 Illusion Cakes By The BakeKing That Are Too Good To Eat
+                      [Hidrėlėy](https://www.boredpanda.com/author/hidreley-btu/)
+                      Pro member
+                          Open list comments
+                      39
+                          Vote arrow up
+                          Vote arrow down
+                      343
+                                    Checkmark
+                                  Link copied!
+                            Share icon
+                        Share
+                      Add source
+                      ADVERTISEMENT
+                There are plenty of posts about confectionery on
+                  , as there's a massive demand for sweet news. Some use cakes as a part of some
+                  [imagined situation](../confectionery-art-matteo-stucchi/?utm_source=google&utm_medium=organic&utm_campaign=organic%20)
+                  , some are in it for the
+                  [unique art itself](../confectionery-art-cakes-tortik-annushka/?utm_source=google&utm_medium=organic&utm_campaign=organic,%20)
+                  [creative choices](../creative-cakes-art/?utm_source=google&utm_medium=organic&utm_campaign=organic)
+                  , and some create cool desserts that are just
+                  [plain creepy](../scary-cakes-guymeetscake-andrew-fuller/?utm_source=google&utm_medium=organic&utm_campaign=organic)
+                  . No matter the preference, in baking, like in real cake, there are layers of hierarchy: only a select few become the creme de la creme, cream of the crop, top of the food chain, the icing on the cake. Ben Cullen, 28, is one of them. His cake designs have a stunning range—from something that looks like it came from a fast-food diner to edible clothes, to stylized-yet-lifelike busts, to stabs at horror movies, to vegetables and optical illusions—he can do it all, it seems. His edible art messes with your brain, too! Some of his eye tricks look better on the outside than on the inside, and some the other way around. Some things seem so delicious that you don't care what they'd actually taste like, and some you wouldn't approach from miles away (they're still probably delicious, though.) In any case, check his food art out and see for yourself. If you felt a sugar rush and you're hooked, check out his Instagram and Facebook to see even more. Who knew that the term "eye candy" could be so figuratively literal? Have a nice one.
+                More info:
+                  |
+                  [Instagram](https://www.instagram.com/the_bakeking/)
+                  This post may include
+                    [affiliate links.](/affiliate-disclosure/)
+                    Creditor Titles
+                    #1
+                      [the_bakeking](https://www.instagram.com/the_bakeking/)
+                        Final score:
+                        179
+                          points
+                              Add photo comments
+                          POST
+                              [Dani Elle](https://www.boredpanda.com/community/daniegirlie88/)
+                                  Community Member
+                                    •
+                                    posts
+                                    comments
+                                    upvotes
+                          4 years ago
+                                  Dots
+                                  Created by potrace 1.15, written by Peter Selinger 2001-2017
+                                      Round attention
+                                      Svg Vector Icons : http://www.onlinewebfonts.com/icon
+                                    Report
+                          This was totally unexpected 😮
+                                      Vote comment up
+                              55
+                                      Vote comment down
+                      View more comments
+                          Arrow down menu
+                  RELATED:
+                    #2
+                        168
+                              [mummy pig](https://www.boredpanda.com/community/shahzadsajil/)
+                          Yaaayyy potato cakes!
+                              31
+                    #3
+                        152
+                              [Bean59](https://www.boredpanda.com/community/emmarohrbaugh/)
+                          WHAT
+                              25
+                    #4
+                        145
+                              [What does a Foxxy say?](https://www.boredpanda.com/community/james_fox1984/)
+                          I bet it tastes much better than it looks lol.
+                              43
+                    #5
+                        139
+                              [ForkNBeans](https://www.boredpanda.com/community/brenda_v_linden/)
+                          These cakes are absolutely AMAZEBALLS!!!! The BEST I've ever seen! I wish I could order one!
+                              28
+                    #6
+                        130
+                          The fruit and veggie cakes are his best by far.
+                              24
+                    #7
+                        129
+                              [Rosie Price](https://www.boredpanda.com/community/rosieprice_1/)
+                          AAAAAAAAAAAAARGH!!!!!!!!
+                              62
+                    #8
+                        118
+                              [Audrey Davis _ Student - BuggES](https://www.boredpanda.com/community/audreydavis_student-bugges/)
+                          are they beer flavored?
+                              22
+                    #9
+                        114
+                              [Tia Hansen](https://www.boredpanda.com/community/tiahansen/)
+                          I DONT KNOW WHAT TO BELIEVE ANYMORE! *0*
+                              52
+                    #10
+                        104
+                              [Bobby Sammons](https://www.boredpanda.com/community/bobbysammons/)
+                          Finally! An eggplant I might eat.
+                              0
+                    #11
+                        100
+                              [Bob Beltcher](https://www.boredpanda.com/community/drummerkramer/)
+                          I want both
+                    #12
+                        99
+                              [ColeOwOBull](https://www.boredpanda.com/community/mrsdigit/)
+                          Murder
+                              45
+                    #13
+                        98
+                          Aww this is a cutie.
+                    #14
+                        95
+                              [Vicky](https://www.boredpanda.com/community/victoriahernandez/)
+                          Now I can eat while I play
+                              30
+                    #15
+                        91
+                              [Kat](https://www.boredpanda.com/community/kathrynboldt/)
+                          Lol so that's why he's angry.
+                    #16
+                        90
+                              [Alex T](https://www.boredpanda.com/community/alex_17/)
+                          thank the Idahoans for those baked potatoes
+                              12
+                    #17
+                        86
+                              [Blazing Embers](https://www.boredpanda.com/community/blazingembers/)
+                          its literaly a panCAKE
+                              41
+                    #18
+                        82
+                              [Blobbert](https://www.boredpanda.com/community/robinlinse10/)
+                          At first, I thought the guy was going to be a cake, too!
+                              73
+                    #19
+                        81
+                              [Alison Marchand](https://www.boredpanda.com/community/dnahcrama/)
+                          Okay, now I'm starting to get suspicious. Does this man sell these/other cakes to people? What happens with the ones he takes a slice out of for the picture? How do we know how much of these are real cake ingredients? I have questions 🤨
+                              23
+                    #20
+                        76
+                              [Darwin](https://www.boredpanda.com/community/yodaislife/)
+                          THE BOTTLE IS SOLID CHOCOLATE!!! YUM
+                    #21
+                        75
+                              [💥 Bakugou, Katsuki 💥](https://www.boredpanda.com/community/paigeboskie/)
+                          My kinda sandwich!!
+                              15
+                    #22
+                        74
+                              [Koeri Svrcek](https://www.boredpanda.com/community/koeri_svrcek/)
+                          thanks for explaining all! i thought it looked like baked beans but never ever heard of it going on toast !
+                              1
+                                point
+                    #23
+                              [Ninja Kitty](https://www.boredpanda.com/community/honeybarnet/)
+                          OMG IT SPYRO THE DRAGON! IM FREAKING OUT RIGHT NOW!!! ⁽ʷʰʸ ᵃᵐ ᴵ ˢᵒ ᵉˣᶜᶦᵗᵉᵈ ᵃᵇᵒᵘᵗ ᵗʰᶦˢ ᵈʳᵃᵍᵒⁿ ᴵ ʷᵃˢ ᵇᵒʳⁿ ᶦⁿ ²⁰⁰⁷ ᵇʳᵒ ⁻~⁻⁾
+                    #24
+                        71
+                              [Elina Kuusisto](https://www.boredpanda.com/community/elesbian/)
+                          Omg that's cute!
+                              16
+                    #25
+                        69
+                              [Kylie](https://www.boredpanda.com/community/savanamagnuson/)
+                          for real tho...... the sand looks so real. i bet its brown sugar
+                              20
+                    #26
+                        68
+                          awww the hand cake was his hand!! sweet!
+                              54
+                    #27
+                          Adorable... I’m so Happy you didn't show the picture of it cut or i would of cried
+                    #28
+                        67
+                          spoopy
+                              13
+                    #29
+                        66
+                              [netwitch tatjana](https://www.boredpanda.com/community/witchart-tatjana/)
+                          Cannibalism
+                              27
+                    #30
+                        64
+                              [Guineapigirl](https://www.boredpanda.com/community/guineapigolympics/)
+                          I would eat all of it
+                    Continue reading with Bored Panda Premium
+                      Unlimited content
+                      Ad-free browsing
+                      [Subscribe now](/premium/?utm_source=boredpanda&utm_medium=content&utm_campaign=premium_content)
+                    #31
+                        33
+                          Aaaaahahaha, as I was scrolling down I thought this was going to be a poo/poo emoji cake until the last second 😆
+                    #32
+                        32
+                          Poor Nemo :( :( :(
+                              17
+                    #33
+                    #34
+                          Most under rated actors ever.
+                              10
+                    #35
+                          Bonus if it's pumpkin spice flavor
+                              6
+                    #36
+                              [Elin Stenqvist](https://www.boredpanda.com/community/elin_stenquist/)
+                          V! Remember, remember the fifth of November...
+                              5
+                    #37
+                          Steak and cake all in one meal. Amazing what science can do!
+                              7
+                    #38
+                              [Layla Corman](https://www.boredpanda.com/community/helenbcora/)
+                          Old school!
+I used to think I was hot s**t playing with one of these at my grandparents office...until I got yelled at.
+I love the torn paper here.
+                              3
+                    #39
+                              [Oliver Dietrich](https://www.boredpanda.com/community/ollio612/)
+                          DONT EAT THE POOR SHARKIE
+                    #40
+                        29
+                          I would’ve eaten it like a sandwich
+                    See Also on Bored Panda
+                          [Dutch Swimmer Goes Viral For Super Revealing Trunks During 2024 Olympics: “Is This Legal?”](https://www.boredpanda.com/dutch-swimmer-arno-kamminga-trunks-illusion-during-olympics/)
+                          [Thrill-Seeking Diver Jumps Down Extreme Waterslide, Ignoring The Strict Ban For Women](https://www.boredpanda.com/australian-diver-goes-down-extreme-waterslide-banned-for-women/)
+                    #41
+                          He's down by the lake, eating gruffalo cake.
+                    #42
+                          eeeeeeeew!
+                    #43
+                          Noooooooooo Simba!
+                    #44
+                              [Mimi](https://www.boredpanda.com/community/hanna-pochmann/)
+                          That's a massive amount of that frosting stuff
+                    #45
+                        26
+                          This is absolutely breathtaking. I would love to see it from different sides.
+                    #46
+                          I know a lot of little dudes who would LOVE this cake!
+                    #47
+                          Crazy details!
+                          [“That's It, I'm Craft Shaming!":30 Horrendous DIY Projects That Got Shamed In This Online Group](https://www.boredpanda.com/craft-shaming-pics/)
+                          [Woman Put A Water Fountain With A Camera In Her Yard, Here Are 24 Photos Of Regular Visitors (New Pics)](https://www.boredpanda.com/backyard-water-fountain-hidden-camera-animal-photos-jennifer-george-part-2/)
+                    #48
+                              [Doctor who?!](https://www.boredpanda.com/community/emilymurraycook/)
+                          I would. Like take these cakes out and goos people aout by eating *a raw stake*
+                    #49
+                              [Anais Rodin](https://www.boredpanda.com/community/anaisrodin/)
+                          is it a Twinkie or a brick?
+I am confusion America eggs-lain
+                              -1
+                    #50
+                          Love this - the ultimate 'fake out'!
+                    #51
+                              [FatBaby](https://www.boredpanda.com/community/2024johnson-rhyann/)
+                          he nailed the fake-meat-ness of that chicken perfectly
+                              8
+                    #52
+                          You’ll all float down here
+                    #53
+                              [Bambi](https://www.boredpanda.com/community/bambipambi50/)
+                          The Ricky Gervais show!
+                    #54
+                          traumatized
+                          [“Ma’am I Live Here”: Woman Refuses To Back Out Of Driveway, Learns A Lesson The Hard Way](https://www.boredpanda.com/woman-blocks-residents-car-gets-revenge/)
+                          [Celebrity Faces Show Alarming Effects Of Ozempic Use As Hollywood Grapples With New Beauty Fad](https://www.boredpanda.com/hollywood-is-facing-ozempic-face-crisis-as-celebs-suffer-from-gauntness/)
+                    #55
+                          ketchup on everything, how it should be
+                    #56
+                              [Roger Haywood](https://www.boredpanda.com/community/ilovethebacon/)
+                          That cake looks Marvelous!
+                              2
+                    #57
+                              [Sacballa](https://www.boredpanda.com/community/cgore916/)
+                          Nice!
+                    #58
+                        21
+                          NOPE NOPE NOPE 0o0
+                    #59
+                              [Dorothy Parker](https://www.boredpanda.com/community/shaynameidela/)
+                          Hah! It's a fake Gucci!
+                    #60
+                    #61
+                              [Terd Fergison](https://www.boredpanda.com/community/lawrence_dillard/)
+                          That thing seriously looks like a vibrator!
+                          [French Diver’s “Jewels” In Tight Swimming Trunks Become Talk Of The Town At Olympics](https://www.boredpanda.com/french-olympic-diver-jules-bouyer-huge-bulge-in-swimsuit/)
+                          [The Striking Impact Of Plastic Surgery On Same-Age Celebrities In 14 Pairs Of Photos](https://www.boredpanda.com/dramatic-impact-of-plastic-surgery-on-same-age-celebrities/)
+                    #62
+                          Why do they always take out. The eye
+                    #63
+                              [Becca Gizmo the Squirrel](https://www.boredpanda.com/community/jacobbeccagizmothesquirrel/)
+                          Hopefully he got to assemble him just like a real mr potato head.
+                    #64
+                              [Payton White](https://www.boredpanda.com/community/paytonwhite/)
+                          Marvel for the win!
+                    #65
+                          That's pretty good
+                              4
+                    #66
+                        19
+                          Slimer?
+                    #67
+                        18
+                          Nope nope nope...
+                    #68
+                          I'm gonna ask this guy to make one of my ex
+                          [Mom Leaves $250k Inheritance To Son, Throws A Fit When Daughter Stops Looking After Her](https://www.boredpanda.com/ignoring-injured-mom-after-denied-will/)
+                          [15 Times Famous People Revealed More Than They Should’ve In Photos And Had Everyone Talking In 2024](https://www.boredpanda.com/times-famous-people-revealed-more-than-they-should-2024/)
+                    #69
+                          Which ones the cake?
+                    #70
+                              [Mary Stiles](https://www.boredpanda.com/community/marystiles/)
+                          (edited)
+                          I love how they have Walkers instead of Lays.
+                    #71
+                              [Robin Lajoie](https://www.boredpanda.com/community/rlajoie_77/)
+                          Marzipan, perhaps?
+                    #72
+                          ohhhh this whole time i thought that was just another gaming consule but now i realize it's games stacked on top of each other
+                    #73
+                          Joker Stairs next!!!
+                    #74
+                          Ooh now do baby Yoda!!
+                    #75
+                          [“This Breaks My Heart”: People Stunned—And Angry—After Woman Buys Lost Luggage From Airport](https://www.boredpanda.com/woman-reveals-buying-lost-luggage-from-airport-100-dollars-people-amazed/)
+                          [Internet Gives Unemployed Woman A Reality Check After She Expects Friends To Buy Her A Trip](https://www.boredpanda.com/refusing-paying-friends-vacation/)
+                    #76
+                        14
+                          O rlly? Now you have a fortnite dude
+                    #77
+                              [Dennis Hayes](https://www.boredpanda.com/community/dennishayes/)
+                          It's Faith Salie from Sunday Morning
+                    #78
+                              [*Clears throat*](https://www.boredpanda.com/community/zaerhinsk/)
+                          kids...This is Mal from descendants 2, search it up
+              END LIST ITEMS
+              Anyone can write on Bored Panda.
+                [Start writing!](https://www.boredpanda.com/add-new-post/)
+              Follow Bored Panda on
+                [Google News!](https://news.google.com/publications/CAAqBwgKMIrPkQswrMOmAw)
+              Follow us on
+                [Flipboard.com/@boredpanda!](https://flipboard.com/@boredpanda)
+                            Add New Image
+                                <i class="image-watermark" data-bind="visible: showWaterMark()" style="display: none;"></i>
+                                  Add Your Photo To This List
+                                  Please use high-res photos without watermarks
+                                        Upload from computer
+                                    Upload Photo
+                                  Ooops! Your image is too large, maximum file size is 8 MB.
+            END ENTRY
+                  Error occurred when generating embed. Please check link and try again.
+                    <input data-bind="checked: embed.tweetSingleImage" type="checkbox"/> Show Image Only
+                  Change
+                        Author,
+                        View profile
+                      Follow
+                  Fascinated by music, movies and sitcoms, I'm passionate about social media and can't live without the internet, especially for all the cute dog and cat pictures out there. I wish the day had about 40 hours to be able to do everything I want.
+                        Titas Burinskas
+                          Moderator,
+                          Community member
+                    This dude right here? He works as a Community Manager at Bored Panda. Has no back-story, cause his spine works just fine. He writes about himself in third-person, and in first-person about others. Fell in love with storytelling and cannot let that love go. Now, he's here to help you make your own story simply beautiful. Secretly makes cute music samples and writes stories in the dark that nobody has ever heard of before.
+                Show All Contributors
+                Hide Contributors
+                Get the latest inspiring stories via our awesome iOS app!
+                Download Bored Panda app!
+                What do you think ?
+                      I won't be able to cut any of these cakes, especially the hand one
+                          [Chris DiFonso](https://www.boredpanda.com/community/chrisdifonso/)
+                      These are incredible. I wouldn't be able to eat many of these, though, when I eat a dessert I want it to look like a dessert
+                          [KatKaleen](https://www.boredpanda.com/community/katkaleen/)
+                      All of these are AWESOME! Some are also really, really disturbing.
+As somebody who prefers savory food, I might actually get a little mad if my curry with rice turned out to be cake. 😅
+                  Load More Comments
+              You May Like
+                  [This Artist Paints Action Figures So Realistically, They Almost Look Like Real People (24 Pics)](https://www.boredpanda.com/realistic-looking-action-figures-rodman-dyl/)
+                    Community Panda
+                  [40 Captivating Street Shots Curated By "Pure Street Photography"](https://www.boredpanda.com/captivating-images-pure-street-photography/)
+                      Back to
+                      Homepage
+                      More about
+                            Arrow point to left
+                      Next in Art
+                            Arrow point to right
+              Related on Bored Panda
+                Will use Javascript to fill recommendations
+                    Gene Hackman Investigators Share Update On The Dogs That Survived
+                    People Are Outraged After Jeffrey Epstein Files Containing Several Celebrity Names Are Released
+                    35 Times Students Said Something So Funny, Teachers Couldn’t Keep Their Face Straight
+                    “Your Daily Dose Of Funniest Memes”: 50 Hilarious Posts From This Dedicated Online Group
+                    23 Terrifying Details About How Abusive Mom Ruby Franke Exploited And Punished Her Six Children
+                    30 Of The Most Hilarious Posts From Parents That Made People Laugh This February
+                    It’s Time To Leave: 30 Dining Warning Signs, Shared By People Online
+                    24 Tragic Celebrity Passings Took The Whole World By Surprise
+                    9
+                    40 Times People Chose To Adopt A Pet And It Turned Out To Be The Best Decision (February Edition)
+                    Woman Who Needs Two Seats On Disneyland Rides Furious After Park-Goers Start Filming Her
+                    11
+                    Gene Hackman, 95, And Wife’s Last Photos Emerge After Couple Is Found Deceased
+                    Hollywood Legend Gene Hackman, Wife And Dog All Found Deceased In Their Home
+                    “He Just Appeared”: 30 Pet Owners Prove That The Cat Distribution System Is Working Perfectly
+                    50 Times People Hit Jackpot While Thrifting And Just Had To Brag About It Online (New Pics)
+                    50 Times Travelers Were Shocked, Amused, Or Amazed In Other Countries (New Pics)
+                    30 Frugal Choices That Ended In Tears, Fires, And Fiascos
+                    40 Of The Funniest Tweets From February 2025
+                    “And The Dog?”: Fans Have Theories Why Gene Hackman, Wife And Pet All Found Deceased
+                    30 Of The Best Posts And Memes To Celebrate The Wild ’90s (New Pics)
+                    50 Before And After Pics That Prove A Hair Makeover Can Really Change Your Entire Face
+                    50 Times People Pulled An Uno Reverse Card And Trolled Scammers In The Most Satisfying Ways
+                    30 Unhinged Pics That Prove The World Is A Strange, Strange Place
+                    'Buffy The Vampire Slayer' And 'Gossip Girl' Star, Michelle Trachtenberg, Passes Away At 39
+                    Man’s Harmless Snooping Leads To A Terrifying Discovery About His Girlfriend
+                    30 People Recall The Mass Resignations That Followed A Single Office Event
+                    Wife Uncovers Alarming Journal Entries From Husband, Seeks Legal Advice And Protection
+                    Disturbing Video Of Tapeworm Being Extracted From Woman's Mouth Is Going Viral
+                    “AITA For Banning My Husband From All Doctor Appointments After He Repeatedly Messes With Me?”
+                    Couple Politely Refuse To Go On Any More Vacations With Friends' Toddlers, One Mom Gets Dramatic
+                    Husband Throws Away Wife's Pillow To Make More Space For Himself, She Bursts Into Tears And Leaves
+                    Michelle Trachtenberg's Cryptic Final Posts Resurface After Her Tragic Passing
+                    “Now Unrecognizable”: 30 People Share What Happened To The Prettiest Girl From Their HS
+                    40 Times People Were Not Prepared To Overhear The Conversations They Did
+                    34
+                    “I’ve Learned To Be Super Specific”: Women Share 40 Wild Examples Of Men Being Men (New Pics)
+                    35
+                    43 Weird Facts Explained In The Simplest Possible Way, Courtesy Of This IG Page
+                    36
+                    50 Uplifting Memes And Posts For That Daily Dose Of Positivity (New Pics)
+                    37
+                    30 Charts That No One Probably Needed, But Here They Are Anyway
+                    38
+                    Homeowner Fed Up With Neighbor Who Takes Their Packages And Gives Them Back While Asking For Cash
+                    Guy Accidentally Finds Out His Wife Has Been Stalking His Ex For 9 Years, Is Shocked
+                    40
+                    “That’s Genius”: Single Women Are Using Glitter To “Protect” Themselves From Cheating Men Before Dates
+      Uncomment when ChartBeat allows to fetch more posts
+        Trending on Bored Panda
+              Stay Tuned to Your Favorite Categories
+                  Weekly Highlights
+                  Daily Highlights
+                      Subscription arrow right
+                    Subscribe
+                  Thank you! You've successfully subscribed to newsletters!
+                By entering your email and clicking Subscribe, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and
+                  [Privacy Policy.](/privacy-policy)
+        Also on Bored Panda
+          Fill using Javascript
+    .left-content-column
+          We're also on
+            and
+            [tumblr](http://boredpanda.tumblr.com/)
+          User Submissions
+              [This Photographer’s Powerful Images Showcase Rural Turkey, And Here Are His 25 Best Photos](https://www.boredpanda.com/rural-turkey-life-portraits-yavuz-arslans/)
+              24 points
+              [John Atkinson’s Comics Explore Culture, Irony, And Unexpected Connections (20 New Pics)](https://www.boredpanda.com/funny-cartoons-wrong-hands-john-atkinson-part-8/)
+                  comment
+              20 points
+              [Photographer Captures Abstract Street Photos That Play With Shadows And Reflections (40 Pics)](https://www.boredpanda.com/storytelling-through-street-photography-piratasabrino/)
+              23 points
+              [This Artist Combines Hyper-Realism With Doodles, And Here Are His 45 Best Works](https://www.boredpanda.com/realistic-pencil-drawings-miracle-lim/)
+              26 points
+              [I Documented The Vibrant And Spiritual Spectacle Known As Galungan (17 Pics)](https://www.boredpanda.com/galungan-celebration-of-the-balinese-new-year-marcus-musashi/)
+              25 points
+              [Hungary’s Panel Buildings In 37 Frames](https://www.boredpanda.com/photography-panel-buldings-hungary-csaba-horvath/)
+              21 points
+              [Rodney R Rodney: 28 Funny Comics About An Unusual Outcast, Illustrated By This Artist](https://www.boredpanda.com/funny-comic-misunderstood-outcasts-violaine-briat/)
+              15 points
+              [I Am A Pet Photographer From British Columbia, And Here Are 10 Of My Favorite Dog Shots](https://www.boredpanda.com/dog-photography-the-good-mutt-andrea-wafler/)
+              32 points
+              ["The Lonely Astronaut": Capturing Self-Portraits In Decaying, Abandoned Environments (40 Pics)](https://www.boredpanda.com/the-lonely-astronaut-self-portraits-karen-jerzyk/)
+              29 points
+              [This Artist Captured 20 Mesmerizing Photos That Turn Bird Migration Into A Work Of Art](https://www.boredpanda.com/birds-stop-motion-photos-kathryn-cooper/)
+              38 points
+          end foreach
+        .trending-posts-feed
+          Around the web
+              [Kim Basinger says she doesn't 'see need' for intimacy coordinators in movies](https://www.dailymail.co.uk/tvshowbiz/article-14448693/Kim-Basinger-says-doesnt-need-intimacy-coordinators-sex-scenes.html)
+              [Mark Zuckerberg made wife Priscilla's 40th birthday all about himself](https://www.dailymail.co.uk/news/article-14449123/Mark-Zuckerberg-cosplay-benson-boone-wife-Priscillas-40th-birthday-preformance.html)
+              [Elon Musk Ordered to Appear in New York City Court over Custody Issues with Ashley St. Clair](https://people.com/elon-musk-ordered-to-appear-in-new-york-city-court-over-custody-issues-with-ashley-st-clair-11688924)
+              [Who are Elon Musk’s kids? His 14 children’s names, ages and mothers](https://pagesix.com/article/elon-musk-children/)
+              [George Clooney looks weary out with wife Amal in NYC after sharing parenting troubles](https://www.dailymail.co.uk/tvshowbiz/article-14448491/George-Clooney-63-looks-weary-glamorous-wife-Amal-47-NYC-sharing-parenting-struggles.html)
+      .sidebar-top
+        See Boredpanda in...
+                Panda
+            Boredpanda
+              Home Screen App
+            Add
+                Chrome
+            Add Boredpanda app to home screen:
+                  Ios share
+                and then
+                Add to Home Screen
+  MailerLite Webforms
+  MailerLite Universal
+  End MailerLite Universal
+          Categories
+              Weekly
+              The week’s finest content carefully selected to bring you the best articles directly [once per week]
+              Daily
+              Our top news, meme articles, and a dose of the best content delivered straight to your inbox. [every day]
+              The funniest articles of the week that had our audience in stitches [once per week]
+              A delightful mix of top animal photos, memes, and a sprinkle of pet wellness articles [once per week]
+              Good News
+              A dose of uplifting news delivered directly to your inbox. Pure positivity guaranteed [once per week]
+              Best Deals
+              Exclusive discounts, our top shopping articles and ever more impressive deals directly to you [once per week]
+              The most captivating photographs, incredible art pieces, and amusing comics—all in one curated collection of the finest art articles [once per week]
+              Parenting Stories
+              Discover relatable and unbelievable parenting anecdotes from the daily journey of raising a child [once per week]
+          Save & Close
+          Cancel

@@ -1,0 +1,194 @@
+                [Home](directory/publications)
+                [Internal Medicine](topic/Internal-Medicine/publications)
+                [Geriatrics](topic/Geriatrics/publications)
+                [Medicine](topic/Medicine/publications)
+                [Falls](topic/Falls/publications)
+          Preprint
+          PDF Available
+              Derivation of a Function for Velocity for Falling Objects with Non-Negligible Air Resistance
+                    December 2021
+                DOI:
+                  [10.13140/RG.2.2.23260.05765](http://dx.doi.org/10.13140/RG.2.2.23260.05765)
+              Authors:
+                                    [Leonhard Nagel](profile/Leonhard-Nagel-5)
+                                        [University of California, Berkeley](https://www.researchgate.net/institution/University-of-California-Berkeley)
+                          Download file PDF
+                          Read file
+            Preprints and early-stage research may not have been peer reviewed yet.
+                      Download citation
+                        Copy link
+                        Link copied
+                Abstract
+                For many falling objects, air resistance can be assumed to be negligible; however, this assumption is not a valid one to make in many cases. Thus, a function relating velocity to time, under consideration of drag, can be used to better estimate the velocity of a falling object.In an idealized sense, two forces act upon a falling object: weight and drag. These two forces can be assumed to act in opposite direction to each other. This means that a simple equation for acceleration based on Newton’s Second Law of Motion can be found, which can then be derived to yield an expression for velocity
+                Discover the world's research
+                25+ million members
+                160+ million publication pages
+                2.3+ billion citations
+                Join for free
+                          Public Full-text
+                            1
+                                      Content uploaded by
+                                        Author content
+                                  Content may be subject to copyright.
+                              Deriv
+                              Non-Negligible
+                              Leonhard
+                              Novem
+                              F
+                              assumption
+                              time,
+                              object.
+                              forces
+                              equation
+                              then
+                              As
+                                v
+                                )
+                              time
+                                t
+                                m
+                                ),
+                                g
+                              ality
+                                z
+                                ).
+                              acting
+                                  G
+                                  D
+                              the
+                                =
+                                mg
+                                zv
+                                2
+                              Note
+                              of
+                                C
+                                is
+                                ρ
+                                A
+                                Aρ
+                              Newton’s
+                                  net
+                              mass
+                                a
+                                ma
+                                  ⇐
+                              In
+                              equals
+                              considered
+                                −
+                                and
+                                can
+                              This
+                                  with
+                                  ,
+                                  d
+                              diﬀerential
+                              terms
+                                to
+                                terms,
+                                respect
+                                  .
+                                Z
+                                The
+                                as
+                                  term
+                                  (
+                                      q
+                                  u
+                                  -substitution,
+                                function
+                                rule.
+                                    r
+                                    ·
+                                An
+                                  p
+                                placed
+                                √
+                                  zmg
+                                x
+                                  ∈
+                                    R⧹
+                                  tanh
+                                Thus,
+                                  for
+                                Both
+                                applied
+                                  zg
+                                Finally
+                                  tanh(
+                            Citations (0)
+                            References (0)
+                        ResearchGate has not been able to resolve any citations for this publication.
+                        ResearchGate has not been able to resolve any references for this publication.
+                    Recommended publications
+                    Discover more about:
+                              Article
+                            [Do It Yourself: Air Drag Force Experiment Using Paper and Scraper Sheet](publication/354397382_Do_It_Yourself_Air_Drag_Force_Experiment_Using_Paper_and_Scraper_Sheet)
+                            September 2021
+                            JIPF (Jurnal Ilmu Pendidikan Fisika)
+                                  [Rizki Zakwandi](https://www.researchgate.net/profile/Rizki-Zakwandi)
+                                  [Ariswan Ariswan](https://www.researchgate.net/profile/Ariswan-Ariswan-2)
+                                  [Syifa Nurfala](https://www.researchgate.net/scientific-contributions/Syifa-Nurfala-2200750550)
+                            [...]
+                                  [Ade Yeti Nuryantini](https://www.researchgate.net/profile/Ade-Nuryantini)
+                          Free fall motion in air medium is only influenced by gravitation acceleration. However, there are several variables that caused the observations to be different with the concept. Variables, such as air drag and terminal velocity, are often teachers not presented in detail, causing misconceptions. This study aims to develop a simple experiment on free fall motion by identifying air drag and
+                            terminal velocity. The data in this study is the video of free fall motion of paper and scraper analyzed using Tracker video analyze. From the video analyzed, information is obtained in the form of time (t), track (l, θ), and velocity (v)
+of the object. This study shows that the air drag force increase unto the terminal velocity. The calculation of the drag coefficient giving the number of the paper 2,16 and the scraper 2,10. According to data analyzed, the air drag force is affected by the mass (m), area (A), and the air drag force (FD) with the linear correlation until it reaches the terminal
+velocity. The result of this study may use as references of free fall motion experiment with other objects and analyze.
+                          [Read more](publication/354397382_Do_It_Yourself_Air_Drag_Force_Experiment_Using_Paper_and_Scraper_Sheet)
+                            [Equations of motion of vertically thrown and falling particles for Newton's drag law.](publication/296130362_Equations_of_motion_of_vertically_thrown_and_falling_particles_for_Newton's_drag_law)
+                            January 1986
+                                  [Sebastian Petho](https://www.researchgate.net/profile/Sebastian-Petho)
+                          The functions distance-time, velocity-time and acceleration-time are discussed. The effect of the medium (air or water) is analyzed in great detail. The behaviour of particles classified beforehand with respect to particle size, density and terminal settling velocity is also investigated as a function of initial velocity. -from Author
+                              Chapter
+                            [Chapter 8. Applications to Physics](publication/344135309_Chapter_8_Applications_to_Physics)
+                            December 1998
+                                  [Keith D. Stroyan](https://www.researchgate.net/scientific-contributions/Keith-D-Stroyan-2285040311)
+                          This chapter begins with three projects related to Newton's law of acceleration. The first considers what happens when a real ladder slides down a wall with the base pulled out at constant velocity. The second project considers air resistance for an object falling a long distance with the approximation of a linear force because of the air. The third project considers nonlinear air resistance and
+                            an elastic force — bungee diving.
+                              Conference Paper
+                              Full-text available
+                            [On the fall of an object with both linear and quadratic air resistance](publication/354035016_On_the_fall_of_an_object_with_both_linear_and_quadratic_air_resistance)
+                            August 2021
+                                  [Jorge Andrade](https://www.researchgate.net/profile/Jorge-Andrade-22)
+                          The case of a particle falling with both linear and quadratic drag is studied and analysed, theequation of motion is solved, and the amount of energy loss is discussed. It wil be treated for thespecial case of an iron ball with a radius of 10 cm dropped from the tower of Pisa, and then for awooden ball of the same size. The behaviour of the solution is found to be qualitatively similat to thatof
+                            just linear or quadratic drag.
+                          [View full-text](publication/354035016_On_the_fall_of_an_object_with_both_linear_and_quadratic_air_resistance)
+                    Interested in research on Falls?
+                    Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in
+                      and many other scientific topics.
+                          ResearchGate iOS App
+                        Get it from the App Store now.
+                    Install
+                    Keep up with your stats and more
+                    Access scientific knowledge from anywhere
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                          Log in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=Y0XNV4RDB-pvtJTzhLlFsfivAB52YXEMVTSzM2ZUFuAdSE8XSii0lgp1rU7hISYcwtuhhNix_opj2mLUXaThz_5-wo4)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

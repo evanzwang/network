@@ -1,0 +1,73 @@
+{
+  "title": "Xinyu Zhang | San Diego Wireless Summit",
+  "meta_description": "",
+  "main_content": "",
+  "links": [
+    {
+      "url": "http://6g-dev.ucsd.edu",
+      "text": ""
+    },
+    {
+      "url": "https://www.qualcomm.com/",
+      "text": ""
+    },
+    {
+      "url": "https://cwc.ucsd.edu/",
+      "text": ""
+    },
+    {
+      "url": "https://futurenetworks.ieee.org/",
+      "text": ""
+    },
+    {
+      "url": "https://www.qualcomm.com/",
+      "text": ""
+    },
+    {
+      "url": "https://cwc.ucsd.edu",
+      "text": ""
+    },
+    {
+      "url": "https://accessibility.ucsd.edu/report-a-concern/index.html",
+      "text": "Accessibility"
+    },
+    {
+      "url": "https://ucsd.edu/about/privacy-policy.html",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://ucsd.edu/about/terms-of-use.html",
+      "text": "Terms of Use"
+    }
+  ],
+  "images": [
+    {
+      "src": "/sites/default/files/inline-images/San%20Diego%20Wireless%20Summit%20Logo.png",
+      "alt": "UC San Diego Wireless Summit"
+    },
+    {
+      "src": "/sites/default/files/img/qlogo.png",
+      "alt": ""
+    },
+    {
+      "src": "/sites/default/files/img/JSOE_CWC_logo.jpg",
+      "alt": "JSOE"
+    },
+    {
+      "src": "/sites/default/files/speakers/2024/Xinyu%20Zhang.jpg",
+      "alt": "Xinyu Zhang"
+    },
+    {
+      "src": "/sites/default/files/inline-images/21-ta-323-ieee-future-networks-logo-white-rgb-copy.png",
+      "alt": ""
+    },
+    {
+      "src": "/sites/default/files/inline-images/qc_logo_flt_rgb_wht_rev.png",
+      "alt": ""
+    },
+    {
+      "src": "/sites/default/files/inline-images/footer-logo2-cropped.png",
+      "alt": "CWC Footer Logo"
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+[
+  {
+    "fullName": "George Cheng",
+    "linkedin_internal_id": "914589823",
+    "first_name": "George",
+    "last_name": "Cheng",
+    "public_identifier": "cheng-george",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQFE9nXmRryXBQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737074825976?e=2147483647&v=beta&t=OAzRsWjW-HdzITEyNYyy68NbM_xMS8SGI5C0_AcnVQ4",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQF5ceVEmRadSg/profile-displayphoto-shrink_200_200/B4EZUb9yVKHUAc-/0/1739930938397?e=2147483647&v=beta&t=TYEfER7Wmc6KnR6oYwKGVBo-TsM5xjAfFrjhS69JN2c",
+    "headline": "AI/CS + Brain & Cog Sci @ MIT",
+    "location": "4K followers\n          \n          \n              500+ connections",
+    "about": "Studying CS and Cog Sci @ MITPublished papers, completed projects, building some startups. Internationally recognized scientist, athlete, and public speaker. If you\u2019re building something cool, reach out: gjcheng [at] mit [dot] eduGitHub: https://github.com/gcheng713",
+    "experience": [
+      {
+        "position": "Fellow",
+        "company_url": "https://de.linkedin.com/company/ewor?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQEJgUWueJYdKQ/company-logo_100_100/company-logo_100_100/0/1719256070933/ewor_logo?e=2147483647&v=beta&t=WMCXSOSyzz5PLxh9y6qf4CAJH0dpAp4NNqzRDwxepNc",
+        "company_name": "EWOR",
+        "location": null,
+        "summary": "https://www.ewor.com/",
+        "starts_at": "Feb 2025",
+        "ends_at": "Present",
+        "duration": "2 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/mit-csail?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEGRPOLADdMtg/company-logo_100_100/company-logo_100_100/0/1640006078259/mit_csail_logo?e=2147483647&v=beta&t=3P0gPpC8J_9YLt8qthg0mLajFjwmPS_sw7nvkwnmJtk",
+        "company_name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Neuro-Symbolic Learning Mimicking the Human Brain Architecture PI: Gerald Sussman",
+        "starts_at": "Feb 2025",
+        "ends_at": "Present",
+        "duration": "2 months"
+      },
+      {
+        "position": "Co-Founder @ Tally.AI",
+        "company_url": "https://www.linkedin.com/company/alchemist-accelerator?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG8450ZoJJxYw/company-logo_100_100/company-logo_100_100/0/1630663194725/alchemist_accelerator_logo?e=2147483647&v=beta&t=7easBJ5n6hv7j0QO0vVJCNPPMsLca7FVSQkmxvSmogQ",
+        "company_name": "Alchemist Accelerator",
+        "location": "San Francisco, California, United States",
+        "summary": "Class 40, Summer 2025$60k SAFE, < 1.7% acceptance rate",
+        "starts_at": "2025",
+        "ends_at": "Present",
+        "duration": "less than a year"
+      },
+      {
+        "position": "Early Insights",
+        "company_url": "https://www.linkedin.com/company/morgan-stanley?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI",
+        "company_name": "Morgan Stanley",
+        "location": null,
+        "summary": "",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/mit-koch-institute-for-integrative-cancer-research?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQH03IBkkykFNw/company-logo_100_100/company-logo_100_100/0/1630557844312/mit_koch_institute_for_integrative_cancer_research_logo?e=2147483647&v=beta&t=g5w782FVwOEq4LoIWEuUxKgAkprAaLvmwTCD0NjQ6x8",
+        "company_name": "MIT Koch Institute for Integrative Cancer Research",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Next-Generation Smart Capsule for Drug Delivery and Electroceutical Applications PI: Robert LangerDirect Supervisor: SeungHo Lee",
+        "starts_at": "Sep 2024",
+        "ends_at": "Jan 2025",
+        "duration": "5 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/mit-sloan-school-of-management/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQF-NKQHUG7hUg/company-logo_100_100/company-logo_100_100/0/1631325873804?e=2147483647&v=beta&t=XYGkx3HPttBqmQunBP9oTfCNMPW3StpM2_mSon0lqHo",
+        "company_name": "MIT Sloan School of Management",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Utilizing AI to Explore How Monetary Policy Changes Impact the Investment Plans of Companies and MunicipalitiesPI: Professor Kerry Siani",
+        "starts_at": "Sep 2024",
+        "ends_at": "Dec 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "AI Researcher",
+        "company_url": "https://cn.linkedin.com/school/westlakeuniversity/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFZzz-cI8uh3A/company-logo_100_100/company-logo_100_100/0/1630641401830/westlakeuniversity_logo?e=2147483647&v=beta&t=8pLe6D1DVeIjiRuUsdTydzSfpE2Jxt4U6CGZttE4Rsg",
+        "company_name": "Westlake University",
+        "location": "Hangzhou, Zhejiang, China",
+        "summary": "\u2219 Developed an AI avatar that mimics likeliness using voice, pictures, and memory of real people. \u2219 Learned API-pulling, MLLMs, AutoGPT, Stable Diffusion, GenAI.",
+        "starts_at": "Jul 2024",
+        "ends_at": "Aug 2024",
+        "duration": "2 months"
+      },
+      {
+        "position": "Student Researcher",
+        "company_url": "https://www.linkedin.com/company/wolfram-research?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQH0-xEV33mp1A/company-logo_100_100/company-logo_100_100/0/1631301014132?e=2147483647&v=beta&t=sBN31EOzG_kaR6_J8gYOGAfS1eLJXDhavW4E41cGUf4",
+        "company_name": "Wolfram",
+        "location": "Waltham, Massachusetts, United States",
+        "summary": "\u2219 Developed FloodGate, a computationally intensive algorithm for flood prediction. \u2219 Learned Mathematica, GiS, AI/ML in weather forecasting.",
+        "starts_at": "Aug 2023",
+        "ends_at": "May 2024",
+        "duration": "10 months"
+      },
+      {
+        "position": "Scientific Researcher",
+        "company_url": "https://www.linkedin.com/school/university-of-north-carolina-at-chapel-hill/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHJC70g6t2Zvg/company-logo_100_100/company-logo_100_100/0/1721159675755/university_of_north_carolina_at_chapel_hill_logo?e=2147483647&v=beta&t=KWAYCbWtoEPEG5q3IxNhhy7tKQM-7kg7DbdRJrxmH7A",
+        "company_name": "University of North Carolina at Chapel Hill",
+        "location": "North Carolina, United States",
+        "summary": "",
+        "starts_at": "Jun 2021",
+        "ends_at": "May 2024",
+        "duration": "3 years"
+      },
+      {
+        "position": "Scientific Researcher",
+        "company_url": "https://www.linkedin.com/school/north-carolina-state-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGaD7AuaL571Q/company-logo_100_100/company-logo_100_100/0/1645128364859/north_carolina_state_university_logo?e=2147483647&v=beta&t=0p133Dk_aS5HQPwSqAQ8ZSXzk6JoSl500ThUBhoAVJw",
+        "company_name": "North Carolina State University",
+        "location": "North Carolina, United States",
+        "summary": "",
+        "starts_at": "Jun 2019",
+        "ends_at": "May 2024",
+        "duration": "5 years"
+      },
+      {
+        "position": "Research Intern",
+        "company_url": "https://www.linkedin.com/school/harvard-medical-school/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQHmhL_fRfTV4g/company-logo_100_100/B4EZU5h_2FGgAQ-/0/1740426968799/harvard_medical_school_logo?e=2147483647&v=beta&t=TazIVNy1Q3Zab6lwMqruQjcLpaxMqCT7JNc-OISlQqY",
+        "company_name": "Harvard Medical School",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "\u2022 Worked as a research intern in Brigham and Women's Hospital, Harvard Medical School, under the supervision of Dr. Shrike Zhang.  \u2022 Areas of research: 3D bio-printing; wearable biomaterials; tissue engineering.",
+        "starts_at": "Oct 2022",
+        "ends_at": "Jan 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Summer Intern",
+        "company_url": "https://www.linkedin.com/company/stanford-anesthesia-summer-institute?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFnf3DOS_BUOg/company-logo_100_100/company-logo_100_100/0/1675367685527/stanford_anesthesia_summer_institutes_logo?e=2147483647&v=beta&t=DXg0bi3ofNT9DgLEn918lU_PrkWuYDNrgo6lWqCHVdU",
+        "company_name": "Stanford Clinical Science, Technology and Medicine Summer Internship",
+        "location": "Palo Alto, California, United States",
+        "summary": "\u2022 Provide knowledge on research practices, experimentation, clinical studies, medicine, biotechnology, medical engineering, and other health-related application",
+        "starts_at": "Aug 2022",
+        "ends_at": "Aug 2022",
+        "duration": "1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/mit/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Massachusetts Institute of Technology",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "college_degree": "Bachelor of Science",
+        "college_degree_field": "CS/AI + Math",
+        "college_duration": "2024 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/north-carolina-school-of-science-and-mathematics/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "North Carolina School of Science and Mathematics",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQHDsixTtBECTg/company-logo_100_100/company-logo_100_100/0/1684943039585/north_carolina_school_of_science_and_mathematics_logo?e=2147483647&v=beta&t=XGsmMs5oiNZJNk3q697TOn-8vLZ-J0yDqyxOKxDZmcA",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2022 - 2024",
+        "college_activity": "\"For more than 40 years, NCSSM has opened doors and created opportunities for promising students across North Carolina. Ranked as the No. 1 high school in North Carolina and the No. 1 high school in the United States, NCSSM Durham provides countless opportunities to a select amount of talented STEM individuals.\"Relevant Courses: Molecular and Cellular Biology, Multivariable Calculus, Circuits, Statics, Linear Algebra, AP Chemistry II, Physics: Mechanics, Graph Theory, Analytical\u2026\n            \n\n    \n    \n\n    \n        Show more"
+      },
+      {
+        "college_name": "Green Level High School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "9-10",
+        "college_degree_field": null,
+        "college_duration": "2020 - 2022",
+        "college_activity": "4.0/4.0 UW; 4.78/5.0 W; 1/545 Class Rank"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/waketechcc/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Wake Technical Community College",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGoKF8qOwpSBQ/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630480657543/waketechcc_logo?e=2147483647&v=beta&t=r3VbdVPobA1-KPN_B1daluMAsDNiM5SMrjvcGbLAb-8",
+        "college_degree": "Associates in Science",
+        "college_degree_field": "9-10",
+        "college_duration": "2020 - 2022",
+        "college_activity": "Concurrent Dual Enrollment (Counted as AP Credit) at Wake Tech Community College.Taken 20+ courses concentrated around biology/biomedical technologyMAT-271, MAT-272, MAT-152, MAT-285, BIO-111, BIO-112, GEO-111, GEO-112, CHM-111, CHM-112, ENG-111, ENG-112, COM-251, BUS-155, ECO-251, ECO-252, PSY-150, ACA-122, SPA-111 (SPA-181 Lab), HIS-111, MUS-110.Date Obtained Associate in Science: 12/14/2022"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "EWOR",
+      "description1_link": "https://de.linkedin.com/company/ewor?trk=public_profile_topcard-current-company",
+      "description2": "Massachusetts Institute of Technology",
+      "description2_link": "https://www.linkedin.com/school/mit/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=www%2Egeorgecheng%2Eorg&urlhash=4_kp&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/armaandh_i-know-why-the-us-wins-young-role-models-activity-7300377025435877376-baQA",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFgjg0UT8975Q/feedshare-shrink_2048_1536/B56ZVAmNg6GUAo-/0/1740545516562?e=2147483647&v=beta&t=PMQsTk9bevi0IIzGFXhqRlSnvDmhS_0yvHFLIedDO1Q",
+        "title": "I know why the US wins.\n\nYoung role models.\n\nHaving been in the MIT-Harvard belt for ~2 months, I\u2019ve realised that while 99% of students at top\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/inbar-blayer_googlehackathon-mittech-stemeducation-activity-7300212342665977856-CapW",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQGpvO163nDGgQ/feedshare-shrink_2048_1536/B4DZU.Qb6MGkAo-/0/1740506252454?e=2147483647&v=beta&t=5OaCiGGkPZjgRRrC7OcDPyYLsITJAzMgcQ2HGxbTKR4",
+        "title": "Made it to the Google PM Hackathon final! \ud83d\udc4f \n\nI had a great time working with Hardi Vajir, Tanvee Deokule, and George Cheng on STEMverse and\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/klaus-korte-34b753278_im-thrilled-to-have-been-a-finalist-at-the-activity-7299997923730206720-an7D",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHrSBvH5NhSxQ/feedshare-shrink_800/B4EZU7NatEGgAk-/0/1740455129363?e=2147483647&v=beta&t=1y5HS1JV6OxOy1ds24ima55_I2oHMgewxHP3rGitcCE",
+        "title": "I\u2019m thrilled to have been a finalist at the MIT Sloan FinTech competition, pitching Credivel. A huge shoutout to my incredible teammates, Andr\u00e9s\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/apartovi_last-night-i-started-making-the-pizza-dough-activity-7288594781583155200-5PT6",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGZsLjE1SbUxg/feedshare-shrink_2048_1536/B56ZSZKU28GUAo-/0/1737736410486?e=2147483647&v=beta&t=MQSLjQedsoqrsZGDEtSFZyoTpeDX3_YsdAVQdZaJDdU",
+        "title": "Last night I started making the pizza dough from scratch for hosting 25-30 Neo Scholars and founders this weekend. \ud83c\udf55",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mit-entrepreneurship-club-mec_yaser-alkayale-member-south-park-commons-activity-7292206625388441600-yBgS",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "\ud83d\ude80 StartHouse 2025 Cohort\u2019s Bay Area Trip Was a Blast! \ud83d\ude80\n\nLast week, 22 exceptional founders from our MEC StartHouse 2025 Cohort embarked on an\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/will-savage-dev_interaction-interaction-on-x-activity-7291469271937810432-SZ4U",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQF2Nz9HXxXXTQ/articleshare-shrink_800/articleshare-shrink_800/0/1738421058717?e=2147483647&v=beta&t=nDiQNRP68iSfXeQVkz9heiaHtdQcNnYTYJ8RnGGQwjw",
+        "title": "\ud83c\udf34\nSummer 2025\n\nhttps://x.com/interaction",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/robertkharrington_open-invite-stop-by-the-sbxis-office-after-activity-7290372117567602688-2Aog",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEeQD2dcJ_oOg/feedshare-shrink_800/B4EZSyayCXGgAk-/0/1738160159301?e=2147483647&v=beta&t=Ser_ljJol7YIK6cskmDUdvCuATdLl1b4ygbOZk4hwb4",
+        "title": "Open Invite: Stop by the SBXi's Office After Legal Seafoods \n\nIf you're a founder leaving Legal Sea Foods in Kendall Square, take a quick 11-minute\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ava-cummings-067a41276_i-am-once-again-very-blessed-to-say-that-activity-7288241785238089728-zNmj",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHCCzmEEaL7gg/feedshare-shrink_2048_1536/B4DZSUJLuPG8As-/0/1737652249464?e=2147483647&v=beta&t=2G0c6Orgac0pKrtet0v7H1b8pjIvSVJ9VkcCNHCI5qY",
+        "title": "I am once again very blessed to say that I have been selected as a Regeneron Science Talent Search Top 40 Finalist! I am excited for the opportunity\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rmgoyal_what-did-we-do-last-week-at-velt-yc-w22-activity-7287169651359260672-OQkQ",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHuJ4cPjko1Ow/feedshare-shrink_2048_1536/B56ZSE6LzQGoAs-/0/1737396633385?e=2147483647&v=beta&t=7Jxzno4KWW2VlY1ZVJKtL944D5ZsormIOCHXgOkHAGE",
+        "title": "What did we do last week at Velt (YC W22)?\n\n- Added support for React 19\n- Added a callback event for recording transcription\n- Made improvements to\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ethan-hilton_i-closed-33200-in-the-past-24-hours-using-activity-7285664598161080322-n9ii",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH190-EhEjc9A/feedshare-shrink_800/B56ZRuJ2dIG8Ag-/0/1737014864538?e=2147483647&v=beta&t=-QrOxsLa6_hH5G_D-_3MRNRYFZBRoc9_a1RFFe3HKMU",
+        "title": "I closed $33,200 in the past 24 hours using advice we got at Y Combinator. In no particular order, here are some of the lessons I learned:\n\nGreat\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/trent-lee-307002260_enhancing-resource-circularity-in-aluminum-activity-7282425397005164547-g0s5",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQEMKXyL5mQPdg/articleshare-shrink_800/articleshare-shrink_800/0/1736265025909?e=2147483647&v=beta&t=33jLun12gIhWxVc1xu873Di5l0rJdQ0-faV3J6DZvbM",
+        "title": "We\u2019re thrilled to announce that our latest research on upcycling waste aluminum cryolite has recently been published in ACS Sustainable Chemistry and\u2026",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/frazer-f-anderson_fun-evening-with-some-precocious-mit-students-activity-7285255976901902336-TZFL",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Fun evening with some precocious MIT students and friends!",
+        "activity": "Liked by George Cheng"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ava-cummings-067a41276_regeneronsts-activity-7282844570952904706-I-YH",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHl5REMAUenrQ/feedshare-shrink_2048_1536/B4EZRHcegFHAAs-/0/1736365436491?e=2147483647&v=beta&t=hI8Tl0zjMpUzlYNf0SieR35_oWrg-IrjhoY62rcKOD8",
+        "title": "I am so blessed to be selected as a Regeneron Science Talent Search Top 300 Scholar by the Society for Science and Regeneron Pharmaceuticals. My\u2026",
+        "activity": "Liked by George Cheng"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/stemable-llc?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Co-Founder",
+        "company_name": "Stemable",
+        "company_duration": "",
+        "starts_at": "Jan 2022",
+        "ends_at": "Present"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/altra-co?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Co-Founder",
+        "company_name": "Altra Co.",
+        "company_duration": "",
+        "starts_at": "Apr 2020",
+        "ends_at": "Present"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/scouting-america?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Eagle Scout",
+        "company_name": "Boy Scouts of America",
+        "company_duration": "",
+        "starts_at": "Jan 2018",
+        "ends_at": "Present"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/freedompreetham?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Freedom Preetham\n        \n              \n          Recently, I was casually asked if I could build autonomous vehicle fleets end-to-end as a business case, more from an engineering stack perspective. My modest answer is, \"Yes, maybe\", (safety and on-vehicle AI stack is the toughest in this domain), (The engineering-stack playbook for this is sorta written even though not fully complete. I\u2019ll share my thoughts on AI side of things soon). IMO, one aspect that is missing is a geo-fenced, peer-to-peer network which should add a layer of resilience and reduce latency compared to current playbook.\n\nBut that conversation left me with a far more interesting question: Could we conceive of a harder challenge? What about an autonomous drone navigating high vortex wind fields? (just fun thought experiment)\n\nThe more I think about it, the clearer it becomes that this problem, and many others like it, exposes fundamental flaws in how we approach AI today. It demands a return to first principles. Back to the drawing board.\n\nThe first among many things that must change is how we do reinforcement learning (RL). The current state of RL is still predominantly discretized, and that is fundamentally inefficient.\n\nHere is a blog that outlines my perspective on why RL needs an update and what could happen if we rethink its foundations.\n\n#ReinforcementLearning #ArtificialIntelligence #AutonomousNavigation",
+        "location": "4"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/xiaotian-xu-2206931a9?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Xiaotian Xu\n        \n              \n          Ever heard of \"scrna-tools.org\"? It lists over 1,800 single-cell analysis tools! \ud83d\ude05  This is just one example of the duplication crisis plaguing computational biology research.\nA recent article by Jake Taylor-King explores how academic publishing incentives drive researchers to publish \"slightly different\" versions of existing work instead of building upon it. She listed the aftermath of the duplication: 1. Fragmented knowledge: Mountains of papers with minimal advancements. \ufe0f2. Wasted resources: Endless repetition of efforts instead of collaboration.\n3. Slow progress: Difficulty in building upon existing research hinders innovation.\nBut can we change the incentive system itself? The article suggests allowing updates to existing papers and evolving authorship to foster collaboration.\nWhat do you think about the duplication crisis? How can we encourage more collaborative and efficient research?\n#computationalbiology #research #sciencepublishing #academia #bioinformatics",
+        "location": "1"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/rmmarshall?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Richard Marshall\n        \n              \n          One of the biggest issues with conventional software is capturing the expertise required to hand craft algorithms, error checking, validation and all the other complex knowledge that goes into software engineering. Capturing good quality requirements is exceptionally difficult for a number of reasons, but often because of the communication barrier between two highly specialized disciplines. It's possible that AI models and their blending of code and data into a single solution may provide a route to ensure better capture of complex needs, be they in healthcare, pharma, law or other disciplines. In any case, we're just at the beginning of the Applied AI journey.",
+        "location": "1"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nick-king?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nicholas King\n        \n              \n          \ud835\udddb\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd4\ud835\udddc \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde6\ud835\ude04\ud835\uddf6\ud835\uddf3\ud835\ude01 \ud835\uddda\ud835\uddf2\ud835\uddfb\ud835\uddf2 \ud835\uddd8\ud835\uddf1\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4\n\nRecent research published in Nature by Ming Y. Lu, Bowen Chen, and Drew F. K. Williamson, introduced an AI-driven tool that accelerates CRISPR-based gene editing. \n\nThe approach combined the deep subject matter expertise of the team and augmenting this with models to enhance precision and efficiency of gene editing. Which then enables prediction of optimal CRISPR-Cas9 target sites, minimizing off-target effects and maximizing editing success.\n\nA key aspect of this advancement is the applied AI methodology, which integrates multi-modal datasets\u2014combining genomic, proteomic, and phenotypic data. This comprehensive data integration, coupled with subject matter expertise, enables the AI to make highly accurate predictions and refine gene-editing strategies. The synergy between AI and expert knowledge accelerates the development of precise and effective genetic modifications.\n\nThis breakthrough has implications for a wide range of genetic conditions. Diseases such as cystic fibrosis, sickle cell anemia, and muscular dystrophy, which are caused by specific genetic mutations, can potentially be treated more effectively with precise gene-editing techniques. \n\nAdditionally, complex conditions like cancer, where multiple genetic factors are at play, could see advancements in targeted therapies, leading to personalized and more effective treatment options. The ability to edit genes with high precision opens new avenues for addressing rare genetic disorders, previously deemed untreatable, and accelerates the path toward innovative cures and interventions.\n\nhttps://lnkd.in/gV6YkzFH\n\n#GeneEditing #CRISPR #AI #Biotechnology #ResearchInnovation #AppliedAI #MultiModalData #GeneticConditions #PersonalizedMedicine",
+        "location": "9"
+      },
+      {
+        "link": "https://fr.linkedin.com/in/oliviergomez?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Olivier Gomez (\ud835\udc0e\ud835\udc06)\n        \n              \n          Jensen Huang, in a talk at Berkeley, predicts that the next major revolution in technology will stem from digital biology. He emphasizes that for the first time in history, biology has the potential to transition from being a scientific discipline to an engineering field. Huang believes that this shift will lead to exponential improvements and compounding benefits, akin to advancements in computer science.\n\nHighlighting the significance of this intersection, Huang describes the transformative impact it will have on the field of biology. By integrating tools from computer science, he envisions a future where the complexities of biology can be better understood and manipulated. This, he argues, will open up a plethora of opportunities and create a vast industry ripe for innovation.\n\nFor students and enthusiasts interested in this intersection, Huang sees a promising landscape filled with opportunities for groundbreaking discoveries and advancements. He encourages individuals to explore this emerging field, suggesting that it will be instrumental in shaping the future of technology and society.\n\nFull credit to @berkeleyhaas @startupbell who is OG Approved!\n\n\u25fc Hey, I'm OG, I support executives & companies to thrive in the world of AI & Automation.\n\n\ud83d\udd14 Follow ME & hit the bell for #AI & #Automation updates!\n\ud83d\udceeDM for featured content!\n\n\ud83e\udc46 Wondering how AI can benefit your business? With our Outcome-Based Model, you reap the gains while we shoulder the risks. Plus, get a FREE assessment and a customized business case proposal.\n\n\ud83d\udce7 Have questions or need more info? DM or email me at olivier@iac.ai.\n\nAt IAC.ai, our success comes from dedication, client support, and belief in what we can achieve together.\n\nLet's transform your business!\n\n#intelligentautomation #automation #digitaltransformation #technology #innovation #outcome #outcomebasedcontracts #gainshare #artificialintelligence #ai",
+        "location": "6"
+      },
+      {
+        "link": "https://www.linkedin.com/in/eric-bonabeau-9a1a476?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Eric Bonabeau\n        \n              \n          Augment and Invent \u2728 \n\n\n\ud83d\udca1 In a recent substack post (https://lnkd.in/g4iCuVaY), the always insightful Rishad Tobaccowala presents \"10 thoughts about AI, Humans and Work in 10 minutes\". They are all worth pondering (although I would not invoke Suleyman in # 3) but one that struck a chord with me, Thought # 6, summarizes two important themes: human augmentation and business (re)invention. Here is the thought:\n\n\"6. The simpler questions are about efficiency and effectiveness. The real question is more existential.\u00a0AI will deliver efficiencies by getting things done faster and cheaper and as importantly more effectively by unleashing insights and freeing talent to work on areas where humans excel and let the math and pattern finding and the rest be done by the machine. But the smart companies are thinking about how to re-invent, re-imagine and re-think their business. In the world we live today with distributed and unbundled work, next generation technologies and multi-polar globalization why are more companies not re-imagining their businesses versus just focussing on making yesterdays model cheaper and more effective?\"\n\nObvious pockets of inefficiencies will be addressed with #AI in the short term by businesses, thereby quickly eliminating any competitive advantage (a point made very nicely by Martin Reeves in a recent HBR article https://lnkd.in/gsaHk4V2). Any sustainable advantage will have to come from new ideas about augmentation (that amplify a company's unique assets) and from novel ideas in general for businesses. \n\nSo, first, augmentation. I have been for 25 years a proponent of thinking about \"unleashing insights and freeing talent to work on areas where humans excel and let the math and pattern finding and the rest be done by the machine\". What is missing from a lot of the discourse on augmentation is what form it should take, specifically, how do humans and AIs interface? The chatbot form factor has been surprisingly effective (surprising to me at least) at opening floodgates of creativity from all kinds of horizons. It can't be the last frontier of human-AI interfacing. That needs to be invented.\n\nWhich takes us to the second part: (re)invention. The winners will use #genAI to create new products, services, experiences that are not even conceivable without AI. Business model disruption driven by AI is just beginning. When you product or service can be 80% replaced by a self-serve AI-based version at 0.001% of the cost, you have to seriously rethink where you create value. And as Rishad Tobaccowala writes in thought # 7, \"A company\u2019s best opportunities and threats are likely come from outside its immediate category and AI allows it to extend into new areas.\"",
+        "location": "3"
+      },
+      {
+        "link": "https://www.linkedin.com/in/freedompreetham?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Freedom Preetham\n        \n              \n          My ongoing research is in the area of long-term memory and accumulated experiences as part of the cognitive reasoning capability for AGI models (enable Cognitive Reasoning). This is my secondary research. My primary research is in the area of simulating Gene Regulatory Network within a biological cell. \n\nHere is part 3 in the series that gives a primer on Randomized algorithms that comes in handy. Randomized algorithms have fundamentally altered the landscape of spectral decomposition in high-dimensional PDEs. They have turned the impossible into the possible, allowing us to tackle problems of a scale and complexity that were once beyond our computational reach. By continuing to refine these techniques and exploring new applications, we pave the way for exciting advancements in mathematics, science, and engineering.\n\n#ArtificialIntelligence #AGI #CognitiveReasoning\n\nhttps://lnkd.in/gBe__zfJ",
+        "location": "3\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://au.linkedin.com/in/michaelpriddis?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Michael Priddis\n        \n              \n          This is a genuine call for considered pov's please.\n\nLast week scientists from Fudan University in Shanghai published a paper \"Frontier Al systems have surpassed the self-replicating red line\". Highlighted abstract below c/o Dr. Michael G. Kollo. \n\nI replied to MK that this is clearly a concern, however noted that big tech is now also geopolitics in my reply to him: \n\n\"Very interesting, I'm wondering how credible the source is to then work out how alarmed I should be. I know it\u2019s Uni published and by academics however also note the current China vs NVIDIA case, US / China tariffs issue, ByteDance failing recently in preserving TikTok in US, and how Chinese Gov controls academia in a way that\u2019s not seen in the West, so there\u2019s some \u2018structural scepticism\u2019 here on my part as to whether this is real or part of China\u2019s moves to pressure or slow US big tech, which is moving faster in AI R&D than China is, by amplifying risks.\"\n\n[Update, following some of today\u2019s comments: it might also just not be very good research, though as someone notes below, the university in question is a good one so if it\u2019s published it\u2019s credible on the face of it.]\n\nSo, does anyone here have a pov on this? And, if we think this paper is correct, what should the response be?\n\nGreg Miller Kendra Vant Dr Richard George Paul Smith Ross Dawson Ethan Mollick Eric Siegel Dr. Michael Kronenberg Mick Liubinskas Fergus (Gus) McLachlan, AO, FRSN James Ryall Azeem Azhar Damian Kassabgi \n\nhttps://lnkd.in/gHC8uy9P\n\n#AI #GenerativeAI #PredictiveAI #SafeAI #ResponsibleAI",
+        "location": "132\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                135 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/freedompreetham?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Freedom Preetham\n        \n              \n          Worlfram does not have the best SDE solvers. (I caught him off guard on this today on a zoom presentation)!\n\nI\u2019ve encountered persistent roadblocks when attempting to execute stochastic differentials (SDEs) with Dirichlet and Neumann boundary conditions on Wolfram Alpha. These equations extend well beyond the capabilities of symbolic solvers, and even Wolfram's numerical solvers buckle under the computational demands, halting progress altogether. Tackling these complex equations calls for an entirely new class of models designed to handle their intricacies. There is some ground up thinking required for SDEs honestly.\n\nFor simple stochastic differentials or low-dimensional problems, it\u2019s feasible to attempt a numerical approximation using Wolfram's numerical solvers, especially if one breaks down the SDE or imposes approximations that simplify the boundary behavior.\n\nI am also not a believer in the \"Computational Universe\" framework. I have attached a blog below. In this piece, I examine Stephen Wolfram's concept of a \"computational universe,\" where simple computational rules, like cellular automata, are proposed to generate the universe's complexity. While I find Wolfram\u2019s approach inspiring, offering fresh insights into complexity science and interdisciplinary modeling, I also see challenges it faces from established scientific theories. \n\nI contrast it with chaos theory's intrinsic unpredictability, quantum mechanics' probabilistic framework, and general relativity's continuous fabric of spacetime. Moreover, I find that mathematical constraints, such as G\u00f6del's incompleteness theorem and Noether\u2019s theorem on conservation laws, highlight limits to Wolfram's computational determinism, prompting me to question its alignment with physical reality.\n\n#Math #Physics #Science #Innovation",
+        "location": "5"
+      },
+      {
+        "link": "https://www.linkedin.com/in/justin-hodges-phd-3432a58b?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Justin Hodges, PhD\n        \n              \n          \ud83e\udd14Want to hide like a fish? - Stay in a school! \ud83d\udc20\ud83d\udc1f \ud83d\udc20\nJi Zhou et. al published a cool new paper that shows how\u00a0#fishschools\u00a0expertly cancel out noise by alternating tail beats to be surprisingly stealthy while ableing to save energy!\u00a0#HighfidelityCFD. Insights into underwater vehicle design.\u00a0#AUVs .  Pictured: the noisiest pattern \ud83d\udc7f \n\n\u201cWhat\u2019s quieter than a fish? A school of them.\u201d\nblog: https://lnkd.in/evP3xZdJ\n\nReference: Ji Zhou,\u00a0Jung Hee Seo, and\u00a0Rajat Mittal. \"Effect of schooling on flow generated sounds from carangiform swimmers.\"\u00a0Bioinspiration & Biomimetics\u00a0(2024). https://lnkd.in/etp4rADR\n\nI wonder what's with the boom in popularity with fish posts lately?\n\n#cfd #hydroacoustics\u00a0#hydrodynamics\u00a0#biomechanics #cae #simulation",
+        "location": "211"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sam-farid-0b87219a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Sam Farid\n        \n              \n          This is a fascinating paper evaluating DeepMind\u2019s AlphaFold 3 and its approach to predicting ligand docking: https://lnkd.in/gieM2nW5\n\nThe authors used a clever method to evaluate AlphaFold, finding that it can make glaring mistakes when placing molecules in binding sites because its model is likely only fitted to the protein\u2019s backbone geometry instead of actually learning the underlying physical interactions.\n\nNot that AlphaFold isn\u2019t a breakthrough technology for drug discovery, but this paper highlights that even the most cutting-edge applications of AI are perhaps still best used to generate candidates, but humans still need to perform robust tests to validate them.\n\nWe\u2019ve been hearing a similar sentiment from nearly all of our users when bringing AI into cloud infrastructure management. Flightcrew has been read-only from the start, using AI to generate insights but requiring a human to sign off before any changes are applied to their infrastructure. The goal is to speed up existing workflows, not create a new point of failure.\n\nDrug discovery and managing Kubernetes are completely different applications but we\u2019re all similarly wary of trusting full AI automation and at this rate, likely will be for some time.",
+        "location": "19"
+      },
+      {
+        "link": "https://fr.linkedin.com/in/barbaresco?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Fr\u00e9d\u00e9ric Barbaresco\n        \n              \n          Machine Learning boosted by Natural Gradient of Information Geometry and Lie algebra\nPaper: https://lnkd.in/esdqMRGd\n\n\"A framework for designing (non-diagonal) adaptive training methods\" at IPAM's Theory and Practice of Deep Learning Workshop.\nAbstract: Optimization is an essential ingredient of deep learning. Many optimization problems can be reformulated from a probabilistic perspective to exploit the Fisher-Rao (Riemannian) geometric structure of a probability family. In this talk, we show how to design new quasi-Newton methods for large-scale neural network (NN) training by leveraging the geometric structure. We first establish a second-order view of adaptive methods such as RMSProp and full-matrix AdaGrad when the square root is removed from their preconditioned gradient step. After that, we introduce and use preconditioner invariance to make non-diagonal adaptive methods inverse-free while keeping their preconditioner structures for modern mini-batches training with low precision. Finally, we propose Kronecker-factored adaptive methods to bridge the computation gap between non-diagonal and diagonal adaptive methods and demonstrate the advantages of our methods for training large NNs in half-precision by removing numerically unstable and computationally intensive matrix decompositions and inversions.",
+        "location": "9"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cierra-lunde?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cierra Choucair\n        \n              \n          \u2615 Freshly Brewed Quantum News from The Daily Qubit x The Quantum Insider\n\n\u2686 Independent researchers used quantum machine learning to classify ten types of cancer and identify biomarkers, showing QML's advantage in handling complex biological data.\n\n\u2686 EDF is collaborating with Pasqal to apply quantum computing in energy forecasting, material simulation, and smart electric vehicle charging.\n\n\u2686 PhD student Luke Mortimer ported the classic game DOOM to quantum computers, dubbed \"Quandoom.\" Although current quantum hardware can't meet the steep 72,376 qubit requirement, the game runs on simulators at 10-20 FPS\n\n\u2686 Scientists from Sorbonne Universit\u00e9, NAVAL GROUP, and QC Ware Corp. developed a quantum convolutional neural network using Hamming-weight circuits, improving image classification with faster processing and fewer parameters.\n\n\u2686 On the most recent episode of The New Quantum Era, host Sebastian Hassinger joins Martin Schulz, Professor at Technical University of Munich and board member of the Leibniz Supercomputing Centre  Center, for a discussion on integrating quantum and classical computing for hybrid infrastructures and resource scheduling.\n\n\u2686 QubiCSV, is an open-source platform developed by scientists\u00a0at Berkeley Lab and the University of Massachusetts Amherst, which helps manage and visualize quantum calibration data with real-time collaboration tools.\n\n\u2686 Quantum Computing Inc. extended its agreement with Los Alamos National Laboratory to continue developing its Dirac-3 machine for solving complex optimization problems\n\n\u2686 Archer Materials Limited developed a scalable carbon film with 400+ nanosecond electron spin lifetimes, which may improve quantum device manufacturing and support quantum technology development through standard semiconductor techniques\n\n\u2686 Scientists from the Federal University of Rio de Janeiro and the Technology Innovation Institute in Abu Dhabi introduce a hybrid quantum-classical framework for simulating matrix functions, reducing runtime and noise sensitivity on early quantum hardware\n\n\u2686 Arqit Quantum raised $13.6 million through a stock sale and plans to use the proceeds for corporate development.\n\nDon't miss a single qubit. Read more at https://lnkd.in/gcXNfGFM\n#quantumcomputing #quantumtechnology #innovation #quantumscience #quantumphysics",
+        "location": "12"
+      },
+      {
+        "link": "https://es.linkedin.com/in/andriibuvailo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Andrii Buvailo, Ph.D.\n        \n              \n          It was a hell of a week in tech+bio space \ud83d\udc47  \n\n\ud83d\ude80 Ex-Meta scientists launch\u00a0EvolutionaryScale\u00a0with $142M seed round, supported by\u00a0Amazon\u00a0and\u00a0Nvidia,\u00a0to develop AI models for generating novel proteins for scientific research. The startup aims to boost drug discovery and materials science with its ESM3 model.\n\n\ud83d\udd2c Insilico Medicine and MILA introduce BindGPT, a framework using reinforcement learning and LLMs for 3D molecular design, efficiently generating novel 3D molecules within protein binding sites, combining molecular graph creation and conformation generation.\n\n\ud83e\uddec Researchers at the\u00a0Arc Institute in California\u00a0unveil the \"bridge editing\" DNA mechanism, enabling larger and more precise genomic modifications than CRISPR-Cas9, potentially revolutionizing genome engineering through scarless and extensive DNA alterations.\n\n\ud83d\udcb0\u00a0Formation Bio\u00a0secures $372MM in Series D funding\u00a0led by a16z and Sanofi, aimed at expanding its AI-driven drug development platform and acquiring new drug candidates.\n\n\ud83d\ude80 Boston-based\u00a0Exsilio Therapeutics emerges from stealth\u00a0with $82M in Series A funding to tackle gene therapy challenges using mRNA technology for whole gene delivery, aiming to create repeat-dosable genomic medicines for complex diseases.\n\n\ud83d\uded2\u00a0Scientist.com, a leading R&D outsourcing marketplace,\u00a0launches Elisa, an LLM-powered research assistant for the pharmaceutical and biotechnology industries, designed to assist in R&D outsourcing workflows.\n\n\ud83d\udc89\u00a0Alnylam Pharmaceuticals\u00a0announced that its heart drug, vutrisiran, showed positive Phase 3 results, reducing the risk of death and recurrent cardiovascular complications by 28% compared to placebo.\n\n\ud83d\udd0d\u00a0BenevolentAI\u00a0and\u00a0AstraZeneca's\u00a0collaboration progresses\u00a0with the addition of a novel target for systemic lupus erythematosus (SLE) to AstraZeneca's discovery portfolio, showcasing the success of BenevolentAI\u2019s AI-driven drug discovery platform.\n\n\ud83d\udd2c\u00a0Proscia\u00a0partners with\u00a0Nucleai\u00a0to integrate AI-driven predictive biomarkers into Proscia's Concentriq\u00ae platform, enhancing precision medicine by providing advanced diagnostics and optimizing clinical trial execution\n\n\ud83d\udd2c\u00a0BioStrand (a subsidiary of IPA)\u00a0and\u00a0PGxAI\u00a0have partnered to develop an AI model for pharmacogenomics recommendations\u00a0using BioStrand's LENSai\u2122, enhancing precision medicine through personalized drug response predictions. This collaboration aims to transform medication prescription practices globally by integrating advanced AI and genomic data analysis.\n\n\ud83e\udd1d\u00a0Cradle\u00a0has partnered with\u00a0Google\u00a0Cloud\u00a0to enhance security for its AI-driven protein engineering platform, ensuring robust protection for sensitive research data and intellectual property.\n\n\ud83d\udcb0\u00a0Curie.Bio, a venture capital firm co-founded by\u00a0Alexis Borisy,\u00a0raised $380 million for early-stage biotech investments, bringing its total to nearly $1 billion. \n\nDive deeper by subscribing to Where Tech Meets Bio (Substack Newsletter) weekly newsletter (link below).",
+        "location": "259\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                30 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ianmmarks?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ian Marks\n        \n              \n          A groundbreaking study by Caltech reveals the complex stress pathways that activate a cell's emergency response, crucial for maintaining cellular health. Led by the lab of Prof. David Chan, this research uncovers how specific proteins act as both \"security guards\" and \"janitors\" to protect and clean the cell during stressful times. These insights could pave the way for advances in treating diseases like Alzheimer's and Parkinson's. Dive into the details in the latest issue of Molecular Cell. \ud83e\uddec\ud83d\udd2c #CellBiology #CaltechResearch #MolecularCell #ScienceInnovation\n\nRead more: https://lnkd.in/eV3FK8Rq",
+        "location": ""
+      },
+      {
+        "link": "https://in.linkedin.com/in/balamurali-a-rajendran?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Balamurali A R, PhD\n        \n              \n          \nJust a few months ago, we were\u00a0training on a curated set of genetic research papers from arXiv. These LLMs have been invaluable for our internal research, empowering scientists\u00a0to understand how different traits and SNP interact for a particular health objective. \n\nHowever, keeping pace with this ever-evolving field presents two key challenges:\nThe data deluge: arXiv churns out thousands of new papers daily, making it impossible to constantly retrain our LLMs with the latest findings.\n\nThe model release frenzy: New LLM architectures and fine-tuned models appear on platforms like Hugging Face at a dizzying rate. How can we leverage these advancements without starting from scratch every time?\nHow do you solve this problem?: model merging!\nImagine this: hundreds of specialized models, some focusing on the exact dataset we need, are readily available on Hugging Face. What if we could combine the strengths of these pre-trained models with our own, leveraging tools like \"mergekit\"? This powerful tool allows anyone to merge a million-dollar trained model with a specialized one on a regular 16GB CPU machine using sharding. The entire process can take as little as 30 minutes!\nThis opens up a world of possibilities:\nReduced Training Costs: Say goodbye to expensive, time-consuming retraining! Merging pre-trained models allows us to incorporate the latest advancements efficiently.\nFaster Innovation: By leveraging existing models, we can focus on fine-tuning and customization, accelerating our research and development cycles.\nDemocratization of AI: Mergekit empowers researchers of all levels to tap into the power of advanced LLMs without needing access to massive compute resources.\nThe future of LLM development is collaborative and efficient. By embracing model merging, we can unlock the full potential of this technology and accelerate scientific progress! #AI #LLMs #MachineLearning #Research",
+        "location": "25\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/freedompreetham?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Freedom Preetham\n        \n              \n          I just published > \"Part 4 - Non Local Interactions in AGI through Weighted Choquard Equation\"\n\nIn the pursuit of building Artificial General Intelligence (AGI), integrating long-term memory and accumulated experiences into cognitive reasoning is crucial for developing systems that can adapt and learn like humans. Traditional AI models often fall short in this aspect, focusing more on pattern recognition than on experiential learning. \n\nThe weighted Choquard Equation offers a sophisticated mathematical framework that can model these non-local interactions, enabling AGI to maintain a dynamic, experience-based memory system. This approach not only captures long-range dependencies and prioritizes significant experiences but also ensures stability and coherence in memory integration, providing a new paradigm for cognitive reasoning in AGI.\n\n#AGI #AI #Math #ArtificialIntelligence\n\nhttps://lnkd.in/gVykvyjY",
+        "location": "3"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/joshuahowgego?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Joshua Howgego\n        \n              \n          A lovely piece from Jacklin Kwan on the mind-bending world of temporal metamaterials, which can rewind and remix light itself. Turns out these strange and little-understood materials are the perfect testing ground for a range of the most exotic ideas in physics, including the controversial concept of quantum friction... https://lnkd.in/d6pcgD7E",
+        "location": "6"
+      },
+      {
+        "link": "https://it.linkedin.com/in/cosimo-gentile-86a613218/en?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cosimo Gentile\n        \n              \n          \ud83d\udcd1 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc01\ud835\udc22\ud835\udc28\ud835\udc25\ud835\udc28\ud835\udc20\ud835\udc32 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21\ud835\udc27\ud835\udc28\ud835\udc25\ud835\udc28\ud835\udc20\ud835\udc32\n\nIn a groundbreaking stride towards the future, research in artificial intelligence (AI) and robotics is progressively blurring the lines between living organisms and machines. Innovations like AI-driven prosthetic limbs and brain-machine interfaces are not just futuristic concepts but are evolving to replicate human bodily functions with remarkable fidelity. These advancements promise to offer unprecedented medical solutions for individuals grappling with illness or injury.\nYet, the quest for seamless integration of mechanical actuators with the human body calls for the development of sophisticated sensors. Imagine a sensor so advanced that it can stretch across both the body and mechanical components, akin to a second skin. This is where electronic skin (e-skin) enters the scene, poised to dissolve the once-clear boundary between organism and machine.\nHighlighted on page 735 of this issue, Wang et al. report the development of a neuromorphic e-skin system that astonishingly mimics the sensory feedback of our biological skin. \n\nThis is not just a step but a leap forward in the realm of neuro-robotics and prosthetics, setting the stage for a future where the line between the organic and the artificial becomes indistinguishable.\n\n\ud83d\udc47 Read the full article\n\n#artificialintelligence #robotics #biotech #prosthetics #brainmachineinterface #neurorobotics #electronicskin #neuromorphicsystems #humanmachineintegration #medicaltechnology #aiprosthetics #sensoryfeedback #biologicalmimicry #futureofmedicine #innovation #healthtech #smartprosthetics #cyberneticadvancements #aiinhealthcare #nextgenprosthetics",
+        "location": "36"
+      },
+      {
+        "link": "https://au.linkedin.com/in/marslanshaukat?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Muhammad Arslan Shaukat\n        \n              \n          \ud83d\udce2 Academic Integrity: A Growing Concern (Part 2)\n\nUnlike traditional journals, preprint services (like arXiv, bioRxiv & medRxiv, EarthArXiv Preprint Service, Research Square) allow researchers to share their work without undergoing the typical peer review process. While this accelerates the sharing of ideas and collaboration, it also means there is less oversight, potentially allowing anyone to upload content without stringent checks.\n\nThe integrity of citation metrics is crucial because these metrics play a significant role in how scientists are ranked and recognized globally. One such ranking is Stanford University and Elsevier top 2% Scientists list, which identifies scholars who are top-cited in their respective fields. This ranking is based on an analysis of citation impact across multiple scientific fields and subfields. Being included in such a list is a mark of distinction for researchers, and unethical practices like artificial citation manipulation can threaten the integrity of these rankings, misrepresenting the true impact of a scholar's work.\n\n\ud83d\udee1\ufe0f Here are some steps we can take to address these issues:\n \n\ud83d\udce9 Contact Support: Reach out to support teams of these platforms with detailed information if you notice any misuse of citations.\n\ud83d\uddc2\ufe0f Document Incidents: Keep records of artificial papers and any communication with the platform, which can be useful if the issue escalates.\n\ud83c\udfeb Inform Academic Institutions: Academic institutions can offer support and may help address such issues on a larger scale.\n\ud83e\uddd1\u200d\u2696\ufe0f Consider Legal Advice: If misuse persists or causes reputational damage, exploring legal options might be necessary.\n\n#ResearchIntegrity #AcademicReputation #EthicalResearch #ScholarshipMatters #ScienceCommunication #HIndexGaming #IntegrityMatters #ProtectResearch #ResearchAccountability #ResponsibleResearch #FraudInResearch #PublishOrPerish #QualityResearch #AcademicFraud #ResearchEthicsMatter #ResearchQualityAssurance #TrustInAcademia #FakePapers #ResponsiblePublishing #IntegrityInScholarship",
+        "location": "7"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/georgecheng?trk=public_profile_samename-profile",
+        "name": "George C.",
+        "summary": "",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/georgecheng7?trk=public_profile_samename-profile",
+        "name": "George Cheng",
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/george-cheng-4b47445a?trk=public_profile_samename-profile",
+        "name": "George Cheng",
+        "summary": "Asset Management | Program Management | MBA",
+        "location": "Seattle, WA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/george-cheng-51b2716?trk=public_profile_samename-profile",
+        "name": "George Cheng",
+        "summary": "",
+        "location": "Pooler, GA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "A Continuous Oral-fluid Monitoring of Glucose (O.M.G.) Device with Near-field & Bluetooth Communication Capability",
+        "sub_title": "Journal of Student Research",
+        "summary": "",
+        "date": "February 12, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdoi%2Eorg%2F10%2E47611%2Fjsrhs%2Ev12i3%2E4805&urlhash=T-GJ&trk=public_profile_publication-title"
+      },
+      {
+        "name": "FloodGate: An Accessible Computational Model of Flooding Patterns",
+        "sub_title": "Earth ArXiv",
+        "summary": "",
+        "date": "October 1, 2023",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdoi%2Eorg%2F10%2E31223%2FX5P67B&urlhash=BKtM&trk=public_profile_publication-title"
+      },
+      {
+        "name": "PuriScan: A Low-Cost Microscope for Pathogenic Detection using Machine Learning and Convolutional Neural Networks",
+        "sub_title": "International Journal of High School Research",
+        "summary": "",
+        "date": "May 12, 2023",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fterra-docs%2Es3%2Eus-east-2%2Eamazonaws%2Ecom%2FIJHSR%2FArticles%2Fvolume5-issue2%2FIJHSR_2023_52_p42%2Epdf&urlhash=5PtP&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Minimally Invasive Delivery of a Hydrogel-based Exosome Patch to Prevent Heart Failure",
+        "sub_title": "Journal of Molecular and Cellular Cardiology",
+        "summary": "",
+        "date": "August 12, 2022",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Esciencedirect%2Ecom%2Fscience%2Farticle%2Fpii%2FS0022282822000852&urlhash=MSgm&trk=public_profile_publication-title"
+      },
+      {
+        "name": "The Potential of Fibroblast Growth Factors to Stimulate Hair Growth In Vitro",
+        "sub_title": "Journal of Emerging Investigators",
+        "summary": "",
+        "date": "November 7, 2021",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Femerginginvestigators%2Eorg%2Farticles%2F21-038&urlhash=1Svw&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Chinese",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Tally.AI",
+        "link": "https://www.linkedin.com/in/liyimengwork?trk=public_profile_project_contributor-image",
+        "duration": "Feb 2025"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/liyimengwork?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/dylan-nguyenn?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "Forever: An Avatar that Accurately Mimics the Likeness of Real People.",
+        "duration": "Jul 2024"
+      },
+      {
+        "title": "FloodGate: An Accessible Computational Model of Flooding Patterns",
+        "link": "https://www.linkedin.com/in/navvye-anand?trk=public_profile_project_contributor-image",
+        "duration": "Aug 2023"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/navvye-anand?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/tylerarose?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "DiaMIR: A MicroRNA (miR-23) Microneedle Patch for Type-2 Diabetes Control",
+        "duration": "Jun 2022 - May 2024"
+      },
+      {
+        "title": "PuriScan: An Ultra-Low-Cost Microscope for Pathogenic Detection in Drinking Water Using Machine Learning and Convolutional Nueral Networks",
+        "duration": "Feb 2022 - Sep 2023"
+      },
+      {
+        "title": "A Cost-Effective Oral-fluid Monitoring of Glucose (O.M.G.) Smartwatch and Application with Bluetooth-Communication Capabilities",
+        "duration": "Dec 2021 - Jun 2022"
+      },
+      {
+        "title": "The Potential of Fibroblast Growth Factors to Stimulate Hair Growth In Vitro",
+        "duration": "Jun 2019 - Aug 2020"
+      }
+    ],
+    "awards": [
+      {
+        "name": "3rd Place @ MIT AI Hackathon",
+        "organization": "MIT AI",
+        "duration": "Oct 2024",
+        "summary": "\u2022 Created VocAlarm, a voice-powered AI assistant to prepare you for the day\u2022 Worked on frontend/backend integration, UI/UX, and prompting\u2022 Pitched @ MIT AI Conference Oct 25-26 in New York City (https://www.mitaiconference.org/)\u2022 Awarded $5,000 of API credit from OpenAI"
+      },
+      {
+        "name": "Earth Prize Winner, Earth Prize Finalist, 2x Earth Prize Scholar",
+        "organization": "The Earth Prize Foundation",
+        "duration": "Apr 2024",
+        "summary": "2024 Earth Prize Winner - Leader of Team FloodGatehttps://www.theearthprize.org/the-earth-prize-20242024 Earth Prize Finalist Recipient (1/10) - Leader of Team FloodGatehttps://www.theearthprize.org/finalists2024 Earth Prize Scholar Recipient (1/35) - Leader of Team FloodGate https://www.theearthprize.org/scholars#floodgate2023 Earth Prize Scholar Recipient (1/37) - Leader of Team CleanMe!https://www.theearthprize.org/2023-scholars#clean-me!Invited to the 2024\u2026\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n          2024 Earth Prize Winner - Leader of Team FloodGatehttps://www.theearthprize.org/the-earth-prize-20242024 Earth Prize Finalist Recipient (1/10) - Leader of Team FloodGatehttps://www.theearthprize.org/finalists2024 Earth Prize Scholar Recipient (1/35) - Leader of Team FloodGate https://www.theearthprize.org/scholars#floodgate2023 Earth Prize Scholar Recipient (1/37) - Leader of Team CleanMe!https://www.theearthprize.org/2023-scholars#clean-me!Invited to the 2024 Villars Symposium held in Ollon, Switzerland on June 25-28th, 2024.\"The Villars Institute was established in 2022 as a nonprofit foundation to accelerate the transition to a net zero and nature positive economy and to restore the health of the planet. Located in the Swiss Alps, the Villars Institute is a platform for systemic change and a place for intergenerational collaboration. It is also a curator of artistic, cultural, and educational activities that promote biodiversity, planetary health, and sustainable development.The Villars Symposium brings together the Institute\u2019s partners and leading experts with the Villars Fellows to begin their life-long development as systems leaders.\"\n            \n\n    \n    \n\n    \n        Show less"
+      },
+      {
+        "name": "U.S. Presidential Scholar - Semifinalist, State Nominee",
+        "organization": "NC Department of Public Instruction Presidential Scholars Nomination Committee",
+        "duration": "Apr 2024",
+        "summary": "1/15 Semifinalists from North Carolina (https://www2.ed.gov/programs/psp/2024/semifinalists.pdf)1/96 Candidates from North Carolina (https://www2.ed.gov/programs/psp/2024/candidates.pdf)"
+      },
+      {
+        "name": "National Merit Scholar",
+        "organization": "National Merit Scholarship Corporation",
+        "duration": "Mar 2024",
+        "summary": ""
+      },
+      {
+        "name": "Coca-Cola Scholar",
+        "organization": "Coca-Cola Foundation",
+        "duration": "Feb 2024",
+        "summary": "1/150 students from a 103,000+ applicant pool. https://www.coca-colascholarsfoundation.org/about/2024-scholar-bios/https://www.coca-colascholarsfoundation.org/blog/our-2024-coke-scholars/https://www.coca-colascholarsfoundation.org/blog/2024-regional-finalists/https://www.coca-colascholarsfoundation.org/blog/our-2024-semifinalists"
+      },
+      {
+        "name": "Morehead-Cain Scholar Recipient",
+        "organization": "Morehead-Cain Foundation",
+        "duration": "Feb 2024",
+        "summary": "1/75 scholars from 2,000+ nominees"
+      },
+      {
+        "name": "GE-Reagan Foundation Scholarship Program - Semifinalist",
+        "organization": "GE and the Ronald Reagan Presidential Foundation and Institute",
+        "duration": "Jan 2024",
+        "summary": ""
+      },
+      {
+        "name": "Heisman High School Scholarship - National Winner, National Finalist, State Winner, School Winner",
+        "organization": "Heisman Trophy Trust",
+        "duration": "Nov 2023",
+        "summary": "1/2 National Winners;1/12 National Finalists (Southeast Region Winner);1/100 State Winners (NC State Winner);1/25,000+ School Winners (NCSSM Winner);\"The Heisman\u00ae High School Scholarship was created in 1994 through a partnership between Wendy\u2019s\u00ae and The Heisman Trophy Trust. From its inception, the program has leveraged the reputation of the Heisman Memorial Trophy as a symbol of great ability combined with diligence, perseverance, and hard work.The Heisman High\u2026\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n          1/2 National Winners;1/12 National Finalists (Southeast Region Winner);1/100 State Winners (NC State Winner);1/25,000+ School Winners (NCSSM Winner);\"The Heisman\u00ae High School Scholarship was created in 1994 through a partnership between Wendy\u2019s\u00ae and The Heisman Trophy Trust. From its inception, the program has leveraged the reputation of the Heisman Memorial Trophy as a symbol of great ability combined with diligence, perseverance, and hard work.The Heisman High School Scholarship program extends the Heisman prestige to the nation\u2019s most esteemed high school seniors by celebrating and rewarding outstanding male and female scholar-athletes who understand that the most important victories happen not only on the field, but also in their schools and communities.Over the past 28 years, the program has honored more than 600,000 of the nation\u2019s most esteemed high school seniors and provided hundreds of thousands of dollars in college scholarships to students and more than a million dollars to high school academic and athletic programs across the country.The Heisman High School Scholarship program honors the nation\u2019s most accomplished, community-minded high school senior athletes. By inviting male and female students from schools across the country to share their stories of leadership and impact, the program aims to inspire all students to harness their potential, push their limits, and use their talents not only to advance their own futures, but to improve the communities and world around them.\"\n            \n\n    \n    \n\n    \n        Show less"
+      },
+      {
+        "name": "Yau High School Science Award (YHSA)",
+        "organization": "S.-T. Yau High School Science Award",
+        "duration": "Nov 2023",
+        "summary": "2023 YHSA Global Finalist - Biology2023 YHSA USA Regional Winner (Gold Award) - Biology2023 YHSA USA Regional SemiFinalist - BiologyInvited to Tsinghua University, Beijing, China, to compete with YHSA Finalists from around the world - December 2-3"
+      },
+      {
+        "name": "Bryan Cameron Impact Scholarship Finalist",
+        "organization": "Bryan Cameron Education Foundation",
+        "duration": "Oct 2023",
+        "summary": "1/80 students from 3000+ applicant pool"
+      },
+      {
+        "name": "EU Contest for Young Scientists",
+        "organization": "European Union",
+        "duration": "Sep 2023",
+        "summary": "1/2 students representing the United States with, \"DiaMiR: A MicroRNA Microneedle Patch for Type-2 Diabetes Control\"Invited to represent ISEF @ London International Youth Science Forum & International Swiss Talent Forum"
+      },
+      {
+        "name": "North Carolina International Science Competition (NCISC)",
+        "organization": "Burroughs Wellcome Fund",
+        "duration": "May 2023",
+        "summary": "2023 North Carolina International Science Competition Winner (1/6)Invited to the 2023 National Geographics Summit held in Washington D.C. June 12 \u2013 16"
+      },
+      {
+        "name": "Regeneron International Science and Engineering Fair - EU Contest for Young Scientists Top Award",
+        "organization": "Society for Science",
+        "duration": "May 2023",
+        "summary": "This award is presented to two projects that will represent Regeneron ISEF at the EU Contest for Young Scientists to be held in Brussels, Belgium September 13 \u2013 19, 2023.https://www.societyforscience.org/isef/awards/eu-young-scientists-award/"
+      },
+      {
+        "name": "Regeneron International Science and Engineering Fair - Grand Award (1st Place)",
+        "organization": "Society for Science",
+        "duration": "May 2023",
+        "summary": "2023 Regeneron ISEF Grand Award: 1st Place Biomedical and Health Sciences 2023 Regeneron ISEF Special Awards: Drug, Chemical & Associated Technologies Association (DCAT) 1st Prize, Long Island University Presidential Scholarship2023 Regeneron ISEF Finalist2023 Grand Award Winner @ North Carolina Region 3B Science Fair"
+      },
+      {
+        "name": "Stockholm Junior Water Prize (SJWP)",
+        "organization": "Water Environment Federation",
+        "duration": "May 2023",
+        "summary": "2023 United States Stockholm Junior Water Prize (US - SJWP) Finalist2023 1st Place @ North Carolina Stockholm Junior Water Prize ($500)Invited to the 2023 United States Stockholm Junior Water Prize Competition held in Golden, Colorado June 15 \u2013 19"
+      },
+      {
+        "name": "TacoBell Live M\u00e1s Scholar",
+        "organization": "TacoBell Foundation",
+        "duration": "May 2023",
+        "summary": "2023 $10,000 Live M\u00e1s Scholar Award Recipienthttps://www.tacobellfoundation.org/live-mas-scholarship-recipients/"
+      },
+      {
+        "name": "Young Investors Challenge Semifinalist",
+        "organization": "Young Investors Society",
+        "duration": "May 2023",
+        "summary": "2023 Winner of North Carolina Young Investors Challenge (1/3)2023 Semifinalist at the Global Young Investors ConferenceInvited to the 2023 Young Investors Conference held in Salt Lake City, Utah May 10 \u2013 12"
+      },
+      {
+        "name": "Pete Conrad Scholar | O'Neill Symposium | Conrad Challenge",
+        "organization": "Conrad Foundation & Blue Origin",
+        "duration": "Apr 2023",
+        "summary": "2023 Pete Conrad Scholar Recipient2023 Space for the Benefit of Earth National Finalist (1/10)Invited to the 2023 Space for the Benefit of Earth Summit held in Merritt Island, Florida April 24 \u2013 26"
+      },
+      {
+        "name": "Rising Explorer Scholar | The Explorers Grant",
+        "organization": "Explorers Foundation",
+        "duration": "Apr 2023",
+        "summary": "2023 Explorers Grant - Rising Explorer Scholar (1/5)2023 $1,500 Field Research Funding RecipientInvited for the 2023 Rising Explorers Field Research Program held at the University of North Carolina \u2013 Asheville June 21 \u2013 26"
+      },
+      {
+        "name": "University of North Carolina Kimberly B. Mitchell Visionary Award",
+        "organization": "The University of North Carolina Association of Student Governments",
+        "duration": "Apr 2023",
+        "summary": "Selected for, UniVent, and actively leading projects bettering the school campus and the surrounding communityOne of 11 awardees across 17 UNC campuses (UNC Chapel Hill, UNC Charlotte, East Carolina University, North Carolina State University, the North Carolina School of Science and Mathematics, and more)"
+      },
+      {
+        "name": "World Science Scholar",
+        "organization": "World Science Festival",
+        "duration": "Apr 2023",
+        "summary": "2023 World Science Festival Attendee2022 World Science Scholar Cohort (1/50)Invited to the 2023 World Science Festival held in New York City, New York May 31 \u2013 June 4"
+      },
+      {
+        "name": "2x American Junior Academy of Science Winner (AJAS)",
+        "organization": "National Association of Academics of Science",
+        "duration": "Mar 2023",
+        "summary": "2023 1st Place @ North Carolina Student Academy of Science - Advanced BiotechnologyInvited to the 2024 American Junior Academy of Science conference held in Denver, Colorado February 15 \u2013 172022 1st Place @ North Carolina Student Academy of Science - Advanced BiotechnologyInvited to the 2023 American Junior Academy of Science conference held in Washington D.C. March 1 \u2013 5"
+      },
+      {
+        "name": "National Economics Challenge",
+        "organization": "National Economics Challenge",
+        "duration": "Mar 2023",
+        "summary": "2023 3rd Place @ North Carolina EconChallenge (Adam Smith)2022 1st Place @ North Carolina EconChallenge (David Ricardo)"
+      },
+      {
+        "name": "Congressional App Challenge Winner",
+        "organization": "House of Code",
+        "duration": "Jan 2023",
+        "summary": "2023 Invitee to the House of Code2023 North Carolina Region 02 (NC-02) Congressional App Challenge WinnerInvited to the 2023 House of Code conference held in Washington D.C. April 17 \u2013 18"
+      },
+      {
+        "name": "Samsung Solve For Tomorrow",
+        "organization": "Samsung Foundation",
+        "duration": "Jan 2023",
+        "summary": "2023 Samsung Solve For Tomorrow State Finalist2023 Samsung Solve For Tomorrow Regional Winner (1/5)"
+      },
+      {
+        "name": "TacoBell Ambition Accelerator | Ashoka Changemakers",
+        "organization": "TacoBell Foundation",
+        "duration": "Aug 2022",
+        "summary": "2022 TacoBell Ambition Accelerator State Finalist 2022 $1,000 TacoBell Ambition Accelerator Seed Funding Recipient"
+      },
+      {
+        "name": "International BioGENEius Challenge",
+        "organization": "BIO Foundation",
+        "duration": "Jun 2022",
+        "summary": "2022 International BioGENEius Challenge Finalist2022 1st Place @ North Carolina BioGENEius ChallengeInvited to the 2022 BIO Conference held in San Diego, California June 10 \u2013 12"
+      },
+      {
+        "name": "Sigma Xi Student Research Showcase (SRS)",
+        "organization": "Sigma Xi",
+        "duration": "May 2022",
+        "summary": "2022 Sigma Xi Honorary Inductee2022 Top Presenter @ Sigma Xi Student Research Showcase - EngineeringInvited to the 2022 iFoRe Conference held in Alexandria, Virginia November 3 \u2013 5"
+      },
+      {
+        "name": "National Junior Science and Humanities Symposium (NJSHS)",
+        "organization": "Department of Defense",
+        "duration": "Apr 2022",
+        "summary": "2023 1st Place @ Virtual Junior Science and Humanities Symposium - Health/Medicine Category2022 1st Place @ National Junior Science and Humanities Symposium - Biomedical/Health Sciences2022 1st Place @ NC Junior Science and Humanities Symposium - Biomedical/Health SciencesInvited to the 2022 National Junior Science and Humanities Symposium held in Albuquerque, New Mexico April 22 \u2013 24"
+      },
+      {
+        "name": "Boy Scouts of America | Eagle Scout",
+        "organization": "Boy Scouts of America",
+        "duration": "Dec 2020",
+        "summary": "2021 Eagle Scout Silver Palm Recipient2021 Eagle Scout Gold Palm Recipient2020 Eagle Scout Inductee2020 Order of the Arrow: Vigil Inductee"
+      },
+      {
+        "name": "North Carolina Young Artist Audition (YAA)",
+        "organization": "Young Artist Audition",
+        "duration": "Mar 2020",
+        "summary": "2020 1st Place @ Young Artist Audition - Senior B2019 1st Place @ Young Artist Audition - Senior B2018 2nd Place @ Young Artist Audition - Senior A"
+      },
+      {
+        "name": "North Carolina Music Teachers Association (NCMTA)",
+        "organization": "North Carolina Music Teachers Association",
+        "duration": "",
+        "summary": "2022 - Gold Award @ North Carolina Music Teachers Association - Prince Level2021 - Gold Award @ North Carolina Music Teachers Association - Senior III Level2020 - Gold Award @ North Carolina Music Teachers Association - Senior II Level"
+      }
+    ],
+    "score": []
+  }
+]

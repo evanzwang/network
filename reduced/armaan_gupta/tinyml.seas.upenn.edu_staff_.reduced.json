@@ -1,0 +1,73 @@
+{
+  "title": "Staff | ESE 3600: Tiny ML",
+  "meta_description": "A listing of all the course staff members.",
+  "main_content": "Staff Instructors Rahul Mangharam rahulm@seas.upenn.edu Office Hours See Canvas Teaching Assistants Nandan Tumu nandant@upenn.edu Office Hours See Canvas Rajnish Gupta rajnishg@upenn.edu Office Hours See Canvas Former Staff Manasa Sathyan -- Tejas Agarwal --",
+  "links": [
+    {
+      "url": "/",
+      "text": "ESE 3600: Tiny ML"
+    },
+    {
+      "url": "https://xlab.upenn.edu",
+      "text": "Rahul Mangharam"
+    },
+    {
+      "url": "mailto:rahulm@seas.upenn.edu",
+      "text": "rahulm@seas.upenn.edu"
+    },
+    {
+      "url": "https://nandantumu.com",
+      "text": "Nandan Tumu"
+    },
+    {
+      "url": "mailto:nandant@upenn.edu",
+      "text": "nandant@upenn.edu"
+    },
+    {
+      "url": "https://sites.google.com/view/rajnishg",
+      "text": "Rajnish Gupta"
+    },
+    {
+      "url": "mailto:rajnishg@upenn.edu",
+      "text": "rajnishg@upenn.edu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/manasasathyan/",
+      "text": "Manasa Sathyan"
+    },
+    {
+      "url": "mailto:--",
+      "text": "--"
+    },
+    {
+      "url": "https://tagarwal.com",
+      "text": "Tejas Agarwal"
+    },
+    {
+      "url": "mailto:--",
+      "text": "--"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/images/rahul.png",
+      "alt": ""
+    },
+    {
+      "src": "/assets/images/nandan.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/assets/images/rajnish.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/assets/images/manasa.png",
+      "alt": ""
+    },
+    {
+      "src": "/assets/images/tejas.png",
+      "alt": ""
+    }
+  ]
+}

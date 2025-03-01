@@ -1,0 +1,20 @@
+{
+  "title": "NeurIPS  Scaling laws for post-training quantized large language models",
+  "meta_description": "",
+  "main_content": "Poster in Workshop: The Fourth Workshop on Efficient Natural Language and Speech Processing (ENLSP-IV): Highlighting New Architectures for Future Foundation Models Scaling laws for post-training quantized large language models Zifei Xu \u00b7 Alexander Lan \u00b7 Wanzin Yazar \u00b7 Tristan Webb \u00b7 Sayeh Sharify \u00b7 Xin Wang Keywords: [ Efficient Inference ] [ Abstract ] Abstract: Generalization abilities of well-trained large language models (LLMs) are known to scale predictably as a function of model size. In contrast to the existence of practical scaling laws governing pre-training, the quality of LLMs after post-training compression remains highly unpredictable, often requiring case-by-case validation in practice. In this work, we attempted to close this gap for post-training weight quantization of LLMs by conducting a systematic empirical study on multiple LLM families quantized to numerous low-precision tensor data types using popular weight quantization techniques. We identified key scaling factors pertaining to characteristics of the local loss landscape, based on which the performance of quantized LLMs can be reasonably well predicted by a statistical model. Chat is not available.",
+  "links": [
+    {
+      "url": "/virtual/2024/workshop/84731",
+      "text": "The Fourth Workshop on Efficient Natural Language and Speech Processing (ENLSP-IV): Highlighting New Architectures for Future Foundation Models"
+    },
+    {
+      "url": "/virtual/2024/search?query=Efficient Inference",
+      "text": "Efficient Inference"
+    },
+    {
+      "url": "/public/PrivacyPolicy",
+      "text": "Our Privacy Policy \u00bb"
+    }
+  ],
+  "images": []
+}

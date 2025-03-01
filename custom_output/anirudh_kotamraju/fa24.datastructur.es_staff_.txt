@@ -1,0 +1,265 @@
+      Link
+      Menu
+      Expand
+    Feather. MIT License: https://github.com/feathericons/feather/blob/master/LICENSE
+      (external link)
+      Document
+      Search
+    Bootstrap Icons. MIT License: https://github.com/twbs/icons/blob/main/LICENSE.md
+      Copy
+      Copied
+          [Home](/)
+          [Calendar](/calendar/)
+          [Course Info](/policies/)
+              [Exam Policies](/policies/exams/)
+              [Extensions Policy](/policies/extensions/)
+              [CS 47B](/policies/47b/)
+              [Academic Misconduct](/policies/academic-misconduct/)
+          [Staff](/staff/)
+          [Labs](/labs/)
+              [Lab 01: Setup](/labs/lab01/)
+                  [FAQ](/labs/lab01/faq/)
+                  [How to Use the Terminal](/labs/lab01/terminal/)
+                  [Linux/Unix](/labs/lab01/linux/)
+                  [Mac OS](/labs/lab01/mac/)
+                  [Windows](/labs/lab01/windows/)
+              [Lab 02: Debugging (Part 1)](/labs/lab02/)
+              [Lab 03: Debugging (Part 2)](/labs/lab03/)
+              [Lab 04: Git](/labs/lab04/)
+              [Lab 05: Disjoint Sets](/labs/lab05/)
+              [Lab 06: BSTMap](/labs/lab06/)
+                  [Asymptotics Problems Solutions](/labs/lab06/asymptotics-soln/)
+              [Lab 07: LLRBs](/labs/lab07/)
+              [Lab 08: Hashmaps](/labs/lab08/)
+                  [FAQ - Lab08](/labs/lab08/faq/)
+              [Lab 09: Conway's Game of Life](/labs/lab09/)
+              [Lab 10: Tetris](/labs/lab10/)
+                  [FAQ - Lab10](/labs/lab10/faq/)
+          [Homeworks](/homeworks/)
+              [Homework 0](/homeworks/hw0/)
+                  [Homework 0A: Java Syntax](/homeworks/hw0/hw0a/)
+                  [Homework 0B: Data Structures](/homeworks/hw0/hw0b/)
+              [Homework 3: Midterm 2 Review FAQ](/homeworks/hw3/)
+              [Homework 2: Percolation](/homeworks/hw2/)
+                  [Homework 2: Percolation FAQ](/homeworks/hw2/faq/)
+                  ["Expected Outputs - HW 2: Percolation"](/homeworks/hw2/outputs/)
+          [Projects](/projects/)
+              [Project 0: 2048](/projects/proj0/)
+              [Project 1A: LinkedListDeque61B](/projects/proj1a/)
+                  [FAQ - Project 1A: Linked List Deque 61B](/projects/proj1a/faq/)
+                  [Coverage Tests - Project 1A: Linked List Deque 61B](/projects/proj1a/flags/)
+              [Project 1B: ArrayDeque61B](/projects/proj1b/)
+                  [FAQ - Project 1B: Array Deque 61B](/projects/proj1b/faq/)
+                  [Coverage Tests - Project 1B: Array Deque 61B](/projects/proj1b/flags/)
+              [Project 2A: Ngordnet (NGrams)](/projects/proj2a/)
+                  [FAQ - Project 2A](/projects/proj2a/faq/)
+              [Project 2B: Ngordnet (Wordnet)](/projects/proj2b/)
+                  [FAQ - Project 2B](/projects/proj2b/faq/)
+              [Project 3: Build Your Own World](/projects/proj3/)
+                  [Partnerships](/projects/proj3/partnerships/)
+                  [Setup](/projects/proj3/setup/)
+                  [3A: World Generation](/projects/proj3/proj3a/)
+                  [3B: Gameplay](/projects/proj3/proj3b/)
+                  [BYOW Ambition Features](/projects/proj3/ambition/)
+                  [BYOW Checkoff Script](/projects/proj3/checkoff/)
+                  [BYOW Common Bugs](/projects/proj3/common-bugs/)
+          [Resources](/resources/)
+              [Guides](/resources/guides/)
+                  [Asymptotics](/resources/guides/asymptotics/)
+                  [Beacon Guide](/resources/guides/beacon/)
+                  [Debugging Guide](/resources/guides/debugging/)
+                  [Ed Policies and Guidelines](/resources/guides/ed/)
+                      [An Ed Guide for New Users](/resources/guides/ed/ed-guide/)
+                  [Gitbugs](/resources/guides/gitbug/)
+                  [IntelliJ](/resources/guides/intellij/)
+                      [Installing and Using the IntelliJ Plugins](/resources/guides/intellij/plugins/)
+                      [IntelliJ WTFS](/resources/guides/intellij/wtfs/)
+                  [Online OH Guide](/resources/guides/oh/)
+                  [Style Guide](/resources/guides/style/)
+                  [Using Git](/resources/guides/git/)
+                  [Using the Soda Lab Machines](/resources/guides/soda-machines/)
+              [Academic Resources](/resources/academic/)
+              [Conceptual Resources](/resources/conceptual/)
+              [Exam Resources](/resources/exams/)
+              [Support Resources](/resources/support/)
+          [Troubleshooting](/troubleshooting/)
+              [Git WTFS](/troubleshooting/git-wtfs/)
+    This site uses
+      [Just the Docs](https://github.com/just-the-docs/just-the-docs)
+      , a documentation theme for Jekyll.
+            [Ed](https://edstem.org/us/courses/61406)
+            [OH Queue](https://cs61b-oh.eecs.berkeley.edu/)
+            [Lab Queue](https://cs61b-oh.eecs.berkeley.edu/queue/lab)
+            [Beacon](https://beacon.datastructur.es/)
+            [Student Support](https://forms.gle/Zggnsck7DDPeMUTZ9)
+                  he/him
+                  [jyokota@berkeley.edu](mailto:jyokota@berkeley.edu)
+                Hi All! I’m Justin (he/him), one of the co-instructors for 61B and 61C this semester. As an undergraduate, I did a double math/CS major, and completed a fifth-year masters in a parallel computing project (all at Berkeley). I additionally worked as a TA for nine semesters, with a focus on exam writing. Outside of work, I spend most of my time playing Celeste (9D is brutal) and solving/writing puzzles as part of BMT and teammate. Part 1 of 2: Literal wariness snacks overpays, but fries alert scams. Foaming clams?
+                  [peyrin@berkeley.edu](mailto:peyrin@berkeley.edu)
+                Hello, I’m a second-year lecturer in EECS (so don’t call me Professor please). I did my undergrad at Berkeley, where I TA’d for a few classes (including CS 61C, CS 161, and CS 188 once). Then I did a masters’ at Berkeley, where I studied computer science education with Nicholas Weaver and Dan Garcia. This is my second time teaching CS 61B as co-instructor, so any feedback/advice/complaints are appreciated!
+                  he/him/his
+                  [adityahariharan@berkeley.edu](mailto:adityahariharan@berkeley.edu)
+                Hey everyone, I’m Aditya, and I’m a third year studying CS and Business. Outside of teaching, I really enjoy watching sports, brunch, photography, motivational quotes, pickleball, deadlifting, and trying new things. Super excited to meet you all, and feel free to reach out about anything!
+                  [Alyssa Smith](https://www.youtube.com/watch?v=zNhcVB_hFXA)
+                  she/her/hers
+                  [alyssa.427@berkeley.edu](mailto:alyssa.427@berkeley.edu)
+                hiya! i’m a fourth-year CS + DS major from seattle, and this is my fourth time teaching 61b(l)! hmu to talk about JRPGs, the current state of midwest emo, and/or silly internet cats :3 feel free to reach out anytime!
+                  [anirudh.s@berkeley.edu](mailto:anirudh.s@berkeley.edu)
+                Hello everyone! I’m Anirudh, a junior majoring in Math and CS from the Bay and this is my third time as a 61B TA! In my free time, I LOVE playing video games like Smash (Kirby is the best) and Overcooked with friends! I also really enjoy speed-solving Sudokus and KenKens whenever I’m bored. I’m super duper excited to work with you all :)
+                  [Anniyat Karymsak](https://www.youtube.com/watch?v=uQ9_MwZIaoc)
+                  [kanniyat@berkeley.edu](mailto:kanniyat@berkeley.edu)
+                Hi! My name is Anniyat and I am a senior from Kazakhstan. Apart from teaching, I really enjoy watching detectives, ballroom dancing, and listening to Frank Sinatra’s songs. When it comes to food, I am (unhealthily) obsessed with Seoul Hotdog!
+                  [Ashley Kao](https://akao03.github.io/index.html)
+                  [ashleykao@berkeley.edu](mailto:ashleykao@berkeley.edu)
+                Hi! I’m Ashley and I’m a fourth-year EECS major from Irvine, CA. This is my fifth time on 61B(L) staff. I like cats, wintermelon tea, public transit, shiny Pokemon, cursed data structures, and 61bees. I also enjoy memorizing random facts and exploring the Bay Area. Looking forward to meeting y’all!
+                  [Circle Chen](https://circlecly.github.io)
+                  [circlecly@berkeley.edu](mailto:circlecly@berkeley.edu)
+                Recently playing: Black Myth: Wukong, Terraria (with mods), Genshin Impact (waiting for 5.0), Stardew Valley, Don’t Starve Together.
+                  He/Him/His
+                  [cyrushung822@berkeley.edu](mailto:cyrushung822@berkeley.edu)
+                Hey! I’m a 4th-year CS major from Hong Kong. I am a huge foodie and love trying new cuisines and baking in my free time. My other hobbies include playing smash, reading, and taking care of my 6 cats and 1 dog when I’m back home. Looking forward to meeting you all and reach out to me anytime for anything.
+                  [Daniel Wang](https://www.linkedin.com/in/daniel-r-wang/)
+                  [dwwwang@berkeley.edu](mailto:dwwwang@berkeley.edu)
+                Hello! I’m Daniel, a junior majoring in Computer Science from San Diego, CA. Besides teaching, I also enjoy graphic design, fashion, and badminton. Outside of class, you’ll probably find me around a local cafe, library, or literally everywhere. Feel free to reach out, I’d love to meet and talk!
+                  [davidmyang@berkeley.edu](mailto:davidmyang@berkeley.edu)
+                Hello everyone! My name is David and I’m a 4th year studying CS + Linguistics from Tallahassee, Florida. In my free time, I love rock-climbing, playing piano, running, and NYT word games. This is my 5th semester with 61B, super excited to meet yall!
+                  [Dylan Hamuy](https://pizzamas.com/password)
+                  [dylanhamuy@berkeley.edu](mailto:dylanhamuy@berkeley.edu)
+                Hello! I’m Dylan, this is my 5th semester teaching 61B. I’ll be a bit more behind the scenes this semester, so you wont see too much of me. Anyways, feel free to reach out as I’m here to help!
+                  [elaineshu@berkeley.edu](mailto:elaineshu@berkeley.edu)
+                Hi, I’m a third year studying CS and I like playing tennis and watching chess Twitch 😎. On Sundays you can find me hiking around the bay and trying new cuisines.
+                  [Elana Ho](https://ocf.io/elanaho/portfolio)
+                  [elanaho@berkeley.edu](mailto:elanaho@berkeley.edu)
+                Hi! I’m Elana, a fourth year majoring in computer science and French. In my free time, I enjoy drawing, learning new languages, and watching anime. This is my fifth time TAing for CS 61B, and I’m super excited to meet you all! Please feel free to reach out about anything :3
+                  [Erik Kizior](https://ekizior.github.io/)
+                  [erikkizior@berkeley.edu](mailto:erikkizior@berkeley.edu)
+                Hey! I’m Erik, a rising 4th year majoring in EECS. I love eating burritos, playing Smash, and sleeping. I’m so excited to be teaching CS 61B this fall and I hope you have a fun time in this class!
+                  [jeffreyyum@berkeley.edu](mailto:jeffreyyum@berkeley.edu)
+                Hi everyone! My name is Jeff and I’m a senior from Torrance, California studying EECS. Some things I love are tennis, cooking, and coffee. Excited for a great semester with yall!
+                  [kanavmittal@berkeley.edu](mailto:kanavmittal@berkeley.edu)
+                Hi! My name is Kanav, and I’m a fourth-year EECS major. I am interested in machine learning, software engineering, and computational biology. In my free time, you can find me working out, hiking the Fire Trails, watching sitcoms, or trying all the restaurants around Berkeley. I’m also a massive Taylor Swift fan :). Looking forward to meeting you!
+                  [kevinsheng@berkeley.edu](mailto:kevinsheng@berkeley.edu)
+                Hi there, I’m Kevin! I’m a senior majoring in CS and DS, and this will be my fifth time teaching CS61B(L). I like to workout, learn new recipes, and start minecraft servers with my friends, even when we don’t have the time to play for more than a couple days. Feel free to reach out if you have any questions, need any help, or just to say hi!
+                  [mihirm@berkeley.edu](mailto:mihirm@berkeley.edu)
+                Hi, my name’s Mihir! This is my 4th time on course staff and I’m super excited to meet all of y’all this Fall! I’m from Mountain View, CA and I love driving, chess, basketball, and a fresh cup of Java (the coffee and maybe also the language when nothing errors). Jokes aside, I truly believe this foundational course is quite challenging yet loads of fun and you may struggle at times, but hard work does pay off and the experience is immensely rewarding! So please give 61B an honest and sincere effort, and I wish you the best of luck!
+                  [ronaldwang2025@berkeley.edu](mailto:ronaldwang2025@berkeley.edu)
+                hey yall~ I’m a senior studying CS and I’ve been teaching 61B for 5 semesters now. Excited to pull late nights with y’all in Soda.
+                  [rbeggs@berkeley.edu](mailto:rbeggs@berkeley.edu)
+                Hi everyone! I’m a junior from the Bay Area studying CS & CogSci. You may find me at the RSF, climbing, or running around the Berkeley hills. 61B was my favorite class and I hope I can cultivate that same experience for y’all! Let’s have an amazing semester!!
+                  he/him/hers
+                  [royce.ren@berkeley.edu](mailto:royce.ren@berkeley.edu)
+                Hi! I’m Royce, currently a senior studying CS! When I’m not nerding out over Union Find and 61B, you can find me watching anime, playing League (I’m sorry), going gym, and wasting far too much time on YouTube. Super stoked for a great semester :)
+                  [sahityasree@berkeley.edu](mailto:sahityasree@berkeley.edu)
+                Hi! My name is Sree, and I’m a senior majoring in CS. This is my third semester teaching 61B and I’m super excited to be back :) In my free time, I like to write, hike, and watch movies, and I’ve recently been learning to crochet. Feel free to reach out anytime, and looking forward to meeting you all!
+                  [Stella Kaval](https://stellakaval.github.io/teaching/)
+                  [stellakaval@berkeley.edu](mailto:stellakaval@berkeley.edu)
+                Hi! I’m Stella, a senior CS major, and this is my third time on the CS61B staff. My goal this semester is to create a welcoming environment where course concepts are approachable and learning is a fun experience for everyone. Outside of class, you might find me enjoying an iced vanilla latte, capturing sunset pics on the Berkeley fire trails, or binge-watching reality TV!
+                  [Teresa Luo](https://www.youtube.com/watch?v=b8sHOSukVi8)
+                  [teresaluo1210@berkeley.edu](mailto:teresaluo1210@berkeley.edu)
+                Hi! I’m Teresa, a senior majoring in Computer Science and Data Science. I am currently getting my daily dose of Corgi content, keeping up with my Duolingo streak, and learning how to heel hook : ) Looking forward to a fun semester with you all!
+                  [Vanessa Teo](https://www.youtube.com/watch?si=Cv0k_NcHc8Cj8i7H&t=92&v=Ofp26_oc4CA&feature=youtu.be)
+                  [vanessateo@berkeley.edu](mailto:vanessateo@berkeley.edu)
+                Hi! I’m Vanessa, a senior from the Bay Area studying Computer Science and Environmental Economics & Policy. In my free time I like to crochet, learn languages, make fun drinks, research cool things, and make+listen to all genres of music. This is my 6th time teaching 61B (woo!) and I’m incredibly excited to meet everyone! Feel free to reach out anytime—I’m here to help :)
+                  [fungwilson3@berkeley.edu](mailto:fungwilson3@berkeley.edu)
+                Hi everyone! I’m a senior studying CS with a DS minor. This is my third semester teaching CS61B/L as a TA, but I did Tutor for Data8 in Summer 2023. I came into Berkeley as ChemE and changed my major 7+ times before deciding on CS my sophomore spring, when I took 61B. In my free time, I love exploring new food spots, working at cafes, playing volleyball, and vlogging!
+                  [akotamraju@berkeley.edu](mailto:akotamraju@berkeley.edu)
+                Hey! I’m Anirudh, a junior from the Bay Area studying Computer Science. I love landscape photography, listening to film scores, and bike rides. Excited to meet you!
+                  [annabella.chow@berkeley.edu](mailto:annabella.chow@berkeley.edu)
+                Heyyy! I’m Annabella! This will be my 3rd semester as a transfer student, 2nd time tutoring for 61B. I am part of the Berkeley Taekwondo club (which y’all should def check out! ;)) and Crossroad Christian Fellowship. My favorite restaurant is probably Dumpling House, tho the prices makes me sad. 
+So so excited to meet you guys this semester!
+                  [cm.1@berkeley.edu](mailto:cm.1@berkeley.edu)
+                Hi! I am a rising junior studying CS. I enjoy sleeping, eating, and playing badminton. Feel free to reach out if you have any questions!
+                  [huezodiego@berkeley.edu](mailto:huezodiego@berkeley.edu)
+                🇸🇻✌️
+                  [etam1@berkeley.edu](mailto:etam1@berkeley.edu)
+                Hey Everyone! I’m Ethan, an upcoming Junior from Chicago studying Computer Science. When I’m not CS61B-ing, I love listening to Olivia Rodrigo and playing Smash.
+                  [fionac@berkeley.edu](mailto:fionac@berkeley.edu)
+                Hiya, I’m Fiona, a senior studying Statistics and Data Science from San Jose, CA. This is my second time tutoring for 61B, and I’m so excited to be back! When I’m not in the classroom, I love making matcha lattes, exploring cafes, scrapbooking, and missing my cats back home. Feel free to reach out anytime! ૮₍˶ᵔ ᵕ ᵔ˶ ₎ა
+                  [iris.zhou@berkeley.edu](mailto:iris.zhou@berkeley.edu)
+                hii! i’m iris, a junior from san jose studying cs & astrophysics. this is my 2nd time tutoring with 61b! in my free time, i enjoy cafe hopping, skiing, thrifting, and (trying to) make my own matcha. looking forward to meeting everyone this semester :)
+                  [jacobkim@berkeley.edu](mailto:jacobkim@berkeley.edu)
+                Hi :) I’m Jacob, a senior from LA studying CS and DS. In my free time, I enjoy running and making coffee. Feel free to reach out to me for anything!
+                  [jaibhatia@berkeley.edu](mailto:jaibhatia@berkeley.edu)
+                Hi I’m Jai, a junior studying computer science from Vancouver, Canada! During my free time, I like to play hockey and enjoy some chipotle. My favourite past exam for 61B has to be Spring 2023 Midterm 2, that one was pretty cool.
+                  [Josh Barua](https://joshbarua.github.io/)
+                  [joshbarua@berkeley.edu](mailto:joshbarua@berkeley.edu)
+                Hey y’all! I’m Josh, a senior from Austin majoring in CS. When I’m not writing bugs, I love to play anything Nintendo, show people photos of my 2 dogs, and spectate gradient descent. I’m super excited to meet everyone this semester! Don’t hesitate to reach out if I can help in any way :)
+                  [j.tuazon@berkeley.edu](mailto:j.tuazon@berkeley.edu)
+                zzz
+                  [lawrence.wu@berkeley.edu](mailto:lawrence.wu@berkeley.edu)
+                Hey! I’m a fourth year studying CS from the LA area. I really enjoy watching and talking about movies in my free time. Happy to be here and excited to meet you guys!
+                  [nataliagrondin@berkeley.edu](mailto:nataliagrondin@berkeley.edu)
+                Hi, I’m Natalia and I’m a 3rd year studying cs and ds. I’m into surfing, running, climbing, and anything outdoors and I’m stoked to be teaching 61B this semester :)
+                  [ridgeh5@berkeley.edu](mailto:ridgeh5@berkeley.edu)
+                Ello I’m Ridge, excited to teach 61b again this semester :) Talk to me about anything 61b, ultimate frisbee, working out, and food!
+                  [ritikajoshi@berkeley.edu](mailto:ritikajoshi@berkeley.edu)
+                Hi! I’m Ritika and I’m a 3rd year majoring in CS and Applied Math. I’m from the bay area and some of my favorite things to do are go for hikes around the bay, crochet/knit, and try coffee shops around Berkeley. I’m so excited to be teaching CS61B this semester and look forward to meeting you all! :D
+                  [shrithan_1@berkeley.edu](mailto:shrithan_1@berkeley.edu)
+                Hi everyone! I’m Shrithan, a third-year CS major from Indiana and this is my second time on course staff. I’m a huge Colts and Pacers fan, and I’m always looking for new movie and show recommendations. Feel free to reach out about anything and I’m excited for a great semester ahead!
+                  [sophiekay@berkeley.edu](mailto:sophiekay@berkeley.edu)
+                Hey guys! Im Sophie, a 4th year studying BioE and CS.This is my 4th semester teaching 61B. I love playing videogames (currently addicted to Borderlands 2 and Super Smash) and watching basketball and football. really excited to be on staff, feel free to chat with me about any and everything!
+                  [stacey.lei@berkeley.edu](mailto:stacey.lei@berkeley.edu)
+                Hey! I’m Stacey, a junior from Las Vegas majoring in computer science. In my free time, I love illustrating, swimming, and animating. I’m super excited to meet everyone– feel free to reach out for anything!
+                  [terriannezhang@berkeley.edu](mailto:terriannezhang@berkeley.edu)
+                Hi! My name is Terrianne and I’m a junior studying CS. This is my second semester on course staff, and some of my hobbies are playing badminton, video games, and trying new boba spots. I’m looking forward to the semester with everyone!
+                  [tiffany_li@berkeley.edu](mailto:tiffany_li@berkeley.edu)
+                Hi! My name is Tiffany and I’m an incoming junior studying CS. Some of my hobbies are photography, trying new matcha recipes, and going to concerts. Excited to meet you all this semester!
+                  she/her
+                  [victoria.stukalova@berkeley.edu](mailto:victoria.stukalova@berkeley.edu)
+                hi! I’m vika and I’m a 4th year studying computer science and data science 👩‍💻. this will be my 4th semester on staff! some of my interests include hiking 🥾, ballet 🩰, and skiing ⛷️! When I’m not debugging something you can find me going on walks around berkeley or the fire trails. a fun fact about me is that I absolutely love carrots and always have at least 3 carrot related items on me 🥕. can’t wait to help teach some data structures :)
+                  [yuchanyang@berkeley.edu](mailto:yuchanyang@berkeley.edu)
+                Hi, I’m a Junior studying Math and CS. During my freetime, I play with uc berkeley philharmonic orchestra as well as playing games such as slay the spire and celeste. If yall wanna talk abt anything related to any of the things mentioned above, feel free to message me!
+                  [yzdu@berkeley.edu](mailto:yzdu@berkeley.edu)
+                Hi I am Yunze! I’m a 4th year CS+Econ major from Guangzhou, China. I drink and make (a ton of) specialty coffee, play guitar, and listen to C-R&B/neo-soul and blues rock types of music. Chat with me about hashmap, MST, and heaps but also pour-over, mechanical keyboards, and concert tickets!!
+                  [Alexandra Martinez](https://www.amtrak.com/home.html)
+                  [alexand.martine1@berkeley.edu](mailto:alexand.martine1@berkeley.edu)
+                HI! My name is Alex and I am a sophomore studying CS. I am from Santa Maria and love the Central Coast area. I like to hike, play tennis, and sometimes do embroidery. I also like to play Stardew Valley and Minecraft whenever I have some free time. Here in Berkeley, my favorite restaurant is Noodle Dynasty. If you ever have any questions about anything and everything, feel free to contact me. Excited to get to know y’all! :)
+                  [Alvin Le Lin](https://open.spotify.com/playlist/0Z4SoXgwNIgXZNIkqMnb0i?si=c3bf16e8126843ac)
+                  he/him/hims
+                  [alvinl@berkeley.edu](mailto:alvinl@berkeley.edu)
+                Hey y’all! I’m a sophomore majoring in applied math and CS. I love music, the colour green, deep talks, reading, sandwiches, and sleeping at diabolically late hours (i’m nocturnal). I am also a gamer and a big anime/manga enjoyer. Looking forward to meeting everyone and feel free to chat! :))
+                  [Amy Wang](https://rocky-headlight-582.notion.site/studio-ghibli-7e07338578d2442fb4df61dbb9aa3882)
+                  [amywanglw@berkeley.edu](mailto:amywanglw@berkeley.edu)
+                Hi! I’m Amy, a sophomore from San Jose studying Cognitive Science. I love art: drawing, cooking, music, etc. I play piano and have been picking up more guitar and ukulele in my free time (rare </3). I’m also into video games and anime–I love Studio Ghibli. I’m super excited to be a part of 61B course staff this semester, please don’t hesitate to reach out! Looking forward to meeting everyone :)
+                  [ayush_gupta_27@berkeley.edu](mailto:ayush_gupta_27@berkeley.edu)
+                Hey everyone! I’m Ayush, a second year Data Science major, and I’m excited to work with y’all this semester. Outside of school, you can find me playing intramural (soccer, volleyball, flag football), eating out, and drinking matcha!
+                  [Dawn Schumacher](https://youtu.be/MT20w5FQYiU?si=rzPkYVVMUwx4-D5U&t=623)
+                  they/he
+                  [dawn@berkeley.edu](mailto:dawn@berkeley.edu)
+                Hi!! I’m Dawn, a second year studying environmental science and data science. I love cooking, inline skating, hiking, and listening to emo/punk music. I also play trombone in the Cal Band, so if you see me be sure to say hi!! (if you see me at top dog past 2am no you didn’t)
+                  [Faith Qiao](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+                  She/Her
+                  [faithqiao@berkeley.edu](mailto:faithqiao@berkeley.edu)
+                I am a second year Physics and CS major. You can talk to me about anything you like. <3
+                  [ijtieu@berkeley.edu](mailto:ijtieu@berkeley.edu)
+                Hi! I’m Isaac and a 2nd-year majoring in Chemical Engineering from SoCal. I like volleyball and working out. :)
+                  [Karen Meng](https://www.youtube.com/watch?v=0tYFtgKfo6U&t=191s)
+                  [kmeng@berkeley.edu](mailto:kmeng@berkeley.edu)
+                Hi!! I’m Karen, a second-year EECS major from Davis, CA! I listen to music a lotttt (mostly cpop, but feel free to rec me anything!), and I’m trying to spend more time doing “research” on this seemingly intangible thing called grass (lmk if u have any leads). Excited to help out with 61B this semester!! :D
+                  [larachieppe@berkeley.edu](mailto:larachieppe@berkeley.edu)
+                Hi! I’m Lara, a sophomore studying BioE from Brazil. In my free time, I enjoy learning new languages, running, and reading the most random and interesting books I can find. I’m very excited to have a great semester! Feel free to reach out about anything :)
+                  [Marcus Koh](https://www.youtube.com/watch?v=4PwDFddpo4c)
+                  [marcuskoh@berkeley.edu](mailto:marcuskoh@berkeley.edu)
+                Hi I am Marcus, second year studying Physics & CS. I love penguins, edm music, and traveling, and some of my hobbies are playing rocket league, skiing, and watching NBA. I spend my Sunday’s hiking or spending time with family/friends, and my favorite restaurant in Berkeley is Iyasare.
+                  [mehreen.rosmon@berkeley.edu](mailto:mehreen.rosmon@berkeley.edu)
+                heyhey! i’m a second year studying data science and business. in my free time i love exploring cafes, shopping at trader joes, and trying new activities (i’m currently obsessed with paddle boarding). super excited to meet yall and feel free to reach out about literally anything :)
+                  [minqingdong@berkeley.edu](mailto:minqingdong@berkeley.edu)
+                Hi everyone! My name is Minqing and I am a freshman from the bay area. Outside of school, I like playing badminton, hanging out with my friends, and playing games. I look forward to meeting all of you!
+                  [Nada Hameed](https://terrycavanaghgames.com/tinyheist/)
+                  [nadahameed@berkeley.edu](mailto:nadahameed@berkeley.edu)
+                Hello! I’m Nada, a second year from NYC studying CS. I love drawing, Goodreads, grapes, and my cat. I aspire to get my motorcycle license and go to outer space.
+                  [ryantrinh05@berkeley.edu](mailto:ryantrinh05@berkeley.edu)
+                Hello! I’m a sophomore EECS major coming all of the way from Cerritos in SoCal. I’m interested in all things Computer Science. Whenever I am free I love trying out new softwares and going out around Berkeley to try out different noodle dishes. I am excited to meet everyone!
+                  [ssmoogi@berkeley.edu](mailto:ssmoogi@berkeley.edu)
+                Hi I’m Sahana, a sophomore studying EECS & Music! You can catch me at a cafe somewhere, the CAEE, Cory, or Morrison Hall most of the time.
+                  [Sarveshan Saravanan](https://www.youtube.com/watch?v=FJ9pnTcGwxs)
+                  [sarveshan@berkeley.edu](mailto:sarveshan@berkeley.edu)
+                Hi! I’m Sarveshan and I’m a sophomore studying EECS. During my free time I like to play basketball, work out, and watch football (Broncos and fantasy football players). Feel free to reach out for pictures of my dog
+                  [shriyaanarayanan@berkeley.edu](mailto:shriyaanarayanan@berkeley.edu)
+                I am an EECS major and took CS 61B last year! Apart from teaching I am an author and love writing books, creating videos for my YouTube Channel, playing tennis and the piano!
+                  [vnandi@berkeley.edu](mailto:vnandi@berkeley.edu)
+                Hello! I’m Vikram Nandi, a sophomore at Berkeley studying CS and Applied Math. I love socializing and interacting with people whenever I get the chance. In my free time, I love hanging out with friends, exploring new places, or just relaxing and playing video games. On weekends, I’m usually just wandering around Berkeley or taking it easy. One of my favorite spots to grab a bite is La Burrita!
+                  [yashnahasija@berkeley.edu](mailto:yashnahasija@berkeley.edu)
+                Hi! I’m Yashna, a second year studying Chemical Biology and Computer Science. I love movies, Hans Zimmer, and trying out new dessert spots in the bay. I’m super excited to join the 61B course staff - feel free to reach out about anything!
+                  [yiyinqi@berkeley.edu](mailto:yiyinqi@berkeley.edu)
+                Hi! I’m Yinqi, a sophomore studying EECS from Singapore. I enjoy watching TV shows and movies during my free time, and I’m always looking for good food around Berkeley! I’m looking forward to y’all!

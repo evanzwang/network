@@ -1,0 +1,93 @@
+    HEADER
+      MAIN NAVIGATION
+      MOBILE
+            [Team](/people)
+            [Research](/research)
+            [Publications](/publications)
+            [Resources](/resources)
+            FOLDER
+                    [2024](/2024)
+                    [2023](/news/2023)
+                    [2022](/news/2022)
+                    [2021](/news/2021)
+                    [2020+](/news/2020)
+    SITE TITLE OR LOGO
+        Stanford University | Department of Chemical Engineering
+        SITE contact info
+            [djmai@mit.edu](mailto:djmai@mit.edu)
+      CONTENT INJECTION POINT
+          CATEGORY NAV
+                      PRINCIPAL INVESTIGATOR
+                      DANIELLE J. MAI
+                      Assistant Professor
+                        [CV](/s/djm-CV-202501.pdf)
+                        |
+                        [Google Scholar](https://scholar.google.com/citations?user=qwASCMQAAAAJ)
+                        ﻿ |
+                        [Biography](/biography)
+                      The Team (alpha by last name)
+                          MICHAEL C. BURROUGHS
+                            B.S.
+                            Chemical Engineering, North Carolina State University, 2015
+                            Ph.D.
+                            Chemical Engineering, University of California, Santa Barbara, 2021
+                          MARINA P. CHANG
+                            Materials Science and Engineering, Cornell University, 2019
+                          JESSE D. GRAYSON
+                            Stanford University, expected 2026
+                          ALANA P. GUDINAS
+                            Physics, University of New Hampshire, 2020
+                          LISA NIEMAN
+                            Chemical Engineering, Stanford University, expected 2025
+                          MICHELLE C. QUAN
+                            Chemical Engineering, University of Minnesota, 2023
+                            Materials Science and Engineering, University of Minnesota, 2023
+                          ELEANOR L. QUIRK
+                            Chemical Engineering, UC San Diego, 2022
+                          LUCY X. WANG
+                          BRENDAN M. WIRTZ
+                            Chemical Engineering, UC Berkeley, 2021
+                          ALLY G. YUN
+                      Lab Alumni
+                          CAMILY PEREIRA DOS SANTOS | ChemE REU Student | April - August 2024
+                          PAOLA URBINA-RAMOS | SURF Student (University of Puerto Rico Mayagüez, Chemical Engineering) | Summer 2024
+                          TIANYI HU | UGVR Student (Tsinghua University, Mechanical Engineering) | Summer 2024
+                          KENNY M. HERNANDEZ | ChemE REU, B.S. Chemical Engineering | September 2022 – June 2024
+                          AVA CONYER | SURF Student (Howard University, Chemical Engineering) | Summer 2023
+                          YUJIA BIAN | UGVR Student (Peking University, Integrated Science) | Summer 2023
+                          WINNIE HUANG | ChemE REU, BioX, B.S. Chemical Engineering | June 2020 – June 2023
+                          GATHA SHAMBHARKAR | M.S. Materials Science & Engineering | January 2022 – June 2023
+                          NATASHA JAGNANDAN | M.S. Chemical Engineering | March 2021 – June 2023
+                          ISABELLA TAVAREZ | REU Student, Undergraduate Researcher | June 2022 – March 2023
+                          KE JIN | UGVR Student (Tsinghua University, Chemical Engineering) | Summer 2022
+                          PETER MUSENGE | SURF Student (St. Augustine’s University, Biology & Engineering Mathematics) | Summer 2022
+                          DR. TA-CHUNG LIU | Visiting Scholar | LEAP @ Stanford | April 2021 – February 2022
+                          ANKUSH DHAWAN | ChemE REU Student | Summer 2021
+                          CHRISTOPHER LATHAM | ChemE REU Student | Summer 2021
+                          ANDREA FLORES | SURF Student (University of Puerto Rico Mayagüez, Industrial Biotechnology) | Summer 2020
+                      Join us!
+                            Prospective graduate students
+                            should apply directly to the
+                            [Department of Chemical Engineering](https://cheme.stanford.edu/admissions/phd-overview)
+                            at Stanford University.
+                            Current Stanford graduate and undergraduate students
+                            should contact Prof. Mai by e-mail with a résumé (1 page) and brief statement of interest (<500 words). Undergraduate students are also encouraged to apply to the
+                            [Chemical Engineering Research Experience for Undergraduates](https://ughb.stanford.edu/jobs-opportunities/research-experience-undergraduates)
+                            (apply during Winter quarter). Need help with a résumé? Explore resources at
+                            [Stanford BEAM](https://beam.stanford.edu/)
+                            .
+                            Non-Stanford undergraduate and high school students
+                            should seek centralized programs to conduct research on campus and indicate their interest in the Mai Lab. For equity reasons, the Mai Lab does not host ad hoc students. Currently, the lab hosts students through the
+                            [Stanford Engineering Summer Undergraduate Research Fellowship (SURF)](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
+                            and the
+                            [Chinese Undergraduate Visiting Research Program](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr)
+                            Postdoctoral candidates
+                            should contact Prof. Mai by e-mail with a cover letter on institutional letterhead, 1-page summary of research experience and interests, CV, and up to three publication p/reprints. Incomplete applications will not be considered.
+                      AS A TEAM – IN & OUT OF THE LAB
+                      END .sqs-gallery-meta-container
+      FOOTER WITH OPEN BLOCK FIELD
+                    Powered by
+                      [Squarespace](http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&source=footer&campaign=4fd1028ee4b02be53c65dfb3)
+      INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB
+    end #innerWrapper
+  end #outerWrapper

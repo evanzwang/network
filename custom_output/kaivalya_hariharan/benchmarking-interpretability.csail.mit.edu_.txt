@@ -1,0 +1,69 @@
+                          Take the Test
+                          Challenges and Prizes
+                        Search
+                                  Search …
+                  Menu
+                Red Teaming Deep Neural Networks
+                with Feature Synthesis Tools
+              Stephen Casper (scasper@mit.edu), Yuxiao Li, Jiawei Li, Tong Bu, Kevin Zhang, Kaivalya Hariharan, Dylan Hadfield-Menell
+              View the paper on
+                [arXiv](https://arxiv.org/abs/2302.10894)
+                .
+              Find resources on
+                [GitHub](https://github.com/thestephencasper/benchmarking_interpretability)
+              Find more work from us on our
+                [lab website](https://algorithmicalignment.csail.mit.edu/)
+                  Benchmarking Interpretability Tools
+                  Interpretability tools for deep neural networks are widely studied because of their potential to help us exercise oversight over deep neural networks. Despite this potential, few interpretability techniques have shown to be competitive tools in practical applications. Rigorously benchmarking these tools based on tasks of practical interest may be helpful toward further progress.
+                  The Benchmarks
+                  We introduce trojans into ImageNet CNNs that are triggered by interpretable features. Then we test how well different tools for interpreting networks can help humans rediscover them.
+                    “Patch” trojans are triggered by a small patch overlaid on an image.
+                    “Style” trojans are triggered by an image being style transferred.
+                    “Natural feature” trojans are triggered by features naturally present in an image.
+                  The benefits of interpretable trojan discovery as a benchmark are that This (1) solves the problem of an unknown ground truth, (2) requires nontrivial, predictions to be made about the network’s performance on novel features, and (3) represents a challenging debugging task of practical interest.
+                  We insert a total of 12 trojans into the model via data poisoning. You can see the first 12 below. There are 4 additional secret natural feature trojans.
+                  How Existing Methods Perform
+                  Feature Attribution/Saliency
+                  We test 16 different feature visualization methods from Captum
+                    [(Kokhlikyan et al., 2020)](https://github.com/pytorch/captum)
+                  We evaluate them by how far their attributions are on average from the ground truth footprint of a trojan trigger. Some methods do better than the edge-detector baseline, but not by much. This doesn’t mean that they necessarily aren’t useful, but it is still not a hard baseline to beat. Notably, the occlusion method from
+                    [Zeilier and Fergus (2017)](https://arxiv.org/abs/1311.2901)
+                    stands out on this benchmark.
+                  We test a total of 7 different methods from prior works.
+                    – TABOR
+                      [(Guo et al., 2019)](https://arxiv.org/abs/1908.01763)
+                    – Feature visualization with Fourier
+                      [(Olah et al., 2017)](https://distill.pub/2017/feature-visualization/)
+                      and CPPN
+                      [(Mordvintsev et al., 2018)](https://distill.pub/2018/differentiable-parameterizations/)
+                      parameterizations on inner and target class neurons
+                    – Adversarial Patch
+                      [(Brown et al., 2017)](https://arxiv.org/abs/1712.09665)
+                    – Robust feature-level adversaries
+                      [(Casper et al., 2021)](https://arxiv.org/abs/2110.03605)
+                  We find that Robust feature-level adversaries
+                    were the most effective. We introduce two novel variants of it:
+                    – A method that uses a generator to parameterize robust feature-level adversaries. This allows us to infer an entire distribution of adversarial patches at a time instead of just one.
+                    – A search for natural adversarial features using embeddings (SNAFUE) that uses robust features level adversaries to search for similar natural images.
+                  All visualizations from these 9 methods can be found in the
+                    [paper](https://arxiv.org/pdf/2302.10894.pdf)
+                    ‘s appendix or the GitHub
+                    [repository](https://github.com/thestephencasper/benchmarking_interpretability/tree/main)
+                  We had both humans evaluators and CLIP
+                    [(Radford et al., 2021)](https://arxiv.org/abs/2103.00020)
+                    take multiple-choice tests to rediscover the trojans. Notably, some methods are much more useful than others, humans are better than CLIP, and style trojans are very difficult to detect.
+                  Challenges?
+                  Do you think you can do better than these methods? Do you think you can find additional trojans? Check out our challenges with prizes
+                    [here](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
+          row
+    .column-content-wrapper
+  .container
+  #main-wrapper
+                © 2025
+                [Benchmarking Interpretability](https://benchmarking-interpretability.csail.mit.edu)
+                – All rights reserved
+                    Powered by
+                    [WP](https://wordpress.org/)
+                  – Designed with the
+                    [Customizr theme](https://presscustomizr.com/customizr)
+  end #tc-page-wrap

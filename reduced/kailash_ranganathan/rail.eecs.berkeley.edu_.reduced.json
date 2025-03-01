@@ -1,0 +1,37 @@
+{
+  "title": "Robotics and AI Lab @ BAIR",
+  "meta_description": "",
+  "main_content": "R AI L Robotic AI & Learning Lab @ BAIR home people publications software contact Welcome to the RAIL lab website! Our research focus is to enable machines to exhibit flexible and adaptable behavior, acquired autonomously through learning. To that end, we work on learning algorithms, robotics, and computer vision. Copyright \u00a9 UC Berkeley RAIL Lab 2017",
+  "links": [
+    {
+      "url": "http://bair.berkeley.edu/",
+      "text": "BAIR"
+    },
+    {
+      "url": "index.html",
+      "text": "home"
+    },
+    {
+      "url": "people.html",
+      "text": "people"
+    },
+    {
+      "url": "publications.html",
+      "text": "publications"
+    },
+    {
+      "url": "code.html",
+      "text": "software"
+    },
+    {
+      "url": "contact.html",
+      "text": "contact"
+    }
+  ],
+  "images": [
+    {
+      "src": "retreat_photo_2024.jpg",
+      "alt": ""
+    }
+  ]
+}

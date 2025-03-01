@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>George H. Chen</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="container hidden-xs" id="custom-header">
+      <h1 class="text-center">George H. Chen</h1>
+    </div>
+
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="navbar-header">
+        <span id="custom-brand"
+         class="navbar-brand visible-xs"><strong>George H. Chen</strong> |
+          Papers</span>
+        <button type="button" class="navbar-toggle collapsed"
+         data-toggle="collapse" data-target="#navbar"
+         aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li class="active"><a href="papers.html">Papers</a></li>
+          <li><a href="teaching.html">Teaching</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CV <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="georgehc_cv.pdf" rel="nofollow" target="_blank">PDF</a></li>
+              <li><a href="https://www.linkedin.com/in/georgehchen" target="_blank">LinkedIn</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.google.com/recaptcha/mailhide/d?k=0135scvPQllOeHjyOBCY_V7g==&amp;c=GMzo7UMpa0etkR1lPFyAdI9rUt__iFnyqQsh3NtgcMs=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d0135scvPQllOeHjyOBCY_V7g\x3d\x3d\x26c\x3dGMzo7UMpa0etkR1lPFyAdI9rUt__iFnyqQsh3NtgcMs\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <p>
+        <strong>Note:</strong>
+        "&clubs;" denotes an author list that is alphabetical by last name, as
+        is customary in fields like math and theoretical computer science.
+      </p>
+      
+      <p style="margin-bottom: 20px">
+        You can also find my papers listed on
+        <a href="http://scholar.google.com/citations?user=O8eqJA4AAAAJ">
+        Google Scholar</a>.
+      </p>
+
+      <ul class="nav nav-tabs">
+          <li class="active"><a data-toggle="tab" href="#byTopic">By Topic</a></li>
+          <li><a data-toggle="tab" href="#byYear">By Year</a></li>
+      </ul>
+
+      <div class="tab-content">
+        <div id="byTopic" class="tab-pane fade in active">
+
+          <h3>Theory for analyzing social data and medical images</h3>
+          <p>
+            To forecast whether a news topic will go viral on Twitter, we can
+            compare it to past news topics with similar Tweet activity. More
+            generally, we can make a prediction based on an observation by
+            looking at similar past observations. I've analyzed when, why, and
+            how well some of these methods work:
+          </p>
+
+          <img src="pictures/latent_sources.jpg"
+           class="paper-images img-responsive center-block"
+           style="max-width: 250px;"
+           alt="Latent sources graphic">
+
+          <ul>
+            <li>
+              "Latent Source Models for Nonparametric Inference"<br>
+              <strong> George H. Chen</strong><br>
+              Ph.D. thesis, MIT, May 2015<br>
+              [<a href="papers/georgehc_phd_thesis.pdf">paper</a>]<br>
+              <span class="label label-default">Received the George M. Sprowls award for best Ph.D. thesis in Computer Science at MIT</span>
+            </li>
+          </ul>
+          <p>
+            My thesis unifies and builds on the following trilogy of papers:
+          </p>
+          <ul>
+            <li>
+              "A Latent Source Model for Patch-Based Image Segmentation"<br>
+              <strong> George H. Chen</strong>, Devavrat Shah, Polina Golland<br>
+              <em>Medical Image Computing and Computer-Assisted Intervention</em>, October 2015<br>
+              [<a href="http://arxiv.org/abs/1510.01648">arXiv</a>]
+              [<a href="papers/latent_source_patches.pdf">paper</a>]
+              [<a href="posters/latent_source_patches_poster.pdf">poster</a>]
+              <br>
+              <em>Note:</em>
+              For a more comprehensive exposition of this paper, consider
+              reading Chapter 5 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>.
+            </li>
+           
+            <li>
+              "A Latent Source Model for Online Collaborative Filtering"<br>
+              &clubs;
+              Guy Bresler, <strong> George H. Chen</strong>, Devavrat Shah<br>
+              <em>Neural Information Processing Systems</em>, December 2014<br>
+              [<a href="http://arxiv.org/abs/1411.6591">arXiv - longer version</a>]
+              [<a href="papers/latent_source_collaborative_filtering_short.pdf">paper - short conference version</a>]
+              [<a href="posters/latent_source_collaborative_filtering_poster.pdf">poster</a>]<br>
+              <span class="label label-default">Selected for spotlight (one of 62/1678 submissions)</span><br>
+              <em>Note:</em>
+              An expanded version including intuition for how collaborative
+              filtering relates to an MAP item recommender and derivations for
+              the examples is in Chapter 4 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>;
+              the notation has also been changed to be more similar to the
+              rest of the trilogy of papers.
+            </li>
+           
+            <li>
+              "A Latent Source Model for Nonparametric Time Series Classification"<br>
+              &clubs;
+              <strong>George H. Chen</strong>, Stanislav Nikolov, Devavrat Shah<br>
+              <em>Neural Information Processing Systems</em>, December 2013<br>
+              [<a href="http://arxiv.org/abs/1302.3639">arXiv - longer version</a>]
+              [<a href="papers/latent_source_time_series_short.pdf">paper - short conference version</a>]
+              [<a href="posters/latent_source_time_series_poster.pdf">poster</a>]<br>
+              <em>Note:</em>
+              An expanded version with a lower bound on the misclassification
+              rate and further discussion is in Chapter 3 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>.
+            </li>
+          </ul>
+
+          <h3>Spatial analytics for rural development</h3>
+          <p>
+            As part of
+            <a href="http://globalchallenge.mit.edu/teams/view/527">GridForm</a>,
+            I analyze satellite images of enormous tracts of land to help plan
+            infrastructure development. We currently focus on
+            <a href="http://www.fastcoexist.com/3034839/this-software-from-mit-whiz-kids-is-designed-to-electrify-india">helping
+            renewable energy companies bring electricity to rural India</a>. We
+            <a href="http://newsoffice.mit.edu/2014/ideas-winners-aim-improve-worlds-quality-of-life-0506">won
+            the $10,000 grand prize at the 2014 MIT IDEAS Global Challenge</a>. Here's a
+            joint paper with Kush Varshney and Brian Abelson of 
+            <a href="http://www.datakind.org/">DataKind</a>:
+          </p>
+          <ul>
+            <li>
+              "Targeting Villages for Rural Development Using Satellite Image Analysis"<br>
+              Kush R. Varshney, <strong>George H. Chen</strong>, Brian Abelson, Kendall Nowocin, Vivek Sakhrani, Ling Xu, Brian L. Spatocco<br>
+              <em>Big Data</em>, March 2015<br>
+              [<a href="papers/VarshneyCANSXS_big2015.pdf">paper</a>]
+            </li>
+          </ul>
+
+          <h3>Real-time medical image analysis</h3>
+          <p>
+            Various real-time medical imaging applications could be enabled by speeding up
+            dimensionality reduction, a subroutine used in many image analysis algorithms.
+            To do this, we create a sparse description of a manifold; our work relates to
+            sparse multivariate regression:
+          </p>
+
+          <img src="pictures/sparsify.jpg"
+           class="paper-images img-responsive center-block"
+           style="max-width: 250px;"
+           alt="Sparsification graphic">
+
+          <ul>
+            <li>
+              "Sparse Projections of Medical Images onto Manifolds"<br>
+              <strong>George H. Chen</strong>, Christian Wachinger, Polina Golland<br>
+              <em>Information Processing in Medical Imaging</em>, June-July 2013<br>
+              [<a href="http://arxiv.org/abs/1303.5508">arXiv</a>]
+              [<a href="papers/Chen-IPMI-2013.pdf">paper</a>]
+              [<a href="posters/l1l2_sparsify_poster.pdf">poster</a>]
+            </li>
+          </ul>
+
+          <h3>Modeling brain activation patterns</h3>
+          <p>
+            My master's thesis presented a probabilistic model of brain
+            activation patterns evoked by functional stimuli such as reading
+            sentences; the model combines sparse coding and image alignment:
+          </p>
+
+          <img src="pictures/disc.jpg"
+           class="paper-images img-responsive center-block"
+           style="max-width: 250px;"
+           alt="Deformation-invariant sparse coding graphic">
+
+          <ul>
+            <li>
+              "Deformation-Invariant Sparse Coding"<br>
+              <strong>George H. Chen</strong><br>
+              Master's thesis, MIT, May 2012<br>
+              [<a href="papers/georgehc_smthesis.pdf">paper</a>]
+              [<a href="posters/disc_masterworks_poster.pdf">poster</a>]
+            </li>
+          </ul>
+
+          <p>Preliminary version:</p>
+          <ul>
+            <li>
+              "Deformation-Invariant Sparse Coding for Modeling Spatial Variability of Functional Patterns in the Brain"<br>
+              <strong>George H. Chen</strong>, Evelina G. Fedorenko, Nancy G. Kanwisher, Polina Golland<br>
+              <em>Neural Information Processing Systems Workshop on Machine Learning and Interpretation in Neuroimaging</em>, December 2011<br>
+              [<a href="papers/Chen-NIPS-MLINI-Workshop-2012.pdf">paper</a>]
+              [<a href="talks/disc_mlini_talk.pptx">talk slides</a>]
+            </li>
+          </ul>
+
+          <h3>Backpack with sensors for indoor modeling</h3>
+          <p>
+            I developed algorithms that track where this fancy backpack is
+            indoors using laser scanners.
+            <em>
+            After I graduated from Berkeley, this project progressed quite a bit!
+            Be sure to check out the latest developments from the
+            <a href="http://www-video.eecs.berkeley.edu/">Video and Image
+            Processing Lab's website</a>.
+            </em>
+            Preliminary results:
+          </p>
+
+          <img src="pictures/backpack_pic_original.jpg"
+           class="img-rounded paper-images img-responsive center-block"
+           style="max-width: 200px;"
+           alt="Photo of backpack with sensors">
+
+          <ul>
+            <li>
+              "Indoor Localization and Visualization Using a Human-Operated Backpack System"<br>
+              Timothy Liu, Matthew Carlberg, <strong>George Chen</strong>, Jacky Chen, John Kua, Avideh Zakhor<br>
+              <em>International Conference on Indoor Positioning and Indoor Navigation</em>, September 2010<br>
+              [<a href="papers/backpack_ipin.pdf">paper</a>]
+            </li>
+
+            <li>
+              "Indoor Localization Algorithms for a Human-Operated Backpack System"<br>
+              <strong>George Chen</strong>, John Kua, Stephen Shum, Nikhil Naikal, Matthew Carlberg, Avideh Zakhor<br>
+              <em>International Symposium on 3D Data Processing, Visualization and Transmission</em>, May 2010<br>
+              [<a href="papers/backpack.pdf">paper</a>]
+            </li>
+
+            <li>
+              "Image Augmented Laser Scan Matching for Indoor Dead Reckoning"<br>
+              Nikhil Naikal, John Kua, <strong>George Chen</strong>, Avideh Zakhor<br>
+              <em>International Conference on Intelligent Robots and Systems</em>, October 2009<br>
+              [<a href="papers/naikal_indoorDeadReckoning.pdf">paper</a>]
+            </li>
+          </ul>
+
+          <h3>Analyzing aerial images of cities</h3>
+          <p>
+            How to automatically find buildings, trees, ground, and water in
+            aerial LIDAR images:
+          </p>
+
+          <img src="pictures/aerial_lidar_pic.jpg"
+           class="img-rounded paper-images img-responsive center-block"
+           style="max-width: 200px;"
+           alt="Example labeling of LIDAR image">
+
+          <ul>
+            <li>
+              "Classifying Urban Landscape in Aerial LIDAR Using 3D Shape
+              Analysis"<br>
+              Matthew Carlberg, Peiran Gao, <strong>George Chen</strong>,
+              Avideh Zakhor<br>
+              <em>International Conference on Image Processing</em>, November 2009<br>
+              [<a href="papers/classification_icip2009final.pdf">paper</a>]
+            </li>
+        
+            <li>
+              "2D Tree Detection in Large Urban Landscapes Using Aerial LIDAR
+              Data"<br>
+              <strong>George Chen</strong>, Avideh Zakhor<br>
+              <em>International Conference on Image Processing</em>, November 2009<br>
+              [<a href="papers/icip2009.pdf">paper</a>]
+            </li>
+          </ul>
+
+        </div>
+
+        <div id="byYear" class="tab-pane fade">
+
+          <h3>2015</h3>
+          <ul>
+            <li>
+              "A Latent Source Model for Patch-Based Image Segmentation"<br>
+              <strong> George H. Chen</strong>, Devavrat Shah, Polina Golland<br>
+              <em>Medical Image Computing and Computer-Assisted Intervention</em>, October 2015<br>
+              [<a href="http://arxiv.org/abs/1510.01648">arXiv</a>]
+              [<a href="papers/latent_source_patches.pdf">paper</a>]
+              [<a href="posters/latent_source_patches_poster.pdf">poster</a>]<br>
+              <em>Note:</em>
+              For a more comprehensive exposition of this paper, consider
+              reading Chapter 5 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>.
+            </li>
+
+            <li>
+              "Latent Source Models for Nonparametric Inference"<br>
+              <strong> George H. Chen</strong><br>
+              Ph.D. thesis, MIT, May 2015<br>
+              [<a href="papers/georgehc_phd_thesis.pdf">paper</a>]<br>
+              <span class="label label-default">Received the George M. Sprowls award for best Ph.D. thesis in Computer Science at MIT</span>
+            </li>
+
+            <li>"Targeting Villages for Rural Development Using Satellite Image
+            Analysis"<br>
+            Kush R. Varshney, <strong>George H. Chen</strong>, Brian Abelson, Kendall
+            Nowocin, Vivek Sakhrani, Ling Xu, Brian L. Spatocco<br>
+            <em>Big Data</em>, March 2015<br>
+            [<a href="papers/VarshneyCANSXS_big2015.pdf">paper</a>]
+            </li>
+          </ul>
+
+          <h3>2014</h3>
+          <ul>
+            <li>
+              "A Latent Source Model for Online Collaborative Filtering"<br>
+              &clubs;
+              Guy Bresler, <strong> George H. Chen</strong>, Devavrat Shah<br>
+              <em>Neural Information Processing Systems</em>, December 2014<br>
+              [<a href="http://arxiv.org/abs/1411.6591">arXiv - longer version</a>]
+              [<a href="papers/latent_source_collaborative_filtering_short.pdf">paper - short conference version</a>]
+              [<a href="posters/latent_source_collaborative_filtering_poster.pdf">poster</a>]<br>
+              <span class="label label-default">Selected for spotlight (one of 62/1678 submissions)</span><br>
+              <em>Note:</em>
+              An expanded version including intuition for how collaborative
+              filtering relates to an MAP item recommender and derivations for
+              the examples is in Chapter 4 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>;
+              the notation has also been changed to be more similar to the
+              other two papers that went toward my thesis.
+              <!-- rest of the trilogy of papers. -->
+            </li>
+          </ul>
+
+          <h3>2013</h3>
+          <ul>
+            <li>
+              "A Latent Source Model for Nonparametric Time Series Classification"<br>
+              &clubs;
+              <strong>George H. Chen</strong>, Stanislav Nikolov, Devavrat Shah<br>
+              <em>Neural Information Processing Systems</em>, December 2013<br>
+              [<a href="http://arxiv.org/abs/1302.3639">arXiv - longer version</a>]
+              [<a href="papers/latent_source_time_series_short.pdf">paper - short conference version</a>]
+              [<a href="posters/latent_source_time_series_poster.pdf">poster</a>]<br>
+              <em>Note:</em>
+              An expanded version with a lower bound on the misclassification
+              rate and further discussion is in Chapter 3 of my
+              <a href="papers/georgehc_phd_thesis.pdf">Ph.D. thesis</a>.
+            </li>
+
+            <li>
+              "Sparse Projections of Medical Images onto Manifolds"<br>
+              <strong>George H. Chen</strong>, Christian Wachinger, Polina Golland<br>
+              <em>Information Processing in Medical Imaging</em>, June-July 2013<br>
+              [<a href="http://arxiv.org/abs/1303.5508">arXiv</a>]
+              [<a href="papers/Chen-IPMI-2013.pdf">paper</a>]
+              [<a href="posters/l1l2_sparsify_poster.pdf">poster</a>]
+            </li>
+          </ul>
+
+          <h3>2012</h3>
+          <ul>
+            <li>
+              "Deformation-Invariant Sparse Coding"<br>
+              <strong>George H. Chen</strong><br>
+              Master's thesis, MIT, May 2012<br>
+              [<a href="papers/georgehc_smthesis.pdf">paper</a>]
+              [<a href="posters/disc_masterworks_poster.pdf">poster</a>]
+            </li>
+          </ul>
+
+          <h3>2011</h3>
+          <ul>
+            <li>
+              "Deformation-Invariant Sparse Coding for Modeling Spatial Variability of Functional Patterns in the Brain"<br>
+              <strong>George H. Chen</strong>, Evelina G. Fedorenko, Nancy G. Kanwisher, Polina Golland<br>
+              <em>Neural Information Processing Systems Workshop on Machine Learning and Interpretation in Neuroimaging</em>, December 2011<br>
+              [<a href="papers/Chen-NIPS-MLINI-Workshop-2012.pdf">paper</a>]
+              [<a href="talks/disc_mlini_talk.pptx">talk slides</a>]
+            </li>
+          </ul>
+
+          <h3>2010</h3>
+          <ul>
+            <li>
+              "Indoor Localization and Visualization Using a Human-Operated Backpack System"<br>
+              Timothy Liu, Matthew Carlberg, <strong>George Chen</strong>, Jacky Chen, John Kua, Avideh Zakhor<br>
+              <em>International Conference on Indoor Positioning and Indoor Navigation</em>, September 2010<br>
+              [<a href="papers/backpack_ipin.pdf">paper</a>]
+            </li>
+
+            <li>
+              "Indoor Localization Algorithms for a Human-Operated Backpack System"<br>
+              <strong>George Chen</strong>, John Kua, Stephen Shum, Nikhil Naikal, Matthew Carlberg, Avideh Zakhor<br>
+              <em>International Symposium on 3D Data Processing, Visualization and Transmission</em>, May 2010<br>
+              [<a href="papers/backpack.pdf">paper</a>]
+            </li>
+          </ul>
+
+          <h3>2009</h3>
+          <ul>
+            <li>
+              "Classifying Urban Landscape in Aerial LIDAR Using 3D Shape Analysis"<br>
+              Matthew Carlberg, Peiran Gao, <strong>George Chen</strong>, Avideh Zakhor<br>
+              <em>International Conference on Image Processing</em>, November 2009<br>
+              [<a href="papers/classification_icip2009final.pdf">paper</a>]
+            </li>
+
+            <li>
+              "2D Tree Detection in Large Urban Landscapes Using Aerial LIDAR Data"<br>
+              <strong>George Chen</strong>, Avideh Zakhor<br>
+              <em>International Conference on Image Processing</em>, November 2009<br>
+              [<a href="papers/icip2009.pdf">paper</a>]
+            </li>
+
+            <li>
+              "Image Augmented Laser Scan Matching for Indoor Dead Reckoning"<br>
+              Nikhil Naikal, John Kua, <strong>George Chen</strong>, Avideh Zakhor<br>
+              <em>International Conference on Intelligent Robots and Systems</em>, October 2009<br>
+              [<a href="papers/naikal_indoorDeadReckoning.pdf">paper</a>]
+            </li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-25709019-1', 'auto');
+      ga('send', 'pageview');
+
+      $(function() { 
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+          // save the latest tab; use cookies if you like 'em better:
+          localStorage.setItem('lastTab', $(this).attr('href'));
+        });
+
+        // go to the latest tab, if it exists:
+        var lastTab = localStorage.getItem('lastTab');
+        if (lastTab) {
+          $('[href="' + lastTab + '"]').tab('show');
+        }
+      });
+    </script>
+  </body>
+</html>

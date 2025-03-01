@@ -1,0 +1,98 @@
+    Navbar start
+        Main Navigation
+                      Help/FAQ
+                      Contact NeurIPS
+                      Code of Ethics
+                      Code of Conduct
+                      Create Profile
+                      Journal To Conference Track
+                      Diversity & Inclusion
+                      Proceedings
+                      Future Meetings
+                      Press
+                      Exhibitor Information
+                      Privacy Policy
+                      Downloads
+                  My Stuff
+    Navbar end
+  noprint div
+  This holds the whole page including the navbar
+                      [2025](/Conferences/2025)
+                      [2023](/Conferences/2023)
+                      [2024](/Conferences/2024)
+                      [2022](/Conferences/2022)
+                      [2021](/Conferences/2021)
+                      [2020](/Conferences/2020)
+                      [2019](/Conferences/2019)
+                      [2018](/Conferences/2018)
+                      [2017](/Conferences/2017)
+                      [2016](/Conferences/2016)
+                      [2015](/Conferences/2015)
+                      [2014](/Conferences/2014)
+                      [2013](/Conferences/2013)
+                      [2012](/Conferences/2012)
+                      [2011](/Conferences/2011)
+                      [2010](/Conferences/2010)
+                      [2009](/Conferences/2009)
+                      [2008](/Conferences/2008)
+                      [2007](/Conferences/2007)
+                      [2006](/Conferences/2006)
+                      [Past Conferences](/Conferences/PastConferences)
+                    Start Here
+                    Schedule
+                    Tutorials
+                        Invited Talks
+                        Orals
+                        Spotlights
+                        Papers
+                        Paper Visualization
+                        Competitions
+                        Datasets & Benchmarks
+                        Journal Track
+                        Creative AI Track
+                        Outstanding Paper Awards
+                        Affinity Workshops
+                        Affinity Events
+                        Bridging the Future
+                        Socials
+                        Careers
+                    Workshops
+                    Exhibitors
+                        FAQ
+                        Helpdesk in RocketChat
+                        Organizers
+        Title
+              Poster
+                [The Fourth Workshop on Efficient Natural Language and Speech Processing (ENLSP-IV): Highlighting New Architectures for Future Foundation Models](/virtual/2024/workshop/84731)
+            Scaling laws for post-training quantized large language models
+            Zifei Xu · Alexander Lan · Wanzin Yazar · Tristan Webb · Sayeh Sharify · Xin Wang
+              Keywords:
+              [
+              [Efficient Inference](/virtual/2024/search?query=Efficient Inference)
+              ]
+              Abstract:
+              Generalization abilities of well-trained large language models (LLMs) are known to scale predictably as a function of model size. In contrast to the existence of practical scaling laws governing pre-training, the quality of LLMs after post-training compression remains highly unpredictable, often requiring case-by-case validation in practice. In this work, we attempted to close this gap for post-training weight quantization of LLMs by conducting a systematic empirical study on multiple LLM families quantized to numerous low-precision tensor data types using popular weight quantization techniques. We identified key scaling factors pertaining to characteristics of the local loss landscape, based on which the performance of quantized LLMs can be reasonably well predicted by a statistical model.
+      SlidesLive
+            Chat is not available.
+  END BLOCK CONTENT
+  Footer for the edit button
+  We don't know if there are editable tags on the page until after the django template engine has rendered the page. So,
+test in javascript for "editable" tags and if present, load the ckeditor engine dynamically.
+  Successful Page Load
+          NeurIPS uses cookies for essential functions only. We do not sell your personal
+                        information.
+            [Our Privacy Policy »](/public/PrivacyPolicy)
+            Accept
+                            Cookies
+      Section: Links
+          Grid row
+            Grid column
+              Content
+              The NeurIPS Logo above may be used on presentations. Right-click and choose
+                            download. It is a vector graphic and may be used at any scale.
+              Links
+              Useful links
+              Contact
+                [Email](/Help/Contact)
+      Copyright
+  Footer

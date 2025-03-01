@@ -1,0 +1,261 @@
+{
+  "title": "George H. Chen",
+  "meta_description": "",
+  "main_content": "George H. Chen Note: \"\u2663\" denotes an author list that is alphabetical by last name, as is customary in fields like math and theoretical computer science. You can also find my papers listed on Google Scholar . By Topic By Year Theory for analyzing social data and medical images To forecast whether a news topic will go viral on Twitter, we can compare it to past news topics with similar Tweet activity. More generally, we can make a prediction based on an observation by looking at similar past observations. I've analyzed when, why, and how well some of these methods work: \"Latent Source Models for Nonparametric Inference\" George H. Chen Ph.D. thesis, MIT, May 2015 [ paper ] Received the George M. Sprowls award for best Ph.D. thesis in Computer Science at MIT My thesis unifies and builds on the following trilogy of papers: \"A Latent Source Model for Patch-Based Image Segmentation\" George H. Chen , Devavrat Shah, Polina Golland Medical Image Computing and Computer-Assisted Intervention , October 2015 [ arXiv ] [ paper ] [ poster ] Note: For a more comprehensive exposition of this paper, consider reading Chapter 5 of my Ph.D. thesis . \"A Latent Source Model for Online Collaborative Filtering\" \u2663 Guy Bresler, George H. Chen , Devavrat Shah Neural Information Processing Systems , December 2014 [ arXiv - longer version ] [ paper - short conference version ] [ poster ] Selected for spotlight (one of 62/1678 submissions) Note: An expanded version including intuition for how collaborative filtering relates to an MAP item recommender and derivations for the examples is in Chapter 4 of my Ph.D. thesis ; the notation has also been changed to be more similar to the rest of the trilogy of papers. \"A Latent Source Model for Nonparametric Time Series Classification\" \u2663 George H. Chen , Stanislav Nikolov, Devavrat Shah Neural Information Processing Systems , December 2013 [ arXiv - longer version ] [ paper - short conference version ] [ poster ] Note: An expanded version with a lower bound on the misclassification rate and further discussion is in Chapter 3 of my Ph.D. thesis . Spatial analytics for rural development As part of GridForm , I analyze satellite images of enormous tracts of land to help plan infrastructure development. We currently focus on helping renewable energy companies bring electricity to rural India . We won the $10,000 grand prize at the 2014 MIT IDEAS Global Challenge . Here's a joint paper with Kush Varshney and Brian Abelson of DataKind : \"Targeting Villages for Rural Development Using Satellite Image Analysis\" Kush R. Varshney, George H. Chen , Brian Abelson, Kendall Nowocin, Vivek Sakhrani, Ling Xu, Brian L. Spatocco Big Data , March 2015 [ paper ] Real-time medical image analysis Various real-time medical imaging applications could be enabled by speeding up dimensionality reduction, a subroutine used in many image analysis algorithms. To do this, we create a sparse description of a manifold; our work relates to sparse multivariate regression: \"Sparse Projections of Medical Images onto Manifolds\" George H. Chen , Christian Wachinger, Polina Golland Information Processing in Medical Imaging , June-July 2013 [ arXiv ] [ paper ] [ poster ] Modeling brain activation patterns My master's thesis presented a probabilistic model of brain activation patterns evoked by functional stimuli such as reading sentences; the model combines sparse coding and image alignment: \"Deformation-Invariant Sparse Coding\" George H. Chen Master's thesis, MIT, May 2012 [ paper ] [ poster ] Preliminary version: \"Deformation-Invariant Sparse Coding for Modeling Spatial Variability of Functional Patterns in the Brain\" George H. Chen , Evelina G. Fedorenko, Nancy G. Kanwisher, Polina Golland Neural Information Processing Systems Workshop on Machine Learning and Interpretation in Neuroimaging , December 2011 [ paper ] [ talk slides ] Backpack with sensors for indoor modeling I developed algorithms that track where this fancy backpack is indoors using laser scanners. After I graduated from Berkeley, this project progressed quite a bit! Be sure to check out the latest developments from the Video and Image Processing Lab's website . Preliminary results: \"Indoor Localization and Visualization Using a Human-Operated Backpack System\" Timothy Liu, Matthew Carlberg, George Chen , Jacky Chen, John Kua, Avideh Zakhor International Conference on Indoor Positioning and Indoor Navigation , September 2010 [ paper ] \"Indoor Localization Algorithms for a Human-Operated Backpack System\" George Chen , John Kua, Stephen Shum, Nikhil Naikal, Matthew Carlberg, Avideh Zakhor International Symposium on 3D Data Processing, Visualization and Transmission , May 2010 [ paper ] \"Image Augmented Laser Scan Matching for Indoor Dead Reckoning\" Nikhil Naikal, John Kua, George Chen , Avideh Zakhor International Conference on Intelligent Robots and Systems , October 2009 [ paper ] Analyzing aerial images of cities How to automatically find buildings, trees, ground, and water in aerial LIDAR images: \"Classifying Urban Landscape in Aerial LIDAR Using 3D Shape Analysis\" Matthew Carlberg, Peiran Gao, George Chen , Avideh Zakhor International Conference on Image Processing , November 2009 [ paper ] \"2D Tree Detection in Large Urban Landscapes Using Aerial LIDAR Data\" George Chen , Avideh Zakhor International Conference on Image Processing , November 2009 [ paper ] 2015 \"A Latent Source Model for Patch-Based Image Segmentation\" George H. Chen , Devavrat Shah, Polina Golland Medical Image Computing and Computer-Assisted Intervention , October 2015 [ arXiv ] [ paper ] [ poster ] Note: For a more comprehensive exposition of this paper, consider reading Chapter 5 of my Ph.D. thesis . \"Latent Source Models for Nonparametric Inference\" George H. Chen Ph.D. thesis, MIT, May 2015 [ paper ] Received the George M. Sprowls award for best Ph.D. thesis in Computer Science at MIT \"Targeting Villages for Rural Development Using Satellite Image Analysis\" Kush R. Varshney, George H. Chen , Brian Abelson, Kendall Nowocin, Vivek Sakhrani, Ling Xu, Brian L. Spatocco Big Data , March 2015 [ paper ] 2014 \"A Latent Source Model for Online Collaborative Filtering\" \u2663 Guy Bresler, George H. Chen , Devavrat Shah Neural Information Processing Systems , December 2014 [ arXiv - longer version ] [ paper - short conference version ] [ poster ] Selected for spotlight (one of 62/1678 submissions) Note: An expanded version including intuition for how collaborative filtering relates to an MAP item recommender and derivations for the examples is in Chapter 4 of my Ph.D. thesis ; the notation has also been changed to be more similar to the other two papers that went toward my thesis. 2013 \"A Latent Source Model for Nonparametric Time Series Classification\" \u2663 George H. Chen , Stanislav Nikolov, Devavrat Shah Neural Information Processing Systems , December 2013 [ arXiv - longer version ] [ paper - short conference version ] [ poster ] Note: An expanded version with a lower bound on the misclassification rate and further discussion is in Chapter 3 of my Ph.D. thesis . \"Sparse Projections of Medical Images onto Manifolds\" George H. Chen , Christian Wachinger, Polina Golland Information Processing in Medical Imaging , June-July 2013 [ arXiv ] [ paper ] [ poster ] 2012 \"Deformation-Invariant Sparse Coding\" George H. Chen Master's thesis, MIT, May 2012 [ paper ] [ poster ] 2011 \"Deformation-Invariant Sparse Coding for Modeling Spatial Variability of Functional Patterns in the Brain\" George H. Chen , Evelina G. Fedorenko, Nancy G. Kanwisher, Polina Golland Neural Information Processing Systems Workshop on Machine Learning and Interpretation in Neuroimaging , December 2011 [ paper ] [ talk slides ] 2010 \"Indoor Localization and Visualization Using a Human-Operated Backpack System\" Timothy Liu, Matthew Carlberg, George Chen , Jacky Chen, John Kua, Avideh Zakhor International Conference on Indoor Positioning and Indoor Navigation , September 2010 [ paper ] \"Indoor Localization Algorithms for a Human-Operated Backpack System\" George Chen , John Kua, Stephen Shum, Nikhil Naikal, Matthew Carlberg, Avideh Zakhor International Symposium on 3D Data Processing, Visualization and Transmission , May 2010 [ paper ] 2009 \"Classifying Urban Landscape in Aerial LIDAR Using 3D Shape Analysis\" Matthew Carlberg, Peiran Gao, George Chen , Avideh Zakhor International Conference on Image Processing , November 2009 [ paper ] \"2D Tree Detection in Large Urban Landscapes Using Aerial LIDAR Data\" George Chen , Avideh Zakhor International Conference on Image Processing , November 2009 [ paper ] \"Image Augmented Laser Scan Matching for Indoor Dead Reckoning\" Nikhil Naikal, John Kua, George Chen , Avideh Zakhor International Conference on Intelligent Robots and Systems , October 2009 [ paper ]",
+  "links": [
+    {
+      "url": "http://scholar.google.com/citations?user=O8eqJA4AAAAJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://arxiv.org/abs/1510.01648",
+      "text": "arXiv"
+    },
+    {
+      "url": "papers/latent_source_patches.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/latent_source_patches_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "http://arxiv.org/abs/1411.6591",
+      "text": "arXiv - longer version"
+    },
+    {
+      "url": "papers/latent_source_collaborative_filtering_short.pdf",
+      "text": "paper - short conference version"
+    },
+    {
+      "url": "posters/latent_source_collaborative_filtering_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "http://arxiv.org/abs/1302.3639",
+      "text": "arXiv - longer version"
+    },
+    {
+      "url": "papers/latent_source_time_series_short.pdf",
+      "text": "paper - short conference version"
+    },
+    {
+      "url": "posters/latent_source_time_series_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "http://globalchallenge.mit.edu/teams/view/527",
+      "text": "GridForm"
+    },
+    {
+      "url": "http://www.fastcoexist.com/3034839/this-software-from-mit-whiz-kids-is-designed-to-electrify-india",
+      "text": "helping\n            renewable energy companies bring electricity to rural India"
+    },
+    {
+      "url": "http://newsoffice.mit.edu/2014/ideas-winners-aim-improve-worlds-quality-of-life-0506",
+      "text": "won\n            the $10,000 grand prize at the 2014 MIT IDEAS Global Challenge"
+    },
+    {
+      "url": "http://www.datakind.org/",
+      "text": "DataKind"
+    },
+    {
+      "url": "papers/VarshneyCANSXS_big2015.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://arxiv.org/abs/1303.5508",
+      "text": "arXiv"
+    },
+    {
+      "url": "papers/Chen-IPMI-2013.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/l1l2_sparsify_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_smthesis.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/disc_masterworks_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/Chen-NIPS-MLINI-Workshop-2012.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "talks/disc_mlini_talk.pptx",
+      "text": "talk slides"
+    },
+    {
+      "url": "http://www-video.eecs.berkeley.edu/",
+      "text": "Video and Image\n            Processing Lab's website"
+    },
+    {
+      "url": "papers/backpack_ipin.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/backpack.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/naikal_indoorDeadReckoning.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/classification_icip2009final.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/icip2009.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://arxiv.org/abs/1510.01648",
+      "text": "arXiv"
+    },
+    {
+      "url": "papers/latent_source_patches.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/latent_source_patches_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/VarshneyCANSXS_big2015.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://arxiv.org/abs/1411.6591",
+      "text": "arXiv - longer version"
+    },
+    {
+      "url": "papers/latent_source_collaborative_filtering_short.pdf",
+      "text": "paper - short conference version"
+    },
+    {
+      "url": "posters/latent_source_collaborative_filtering_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "http://arxiv.org/abs/1302.3639",
+      "text": "arXiv - longer version"
+    },
+    {
+      "url": "papers/latent_source_time_series_short.pdf",
+      "text": "paper - short conference version"
+    },
+    {
+      "url": "posters/latent_source_time_series_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_phd_thesis.pdf",
+      "text": "Ph.D. thesis"
+    },
+    {
+      "url": "http://arxiv.org/abs/1303.5508",
+      "text": "arXiv"
+    },
+    {
+      "url": "papers/Chen-IPMI-2013.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/l1l2_sparsify_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/georgehc_smthesis.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "posters/disc_masterworks_poster.pdf",
+      "text": "poster"
+    },
+    {
+      "url": "papers/Chen-NIPS-MLINI-Workshop-2012.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "talks/disc_mlini_talk.pptx",
+      "text": "talk slides"
+    },
+    {
+      "url": "papers/backpack_ipin.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/backpack.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/classification_icip2009final.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/icip2009.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "papers/naikal_indoorDeadReckoning.pdf",
+      "text": "paper"
+    }
+  ],
+  "images": [
+    {
+      "src": "pictures/latent_sources.jpg",
+      "alt": "Latent sources graphic"
+    },
+    {
+      "src": "pictures/sparsify.jpg",
+      "alt": "Sparsification graphic"
+    },
+    {
+      "src": "pictures/disc.jpg",
+      "alt": "Deformation-invariant sparse coding graphic"
+    },
+    {
+      "src": "pictures/backpack_pic_original.jpg",
+      "alt": "Photo of backpack with sensors"
+    },
+    {
+      "src": "pictures/aerial_lidar_pic.jpg",
+      "alt": "Example labeling of LIDAR image"
+    }
+  ]
+}

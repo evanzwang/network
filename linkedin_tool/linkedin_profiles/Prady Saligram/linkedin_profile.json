@@ -1,0 +1,588 @@
+[
+  {
+    "fullName": "Prady Saligram",
+    "linkedin_internal_id": "905493301",
+    "first_name": "Prady",
+    "last_name": "Saligram",
+    "public_identifier": "prady-saligram",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C4D16AQEaJZgIMhwWrw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1648907243979?e=2147483647&v=beta&t=AmuRdB4XV0V_srFB3Ah_SOzmZBwomiR5lbBogKnAJHE",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C4E03AQEzkEEXkWvgjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1649863888601?e=2147483647&v=beta&t=p5DtzARjiqeWK4jYSAiRFufyVpw6db2pSlQa1ossP3A",
+    "headline": "DL Research @ SAIL | Math & CS @ Stanford",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "followers": "Issued May 2022",
+    "connections": "Issued May 2022",
+    "about": "i enjoy optimizing things.reach out to me: saligram[at]stanford[dot]edu",
+    "experience": [
+      {
+        "position": "Quantitative Research Analyst",
+        "company_url": "https://www.linkedin.com/school/stanford-university-department-of-management-science-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH0Vj_uXxJHkQ/company-logo_100_100/company-logo_100_100/0/1690995842865/stanford_university_department_of_management_science_engineering_logo?e=2147483647&v=beta&t=R2-rLvLtDkDC7AMmIb2skJfMORw9iWoh-thklfJc9hw",
+        "company_name": "Stanford University Department of Management Science & Engineering",
+        "location": "Stanford, California, United States",
+        "summary": "Developing an end-to-end pipeline for a proprietary LLM leveraging a hybrid dense-sparse RAG framework to process 10-K filings. Work includes constructing domain-specific datasets, creating evaluation benchmarks, and optimizing embedding retrieval for deductive reasoning. The system integrates pretraining, fine-tuning, and retrieval conditioning to enable accurate time series forecasting of financial metrics, with a focus on scalability and low-latency performance.Working under Dr. Xiaowei Ding and Professor Kay Giesecke at the Advanced Financial Technologies Lab\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Vice President of Hackspace",
+        "company_url": "https://www.linkedin.com/company/stanford-bases?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQFNhZjC7dmLvQ/company-logo_100_100/company-logo_100_100/0/1631352845777?e=2147483647&v=beta&t=QzUetdXeNdqqx-uQ0M_e21Ig6Uyqvv_STHx5DaD0Isw",
+        "company_name": "Business Association of Stanford Entrepreneurial Students (BASES)",
+        "location": "Stanford, California, United States",
+        "summary": "Hackspace is the largest sector of BASES; it features weekly hacker hours where tinkers build projects and interact with industry mentors, bi-quarterly themed hackathons (sustainability, defense, etc.), weekly faculty speaker series, and a culminating Fall Quarter Demo Day where the best projects are awarded Builder Grants",
+        "starts_at": "May 2024",
+        "ends_at": "Present",
+        "duration": "11 months"
+      },
+      {
+        "position": "Battalion Fellow",
+        "company_url": "https://www.linkedin.com/company/stanford-bases?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQFNhZjC7dmLvQ/company-logo_100_100/company-logo_100_100/0/1631352845777?e=2147483647&v=beta&t=QzUetdXeNdqqx-uQ0M_e21Ig6Uyqvv_STHx5DaD0Isw",
+        "company_name": "Business Association of Stanford Entrepreneurial Students (BASES)",
+        "location": "Stanford, California, United States",
+        "summary": "Incubator Program for Building StartupsAdmitted as part of a 30-student cohort from 443 applicants (<7%)",
+        "starts_at": "Jan 2024",
+        "ends_at": "Apr 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Quant Invitational Wintern",
+        "company_url": "https://www.linkedin.com/company/citadel-securities?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGEXIzoPly7ug/company-logo_100_100/company-logo_100_100/0/1688579596328/citadel_securities_logo?e=2147483647&v=beta&t=0ocSWMOyzdmPisdfDFEefIuWcXx39SaQQWSeXV6lYC4",
+        "company_name": "Citadel Securities",
+        "location": "Miami, Florida, United States",
+        "summary": "",
+        "starts_at": "Jan 2025",
+        "ends_at": "Jan 2025",
+        "duration": "1 month"
+      },
+      {
+        "position": "Data Analytics Research Assistant",
+        "company_url": "https://www.linkedin.com/school/stanford-university-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGBk9nVkNx7og/company-logo_100_100/company-logo_100_100/0/1631342355719?e=2147483647&v=beta&t=xDGTKnsIl77IlBekd8ejVVlcPmKtnYaxa9f1sSTZzIc",
+        "company_name": "Stanford University School of Engineering",
+        "location": null,
+        "summary": "Developing and automating large-scale web scraping agents to extract data from specific website subsections. Utilizing tools like Selenium, BeautifulSoup, and WebSocket Ajax Query-based programs, I'm building concurrent scraping systems that enable efficient and accurate data collection. This work supports real-time, informed data analytics for the systematic detection and analysis of external governmental influence on news sources targeted at non-resident citizens.",
+        "starts_at": "Jul 2024",
+        "ends_at": "Jan 2025",
+        "duration": "7 months"
+      },
+      {
+        "position": "CURIS Research Associate",
+        "company_url": "https://www.linkedin.com/company/stanford-ai-lab?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHIr1u04mwtMA/company-logo_100_100/company-logo_100_100/0/1631434386745/stanford_ai_lab_logo?e=2147483647&v=beta&t=gsTlxGroppn7t9FHXDLz-v5YIFFSxzyhZbN-8iNrASs",
+        "company_name": "Stanford Artificial Intelligence Laboratory (SAIL)",
+        "location": "Stanford, California, United States",
+        "summary": "Working on implementing RoBERTa in Jax, Haliax within Stanford's Levanter framework and augmenting models trained on historical languages through novel PoS tagging fine-tuning methods under John Bauer and Professor Christopher Manning as part of the CURIS program1 of 87 undergraduate and graduate students accepted into the program",
+        "starts_at": "Jun 2024",
+        "ends_at": "Dec 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Invitational Trading Competition",
+        "company_url": "https://www.linkedin.com/company/akuna-capital?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFzxUDOFJE90Q/company-logo_100_100/B56ZT2MqAIGUAU-/0/1739297300806/akuna_capital_logo?e=2147483647&v=beta&t=LhL63nYTAFFoLxYXoh6eZxbT8-B39P9wzvwAQ1-y7AQ",
+        "company_name": "Akuna Capital",
+        "location": null,
+        "summary": "Performed Top 20% in PnL",
+        "starts_at": "Aug 2024",
+        "ends_at": "Aug 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "Research Assistant",
+        "company_url": "https://www.linkedin.com/school/stanford-graduate-school-of-business/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTHJCehyEuA/company-logo_100_100/company-logo_100_100/0/1630537027992/stanford_graduate_school_of_business_logo?e=2147483647&v=beta&t=dQQyaheeiBODoIyXQ77uRiibJ6LWGoTDKfzwJWVlVgM",
+        "company_name": "Stanford University Graduate School of Business",
+        "location": "Stanford, California, United States",
+        "summary": "",
+        "starts_at": "Jan 2024",
+        "ends_at": "Mar 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "Consultant",
+        "company_url": "https://www.linkedin.com/company/stanford-social-entrepreneurial-students-association?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQE1p9JVw5oZyg/company-logo_100_100/company-logo_100_100/0/1631310810651?e=2147483647&v=beta&t=eq9OAeDIwS1CabsnPPEpEAxMwsm1l06BjFP9RSMzvTM",
+        "company_name": "Stanford Social Entrepreneurial Students'\u200b Association",
+        "location": "Stanford, California, United States",
+        "summary": "",
+        "starts_at": "Jan 2024",
+        "ends_at": "Feb 2024",
+        "duration": "2 months"
+      },
+      {
+        "position": "System Engineering Intern",
+        "company_url": "https://ae.linkedin.com/company/alfuttaim?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQE1T7tVY4NE4w/company-logo_100_100/company-logo_100_100/0/1630591602974/al_futtaim_logo?e=2147483647&v=beta&t=GI58EzQvWDVc4IIrxw4ilCj9KUosWem3dUENqU3GQjs",
+        "company_name": "Al-Futtaim",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "",
+        "starts_at": "May 2023",
+        "ends_at": "Sep 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "Co-Founder & Senior Tutor",
+        "company_url": "https://www.linkedin.com/company/voicemaths?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQHbrIh_uneIwg/company-logo_100_100/company-logo_100_100/0/1723469368571/voicemaths_logo?e=2147483647&v=beta&t=NOChDQeU9BYYygEiZ-SZV8ZEoJ6Diy2O_UqrBBm6t2M",
+        "company_name": "Voice Maths",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "VoiceMaths is an effective, navigable website that enables users to find answers to all their math-related questions. It is managed solely by a team of accredited students who are skilled in tutoring fifth-grade to IB-level mathematics. Users can ask questions publicly or anonymously upon which they will receive a detailed answer within 36h.",
+        "starts_at": "Jun 2021",
+        "ends_at": "Sep 2023",
+        "duration": "2 years 4 months"
+      },
+      {
+        "position": "Research Intern",
+        "company_url": "https://uk.linkedin.com/company/theunitnetwork?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHeZ4Fa2SMzRw/company-logo_100_100/company-logo_100_100/0/1661809234847?e=2147483647&v=beta&t=EUg5focxOg6NuOOu6vAfuyWExGpIn7eiyv4oP1tyZIw",
+        "company_name": "Unit",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "Unit Network is a Layer 1 Blockchain built using the Substrate framework by Parity Technologies. It provides the technological and economic infrastructure for mainstream adoption of the token economy \u2013 a near-future in which millions of tokens fuel borderless economies to power the globe.",
+        "starts_at": "Feb 2023",
+        "ends_at": "Apr 2023",
+        "duration": "3 months"
+      },
+      {
+        "position": "Inspirit AI Ambassador",
+        "company_url": "https://www.linkedin.com/company/inspirit-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEpT9vFvX2mIQ/company-logo_100_100/company-logo_100_100/0/1630581976246?e=2147483647&v=beta&t=4GzBosjnAVmaed9pWQpKGC_aypaJT8K-B7JV88UXWgs",
+        "company_name": "Inspirit AI",
+        "location": null,
+        "summary": "I was selected as an Inspirit AI Ambassador and took part in the AI Ambassador program taught by MIT and Stanford graduates. Learn more at inspiritai.com!",
+        "starts_at": "Sep 2022",
+        "ends_at": "Mar 2023",
+        "duration": "7 months"
+      },
+      {
+        "position": "Finance Analyst & Communications Officer",
+        "company_url": "https://ae.linkedin.com/company/alfuttaim?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C510BAQE1T7tVY4NE4w/company-logo_100_100/company-logo_100_100/0/1630591602974/al_futtaim_logo?e=2147483647&v=beta&t=GI58EzQvWDVc4IIrxw4ilCj9KUosWem3dUENqU3GQjs",
+        "company_name": "Al-Futtaim",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "",
+        "starts_at": "Jun 2022",
+        "ends_at": "Aug 2022",
+        "duration": "3 months"
+      },
+      {
+        "position": "Future Fluencies Scholarship Holder",
+        "company_url": "https://www.linkedin.com/company/sofhumanity?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFHZ7c7EGJ44Q/company-logo_100_100/company-logo_100_100/0/1630517738793/sofhumanity_logo?e=2147483647&v=beta&t=MBDfUKBwf3_9gs27Lerqb2u0X3XWbpSf0mpFmaDy6v0",
+        "company_name": "School of Humanity",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "Co-Founder of NFTAce",
+        "starts_at": "Oct 2021",
+        "ends_at": "Mar 2022",
+        "duration": "6 months"
+      },
+      {
+        "position": "President of STEM Society",
+        "company_url": "https://ae.linkedin.com/company/deira-international-school?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQElqYXYOKgOBw/company-logo_100_100/company-logo_100_100/0/1698831855058?e=2147483647&v=beta&t=vw72wLkpnltezsgz3PYsP37x0mb4pU_oZXde-N7yj7I",
+        "company_name": "Deira International School",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "Opted to head STEM Society; facilitating weekly sessions to provide STEM prospective students with valuable resources and insight; assisting with further education planning by coordinating amongst STEM alumni to working and teaching industry experts",
+        "starts_at": "Apr 2021",
+        "ends_at": "Mar 2022",
+        "duration": "1 year"
+      },
+      {
+        "position": "Head of DEI",
+        "company_url": "https://ae.linkedin.com/company/deira-international-school?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4D0BAQElqYXYOKgOBw/company-logo_100_100/company-logo_100_100/0/1698831855058?e=2147483647&v=beta&t=vw72wLkpnltezsgz3PYsP37x0mb4pU_oZXde-N7yj7I",
+        "company_name": "Deira International School",
+        "location": "Dubai, United Arab Emirates",
+        "summary": "",
+        "starts_at": "Jan 2021",
+        "ends_at": "Jan 2022",
+        "duration": "1 year 1 month"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": "4.14/4.0",
+        "college_duration": " - ",
+        "college_activity": "Coursework: Stats 200 (Theoretical Statistics), Math 104 (Applied Matrix Theory), Math 131P (PDEs), Math 115 (Real Analysis), Math 53 (ODEs), Math 51 (Linear Algebra)CS 229 (ML), CS 224N (NLP with DL), CS 161 (Data Structures & Algorithms), CS 107 (Computer Systems), CS 109 (Probability), CS 103, CS 106B"
+      },
+      {
+        "college_url": "https://ch.linkedin.com/school/ibo/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "International Baccalaureate",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQH1trVeMU7kyA/company-logo_100_100/company-logo_100_100/0/1631325578760?e=2147483647&v=beta&t=yGDy11uHE_uGyUlcK53oAcaTI63Q1YqW-bdPIxRgp8c",
+        "college_degree": "High School Diploma",
+        "college_degree_field": "44/45",
+        "college_duration": " - ",
+        "college_activity": "HL: Physics, Mathematics Analysis & Approaches, EconomicsSL: English Language & Literature, Computer Science, Spanish B"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Johns Hopkins Whiting School of Engineering",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHHBw550ZGOBw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630640516415/johns_hopkins_whiting_school_of_engineering_logo?e=2147483647&v=beta&t=-QdoPPhix2y9Of-VA1CNCOE4g9RBLoYvZF8t5ooyPik",
+        "college_degree": "Explore Engineering Innovation Summer Program",
+        "college_degree_field": "98.21 % (A)",
+        "college_duration": "2021 - 2021",
+        "college_activity": ""
+      },
+      {
+        "college_name": "Deira International School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "9 A*s and 2 9s (IGCSE)",
+        "college_degree_field": null,
+        "college_duration": "2011 - 2022",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/center-for-talented-youth-johns-hopkins-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Johns Hopkins Center For Talented Youth (CTY)",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQEdAF1aCfjhrg/company-logo_100_100/company-logo_100_100/0/1631388601935?e=2147483647&v=beta&t=KcAt_pIXSdQELTizrrb3YQ1irDN7mm8qWDaOYjEivsE",
+        "college_degree": "Summer Program",
+        "college_degree_field": "A*",
+        "college_duration": "2018 - 2018",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Stanford University Department of Management Science & Engineering",
+      "description1_link": "https://www.linkedin.com/school/stanford-university-department-of-management-science-engineering/?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/anthropicresearch_introducing-claude-37-sonnet-our-most-intelligent-activity-7299858290761519106-za5_",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQH6Bp-GMWgioQ/feedshare-thumbnail_720_1280/B4EZU5OSnVGYA8-/0/1740421803643?e=2147483647&v=beta&t=9ssZIPDCfzNIdhywrX8xjc1GACdUkMvli2zBPhMk2LI",
+        "title": "Introducing Claude 3.7 Sonnet: our most intelligent model to date. It's a hybrid reasoning model, producing near-instant responses or extended\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jarrenreid_these-past-few-weeks-have-been-crazy-at-usul-activity-7292961430125838336-R-lU",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFYqnFNWm85Fg/feedshare-shrink_800/B4EZTUmr17GYAg-/0/1738733699416?e=2147483647&v=beta&t=OIc0rVRMEofK8jx7NdZbeuysQQoTly3CYccBhyn2Gtk",
+        "title": "These past few weeks have been crazy at Usul (YC S24). We grew over 90% in January and were the most overwhelmed we've ever been (see Oliver Gomez's\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/qais-abuiktish-3a8521276_proud-to-share-that-after-being-featured-activity-7284608680153485315-qjk5",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQETkzEjycKYDA/feedshare-shrink_800/B4DZRgg8FtHcAg-/0/1736786044637?e=2147483647&v=beta&t=qyrpXXUbXMesDWNzcSy98yRJAL2OhfwUk6E7kDzQxQU",
+        "title": "Proud to share that after being featured in Khaleej Times in their article \u201cUAE: Young Employees Turn to Side Hustles, Crypto as They Worry Savings\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/prady-saligram_almost-all-the-way-through-its-been-nothing-activity-7285127688925724672-TJO1",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEMWtAbjEp-gw/feedshare-shrink_800/B56ZRn5A0bHoAg-/0/1736909790370?e=2147483647&v=beta&t=K_JO1nJU_bvdI_EDRjClhpiZoYskpMCKsGUSvzvkgq4",
+        "title": "almost all the way through!\n\nit\u2019s been nothing short of transformative working on quantitative research at Citadel Securities here at the Miami\u2026",
+        "activity": "Shared by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/akshay-pachaar_web-scraping-will-never-be-the-same-crawl4ai-activity-7280932205902606337-8hWF",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFC6Rv6LsfQcQ/feedshare-shrink_800/B56ZQsRQaHGoAg-/0/1735909509286?e=2147483647&v=beta&t=Hy8f1-uEiyqzgiU8ksKfg9A8OtP28oG50oIQNOs0G9M",
+        "title": "Web scraping will never be the same!\n\nCrawl4AI simplifies web crawling and data extraction, making it ready to use for LLMs and AI\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mariafernandavelasquez_google-forms-sign-in-activity-7280644354665336832-DNPU",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Are you a college student interested in entrepreneurship? The ASES Summit 2025 applications are still open! \n\nASES Summit @ Stanford is one of the\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/fadihammadeh_hindrajab-protectthechildren-%D8%AA%D8%B1%D8%A7%D8%AD%D9%85%D9%85%D9%86%D8%A3%D8%AC%D9%84%D8%BA%D8%B2%D8%A9-activity-7280934501868785665-5PHn",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEvSWvqSE9XdA/feedshare-shrink_1280/B4DZQsTVuUGgAo-/0/1735910056968?e=2147483647&v=beta&t=WqYT1i65FUlSvEQMvk2At2dnMagTwaR5saFu2PawNAE",
+        "title": "Hind Rajab was a six-year-old Palestinian child who, in 2024, lost her life in Gaza when she was targeted while seeking shelter. For hours, she sat\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/debarghyadas_summary-of-all-the-crazy-benchmark-results-activity-7275937915480784896-3nu6",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQHw9BtJyijuwg/image-shrink_800/image-shrink_800/0/1734718779194?e=2147483647&v=beta&t=k2YM1eNr_buqCiI3ZI250blB8df3KFbjeyMWKTZhiRY",
+        "title": "Summary of all the CRAZY benchmark results from OpenAI's most advanced model, o3!\n\nSWE-Bench Verified: 71.7%, prev best is 55%\n\nCodeforces rating:\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/yourstory-com_entrepreneurship-startupjourney-younginnovator-activity-7274639353509806081-GeQa",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQGnoWiV6NJ77Q/feedshare-shrink_2048_1536/B4DZPS18LaHMAs-/0/1734409177070?e=2147483647&v=beta&t=JsuTuxbE-bwLBS-JOQAE_1yILkeauEl705V5pz49Un8",
+        "title": "17-year-old Aaryan Singh Kushwah turned rejection into triumph. On the same day he was denied admission to Stanford University, the young\u2026",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameyajadhav_happy-to-share-that-ive-accepted-an-internship-activity-7273018829205647363-M-mU",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEFqbKhR3ZXKA/feedshare-shrink_800/feedshare-shrink_800/0/1733983089121?e=2147483647&v=beta&t=xQCXN4GlYeKbdFT9ubvJN_CXmcnr-0-NV0BvE6Dwd0Q",
+        "title": "Happy to share that I've accepted an internship offer to join OpenAI as a Member of Technical Staff this summer in the San Francisco HQ \ud83c\udf89",
+        "activity": "Liked by Prady Saligram"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/isabella-jordan-459560206_after-three-transformative-internships-i-activity-7263696735330316288-7swp",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFqL2GOc_JtYQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731800253930?e=2147483647&v=beta&t=uneaWnGPvHSQF4y4yIWNt3j61xjcqlwE44YT0LsX9h4",
+        "title": "After three transformative internships, I am excited to share that I\u2019ll be joining Google full-time as part of the 2025 APM cohort. My previous\u2026",
+        "activity": "Liked by Prady Saligram"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://ae.linkedin.com/company/al-noor-training-centre-for-people-of-determination?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Resource Coordinator",
+        "company_name": "Al Noor Rehabilitation & Welfare Association for People of Determination",
+        "company_duration": "",
+        "starts_at": "Jan 2021",
+        "ends_at": "Aug 2021"
+      },
+      {
+        "company_url": "https://ae.linkedin.com/company/tender-hearts-arena?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Activities Assistant",
+        "company_name": "Tender Hearts Arena",
+        "company_duration": "",
+        "starts_at": "Jul 2019",
+        "ends_at": "Sep 2019"
+      }
+    ],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEpT9vFvX2mIQ/company-logo_100_100/company-logo_100_100/0/1630581976246?e=2147483647&v=beta&t=4GzBosjnAVmaed9pWQpKGC_aypaJT8K-B7JV88UXWgs",
+        "certification": "Inspirit AI Ambassador",
+        "company_url": "https://www.linkedin.com/company/inspirit-ai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Inspirit AI",
+        "issue_date": "Issued May 2022",
+        "credential_id": "See credential",
+        "credential_url": "Inspiritai.com/s/Spring-Ambassadors.pdf?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEE8Q_4AgZ8vg/company-logo_100_100/company-logo_100_100/0/1634736902894?e=2147483647&v=beta&t=JVd2BiLf2Peyqun3VeNdvZriqaZJ9CtGtzM9lSsl710",
+        "certification": "Grade 8 Acoustic Guitarist",
+        "company_url": "https://www.linkedin.com/company/london-school-of-music1?trk=public_profile_profile-section-card_image-click",
+        "company_name": "London School of Music",
+        "issue_date": "Issued Dec 2021",
+        "credential_id": ""
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEECWx-aseqAw/company-logo_100_100/company-logo_100_100/0/1713248286913/anz_logo?e=2147483647&v=beta&t=BL-QA6LXGwAWjI7lhLLRlJwiVAeWXZHBorOIt4WYUWI",
+        "certification": "Data Analytics Virtual Experience",
+        "company_url": "https://au.linkedin.com/company/anz?trk=public_profile_profile-section-card_image-click",
+        "company_name": "ANZ",
+        "issue_date": "Issued Jun 2021",
+        "credential_id": "Credential ID ZRtrnXSsMzXtnNfM2",
+        "credential_url": "https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_Z56XfzDPWKzzCqkPb_completion_certificate.pdf?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFrqkKAlHCfyA/company-logo_100_100/company-logo_100_100/0/1688581212079/kpmg_logo?e=2147483647&v=beta&t=ShjSyukX6ipDEBnI5JKchLEi7a6-i_Kjycpw3c2MvsU",
+        "certification": "Tax Consultancy Virtual Experience",
+        "company_url": "https://ch.linkedin.com/company/kpmg?trk=public_profile_profile-section-card_image-click",
+        "company_name": "KPMG",
+        "issue_date": "Issued Jun 2021",
+        "credential_id": "Credential ID J22Bc3gDda6FaNstb",
+        "credential_url": "https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/2kucaHzMnpx5p9XJN_KPMG_Z56XfzDPWKzzCqkPb_completion_certificate.pdf?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_100_100/company-logo_100_100/0/1722506756452/goldman_sachs_logo?e=2147483647&v=beta&t=TCfSgMKsWXJ1qUaxkF0G0-bzDKXRcinQTwZXiniLlAw",
+        "certification": "Cybersecurity Engineering Virtual Experience",
+        "company_url": "https://www.linkedin.com/company/goldman-sachs?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Goldman Sachs",
+        "issue_date": "Issued Apr 2021",
+        "credential_id": "Credential ID jjFb77LujeHpx7WqP",
+        "credential_url": "https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_Z56XfzDPWKzzCqkPb_completion_certificate.pdf?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEE8Q_4AgZ8vg/company-logo_100_100/company-logo_100_100/0/1634736902894?e=2147483647&v=beta&t=JVd2BiLf2Peyqun3VeNdvZriqaZJ9CtGtzM9lSsl710",
+        "certification": "Grade 5 Pianist",
+        "company_url": "https://www.linkedin.com/company/london-school-of-music1?trk=public_profile_profile-section-card_image-click",
+        "company_name": "London School of Music",
+        "issue_date": "Issued Jun 2018",
+        "credential_id": ""
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://ae.linkedin.com/company/skillhub-institute?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "SkillHub Institute\n        \n              \n          \ud83e\uddee Did you know? Mastering just a few key formulas can help you solve a ton of JEE Math problems faster.\n\u2728 Focus on understanding the logic behind the formulas to solve questions with confidence.\nWhat\u2019s your go-to Math trick? Share in the comments! \ud83d\udcac\n#JEETips #MathHacks #EngineeringPrep",
+        "location": "1"
+      },
+      {
+        "link": "https://in.linkedin.com/in/bhaskarjitsarmah?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Bhaskarjit Sarmah\n        \n              \n          Excited to share our latest paper titled - \ud835\udc07\ud835\udc28\ud835\udc30 \ud835\udc2d\ud835\udc28 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc1a \ud835\udc13\ud835\udc21\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc21\ud835\udc28\ud835\udc25\ud835\udc1d \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc1a\ud835\udc27 \ud835\udc04\ud835\udc2f\ud835\udc1a\ud835\udc25\ud835\udc2e\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc0c\ud835\udc1e\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1c \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc0b\ud835\udc1a\ud835\udc2b\ud835\udc20\ud835\udc1e \ud835\udc0b\ud835\udc1a\ud835\udc27\ud835\udc20\ud835\udc2e\ud835\udc1a\ud835\udc20\ud835\udc1e \ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc1e\ud835\udc25\ud835\udc2c. This work addresses the critical gap in research on setting robust thresholds for LLM evaluation metrics, which are essential for the reliable deployment of LLMs. \n\nDrawing inspiration from model risk management practices in regulated industries like finance, we propose a systematic methodology to define these thresholds. The approach involves identifying risks associated with the specific application, understanding stakeholders' risk tolerance, and applying statistically rigorous procedures using ground-truth data.",
+        "location": "58\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/company/marktechpost?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Marktechpost Media Inc.\n        \n              \n          Stanford Researchers Propose LoLCATS: A Cutting Edge AI Method for Efficient LLM Linearization\n\nResearchers from Stanford University, Together AI, California Institute of Technology, and MIT introduced LoLCATS (Low-rank Linear Conversion via Attention Transfer). LoLCATS is a two-step method designed to efficiently improve the quality of linearized large language models without the need for expensive retraining on billions of tokens. The core idea behind LoLCATS is to first train linear attention mechanisms to match the softmax attentions of the original model using a mean squared error (MSE) loss in a process called \u201cattention transfer.\u201d Then, low-rank adaptation (LoRA) is employed to correct any residual errors in approximation, allowing the model to achieve high-quality predictions with significantly reduced computational costs. This method makes it feasible to create linearized versions of very large models, like Llama 3 8B and Mistral 7B, with minimal overhead.\n\nThe structure of LoLCATS involves two main stages. The first stage, attention transfer, focuses on training the linear attention to closely approximate the output of softmax attention. The researchers achieved this by parameterizing the linear attention using learnable feature maps, which are optimized to minimize the output discrepancy between the linear and softmax mechanisms. The second stage, low-rank linearizing, further improves model performance by leveraging LoRA to make small, low-rank adjustments to the linearized layers. This step compensates for the quality gaps that might emerge after the initial linearization. The LoLCATS framework also employs a block-by-block training approach, particularly for larger models, to make the process scalable and more memory-efficient...\n\nRead the full article here: https://lnkd.in/g9Xq28KV\n\nPre-Print Paper: https://lnkd.in/gym8Cyrm\n\nGitHub: https://lnkd.in/g_QMYEYY\nStanford University Simran A. Michael Zhang Rahul Chalamala Alan Wu Benjamin S. Aaryan Singhal Krithik Ramesh",
+        "location": "20"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vedantparnaik?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vedant Parnaik\n        \n              \n          I just finished watching Stanford\u2019s lecture on \"\ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udddf\ud835\uddee\ud835\uddff\ud835\uddf4\ud835\uddf2 \ud835\udddf\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\ude02\ud835\uddee\ud835\uddf4\ud835\uddf2 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00\" by Yann Dubois and it\u2019s one of the most insightful resources I\u2019ve come across. It was packed with information\u2014I had to pause and replay a lot to really get it, but it was so worth it! Here's the link: https://lnkd.in/eW5ZpE3B\n\nHere\u2019s a quick snapshot of what stood out to me:\n\n1\ufe0f\u20e3 Data quality over quantity: Pretraining success relies more on clean, high-quality datasets than simply amassing huge volumes of data.\n2\ufe0f\u20e3 Alignment with real-world needs: Fine-tuning with human feedback bridges the gap between technical accuracy and practical utility.\n3\ufe0f\u20e3 Smarter scaling: Techniques like mixed-precision training and efficient GPU usage make it possible to train massive models without excessive costs.\n\nAs someone who\u2019s just been in the field not long ago, this lecture was a wake-up call to how much there is to learn\u2014but also how exciting the journey is. If you\u2019re like me, trying to figure out how to navigate building LLM applications, this is a must-watch.\n\n#AI, #MachineLearning, #NaturalLanguageProcessing, #LanguageModels",
+        "location": "15\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/pratham-soneja?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Pratham Soneja\n        \n              \n          Day 5 of learning in public \ud83d\ude80 \n\nTraditional fine-tuning methods for large language models often face challenges like high computational requirements, catastrophic forgetting, and single-task specialization. Enter LoRA (Low-Rank Adaptation), a game-changing technique that addresses these limitations, enabling efficient and practical fine-tuning of large language models.\n\nLoRA introduces a novel approach to fine-tuning by adding a small number of task-specific weights to the pre-trained model instead of updating all the weights. Here's how it works:\n\n1. Low-Rank Matrices: For each layer in the pre-trained model, LoRA introduces a pair of low-rank matrices: one for the weights and one for the biases.\n\n2. Adaptation: During fine-tuning, LoRA updates these low-rank matrices instead of modifying the pre-trained weights directly.\n\n3. Composition: At inference time, the low-rank matrices are composed with the pre-trained weights to produce the final, adapted weights for the fine-tuned model.\n\nThe low-rank nature of these matrices is the key to LoRA's efficiency, dramatically reducing the memory and computational requirements for fine-tuning. This makes it possible to adapt large language models even on consumer-grade hardware like CPUs or edge devices.\n\nBut LoRA's advantages don't stop there. It can match or even outperform the performance of full fine-tuning while using far fewer updatable parameters. Additionally, the LoRA updates are reversible, allowing the model to revert to its original state, and composable, enabling a single pre-trained model to be fine-tuned for multiple tasks simultaneously.\n\nTo illustrate the power of LoRA, let's dive into a practical example. Here, I'll demonstrate how to implement LoRA from scratch and fine-tune the DistilBERT model using LoRA on the IMDB dataset for sentiment analysis.\n\nhttps://lnkd.in/g-Tz2NU7\n\nAs you can see, LoRA is a remarkable technique that addresses the limitations of traditional fine-tuning methods, making it more efficient, practical, and versatile. By introducing low-rank, task-specific updates, LoRA enables efficient adaptation while preserving the model's original knowledge and allowing for multi-task specialization.\n\nAs the demand for deploying large language models on resource-constrained devices continues to grow, techniques like LoRA will make these powerful models more accessible and practical.",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/company/pytorch?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "PyTorch\n        \n              \n          Great to see the newly announced Bamba-9B, an inference-efficient Hybrid Mamba2 model \ud83d\udc0d trained by IBM, Princeton, CMU, and UIUC on\u00a0completely open data used PyTorch FSDP to train these novel architecture models and they are integrating inference with vLLM, which recently joined the PyTorch Ecosystem.",
+        "location": "167"
+      },
+      {
+        "link": "https://uk.linkedin.com/company/lucidquest-ventures?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "LucidQuest\n        \n              \n          Thoughts on this? >> CMU Researchers Introduce TNNGen: An AI Framework that\nAutomates Design of Temporal Neural Networks (TNNs) from PyTorch\nSoftware Models to Post-Layout Netlists >> Comment below!  >>> lqventures.com #industry40 #mhealth #healthtech #AI #IoT",
+        "location": "1"
+      },
+      {
+        "link": "https://ca.linkedin.com/company/llmsresearch?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "LLMs Research\n        \n              \n          When Life gives you LLMs, make LLM-ADE: Large Language Models with Adaptive Data Engineering\nA brilliant paper by Stephen Joon Choi and @williamgazeley @ IRAI Labs\n\nThis research paper addresses the challenges of catastrophic forgetting and double descent in pre-training large language models (LLMs). These are common issues that arise when continually training LLMs, hindering their adaptability and efficiency in real-world applications.",
+        "location": "2\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/company/marktechpost?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Marktechpost Media Inc.\n        \n              \n          Researchers at CMU Introduce TriForce: A Hierarchical Speculative Decoding AI System that is Scalable to Long Sequence Generation\n\nQuick read: https://lnkd.in/gr_he4kw\n\nResearchers from Carnegie Mellon University and Meta AI (FAIR) Introduce\u00a0TriForce, a hierarchical speculative decoding system designed for scalable long sequence generation. TriForce utilizes the original model weights and dynamic sparse KV cache via retrieval as a draft model, serving as an intermediate layer in the hierarchy. Maintaining the full cache allows for superior KV cache selection using retrieval-based drafting, characterized as lossless compared to eviction-based methods like StreamingLLM and H2O. The hierarchical system addresses dual memory bottlenecks, pairing a lightweight model with a StreamingLLM cache for initial speculations to reduce drafting latency and accelerate end-to-end inference.\n\nTriForce introduces a hierarchical speculative decoding system with retrieval-based KV cache selection. The hierarchical system addresses dual bottlenecks, enhancing speed-up. Retrieval-based drafting segments the KV cache, highlighting relevant information. Lightweight models with StreamingLLM cache accelerate initial speculations, reducing drafting latency. TriForce utilizes model weights and KV cache to enhance LLM inference speed for long sequences. The implementation utilizes Transformers, FlashAttention, and PyTorch CUDA graphs, maintaining full layer sparsity while minimizing kernel launching overhead. \n\nPaper: https://lnkd.in/ga45hspw\n\nMachine Learning Department at CMU",
+        "location": "26"
+      },
+      {
+        "link": "https://cl.linkedin.com/in/denisparra?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Denis Parra Santander\n        \n              \n          This ArXiv pre-print posted in August 2024 (by Sun et al. from Sakana and Emergence AI) tells a very similar story \"Transformers Layers as Painters\" where they show strong redundancy of inner layers in the transformer, but input and output layers are extremely important\n https://lnkd.in/ePxK5grg\n\nThey address these questions:\n1. Do layers use the same representation space? (\u00a73.1)\n2. Are all the layers necessary? (\u00a73.2)\n3. Are middle layers all doing the same function? (\u00a73.3)\n4. Does the layer order matter? (\u00a73.4)\n5. Can we run the layers in parallel? (\u00a73.5)\n6. Does order matter for some tasks more than others? (\u00a73.6)\n7. Does looping help parallelized layers? (\u00a73.7)\n8. Which variants harm performance the least? (\u00a73.8)",
+        "location": "10"
+      },
+      {
+        "link": "https://www.linkedin.com/company/ai-sdm?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "AI Institute for Societal Decision Making (AI-SDM)\n        \n              \n          Join us for a fascinating talk by Youngseog Chung, PhD student at Carnegie Mellon University, as he explores methods for calibrated uncertainty quantification in probabilistic regression.\n\nUncertainty quantification (UQ) plays a critical role in machine learning, providing a measure of confidence in model predictions. Calibrated UQ ensures that the quantified uncertainty aligns with actual prediction errors. Youngseog will explore various methods and techniques for optimizing calibration in probabilistic regression models, including both pre-hoc and post-hoc approaches, as well as methods for extending calibration to multi-dimensional distributions.\n\nThis talk will be particularly valuable for researchers and practitioners interested in ensuring the reliability and interpretability of their machine learning models.\n\n\ud83d\udcc5 Date: Fri, Oct. 4th\n\ud83d\udd52 Time: 3:00pm - 4:30pm (EST)\n\ud83d\udccd Location: Gates-Hillman Center Room 8102, Pittsburgh, PA, USA\n\ud83d\udd0d Topic: Methods for Calibrated Uncertainty Quantification in Probabilistic Regression\n\ud83c\udf99\ufe0f Speaker: Youngseog Chung, PhD Student, Carnegie Mellon University\n\nAdditional details and registration for remote attendees can be found at the link below!\n\nhttps://lnkd.in/dNRSXtZD",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/in/emollick?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ethan Mollick\n        \n              \n          Computer scientists working on LLMs should look to social science methodology. We work with stochastic, black-box systems (yes, humans), too, & smart folks have developed a ton of methods for analyzing this sort of data in rigorous ways.\n\nAI is not people, but the methods will help.\n\nAlso social scientists working on LLMs could borrow a few ideas from computer scientists as well - ablation tests, for example, are a clever way of examining mechanisms.",
+        "location": "592\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                40 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ayan-debnath?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Dr. Ayan Debnath\n        \n              \n          \ud83d\udd25 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc00\ud835\udc08 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc0b\ud835\udc0b\ud835\udc0c \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30 - \ud835\udc13\ud835\udc28\ud835\udc29 \ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c\u00a0\ud83d\udd25 \n\n\ud83e\udd16 I've conducted a mock interview with my student, Bheesetti Anand, focused on Generative AI and LLM (Large Language Models) interview questions. This session is designed to benefit other students preparing for similar interviews, helping them secure their dream roles in the field of Generative AI.\n\n\ud83d\udcd4 Here\u2019s why watching the video can help you make a \ud835\udc2c\ud835\udc2e\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc1f\ud835\udc2e\ud835\udc25 \ud835\udc1c\ud835\udc1a\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc2b \ud835\udc2c\ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc1c\ud835\udc21 \ud835\udc2d\ud835\udc28 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc00\ud835\udc08:\n\n\u2705 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc2b\ud835\udc1e\ud835\udc21\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc20\ud835\udc1e: Detailed exploration of top interview questions related to Generative AI and Large Language Models.\n\n\u2705 \ud835\udc0f\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc25 \ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d\ud835\udc2c: Real-world examples and practical applications to understand complex concepts better.\n\n\u2705 \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc2d \ud835\udc06\ud835\udc2e\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc27\ud835\udc1c\ud835\udc1e: Tips and strategies to approach and answer interview questions effectively.\n\n\u2705 \ud835\udc02\ud835\udc1a\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc2b \ud835\udc0f\ud835\udc2b\ud835\udc1e\ud835\udc29\ud835\udc1a\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: Essential knowledge and skills to prepare for interviews and stand out to potential employers.\n\n\ud83d\udcfd \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30 \ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc24: https://lnkd.in/g_nkP7fs\n\n#generativeai #llm #interview #jobpreparation #mockinterview",
+        "location": "14\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/company/fractional-ai?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Fractional AI\n        \n              \n          One of our recent AI projects involves wrangling arbitrary, unstructured data into clean, defined categories.\n\nThe core challenge? LLMs hallucinating categories (among other things!).\n\nOn the latest from the Dev Blog, Dan Girellini shares an approach using dynamic Pydantic models to enforce flexible, structured output from LLMs. This technique offers a robust way to control AI outputs while accommodating varying scenarios.",
+        "location": "7"
+      },
+      {
+        "link": "https://www.linkedin.com/in/regevnir?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nir Regev, Ph.D. EE\n        \n              \n          6 minutes on the Inverse Transform Method.\n\nShare if it brought you value.\n\n#probability #statistics #ML #AI #engineering\n\n\nhttps://lnkd.in/gbVugCcR",
+        "location": "9"
+      },
+      {
+        "link": "https://www.linkedin.com/company/towards-data-science?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Towards Data Science\n        \n              \n          In her debut TDS article, Manelle Nouar presents an accessible introduction to the math underlying proximal policy optimization (PPO) in reinforcement learning.",
+        "location": "12"
+      },
+      {
+        "link": "https://www.linkedin.com/in/irfan-ahmad-ganie-285359118?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Irfan Ahmad Ganie\n        \n              \n          \nExcited to share that my latest research paper, \"Lifelong Learning-Based Optimal Trajectory Tracking Control of Constrained Nonlinear Affine Systems Using Deep Neural Networks,\" has been accepted by the prestigious IEEE Transactions on Cybernetics!\n\nIn this work, we introduce a novel approach using deep neural networks to address optimal trajectory tracking in uncertain nonlinear systems with state constraints. Our method leverages a lifelong learning scheme to enhance performance and mitigate forgetting in multitasking environments.\n\nRead more here: [link](https://lnkd.in/gDcZY2jt)\n\n#Research #DeepLearning #ReinforcementLearning #OptimalControl #AI",
+        "location": "92\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                26 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/raj-abhijit-dandekar-67a33118a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Raj Abhijit Dandekar\n        \n              \n          Post my PhD at MIT in Machine Learning, I could have taken the following paths:\n\n(1) Join an industry in AI. I had received multiple job offers from top companies.\n\n(2) Start a post-doc and then become a professor of AI.\n\n(3) Join a fast growing Silicon Valley AI startup.\n\nHowever, I did not take any of the above paths.\n\nI returned back to India and left all job offers in the USA\n\nWhy?\n\nBecause there is a 4th path:\n\n(4) The Indian Startup Dream\n\nI am pursuing this 4th path with 2 the best co-founders I will ever find: Rajat Dandekar and Sreedath Panat\n\nWe have all done our PhDs and are extremely passionate about teaching and education.\n\nHere is the AI Vision of our company Vizuara:\n\n\"Democratizing AI education and making it accessible to all\"\n\nThe Youtube channel of Vizuara had 10 subscribers in January this year.\n\nNow, we have 2400 subscribers.\n\nBetween January and May,\u00a0we have been creating multiple videos in the AI space:\n\n(1) Machine Learning Foundations - 26 videos so far and growing\n(2) Machine Learning Research videos - 6 videos so far and growing\n(3) Generative AI - 1 video so far and growing\n(4) Data Science - 1 video so far and growing\n(5) DSA for Machine Learning - 1 video so far and growing\n\nEvery week, we plan to post videos on these topics on YouTube. \n\nIt takes a huge amount of time and effort to plan, create and upload these videos.\n\nOur aim is to make students equipped with several aspects of machine learning and AI.\n\nIf you want to transition to ML and AI, check our Youtube channel:\u00a0www.youtube.com/@vizuara\n\nIt might just change your life!\n\nP.S: Here's a picture of the three of us in our Bangalore office, probably planning for the next set of lectures to go live on Youtube!",
+        "location": "323\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/dr-raja-chandrasekaran-b591b624?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Dr. Raja Chandrasekaran\n        \n              \n          Generative AI in action.. \nWith an initial scratching of gen AI, couple of years ago, now implemented the generation of Anomaly specific synthetic images. It's truly interesting. Paper in review. \n\nhttps://lnkd.in/gfgwmySf",
+        "location": ""
+      },
+      {
+        "link": "https://bd.linkedin.com/in/ershad-khandker-0b696a54?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ershad Khandker\n        \n              \n          \" Flatiron Institute senior research scientist Shiwei Zhang and his team have utilized the Hubbard model to computationally re-create key features of the superconductivity in materials called cuprates that have puzzled scientists for decades.\n\nSuperfast hovering trains, long-distance power transmission without energy loss, and quicker MRI scanners \u2014 all these incredible technological innovations could be within reach if we could develop a material that conducts electricity without any resistance, or \u201csuperconducts,\u201d at approximately room temperature.\n\nIn a paper recently published in the journal Science, researchers report a breakthrough in our understanding of the origins of superconductivity at relatively high (though still frigid) temperatures. The findings concern a class of superconductors that has puzzled scientists since 1986, called \u2018cuprates.\u2019\n\nThere was tremendous excitement when cuprate superconductors were discovered [in 1986], but no understanding of why they remain superconductive at such high temperatures,\u201d says Shiwei Zhang, a senior research scientist at the Flatiron Institute\u2019s Center for Computational Quantum Physics (CCQ). \u201cI think it\u2019s surprising to everybody that almost 40 years later, we still don\u2019t quite understand why they do what they do.\n\n\u2757\ufe0fIn the new paper, Zhang and his colleagues successfully re-created features of cuprate superconductivity with a simple model called the two-dimensional Hubbard model, which treats the materials as if they were electrons moving around a quantum chessboard. The breakthrough comes only a few years after the same researchers demonstrated that the simplest version of this model couldn\u2019t perform such a feat. Such straightforward models can spark a deeper understanding of physics, says study co-author Ulrich Schollw\u00f6ck, a professor at the University of Munich. \u2757\ufe0f\ud83d\udc48\n\nThe idea in physics is to keep the model as simple as possible because it\u2019s difficult enough on its own,\u201d Schollw\u00f6ck says. \u201cSo in the beginning we studied the simplest version imaginable.\u201d\n\nEnhancements to the Hubbard Model\nIn the new study, the researchers added to the 2D Hubbard model the ability for electrons to make diagonal hops, like bishops in chess. With this tweak and thousands of weeks-long simulations on supercomputers, the researchers\u2019 model captured the superconductivity and several other key features of cuprates previously found in experiments. By showing that the humble Hubbard model can describe cuprate superconductivity, the authors prove its worth as a platform for understanding why and how superconductivity emerges.\"\n\nAfter over 30 years of intense effort by the community without many reliable answers, it\u2019s often been argued that solving the Hubbard model would have to wait for a quantum computer,\u201d Zhang says. \u201cThis effort will not only advance research in high-temperature superconductivity, but hopefully also spur more research using \u2018classical\u2019 computation to explore the wonders of the quantum world.\u201d",
+        "location": ""
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/prady-saligram-2705b2291?trk=public_profile_samename-profile",
+        "name": "Prady Saligram",
+        "summary": "--",
+        "location": "Stanford, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "This Dubai student helped solve astronauts\u2019 sleep issues in space",
+        "sub_title": "Gulf News",
+        "summary": "Had a wonderful opportunity to be interviewed by Friday Magazine about Project Aroma and my learning experiences with Artificial Intelligence. As part of our participation in the 2019 FLL Robotics Competition, Team Infinity & I devised an Alexa-automated sleeping bag to tackle sleep deprivation in space. Team Infinity won 1st for the Project in the Emirate Round in Dubai and won 1st in Creativity & Innovation in the Arabia Round in Jordan.",
+        "date": "July 25, 2021",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ffridaymagazine%2Eae%2Flife-culture%2Fpeople-profiles%2Fthis-dubai-student-helped-solve-astronauts-sleep-issues-in-space-1%2E2312638&urlhash=gXrY&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Dubai teen solves sleep issues of astronauts in space",
+        "sub_title": "TechOnShow",
+        "summary": "",
+        "date": "July 24, 2021",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Etechonshow%2Ecom%2Fdubai-teen-solves-sleep-issues-of-astronauts-in-space%2F&urlhash=iYUD&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Hindi",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Kannada",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Gold Award - Senior UKMT Challenge",
+        "organization": "United Kingdom Mathematics Trust",
+        "duration": "Oct 2021",
+        "summary": "Awarded to the 6000 highest-scoring test-takers worldwide"
+      },
+      {
+        "name": "Head Teacher's Award",
+        "organization": "Douglas Pettitt, Secondary Headteacher",
+        "duration": "Feb 2021",
+        "summary": "Awarded for academic diligence, extracurricular involvement and resilience"
+      },
+      {
+        "name": "Gold Award - Senior UKMT Challenge (Best in School)",
+        "organization": "United Kingdom Mathematics Trust",
+        "duration": "Oct 2020",
+        "summary": "Scored 4 marks off qualifying for the British Maths Olympiad. Among the 1600 highest-scoring test-takers worldwide."
+      }
+    ],
+    "score": []
+  }
+]

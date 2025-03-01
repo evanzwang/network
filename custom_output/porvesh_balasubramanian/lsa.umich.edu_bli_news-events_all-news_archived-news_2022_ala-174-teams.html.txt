@@ -1,0 +1,162 @@
+  header
+  <div data-sly-resource="/content/michigan-lsa/admin/alert/jcr:content/par/alert"></div>
+                [U-M](https://umich.edu/)
+              //
+                [LSA](https://lsa.umich.edu/)
+                [DEPARTMENTS & UNITS](https://lsa.umich.edu/lsa/academics/departments-and-units.html)
+                [MAJORS AND MINORS](https://lsa.umich.edu/lsa/academics/majors-minors.html)
+                [LSA COURSE GUIDE](http://www.lsa.umich.edu/cg/)
+                [LSA GATEWAY](https://gateway.lsa.umich.edu)
+                <label class="sr-only" for="umlsaSearch-mobile">Keyword Search of </label>
+                Submit Site Search
+                    Search
+                      |
+              [About Us](/bli/about-us.html)
+              [People](/bli/People1.html)
+              [News and Events](/bli/news-events.html)
+              [Grant Opportunities](/bli/funding.html)
+              [Leadership Courses](/bli/fellows-program-structure/phase-1--members/leadership-courses.html)
+              [Leadership Certificate](/bli/fellows-program-structure/phase-3--advanced-fellows/Leadership_Certificate.html)
+          for
+              [The BLI Leadership Path](/bli/fellows-program-structure.html)
+              [LEARN Experiences](/bli/fellows-program-structure/phase-1--members.html)
+              [LEAP Experiences](/bli/fellows-program-structure/phase-3--advanced-fellows.html)
+                Keyword Search of bli
+              [LeaderShape Retreat](/bli/fellows-program-structure/phase-1--members/LeaderShapeRetreat.html)
+              [Detroit Retreat](/bli/fellows-program-structure/phase-1--members/Detroit_Retreat.html)
+              [Mindful Leader Retreat](/bli/fellows-program-structure/phase-1--members/Mindful_Leader_Retreat.html)
+              [Leadership Teaching Fellows](/bli/fellows-program-structure/phase-3--advanced-fellows/PeerFacilitators.html)
+              [Applied Leadership Fellows](/bli/fellows-program-structure/phase-3--advanced-fellows/ProgramAssistants.html)
+              [ALA 370: Mindfulness and Peace Global Leadership](/bli/fellows-program-structure/phase-3--advanced-fellows/ala-370--mindfulness-and-peace-global-leadership.html)
+              [Social Transformation Fellowship](/bli/fellows-program-structure/phase-3--advanced-fellows/Social_Transformation_Workshops.html)
+                [All News](/bli/news-events/all-news.html)
+                [Archived News](/bli/news-events/all-news/archived-news.html)
+                [2022](/bli/news-events/all-news/archived-news/2022.html)
+                What's Happening in the Lab
+              print second level nav
+                start 3rd level nav
+                    [Search News](/bli/news-events/all-news/search-news.html)
+                    Start 4th level nav
+                      fifth level nav
+                      was 8,  currentPage.depth >=8
+                            [Color of Care Reflection](/bli/news-events/all-news/archived-news/2022/color-of-care-reflection.html)
+                            [Mindful Leader Retreat Recap](/bli/news-events/all-news/archived-news/2022/mindful-leader-retreat-recap.html)
+                            [Creating Leaders – Being a Peer Facilitator at the BLI](/bli/news-events/all-news/archived-news/2022/Creating_Leaders.html)
+                            [Feedback is Love](/bli/news-events/all-news/archived-news/2022/Feedback_Is_Love.html)
+                            [BLI director awarded the Harold R. Johnson Diversity Service Award](/bli/news-events/all-news/archived-news/2022/bli-director-awarded-the-harold-r--johnson-diversity-service-awa.html)
+                            [The Leadership Certificate at the University of Michigan: Cohort 1](/bli/news-events/all-news/archived-news/2022/the-leadership-certificate-at-the-university-of-michigan--cohort.html)
+                            [Deepening the Foundations for Equity and Renewal](/bli/news-events/all-news/archived-news/2022/Deepening_the_Foundations.html)
+                            [The Michigan Difference Student Leadership Awards](/bli/news-events/all-news/archived-news/2022/the-michigan-difference-student-leadership-awards.html)
+                            [BLI Peace Leadership Retreat in Detroit](/bli/news-events/all-news/archived-news/2022/bli-peace-leadership-retreat-in-detroit.html)
+                            [Welcome the 2021-22 Mindful Leader Fellowship cohort!](/bli/news-events/all-news/archived-news/2022/mindful-leader-cohort-announcement.html)
+                            [Announcing the 2022 Leadership Certificate Cohort!](/bli/news-events/all-news/archived-news/2022/leadership-certificate-cohort-announcement-.html)
+                            [Seithur Sanitation Initiative receives the MLK Spirit Award](/bli/news-events/all-news/archived-news/2022/seithur-sanitation-initiative-receives-the-mlk-spirit-award.html)
+                        [2021](/bli/news-events/all-news/archived-news/2021.html)
+                        [2020](/bli/news-events/all-news/archived-news/2020.html)
+                        [2019](/bli/news-events/all-news/archived-news/2019.html)
+                        [2018](/bli/news-events/all-news/archived-news/2018.html)
+                        [2017](/bli/news-events/all-news/archived-news/2017.html)
+                        [2016](/bli/news-events/all-news/archived-news/2016.html)
+                        [2015](/bli/news-events/all-news/archived-news/2015.html)
+                        [2014](/bli/news-events/all-news/archived-news/2014.html)
+                        [2013](/bli/news-events/all-news/archived-news/2013.html)
+                        [2012](/bli/news-events/all-news/archived-news/2012.html)
+                        [2011](/bli/news-events/all-news/archived-news/2011.html)
+                        [2010](/bli/news-events/all-news/archived-news/2010.html)
+                End 3rd level Nav loop
+                [All Events](/bli/news-events/all-events.html)
+              End 2nd Level Nav
+                This winter, two sections of the lab are implementing a total of 11 team-based projects, all addressing our Big Questions.
+                        <div class="caption"
+          data-sly-test="">
+        <small data-sly-element=""
+          data-sly-attribute.href=""
+          data-sly-attribute.target=""></small>
+      </div>
+                  This winter, two sections of the lab worked on a total of 11 team-based projects, all addressing our Big Questions, topics ranging from mitigating social disparities to promoting sustainable environmental behavior. The achievements of each participant in the lab are significant and a testament to the acts of leadership playing out on campus.
+                  Winter 2022 Teams
+                    Team:
+                    Billionaire Boys Club
+                    Members:
+                    Erin Petrov, Jazmin Bolden, Nate Chavez, Ashley Bouse & Yash Chaudhary
+                    Project Overview:
+                    Hosting power hour events with entrepreneurs geared toward women and underrepresented populations. They aim to create space through a Power Hour event where women and underrepresented groups are welcomed to learn about startups from guest speakers and have the opportunity to present their own startup projects or ideas. These events will provide resources regarding not only startups but also topics including financial literacy and how to break into sectors that are male-dominated.
+                    Increasing Gym Accessibility
+                    Arvin Yaple, Elena D’Souza, Houston Hemphill, Ruhul Islam
+                    Create QR codes for some beginner resistance training exercises and post them in the fitness facilities on campus and in the dorms. Their target audience is novice gym users and beginners to exercise who might be intimidated by the free weights section of the gyms. By having these exercise tutorials available outside the fitness facilities, they hope to increase beginners' confidence and knowledge about weight training, so they can comfortably work out in the gyms and increase their physical activity.  QR code on the posters takes users to a doc on Google Drive with videos and difficulty ranking for free weight exercises at the gym.
+                    Podcast Hub
+                    Abby Liang, Kian McDonough, Eileen No
+                    Create a hub for podcasts that exist on UM campus. The Hub is hosted on a
+                    [Google site,](https://sites.google.com/umich.edu/podcast-hub/home)
+                    and the team posted QR codes on flyers around campus.
+                    Creating Community
+                    Rohit Soman, Vivian Liagre
+                    Foster well-being and resilience and strengthen connections between communities. The plan is to host a community event for students living in off-campus housing to connect people that might not otherwise cross paths within a geographic area.
+                  --
+                    Compost Availability and Practices at UM
+                    Gwen Tatara, Priyank Patel, Rashmi Nair, Autumn Kucharczyk & Kush Nautiyal
+                    Project Overview
+                    : Increase composting efforts across campus, with hopes to construct a community garden in the diag. Students understand that they collectively can do better, but lack the knowledge and resources to compost. This team led a public education campaign surrounding composting by creating a guide for logos on bins, tips on how to, and ways to spread the knowledge.
+                    Clothing Drive
+                    Conner Chinavare, Vivuan Ho, Veronika Senzer, Tyeah Tyner, Hadley Fischer
+                    Mitigate social disparities by providing free clothing to low-income students. This project also promotes sustainable environmental behavior by avoiding fast fashion and reusing clothing and reallocating to communities that really need it. Their plan was to host a clothing drive and collect donations at residence halls and distribute them to students in need at an event in the Union.
+                    Care Packages for CSP Students
+                    Teondria Anderson, Janaye Jones, Ryan Noble, MaKenzee Van Buren
+                    Create and distribute care packages for underrepresented students on campus.
+                    Team
+                    : Cyber Safety Team
+                    Lex Doty, Ella Mahmoodzadegan, Samuel Sannieniola, and Porvesh Balasubramanian
+                    Their goal was to create a resource guide about cyber safety for students here at UMich. To do so, they created/sent out a survey to students about their knowledge of cybersecurity. They then based their guide upon their survey results.
+                    Addressing Sustainability on campus: circular consumption
+                    Kaitlin Clark, Hannah Nguyen, Brianna Murphy, Aidan Barron, Zoe Denbow
+                    Create a pamphlet covering important facts about fast fashion - what it is, how it impacts people and the environment, and avenues we can pursue to make a change.
+                    Helping Students Exercise
+                    Sydney Perez, Amy Mawi, Nayetzy Munoz, Cynthia Fout, Kaltri Hoxha
+                    Improve physical health for low-income students who are staying on campus over spring and summer terms by hosting exercise classes and reducing barriers to rec facilities access.
+                    The Cross Club Connection Initiative
+                    Justin Colorundo, Olivia O' Connell, Brandon Smith, Chloe Fan, Angelique Leon
+                    Foster inter-community connections using a DEI framework.
+      [Tweet](https://twitter.com/share)
+            Release Date:
+            04/13/2022
+            Tags:
+              [Barger Leadership Institute](/bli/news-events/all-news/search-news.html#page=1&q=&start=&end=&tag=bli&tagns=michigan-lsa)
+  footer
+        <div class="middle-box theme-border hidden-lg hidden-md hidden-sm col-xs-12"></div>
+              [email protected]
+          Click to call 734.764.8200
+            [Sitemap](/bli/about-us/sitemap.html)
+              Facebook
+              Youtube
+              Instagram
+              WordPress
+              LinkedIn
+        /* defaults */
+        /*configured thru admin or homepage properties */
+            Information For
+              [Prospective Students](https://lsa.umich.edu/lsa/prospective-students.html)
+              [Current Students](https://lsa.umich.edu/lsa/current-students.html)
+              [Faculty and Staff](https://lsa.umich.edu/lsa/faculty-staff.html)
+              [Alumni and Friends](https://lsa.umich.edu/lsa/alumni-friends.html)
+            More about LSA
+              [About LSA](https://lsa.umich.edu/lsa/about.html)
+              [How Do I Apply?](https://lsa.umich.edu/lsa/prospective-students/undergraduate/admissions.html)
+              [News](https://lsa.umich.edu/lsa/news-events/all-news.html)
+              [LSA Magazine](https://lsa.umich.edu/lsa/news-events/lsa-magazine.html)
+              [Give](https://lsa.umich.edu/lsa/support-lsa/give-to-the-college.html)
+              [Maps](https://lsa.umich.edu/lsa/about/maps.html)
+            Student Resources
+              [Courses](https://lsa.umich.edu/lsa/academics/courses.html)
+              [Academic Advising](https://lsa.umich.edu/lsa/current-students/undergraduate-students/academic-advising.html)
+              [Majors and Minors](https://lsa.umich.edu/lsa/academics/majors-minors.html)
+              [Departments and Units](https://lsa.umich.edu/lsa/academics/departments-and-units.html)
+              [Global Studies](https://lsa.umich.edu/lsa/academics/engaged-learning/global-studies.html)
+              [LSA Opportunity Hub](https://lsa.umich.edu/opportunityhub)
+            Connect
+              [Social Media](http://lsa.umich.edu/lsa/about/contact-us/social-media.html)
+              [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
+              [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
+              [Privacy Statement](https://umich.edu/about/privacy)
+              [Report Feedback](/cdn-cgi/l/email-protection#f9958a98d78e9c9bd78a8c8989968b8db98c94909a91d79c9d8cc6aa8c9b939c9a8dc4ab9c89968b8ddccbc9bb8c9edccbc9d69a96978d9c978dd694909a91909e9897d4958a98d69b9590d69c97d6979c8e8ad49c8f9c978d8ad6989595d4979c8e8ad6988b9a91908f9c9dd4979c8e8ad6cbc9cbcbd6989598d4c8cecdd48d9c98948adf989489c29b969d80c48b9c888c9c8a8dacabb5dccbc9918d8d89c3d6d6958a98d78c94909a91d79c9d8cd69a96978d9c978dd694909a91909e9897d4958a98d69b9590d69c97d6979c8e8ad49c8f9c978d8ad6989595d4979c8e8ad6988b9a91908f9c9dd4979c8e8ad6cbc9cbcbd6989598d4c8cecdd48d9c98948ad7918d9495)
+    ©
+      [2025 Regents of the University of Michigan](http://regents.umich.edu/)

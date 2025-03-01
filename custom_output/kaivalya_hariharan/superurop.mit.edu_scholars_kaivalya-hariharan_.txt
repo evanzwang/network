@@ -1,0 +1,30 @@
+              [Start Here](https://superurop.mit.edu/start-here/)
+              [Scholars](https://superurop.mit.edu/scholars/)
+              [Research](https://superurop.mit.edu/research/)
+              [Previous Years](https://superurop.mit.edu/previous-years/)
+              [Give Now](https://superurop.mit.edu/supporters/)
+              [Contact](https://superurop.mit.edu/contact/)
+            Kaivalya  Hariharan
+              [kaivu@mit.edu](mailto:kaivu@mit.edu)
+            Scholar Title
+            MIT Tang Family FinTech Undergraduate Research and Innovation Scholar
+            Research Title
+            Investigating Internal Signatures of Neural Network Failure Modes
+            Cohort
+            2023-2024
+            Department
+            Electrical Engineering and Computer Science
+            Research Areas
+              Artificial Intelligence & Machine Learning
+            Supervisor
+              Nir N. Shavit
+                  Previous
+                  Next
+            Abstract
+              Neural Nets are often easy to trick, whether through restricted perturbations of the input (Lp Adversarial Examples), or through prompt injections (LLM jailbreaks). These failures are often studied while treating models as a black boxes; this has yielded some results, but we remain far from using these insights to build robust models. Instead, we study Neural Network failures by investigating model internal computation. By using mechanistic interpretability techniques (e.g path patching, dictionary learning), and examining model internal statistics, we aim to produce theories of Neural Network failures that are grounded in phenomena that can be observed in the internal computations of DNNS. We hope that such theories can inspire novel approaches for building robust models.
+            Quote
+              Through this SuperUROP, I want to gain experience understanding Neural Networks failures by opening up model black boxes and studying their internals. I am looking forward to applying both my prior experience researching Adversarial Examples in CNNs, and my math background to this project. I am most excited about treating studying Deep Learning as a systematic science, and figuring out the techniques best suited for understanding these models.
+        [Back to Scholars](https://superurop.mit.edu/scholars/)
+          Massachusetts Institute of Technology
+            [Admin Login](https://superurop.mit.edu/wp-login.php)
+            [Accessibility](https://accessibility.mit.edu/)

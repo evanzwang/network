@@ -1,0 +1,141 @@
+            All the UW
+            Current site
+            Search scope
+              load these labels and input if UW is selected in Theme Settings
+              OR load these labels and input if Site is selected in Theme Settings
+            Enter search text
+          [MyUW](https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw)
+          [Calendar](//uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar)
+          [Directories](https://directory.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=directories)
+          [Libraries](https://lib.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=libraries)
+          [UW Medicine](https://www.uwmedicine.org/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwmedicine)
+          [Maps](//uw.edu/maps/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=maps)
+          [UW News](//uw.edu/news/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwnews)
+      Helpful Links
+          [Information Technology](https://it.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit)
+          [Workday HCM](https://employeehelp.workday.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=workdayhcm)
+          [Husky Card](https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard)
+          [UW Bothell](https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell)
+          [UW Tacoma](https://www.tacoma.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtacoma)
+          [UW Facebook](https://www.facebook.com/UofWA?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwfacebook)
+          [UW Twitter](https://twitter.com/UW?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwtwitter)
+            [University of Washington](https://www.washington.edu/)
+          .site-branding
+                  [Students](//uw.edu/studentlife/)
+                  [Parents](//uw.edu/parents/)
+                  [Faculty & Staff](//uw.edu/facultystaff/)
+                  [Alumni](//uw.edu/alumni/)
+              Quick Links
+            search-quicklinks
+          #site-navigation
+        .navbar.navbar-expand-lg
+      #masthead
+          Menu
+                [CIRCLE](https://www.washington.edu/circle/)
+                    [About](https://www.washington.edu/circle/about/)
+                    [CIRCLE Opportunities](https://www.washington.edu/circle/about/circle-opportunities/)
+                    [Our People](https://www.washington.edu/circle/our-people/)
+                    [Sponsorships Opportunities](https://www.washington.edu/circle/about/sponsorships/)
+                    [First-year highlights](https://www.washington.edu/circle/first-year-highlights/)
+                    [Our Programs](https://www.washington.edu/circle/programs/)
+                    [Global Leadership Series](https://www.washington.edu/circle/programs/global-leadership-series/)
+                    [Current Graduate Students](https://www.washington.edu/circle/programs/current-graduate-students/)
+                    [CIRCLE Fast Track](https://www.washington.edu/circle/programs/circle-fast-track/)
+                    [CIRCLE of Friends](https://www.washington.edu/circle/programs/circle-of-friends/)
+                    [Student Advisory Board](https://www.washington.edu/circle/programs/student-advisory-board/)
+                    [Student Success & Well-being Coaching](https://www.washington.edu/circle/programs/student-success-coaching/)
+                    [Unite UW](https://unite.uw.edu/)
+                    [New Students](https://www.washington.edu/circle/new-students/)
+                    [CIRCLE Vision](https://www.washington.edu/circle/new-students/circle-vision/)
+                    [Graduate International Students](https://www.washington.edu/circle/new-students/graduate-international-students/)
+                    [Virtual International Husky Welcome](https://www.washington.edu/circle/new-students/international-husky-welcome/)
+                    [International Welcome Programs](https://www.washington.edu/circle/new-students/iwp/)
+                    [IWP –  Summer](https://www.washington.edu/circle/new-students/iwp/iwp-summer/)
+                    [IWP – Fall](https://www.washington.edu/circle/new-students/iwp/iwp-fall/)
+                    [IWP – Winter](https://www.washington.edu/circle/new-students/iwp/iwp-winter/)
+                    [IWP –  Spring](https://www.washington.edu/circle/new-students/iwp/iwp-spring/)
+                    [Undergraduate Regional Connection Groups](https://www.washington.edu/circle/new-students/rcg/)
+                    [Life at UW](https://www.washington.edu/circle/life-at-uw/)
+                    [Emergency aid](https://www.washington.edu/circle/emergency-aid/)
+                    [Getting a job](https://www.washington.edu/circle/getting-a-job/)
+                    [International Pride](https://www.washington.edu/circle/international-pride/)
+                    [Health insurance (ISHIP)](https://iship.washington.edu)
+                    [Housing](https://www.washington.edu/circle/housing/)
+                    [Research](https://www.washington.edu/circle/research/)
+                    [Safety](https://www.washington.edu/circle/safety/)
+                    [Scholarships & financial aid](https://www.washington.edu/circle/scholarships-and-financial-aid/)
+                    [Staying healthy](https://www.washington.edu/circle/staying-healthy/)
+                    [Students with Disabilities](https://www.washington.edu/circle/students-with-disabilities/)
+                    [Transportation](https://www.washington.edu/circle/transportation/)
+                    [Tuition & fees](https://www.washington.edu/circle/tuition-fees/)
+                    [Volunteering & service](https://www.washington.edu/circle/volunteering/)
+                    [Resources](https://www.washington.edu/circle/resources/)
+                    [In the Loop Newsletters](https://www.washington.edu/circle/resources/in-the-loop-newsletters/)
+                    [In the Loop Podcast](https://www.washington.edu/circle/resources/in-the-loop-podcast/)
+                    [CIRCLE Emergency Aid](https://www.washington.edu/circle/resources/circle-emergency-aid/)
+                    [Understanding Financial Resources](https://www.washington.edu/circle/resources/understanding-financial-resources/)
+                    [International Student Resource Guide](https://www.washington.edu/circle/resources/resource-guide/)
+                    [International Student Stories](https://www.washington.edu/circle/resources/international-student-stories/)
+                [News](https://www.washington.edu/circle/news/)
+              International Student Stories: Vikram Guhan Subbiah from India
+                .entry-meta
+              .entry-header
+                “Am I Indian or am I American?”
+                Vikram was born in America, but grew up in India. He grew up speaking Hindi, watching Bollywood movies, and listening to Indian songs. By the time he came to the U.S to attend UW, he knew he was not American as his passport said, at least not culturally. However, this did not stop him. He decided to embrace both of his identities and went to play cards with his Saudi Arabian buddies, learn pick up lines from his Brazilian friends, and learn about different ethnic groups in East Africa from his Eritrean friend. He chose to grow and broaden his perspective by simple saying “hi” to a friend eating at Local Point food court.
+                Listen to his story to hear about his experience as a American citizen, spending most of his time in India and coming back to UW.
+              .entry-content
+            #post-875
+              Post navigation
+                          Previous article
+                      International Student Stories: Luiz Fernando Saade Porto from Brazil
+                          Next article
+                      International Student Stories: Naisha Sachdev “How I overcame the pandemic as an international student”
+          #primary
+              Contact us
+                  Email
+                  [uwcircle@uw.edu](mailto:uwcircle@uw.edu)
+                  Phone
+                  Physical Address
+                  Office Hours
+                CIRCLE office will be closed on University holidays.
+              Connect with us
+              COVID-19
+                See
+                  [COVID-19 updates and information](https://www.washington.edu/coronavirus/students/)
+                  from UW.
+              CIRCLE News
+                  [Scam Warmings for International Students](https://www.washington.edu/circle/2023/12/04/scam-warmings-for-international-students/)
+                      1 year ago
+                  [CIRCLE Student Advisory Board (SAB) Applications Now Open!](https://www.washington.edu/circle/2022/05/09/circle-student-advisory-board-sab-applications-now-open-2/)
+                      3 years ago
+                  [Self-care tips for the winter quarter](https://www.washington.edu/circle/2022/01/03/self-care-tips-for-the-winter-quarter/)
+              [More](https://www.washington.edu/circle/news/)
+                    [Support our Students](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=crclef)
+                  Your support has a lasting impact on the experience and trajectory of international and domestic students at UW. Please consider making a donation today.
+                  [Donate to CIRCLE](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=crclef)
+              SAF
+          #secondary
+        .row
+      .container
+        [Be boundless](https://www.washington.edu/boundless/)
+        Connect with us:
+              [Facebook](https://www.facebook.com/UofWA)
+              [Twitter](https://twitter.com/UW)
+              [Instagram](https://instagram.com/uofwa)
+              [YouTube](https://www.youtube.com/user/uwhuskies)
+              [LinkedIn](https://www.linkedin.com/company/university-of-washington)
+              [Pinterest](https://www.pinterest.com/uofwa/)
+              [Accessibility](http://www.uw.edu/accessibility)
+              [Contact Us](http://uw.edu/contact)
+              [Jobs](http://www.washington.edu/jobs)
+              [Campus Safety](http://www.washington.edu/safety)
+              [My UW](http://my.uw.edu/)
+              [Rules Docket](http://www.washington.edu/rules/wac)
+              [Privacy](http://www.washington.edu/online/privacy/)
+              [Terms](http://www.washington.edu/online/terms/)
+              [Newsletter](http://www.washington.edu/newsletter/)
+          © 2025 University of Washington  |  Seattle, WA
+        .site-info
+      #colophon
+    #page-inner
+  #page

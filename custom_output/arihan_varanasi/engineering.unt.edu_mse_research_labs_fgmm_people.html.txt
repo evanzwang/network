@@ -1,0 +1,155 @@
+  Start GLOBAL bodycode.inc
+  UBSC Google Tag Manager (noscript)
+  End UBSC Google Tag Manager (noscript)
+  End GLOBAL bodycode.inc
+  start bodycode-local.inc test
+  did this change propagate?
+  end bodycode-local.inc test
+            close
+              Search...
+                Search
+              Search Options
+                  Search This Site
+                  Search All of UNT
+              [MYUNT](https://my.unt.edu/)
+              [CANVAS](https://canvas.unt.edu/)
+              [STUDENT EMAIL](https://eagleconnect.unt.edu/)
+              [UNT DIRECTORY](https://www.unt.edu/find-people-departments.html)
+                [Department of Materials Science and Engineering](/mse/index)
+                [Functional Glasses and Materials Modeling Lab](/mse/research/labs/fgmm/index)
+                [Home](/mse/research/labs/fgmm/)
+                [Research](/mse/research/labs/fgmm/research.html)
+                [Publications](/mse/research/labs/fgmm/publications.html)
+                [Activities](/mse/research/labs/fgmm/challenge-workshops/)
+                [Teaching](/mse/research/labs/fgmm/teaching.html)
+                [People](/mse/research/labs/fgmm/people.html)
+                [Links](/mse/research/labs/fgmm/links.html)
+                [Contact Us](/mse/research/labs/fgmm/contact-us.html)
+                Menu
+                Search:
+                    Search Type
+                      THIS SITE
+                      ALL of UNT
+                  Quicklinks:
+                      [MyUNT](https://my.unt.edu/)
+    Start analytics.inc
+    This comment should only appear in dev--newsite.unt.edu
+    End analytics.inc
+          [Materials Science and Engineering](https://engineering.unt.edu/mse/)
+          [Labs](https://engineering.unt.edu/mse/research/labs/)
+          [FGMM](https://engineering.unt.edu/mse/research/labs/fgmm/)
+        Group Members
+        Principle Investigator
+          Prof. Jincheng Du
+          [Profile page](/people/jincheng-du.html)
+          |
+          [Google Scholar](https://scholar.google.com/citations?hl=en&user=W42aYG4AAAAJ&view_op=list_works)
+        Research Staff
+          Dr. Thiruvilla S. Mahadevan
+        Graduate Research Assistants
+              Jayani Kalahe
+              Joy-anne Najwa Oliver
+              Wenqing Xie
+              Navid Marchin
+            Thanh Xuan Ngyuen
+              Cristina Lopez Puga
+              Rashita Yasmeen
+        Undergraduate Research Assistants
+              Arihan Varanasi (TAMS)
+              Kenneth Sanders
+        Group Alumni
+            Dr. Manzila I. Tuheen
+            (Ph.D. 2023).
+            Myra Vu
+            (MS, 2022). Now Research Scientist at Alcon Inc.
+            Dr. Po-Hsuen Kuo
+            (Ph.D. 2020, postdoc 2020-2021). Now Development Engineer at Corning Inc.
+            Dr. Lu Deng
+            (Ph.D. 2017, postdoc 2018-2021.) Now Associate Professor at Shanghai Institute of
+                     Optics and Fine Mechanics.
+            Roberto Recuero Chen
+            (M.S. 2019, now research staff at UNT)
+            Dr. Xianan Lu
+            (Ph.D. 2018.) Now staff scientist at Pacific Northwest National Laboratory
+            Dr. Wei Sun
+            (Ph. D. 2016; postdoc 2016-2018.) Now postdoc at Lehigh University
+            Dr. Mengguo Ren
+            (Ph.D. 2018, now at USC)
+            Dr. Jessica Rimsza
+            (Ph.D. 2016.) Now staff scientist at Sandia National Labs
+            Dr. Ye Xiang
+            (Ph.D. 2014), R&D Engineer, K Lab Corp.
+            Chao-hsu Chen
+            (M.S. 2014), Engineer, SMS Infocomm Corp.
+            Dr. Mrunalkumar Chaudhari
+            (Ph.D. 2012). Now Professor at Lalbhai Dalpatbhai College of Engineering, Ahmedabad,
+                     India
+            Leopold Kokou
+            (M.S. 2012)
+            Yun Li
+            (M.S. 2012). R&D Engineer at TCL
+            Larry Kuo
+            (B.S. 2012). Engineer at Olin Chlor Alkali Products
+            Andrew Hwang
+            (TAMS, 2011). UT Austin
+        Visiting Scholars and Students
+            Dr. Qiming Liu
+            (visiting scholar (2012-2013), Professor at School of Physics and Technology, Wuhan
+                     University)
+            Dr. Elena Petracovschi
+            (visiting student (2013), PhD student at Université de Rennes 1, France)
+            Ian Buterbaugh
+            (2015, REU student from University of Arizona)
+            Greggory Guokas
+            (2016, REU student from Coe College)
+            Tristan Dutertre
+            (2016, visiting student from University of Rouen, France)
+            Dr. Giulia Brioglia
+            (visiting PhD student (2013), University of Modena and Reggio Emilia, Italy)
+            Dr. Pierre Gras
+            (visiting PhD student (2013), CIRIMAT, INPT-UPS-CNRS, France)
+            Dr. Xusheng Qiao
+            (visiting scholar (2013-2014), Associate Professor at Department of Materials Science
+                     and Engineering, Zhejiang University, China)
+            Dr. Li Li
+            (visiting scholar (2013-2014), Associate Professor at School of Physical Electronics,
+                     University of Electronic Science and Technology of China)
+            Dr. Ye Tian
+            (Visiting PhD student (2015-2016), University of Electronic Science and Technology
+                     of China)
+            Dr. Junjie Zhao
+            (Visiting PhD student (2016-2018) from Zhejiang University. Now Engineer at Corning
+                     Inc. China)
+            Dr. Jun Xie
+            (visiting scholar (2018-2019), Associate Professor at State Key Laboratory of Silicate
+                     Materials for Archetecture, Wuhan University of Technology, Wuhan, China)
+            Ms. Yuan Guo
+            (visiting scholar (2018-2019), Associate Professor at School of Mathematics, Lanzhou
+                     City University, Lanzhou, China)
+        Group Photos
+          Group photo January 2023
+          Group photo, April 2019
+          Group photo, May 2018
+          Group photo, June 2015
+          Group photo, May 2012
+            Functional Glasses & Materials Modelling
+                UNT Discovery Park
+              1155 Union Circle # 305310
+                Jincheng.Du@unt.edu
+                940-369-8184
+              Follow Us
+                [Apply now!](/admissions/)
+                [Take a tour](/admissions/visit)
+                [Get more info](https://www.unt.edu/admissions/requestinfo.html)
+                [Canvas](https://canvas.unt.edu/)
+                [Student Email](https://eagleconnect.unt.edu/)
+                [UNT Directory](https://www.unt.edu/find-people-departments.html)
+                [Campus Map](https://map.unt.edu)
+                [Jobs at UNT](https://careers.untsystem.edu/unt/home)
+                  [Disclaimer](https://www.unt.edu/disclaimer.html)
+                  [AA/EOE/ADA](https://www.unt.edu/ada.html)
+                  [Privacy](https://www.unt.edu/privacy.html)
+                  [Electronic Accessibility](https://policy.unt.edu/policy/14-005)
+                  [Required Links](https://www.unt.edu/required-links.html)
+                  [UNT Home](https://www.unt.edu/)
+    [©](https://a.cms.omniupdate.com/11/?skin=unt&account=unt&site=engineering&action=de&path=/mse/research/labs/fgmm/people.pcf)

@@ -1,0 +1,66 @@
+            '"`
+            </textarea></xmp>
+            [All gists](/discover)
+            [Back to GitHub](https://github.com)
+            [Sign in](https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan)
+            [Sign up](/join?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan&source=header-gist)
+          [Sign in](https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan)
+          [Sign up](/join?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan&source=header-gist)
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+              Instantly share code, notes, and snippets.
+                        Aidan Gollan
+                        aidangollan
+                        I am a student at Michigan State University majoring in Computer Science and minoring in Mathematics
+                            13
+                            followers
+                          ·
+                            11
+                            following
+                [View GitHub Profile](https://github.com/aidangollan)
+                            1
+                                    Sort
+                                                Recently created
+                                                Least recently created
+                                                Recently updated
+                                                Least recently updated
+                          /
+                            example.ts
+                        Created
+                          December 10, 2024 21:06
+                              This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+                                [Learn more about bidirectional Unicode characters](https://github.co/hiddenchars)
+                                  export
+                                  const
+                                  customLLMZodObject
+                                  =
+                                  z
+                                  .
+                                  object
+                                  (
+                                  attributeOne
+                                  :
+                                  string
+                                  )
+                                  describe
+                                  "Description of attribute one"
+                                  ,
+                                  attributeTwo
+                                  "Description of attribute two"
+                                  ;
+                                  interface
+                                  customLLMObject
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Security](https://github.com/security)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

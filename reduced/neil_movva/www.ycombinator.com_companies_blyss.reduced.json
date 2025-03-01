@@ -1,0 +1,117 @@
+{
+  "title": "Blyss: End-to-end encrypted AI. | Y Combinator",
+  "meta_description": "End-to-end encrypted AI. Founded in 2022 by , Blyss has 2 employees based in San Francisco, CA, USA.",
+  "main_content": "Home \u203a Companies \u203a Blyss Blyss End-to-end encrypted AI. Y Combinator Logo W23 Inactive security privacy ai San Francisco https://blyss.dev/ End-to-end encrypted AI. Blyss is an AI model provider built on strong security guarantees. We run AI workloads in GPU-based secure enclaves, which keep data encrypted even while it's being processed. Our customers get a privacy model similar to on-premises deployment, without ever having to think about AI infrastructure or GPU supply. The Blyss team has strong experience in cryptography and AI from Stanford, Apple, Nvidia, and more. We think data privacy is fundamental to safe, trustworthy AI, so it's our job to make end-to-end encrypted AI a no-compromise option - just like Signal and WhatsApp did for messaging. Blyss Founded: 2022 Team Size: 2 Status: Inactive Location: San Francisco Group Partner: Harj Taggar Former Founders Samir Menon Worked at Yubico. Wrote ia.cr/2022/368. Stanford CS '19 BS + MS. Samir Menon Blyss Neil Movva I've spent my whole career making computers go fast, especially for deep learning. I love large scale compute and care deeply about democratizing this power. Previously, I worked on the Apple Neural Engine, and NVIDIA's cuDNN. Stanford '19, BS and MS in EE. Neil Movva Blyss Company Launches Blyss - the SDK for privacy. See original launch post \u203a TLDR: Homomorphic encryption offers much stronger privacy guarantees than anyone thought possible. Blyss is the future of privacy, available today as a developer-focused API . We are Samir and Neil, the founders of Blyss. \ud83d\ude27 Problem: outside of FAANG, privacy is stuck in the \u201890s\ud83d\udd7a Privacy is a competitive advantage. There\u2019s a billboard on the 101 explaining how WhatsApp can\u2019t read your messages, millions of consumers use VPNs to secure their everyday browsing, and Apple doesn\u2019t finish a keynote without touting new, frontier-pushing privacy practices. But unless you\u2019re at big tech, the most powerful new privacy tools are almost completely inaccessible. Chrome and Edge use homomorphic encryption to scan unsafe URLs and check passwords, but a startup wanting to offer similar features would need a team of PhDs to build them in-house. \ud83d\udee0\ufe0f Our solution: cutting-edge privacy, as a service The Blyss SDK offers developers a key-value store with unusually strong privacy guarantees. Create S3-like buckets, fill them with data, and then make cryptographically secure retrievals. No entity, not even the Blyss service itself, can learn which items are retrieved from a Blyss bucket. Private retrieval is a simple but powerful new primitive. Using it, Password managers can check if you\u2019ve been exposed in a data breach, without learning anything about your passwords Browsers can resolve domain names privately, without revealing every website you visit to DNS servers Code scanners can safely check repos for vulnerabilities, without ever seeing customer codebases or the scan results People are building lots of new web apps with Blyss - try some of the best ones at the Blyss playground ! \ud83d\ude47 The ask \ud83e\uddd1\u200d\ud83d\udcbb Developers: Try our SDK - it\u2019s a self-serve, cloud storage service (feels just like S3), that transparently handles encryption and privacy for you. And if it isn\u2019t quite clear how to fit privacy into your app, we\u2019ll help you! \ud83d\udd75\ufe0f Privacy-conscious users: Tell us about apps/services that feel icky because they collect too much data. It may not be obvious how to fix them, but your gut feelings on privacy are super valuable to us. \ud83d\udd74\ufe0f Bonus: If you know companies that are trying to make privacy their competitive advantage (password managers, VPNs, etc), introduce us (founders@blyss.dev)! \ud83d\udc6f About us We met eight years ago on Day 1 of freshman year at Stanford; we\u2019ve been best friends since. Neil was previously at Apple working on ML; Samir worked at Yubico on applied security, and before that did research on homomorphic encryption with Dan Boneh. We published the fastest-ever scheme for private retrieval at a top cryptography conference (Oakland). Now, we\u2019re working to make advanced privacy technology available to everyone.",
+  "links": [
+    {
+      "url": "/home",
+      "text": "Home"
+    },
+    {
+      "url": "/companies",
+      "text": "Companies"
+    },
+    {
+      "url": "/companies?batch=W23",
+      "text": "Y Combinator LogoW23"
+    },
+    {
+      "url": "/companies/industry/security",
+      "text": "security"
+    },
+    {
+      "url": "/companies/industry/privacy",
+      "text": "privacy"
+    },
+    {
+      "url": "/companies/industry/ai",
+      "text": "ai"
+    },
+    {
+      "url": "/companies/location/san-francisco-bay-area",
+      "text": "San Francisco"
+    },
+    {
+      "url": "https://blyss.dev/",
+      "text": "https://blyss.dev/"
+    },
+    {
+      "url": "https://www.ycombinator.com/people/harj-taggar",
+      "text": "Harj Taggar"
+    },
+    {
+      "url": "https://www.linkedin.com/company/blyssprivacy/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/blyssdev",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/blyssprivacy",
+      "text": ""
+    },
+    {
+      "url": "/companies/blyss",
+      "text": "Blyss"
+    },
+    {
+      "url": "https://www.linkedin.com/in/samir-menon-27954214b/",
+      "text": ""
+    },
+    {
+      "url": "/companies/blyss",
+      "text": "Blyss"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nmovva/",
+      "text": ""
+    },
+    {
+      "url": "/launches/I5m-blyss-the-sdk-for-privacy",
+      "text": "See original launch post \u203a"
+    },
+    {
+      "url": "https://blyss.dev/",
+      "text": "developer-focused API"
+    },
+    {
+      "url": "https://blyss.dev/",
+      "text": "Blyss SDK"
+    },
+    {
+      "url": "https://playground.blyss.dev",
+      "text": "Blyss playground"
+    },
+    {
+      "url": "https://blyss.dev/",
+      "text": "our SDK"
+    },
+    {
+      "url": "https://eprint.iacr.org/2022/368",
+      "text": "published"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://bookface-images.s3.amazonaws.com/small_logos/a070a3276443496b8e98455f7edba47028991034.png",
+      "alt": ""
+    },
+    {
+      "src": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/fddde26180139be54a70c03d82424e4d768d5099.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK5XLDGQB%2F20250301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250301T090316Z&X-Amz-Expires=3216&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJHMEUCIAa60Bv3dwwOBXxN54CIV1asUcOOIF%2FEg0njOREOaXwjAiEA1n64PGP4%2B3DcOW%2Fuen%2BLcCMwT8uKzsoYcmHF%2FTlISeQq7gMInf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDJTSmsMgqw8%2FzXp8pCrCA4ua9h%2Bh1%2FOyBOSoHtHqZnO1UPSCiJ20C3pHIPqw5oSkVn9hg7NyXd6Ee3CbyCzo%2BRRX0vJAn%2BBEUXr4utiY9JFPrqovAWPgJEEJnsIwH11n71vgR45QBy0zRbl3brj2OBK%2BFBeVC6%2FsH%2BUSjpruk7hm4J6U%2F9tZvg0tA2t9GGQ7KUBemPXPQ5DEMVCuQPf61xlo%2BLR7KTFu0uLWY0y8Z1HRwAcZd7Pybrr%2FbWJmjcLFklCsy4%2BeV2FJ3UJ99S8sWrHhoLjBGG57TVp1uYGbs3LAOpbt1sUAB3rV2mkZb0XsHclqZ53gH2vMEx6m0RNuRKsD9BgnRTGJrwA61tBcFJ4Rp3YldKhX3BLkpPHw%2Bs2VD8Hr49IXOiEaBUq2xzohBMwpsVIejDh%2BE9cFP2CaqjR2Ejbyyvu%2FvdVixnN2lsrUgsu8hhcxr6giZHbxqrwOheJcM3QHYDrC%2FDOlMNzpJLJ069ZXZSIiL2IXOpehsdRZ7lS9BGPhOEr1PbT27E26kYyEAWiuilPnj8g%2Fjh0gVZuoyOdzN%2BZVuuZxW%2FG2snnhXHzv%2BLwYao6l8AYQQnuyhDVxNv0fOHUzMCcp7c1qdrFOVzCFi4q%2BBjqlAeNIrfxX8osBeeUdMnS6iLpp44yqmYFXWFDEiSDNLT1pV9Fgw63CDsDoaBa95zBShaevT8Qje21oCwmjc08wljjwpmnTwaVgFBfhsntAeDN%2Bp9rN%2FkIk1mwRn541OdSiYHUtwrih2q%2F3%2FFAF%2FfeH%2BHQq%2B90xNjBXpwPGOtHN3NETfAiCVvMoxjPI7Q%2B1ZnfwW%2BGhbkaxFAPqNQQ%2FfSpoUqNHwmmMyQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a7b0c068d7e8016735d2ab3b808559f32f7a5e42eaeeb3a6262785e581bdc41",
+      "alt": "Blyss"
+    },
+    {
+      "src": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/bf0f53add650620dbd2b4e70d5207b1bfa4dd840.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK5XLDGQB%2F20250301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250301T090316Z&X-Amz-Expires=3216&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJHMEUCIAa60Bv3dwwOBXxN54CIV1asUcOOIF%2FEg0njOREOaXwjAiEA1n64PGP4%2B3DcOW%2Fuen%2BLcCMwT8uKzsoYcmHF%2FTlISeQq7gMInf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDJTSmsMgqw8%2FzXp8pCrCA4ua9h%2Bh1%2FOyBOSoHtHqZnO1UPSCiJ20C3pHIPqw5oSkVn9hg7NyXd6Ee3CbyCzo%2BRRX0vJAn%2BBEUXr4utiY9JFPrqovAWPgJEEJnsIwH11n71vgR45QBy0zRbl3brj2OBK%2BFBeVC6%2FsH%2BUSjpruk7hm4J6U%2F9tZvg0tA2t9GGQ7KUBemPXPQ5DEMVCuQPf61xlo%2BLR7KTFu0uLWY0y8Z1HRwAcZd7Pybrr%2FbWJmjcLFklCsy4%2BeV2FJ3UJ99S8sWrHhoLjBGG57TVp1uYGbs3LAOpbt1sUAB3rV2mkZb0XsHclqZ53gH2vMEx6m0RNuRKsD9BgnRTGJrwA61tBcFJ4Rp3YldKhX3BLkpPHw%2Bs2VD8Hr49IXOiEaBUq2xzohBMwpsVIejDh%2BE9cFP2CaqjR2Ejbyyvu%2FvdVixnN2lsrUgsu8hhcxr6giZHbxqrwOheJcM3QHYDrC%2FDOlMNzpJLJ069ZXZSIiL2IXOpehsdRZ7lS9BGPhOEr1PbT27E26kYyEAWiuilPnj8g%2Fjh0gVZuoyOdzN%2BZVuuZxW%2FG2snnhXHzv%2BLwYao6l8AYQQnuyhDVxNv0fOHUzMCcp7c1qdrFOVzCFi4q%2BBjqlAeNIrfxX8osBeeUdMnS6iLpp44yqmYFXWFDEiSDNLT1pV9Fgw63CDsDoaBa95zBShaevT8Qje21oCwmjc08wljjwpmnTwaVgFBfhsntAeDN%2Bp9rN%2FkIk1mwRn541OdSiYHUtwrih2q%2F3%2FFAF%2FfeH%2BHQq%2B90xNjBXpwPGOtHN3NETfAiCVvMoxjPI7Q%2B1ZnfwW%2BGhbkaxFAPqNQQ%2FfSpoUqNHwmmMyQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eff2cf444d04f718c1c28bb20ad69ee1a374615dbfed591dc6ef2c9d37957aa9",
+      "alt": "Samir Menon"
+    },
+    {
+      "src": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/f5b0073f3a3a51b304eca2dcfb6a0acff802dc25.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK5XLDGQB%2F20250301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250301T090316Z&X-Amz-Expires=3216&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJHMEUCIAa60Bv3dwwOBXxN54CIV1asUcOOIF%2FEg0njOREOaXwjAiEA1n64PGP4%2B3DcOW%2Fuen%2BLcCMwT8uKzsoYcmHF%2FTlISeQq7gMInf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDJTSmsMgqw8%2FzXp8pCrCA4ua9h%2Bh1%2FOyBOSoHtHqZnO1UPSCiJ20C3pHIPqw5oSkVn9hg7NyXd6Ee3CbyCzo%2BRRX0vJAn%2BBEUXr4utiY9JFPrqovAWPgJEEJnsIwH11n71vgR45QBy0zRbl3brj2OBK%2BFBeVC6%2FsH%2BUSjpruk7hm4J6U%2F9tZvg0tA2t9GGQ7KUBemPXPQ5DEMVCuQPf61xlo%2BLR7KTFu0uLWY0y8Z1HRwAcZd7Pybrr%2FbWJmjcLFklCsy4%2BeV2FJ3UJ99S8sWrHhoLjBGG57TVp1uYGbs3LAOpbt1sUAB3rV2mkZb0XsHclqZ53gH2vMEx6m0RNuRKsD9BgnRTGJrwA61tBcFJ4Rp3YldKhX3BLkpPHw%2Bs2VD8Hr49IXOiEaBUq2xzohBMwpsVIejDh%2BE9cFP2CaqjR2Ejbyyvu%2FvdVixnN2lsrUgsu8hhcxr6giZHbxqrwOheJcM3QHYDrC%2FDOlMNzpJLJ069ZXZSIiL2IXOpehsdRZ7lS9BGPhOEr1PbT27E26kYyEAWiuilPnj8g%2Fjh0gVZuoyOdzN%2BZVuuZxW%2FG2snnhXHzv%2BLwYao6l8AYQQnuyhDVxNv0fOHUzMCcp7c1qdrFOVzCFi4q%2BBjqlAeNIrfxX8osBeeUdMnS6iLpp44yqmYFXWFDEiSDNLT1pV9Fgw63CDsDoaBa95zBShaevT8Qje21oCwmjc08wljjwpmnTwaVgFBfhsntAeDN%2Bp9rN%2FkIk1mwRn541OdSiYHUtwrih2q%2F3%2FFAF%2FfeH%2BHQq%2B90xNjBXpwPGOtHN3NETfAiCVvMoxjPI7Q%2B1ZnfwW%2BGhbkaxFAPqNQQ%2FfSpoUqNHwmmMyQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d44a66acccd3c2733820cd25cbb704ac8d96125dd15d05fd0769a2f9653a1d25",
+      "alt": "Neil Movva"
+    },
+    {
+      "src": "/media/?type=post&id=69550&key=user_uploads/75138/64e460e5-9627-4f23-b3ec-57be1d24ac9e",
+      "alt": ""
+    }
+  ]
+}

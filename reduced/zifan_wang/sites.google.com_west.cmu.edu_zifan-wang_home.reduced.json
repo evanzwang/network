@@ -1,0 +1,169 @@
+{
+  "title": "Zifan Wang",
+  "meta_description": "",
+  "main_content": "Search this site Embedded Files Skip to main content Skip to navigation Sail (Zifan) Wang E-mail: thezifan_at_gmail.com I am currently a Research Scientist at ScaleAI . I received my Ph.D. in Electrical and Computer Enigneering from CMU in 2023. I was co-advised by Prof. Anupam Datta and Prof. Matt Fredrikson . My research interests include: AI Safety Adversarial Robustness Alignment Failure ML Explainability Gradient-based Methods Local Explanations LLM Agents Frontier Evaluations Try the \"Safe AGI\" demo be low !\ud83d\ude1c It is certifiably safe \ud83e\udd17! (better view on desktop) News Two LLM and agent safety preprints from SEAL are released on arxiv. Check out the top two in the Publication page I have joined the SEAL team of Scale AI as a Research Scientsit on Agents and Safety. WMDP benchmark and the unlearning approach RMU is featured in TIME Our automatic jailbreaking technique for LLMs is featured in New York Times , Register ,etc.. Open Collaborations I am open (and very happy) to work with researchers in the industry or students on selected topics. If we know each other before feel free to reach out by emails. Otherwise, it would be better if you can fill out the following Google form first (DM-ing me on LinkedIn or Twitter might not work). Collaboration Intake Form Click to See the Full List of Publications Selected Publications Universal and Transferable Adversarial Attacks on Aligned Language Models [ PDF | Code | Demo ] Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson TL;DR We introduce GCG, a new and effective gradient-based attack to language models. Current instruction-tuned models are often required to be aligned, e.g. by RLHF, not to elicit harmful or unetical completions. The goal of the attack is to find a suffix to potentially harmful user prompts, e.g. How to make a pipeline bomb , so the combined prompt would break such alignment filter. Importantly, we find adversarial suffixes found by GCG on open-source models transfer very well to commerical models like ChatGPT and Claude. Read the New York Times article People Talks about our work in their Youtube Channels. E.g. AI Safety Reading Group discusses our work Globally-Robust Neural Networks [ICML 2021] [ PDF | Code ] Klas Leino, Zifan Wang , Matt Fredrikson TL;DR We design a new type of neural network, GloRo Nets, which predicts the most likely class of the input and simultaneously certifies if the prediction is robust for any input perturbation in a pre-defined L2-norm ball. Our certification is based on the global Lipschitz constant of the network and the inference speed of prediction + certification is as fast as a standard inference run. icml21_slides.pdf Improving Robust Generalization By Directly PAC-Bayesian Bound Minimization [CVPR2023 highlight (top10%)] [ PDF ] Zifan Wang, Nan Ding, Tomer Levinboim, Xi Chen, Radu Soricut TL;DR We use a learning thoery, i.e. PAC-Bayesian, to upper-bounds the adversarial loss over the test distribution with quantities we can minimize during the training. We present a method, TrH Regularization, which can be plugged in with PGD training, TRADES and many other adversarial losses. Our work updates the state-of-the-art empirical robustness using Vision Transformers. Poster (left) & Slides ( middle ) & Video (right). C lick to see the full . Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization.pdf Selected Tutorial Machine Learning Explainability and Robustness: Connected At Hip [ SIGKDD 2021] [ homepage ] Anupam Datta, Matt Fredrikson, Klas Leino, Kaiji Lu, Shayak Sen, Zifan Wang This tutorial examines the synergistic relationship between explainability methods for machine learning and a significant problem related to model quality: robustness against adversarial perturbations. kdd_tutorial_to_upload.pdf Interviews ARD - Jailbeaking ChatGPT for leaking bio-weapon knowledge - Link Teaching Guest Lecture - 18661 CMU Spring 2023 [ slides ] Guest Lecture - CS 329T Stanford Fall 2023 [l ink , slides ] Guest Lecture - UW, Madison CS 2024 Spring [ slides ] Serving as Reviewer NeurIPS 2020 - 2024 ICLR 2020 - 2024 ICML 2021 - 2024 CVPR 2022 - 2024 TMLR . 2022 - 2024 Report abuse Page details Page updated Report abuse",
+  "links": [
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzifanw%2F&sa=D&sntz=1&usg=AOvVaw3C1xLJaMMVKQCH0DEagrXd",
+      "text": ""
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=HJOP3wMAAAAJ&hl=en",
+      "text": ""
+    },
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Fx.com%2F_zifan_wang&sa=D&sntz=1&usg=AOvVaw1m2Cy9jI54L62XzzKQZHjb",
+      "text": ""
+    },
+    {
+      "url": "http://www.andrew.cmu.edu/user/danupam/",
+      "text": "Anupam Datta"
+    },
+    {
+      "url": "http://www.cs.cmu.edu/~mfredrik/",
+      "text": "Matt Fredrikson"
+    },
+    {
+      "url": "/west.cmu.edu/zifan-wang/publications",
+      "text": "Publication"
+    },
+    {
+      "url": "https://www.wmdp.ai",
+      "text": "WMDP"
+    },
+    {
+      "url": "https://time.com/6878893/ai-artificial-intelligence-dangerous-knowledge/",
+      "text": "TIME"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/07/27/business/ai-chatgpt-safety-research.html",
+      "text": "New York Times"
+    },
+    {
+      "url": "https://www.theregister.com/2023/07/27/llm_automated_attacks/",
+      "text": "Register"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdmN4TRPtrYG-k03KgwRqKSQcMZGE8akN-AerMnM3wIlpJAg/viewform?usp=sharing",
+      "text": "Collaboration Intake Form"
+    },
+    {
+      "url": "/west.cmu.edu/zifan-wang/publications",
+      "text": "Click to See the Full List of Publications"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.15043",
+      "text": "PDF"
+    },
+    {
+      "url": "https://github.com/klasleino/gloro",
+      "text": "Code"
+    },
+    {
+      "url": "https://llm-attacks.org/index.html#ethics",
+      "text": "Demo"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/07/27/business/ai-chatgpt-safety-research.html",
+      "text": "New York Times"
+    },
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.nytimes.com%2F2023%2F07%2F27%2Fbusiness%2Fai-chatgpt-safety-research.html&sa=D&sntz=1&usg=AOvVaw2zkMLb-YIAAZ3DTcizWcnC",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2102.08452",
+      "text": "PDF"
+    },
+    {
+      "url": "https://github.com/klasleino/gloro",
+      "text": "Code"
+    },
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Fklas.leino.tech%2Fpdf%2Ficml21_poster.pdf&sa=D&sntz=1&usg=AOvVaw2A113H_BxwABrLkrAsPEJf",
+      "text": ""
+    },
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Ficml.cc%2Fvirtual%2F2021%2Fspotlight%2F9708&sa=D&sntz=1&usg=AOvVaw0TkEiWZtdx4SYYkHe1nrBj",
+      "text": ""
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Improving_Robust_Generalization_by_Direct_PAC-Bayesian_Bound_Minimization_CVPR_2023_paper.html",
+      "text": "PDF"
+    },
+    {
+      "url": "https://www.google.com/url?q=https%3A%2F%2Fpdfhost.io%2Fv%2Fj.70G32Ng_CVPR23_TrH&sa=D&sntz=1&usg=AOvVaw0jN2SaIZWCL_Fbn4ovomX1",
+      "text": ""
+    },
+    {
+      "url": "https://sites.google.com/andrew.cmu.edu/kdd-2021-tutorial-expl-robust/",
+      "text": "homepage"
+    },
+    {
+      "url": "https://www.ardmediathek.de/video/weltspiegel/ki-besser-als-wir/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3dlbHRzcGllZ2VsLzIwMjMtMTItMTFfMjItNTAtTUVa",
+      "text": "Link"
+    },
+    {
+      "url": "/west.cmu.edu/zifan-wang/talks/gl-cmu-18661",
+      "text": "slides"
+    },
+    {
+      "url": "https://web.stanford.edu/class/cs329t/syllabus.html",
+      "text": "ink"
+    },
+    {
+      "url": "/west.cmu.edu/zifan-wang/talks/gl-standford-cs329t",
+      "text": "slides"
+    },
+    {
+      "url": "/west.cmu.edu/zifan-wang/talks/gl-uw-madison",
+      "text": "slides"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://lh5.googleusercontent.com/iOO-m2lWay7a-O4nGWQdZTUmMdzpkU17Z--EGGjG-FgpXOc-DxqoHJeYQ-eXuGLbrkit4YQ1AxnrwJar49CMBM3QgmAPSZe-_G49AZ-E4unlYmvxkvWn3-Osk6zMUNx2hg=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/ArTKfPSacc2Dii5GTydWJW6mjRjHZ0IIZ8Y5_FPGtTH1QUeWCpmlnp9T4WHFFsF12ECL7SQbpd4FRYkv2mXWclWPpgZfXSsgGBm7gXtH69I",
+      "alt": "Link"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/Q5W0TGmFDx1CizGESXZE9tgEBF5kP39NdSXqDfKCpKKL5zhVbvmTacDFOLPOplw9AUVRzPjEXZGbPAH_Vidpp4ZUnrXVP_rxNmKhGCkeuEY",
+      "alt": "Link"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-SWiML__0hAfmicEc6ZeBTQxpMXkO_1QCmycmCLdq4BV38ieiZ2A0ItCZ0hqpo2X_vUvQT5-n5mqm8l5tfEcn3tKzrAr1PHecypYezWCW_tdaPQXYO8WT12UtK2uKZpVZA=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/eY9YpNAaf3wn6kAWtHjGuFU-YAbm1eLq4Q9dJr0unZAImW0rghK2TdFN3MJ6H1CFGcD8UvlTqjSYR7EapfHQwbgcDbIW1ux_qS_O6G9TD49xmzBShb6ZyntryU_2kgsN0w=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://www.google.com/images/icons/product/drive-32.png",
+      "alt": ""
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/X3sVq4e956p0-sJbxL_zjD1vX6ivOo38V-nvL_SxyROqcvgY2Ae0gG58nweZw0WPxBX1MIFKcnGUBXQFlyW2NewyrYi27KsCt6YszZzOCkDtYL5rXjpWHvWcVSDTUJtmgA=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/kNLj_20B_WSfC1DT-pa72BvtzCHrmLcF6TfJYoD6LLAQabP-EMB0A5G1XiRnmCP-SUJ0JdJYyO3QNoMvn_4peNZQY604gLRJaBukC_49aNIpyQEFLHdDsGaFNeUVg7CieA=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://www.google.com/images/icons/product/drive-32.png",
+      "alt": ""
+    },
+    {
+      "src": "https://www.google.com/images/icons/product/drive-32.png",
+      "alt": ""
+    }
+  ]
+}

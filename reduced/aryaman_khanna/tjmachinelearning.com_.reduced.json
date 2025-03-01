@@ -1,0 +1,93 @@
+{
+  "title": "TJ Machine Learning Club",
+  "meta_description": "",
+  "main_content": "TJ Machine Learning Club Making AI more accessible TJ Student Research Conference Close Welcome to TJHSST Machine Learning! We are a group of students from Thomas Jefferson High School for Science and Technology who are interested in machine learning. In our beginner series, we provide fun and engaging lectures and competitions that introduce machine learning concepts. In our advanced series, we supplement and go beyond the content taught in the TJ ML Class. What We Do TJHSST Machine Learning Club aims to bring the complex and vast topic of machine learning to high school students. We teach a variety of topics, including SVMs, Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, and more. Competitions and Challenges We hold challenges every week to supplement the topics we cover in the lectures. Every so often, we have larger competitions, where everyone competes to produce the best solution to solve real world challenges using actual data. TJHSST Machine Learning also strongly encourages students to take part in external competitions to improve their knowledge. Sponsorship Information TJ Machine Learning Club is proud to be sponsored by Steamship and Yext . Interested in sponsoring TJ Machine Learning Club? View our sponsorship information , or contact us at tjmachinelearning@gmail.com . Leadership Sanchali Banerjee Captain GitHub Vatsal Sivaratri Captain GitHub Anurag Perakalapudi Teaching Coordinator GitHub Aneesh Kalla Teaching Coordinator GitHub Ishita Sengar Teaching Coordinator GitHub Previous Leadership 2023-2024 2022-2023 2021-2022 2020-2021 2019-2020 2018-2019 2017-2018 2016-2017 Aryaman Khanna Sauman Das Aarav Khanna Saahith Janapati Vinay Bhaip Sylesh Suresh Nikhil Sardana Rohan Suri Sritan Motati Arnav Jain Ron Nachum Charlie Wu Kevin Fu Alan Zheng Mihir Patel Nathaniel Choe Pranav Kuppa Eric Feng Irfan Nafi Caroline Sun Charlie Wu Joseph Rejive Justin Zhang Nikhil Sardana Sanchali Banerjee Aryaman Khanna Tarushii Goel Aarav Khanna Saahith Janapati Vinay Bhaip Sylesh Suresh Mihir Patel Vatsal Sivaratri Sritan Motati Sauman Das Contact Us Any questions? Email us at tjmachinelearning@gmail.com . Thanks!",
+  "links": [
+    {
+      "url": "TJSRC",
+      "text": "TJ Student Research Conference"
+    },
+    {
+      "url": "https://www.steamship.com/",
+      "text": "Steamship"
+    },
+    {
+      "url": "http://www.yext.com/",
+      "text": "Yext"
+    },
+    {
+      "url": "https://www.steamship.com/",
+      "text": ""
+    },
+    {
+      "url": "http://yext.com",
+      "text": ""
+    },
+    {
+      "url": "https://tjmachinelearning.com/res/sponsor/SponsorshipInformation.pdf",
+      "text": "sponsorship\n                    information"
+    },
+    {
+      "url": "mailto:tjmachinelearning@gmail.com",
+      "text": "tjmachinelearning@gmail.com"
+    },
+    {
+      "url": "http://github.com/sbanerjee4",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://github.com/vatsalsivaratri",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://github.com/AnuragP6",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://github.com/AneeshKalla",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://github.com/ishitasCS",
+      "text": "GitHub"
+    },
+    {
+      "url": "mailto:tjmachinelearning@gmail.com",
+      "text": "tjmachinelearning@gmail.com"
+    }
+  ],
+  "images": [
+    {
+      "src": "img/menu.png",
+      "alt": "Menu"
+    },
+    {
+      "src": "img/steamship_logo.png",
+      "alt": "image"
+    },
+    {
+      "src": "img/yext.svg",
+      "alt": "image"
+    },
+    {
+      "src": "images/sbanerjee-modified.png",
+      "alt": "Sanchali Banerjee"
+    },
+    {
+      "src": "images/vsivaratri-modified.png",
+      "alt": "Vatsal Sivaratri"
+    },
+    {
+      "src": "images/aperakalapudi-modified.png",
+      "alt": "Anurag Perakalapudi"
+    },
+    {
+      "src": "images/akalla-modified.png",
+      "alt": "Aneesh Kalla"
+    },
+    {
+      "src": "images/isengar-modified.png",
+      "alt": "Ishita Sengar"
+    }
+  ]
+}

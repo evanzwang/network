@@ -1,0 +1,49 @@
+{
+  "title": "Center for Undiagnosed Diseases",
+  "meta_description": "",
+  "main_content": "Center for Undiagnosed Diseases Apply to Our Program We are currently accepting applications. Visit our Apply page for more information! Apply Main content start Donate to the Stanford Center for Undiagnosed Diseases Dedicated to finding answers for people with rare disease and advancing our understanding of genetics. Donations are used to fund testing, evaluation, and travel to our facility. Learn More Dr. Euan Ashley Unlocks the Mysteries of the Human Genome Sequence Dr. Ashley breaks it all down in his new book The Genome Odyssey: Medical Mysteries and the Incredible Quest to Solve Them. Read More Living with a rare disease in the time of Covid-19 Rare disease families speak out on the unique challenges they\u2019ve faced during the pandemic. Read More The Anguish of the Unknown: Diagnostic Odysseys At the Stanford Center for Undiagnosed Diseases, doctors strive to find answers to families who can't find them anywhere else. Read More Back to Top",
+  "links": [
+    {
+      "url": "/apply",
+      "text": "Apply page"
+    },
+    {
+      "url": "https://gateway.undiagnosed.hms.harvard.edu/assets/start.html",
+      "text": "Apply"
+    },
+    {
+      "url": "/donate",
+      "text": "Learn More"
+    },
+    {
+      "url": "https://www.kpcw.org/post/dr-euan-ashley-unlocks-mysteries-human-genome-sequence#stream/0",
+      "text": "Read More"
+    },
+    {
+      "url": "https://www.npr.org/sections/health-shots/2022/01/26/1075549754/covid-disabled-immunocompromised",
+      "text": "Read More"
+    },
+    {
+      "url": "https://stanfordmag.org/contents/when-you-don-t-know-you-feel-alone-in-the-world",
+      "text": "Read More"
+    }
+  ],
+  "images": [
+    {
+      "src": "/sites/g/files/sbiybj25761/files/styles/breakpoint_2xl_2x/public/media/image/feature_home.jpg?itok=1qlXpMtG",
+      "alt": "Home"
+    },
+    {
+      "src": "/sites/g/files/sbiybj25761/files/styles/card_1900x950/public/media/image/card_home_genome_odessey_2.jpg?h=1820ef70&itok=44gsThXP",
+      "alt": "The Genome Odyssey"
+    },
+    {
+      "src": "/sites/g/files/sbiybj25761/files/styles/card_1900x950/public/media/image/card_home_disability_covid.jpg?h=d320664f&itok=R3E11keN",
+      "alt": "Rare Disease with Covid-19"
+    },
+    {
+      "src": "/sites/g/files/sbiybj25761/files/styles/card_1900x950/public/media/image/card_home_anguish_unknown_1.jpg?h=d320664f&itok=l0Mhnrx8",
+      "alt": "Anguish of the Unknown"
+    }
+  ]
+}

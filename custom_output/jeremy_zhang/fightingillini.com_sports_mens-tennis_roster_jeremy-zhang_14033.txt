@@ -1,0 +1,340 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+    Pause All Rotators
+  Begin comScore Tag
+  End comScore Tag
+      University of Illinois Athletics
+        <s-advert adSlotName="htlad-middle1"></s-advert>
+          Main Navigation Menu
+          ko if: false
+            [ALL-SPORT CALENDAR](/calendar)
+            [Baseball](/sports/baseball)
+            [Baseball: Facebook](https://www.facebook.com/FightingIlliniBaseball)
+            [Baseball: Twitter](//twitter.com/IlliniBaseball)
+            [Baseball: Instagram](//instagram.com/IlliniBaseball)
+            [Baseball: Schedule](/sports/baseball/schedule)
+            [Baseball: Roster](/sports/baseball/roster)
+            [Baseball: News](/sports/baseball/archives)
+            [Basketball](/sports/mens-basketball)
+            [Basketball: Facebook](http://www.facebook.com/IlliniBasketball)
+            [Basketball: Twitter](//twitter.com/IlliniMBB)
+            [Basketball: Instagram](//instagram.com/IlliniMBB)
+            [Basketball: Tickets](https://fightingillini.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=B&linkID=illinois&shopperContext=&caller=&appCode=)
+            [Basketball: Schedule](/sports/mens-basketball/schedule)
+            [Basketball: Roster](/sports/mens-basketball/roster)
+            [Basketball: News](/sports/mens-basketball/archives)
+            [Cross Country](/sports/mens-cross-country)
+            [Cross Country: Facebook](https://www.facebook.com/IlliniTrackXC/)
+            [Cross Country: Twitter](//twitter.com/IlliniTrackXC)
+            [Cross Country: Instagram](//instagram.com/IlliniTrackXC)
+            [Cross Country: Schedule](/sports/mens-cross-country/schedule)
+            [Cross Country: Roster](/sports/mens-cross-country/roster)
+            [Cross Country: News](/sports/mens-cross-country/archives)
+            [Football](/sports/football)
+            [Football: Facebook](http://www.facebook.com/IlliniFootball)
+            [Football: Twitter](//twitter.com/IlliniFootball)
+            [Football: Instagram](//instagram.com/IlliniFootball)
+            [Football: Tickets]( https://fightingillini.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=F&linkID=illinois&shopperContext=&caller=&appCode=&utm_source=fi.com&utm_medium=web&utm_campaign=f24tickets&utm_id=f24tickets&utm_content=f24sportnaviconsweb )
+            [Football: Schedule](/sports/football/schedule)
+            [Football: Roster](/sports/football/roster)
+            [Football: News](/sports/football/archives)
+            [Golf](/sports/mens-golf)
+            [Golf: Facebook](http://www.facebook.com/illinimgolf)
+            [Golf: Twitter](//twitter.com/IlliniMGolf)
+            [Golf: Instagram](//instagram.com/IlliniMGolf)
+            [Golf: Schedule](/sports/mens-golf/schedule)
+            [Golf: Roster](/sports/mens-golf/roster)
+            [Golf: News](/sports/mens-golf/archives)
+            [Gymnastics](/sports/mens-gymnastics)
+            [Gymnastics: Facebook](https://www.facebook.com/IlliniMGym)
+            [Gymnastics: Twitter](//twitter.com/IlliniMGym)
+            [Gymnastics: Instagram](//instagram.com/IlliniMGym)
+            [Gymnastics: Schedule](/sports/mens-gymnastics/schedule)
+            [Gymnastics: Roster](/sports/mens-gymnastics/roster)
+            [Gymnastics: News](/sports/mens-gymnastics/archives)
+            [Track & Field](/sports/mens-track-and-field)
+            [Track & Field: Facebook](https://www.facebook.com/IlliniTrackXC/)
+            [Track & Field: Twitter](//twitter.com/IlliniTrackXC)
+            [Track & Field: Instagram](//instagram.com/IlliniTrackXC)
+            [Track & Field: Schedule](/sports/mens-track-and-field/schedule)
+            [Track & Field: Roster](/sports/mens-track-and-field/roster)
+            [Track & Field: News](/sports/mens-track-and-field/archives)
+            [Tennis](/sports/mens-tennis)
+            [Tennis: Facebook](http://www.facebook.com/IllinimTennis)
+            [Tennis: Twitter](//twitter.com/IlliniMTennis)
+            [Tennis: Instagram](//instagram.com/IlliniMTennis)
+            [Tennis: Schedule](/sports/mens-tennis/schedule)
+            [Tennis: Roster](/sports/mens-tennis/roster)
+            [Tennis: News](/sports/mens-tennis/archives)
+            [Wrestling](/sports/wrestling)
+            [Wrestling: Facebook](http://www.facebook.com/IlliniWrestling)
+            [Wrestling: Twitter](//twitter.com/IlliniWrestling)
+            [Wrestling: Instagram](//instagram.com/IlliniWrestling)
+            [Wrestling: Schedule](/sports/wrestling/schedule)
+            [Wrestling: Roster](/sports/wrestling/roster)
+            [Wrestling: News](/sports/wrestling/archives)
+            [Soccer](/sports/womens-soccer)
+            [Soccer: Facebook](http://www.facebook.com/IlliniSoccer)
+            [Soccer: Twitter](//twitter.com/IlliniSoccer)
+            [Soccer: Instagram](//instagram.com/IlliniSoccer)
+            [Soccer: Schedule](/sports/womens-soccer/schedule)
+            [Soccer: Roster](/sports/womens-soccer/roster)
+            [Soccer: News](/sports/womens-soccer/archives)
+            [Softball](/sports/softball)
+            [Softball: Facebook](https://www.facebook.com/IlliniSoftball)
+            [Softball: Twitter](//twitter.com/IlliniSB)
+            [Softball: Instagram](//instagram.com/IlliniSB)
+            [Softball: Schedule](/sports/softball/schedule)
+            [Softball: Roster](/sports/softball/roster)
+            [Softball: News](/sports/softball/archives)
+            [Swim & Dive](/sports/womens-swimming-and-diving)
+            [Swim & Dive: Facebook](http://www.facebook.com/IlliniSwimming)
+            [Swim & Dive: Twitter](//twitter.com/IlliniSwimDive)
+            [Swim & Dive: Instagram](//instagram.com/IlliniSwimDive)
+            [Swim & Dive: Schedule](/sports/womens-swimming-and-diving/schedule)
+            [Swim & Dive: Roster](/sports/womens-swimming-and-diving/roster)
+            [Swim & Dive: News](/sports/womens-swimming-and-diving/archives)
+            [Volleyball](/sports/womens-volleyball)
+            [Volleyball: Facebook](http://www.facebook.com/illinivball)
+            [Volleyball: Twitter](//twitter.com/IlliniVBall)
+            [Volleyball: Instagram](//instagram.com/IlliniVBall)
+            [Volleyball: Tickets](https://fightingillini.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=VB&linkID=illinois&shopperContext=&caller=&appCode=&utm_source=fi.com&utm_medium=web&utm_campaign=vb24tickets&utm_content=mainnavigation)
+            [Volleyball: Schedule](/sports/womens-volleyball/schedule)
+            [Volleyball: Roster](/sports/womens-volleyball/roster)
+            [Volleyball: News](/sports/womens-volleyball/archives)
+            [Gameday Guide](https://fightingillini.com/feature/footballgamedayguide)
+            [Accessible Services](/sports/2022/8/11/football_accessible-services.aspx)
+            [Clear Bag Policy](/sports/2018/8/10/clear-bag-policy)
+            [Concessions Map](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/fightingillini.com/documents/2024/8/20/2024_concessions_website_image.pdf)
+            [Grange Grove](https://fightingillini.com/feature/grangegrove)
+            [Full-Service Tailgates](https://revelxp.com/Illinois?path=football)
+            [Know Before You Go FAQ](/sports/2015/7/31/football_gamedayguide)
+            [Parking Information](https://fightingillini.com/sports/2023/6/1/football-parking-information.aspx?path=football)
+            [Premium Seating](https://premiumseating.fightingillini.com/memorialstadium/?utm_source=web&utm_medium=FI.com)
+            [Seating Map](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/fightingillini.com/images/2023/2/21/Football_SeatingMap_2023_7uSwE.jpg?path=football)
+            [Promotions](/sports/2022/4/11/fighting-illini-promotions)
+            [Postgame Traffic Flow](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/fightingillini.com/images/2023/9/14/2023_Postgame_Traffic_Flow.png)
+            [Weekend Schedule](https://fightingillini.com/sports/2024/7/15/football-gameday-weekends.aspx)
+            [Fan Guide](/sports/2015/11/30/sfc_fanguide)
+            [RF Patio Rental](https://fevo-enterprise.com/group/IllinoisbaseballPatio?path=baseball)
+            [FamILLy First](https://fightingillini.com/feature/FamILLyFirst)
+            [All Sports Calendar](/calendar)
+            [Digital Ticketing](https://fightingillini.com/feature/digital-ticketing#faq)
+            [Employment Opportunities](https://fightingillini.com/sports/2018/3/9/illinois-athletics-employment-opportunities)
+            [Marketing & Promotions](/sports/2015/8/4/marketing)
+            [Fighting I Mail](https://app.fightingillini.com/signup)
+            [Fighting Illini App](https://fightingillini.com/feature/mobile-app)
+            [Social Media Directory](/sports/2015/5/23/socialmedia)
+            [Busey Bank Illini Sports Network (Radio)](/sports/2015/7/20/fightingillinisportsnetwork)
+            [Illinois on BTN](https://btn.com/school/illinois-fighting-illini/)
+            [Live/Archived Events](/watch)
+            [Photo Galleries](/galleries/)
+            [Podcast](/sports/2019/11/5/inside-fighting-illini-athletics-podcast)
+            [Posters & Record Books](https://fightingillini.com/auctions/index.aspx?category=6)
+            [Video Conference Backgrounds](/sports/2020/4/1/video-conference-backgrounds)
+            [YouTube](https://www.youtube.com/user/IlliniProductionsHD/featured)
+            [Book Event Spaces](https://uillinois_microsites.sidearmsports.com/rentals)
+            [Camps & Clinics](/sports/2015/3/24/camps)
+            [Cheerleading](/sports/cheerleading)
+            [Fan Council](/sports/2015/6/30/fancouncil)
+            [Fan Events](/sports/2023/3/23/fan-events.aspx)
+            [Kids Club](/sports/2015/3/24/kidsclub)
+            [Marching Illini](http://marchingillini.com)
+            [Oskee Pet Club](/sports/2020/8/20/oskee-pet-club)
+            [Oskee Wow Towels](/sports/2021/11/8/oskee-wow-towel)
+            [Student Tickets](https://fightingillini.evenue.net/cgi-bin/ncommerce3/EVExecMacro?linkID=illinois&evm=myac&msgCode=32000&shopperContext=ST&returnURL=%2Fcgi-bin%2Fncommerce3%2FSEGetGroupList%3FlinkID%3Dillinois%26groupCode%3D%26RSRC%3D%26RDAT%3D%26shopperContext%3DST&utm_source=web&utm_medium=FI.com&utm_campaign=F21Students&utm_content=FanNavigation)
+            [Student-Athlete Shoutouts & Appearances](https://opendorse.com/illinois-fightingillini)
+            [Gameday Experience](https://fightingillini.com/sports/2024/7/18/experiences.aspx?path=general)
+            [Tiny Illini](/sports/2019/8/9/illini-for-life)
+            [Birthday Parties](https://fightingillini.com/sports/2015/9/23/parties.aspx?path=general)
+            [Staff Directory](/staff-directory)
+            [History & Traditions](/sports/2018/3/22/traditions)
+            [Hall of Fame](/honors/hall-of-fame)
+            [News Archive](/sports/general/archives)
+            [Olympics](/sports/2016/2/15/fightingillini-olympics)
+            [Title IX at Illinois](/feature/titleIX)
+            [Academic Services](/sports/academic-services)
+            [Athletics Communication](/sports/2015/7/5/athscomm_staff)
+            [Compliance](/sports/2015/3/24/compliance)
+            [Diversity & Inclusion](https://fightingillini.com/sports/dei)
+            [Illinois Strength](/strength)
+            [DOORS OPEN Mental Wellness](/sports/2019/5/27/open-doors-home-illinois-athletics)
+            [Sports Medicine/Nutrition](/sports/2015/3/24/sportsmedicine)
+            [Corporate Sponsorships](/sports/2015/3/24/corporatesponsorships)
+            [Donation & Autograph Policy](/sports/2015/6/2/donation-autograph-policy)
+            [Facilities](/facilities)
+            [Facilities 360 Tour](https://illinois.athleticview.io/)
+            [Disclosure Documents](/sports/2021/12/2/disclosure-documents.aspx)
+            [Illini Executive Leadership Academy](https://fightingillini.com/sports/2024/7/12/illini-executive-leadership-academy.aspx)
+            [I Matter Program](/sports/2022/9/2/i-matter-program)
+            [NIL](/feature/illiniinfluence)
+            [Licensing](https://brand.illinois.edu/)
+            [Mission Statement](/sports/2015/3/24/missionstatement)
+            [Student-Athlete Handbook](/sports/2022/7/8/academics-student-athlete-handbook-master-page)
+            [Get Tickets](https://fightingillini.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=EOS&linkID=illinois&shopperContext=&caller=&appCode=&utm_source=fi.com&utm_medium=web&utm_content=fimainnavigation&utm_campaign=alltickets)
+            [Account Login](https://fightingillini.evenue.net/cgi-bin/ncommerce3/EVExecMacro?linkID=illinois&evm=myac&entry=myaccount.html&url=https%3A%2F%2Ffightingillini.evenue.net%2Fcgi-bin%2Fncommerce3%2FEVExecMacro%3FlinkID%3Dillinois%26evm%3Dmyac%26entry%3Dmain.html)
+            [Buy Tickets](https://fightingillini.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=EOS&linkID=illinois&shopperContext=&caller=&utm_source=fi.com&utm_medium=web&utm_campaign=alltickets&utm_content=fimainnavigation)
+            [Men's Basketball](https://fightingillini.com/sports/2023/1/2/tickets-mens-basketball)
+            [Women's Basketball](https://fightingillini.com/sports/2023/1/8/tickets-womens-basketball)
+            [Illinois Ticket Office](/sports/2022/4/12/tickets-home.aspx)
+            [Illini ERA](https://jointheifund.com/illini-era/)
+            [SeatGeek: Buy & Sell Fighting Illini Tickets](https://seatgeek.com/illinois-fighting-illini-football-tickets?aid=16090&pid=integration&rid=2&utm_medium=partnership&utm_source=illinois_sponsorship&utm_campaign=integration)
+            [Promo/Presale Code](https://fightingillini.evenue.net/cgi-bin/ncommerce3/EVExecMacro?linkID=illinois&evm=prmo&RSRC=&RDAT=&caller=PR&utm_source=fi.com&utm_medium=web&utm_campaign=promocode&utm_content=fimainnavigation)
+            [StateFarmCenter.com](http://statefarmcenter.com)
+            [Make A Gift](https://fightingillini.evenue.net/www/ev_illinois/ss/ev/DonationEntry?donationCd=25SEAT&siteId=ev_illinois&locale=en_US&linkID=illinois&utm_source=fi.com&utm_medium=web&utm_campaign=ifund25&utm_id=ifund25&utm_content=ifund25mainnavweb)
+            [Member Log In](https://fightingillini.evenue.net/signin?continue=%2Fwww%2Fev_illinois%2Fss%2Fev%2FManageMyDonations%3Fillinois%3Dillinois%26siteId%3Dev_illinois%26locale%3Den_US&utm_source=fi.com&utm_medium=web&utm_campaign=ifund24renewals&utm_id=ifund24&utm_content=fimainnavigation)
+            [Membership Benefits](https://jointheifund.com/benefits/)
+            [Capital Projects](https://jointheifund.com/facilities-projects/)
+            [Investors Society](https://jointheifund.com/investors-society/)
+            [ICON for Illini](https://www.iconforillini.com/)
+            [Opendorse Marketplace](https://opendorse.com/illinois-fightingillini)
+            [NIL Interest Form](https://app.fightingillini.com/2023NILInterest)
+            [Fighting Illini Store](https://store.fightingillini.com/?_s=bm_illini_shop_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Illini Gear Store Locator](https://fightingillini.com/feature/findillinigear)
+            [NIL Shop](https://urldefense.com/v3/__https://store.fightingillini.com/the-player-shop/x-16709226*z-9727695-3976068797?_s=bm_illini_2024_nil_player_shop_athletics_site&utm_source=illinois&utm_medium=referral&utm_term=illini_2024_nil_player_shop_athletics_site__;Kw!!DZ3fjg!93MljJKiZXfeTOjKHKvQkB5nUp6fBT-p86QHLcfYes-CX59L0BkvcNE_2BzwH2CmTeTG-JW53vGB6TA$)
+            [Nike Gear](https://store.fightingillini.com/br-76?_s=bm_illini_nike_gear_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [T-Shirts](https://store.fightingillini.com/illinois-fighting-illini/t-shirts/t-23735337+d-86885780+z-943-2796296372?_s=bm_illini_tshirts_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Jerseys](https://store.fightingillini.com/illinois-fighting-illini/jerseys/t-45286404+d-75336701+z-940-1650499836?_s=bm_illini_jerseys_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Collectibles](https://store.fightingillini.com/illinois-fighting-illini/collectibles-and-memorabilia/t-23841971+d-19440037+z-948-2847114760?_s=bm_illini_collectibles_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [State Farm Center Court Collectibles](https://artsmansport.com/collections/illinois-fighting-illini)
+            [Accessories](https://store.fightingillini.com/illinois-fighting-illini/accessories/t-34066460+d-20119945+z-957-2493057927?_s=bm_illini_accessories_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Sweatshirts](https://store.fightingillini.com/illinois-fighting-illini/sweatshirts/t-23950848+d-42116787+z-904-4031641913?_s=bm_illini_sweatshirts_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Hats](https://store.fightingillini.com/illinois-fighting-illini/hats/t-34958682+d-42556608+z-989-1646447860?_s=bm_illini_hats_athletics_link&utm_source=illinois&utm_medium=referral&utm_term=illini_athletics_link)
+            [Experiences](https://fightingillini.com/sports/2024/7/18/experiences.aspx)
+            [Auctions](https://fightingillini.com/auctions)
+            [Student-Athlete Appearances](https://opendorse.com/illinois-fightingillini)
+            [Video Board Shoutouts](https://fightingillini.com/auctions/index.aspx?category=10)
+          /ko
+          ko if: ko.observable().matchMedia("(max-width: 1024px)")
+        Sport Navigation Menu
+          [Men's Tennis](/index.aspx?path=mten)
+          [Home Live Stats & Video](/sports/2016/1/14/mtennis_livestatsvideo)
+          [Schedule](/sports/mens-tennis/schedule)
+          [Roster](/sports/mens-tennis/roster)
+          [Coaches](/sports/mens-tennis/coaches)
+          [Stats](/documents/2024/9/16/2024-25_MTEN_Season_Stats.pdf?path=mten)
+          [Photos](/galleries/mten/7)
+          [News](/sports/mens-tennis/archives)
+          2024-25 Men's Tennis Roster
+            Choose a Player:
+              Bowers, Tyler
+              Debru, Mathis
+              Guzauskas, Gabrielius
+              Miyoshi, Kenta
+              Mroz, Max
+              Mroz, William
+              Ozolins, Karlis
+              Viiala, Zach
+              Zhang, Jeremy
+            Go
+                Illinois Fighting Illini
+            Pause
+                  Jeremy
+                  Zhang
+                    Class
+                    Sophomore
+                    Height
+                    5-9
+                    Hometown
+                    Sydney, Australia
+                    High School
+                    The Scots College
+                    Instagram
+                    _jeremyzhang
+            Biography
+                    Singles
+                    Doubles
+                      Season
+                      Overall
+                      Big Ten
+                    2023-24
+                    17-9
+                    3-1
+                    3-4
+                    --
+                    2024-25
+                    8-12
+                    10-4
+                      Total
+                      25-21
+                      13-8
+              2024-25: Sophomore
+                Claimed his first dual singles win of the spring with a 6-4, 6-4 decision over Clemson's Viktor Markov at No. 3 singles in the Illini's 4-3 triumph over the Tigers (Feb. 15)
+                Helped Illinois win the doubles point against No. 14 Tennessee with a 6-4 win at No. 3 with Will Mroz against Alejandro Moreno/James Newton (Jan. 25)
+                With Will Mroz, was tabbed the Fighting Illini Invite Most Outstanding Doubles Team after going 2-0 in doubles play on Day 1 of the event (Jan. 17)
+                Finished the fall season with a 6-4 singles record and a 4-2 doubles mark
+                Posted a 3-1 record in singles play at the Notre Dame Mini Duals, with the three wins coming in straight sets (Nov. 1-3)
+              2023-24: Freshman
+                ITA Scholar Athlete
+                Had a 17-10 record in singles action and 3-4 mark in doubles play
+                Played in 19 matches in the spring
+                Competed at No. 4, 5, and 6
+                Went unbeaten in the final six matches of the season
+                Finished with a 3-1 singles record in Big Ten play
+                Earned his first Big Ten singles win in a 7-6 (5), 7-6 (2) decision over Wisconsin's Jason Hildebrandt on April 7
+                Has played doubles mostly with Tyler Bowers
+                Picked up first Illini win against Blake Roegner of Marquette, winning 6-3, 6-3 in the Milwaukee Tennis Classic on Sept. 22
+                Played 11 matches in the fall, earning a record of 8-3
+              High School/Club Stats
+                Career-high ITF rank 104
+                No. 1-ranked Australian in Class of 2005
+                Played 2023 Junior Australian Open and made the Round of 16 in doubles
+                Played for Australia at 2019 ITF World Junior Teams Asia/Oceania Qualifying, finishing second
+                Played at No. 1 spot for Scots College for Year 10, 11, 12
+                Won the GPS 1sts Premiership with Scots College three times (2019, 2021, 2022) for the first time in 40+ years
+                Played J1 Thailand and J1 Malaysia
+              Personal
+                Born on July 12, 2005
+                Parents are Daping Zhang and Lixia Song
+                Has one sibling, Daniel
+                Chose Illinois because of "the amazing tennis program as well as being really good academically. When I visited, I was blown away by the facilities and campus. I also really liked the coaches and decided it would be the place to be.”
+            Related Content
+              ko if: isLoading
+              ko ifnot: isLoading
+              ko if: stories().length === 0 && videos().length === 0 && photos().length === 0
+                There is no related content available.
+              ko if: stories().length > 0
+                Related Headlines
+                      ko if: image
+              ko if: pressclips().length > 0
+                Related Press Clips
+              ko if: videos().length > 0
+                Related Videos
+              ko if: photos().length > 0
+                Related Photos
+            Statistics
+                Season:
+              ko if: stats
+              ko with: stats
+              ko if: gamehigh_stats || current_stats
+              ko if: gamehigh_stats == null && current_stats == null
+                No statistics available for this season.
+              ko if: career_stats
+                Career Statistics
+              ko ifnot: (stats && career_stats)
+              There are no statistics available for this player.
+            Historical Player Information
+                        Freshman
+                      5'9"
+      Footer
+          ko if: ko.observable().matchMedia('(max-width:1024px)')
+            © 2025 University of Illinois Division of Intercollegiate Athletics
+            Bielfeldt Athletics Administration Building, 1700 S. Fourth Street, Champaign, IL 61820
+              [217-333-3631](tel:217-333-3631)
+              /
+              [Contact Us](/sb_output.aspx?form=18)
+          ko if: ko.observable().matchMedia('(min-width:1025px)')
+              [Terms of Service](http://sidearmsports.com/terms-of-service)
+                , opens in new window
+              [Privacy Policy](http://sidearmsports.com/privacypolicy)
+              [Accessibility](https://sidearmsports.com/accessibility-statement)
+                Learfield, opens a new window
+                Sidearm Sports Learfield, opens a new window
+          Ad Blocker Detected
+          Thanks for visiting
+          The use of software that blocks ads hinders our ability to serve you the content you came here to enjoy.
+          We ask that you consider turning off your ad blocker so we can deliver you the best experience possible while you are here.
+          Thank you for your support!
+      Close
+  BEGIN ControlTag for "Sidearm"
+  END ControlTag

@@ -1,0 +1,49 @@
+{
+  "title": "research | Kushal Thaman",
+  "meta_description": "a list of my pre-prints and publications, in reverse chronological order.",
+  "main_content": "also see Google Scholar . What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes Victor Lecomte*, Kushal Thaman* , Rylan Schaeffer, Naomi Bashkansky, Trevor Chow, and Sanmi Koyejo. Accepted as a poster at the Representational Alignment and BGPT workshops at the International Conference on Learning Representations (ICLR) , 2024. Abs Bib PDF Polysemantic neurons (neurons that activate for a set of unrelated features) have been seen as a significant obstacle towards interpretability of task-optimized deep networks, with implications for AI safety. The classic origin story of polysemanticity is that the data contains more \"features\" than neurons, such that learning to perform a task forces the network to co-allocate multiple unrelated features to the same neuron, endangering our ability to understand the network\u2019s internal processing. In this work, we present a second and non-mutually exclusive origin story of polysemanticity. We show that polysemanticity can arise incidentally, even when there are ample neurons to represent all features in the data, using a combination of theory and experiments. This second type of polysemanticity occurs because random initialization can, by chance alone, initially assign multiple features to the same neuron, and the training dynamics then strengthen such overlap. Due to its origin, we term this incidental polysemanticity. @article { 2312.03096 , author = {Lecomte*, Victor and Thaman*, Kushal and Schaeffer, Rylan and Bashkansky, Naomi and Chow, Trevor and Koyejo., Sanmi} , title = {What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes} , year = {2024.} , eprint = {arXiv:2312.03096} } Probabilistic Syllable Structure Emiyare Ikwut-Ukwa*, Kushal Thaman* , Annalisa Welinder*, Arto Anttila, and Giorgio Magri. Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL) , 2024. Abs Bib PDF What types of syllables are possible in a language? What types of syllables are favored? These two questions may initially seem independent but we show that they are deeply connected. Answers to both questions follow from the same phonological constraints given an appropriate theory of phonology. Building on a standard set of syllable structure constraints, we show that Optimality Theory (OT) predicts universals that are empirically supported whereas Maximum Entropy (ME) is so unrestrictive that no syllable is predicted to be universally worse than any other syllable, suggesting that in this respect ME fails as a theory of natural language phonology. Empirical support for our argument comes from a quantitative study of syllable structure in two genetically unrelated languages: Finnish and Dagaare. @article { 2312.forthcoming , author = {Ikwut-Ukwa*, Emiyare and Thaman*, Kushal and Welinder*, Annalisa and Anttila, Arto and Magri., Giorgio} , title = {Probabilistic Syllable Structure} , year = {2024.} , journal = {Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL)} , } An Analytic Model of Stable and Unstable Orbital Resonance Kushal Thaman , Viraj Jayam, Jeffrey Kim, Shaurya Jain, QiLin Xue, and Ashmit Datta. In 52nd Lunar and Planetary Science Conference , 2021. Abs The purpose of this paper is to develop a model for orbital resonance, both when it leads to unstable chaotic orbits and when it leads to stable configurations. The study of resonance is a great interest in astronomy as it can give clues to the formation of the early solar system by analyzing where certain objects are, and where there is a characteristic lack of objects. This paper applies elementary techniques from Newtonian mechanics to accurately and reliably predict the relative strengths of Kirkwood gaps in the main asteroid belt. It also builds off of prior work to create a more updated and complete approximation of the liberation period in stable resonant systems such as Saturn\u2019s moons, Titan and Hyperion. volunteer work: reviewer at ICLR 2024 Tiny Papers , NeurIPS 2024 , System-2 Reasoning At Scale Workshop @ NeurIPS 2024 , ICLR 2025 .",
+  "links": [
+    {
+      "url": "https://scholar.google.com/citations?user=89nZKJgAAAAJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2312.03096.pdf",
+      "text": "PDF"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1yLcHKRF9kcGaTxwDwxup4Ac8W0tfNdH5/view?usp=sharing",
+      "text": "PDF"
+    },
+    {
+      "url": "https://iclr.cc/Conferences/2024/CallForTinyPapers",
+      "text": "ICLR 2024 Tiny Papers"
+    },
+    {
+      "url": "https://neurips.cc/Conferences/2024/",
+      "text": "NeurIPS 2024"
+    },
+    {
+      "url": "https://s2r-at-scale-workshop.github.io/",
+      "text": "System-2 Reasoning At Scale Workshop @ NeurIPS 2024"
+    },
+    {
+      "url": "https://iclr.cc/Conferences/2025",
+      "text": "ICLR 2025"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/img/publication_preview/sparsity.png",
+      "alt": ""
+    },
+    {
+      "src": "/assets/img/publication_preview/syllabkle.png",
+      "alt": ""
+    },
+    {
+      "src": "/assets/img/publication_preview/orbital.png",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "San Diego Verbal Paired-Associates (SD-VPA) App",
+  "meta_description": "",
+  "main_content": "HOME Research Labs & Centers Sleep Research SD-VPA App San Diego Verbal Paired-Associates (SD-VPA) App San Diego Verbal Paired-Associates (SD-VPA) Task (\"this app\") by Chris Schmickl, Atul Malhotra, Ina Djonlagic, Christian Harding, Tyler Bath, Devanshi Jain, Cash Rice is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License . Spanish translations were created with help from Ricardo Osorio, Diego Quintana Licona, Katarina Martillo, Luisa Figueredo Atilano, and Andrew Varga. This app represents a continued development from: Djonlagic IE, Guo M, Igue M, Kishore D, Stickgold R, Malhotra A. CPAP Restores Declarative Memory Deficit in Obstructive Sleep Apnea. AJRCCM 2021 May 1;203(9):1188-1190 https://doi.org/10.1164/rccm.202011-4253LE . In brief, this app is designed to test sleep-dependent memory via semantically associated word pairs. There are two modes, training and testing. In our use case, participants complete the training mode in the evening, and the testing mode in the morning after a nights sleep. Training In training mode each word pair is displayed for several seconds, before moving on to the next pair. After viewing all pairs, the participant is then presented with a repeatable training test. In this test the participant is provided with feedback on if their answer is correct. The participant is asked to repeat this training test until achieving at least 60 percent of correct word pairs. After each test a csv file with the percent correct word pairs (scoring ignores letter case and leading/trailing spaces), meta information, and participant answers is downloaded. Testing This mode tests the participant without revealing the correct answer after each entry. The test is not repeatable. At the end of the test a csv file with the percent correct word pairs (scoring ignores letter case and leading/trailing spaces), meta information, and participant answers is downloaded. The primary outcome is the difference between the percent of correct word pairs during the morning test vs the final evening test. How to Use the SD-VPA App If you would like to use this app as is, you can simply use one of our existing deployments. Version 1.0: https://ucsdmalhotra.github.io/word-pairs-associate-2023-built/ Original version, mimicking very closely the original application used in Dr Djonlagic's study (see above). Contains 3 word lists (for legacy reasons called \"List One\", \"List Three\", and \"List Five\") to facilitate a baseline assessment followed by up to 2 follow up assessments. Difficulty level of lists may vary, thus randomization of the order in which participants complete the lists is strongly advised. Version 2.0: https://sd-vpa-task-v2.netlify.app/ Major differences compared with version 1.0: The original App used in Dr Djonlagic's study (see above) gave participants 10 seconds to enter the queried word pair, and after the 10 seconds were over delayed the time-out by 1 second after each key stroke to allow participants finishing the word that they are typing (i.e., extra time for slow typers). Version 1.0 had a hard cut-off after 10 seconds, whereas version 2.0 has the delayed time out built in. In addition to the original 3 word lists, we added three new ones (\"ALZ-OSA List One\", \"ALZ-OSA List Three\u201d, and \"ALZ-OSA List Five\"); note, while the original three lists are based on semantically related word-pairs, the 3 new lists contain word pairs that are not semantically related. The excel sheet which summarizes the results of each training/test run includes an extra row to indicate for each pair whether the answer was correct (0 No, 1 Yes). Version 2.1 : https://sd-vpa-task-v2-1.netlify.app/ Major differences compared with version 2.0: For each of the original three lists using semantically related word pairs (i.e., List One, List Three, and List Five) there is now a Spanish version, which were created with the help of several native speakers from Spain, Mexico and Columbia (for attributions please see the App website) who performed a back-and-forth translation. The csv files now include the version number (i.e., the header of column E lists now \"Training/Testing V2.1\u201d). Disclaimer This app has been designed and tested for use with a Google Chrome browser on a laptop (not ipad). This site/app may be changed without notice. If you have any questions, find any bugs, want complementary REDCap forms to collect the results from the app, or want to receive updates about potential changes in the app, then please contact Chris Schmickl at cschmickl@health.ucsd.edu . If possible, please also let us know if you publish results based on this app in a peer-reviewed journal so we can post an updated list of references for future users. This site/app are for general information purposes only. All information on this site/app are provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on this site/app. Under no circumstances shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of this site/app or reliance on any information provided on this site/app. Your use of this site/app and your reliance on any information on this site/app is solely at your own risk. Peer-reviewed Publications Using the SD-VPA App Coming soon Sleep Research About People Active Studies For Participants SD-VPA App Contact",
+  "links": [
+    {
+      "url": "../../../../about/index.html",
+      "text": "About"
+    },
+    {
+      "url": "../../../../about/welcome.html",
+      "text": "Welcome Letter"
+    },
+    {
+      "url": "../../../../about/leadership.html",
+      "text": "Leadership"
+    },
+    {
+      "url": "../../../../about/faculty/index.html",
+      "text": "Faculty"
+    },
+    {
+      "url": "../../../../about/practitioners.html",
+      "text": "Advanced Practice Practitioners"
+    },
+    {
+      "url": "../../../../about/fellows/index.html",
+      "text": "Our Fellows"
+    },
+    {
+      "url": "../../../../about/administrative-staff.html",
+      "text": "Administrative Staff"
+    },
+    {
+      "url": "../../../../about/contact.html",
+      "text": "Contact Us"
+    },
+    {
+      "url": "../../../../education/index.html",
+      "text": "Education"
+    },
+    {
+      "url": "../../../../education/pccm-fellowship/index.html",
+      "text": "PCCM Fellowship Program"
+    },
+    {
+      "url": "../../../../education/lung-transplant-fellowship.html",
+      "text": "Lung Transplant Fellowship"
+    },
+    {
+      "url": "../../../../education/interventional-pulmonology-applicants.html",
+      "text": "Interventional Pulmonology Fellowship Program"
+    },
+    {
+      "url": "../../../../education/physiology.html",
+      "text": "Physiology Opportunities"
+    },
+    {
+      "url": "../../../../education/conferences.html",
+      "text": "Conference Schedule"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Research"
+    },
+    {
+      "url": "../../../areas-programs/index.html",
+      "text": "Research Areas & Programs"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Labs & Centers"
+    },
+    {
+      "url": "../../../resources.html",
+      "text": "Resources"
+    },
+    {
+      "url": "../../../../patient/index.html",
+      "text": "Patient Information"
+    },
+    {
+      "url": "../../../../edi/index.html",
+      "text": "Equity, Diversity & Inclusion"
+    },
+    {
+      "url": "https://med.ucsd.edu/faculty-staff/index.html",
+      "text": "For Faculty & Staff"
+    },
+    {
+      "url": "../../../../give/index.html",
+      "text": "Give"
+    },
+    {
+      "url": "../../../../index.html",
+      "text": "HOME"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Research"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Labs & Centers"
+    },
+    {
+      "url": "../index.html",
+      "text": "Sleep Research"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+    },
+    {
+      "url": "https://doi.org/10.1164/rccm.202011-4253LE",
+      "text": "https://doi.org/10.1164/rccm.202011-4253LE"
+    },
+    {
+      "url": "https://ucsdmalhotra.github.io/word-pairs-associate-2023-built/",
+      "text": "https://ucsdmalhotra.github.io/word-pairs-associate-2023-built/"
+    },
+    {
+      "url": "https://sd-vpa-task-v2.netlify.app/",
+      "text": "https://sd-vpa-task-v2.netlify.app/"
+    },
+    {
+      "url": "https://sd-vpa-task-v2-1.netlify.app/",
+      "text": "https://sd-vpa-task-v2-1.netlify.app/"
+    },
+    {
+      "url": "mailto:cschmickl@health.ucsd.edu",
+      "text": "cschmickl@health.ucsd.edu"
+    },
+    {
+      "url": "../index.html",
+      "text": "Sleep Research"
+    },
+    {
+      "url": "../about/index.html",
+      "text": "About"
+    },
+    {
+      "url": "../people/index.html",
+      "text": "People"
+    },
+    {
+      "url": "../active-studies/index.html",
+      "text": "Active Studies"
+    },
+    {
+      "url": "../participants/index.html",
+      "text": "For Participants"
+    },
+    {
+      "url": "../contact/index.html",
+      "text": "Contact"
+    }
+  ],
+  "images": []
+}

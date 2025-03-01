@@ -1,0 +1,875 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>NSLondon</title>
+
+    <link rel="stylesheet" href="minimal/stylesheets/styles.css">
+    <link rel="stylesheet" href="minimal/stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <style>
+      @media (prefers-color-scheme: dark) {
+        h1 {
+          color:#F3EFFF;
+        }
+        h2, body {
+          color:#E8E0FF;
+        }
+        hr {
+          background-color:dimgray;
+        }
+        body {
+          background-color:#180236;
+        }
+        video, iframe {
+          border: 1px solid darkgray;
+        }
+        a {
+          color:#a977fa;
+        }
+        a:hover {
+          color:#7b3dde;
+        }
+      }
+      @media (prefers-color-scheme: light) {
+        h1 {
+          color:#260554;
+        }
+        h2, body {
+          color:#593887;
+        }
+        hr {
+          background-color:lightgray;
+        }
+        body {
+          background-color:#FDFCFF;
+        }
+        video, iframe {
+          border: 1px solid black;
+        }
+        a {
+          color:#904bff;
+        }
+        a:hover {
+          color:#6534b4;
+        }
+      }
+      a {
+        font-weight:400;
+        text-decoration:none;
+      }
+      body {
+        font:15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+    </style>
+    
+    <!-- Icons -->
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="./meta/favicon.ico" />
+
+    <!-- Apple/Safari icon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="./meta/apple-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="./meta/apple-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="./meta/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="./meta/apple-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="./meta/apple-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="./meta/apple-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="./meta/apple-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="./meta/apple-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./meta/apple-icon-180x180.png" />
+
+    <!-- Android Chrome -->
+    <link rel="icon" type="image/png" sizes="192x192" href="./meta/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="./meta/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./meta/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./meta/favicon-16x16.png" />
+
+    <!-- END Icons -->
+
+  </head>
+
+  <body>
+
+    <div class="wrapper">
+      <header>
+        <h1>NSLondon</h1>
+        <p>A group for iOS and Mac developers who want to explore all that's
+        new and fascinating in Apple development. Expect deep dives and
+        bleeding edge stuff.</p>
+
+        <p>We meet quarterly in London. For updates on new events, <a href="https://www.meetup.com/NSLondon/" target="_blank">join the Meetup group</a> or follow us on <a href="https://mastodon.social/@NSLondonMeetup" target="_blank">Mastodon</a>, <a href="https://twitter.com/NSLondonMeetup" target="_blank">X/Twitter</a>, <a href="https://uk.linkedin.com/company/nslondon" target="_blank">LinkedIn</a>, or <a href="https://www.youtube.com/channel/UCegKOBw05hygFj0eJB-4lPw" target="_blank">YouTube</a>.</p>
+
+        <p>If you are interested in speaking at a future event, then please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLScbmLmjK9jOyNS9pWYLmHHMsyM6zPABi0B5HdsUkdj2bN22rA/viewform" target="_blank">our speaker proposal form</a>. We welcome first-time speakers and want to help you get started.</p>
+
+        <!--To maybe protect from email scrapers, this has been encoded with http://hivelogic.com/enkoder/-->
+        <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<78)y++;" +
+"y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\")$=6#04" +
+"3\\177\\007K\\035N\\022\\035\\014\\035Q\\032Y\\030DY_,mh;p$`k~u`~4v!qL\\031" +
+"SNAFI\\006H\\034W^YH\\177Q$'\\0052`&c\\177c{ukncu%\\024\\020\\035\\035\\020" +
+"AV\\024V\\002DM\\035I\\016\\027\\024\\002\\024\\020Q\\037R\\007\\000\\003fn" +
+"p+m8j*92c51=5f=<;h{>+o6zrzn\\\\j7I\\010\\031^V@RRZG\\nD\\002^[MCE@\\033\\00" +
+"4\\031Y[\\021\\002G]\\024\\037\\027\\014vm\\036a\\003\\016\\007\\027\\022\\" +
+"000|{|\\021\\022\\025\\030\\014\\036cfe\\n\\013\\007\\nikl\\001\\002mPQ>?ST" +
+"V;4,^[\\\\12Y@A./@DF+$\\r&'\\010!\\\"t]^465Z[zUVW.QR9!!NO $&KD*!.`2%f\\013}" +
+"\\000\\177xS\\037\\032\\032\\026\\036EA\\037\\034\\037lm\\022\\020\\034Q\\0" +
+"21\\020\\033\\021\\020\\023\\014\\021\\017\\017p\\035\\036l\\027\\027\\036\\"+
+"023yyz\\027\\020\\030\\003\\033\\016\\006\\nefe\\n\\0137nkk\\000\\001\\t\\n" +
+"='\\020?8(QUX56\\00501\\\"462;'GEF+$OKK !+N{j{8p}>?>;WPt98!MNrsil&zy4q~\\17" +
+"7`dGVTSS\\006JNv\\030\\031\\033pq\\037\\034\\000mn\\004\\005\\005jkLef\\017" +
+"\\017\\rbc.\\035\\036qvu\\032\\033zyz\\027\\020~}\\177\\014\\rg`d\\t\\n\\00" +
+"4okj\\007\\000nno<=SQT9:(XYZ70_^_,-GCD)*@KI&'OLN\\\\]004YZ689VWxQR8 !NO&%&K" +
+"D/(+@A*.\\020}~a\\027\\027\\026{t\\034\\030\\033pq\\036\\010M\\037\\006I\\0" +
+"30\\002\\030A\\013\\014\\t\\013`aScb\\035\\036.6\\\"ffavips$|dq\\177e\\017v" +
+"\\t\\nx\\003\\005xs: e0@\\017\\020\\026\\020\\000\\024\\032S@C@G\\024F1Y\\0" +
+"30Z\\0075\\020\\022\\030;\\013\\033\\023\\037S\\006(dflGwgoKdeyj#iaycf@)>y," +
+"/++&9d%-\\035\\013[\\n\\r\\\\\\r\\024\\036\\001\\024B\\004KGT\\031\\032\\03" +
+"1Z\\017Y\\n^\\003\\t\\007R\\024OQY{)6$* *i0t&g\\020o\\022mm>~:t'7!#p#w$u8\\" +
+"177\\016\\016\\013\\027\\007\\013\\023\\001J@\",78)"                         ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+
+        <p><a href="coc.html">Code of Conduct</a></p>
+      </header>
+
+      <section>
+
+        <h1>2025.1 at Goodnotes</h1>
+
+        <h2>Aleksandr Filimonov — What Disney Taught Us About iOS Animations</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/ECTrcZX8OEk">
+          </iframe></p>
+
+        <h2>Bret Cheng — How Goodnotes serves more than 25M monthly active users with local-first architecture</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/LtYt6uVH6iM">
+          </iframe></p>
+
+        <br>
+
+        <hr>
+
+        <h1>2024.7 at Vonage</h1>
+
+        <h2>Abizer Nasir — The Epiphanies of Advent of Code</h2>
+
+        <h2>Abdul Ajetunmobi — Vonage Trivia Challenge: Quiz Your Way to the Top!</h2>
+          <br>
+
+        <h1>2024.6 at Apple Battersea</h1>
+
+        <h2>Oliver Binns — Check Yo' Device</h2>
+
+        <h2>Rebecca Owen — The Indie Development Journey: Beyond Code; From Zero to App Store Featured in 12 Months</h2>
+          <br>
+
+        <h1>2024.5 at NewDay</h1>
+
+        <h2>Juan Marin & Sergio Padron — How we've built and scaled 17 apps from 1 codebase at NewDay</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/hpspkFmpRIg">
+          </iframe></p>
+
+        <h2>Raul Menezes — Scaling Bumble's Design System: The Bumble-SwiftUI Solution</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/HAH1VclQm0I">
+          </iframe></p>
+
+        <h2>Andrea Antonioni — The Evolution of Yelp iOS Search</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/QHtK9Jgc5ac">
+          </iframe></p>
+          <br>
+
+        <h1>It's Glowtime at Deloitte Digital</h1>
+
+        <h2>September Event Keynote viewing party</h2>
+          <br>
+
+        <h1>2024.4 at Google</h1>
+
+        <h2>Peter Friese — How I used Firebase, Gemini, Genkit, and Siri to build a second brain</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/psvParxPomQ">
+          </iframe></p>
+
+        <h2>Jacob Bartlett — My Toddler Loves Planes, So I Built Her A Radar</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/bRuvPHZkHrw">
+          </iframe></p>
+
+        <h2>Ross Butler — Synthetic Testing in Server-Side Swift</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/VA1hCFZS_Fg">
+          </iframe></p>
+          <br>
+
+        <h1>WWDC24 at Deloitte Digital</h1>
+
+        <h2>Keynote viewing party</h2>
+          <br>
+
+        <h1>2024.3 at Capital One</h1>
+
+        <h2>Anastasia Petrova — Hidden engineering costs and complexities of A/B testing</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/GyJkn4GMiE8">
+          </iframe></p>
+          
+        <h2>Adam Fallon — Trainline's path to production with Gen AI</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/rL0bKWH1U60">
+          </iframe></p>
+          
+        <h2>Richard Das — Engineering Fitness with AirPods & Pushups</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/zSPrffdxxuY">
+          </iframe></p>
+          <br>
+
+        <h1>2024.2 at Monzo</h1>
+
+        <h2>Markos Zoulias Charatzas — Debugging Closed Source Code - A whodunnit mystery</h2>
+          
+        <h2>Mohamed El Eryan — Spatial Shift: Navigating the Future of Business in the Era of Spatial Computing</h2>
+          <br>
+
+        <h1>2024.1 at Trainline</h1>
+
+        <h2>Phil Nash — Rewiring your brain, with Test Driven Thinking</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/xfMmfwXourM">
+          </iframe></p>
+          
+        <h2>Marcel Mierzejewski — Redefining Crypto in Revolut 10: A Case of Pragmatic iOS Development</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/4EFAnKlEwHI">
+          </iframe></p>
+          <br>
+        
+        <hr>
+          
+        <h1>2023.5 at Onfido</h1>
+
+        <h2>Rahul Amin — Onfido Demo</h2>
+        
+        <h2>Muralidharan Kathiresan — How to Create a Good Pull Request - and How to Review One?</h2>
+        
+        <h2>Nikita Maidanov — How to Get More In-App Subscriptions</h2>
+
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/nYbTJersudk">
+          </iframe></p>
+          <br>
+        
+        <h1>Wonderlust at Deloitte Digital</h1>
+
+        <h2>September Event Keynote viewing party</h2>
+          <br>
+
+        <h1>2023.4 at Ford</h1>
+
+        <h2>Simon Leigh — Ditto: Next-Level Mobile Connectivity, Offline-First Database and Peer-to-Peer Sync for Uninterrupted App Performance</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/0xZzsfk4Zqc">
+          </iframe></p>
+
+        <h2>Haz Hubble — Building an AI concierge</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/AEnUfLlxAS0">
+          </iframe></p>
+        
+        <h2>Tony Short — The First Thing That is Useful</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/ohrRlFY7M5c">
+          </iframe></p>
+          <br>
+
+        <h1>2023.3 at Monzo</h1>
+
+        <h2>Jonathan Crooke — Scaling iOS at Bumble</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/_9VZb1m_EVQ">
+          </iframe></p>
+        
+        <h2>Freddie Nicholson — Swift Playgrounds in the classroom with Bouncer</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/FUb5gluUbRY">
+          </iframe></p>
+
+        <h2>Jacob Bartlett — SwiftUI at scale</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/oDhxMpNaIXw">
+          </iframe></p>
+          <br>
+
+        <h1>2023.2 at AWS</h1>
+
+        <h2>Sebastien Stormacq — Swift, Serverside, Serverless</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/ZLL4_GnlGWI">
+          </iframe></p>
+        
+        <h2>Andrea Scuderi — Serverless in Swift Like a Breeze</h2>
+        <p><iframe width="500" height="282"
+          src="https://www.youtube.com/embed/D4qSv_fhQIo">
+          </iframe></p>
+          <br>
+
+        <h1>WWDC23 at Deloitte Digital</h1>
+
+        <h2>Keynote viewing party</h2>
+          <br>
+          
+        <h1>2023.1 at Just Eat</h1>
+
+        <h2>Tanin Rojanapiansatith — iOS Accessibility — Why/What/How?</h2>
+        <p><iframe width="500" height="282"
+        src="https://www.youtube.com/embed/RlmRXAn9upg">
+        </iframe></p>
+          
+        <h2>Pete Heslop — The Smart Creatives</h2>
+        <p><iframe width="500" height="282"
+        src="https://www.youtube.com/embed/UXO-Lkfdoa4">
+        </iframe></p>
+          <br>
+        
+        <hr>
+          
+        <h1>2022.3 at Bumble</h1>
+
+        <h2>Nikita Mounier — The Composable Architecture… as a high school student</h2>
+        <p><iframe width="500" height="282"
+        src="https://www.youtube.com/embed/jM2BZqFdVdA">
+        </iframe></p>
+          
+        <h2>Anurag Ajwani — Modular iOS</h2>
+        <p><iframe width="500" height="282"
+        src="https://www.youtube.com/embed/EqfK2vekYjs">
+        </iframe></p>
+          <br>
+          
+        <h1>2022.2 at Cuvva</h1>
+
+        <h2>Andrew Hart — Building a Spatial Experience: Best practices with AR</h2>
+        <!-- wrXWT26e4Qo -->
+          
+        <h2>Aadil Qureshi — iOS to fight Climate Change</h2>
+          <br>
+          
+        <h1>2022.1 at Deloitte Digital</h1>
+
+        <h2>Oliver Binns — Scaling Mobile for a Global Pandemic</h2>
+          
+        <h2>Pranav Kasetti — Exploring Swift Collections</h2>
+          <br>
+        
+        <hr>
+
+        <h1>2021.4 at GoodNotes</h1>
+
+        <h2 id="bruno-bilescky-scaling-your-app">Bruno Bilescky — Scaling your app</h2>
+        <p><video src="https://dl.dropbox.com/s/rf1t9kte1mee9in/Bruno%20Bilescky%20-%20Scaling%20your%20app.mp4" poster="poster-images/Bruno%20Bilescky%20-%20Scaling%20your%20app.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="jacob-bartlett-clean-networking-with-combine">Jacob Bartlett — Clean Networking with Combine</h2>
+        <p><video src="https://dl.dropbox.com/s/pz57oc9935juki4/Jacob%20Bartlett%20-%20Clean%20Networking%20with%20Combine.mp4" poster="poster-images/Jacob%20Bartlett%20-%20Clean%20Networking%20with%20Combine.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="abdul-ajetunmobi-quick-intro-to-shazamkit">Abdul Ajetunmobi — Quick intro to ShazamKit</h2>
+        <p><video src="https://dl.dropbox.com/s/xccwd4yuv2dpz4c/Abdul%20Ajetunmobi%20-%20Quick%20intro%20to%20ShazamKit.mp4" poster="poster-images/Abdul%20Ajetunmobi%20-%20Quick%20intro%20to%20ShazamKit.jpg" preload="none" width="100%" controls playsinline></video></p>
+          <br>
+
+        <h1>2021.3 on Zoom</h1>
+
+        <h2 id="yahya-saddiq-swift-memory-management-and-debugging">Yahya Saddiq — Swift Memory Management and Debugging</h2>
+        <p><video src="https://dl.dropbox.com/s/enkhe0jjzhfzk7k/Yahya%20Saddiq%20-%20Memory%20Management%20and%20Debugging.mp4" poster="poster-images/Yahya%20Saddiq%20-%20Memory%20Management%20and%20Debugging.jpg" preload="none" width="100%" controls playsinline></video></p>
+          <br>
+
+        <h1>2021.2 on Zoom</h1>
+        
+        <h2>Pranav Kasetti — Exploring Swift Algorithms</h2>
+          <br>
+
+        <h1>2021.1 on Zoom</h1>
+          <br>
+
+        <hr>
+
+        <h1>2020.4 on Zoom</h1>
+          <br>
+        
+        <h1>2020.3 on Zoom</h1>
+
+        <h2 id="andrea-scuderi-aws-lambda-in-swift">Andrea Scuderi — AWS Lambda in Swift</h2>
+        <p><video src="https://dl.dropbox.com/s/zyvmud4e2dcc6rg/Andrea%20Scuderi%20-%20AWS%20Lambda%20in%20Swift.mp4" poster="poster-images/Andrea%20Scuderi%20-%20AWS%20Lambda%20in%20Swift.jpg" preload="none" width="100%" controls playsinline></video></p>
+          <br>
+
+        <h1>2020.2 on Zoom</h1>
+          <br>
+
+        <h1>Q1 2020 at Bloomberg</h1>
+
+        <h2>Marcin Iwanicki & Kas Wridan — Beyond Unit Tests</h2>
+          
+        <h2>Finlay Dobbie — A whirlwind tour of Unicode</h2>
+          <br>
+
+        <hr>
+
+        <h1>Mini at Yoyo</h1>
+
+        <h2>Angela Yu — Best Practices with Google Maps Platform in iOS</h2>
+          
+        <h2>Kas Wridan — The grey areas of UI testing</h2>
+          <br>
+
+        <h1>Q4 2019 at Revolut</h1>
+
+        <h2>Diomidis Papas — Decomposing an iOS application into modules</h2>
+          
+        <h2>Lightning Talks</h2>
+        <h2>Ross Butler — Solving the captive portal problem on iOS</h2>
+        <h2>Abdul Ajetunmobi — How giving up control can actually be smart</h2>
+        <h2>Daniel Tull — I've got a brand new Combine publisher</h2>
+        <h2>Aled Samuel — Seeing in the Dark</h2>
+          <br>
+
+        <h1>Q3 2019 at The MediaWorks</h1>
+
+        <h2>Rob Whitaker — Mobile Digital Inclusion - Accessibility Without the 'V' Word</h2>
+          
+        <h2>Jonathan Rothwell — So you can sleep at night — Ethics in software engineering</h2>
+          <br>
+
+        <h1>Q2 2019 at Capital One</h1>
+
+        <h2>Paul Hudson — Understanding the Standard Library</h2>
+          
+        <h2>Sam Stone — Hacking the iOS Simulator</h2>
+          <br>
+
+        <h1>Mini with Orta Therox at Finch's</h1>
+          <br>
+
+        <h1>iOS Women, Queer, Trans & Non-Binary Breakfast at Carluccio's</h1>
+          <br>
+
+        <h1>Q1 2019 at Trainline</h1>
+
+        <h2 id="matthew-hasler-and-oliver-poole-ui-testing-without-the-ui">Matthew Hasler and Oliver Poole — UI testing without the UI</h2>
+        <p><video src="https://dl.dropbox.com/s/5x4wathj2j6hhqr/Matthew%20Hasler%20and%20Oliver%20Poole%20-%20UI%20testing%20without%20the%20UI.mp4" poster="poster-images/Matthew%20Hasler%20and%20Oliver%20Poole%20-%20UI%20testing%20without%20the%20UI.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="joshua-garnham-pushing-protocols-to-their-limits">Joshua Garnham — Pushing Protocols to Their Limits</h2>
+        <p><video src="https://dl.dropbox.com/s/zj135klu3mb0nd7/Joshua%20Garnham%20-%20Pushing%20Protocols%20to%20Their%20Limits.mp4" poster="poster-images/Joshua%20Garnham%20-%20Pushing%20Protocols%20to%20Their%20Limits.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="douglas-hill-full-keyboard-control-in-ios-apps">Douglas Hill — Full keyboard control in iOS apps</h2>
+        <p><video src="https://dl.dropbox.com/s/8zb2imohlwi0c3u/Douglas%20Hill%20-%20Full%20keyboard%20control%20in%20iOS%20apps.mp4" poster="poster-images/Douglas%20Hill%20-%20Full%20keyboard%20control%20in%20iOS%20apps.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="sam-clewlow-a-brave-new-mobile-world">Sam Clewlow — A brave new mobile world</h2>
+        <p><video src="https://dl.dropbox.com/s/0ys191zci21ayd8/Sam%20Clewlow%20-%20A%20brave%20new%20mobile%20world.mp4" poster="poster-images/Sam%20Clewlow%20-%20A%20brave%20new%20mobile%20world.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <hr>
+
+        <h1>Q3.5 2018 at Deliveroo</h1>
+
+        <h2 id="jessica-rose-burnout-and-balance">Jessica Rose — Burnout and Balance</h2>
+        <p><video src="https://dl.dropbox.com/s/go0bp8rjnxnmhds/Jessica%20Rose%20-%20Burnout%20and%20Balance.mp4" poster="poster-images/Jessica%20Rose%20-%20Burnout%20and%20Balance.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="carla-goldstein-dynamic-uitableviews-dos-and-donts">Carla Goldstein — Dynamic UITableViews do’s and don’ts</h2>
+        <p><video src="https://dl.dropbox.com/s/scueghkajo7jzpg/Carla%20Goldstein%20-%20Dynamic%20UITableViews%20do%E2%80%99s%20and%20don%E2%80%99ts.mp4" poster="poster-images/Carla%20Goldstein%20-%20Dynamic%20UITableViews%20do%E2%80%99s%20and%20don%E2%80%99ts.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h2 id="daniel-leivers-graphql-for-mobile-developers">Daniel Leivers — GraphQL for mobile developers</h2>
+        <p><video src="https://dl.dropbox.com/s/ltmba6ctbs7ke00/Daniel%20Leivers%20-%20GraphQL%20for%20mobile%20developers.mp4" poster="poster-images/Daniel%20Leivers%20-%20GraphQL%20for%20mobile%20developers.jpg" preload="none" width="100%" controls playsinline></video></p>
+
+        <h1>Q2 2018 at Facebook</h1>
+
+        <h2>Meghän Kane — The State of ML for iOS… On the Advent of WWDC 2018 🕯🤓</h2>
+          
+        <h2>John Sundell — The Magic of UI Testing</h2>
+          <br>
+
+        <h1>Mini with Orta at Artsy Happy Hour</h1>
+          <br>
+
+        <h1>Mini with @Vixentael at The Black Dog</h1>
+          <br>
+
+        <h1>Q1 2018 at Google</h1>
+
+        <h2>Maxim Cramer — Code, Culture, and Colleagues</h2>
+          
+        <h2>Graham Lee — Object-Oriented Programming in Functional Programming in Swift</h2>
+          <br>
+
+        <hr>
+
+        <h1>October 2017 at Facebook</h1>
+
+        <h2>Johannes Weiß — Demystifying Copy-on-Write in Swift</h2>
+          
+        <h2>Thomas Paul Mann — Building AR Studio</h2>
+          <br>
+
+        <hr>
+
+        <h1>NSLondon & Swift London Xmas special at Skills Matter at CodeNode</h1>
+
+        <h2>Samuel Giddins — Understanding Why Strings are Evil</h2>
+          
+        <h2>Lightning Talks</h2>
+        <h2>Abizer Nasir — Empathy isn't enough</h2>
+
+        <h2>Special live stream talk</h2>
+        <h2>Chris Eidhof</h2>
+          <br>
+
+        <h1>November 2016 at WeWork</h1>
+
+        <h2>Oliver Wang Hansen — Server Side Swift</h2>
+            
+        <h2>Miguel Angel Quinones — Minimum Viable Tooling</h2>
+
+        <h2>David Okun — From C++ to Swift - Modern Cross-Platform SDKs</h2>
+          <br>
+
+        <h1>October 2016 at onefinestay</h1>
+
+        <h2>Christopher Stott — Building buddybuild</h2>
+            
+        <h2>Michael May & Naveen Lingaiah — Mentorship</h2>
+          <br>
+
+        <h1>September 2016 at WeWork</h1>
+
+        <h2>Maxim Cramer — Emissions and Extractions: A Tale of React Native on iOS</h2>
+              
+        <h2>Sam Dods — Advanced Notifications: Rapid Prototyping and Server-side Swift</h2>
+          <br>
+
+        <h1>August 2016 at onefinestay</h1>
+
+        <h2>Jacek Lampart — Re-Swift Swifty Redux framework</h2>
+                
+        <h2>Dani Tomlinson — Real World Swift Performance</h2>
+          <br>
+
+        <h1>July 2016 at Net A Porter</h1>
+
+        <h2>Juan Delgado — Product vs Craft</h2>
+                 
+        <h2>Kyle Fuller — Testing without Xcode</h2>
+          <br>
+
+        <h1>June 2016 at Yammer</h1>
+
+        <h2>Eduardo Aguilar — Overcoming technical difficulties</h2>
+                   
+        <h2>Honza Dvorsky — Swift package manager</h2>
+
+        <h2>Rob Elkin — AltConf: Behind the scenes</h2>
+          <br>
+
+        <h1>May 2016 at Hired at Metal Box Factory</h1>
+
+        <h2>Romaine Reid — Utilising Motion Design to Enhance Your App</h2>
+                     
+        <h2>Roy Marmelstein — Scandal and Controversy in iOS Development</h2>
+          <br>
+
+        <h1>April 2016 at Not On The High Street</h1>
+
+        <h2>Michael May — The empathetic programmer</h2>
+                     
+        <h2>Marisa Montaldi — Designing for people on the autistic spectrum</h2>
+
+        <h2>Dani Tomlinson — Building APIs in Swift</h2>
+          <br>
+
+        <h1>March 2016 at Pivotal Labs</h1>
+
+        <h2>Johannes Weiß — Technical detail behind the apple-FBI case</h2>
+                     
+        <h2>Daniel Haight — Implementing a code injection framework</h2>
+
+        <h2>Simon Gladman — Advanced image processing with Core Image</h2>
+          <br>
+
+        <h1>February 2016 at Just Eat</h1>
+
+        <h2>Raimon Lapuente & Gergely Orosz — Sorry Objc It's not you, it's me</h2>
+            
+        <h2>Maxim Cramer — Live Design: 🎙🎨</h2>
+          <br>
+  
+        <h1>January 2016 at Thomson Reuters</h1>
+
+        <h2>Mannie Tagarira — Code Reviews</h2>
+
+        <h2>Lightning Talks</h2>
+        <h2>Bohdan Orlov — iOS Architecture Patterns</h2>
+        <h2>Mark Szulyovszky — Quick introduction to RFP with zero theory</h2>
+        <h2>Rheese Burgess — Using elm/react inspired architecture to build Cocoa apps in a functional way</h2>
+        <h2>Emily Toop — Diagnosing Allergies</h2>
+
+        <h2>Ron Herrema — Developing Sophisticated iOS Audio projects with libpd</h2>
+        <h2>Shane Reid — Performance issues at Grabble</h2>
+        <h2>Thomas Catterall — Crash Your App: Five Tips In Five Minutes For Building a Stable App</h2>
+          <br>
+
+        <hr>
+
+        <h1>November 2015 at onefinestay</h1>
+
+        <h2>Paul Stringer — Acceptance Testing for iOS</h2>
+          
+        <h2>Csordas Csaba — Work hard and REST</h2>
+          <br>
+
+        <h1>October 2015 at Skills Matter at CodeNode</h1>
+
+        <h2>Paul Ardeleanu — Developers' Emergency Guide to Public Speaking</h2>
+          
+        <h2>Mike McDonald — Building IoT apps connected through Firebase</h2>
+          <br>
+
+        <h1>September 2015 at The Brew/Judo Payments</h1>
+
+        <h2>Tech Panel (Abizer Nasir, Michael May, Danielle Tomlinson)</h2>
+          
+        <h2>Tomasz Piekarczyk — Big Core Data</h2>
+          <br>
+
+        <h1>August 2015 at The App Business</h1>
+
+        <h2>Jani Eväkallio — React Native</h2>
+          
+        <h2>John Sundell — Spotify Layout</h2>
+          
+        <h2>Marco Sero — Legacy Apps</h2>
+          <br>
+
+        <h1>July 2015 at Yammer</h1>
+
+        <h2>Daniel Haight — Provisioning Profiles</h2>
+          
+        <h2>Abizer Nasir — Carthage</h2>
+          
+        <h2>Michael May — Apple Pay</h2>
+          <br>
+
+        <h1>May 2015 at Facebook</h1>
+
+        <h2>Alan Cannistraro — The Art Of Creating Products</h2>
+          
+        <h2>Honza Dvorsky — Continuous Integration on the Edge</h2>
+          <br>
+
+        <h1>April 2015 at Just Eat</h1>
+
+        <h2>Neil Kimmett — Practical Watch Kit</h2>
+          
+        <h2>Rui Peres — Real World ReactiveCocoa</h2>
+
+        <h2>Tom Dixon — A delve into Custom Keyboards</h2>
+          <br>
+
+        <h1>CocoaPods Test Jam! at Facebook</h1>
+          <br>
+
+        <h1>March 2015 at nice Agency</h1>
+
+        <h2>Felix Kraus — Fastlane - OSS tools to automate continuous delivery in iOS</h2>
+          
+        <h2>Sean Woodhouse — Reveal 1.5 and some Q&A</h2>
+          <br>
+
+        <h1>February (Part 2) 2015 at Lyst</h1>
+
+        <h2>Johannas Weiß — Type driven development</h2>
+          
+        <h2>Uri Baghin — ReactiveCocoa and Rx principles 101</h2>
+
+        <h2>Joel Parsons — The modern password and you</h2>
+          <br>
+
+        <h1>February (Part 1) 2015 at Yammer</h1>
+
+        <h2>JP Simard — Lessons learned wrapping an Objective-C library in Swift</h2>
+          
+        <h2>Francesco Petrungaro — iOS App Security - Common Mistakes and Best Practices</h2>
+          <br>
+
+        <h1>January 2015 at Stack Overflow</h1>
+
+        <h2>Mehdi Mulani — Reverse engineering on iOS and Mac</h2>
+          
+        <h2>Joseph Lord — Beyond if let</h2>
+
+        <h2>Thomas Catterall — The Dependencies You Didn't Know You Had</h2>
+          <br>
+
+        <hr>
+
+        <h1>December 2014 at Twitter</h1>
+
+        <h2>Joe Hughes — WatchKit</h2>
+          <br>
+
+        <h1>November 2014 at Just Eat</h1>
+       
+        <h2>Jon Hocking — 208 weeks later, 4 years of working with great designers</h2>
+
+        <h2>Raimon Lapuente — Little wins with UIAppearance</h2>
+
+        <h2>Meng To — Fast, interactive prototyping</h2>
+          <br>
+
+        <h1>NSLondon(_:) at The App Business</h1>
+       
+        <h2>Mike Abdullah — What's new in iOS 8… for Hipsters™</h2>
+
+        <h2>Alexsander Akers — The other WatchKit</h2>
+          <br>
+
+        <h1>NSLondon 13ish at Facebook</h1>
+       
+        <h2>Abizer Nasir — Thinking in Swift</h2>
+
+        <h2>Sally Shepard — Making an app like 'clear' accessible</h2>
+          <br>
+
+        <h1>NSLondon 1st anniversary at Just Eat</h1>
+       
+        <h2>Scott Goodson</h2>
+
+        <h2>Rob Stearn — Multipeer Networking</h2>
+
+        <h2>Kyle Fuller — A Swift approach</h2>
+          <br>
+
+        <h1>NSLondon 10 at Lyst</h1>
+       
+        <h2>Johannes Weiß — Introduction to Functional Programming</h2>
+
+        <h2>Boris Bügling — Custom Playgrounds</h2>
+          <br>
+
+        <h1>WWDC special edition at Facebook</h1>
+          <br>
+
+        <h1>NSLondon 9 at Just Eat</h1>
+       
+        <h2>Daniel Haight — Build and Run(time)</h2>
+
+        <h2>Nigel Barber — Drawing on the GPU</h2>
+
+        <h2>Ivan Andriollo — Monitoring network traffic with Fiddler</h2>
+          <br>
+
+        <h1>NSLondon 8 at Yammer</h1>
+       
+        <h2>Marin Usalj — All that you won't have heard about Alcatraz</h2>
+
+        <h2>Tim Chilvers — High fashion and intriguing bugs in code and at work</h2>
+
+        <h2>Ivan Andriollo — Monitoring network traffic with Fiddler</h2>
+          <br>
+
+        <h1>NSLondon CocoaPods bug bash at Telefonica Digital</h1>
+          <br>
+
+        <h1>NSLondon 7 at Lyst</h1>
+       
+        <h2>Mattt Thompson</h2>
+
+        <h2>Sean Woodhouse — Exploring your apps with Reveal</h2>
+          <br>
+
+        <h1>NSLondon 6 at Yammer</h1>
+       
+        <h2>Saul Mora — magicalrecord 3.0</h2>
+
+        <h2>Luka Bratoš — Pony Debugger</h2>
+          <br>
+
+        <h1>Cocoa Kucha 2 - London at The Wayra Academy</h1>
+       
+        <h2>Alex Rozanski</h2>
+        <h2>Damien DeVille</h2>
+        <h2>Fabio Pelosin</h2>
+        <h2>James Addyman</h2>
+        <h2>Luca Bernardi</h2>
+        <h2>Rolandas Razma</h2>
+        <h2>Sally Shepard</h2>
+        <h2>Stig Brautaset</h2>
+          <br>
+
+
+        <hr>
+
+        <h1>NSLondon 5 at Telefonica Digital</h1>
+       
+        <h2>Matt Galloway — ARM for iOS Developers</h2>
+
+        <h2>Chris James — IAAL - Legal issues in iOS development</h2>
+
+        <h2>Rui Peres — iOS app architecture</h2>
+          <br>
+
+        <h1>NSLondon 4 at Telefonica Digital</h1>
+       
+        <h2>Mike Abdullah — What's New in iOS 7, for Hipsters</h2>
+
+        <h2>Lightning Talks</h2>
+        <h2>Kurtis Seebaldt — Manage Async callbacks with promises</h2>
+        <h2>Kyle Fuller — Memory Management</h2>
+          <br>
+
+        <h1>NSLondon 3 at Telefonica Digital</h1>
+       
+        <h2>Abizer Nasir — Submodules without fear</h2>
+
+        <h2>Rob Elkin — AltWWDC - behind the scenes</h2>
+          <br>
+
+        <h1>3D visualization taster class on Google Hangouts</h1>
+          <br>
+
+        <h1>NSLondon S at Telefonica Digital</h1>
+       
+        <h2>Nick Lockwood — Transitions</h2>
+
+        <h2>Gianluca Tranchedone — Supporting multiple iOS versions, with Class</h2>
+          <br>
+
+        <h1>NSLondon debut at Telefonica Digital</h1>
+       
+        <h2>Matt Galloway — Objective-C: Digging the Foundations</h2>
+
+        <h2>Daniel Haight — CocoaPods for the closed-source contractor</h2>
+
+        <h2>CocoaPods Q&A with Orta Therox</h2>
+          <br>
+
+      </section>
+
+      <footer>
+        <p><small>The Apple logo is a trademark of Apple Inc., registered in the U.S. and other countries and regions.</small>
+        <br>
+        <small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+
+    </div>
+    <script src="minimal/javascripts/scale.fix.js"></script>
+  </body>
+</html>

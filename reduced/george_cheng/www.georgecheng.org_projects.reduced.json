@@ -1,0 +1,165 @@
+{
+  "title": "Projects \u2014 George Cheng",
+  "meta_description": "",
+  "main_content": "HERa HERa is an all-in-one tech platform designed to empower underprivileged women with access to safe and legal abortion services. By integrating resources like location-based clinic finders , telemedicine consultations , and confidential support networks , HERa ensures that critical healthcare is accessible and discreet. VocAlarm VocAlarm is a Speech-to-Speech (STS) powered motivational alarm clock that seamlessly integrates with your Google Calendar, helping you wake up with purpose by aligning your wake-up call to your meetings, tasks, and personal goals. Customize your morning motivation with the voices of iconic figures like Yoda or Muhammad Ali to jumpstart your day. Our team was selected as a finalist in the MIT AI Hackathon . We traveled to NYC to present VocAlarm, where we earned $5,000 in OpenAI credits . Tally.AI Tally.AI is an AI tool to help researchers identify emerging studies and competing work from other researchers. Our team ( Dylan, Yimeng, Ziping, and I ) will be releasing an MVP for beta testing in early February . Sign up on our waitlist here . Forever Forever utlizes cutting-edge AI technologies such as API-pulling, MLLMs, AutoGPT, Stable Diffusion, and Generative AI to create an avatar that accurately mimics the likeness of real people. Our research offers proof-of-concept , with simulations demonstrating lifelike interactions for applications like virtual companionship and communication with lost loved ones. Forever was recognized as \u201cBest Idea\u201d and \u201cBest Project\u201d at the Westlake University AI Open Course Project Showcase. DiaMiR DiaMiR uses recent advances in microRNA technology and microneedles to mitigate the adverse effects of Type-2 Diabetes (T2D). My research provides proof-of-concept, in-vitro, and in-vivo studies for developing a cost-effective and accessible product to treat T2D. DiaMiR offers the following advantages: 1) addressing the underlying biological mechanism of insulin insensitivity; 2) increase in cost-effectiveness of T2D treatments: DiaMiR costs $3 per day vs. insulin-based treatments that cost $40-50 per day ; and 3) increasing patient compliance and privacy: DiaMiR can be concealed like a \u201cbio-tattoo\u201d . My nonprofit, STEMable , encouraged children with T2D to use scientific research as a positive outlet. My work is also being recognized by my community and school. FloodGate FloodGate is a revolutionary web-based application employing advanced computational models to predict flood patterns. Utilizing geographic elevation data, FloodGate generates accurate, interactive 3D flood models . The model uses mathematical models using Wolfram | Alpha and cellular automatas that display data for water flow and accumulation of water. FloodGate helps alert communities in advance, enabling the protection of critical infrastructure, and providing accessible, accurate information to aid efficient relief operations. In addition, being recognized as an Earth Prize Winner , FloodGate hopes to mitigate the environmental impacts of erosion, pollution, and overall harm to wildlife. O.M.G. Oral-fluid Monitoring of Glucose (OMG) revolutionizes glucose monitoring by offering a noninvasive Bluetooth-enabled alternative using affordable materials to make a wearable watch . Through extensive testing, including commercial, ex-vivo, and in-vivo methods , OMG demonstrated accuracy and reliability compared to traditional monitoring methods. This device's noninvasiveness, portability, and cost-effectiveness highlight its potential to transform diabetes management, providing a practical and innovative solution for millions. Recognized by the Department of Defense and the Congressional App Challenge , OMG hopes to be commercialized and leased to millions of T2D patients. PuriScan The PuriScan app implements a machine learning (ML) algorithm for pathogen identification and consolidates the data into a cloud database to improve the convolutional neural networks (CNN). PuriScan\u2019s 3D-printable microscope is 500x cheaper than commercial options and 750x faster than laboratory testing. PuriScan can rapidly assess the contents of water samples in less than 10 seconds, costing only 20 cents each.",
+  "links": [
+    {
+      "url": "/cart",
+      "text": "0"
+    },
+    {
+      "url": "https://mitbuilds.org/",
+      "text": "MIT AI Hackathon"
+    },
+    {
+      "url": "https://www.gotally.ai",
+      "text": "Tally.AI"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdjOUSb8a6lq1qdSfjJegUBnfmTBzJxfXegEe3RuzOb-4xeEA/viewform",
+      "text": "here"
+    },
+    {
+      "url": "https://www.stemable.org",
+      "text": "STEMable"
+    },
+    {
+      "url": "https://www.ncssm.edu/news/ncssm-durham-senior-makes-most-of-opportunities",
+      "text": "my community and school."
+    },
+    {
+      "url": "https://community.wolfram.com/groups/-/m/t/2964526?p_p_auth=q18QYRVS",
+      "text": "FloodGate"
+    },
+    {
+      "url": "https://github.com/navvye/WaterGate",
+      "text": "Wolfram | Alpha"
+    },
+    {
+      "url": "https://www.theearthprize.org/the-earth-prize-2024/flood-gate",
+      "text": "Earth Prize Winner,"
+    },
+    {
+      "url": "https://www.businessinsider.com/teens-win-50000-earth-prize-flood-forecasting-model-2024-8",
+      "text": "erosion, pollution, and overall harm to wildlife."
+    },
+    {
+      "url": "https://thegatorseye.com/10054/showcase/gator-of-the-week-george-cheng/",
+      "text": "Department of Defense"
+    },
+    {
+      "url": "https://www.congressionalappchallenge.us/22-nc02/",
+      "text": "Congressional App Challenge"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/56bd08e1-3039-4ece-8f60-8a7dec82d1ab/Screenshot+2025-01-12+at+6.14.42%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/89fa1e93-4b4a-4f6d-948a-5284628d65d5/Screenshot+2025-01-12+at+6.15.34%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/b9eaade8-b86d-4b91-94c9-48333531894d/Screenshot+2025-01-12+at+6.14.58%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/cd0a705c-2167-435d-85bc-154b3a8104dd/Screenshot+2025-01-12+at+6.15.23%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/db121cba-cfdb-4b68-baed-0aecb713b4a3/Screenshot+2025-01-12+at+6.16.02%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/626ebb0d-28fa-4a51-918e-ffca34b9f6b7/Screenshot+2025-01-12+at+6.01.28%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/291c3f11-ca5b-4a67-9398-ffd27612824d/Screenshot+2025-01-12+at+6.05.42%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/e4c591b7-4325-4e84-9286-61b0fbc9a44c/Screenshot+2025-01-12+at+6.01.36%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/ad6208ae-9fa7-4c5c-9527-37dda12661a4/1730143750347.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/695beaeb-1324-4036-b4f8-ce3e3cc80f99/Screenshot+2025-01-12+at+9.24.16%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/8550ed2d-bb4c-4d4d-b73a-b29db88d54ac/Screenshot+2025-01-12+at+9.24.59%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/3338861d-4a15-49ea-998f-40cd855dee23/Screenshot+2025-01-12+at+9.24.33%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/7066ea63-0b20-415a-9843-58947f2fec6c/IMG_7302.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/a38f0e26-0c96-4885-a1fa-dfe9ba6c4b54/IMG_7322.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/ea8c7081-0dff-4188-a4c3-0a4500fb31a1/IMG_7398.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/16fc3904-5c8a-437c-818e-e38e637afcf4/IMG_7394.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/5bd3897f-1cdc-4d6e-8c23-316b66d67cdf/IMG_7396.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/37fd7d52-b1cc-4b03-a135-3af1169afc48/projects%252F120426_al",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/cf4850d1-ddc4-45e6-a181-90246d707a5e/Screenshot+2024-03-21+at+1.25.49%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/24c68349-72b9-4c50-a2d3-5ebaa414568e/Screenshot+2024-03-21+at+1.33.04%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/2fb980be-db59-4231-a10f-c77d9f537cb6/375B8898-21DD-4EF4-B710-ABFA3A86849A.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/0f940759-a71e-4e35-953b-669214a015e4/Screenshot+2024-03-21+at+1.43.33%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/9fb913e3-8db7-4040-8905-744c3247ccb2/Screenshot+2025-01-12+at+6.29.14%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/d2f439be-4b1f-4cb2-9172-4169cdc86906/Screenshot+2025-01-12+at+6.29.19%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/39789a15-5d44-44e6-9be0-4cd1c7d6ee1a/Screenshot+2025-01-12+at+6.29.27%E2%80%AFPM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/0dc1a621-6e02-477d-8bc5-f379fb7a8a95/Screenshot+2024-03-21+at+1.46.48%E2%80%AFAM.png",
+      "alt": ""
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65f856d95545914b586f2d41/c7325b1a-7d8c-43a1-ac68-c38aba109b37/Picture1.png",
+      "alt": ""
+    }
+  ]
+}

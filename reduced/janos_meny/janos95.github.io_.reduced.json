@@ -1,0 +1,41 @@
+{
+  "title": "Janos Meny - Personal Website",
+  "meta_description": "",
+  "main_content": "Janos Meny About Me Hello! I'm Janos Meny, a mathematician who turned programmer, specializing in geometry processing, optimization, and computer graphics. I studied mathematics at the University of Bonn, focusing on algebraic geometry in my bachelor's and PDE-constrained optimization in my master's. Currently, I'm working at Roblox on realtime, fully networked solid modeling tools and geometry processing algorithms. Previously, I was at nTop , working on implicit modeling and latticing tools for high performance 3D printing applications. Interests I am broadly interested in various fields, including: Computational Geometry Computer Graphics Numerical Optimization Robotics Compilers and Programming Languages Applied Mathematics Projects A few projects I've worked on: Mantis A blazing fast, SIMD-accelerated implementation for computing distance to triangle mesh. Phasefield A phasefield-based optimization framework for 3D surface segmentation. Contact If you'd like to discuss math, technology, or any interesting projects, feel free to reach out to me. GitHub Twitter Email",
+  "links": [
+    {
+      "url": "https://www.roblox.com",
+      "text": "Roblox"
+    },
+    {
+      "url": "https://ntop.com",
+      "text": "nTop"
+    },
+    {
+      "url": "https://github.com/Janos95/mantis",
+      "text": "Mantis"
+    },
+    {
+      "url": "https://github.com/Janos95/Phasefields",
+      "text": "Phasefield"
+    },
+    {
+      "url": "https://github.com/janos95",
+      "text": "GitHub"
+    },
+    {
+      "url": "https://twitter.com/MenyJanos",
+      "text": "Twitter"
+    },
+    {
+      "url": "mailto:janos.meny@googlemail.com",
+      "text": "Email"
+    }
+  ],
+  "images": [
+    {
+      "src": "janos_selfi.jpg",
+      "alt": "Janos Meny"
+    }
+  ]
+}

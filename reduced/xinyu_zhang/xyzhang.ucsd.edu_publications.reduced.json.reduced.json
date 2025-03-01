@@ -1,0 +1,472 @@
+{
+  "title": "Xinyu Zhang@University of California San Diego",
+  "meta_description": "",
+  "main_content": "Home Research Publications Teaching Team Links (A note about authors list: Underlined are students that I supervise. '*' marks co-primary authors.) SatPipe: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks Ding Zhao , Xinyu Zhang, Myungjin Lee In IEEE Conference on Computer Communications ( INFOCOM ), 2025 ( SatPipe source code and demo. ) RICOCHET: Scalable Passive Beamforming for mmWave Networks Using Reflectarrays John Nolan , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2025 Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based Wireless Communication Systems Jung-Woo Chang, Ke Sun , Nasimeh Heydaribeni, Seira Hidano, Xinyu Zhang, Farinaz Koushanfar Network and Distributed System Security Symposium ( NDSS ), 2025 MetaBioLiq: A Wearable Passive Metasurface Aided mmWave Sensing Platform for BioFluids Baicheng Chen , John Nolan , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2024 M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP Zhutian Liu, Qing Deng, Zhaowei Tan, Zhiyun Qian, Xinyu Zhang, Ananthram Swami, Srikanth V. Krishnamurthy, Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2024 RFMagus: Programming the Radio Environment With Networked Metasurfaces Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2024 RISiren: Wireless Sensing System Attacks via Metasurface Chenghan Jiang, Jinjiang Yang, Xinyi Li, Qi Li, Xinyu Zhang, Ju Ren In ACM Conference on Computer and Communications Security ( CCS ), 2024 MetaLink: Extending Air-to-Water Wireless Communications Using Passive Bianisotropic Metasurfaces John Nolan , Baicheng Chen , Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2024 MetaSoil: Passive mmWave Metamaterial Multi-layer Soil Moisture Sensing Baicheng Chen , John Nolan , Xinyu Zhang, Wan Du In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2024 Modeling RF Channel by Fusing Visual Priors and Few-shot RF measurements Xingyu Chen , Zihao Feng , Ke Sun , Kun Qian, Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2024 Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture Kai Zheng , Wuqiong Zhao , Timothy Woodford , Renjie Zhao , Xinyu Zhang, Yingbo Hua In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2024 Multimodal Daily-Life Logging in Free-living Environment Using Non-Visual Egocentric Sensors on a Smartphone Ke Sun , Chunyu Xia , Xinyu Zhang, Hao Chen, Charlie Jianzhong Zhang In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2024 KeyStub: A Passive RFID-based Keypad Interface Using Resonant Stubs John Nolan , Kun Qian , Xinyu Zhang In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2024 RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models Xingyu Chen , Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2023 ( Open-source model and dataset from RFGen .) Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding Timothy Woodford , Kun Qian , Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2023 NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems Kai Zheng , Kun Qian , Timothy Woodford , Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2023 ( Best Paper Award; Communications of the ACM Research Highlight ) UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing Kun Qian , Lulu Yao, Kai Zheng , Xinyu Zhang, Tina Ng In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2023 GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter Huixin Dong, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang, Jianhua He In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2023 Structural Pseudocapacitors with Reinforced Interfaces to Increase Multifunctional Efficiency Lulu Yao, Kai Zheng , Nandu Koripally, Naresh Eedugurala, Jason D. Azoulay, Xinyu Zhang, Tse Nga Ng Science Advances, 2023 StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors Ke Sun , Chunyu Xia , Songlin Xu , Xinyu Zhang Network and Distributed System Security Symposium ( NDSS ), 2023 ( Open-source code and dataset from StealthyIMU .) Augmenting Human Cognition with an AI-Mediated Intelligent Visual Feedback Songlin Xu , Xinyu Zhang ACM Conference on Human Factors in Computing Systems ( CHI ), 2023 SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks Xuyang Cao , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2023 ( Open-source LEO satellite network emulator LeoEM .) SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication Renjie Zhao , Kejia Wang, Kai Zheng , Xinyu Zhang, Vincent Leung In USENIX Symposium on Networked Systems Design and Implementation ( NSDI ), 2023 RF-Chord: Towards Deployable RFID Localization System for Logistic Networks Bo Liang, Purui Wang, Renjie Zhao , Heyu Guo, Pengyu Zhang, Junchen Guo, Shunmin Zhu, Hongqiang Liu, Xinyu Zhang, Chenren Xu In USENIX Symposium on Networked Systems Design and Implementation ( NSDI ), 2023 Mosaic: Leveraging Diverse Reflector Geometries for Omnidirectional Around-Corner Automotive Radar Timothy Woodford , Xinyu Zhang, Eugene Chai, Karthikeyan Sundaresan In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2022 MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion Kun Qian , Lulu Yao, Xinyu Zhang, Tina Ng In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2022 Protego: Securing Wireless Communication Via Programmable Metasurface Xinyi Li, Chao Feng, Fengyi Song, Chenghan Jiang, Yangfan Zhang, Ke Li, Xinyu Zhang, Xiaojiang Chen In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2022 NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks Song Wang , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2022 RoS: Passive Smart Surface for Roadside-to-Vehicle Communication John Nolan *, Kun Qian *, Xinyu Zhang In Proceedings of the ACM Special Interest Group on Data Communication ( SIGCOMM ), 2021 (Hardware schematics and HFSS simulation code available upon request.) HiveMind: Towards Cellular Native Machine Learning Model Splitting Song Wang , Xinyu Zhang, Hiromasa Uchiyama, Hiroki Matsuda IEEE Journal on Selected Areas in Communications ( JSAC ), 2021 The Invisible Shadow: How Security Cameras Leak Private Activities Jian Gong , Xinyu Zhang, Ju Ren, Yaoxue Zhang In ACM Conference on Computer and Communications Security ( CCS ), 2021 SpaceBeam: LiDAR-Driven One-Shot mmWave Beam Management Timothy Woodford , Xinyu Zhang, Eugene Chai, Karthikeyan Sundaresan, Amir Khojastepour In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2021 Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals Kun Qian , Shilin Zhu , Xinyu Zhang, Li Erran Li IEEE/CVF Conference on Computer Vision and Pattern Recognition ( CVPR ), 2021 ( Source code and data set ) UltraSE: Single-Channel Speech Enhancement Using Ultrasound Ke Sun , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2021 Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models Huanhuan Zhang, Anfu Zhou, Yuhan Hu, Chaoyue Li, Guangping Wang, Xinyu Zhang, Huadong Ma, Leilei Wu, Aiyun Chen, Changhui Wu In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2021 RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing Chao Feng, Xinyi Li, Yangfan Zhang, Xiaojing Wang, Liqiong Chang, Fuwei Wang, Xinyu Zhang, Xiaojiang Chen In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2021 ExGSense: Toward Facial Gesture Sensing and Reconstruction with a Sparse Near-Eye Sensor Array Chen Chen , Ke Sun , Xinyu Zhang In ACM/IEEE Conference on Information Processing in Sensor Networks ( IPSN ), 2021 Robust RF Vital Sign Sensing Under Free Body Movement Jian Gong , Xinyu Zhang, Kaixin Lin , Ju Ren, Yaoxue Zhang, Wenxun Qiu In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2021 3D Point Cloud Generation with Millimeter-Wave Radar Kun Qian , Zhaoyuan He , Xinyu Zhang In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2021 Robust Inertial Motion Tracking Through Deep Sensor Fusion Across Smart Earbuds And Smartphone Jian Gong , Xinyu Zhang, Yuanjun Huang , Ju Ren, Yaoxue Zhang In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2021 ( Source code and data set ) \"Alexa, Stop Spying on Me!\": Speech Privacy Protection Against Voice Assistants Ke Sun , Chen Chen , Xinyu Zhang In Proceedings of the ACM Conference on Embedded Networked Sensor Systems ( SenSys ), 2020 NFC+: Breaking NFC Networking Limits through Resonance Engineering Renjie Zhao , Purui Wang, Xianshang Lin, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xinyu Zhang, Chenren Xu, Ming Zhang In Proceedings of the ACM Special Interest Group on Data Communication ( SIGCOMM ), 2020 (54 out of 250 submissions, acceptance ratio: 22%) Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption Dongzhu Xu, Anfu Zhou, Xinyu Zhang, Guixian Wang, Xi Liu, Congkai An, Yiming Shi, Liang Liu, Huadong Ma In Proceedings of the ACM Special Interest Group on Data Communication ( SIGCOMM ), 2020 (54 out of 250 submissions, acceptance ratio: 22%) Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility Jingqi Huang *, Song Wang *, Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2020 (62 out of 384 submissions, acceptance ratio: 16%) ( Simulation code: 3D ray-tracing for mmWave V2X channel .) OnRL: Improving Mobile Video Telephony via Online Reinforcement Learning Huanhuan Zhang, Anfu Zhou, Jiamin Liu, Ruoxuan Ma, Yuhan Hu, Cong Li, Xinyu Zhang, Huadong Ma, Xiaojiang Chen In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2020 (62 out of 384 submissions, acceptance ratio: 16%) M-Cube: A Millimeter-Wave Massive MIMO Software Radio Renjie Zhao , Timothy Woodford , Teng Wei , Kun Qian , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2020 ( Best Paper Award . 2 out of 384 submissions.) (Check out our M-Cube open-source hardware . We have been distributing M-Cube replicas to the research community. Contact us if you are interested.) X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays Song Wang *, Jingqi Huang *, Xinyu Zhang, Hyoil Kim, Sujit Dey In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2020 (62 out of 384 submissions, acceptance ratio: 16%) Peer-to-Peer Localization for Single-Antenna Devices Xianan Zhang, Wei Wang, Xuedou Xiao, Hang Yang, Xinyu Zhang, Tao Jiang In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2020 Robotic Millimeter-Wave Wireless Networks Anfu Zhou, Shaoqing Xu, Song Wang, Jingqi Huang, Shaoyuan Yang, Teng Wei, Xinyu Zhang, Huadong Ma In ACM/IEEE Transactions on Networking ( ToN ), 2020 Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony Anfu Zhou, Huanhuan Zhang, Guangyuan Su, Leilei Wu, Ruoxuan Ma, Zhen Meng, Xinyu Zhang, Xiufeng Xie, Huadong Ma, Xiaojiang Chen In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2019 (55 out of 290 submissions, acceptance ratio: 19%) Taprint: Secure Text Input for Commodity Smart Wearables Wenqiang Chen, Lin Chen, Yandao Huang, Xinyu Zhang, Lu Wang, Rukhsana Ruby, Kaishun Wu In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2019 (55 out of 290 submissions, acceptance ratio: 19%) Learning to Recognize Unmodified Lights with Invisible Features Huanhuan Zhang, Anfu Zhou, Dongzhu Xu, Shaoqing Xu, Xinyu Zhang, Huadong Ma In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ( IMWUT/UbiComp ), 2019 Robot Navigation in Radio Beam Space: Leveraging Robotic Intelligence for Seamless mmWave Network Coverage Anfu Zhou, Shaoqing Xu, Song Wang, Jingqi Huang, Shaoyuan Yang, Teng Wei, Xinyu Zhang, Huadong Ma In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2019 Visible Light Localization Using Conventional Light Fixtures and Smartphones Chi Zhang , Xinyu Zhang In IEEE Transactions on Mobile Computing ( TMC ), 2019 FastND: Accelerating Directional Neighbor Discovery for 60 GHz Millimeter-Wave Wireless Networks Anfu Zhou, Teng Wei , Huadong Ma, Xinyu Zhang In ACM/IEEE Transactions on Networking ( ToN ), 2018 Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2018 (42 out of 187 submissions, acceptance ratio: 22%) Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction Chuhan Gao , Xinyu Zhang, Suman Banerjee In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2018 (42 out of 187 submissions, acceptance ratio: 22%) LiveTag: Sensing Human-Object Interaction Through Passive Chipless WiFi Tags Chuhan Gao , Yilong Li , Xinyu Zhang In USENIX Symposium on Networked Systems Design and Implementation ( NSDI ), 2018 (40 out of 252 submissions, acceptance ratio: 16%) (One of the top papers highlighted in ACM GetMobile ) (Hardware schematics available upon request) Following the Shadow: Agile 3-D Beam-Steering for 60 GHz Wireless Networks Anfu Zhou, Leilei Wu, Shaoqing Xu, Huadong Ma, Teng Wei, Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2018 (309 out of 1606 submissions, acceptance ratio: 19%) POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks Xiufeng Xie , Xinyu Zhang In ACM International Conference on emerging Networking EXperiments and Technologies( CoNEXT ), 2017 (40 out of 222 submissions, acceptance ratio: 18%) Automating Visual Privacy Protection Using a Smart LED Shilin Zhu *, Chi Zhang *, Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2017 (35 out of 186 submissions, acceptance ratio: 19%) ( ACM SIGMOBILE Research Highlight! Communications of the ACM Research Highlight. ) Pulsar: Towards Ubiquitous Visible Light Localization Chi Zhang , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2017 (35 out of 186 submissions, acceptance ratio: 19%) WiFi-Assisted 60 GHz Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2017 (35 out of 186 submissions, acceptance ratio: 19%) Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support Teng Wei , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2017 (35 out of 186 submissions, acceptance ratio: 19%) Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors Teng Wei , Anfu Zhou , Xinyu Zhang In USENIX Symposium on Networked Systems Design and Implementation ( NSDI ), 2017 (46 out of 253 submissions, acceptance ratio: 18%) Accelerating Mobile Web Loading Using Cellular Link Information Xiufeng Xie , Xinyu Zhang, Shilin Zhu In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2017 (34 out of 188 submissions, acceptance ratio: 18%) Enabling High-Precision Visible Light Localization in Today's Buildings Shilin Zhu , Xinyu Zhang In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2017 (34 out of 188 submissions, acceptance ratio: 18%) Beam-forecast: Facilitating Mobile 60 GHz Networks via Model-driven Beam Steering Anfu Zhou, Xinyu Zhang, Huadong Ma In IEEE Conference on Computer Communications ( INFOCOM ), 2017 (292 out of 1295 submissions, acceptance ratio: 21%) LiTell: Robust Indoor Localization Using Unmodified Light Fixtures Chi Zhang , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2016 (32 out of 226 submissions, acceptance ratio: 14%) Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things Teng Wei , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2016 (32 out of 226 submissions, acceptance ratio: 14%) (One of top 3 MobiCom'16 papers highlighted in ACM GetMobile ) OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna Jialiang Zhang , Xinyu Zhang, Pushkar Kulkarni, Parameswaran Ramanathan In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2016 (32 out of 226 submissions, acceptance ratio: 14%) Practical MU-MIMO User Selection on 802.11ac Commodity Networks Sanjib Sur , Ioannis Pefkianakis, Xinyu Zhang, Kyu-Han Kim In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2016 (32 out of 226 submissions, acceptance ratio: 14%) BeamSpy: Enabling Robust 60 GHz Links Under Blockage Sanjib Sur , Xinyu Zhang, Parameswaran Ramanathan, Ranveer Chandra In USENIX Symposium on Networked Systems Design and Implementation ( NSDI ), 2016 (45 out of 225 submissions, acceptance ratio: 20%) Fundamental Analysis of Full-duplex Gains in Wireless Networks Shu Wang , Vignesh Venkateswaran , Xinyu Zhang In ACM/IEEE Transactions on Networking ( ToN ), 2016 Continuous and Fine-grained Breathing Volume Monitoring from Afar Using Wireless Signals Phuc Nguyen, Xinyu Zhang, Ann Halbower, Tam Vu In IEEE Conference on Computer Communications ( INFOCOM ), 2016 (300 out of 1644 submissions, acceptance ratio: 18%) Random Access Signaling for Network MIMO Uplink Teng Wei , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2016 (300 out of 1644 submissions, acceptance ratio: 18%) Scoping Environment for Robust 60 GHz Link Deployment (Invited Paper) Sanjib Sur , Xinyu Zhang In IEEE Information Theory and Applications Workshop (ITA), 2016 mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios Teng Wei , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2015 (38 out of 207 submissions, acceptance ratio: 18%) Acoustic Eavesdropping through Wireless Vibrometry Teng Wei , Shu Wang , Anfu Zhou , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2015 (38 out of 207 submissions, acceptance ratio: 18%) piStream: Physical Layer Informed Adaptive Video Streaming Over LTE Xiufeng Xie , Xinyu Zhang, Swarun Kumar, Li Erran Li In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2015 (38 out of 207 submissions, acceptance ratio: 18%) (One of top 4 MobiCom'15 papers highlighted in ACM GetMobile ) Hekaton: Efficient and Practical Large-Scale MIMO Xiufeng Xie , Eugene Chai, Xinyu Zhang , Karthikeyan Sundaresan, Amir Khojastepour, Sampath Rangarajan In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2015 (38 out of 207 submissions, acceptance ratio: 18%) Extending Mobile Interaction Through Near-Field Visible Light Sensing Chi Zhang , Joshua Tabor , Jialiang Zhang , Xinyu Zhang In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2015 (38 out of 207 submissions, acceptance ratio: 18%) Energy Efficient WiFi Display Chi Zhang , Xinyu Zhang, Ranveer Chandra In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2015 (29 out of 219 submissions, acceptance ratio: 13.2%) 60 GHz Indoor Networking through Flexible Beams: A Link-Level Profiling Sanjib Sur , Vignesh Venkateswaran , Xinyu Zhang, Parameswaran Ramanathan In ACM International Conference on Measurement and Modeling of Computer Systems ( SIGMETRICS ), 2015 (32 out of 239 submissions, acceptance ratio: 13.4%) Bringing Multi-Antenna Gain to Energy-Constrained Wireless Devices Sanjib Sur *, Teng Wei *, Xinyu Zhang In ACM/IEEE Conference on Information Processing in Sensor Networks ( IPSN ), 2015 (27 out of 111 submissions, acceptance ratio: 24.3%) Cross-Cell DoF Distribution: Combating Channel Hardening Effect in Multi-Cell MU-MIMO Networks Xiufeng Xie , Xinyu Zhang, Eugene Chai In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2015 (37 out of 250 submissions, acceptance ratio: 14.8%) Signpost: Scalable MU-MIMO Signaling with Zero CSI Feedback Anfu Zhou , Teng Wei , Xinyu Zhang, Min Liu, ZhongCheng Li In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2015 (37 out of 250 submissions, acceptance ratio: 14.8%) TRINITY: A Practical Transmitter Cooperation Framework to Handle Heterogeneous User Profiles in Wireless Networks Shailendra Singh, Karthikeyan Sundaresan, Srikanth V. Krishnamurthy, Xinyu Zhang, Mohammad Khojastepour, Sampath Rangarajan In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2015 (37 out of 250 submissions, acceptance ratio: 14.8%) Dancing with Light: Predictive In-frame Rate Selection for Visible Light Networks Jialiang Zhang , Xinyu Zhang, Gang Wu In IEEE Conference on Computer Communications ( INFOCOM ), 2015 (316 out of 1640 submissions, acceptance ratio: 19.2%) Bridging Link Power Asymmetry in Mobile Whitespace Networks Sanjib Sur , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2015 (316 out of 1640 submissions, acceptance ratio: 19.2%) Exploring Full-Duplex Gains in Multi-Cell Wireless Networks: A Spatial Stochastic Framework Shu Wang , Vignesh Venkateswaran , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2015 (316 out of 1640 submissions, acceptance ratio: 19.2%) Semi-Synchronous Channel Access for Full-duplex Wireless Networks Xiufeng Xie , Xinyu Zhang In IEEE International Conference on Network Protocols ( ICNP ), 2014 (15 out of 79 submissions, acceptance ratio: 19%) Autodirective Audio Capturing Through a Synchronized Smartphone Array Sanjib Sur *, Teng Wei *, Xinyu Zhang In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2014 (25 out of 185 submissions, acceptance ratio: 13.5%) Ubiquitous Keyboard for Small Mobile Devices: Harnessing Multipath Fading for Fine-Grained Keystroke Localization Junjue Wang , Kaichen Zhao , Xinyu Zhang, Chunyi Peng In ACM International Conference on Mobile Systems, Applications, and Services ( MobiSys ), 2014 (25 out of 185 submissions, acceptance ratio: 13.5%) Leveraging Directional Antenna Capabilities for Fine-Grained Gesture Recognition Pedro Melgarejo, Xinyu Zhang, Parameswaran Ramanathan, David Chu In ACM International Joint Conference on Pervasive and Ubiquitous Computing ( Ubicomp ), 2014 (62 out of 454 submissions accepted in the first round, acceptance ratio: 13.7%) Does Full-duplex Double the Capacity of Wireless Networks? Xiufeng Xie , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2014 (320 out of 1645 submissions, acceptance ratio: 19.4%) Scalable User Selection for MU-MIMO Networks Xiufeng Xie , Xinyu Zhang In IEEE Conference on Computer Communications ( INFOCOM ), 2014 (320 out of 1645 submissions, acceptance ratio: 19.4%) Cooperation Without Synchronization: Practical Cooperative Relaying for Wireless Networks Xinyu Zhang, Kang G. Shin In IEEE Transactions on Mobile Computing ( TMC ), 2014 Adaptive Feedback Compression for MIMO Networks Xiufeng Xie , Xinyu Zhang, Karthikeyan Sundaresan In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2013 (28 out of 208 submissions, acceptance ratio: 13.5%) NEMOx: Scalable Network MIMO for Wireless Networks Xinyu Zhang, Karthikeyan Sundaresan, Mohammad A. (Amir) Khojastepour, Sampath Rangarajan, Kang G. Shin In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2013 (28 out of 208 submissions, acceptance ratio: 13.5%) Gap Sense: Lightweight Coordination of Heterogeneous Wireless Devices Xinyu Zhang, Kang G. Shin In IEEE Conference on Computer Communications ( INFOCOM ), 2013 (280 out of 1613 submissions, acceptance ratio: 17%) E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks Xinyu Zhang, Kang G. Shin In ACM International Conference on Mobile Computing and Networking ( MobiCom ), 2011 (29 out of 214 submissions, acceptance ratio: 13.6%) (slides: .pptx ) ( Best Paper Award , fast-tracked to IEEE Transactions on Mobile Computing) E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks Xinyu Zhang, Kang G. Shin In IEEE Transactions on Mobile Computing ( TMC , fast track), 2012 Enabling Coexistence of Heterogeneous Wireless Systems: Case for ZigBee and WiFi Xinyu Zhang, Kang G. Shin In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2011 (25 out of 127 submissions, acceptance ratio: 19.7%) (slides: .pptx ) Cooperative Carrier Signaling: Harmonizing Coexisting WPAN and WLAN Devices Xinyu Zhang, Kang G. Shin In ACM/IEEE Transactions on Networking ( ToN ), 2013 A Case for the Coexistence of Heterogeneous Wireless Networks Xinyu Zhang, Kang G. Shin In ACM Wireless Student Workshop (ACM S3), 2011 Adaptive Subcarrier Nulling: Enabling Partial Spectrum Sharing in Wireless LANs Xinyu Zhang, Kang G. Shin In IEEE International Conference on Network Protocols ( ICNP ), 2011 (31 out of 189 submissions, acceptance ratio: 16.4%) (slides: .pptx ) Chorus: Collision Resolution for Efficient Wireless Broadcast Xinyu Zhang, Kang G. Shin In IEEE Conference on Computer Communications ( INFOCOM ), 2010 (276 out of 1575 submissions, acceptance ratio: 17.5%) (slides: .pptx ) DAC: Distributed Asynchronous Cooperation for Wireless Relay Networks Xinyu Zhang, Kang G. Shin In IEEE Conference on Computer Communications ( INFOCOM ), 2010 (276 out of 1575 submissions, acceptance ratio: 17.5%) (slides: .pptx ) Delay-Optimal Broadcast for Multi-Hop Wireless Networks Using Self-Interference Cancellation Xinyu Zhang, Kang G. Shin In IEEE Transactions on Mobile Computing ( TMC ), 2011 Spatio-Temporal Fusion for Small-scale Primary Detection in Cognitive Radio Networks Alexander W. Min, Xinyu Zhang, Kang G. Shin In IEEE Conference on Computer Communications ( INFOCOM , mini-conference), 2010 Detection of Small-scale Primary Users in Cognitive Radio Networks Alexander W. Min, Xinyu Zhang, Kang G. Shin In IEEE Journal on Selected Areas in Communications ( JSAC ), Special Issue on Cognitive Radio Networking and Communications, 2011 Exploiting Spectrum Heterogeneity in Dynamic Spectrum Market Alexander W. Min, Xinyu Zhang, Kang G. Shin In IEEE Transactions on Mobile Computing ( TMC ), 2011 The Case for Antenna Cancellation for Scalable Full Duplex Wireless Communications Mohammad A. Khojastepour, Karthikeyan Sundaresan, Sampath Rangarajan, Xinyu Zhang, Sanaz Barghi In 10th ACM Workshop on Hot Topics in Networks ( HotNets ), 2011 (24 out of 119 submissions, acceptance ratio: 20%) On the Market Power of Network Coding in P2P Content Distribution Systems Xinyu Zhang, Baochun Li In IEEE Conference on Computer Communications ( INFOCOM ), 2009 (282 out of 1435 submissions, acceptance ratio: 19.7%) (slides: .pdf ) On the Market Power of Network Coding in P2P Content Distribution Systems (Extended Version of INFOCOM'09 work) Xinyu Zhang, Baochun Li In IEEE Transactions on Parallel and Distributed Systems ( TPDS ), 2011 Dice: a Game Theoretic Framework for Wireless Multipath Network Coding Xinyu Zhang, Baochun Li In ACM International Symposium on Mobile Ad Hoc Networking and Computing ( MobiHoc ), 2008 (44 out of 300 submissions, acceptance ratio: 14.7%) Optimized Multipath Network Coding in Lossy Wireless Networks (Extended version of ICDCS'08 work) Xinyu Zhang, Baochun Li In IEEE Journal on Selected Areas in Communications ( JSAC ), Special Issue on Network Coding for Wireless Communication Networks, 2009 Optimized Multipath Network Coding in Lossy Wireless Networks Xinyu Zhang, Baochun Li In International Conference on Distributed Computing Systems ( ICDCS ), 2008 (102 out of 638 submissions, acceptance ratio: 16%) Drift: A Highly Condensed Emulation Framework for Mobile Nodes in Server Clusters (Regular paper) Xinyu Zhang, Baochun Li In IEEE International Conference on Mobile Ad Hoc and Sensor Systems ( MASS ), 2008 (26 regular plus 5 extended papers out of over 250 submissions, acceptance ratio: 12.4%) Network Coding Aware Dynamic Subcarrier Assignment in OFDMA Wireless Networks (Extended Version of ICC'08 work) Xinyu Zhang, Baochun Li In IEEE Transactions on Vehicular Technology ( TVT ), 2011 On the Benefits of Network Coding in Multi-Channel Wireless Networks Xinyu Zhang, Baochun Li In the 5th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad hoc Communications and Networks ( SECON ), 2008 (64 out of 304 submissions, acceptance ratio: 21%) Network Coding Aware Dynamic Subcarrier Assignment in OFDMA Wireless Networks Xinyu Zhang, Baochun Li In IEEE International Conference on Communications (ICC), 2008 Joint Network Coding and Subcarrier Assignment in OFDMA-Based Wireless Networks Xinyu Zhang, Baochun Li In International Workshop on Network Coding, Theory, and Applications (NetCod), 2008",
+  "links": [
+    {
+      "url": "index.html",
+      "text": "Home"
+    },
+    {
+      "url": "research.html",
+      "text": "Research"
+    },
+    {
+      "url": "publications.html",
+      "text": "Publications"
+    },
+    {
+      "url": "teaching.html",
+      "text": "Teaching"
+    },
+    {
+      "url": "team.html",
+      "text": "Team"
+    },
+    {
+      "url": "links.html",
+      "text": "Links"
+    },
+    {
+      "url": "papers/Ding.Zhao_INFOCOM25_SatPipe.pdf",
+      "text": "SatPipe: Deterministic TCP Adaptation for Highly \nDynamic LEO Satellite Networks"
+    },
+    {
+      "url": "https://github.com/dzhao99/SatPipe",
+      "text": "SatPipe"
+    },
+    {
+      "url": "papers/John.Nolan_INFOCOM25_RICOCHET.pdf",
+      "text": "RICOCHET: Scalable Passive Beamforming for mmWave Networks Using Reflectarrays"
+    },
+    {
+      "url": "papers/Baicheng.Chen_MobiCom24_MetaBioliq.pdf",
+      "text": "MetaBioLiq: A Wearable Passive Metasurface Aided mmWave Sensing Platform for BioFluids"
+    },
+    {
+      "url": "papers/John.Nolan_SenSys24_MetaLink.pdf",
+      "text": "MetaLink: Extending Air-to-Water Wireless Communications Using Passive Bianisotropic Metasurfaces"
+    },
+    {
+      "url": "papers/Baicheng.Chen_SenSys24_MetaSoil.pdf",
+      "text": "MetaSoil: Passive mmWave Metamaterial Multi-layer Soil Moisture Sensing"
+    },
+    {
+      "url": "papers/Xingyu.Chen_SenSys24_RFCanvas.pdf",
+      "text": "Modeling RF Channel by Fusing Visual Priors and Few-shot RF measurements"
+    },
+    {
+      "url": "papers/Kai.Zheng_MobiSys24_HybRadar.pdf",
+      "text": "Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture"
+    },
+    {
+      "url": "papers/Ke.Sun_UbiComp24_EgoADL.pdf",
+      "text": "Multimodal Daily-Life Logging in Free-living Environment Using\nNon-Visual Egocentric Sensors on a Smartphone"
+    },
+    {
+      "url": "papers/John.Nolan_UbiComp24_KeyStub.pdf",
+      "text": "KeyStub: A Passive RFID-based Keypad Interface Using Resonant\nStubs"
+    },
+    {
+      "url": "papers/Xingyu.Chen_SenSys23_RFGen.pdf",
+      "text": "RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models"
+    },
+    {
+      "url": "https://github.com/Asixa/RF-Genesis",
+      "text": "RFGen"
+    },
+    {
+      "url": "papers/Timothy.Woodford_SenSys23_MetaSight.pdf",
+      "text": "Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding"
+    },
+    {
+      "url": "papers/Kai.Zheng_SenSys23_NeuroRadar.pdf",
+      "text": "NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems"
+    },
+    {
+      "url": "papers/Kun.Qian_MobiCom23_UniScatter.pdf",
+      "text": "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing"
+    },
+    {
+      "url": "https://www.science.org/doi/epdf/10.1126/sciadv.adh0069",
+      "text": "Structural Pseudocapacitors with Reinforced Interfaces to Increase Multifunctional Efficiency"
+    },
+    {
+      "url": "papers/Ke.Sun_NDSS23_StealthyIMU.pdf",
+      "text": "StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors"
+    },
+    {
+      "url": "https://github.com/Samsonsjarkal/StealthyIMU",
+      "text": "StealthyIMU"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3544548.3580905",
+      "text": "Augmenting Human Cognition with an AI-Mediated Intelligent Visual Feedback"
+    },
+    {
+      "url": "papers/Xuyang.Cao_INFOCOM23_SaTCP.pdf",
+      "text": "SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks"
+    },
+    {
+      "url": "https://github.com/XuyangCaoUCSD/LeoEM",
+      "text": "LeoEM"
+    },
+    {
+      "url": "https://www.usenix.org/conference/nsdi23/presentation/zhao-renjie",
+      "text": "SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/nsdi23-liang-bo.pdf",
+      "text": "RF-Chord: Towards Deployable RFID Localization System for Logistic Networks"
+    },
+    {
+      "url": "papers/Tim.Woodford_MobiSys22_Mosaic.pdf",
+      "text": "Mosaic: Leveraging Diverse Reflector Geometries for Omnidirectional Around-Corner Automotive Radar"
+    },
+    {
+      "url": "papers/Kun.Qian_MobiCom22_MilliMirror.pdf",
+      "text": "MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
+    },
+    {
+      "url": "papers/Song.Wang_INFOCOM22_NeuroMessenger.pdf",
+      "text": "NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks"
+    },
+    {
+      "url": "papers/Nolan_Qian_SIGCOMM21_RoS.pdf",
+      "text": "RoS: Passive Smart Surface for Roadside-to-Vehicle Communication"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9562523",
+      "text": "HiveMind: Towards Cellular Native Machine Learning Model Splitting"
+    },
+    {
+      "url": "papers/Jian.Gong_CCS21_InvisibleShadow.pdf",
+      "text": "The Invisible Shadow: How Security Cameras Leak Private Activities"
+    },
+    {
+      "url": "papers/Tim.Woodford_MobiSys21_SpaceBeam.pdf",
+      "text": "SpaceBeam: LiDAR-Driven One-Shot mmWave Beam Management"
+    },
+    {
+      "url": "papers/Kun.Qian_CVPR21_MVDNet.pdf",
+      "text": "Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals"
+    },
+    {
+      "url": "https://github.com/qiank10/MVDNet",
+      "text": "Source code and data set"
+    },
+    {
+      "url": "papers/Ke.Sun_MobiCom21_UltraSE.pdf",
+      "text": "UltraSE: Single-Channel Speech Enhancement Using Ultrasound"
+    },
+    {
+      "url": "papers/Chen.Chen_IPSN21_ExGSense.pdf",
+      "text": "ExGSense: Toward Facial Gesture Sensing and Reconstruction with a Sparse Near-Eye Sensor Array"
+    },
+    {
+      "url": "papers/Jian.Gong_UbiComp21_Robust_RF_Sensing.pdf",
+      "text": "Robust RF Vital Sign Sensing Under Free Body Movement"
+    },
+    {
+      "url": "papers/KQian_UbiComp21_RadarPointCloud.pdf",
+      "text": "3D Point Cloud Generation with Millimeter-Wave Radar"
+    },
+    {
+      "url": "papers/Jian.Gong_UbiComp21_DeepIT.pdf",
+      "text": "Robust Inertial Motion Tracking Through Deep Sensor Fusion Across Smart Earbuds And Smartphone"
+    },
+    {
+      "url": "https://github.com/jamesdeep/DeepIT",
+      "text": "Source code and data set"
+    },
+    {
+      "url": "papers/KSun_SenSys20_MicShield.pdf",
+      "text": "\"Alexa, Stop Spying on Me!\": Speech Privacy Protection Against Voice Assistants"
+    },
+    {
+      "url": "papers/RZhao_SIGCOMM20_NFC+.pdf",
+      "text": "NFC+: Breaking NFC Networking Limits through Resonance Engineering"
+    },
+    {
+      "url": "papers/DXu_SIGCOMM20_5Gmeasure.pdf",
+      "text": "Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption"
+    },
+    {
+      "url": "papers/SWang_JHuang_MobiCom20_V2X.pdf",
+      "text": "Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility"
+    },
+    {
+      "url": "http://m3.ucsd.edu/mmwave-v2x-testbed/",
+      "text": "Simulation code: 3D ray-tracing for mmWave V2X channel"
+    },
+    {
+      "url": "papers/RZhao_MobiCom20_M-Cube.pdf",
+      "text": "M-Cube: A Millimeter-Wave Massive MIMO Software Radio"
+    },
+    {
+      "url": "http://m3.ucsd.edu/sdr",
+      "text": "M-Cube open-source hardware"
+    },
+    {
+      "url": "papers/SWang_MobiCom20_X-Array.pdf",
+      "text": "X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays"
+    },
+    {
+      "url": "papers/SSur_MobiCom18_UbiG.pdf",
+      "text": "Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks"
+    },
+    {
+      "url": "papers/CGao_MobiCom18_Inkput.pdf",
+      "text": "Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction"
+    },
+    {
+      "url": "papers/CGao_NSDI18_LiveTag.pdf",
+      "text": "LiveTag: Sensing Human-Object Interaction Through Passive Chipless WiFi Tags"
+    },
+    {
+      "url": "papers/XXie_CoNEXT17_POI360.pdf",
+      "text": "POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks"
+    },
+    {
+      "url": "papers/SZhu_CZhang_MobiCom17_LiShield.pdf",
+      "text": "Automating Visual Privacy Protection Using a Smart LED"
+    },
+    {
+      "url": "papers/CZhang_MobiCom17_Pulsar.pdf",
+      "text": "Pulsar: Towards Ubiquitous Visible Light Localization"
+    },
+    {
+      "url": "papers/SSur_MobiCom17_MUST.pdf",
+      "text": "WiFi-Assisted 60 GHz Networks"
+    },
+    {
+      "url": "papers/TWei_MobiCom17_Pia.pdf",
+      "text": "Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support"
+    },
+    {
+      "url": "papers/TWei_NSDI17_EMi.pdf",
+      "text": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+    },
+    {
+      "url": "papers/XXie_MobiSys17_CLAW.pdf",
+      "text": "Accelerating Mobile Web Loading Using Cellular Link Information"
+    },
+    {
+      "url": "papers/CZhang_MobiCom16_LiTell.pdf",
+      "text": "LiTell: Robust Indoor Localization Using Unmodified Light Fixtures"
+    },
+    {
+      "url": "papers/TWei_MobiCom16_Tagyro.pdf",
+      "text": "Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things"
+    },
+    {
+      "url": "papers/JZhang_MobiCom16_OpenMili.pdf",
+      "text": "OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna"
+    },
+    {
+      "url": "papers/SSur_MobiCom16_MUSE.pdf",
+      "text": "Practical MU-MIMO User Selection on 802.11ac Commodity Networks"
+    },
+    {
+      "url": "papers/SSur_NSDI16_BeamSpy.pdf",
+      "text": "BeamSpy: Enabling Robust 60 GHz Links Under Blockage"
+    },
+    {
+      "url": "papers/PNguyen_INFOCOM16_TidalVolume.pdf",
+      "text": "Continuous and Fine-grained Breathing Volume Monitoring from Afar Using Wireless Signals"
+    },
+    {
+      "url": "papers/TWei_INFOCOM16_NURA.pdf",
+      "text": "Random Access Signaling for Network MIMO Uplink"
+    },
+    {
+      "url": "papers/TWei_MobiCom15_mTrack.pdf",
+      "text": "mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios"
+    },
+    {
+      "url": "papers/TWei_MobiCom15_Vibrometry.pdf",
+      "text": "Acoustic Eavesdropping through Wireless Vibrometry"
+    },
+    {
+      "url": "papers/XXie_MobiCom15_piStream.pdf",
+      "text": "piStream: Physical Layer Informed Adaptive Video Streaming Over LTE"
+    },
+    {
+      "url": "papers/XXie_MobiCom15_Hekaton.pdf",
+      "text": "Hekaton: Efficient and Practical Large-Scale MIMO"
+    },
+    {
+      "url": "papers/CZhang_MobiCom15_Okuli.pdf",
+      "text": "Extending Mobile Interaction Through Near-Field Visible Light Sensing"
+    },
+    {
+      "url": "papers/CZhang_MobiSys15_Miracast.pdf",
+      "text": "Energy Efficient WiFi Display"
+    },
+    {
+      "url": "papers/SSur_SIGMETRICS_60GHzLink.pdf",
+      "text": "60 GHz Indoor Networking through Flexible Beams: A Link-Level Profiling"
+    },
+    {
+      "url": "papers/SSur_TWei_IPSN15_Halma.pdf",
+      "text": "Bringing Multi-Antenna Gain to Energy-Constrained Wireless Devices"
+    },
+    {
+      "url": "papers/XXie_MobiHoc15_Kardia.pdf",
+      "text": "Cross-Cell DoF Distribution: Combating Channel Hardening Effect in Multi-Cell MU-MIMO Networks"
+    },
+    {
+      "url": "papers/AZhou_MobiHoc15_Signpost.pdf",
+      "text": "Signpost: Scalable MU-MIMO Signaling with Zero CSI Feedback"
+    },
+    {
+      "url": "papers/JZhang_INFOCOM15_VLC.pdf",
+      "text": "Dancing with Light: Predictive In-frame Rate Selection for Visible Light Networks"
+    },
+    {
+      "url": "papers/SSur_INFOCOM15_whitespace.pdf",
+      "text": "Bridging Link Power Asymmetry in Mobile Whitespace Networks"
+    },
+    {
+      "url": "papers/SWang_INFOCOM15_fullduplexGain.pdf",
+      "text": "Exploring Full-Duplex Gains in Multi-Cell Wireless Networks: A Spatial Stochastic Framework"
+    },
+    {
+      "url": "papers/Xie_ICNP14_FuMAC.pdf",
+      "text": "Semi-Synchronous Channel Access for Full-duplex Wireless Networks"
+    },
+    {
+      "url": "papers/Sur_Wei_MobiSys14_Dia.pdf",
+      "text": "Autodirective Audio Capturing Through a Synchronized Smartphone Array"
+    },
+    {
+      "url": "papers/Wang_MobiSys14_UbiK.pdf",
+      "text": "Ubiquitous Keyboard for Small Mobile Devices: Harnessing\n            Multipath Fading for Fine-Grained Keystroke Localization"
+    },
+    {
+      "url": "papers/Melgarejo_UbiComp14_Gesture.pdf",
+      "text": "Leveraging Directional Antenna Capabilities for Fine-Grained Gesture Recognition"
+    },
+    {
+      "url": "papers/Xie_INFOCOM14_fullduplexGain.pdf",
+      "text": "Does Full-duplex Double the Capacity of Wireless Networks?"
+    },
+    {
+      "url": "papers/Xie_INFOCOM14_OPUS.pdf",
+      "text": "Scalable User Selection for MU-MIMO Networks"
+    },
+    {
+      "url": "papers/Zhang_TMC14_DAC.pdf",
+      "text": "Cooperation Without Synchronization: Practical\n            Cooperative Relaying for Wireless Networks"
+    },
+    {
+      "url": "papers/Xie-MobiCom13-AFC.pdf",
+      "text": "Adaptive Feedback Compression for MIMO Networks"
+    },
+    {
+      "url": "papers/Zhang-MobiCom13-NEMOx.pdf",
+      "text": "NEMOx: Scalable Network MIMO for Wireless Networks"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2013/xyzhang_kgshin_infocom13.pdf",
+      "text": "Gap Sense: Lightweight Coordination of Heterogeneous Wireless Devices"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/xyzhang_kgshin_mobicom11.pdf",
+      "text": "E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks"
+    },
+    {
+      "url": "talks/xyzhang_kgshin_mobicom11_slides.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2011/xyzhang_kgshin_mobihoc11.pdf",
+      "text": "Enabling Coexistence of Heterogeneous Wireless Systems: Case for ZigBee and WiFi"
+    },
+    {
+      "url": "talks/mobihoc11Slides--xyzhang_kgshin.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "papers/CCS.pdf",
+      "text": "Cooperative Carrier Signaling: Harmonizing Coexisting WPAN and WLAN Devices"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/xyzhang_kgshin_S3_2011.pdf",
+      "text": "A Case for the Coexistence of Heterogeneous Wireless Networks"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/xyzhang_kgshin_icnp11.pdf",
+      "text": "Adaptive Subcarrier Nulling: Enabling Partial Spectrum Sharing in Wireless LANs"
+    },
+    {
+      "url": "talks/xyzhang_kgshin_icnp11_slides.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2010/xyzhang-infocom10-chorus-final.pdf",
+      "text": "Chorus: Collision Resolution for Efficient Wireless Broadcast"
+    },
+    {
+      "url": "talks/INFOCOM10Slides--Chorus.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu/papers/publications/2010/xyzhang-infocom10-dac-final.pdf",
+      "text": "DAC: Distributed Asynchronous Cooperation for Wireless Relay Networks"
+    },
+    {
+      "url": "talks/INFOCOM10Slides--DAC.pptx",
+      "text": ".pptx"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2010/infocom_alex.pdf",
+      "text": "Spatio-Temporal Fusion for Small-scale Primary Detection in\n\t\t\tCognitive Radio Networks"
+    },
+    {
+      "url": "http://kabru.eecs.umich.edu//papers/publications/2011/JSAC11_Min.pdf",
+      "text": "Detection of Small-scale Primary Users in Cognitive Radio Networks"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-infocom09.pdf",
+      "text": "On the Market Power of Network Coding in P2P Content Distribution\n\t\t\tSystems"
+    },
+    {
+      "url": "talks/xzhang-infocom09-slides.pdf",
+      "text": ".pdf"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-tpds11.pdf",
+      "text": "On the Market Power of Network Coding in P2P Content Distribution\n\t\t\tSystems"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-mobihoc08.pdf",
+      "text": "Dice: a Game Theoretic Framework for Wireless Multipath Network\n\t\t\tCoding"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-jsac09.pdf",
+      "text": "Optimized Multipath Network Coding in Lossy Wireless Networks"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-icdcs08.pdf",
+      "text": "Optimized Multipath Network Coding in Lossy Wireless Networks"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-mass08.pdf",
+      "text": "Drift: A Highly Condensed Emulation Framework for Mobile Nodes in Server Clusters"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-secon08.pdf",
+      "text": "On the Benefits of Network Coding in Multi-Channel Wireless\n\t\t\tNetworks"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-icc08.pdf",
+      "text": "Network Coding Aware Dynamic Subcarrier Assignment in OFDMA\n\t\t\tWireless Networks"
+    },
+    {
+      "url": "http://iqua.ece.toronto.edu/~bli/papers/xzhang-netcod08.pdf",
+      "text": "Joint Network Coding and Subcarrier Assignment in OFDMA-Based\n\t\t\tWireless Networks"
+    }
+  ],
+  "images": []
+}

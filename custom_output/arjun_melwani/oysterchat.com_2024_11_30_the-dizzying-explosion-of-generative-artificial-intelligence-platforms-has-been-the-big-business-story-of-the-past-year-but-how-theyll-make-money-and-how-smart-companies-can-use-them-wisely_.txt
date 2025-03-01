@@ -1,0 +1,341 @@
+          Close Menu
+                    Subscribe to Updates
+                      Get the latest creative news from FooBar about art, design and business.
+                          agreement.
+                  What's Hot
+                            [Meta Shares Latest Insights into Policy Enforcement and Content Engagement Trends](https://oysterchat.com/2025/02/28/meta-shares-latest-insights-into-policy-enforcement-and-content-engagement-trends/)
+                                February 28, 2025
+                            [LinkedIn Tests Alternate Feed of Updates From Only Your Connections](https://oysterchat.com/2025/02/28/linkedin-tests-alternate-feed-of-updates-from-only-your-connections/)
+                            [Apple Implements New Age Rating Categories for Apps](https://oysterchat.com/2025/02/27/apple-implements-new-age-rating-categories-for-apps/)
+                                February 27, 2025
+            Facebook
+            X (Twitter)
+            Instagram
+                    [Home](https://oysterchat.com)
+                    [Chatting Apps](https://oysterchat.com/category/chatting-apps/)
+                    [Chatting Info](https://oysterchat.com/category/chatting-info/)
+                    [Group Chats & Communities](https://oysterchat.com/category/group-chats-communities/)
+                    [Tech Behind Chat Apps](https://oysterchat.com/category/tech-behind-chat-apps/)
+                    [Tips & Guides](https://oysterchat.com/category/tips-guides/)
+        »
+        The dizzying explosion of generative artificial intelligence platforms has been the big business story of the past year, but how they’ll make money and how smart companies can use them wisely are the questions that will dominate the next 12 months.“Students and executives are no longer asking whether we should adopt AI—but rather, when and how to do so,” says Andy Wu, the Arjun and Minoo Melwani Family Associate Professor of Business Administration at Harvard Business School.Wu’s recent case study and background note, AI Wars and the Generative AI Value Chain, offer a crash course in ChatGPT, Bard, and other AI chatbots—as well as the dueling tech titans behind them—and probe the strategic dilemmas ahead for innovators and users. The public’s fascination with the human-like aspects of chatbots may be overshadowing more fundamental questions about how companies can profit from AI, Wu says.I think the basic economics of a generative AI are being overlooked.In an interview, Wu discusses the challenging economics of AI, how business models are likely to differ from traditional software models, and some of the potentially painful tradeoffs ahead for companies such as Google, Microsoft, and others. Wu collaborated on the case study with HBS research associate Matt Higgins; HBS doctoral student Miaomiao Zhang; and Massachusetts Institute of Technology doctoral student Hang Jiang.Ben Rand: What did you find most surprising in preparing this case and why?Andy Wu: I think the basic economics of a generative AI are being overlooked. There are significant unanswered questions in terms of how people will actually make money with this technology. Google and OpenAI and others can’t lose money in perpetuity. But it’s not yet obvious to anyone exactly how this will be monetized. At minimum, I can tell you that we are going to need new business models, and the integration of generative AI is going to transform how we monetize software and the business model.Rand: How so?Wu: Our notions of fixed cost and variable costs are different here than they were for any other form of computing we’ve lived through in the past. The key insight is that the variable cost of delivering generative AI to an end user is not zero… which means we can’t necessarily be handing out future software-as-a-service applications containing generative AI for free to anyone or even as a paid subscription without usage limits as we are used to today. Usage pricing is going to be much more important.A second distinction is that a significant portion of the core technology is open source, and a lot of the data being used to train these models is public data and may be copyrighted but is publicly available online. The barriers to entry for AI are not as high as it may seem. So many companies will be in the game, at least for specific vertical AI models and applications.Rand: Is it too soon to tell which business model will emerge?Wu: The companies are still trying to figure it out. But I think by their actions, we can get some hints about the direction we’re going to go. The generative AI companies out there are actually pricing on a usage model, which says to me that they don’t think they can make the subscription model work economically today.Rand: Which companies are in the best position right now?Wu: A real standout right now is Meta, in terms of fighting hard for a prominent position on the open-source side with their LLaMA model. Prior to last year, many would have assumed that Google would have been the putative leader in the open-source part of the market. Microsoft also deserves a lot of credit for making a decision to work with OpenAI and getting access to leading technology that they can integrate both into their applications and as a way to sell cloud computing services.But what’s interesting here is that none of the big tech providers are in the business of selling the actual model itself. Amazon largely offers its cloud customers the open-source models that others have made. Meta is largely handing its model out for free (with some limits), and Microsoft outsourced much of the core technology to OpenAI. Looking at these decisions together, they are making a real, albeit subtle, statement about what to avoid, which is actually trying to directly monetize the core technology—the AI model—itself.The challenge we face right now with AI is it’s very possible that the actual invention of the technology itself is not what people will make money on. It will transform the world, but the money isn’t made on the thing that enabled the transformation.The issue is, we normally think of intellectual property as being copyrighted or not copyrighted.Rand: What role will regulation play, do you think?Wu: I understand the interest of regulators, given the risks of this technology. But it’s going to be very difficult for regulators to come up with a comprehensive policy that controls things in the way that they would aspire to control them. That comes down to one principal factor, and that is that the barrier to entry is not that high. There are already a significant amount of open-source models that you or I could build on.So, let’s say we want to block AI from generating hate speech. To the extent that there is a market for hate speech, some entrepreneur will be able to build that model. It’s hard to exactly figure out how you would block it. If there is a market, someone will figure out how to do it.Rand: Are there some areas where regulation may be useful?Wu: Copyright law is one area they can address. The issue is, we normally think of intellectual property as being copyrighted or not copyrighted. But I like to teach my students that we’re in a new world. There’s copyrighted and not copyrighted, and then there’s also public and private. And so, the issue right now is that you can have copyrighted data that is also public. For instance, any newspaper publisher that allows their news articles to be indexed by search engines has put their intellectual property in this situation of being copyrighted but also public.What do those creators do about their data? You can say it’s copyrighted, and say other people can’t use it, but you can’t really run around proving that all these different models are being trained using your data. This is something that regulators will have to clarify and also something that companies are taking note of themselves, particularly in the music space and image space.To the extent that maybe you don’t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.Rand: With so much to consider, how can managers stay on top of the developments in AI? They seem to be changing so fast.Wu: I would advise managers not to play for the next year. Play for the next 10 years. The idea is that you want to have people inside your company who are on top of the different technologies and experimenting with different things. You need to give them a pathway to communicate with the CEO and top management team about which technologies to invest in.The corollary to that is the integration of data across business units in a company. It’s not being done well enough right now, based on my experience. Companies already have a fairly complicated portfolio of different databases and enterprise products that store their data. That data increasingly needs to be kept track of, and, ideally, integrated. And so, to the extent that maybe you don’t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.Rand: What are some best practices of things companies need to be doing now?Wu: If you’re a company thinking about implementing AI, there are different levels of sophistication to consider. You could wait for other companies to develop the relevant applications, or you could buy an API and build your own application, or you could actually train your own model and then build your own application. And I think companies need to begin the process now of identifying what level of sophistication they want. For example, one early leader in this process is Bloomberg, where they have already gone ahead and built BloombergGPT, a large-language model tailored for financial tasks. They used their own proprietary data to finetune an open-source model. For a company like Bloomberg, providing financial insights is mission critical, and so they cannot wait around for someone else to develop that AI model and application.You Might Also Like:Feedback or ideas to share? Email the Working Knowledge team at
+          [[email protected]](/cdn-cgi/l/email-protection)
+          : AI Generation
+                  $
+                  /$
+                    The dizzying explosion of generative artificial intelligence platforms has been the big business story of the past year, but how they’ll make money and how smart companies can use them wisely are the questions that will dominate the next 12 months.
+                    “Students and executives are no longer asking whether we should adopt AI—but rather, when and how to do so,” says Andy Wu, the Arjun and Minoo Melwani Family Associate Professor of Business Administration at Harvard Business School.
+                    Wu’s recent case study and background note,
+                      [AI Wars](https://www.hbs.edu/faculty/Pages/item.aspx?num=63881)
+                      and the
+                      [Generative AI Value Chain](https://www.hbs.edu/faculty/Pages/item.aspx?num=64320)
+                      , offer a crash course in ChatGPT, Bard, and other AI chatbots—as well as the dueling tech titans behind them—and probe the strategic dilemmas ahead for innovators and users. The public’s fascination with the human-like aspects of chatbots may be overshadowing more fundamental questions about how companies can profit from AI, Wu says.
+                            I think the basic economics of a generative AI are being overlooked.
+                    In an interview, Wu discusses the challenging economics of AI, how business models are likely to differ from traditional software models, and some of the potentially painful tradeoffs ahead for companies such as Google, Microsoft, and others. Wu collaborated on the case study with HBS research associate Matt Higgins; HBS doctoral student Miaomiao Zhang; and Massachusetts Institute of Technology doctoral student Hang Jiang.
+                      Ben Rand
+                      : What did you find most surprising in preparing this case and why?
+                      Andy Wu
+                      : I think the basic economics of a generative AI are being overlooked. There are significant unanswered questions in terms of how people will actually make money with this technology. Google and OpenAI and others can’t lose money in perpetuity. But it’s not yet obvious to anyone exactly how this will be monetized. At minimum, I can tell you that we are going to need new business models, and the integration of generative AI is going to transform how we monetize software and the business model.
+                      Rand
+                      : How so?
+                      Wu
+                      : Our notions of fixed cost and variable costs are different here than they were for any other form of computing we’ve lived through in the past. The key insight is that the variable cost of delivering generative AI to an end user is not zero… which means we can’t necessarily be handing out future software-as-a-service applications containing generative AI for free to anyone or even as a paid subscription without usage limits as we are used to today. Usage pricing is going to be much more important.
+                    A second distinction is that a significant portion of the core technology is open source, and a lot of the data being used to train these models is public data and may be copyrighted but is publicly available online. The barriers to entry for AI are not as high as it may seem. So many companies will be in the game, at least for specific vertical AI models and applications.
+                      : Is it too soon to tell which business model will emerge?
+                      : The companies are still trying to figure it out. But I think by their actions, we can get some hints about the direction we’re going to go. The generative AI companies out there are actually pricing on a usage model, which says to me that they don’t think they can make the subscription model work economically today.
+                      : Which companies are in the best position right now?
+                      : A real standout right now is Meta, in terms of fighting hard for a prominent position on the open-source side with their LLaMA model. Prior to last year, many would have assumed that Google would have been the putative leader in the open-source part of the market. Microsoft also deserves a lot of credit for making a decision to work with OpenAI and getting access to leading technology that they can integrate both into their applications and as a way to sell cloud computing services.
+                    But what’s interesting here is that none of the big tech providers are in the business of selling the actual model itself. Amazon largely offers its cloud customers the open-source models that others have made. Meta is largely handing its model out for free (with some limits), and Microsoft outsourced much of the core technology to OpenAI. Looking at these decisions together, they are making a real, albeit subtle, statement about what to avoid, which is actually trying to directly monetize the core technology—the AI model—itself.
+                    The challenge we face right now with AI is it’s very possible that the actual invention of the technology itself is not what people will make money on. It will transform the world, but the money isn’t made on the thing that enabled the transformation.
+                            The issue is, we normally think of intellectual property as being copyrighted or not copyrighted.
+                      : What role will regulation play, do you think?
+                      : I understand the interest of regulators, given the risks of this technology. But it’s going to be very difficult for regulators to come up with a comprehensive policy that controls things in the way that they would aspire to control them. That comes down to one principal factor, and that is that the barrier to entry is not that high. There are already a significant amount of open-source models that you or I could build on.
+                    So, let’s say we want to block AI from generating hate speech. To the extent that there is a market for hate speech, some entrepreneur will be able to build that model. It’s hard to exactly figure out how you would block it. If there is a market, someone will figure out how to do it.
+                      : Are there some areas where regulation may be useful?
+                      : Copyright law is one area they can address. The issue is, we normally think of intellectual property as being copyrighted or not copyrighted. But I like to teach my students that we’re in a new world. There’s copyrighted and not copyrighted, and then there’s also public and private. And so, the issue right now is that you can have copyrighted data that is also public. For instance, any newspaper publisher that allows their news articles to be indexed by search engines has put their intellectual property in this situation of being copyrighted but also public.
+                    What do those creators do about their data? You can say it’s copyrighted, and say other people can’t use it, but you can’t really run around proving that all these different models are being trained using your data. This is something that regulators will have to clarify and also something that companies are taking note of themselves, particularly in the music space and image space.
+                            To the extent that maybe you don’t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.
+                      : With so much to consider, how can managers stay on top of the developments in AI? They seem to be changing so fast.
+                      : I would advise managers not to play for the next year. Play for the next 10 years. The idea is that you want to have people inside your company who are on top of the different technologies and experimenting with different things. You need to give them a pathway to communicate with the CEO and top management team about which technologies to invest in.
+                    The corollary to that is the integration of data across business units in a company. It’s not being done well enough right now, based on my experience. Companies already have a fairly complicated portfolio of different databases and enterprise products that store their data. That data increasingly needs to be kept track of, and, ideally, integrated. And so, to the extent that maybe you don’t want an AI offering now, but you want one five years from now, the effort of building a centralized data store for all that data will be important.
+                      : What are some best practices of things companies need to be doing now?
+                      : If you’re a company thinking about implementing AI, there are different levels of sophistication to consider. You could wait for other companies to develop the relevant applications, or you could buy an API and build your own application, or you could actually train your own model and then build your own application. And I think companies need to begin the process now of identifying what level of sophistication they want. For example, one early leader in this process is Bloomberg, where they have already gone ahead and built BloombergGPT, a large-language model tailored for financial tasks. They used their own proprietary data to finetune an open-source model. For a company like Bloomberg, providing financial insights is mission critical, and so they cannot wait around for someone else to develop that AI model and application.
+                    You Might Also Like:
+                        Feedback or ideas to share? Email the Working Knowledge team at
+                        .
+                    Image: AI Generation
+                  By
+                  [admin45678o](https://oysterchat.com/author/admin45678o/)
+                  November 30, 2024
+                Twitter
+                Pinterest
+                LinkedIn
+                Tumblr
+                WhatsApp
+                Telegram
+                Email
+                    Share
+                  Halo, para pengemar slots Pernah mendengar istilah “raja slot? Kalau belum, bersiaplah jatuh cinta sama konsep ini. raja slot merupakan mesin slots yang selalu memberi win. Yup, slot-slot ini bisa disebut adalah andalannya tuk  membawa come back hasil. but, cemana sih caranya jumpain slot gacor yang benar? Santai Bro, kita beri tenang saja  di sini
+                  Informasi mengenai
+                    [KING SLOT](https://kingselot.com/)
+                    , Segera Daftar Bersama
+                    [king selot](https://kingselot.com/)
+                    terbaik dan terpercaya no satu di Indonesia. Boleh mendaftar melalui sini
+                    [king slot](https://kingslot.bio/)
+                    serta memberikan hasil kembali yang paling tinggi saat sekarang ini hanyalah
+                    paling gacor, gilak dan gaco saat sekarang di Indonesia melalui program return tinggi di
+                    [kingselot](https://kingselot.com/)
+                    serta
+                    [pg king slot](https://pgkingslot.org/)
+                    [matahari88slot](https://matahari88slot.com/)
+                    permainan paling top dan garansi imbal balik hasil besar bersama
+                    [https://matahari88slot.com/](https://matahari88slot.com/)
+                    [mama88](https://mama88.asia/)
+                    [https://mama88.asia/](https://mama88.asia/)
+                    [loker88](https://loker88.biz/)
+                    [https://loker88.biz/](https://loker88.biz/)
+                    [line88](https://line88.social/)
+                    [https://line88.social/](https://line88.social/)
+                    [lelang88](https://lelang88.asia/)
+                    [https://lelang88.asia/](https://lelang88.asia/)
+                    [legend88](https://legend88.org/)
+                    [https://legend88.org/](https://legend88.org/)
+                    [laundry 88](https://laundry88.org/)
+                    [https://laundry88.org/](https://laundry88.org/)
+                    [https://laundry88.net/](https://laundry88.net/)
+                    [kota88](https://kota88.asia/)
+                    [https://kota88.asia/](https://kota88.asia/)
+                    [kawat88](https://kawat88.net/)
+                    [https://kawat88.net/](https://kawat88.net/)
+                    [kakaotalk](https://kakaotalk.pro/)
+                    [https://kakaotalk.pro/](https://kakaotalk.pro/)
+                    [kaca88](https://kaca88.asia/)
+                    [https://kaca88.asia/](https://kaca88.asia/)
+                    [jualbeli88](https://jualbeli88.com/)
+                    [https://jualbeli88.com/](https://jualbeli88.com/)
+                    [indonesiafc88](https://indonesiafc88.com/)
+                    [https://indonesiafc88.com/](https://indonesiafc88.com/)
+                    [indofood88](https://indofood88.com/)
+                    [https://indofood88.com/](https://indofood88.com/)
+                    [guru88](https://guru88.asia/)
+                    [https://guru88.asia/](https://guru88.asia/)
+                    [grabpay88](https://grabpay88.org/)
+                    [https://grabpay88.org/](https://grabpay88.org/)
+                    [grab88](https://grab88.info/)
+                    [https://grab88.info/](https://grab88.info/)
+                    [gopay88](https://gopay88.info/)
+                    [https://gopay88.info/](https://gopay88.info/)
+                    [gold88](https://gold88.asia/)
+                    [https://gold88.asia/](https://gold88.asia/)
+                    [gofood88](https://gofood88.com/)
+                    [https://gofood88.com/](https://gofood88.com/)
+                    [gelas88](https://gelas88.info/)
+                    [https://gelas88.info/](https://gelas88.info/)
+                    [eth88](https://eth88.org/)
+                    [https://eth88.org/](https://eth88.org/)
+                    [emas88](https://emas88.biz/)
+                    [https://emas88.biz/](https://emas88.biz/)
+                    [blockchain88](https://blockchain88.net/)
+                    [https://blockchain88.net/](https://blockchain88.net/)
+                    [baik888](https://baik888.net/)
+                    [https://baik888.net/](https://baik888.net/)
+                    [bagus888](https://bagus888.info/)
+                    [https://bagus888.info/](https://bagus888.info/)
+                    [anorganik88](https://anorganik88.com/)
+                    [https://anorganik88.com/](https://anorganik88.com/)
+                    [panen96](https://panen96.net/)
+                    [https://panen96.net/](https://panen96.net/)
+                    [https://panen69.info/](https://panen69.info/)
+                    [https://panen69.asia/](https://panen69.asia/)
+                    [selot](https://selot.info/)
+                    [https://selot.info/](https://selot.info/)
+                    [https://selot.asia/](https://selot.asia/)
+                    [samsung88](https://samsung88.asia/)
+                    [https://samsung88.asia/](https://samsung88.asia/)
+                    [raksasa88](https://raksasa88.info/)
+                    [https://raksasa88.info/](https://raksasa88.info/)
+                    [iphone88](https://iphone88.asia/)
+                    [https://iphone88.asia/](https://iphone88.asia/)
+                    [gm88](https://gm88.news/)
+                    [https://gm88.news/](https://gm88.news/)
+                    [https://selot.biz/](https://selot.biz/)
+                    [topdewa88](https://topdewa88.com/)
+                    [https://topdewa88.com/](https://topdewa88.com/)
+                    [ebook88](https://ebook88.org/)
+                    [https://ebook88.org/](https://ebook88.org/)
+                    [https://ebook88.net/](https://ebook88.net/)
+                    [sensor88](https://sensor88.asia/)
+                    [https://sensor88.asia/](https://sensor88.asia/)
+                    [mpo2288](https://mpo2288.net/)
+                    [https://mpo2288.net/](https://mpo2288.net/)
+                    [lembaga88](https://lembaga88.net/)
+                    [https://lembaga88.net/](https://lembaga88.net/)
+                    [inti88](https://inti88.biz/)
+                    [https://inti88.biz/](https://inti88.biz/)
+                    [dokumen88](https://dokumen88.com/)
+                    [https://dokumen88.com/](https://dokumen88.com/)
+                    [baik88](https://baik88.asia/)
+                    [https://baik88.asia/](https://baik88.asia/)
+                    [https://bagus888.asia/](https://bagus888.asia/)
+                    [tiktok888](https://tiktok888.info/)
+                    [https://tiktok888.info/](https://tiktok888.info/)
+                    [registrasi88](https://registrasi88.net/)
+                    [https://registrasi88.net/](https://registrasi88.net/)
+                    [https://registrasi88.com/](https://registrasi88.com/)
+                    [pstmi88](https://pstmi88.com/)
+                    [https://pstmi88.com/](https://pstmi88.com/)
+                    [lionsclubs88](https://lionsclubs88.com/)
+                    [https://lionsclubs88.com/](https://lionsclubs88.com/)
+                    [kompas88](https://kompas88.asia/)
+                    [https://kompas88.asia/](https://kompas88.asia/)
+                    [jeruk333](https://jeruk333.com/)
+                    [https://jeruk333.com/](https://jeruk333.com/)
+                    [james88](https://james88.net/)
+                    [https://james88.net/](https://james88.net/)
+                    [fb888](https://fb888.site/)
+                    [https://fb888.site/](https://fb888.site/)
+                    [detik888](https://detik888.asia/)
+                    [https://detik888.asia/](https://detik888.asia/)
+                    [david88](https://david88.net/)
+                    [https://david88.net/](https://david88.net/)
+                    [danautoba88](https://danautoba88.com/)
+                    [https://danautoba88.com/](https://danautoba88.com/)
+                    [tebar88](https://tebar88.asia/)
+                    [https://tebar88.asia/](https://tebar88.asia/)
+                    [slotbom777](https://slotbom777.asia/)
+                    [https://slotbom777.asia/](https://slotbom777.asia/)
+                    [padi88](https://padi88.com/)
+                    [https://padi88.com/](https://padi88.com/)
+                    [padi77](https://padi77.asia/)
+                    [https://padi77.asia/](https://padi77.asia/)
+                    [muara88](https://muara88.asia/)
+                    [https://muara88.asia/](https://muara88.asia/)
+                    [muara77](https://muara77.asia/)
+                    [https://muara77.asia/](https://muara77.asia/)
+                    [maxwin777](https://maxwin777.asia/)
+                    [https://maxwin777.asia/](https://maxwin777.asia/)
+                    [bigpot888](https://bigpot888.org/)
+                    [https://bigpot888.org/](https://bigpot888.org/)
+                    [https://bigpot888.net/](https://bigpot888.net/)
+                    [sumo88](https://sumo88.net/)
+                    [https://sumo88.net/](https://sumo88.net/)
+                    [sumo77](https://sumo77.org/)
+                    [https://sumo77.org/](https://sumo77.org/)
+                    [https://sumo77.net/](https://sumo77.net/)
+                    [sjo88](https://sjo88.asia/)
+                    [https://sjo88.asia/](https://sjo88.asia/)
+                    [sjo77](https://sjo77.asia/)
+                    [https://sjo77.asia/](https://sjo77.asia/)
+                    [kudetabet88](https://kudetabet88.asia/)
+                    [https://kudetabet88.asia/](https://kudetabet88.asia/)
+                    [kudeta99](https://kudeta99.asia/)
+                    [https://kudeta99.asia/](https://kudeta99.asia/)
+                    [kudeta988](https://kudeta988.com/)
+                    [https://kudeta988.com/](https://kudeta988.com/)
+                    [kudeta88](https://kudeta88.asia/)
+                    [https://kudeta88.asia/](https://kudeta88.asia/)
+                    [fufufafa](https://fufufafa.org/)
+                    [https://fufufafa.org/](https://fufufafa.org/)
+                    [bahagia88](https://bahagia88.org/)
+                    [https://bahagia88.org/](https://bahagia88.org/)
+                    [bahagia77](https://bahagia77.club/)
+                    [https://bahagia77.club/](https://bahagia77.club/)
+                    [angin777](https://angin777.inf/)
+                    [https://angin777.inf/](https://angin777.inf/)
+                    [sunda88](https://sunda88.org/)
+                    [https://sunda88.org/](https://sunda88.org/)
+                    [slotcc88](https://slotcc88.com/)
+                    [https://slotcc88.com/](https://slotcc88.com/)
+                    [poskobet88](https://poskobet88.com/)
+                    [https://poskobet88.com/](https://poskobet88.com/)
+                    [nuri88](https://nuri88.asia/)
+                    [https://nuri88.asia/](https://nuri88.asia/)
+                    [janjiwin88](https://janjiwin88.com/)
+                    [https://janjiwin88.com/](https://janjiwin88.com/)
+                    [top99](https://top99.asia/)
+                    [https://top99.asia/](https://top99.asia/)
+                    [top888](https://top888.info/)
+                    [https://top888.info/](https://top888.info/)
+                    [terbaik99](https://terbaik99.com/)
+                    [https://terbaik99.com/](https://terbaik99.com/)
+                    [terbaik88](https://terbaik88.asia/)
+                    [https://terbaik88.asia/](https://terbaik88.asia/)
+                    [pornhub88](https://pornhub88.org/)
+                    [https://pornhub88.org/](https://pornhub88.org/)
+                    [https://pornhub88.com/](https://pornhub88.com/)
+                    [plastik88](https://plastik88.com/)
+                    [https://plastik88.com/](https://plastik88.com/)
+                    [partai88](https://partai88.asia/)
+                    [https://partai88.asia/](https://partai88.asia/)
+                    [panas88](https://panas88.info/)
+                    [https://panas88.info/](https://panas88.info/)
+                    [minimal88](https://minimal88.net/)
+                    [https://minimal88.net/](https://minimal88.net/)
+                    [https://minimal88.com/](https://minimal88.com/)
+                    [merk88](https://merk88.net/)
+                    [https://merk88.net/](https://merk88.net/)
+                    [https://merk88.com/](https://merk88.com/)
+                  CONTENT END 1
+                [alt](https://oysterchat.com/tag/alt/)
+                [classhbsglobalaligncenter](https://oysterchat.com/tag/classhbsglobalaligncenter/)
+                [classhbsmediaasset](https://oysterchat.com/tag/classhbsmediaasset/)
+                [classhbsmediaasset__wrapperimg](https://oysterchat.com/tag/classhbsmediaasset__wrapperimg/)
+                [divdiv](https://oysterchat.com/tag/divdiv/)
+                [hbshidedropcapfigure](https://oysterchat.com/tag/hbshidedropcapfigure/)
+                [hbsmediaassetimage](https://oysterchat.com/tag/hbsmediaassetimage/)
+                [hbsmediaassetloadedspan](https://oysterchat.com/tag/hbsmediaassetloadedspan/)
+                [hbsrichtext](https://oysterchat.com/tag/hbsrichtext/)
+                [heightauto](https://oysterchat.com/tag/heightauto/)
+                [loadinglazy](https://oysterchat.com/tag/loadinglazy/)
+                [width2800](https://oysterchat.com/tag/width2800/)
+              Share.
+                        Website
+                Related
+                  Posts
+                              Wondering how to make your social media efforts more profitable? Looking for ways to improve customer retention and acquisition through social platforms?  In this article, you’ll discover how to implement a social care strategy that enhances customer experience and drives business growth. Why Social Care Matters for Marketers While algorithms shift and platforms rise and […]
+                              [The post](https://oysterchat.com/2025/02/27/wondering-how-to-make-your-social-media-efforts-more-profitable-looking-for-ways-to-improve-customer-retention-and-acquisition-through-social-platforms-in-this-article-youll-discover-how-to/)
+                              [Social Care: The Path to Happier Customers and Increased Sales](https://www.socialmediaexaminer.com/social-care-the-path-to-happier-customers-and-increased-sales/)
+                              appeared first on
+                              [Social Media Examiner](https://www.socialmediaexaminer.com)
+                              Wondering where you should begin using AI in your work? Are you overwhelmed by the number of AI tools available and unsure which to try? In this article, you’ll discover a practical framework for prioritizing where to use AI and finding the right solutions to streamline your business processes. Why You Need a System for […]
+                              [The Smart Marketer’s Guide to Streamlining Work with AI](https://www.socialmediaexaminer.com/the-smart-marketers-guide-to-streamlining-work-with-ai/)
+                                February 25, 2025
+                              Marketers need more than great copy to capture attention—they need messaging that connects on a psychological level. That’s where neuro-linguistic programming (NLP) comes in. In this article, we’ll break down two key NLP techniques to help you refine your marketing strategy and attract more customers. Why Marketers Should Care About Neuro-Linguistic Programming A marketer’s job […]
+                              [Using Neuro-Linguistic Programming for More Influence and Sales](https://www.socialmediaexaminer.com/using-neuro-linguistic-programming-for-more-influence-and-sales/)
+                                February 20, 2025
+                              Are you a content creator or marketer looking to improve your content? Wondering how AI can help you produce high-quality content?  In this article, you’ll discover the best AI tools for research, image generation, video creation, and audio production to enhance your content creation process. Who Should Use Tools for AI-Generated Content Not everyone needs […]
+                              [Top AI Tools for Creators for 2025](https://www.socialmediaexaminer.com/top-ai-tools-for-creators-for-2025/)
+                                February 18, 2025
+                              Tired of your content getting lost in social media noise? Wondering how top creators consistently produce videos that get noticed?  In this article, you’ll learn a proven methodology for dissecting successful content formats and adapting them to your own niche. Why Video Storytelling Matters for Marketers With 5 billion people on social media platforms today, […]
+                              [Viral Short-Form Video Formats for 2025](https://www.socialmediaexaminer.com/viral-short-form-video-formats-for-2025/)
+                                February 13, 2025
+                              Wondering why your AI results aren’t meeting expectations? Curious about the secret to crafting more effective prompts?  In this article, you’ll discover why 95% of your prompt should be dedicated to priming and how to implement this strategy for better AI outcomes. Why Prompt Priming Improves AI’s Responses To help us understand the importance of […]
+                              [AI Priming: Getting Custom and Accurate AI Output](https://www.socialmediaexaminer.com/ai-priming-getting-custom-and-accurate-ai-output/)
+                                February 11, 2025
+                    Leave A Reply
+                      [Cancel Reply](/2024/11/30/the-dizzying-explosion-of-generative-artificial-intelligence-platforms-has-been-the-big-business-story-of-the-past-year-but-how-theyll-make-money-and-how-smart-companies-can-use-them-wisely/#respond)
+                      Save my name, email, and website in this browser for the next time I comment.
+                #respond
+              #comments
+                    Don't Miss
+                              Meta has published its latest overview of content violations, hacking attempts, and feed engagement, which…
+                                [TikTok Sets Dedaline for the Switch to its ‘ikTok One’ Creative Suite](https://oysterchat.com/2025/02/27/tiktok-sets-dedaline-for-the-switch-to-its-iktok-one-creative-suite/)
+                    Our Picks
+                              [Best ChatGPT app – our 2024 top picks](https://oysterchat.com/2024/11/30/best-chatgpt-app-our-2024-top-picks/)
+                Stay In Touch
+                      YouTube
+                      Vimeo
+                About Us
+                  Welcome to OysterChat, your ultimate source for everything related to chatting! Whether you're looking for the latest information on messaging apps, tips for secure chatting, or insights into the technology behind your favorite platforms, we’ve got you covered.
+                  [Terms and Conditions](https://oysterchat.com/terms-and-conditions/)
+                  [Privacy Policy](https://oysterchat.com/privacy-policy-2/)
+                  [Contact Us](https://oysterchat.com/contact-us/)
+          © 2025 oysterchat. Designed by
+            [Webwizards7](https://www.fiverr.com/s/Ld0qB8Y)
+  .main-wrap
+        Submit
+        Type above and press
+          Enter
+          to search. Press
+          Esc
+          to cancel.

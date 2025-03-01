@@ -1,0 +1,117 @@
+{
+  "title": "Pavan Jayasinha",
+  "meta_description": "Pavan Jayasinha \u2014 quantum machine learning, investing, writing.",
+  "main_content": "Comp eng @UWaterloo , invested in ML+QC Now Robotics research under Prof Zelek @UWaterloo - implementing real-time SOTA visual SLAM algorithms Where I've worked Extropic AI (Jan - Dec, 2023) - Research Engineer Intern Built the core codebase for the simulation of our analog thermodynamic-based AI hardware, laying the groundwork for subsequent R&D modelling and analysis initiatives. Enhanced the training pipeline efficiency, achieving a 2-fold increase in speed through meticulous memory optimization and bottleneck profiling across 100+ GPU training runs Created an internal state-of-the-art JAX library for tensor network simulation of quantum circuits on CUDA GPUs\u0005 Untether AI (Sept - Dec, 2022) - Compute Kernel Engineer Intern Developed 3 custom kernels in C++ specialized for rapid neural network inference on the UntetherAI chip architecture. Institute for Quantum Computing (Jan - Apr, 2022) - Research Intern Researched a method to effectively realize Bose Hubbard Hamiltonian dynamics through Rydberg atom arrays. Built infrastructure to run 100+ theoretical simulations under various experimental conditions and constraints. Developed a python package for efficiently calculating sparse matrix exponentials using the Krylov Method. Zapata Computing (Jun - Aug, 2021) - Quantum AI Intern Researched more efficient training methods for quantum generative models. Developed Orquestra codebase to enable effortless development of QGANs (quantum generative adversarial networks). What I've done May 2023 - Integrated Nvidia GPU compatibility into TensorFlow Quantum for large-scale speedups Became the largest non-google open source contributor to TensorFlow Quantum Implemented Bazel build infrastructure and cuQuantum SDK GPU kernels for quantum circuit simulation on heterogenous devices. April 2022 - Authored article on quantum graph neural networks [article] Wrote a deep dive into classical graph neural networks, graph convolutions & attention-based graph learning, and QML applied to high energy physics [article] Feb 2022 - Top 5 QHack 2022 Project [github] Improved a hybrid quantum graph neural network that was used to solve the particle trajectory reconstruction problem [link] Dec 2021 - Authored closing chapter in the Qiskit QML course [link] [blog] As part of the Qiskit Advocate Mentorship Program, authored the chapter on QGANs for the newly released quantum machine learning course by IBM's Qiskit team [link] June 2021 - Built a project applying quantum generative adverserial networks to learn sequential data [link] Under the guidance of a research scientist from AWS Braket, built a hybrid quantum-classical version of the Wasserstein generative adversarial network. [link] Evaluated learnability of conditional QGANs for sequential data prediction [link] Investigated heuristics for optimal training of QGANs [link] Feb 2021 - Quantum portfolio optimization project with QHack 2021 [link] Used quantum generative adversarial networks for portfolio optimisation We built an exploratory project applying qGANs and VQE to solve the mean-variance portfolio problem. This placed our team in the 95th percentile of participants in the QHack quantum machine learning hackathon winning over $4000 in AWS credits. Apr 2021 - Authored an overview of quantum generative adversarial networks [link] Explained QGANs for quantum computing enthusiasts. Derived the cost function and other mathematical properties stated in the original paper Feb 2021 - Generalized QAOA to solve the Max-Cut problem [link] Built a general quantum approximate optimization algorithm for solving weighted cases of the Max-Cut problem Mar 2021 - Developed an AI SMS-based text engine in a project partnered with UN Women [link] An alternative search engine that we\u2019ve developed & trialed, allowing rural South Africans with a mobile phone to be able to send internet search queries & receive back summarized results all through SMS Placed top 3 in challenge out of 150+ teams \u2014 project built as part of a TKS challenge w/ United Nations. Dec 2020 - Challenge project for Instacart [link] Addressed customer experience holdbacks by providing an easy-to-implement solution filling data gaps in the Instacart to retailer to CGP pipeline. Won first place in consulting challenge out of 30+ teams.",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/Sinestro38",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/pavanjayasinha",
+      "text": ""
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/",
+      "text": ""
+    },
+    {
+      "url": "https://www.extropic.ai/",
+      "text": "Extropic AI"
+    },
+    {
+      "url": "https://www.untether.ai/",
+      "text": "Untether AI"
+    },
+    {
+      "url": "https://uwaterloo.ca/institute-for-quantum-computing/",
+      "text": "Institute for Quantum Computing"
+    },
+    {
+      "url": "https://www.zapatacomputing.com/",
+      "text": "Zapata Computing"
+    },
+    {
+      "url": "https://www.tensorflow.org/quantum",
+      "text": "TensorFlow Quantum"
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425",
+      "text": "[article]"
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425",
+      "text": "[article]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/QHack-2022-Hackathon",
+      "text": "[github]"
+    },
+    {
+      "url": "https://github.com/QTrkX/qtrkx-gnn-tracking/pull/3",
+      "text": "[link]"
+    },
+    {
+      "url": "https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks",
+      "text": "Dec 2021 - Authored closing chapter in the Qiskit QML course [link]"
+    },
+    {
+      "url": "https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d",
+      "text": "[blog]"
+    },
+    {
+      "url": "https://learn.qiskit.org/course/machine-learning/",
+      "text": "[link]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/qosf-qgan",
+      "text": "June 2021 - Built a project applying\n                            quantum generative adverserial networks to learn sequential data [link]"
+    },
+    {
+      "url": "https://nbviewer.jupyter.org/github/Sinestro38/qosf-qgan/blob/main/Conditional%20QWGAN.ipynb",
+      "text": "[link]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/qosf-qgan/blob/main/Conditional%20QGAN.ipynb",
+      "text": "[link]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/qosf-qgan/blob/main/Hyperparameter_tuning_logs.pdf",
+      "text": "[link]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/quantum-portfolio-optimisation",
+      "text": "Feb 2021 - Quantum portfolio optimization project with QHack 2021 [link]"
+    },
+    {
+      "url": "https://qhack.ai/",
+      "text": "QHack"
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/quantum-generative-adversarial-networks-76243d1c6888",
+      "text": "Apr 2021 - Authored an overview of quantum generative adversarial networks\n                            [link]"
+    },
+    {
+      "url": "https://github.com/Sinestro38/Generalized-QAOA-to-solve-the-weighted-max-cut-problem",
+      "text": "Feb 2021 - Generalized QAOA to solve the Max-Cut problem [link]"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/19dpdddZNXM4Hd5U0zMb3z0hoYEZAACy4JcrAsxok48w/edit?usp=sharing",
+      "text": "Mar 2021 - Developed an AI SMS-based text engine in a project partnered with UN Women\n                            [link]"
+    },
+    {
+      "url": "https://drive.google.com/file/d/14-yUeLJIJjONIwyyZReTKoz33tANOPdU/view?usp=sharing",
+      "text": "Dec 2020 - Challenge project for Instacart [link]"
+    }
+  ],
+  "images": [
+    {
+      "src": "./images/pfp2.jpg",
+      "alt": ""
+    }
+  ]
+}

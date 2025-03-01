@@ -1,0 +1,49 @@
+{
+  "title": "Team",
+  "meta_description": "",
+  "main_content": "Stanford Crowdsourced Democracy Team Team Lovish Chopra M.Sc. Student in Computer Science, Stanford University Lodewijk Gelauff Postdoctoral Fellow, Stanford Deliberative Democracy Lab. Ashish Goel Professor of Management Science and Engineering, and by courtesy, Computer Science. Ashish does research in design, analysis, and applications of algorithms. He also designed and prototyped several of Twitter's early algorithmic and monetization products. Mohak Goyal Ph.D. Candidate in Management Science and Engineering, Stanford University Sahasrajit Sarmasarkar Ph.D. Student in Electrical Engineering, Stanford University Collaborators James Fishkin ( website ) Professor of Communication and Professor of Political Science. James is Director of Stanford\u2019s Center for Deliberative Democracy. Kamesh Munagala ( website ) Professor of Computer Science at Duke University. Kamesh does research in algorithm design and discrete optimization. Sukolsak Sakshuwong ( website ) PhD candidate in Management Science and Engineering at Stanford University. Alice Siu ( website ) Associate Director of Stanford\u2019s Center for Deliberative Democracy. Past collaborators and team members We would also like to thank our past collaborators and team members, including Tanja Aitamurto , Anamitra Banerjee , Noah Burbank , Yiling Chen , Scott Cheng , Pranav Dandekar , Bhargav Dindukurthi , Larry Diamond , Richard Diehl Martinez , Debojyoti Dutta , Nikhil Garg , Vijay Kamble , Daniel Kharitonov , Anilesh K. Krishnaswamy , Erik Kuefler , Isa Liang , Ruochen(Chloe) Liu , Eli Marschner , David Lee , Liubov (Nikki) Nikolenko , Eric Mibuari , N. Shivakumar , Vivek Srinivasan , Shouzhuo Sun , Zheng Wu and Ningxia Zhang",
+  "links": [
+    {
+      "url": "https://profiles.stanford.edu/lovish-chopra",
+      "text": "Lovish Chopra"
+    },
+    {
+      "url": "https://profiles.stanford.edu/lodewijk-gelauff",
+      "text": "Lodewijk Gelauff"
+    },
+    {
+      "url": "http://www.stanford.edu/~ashishg",
+      "text": "Ashish Goel"
+    },
+    {
+      "url": "https://profiles.stanford.edu/mohak-goyal",
+      "text": "Mohak Goyal"
+    },
+    {
+      "url": "https://sahasrajit123.github.io/",
+      "text": "Sahasrajit Sarmasarkar"
+    },
+    {
+      "url": "https://profiles.stanford.edu/james-fishkin",
+      "text": "website"
+    },
+    {
+      "url": "https://users.cs.duke.edu/~kamesh/",
+      "text": "website"
+    },
+    {
+      "url": "https://sukolsak.com",
+      "text": "website"
+    },
+    {
+      "url": "https://cddrl.fsi.stanford.edu/people/alice-siu",
+      "text": "website"
+    }
+  ],
+  "images": [
+    {
+      "src": "/img/cdt-logo.svg",
+      "alt": ""
+    }
+  ]
+}

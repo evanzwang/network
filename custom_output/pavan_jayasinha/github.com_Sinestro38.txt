@@ -1,0 +1,197 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2FSinestro38)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                      Sinestro38
+                          [Follow](/login?return_to=https%3A%2F%2Fgithub.com%2FSinestro38)
+                      34
+                      0
+                      17
+                            More
+                                [Overview](/Sinestro38)
+                                [Projects](/Sinestro38?tab=projects)
+                                [Packages](/Sinestro38?tab=packages)
+                                [Stars](/Sinestro38?tab=stars)
+                        Pavan Jayasinha
+                        Intern
+                          [@modularml](https://github.com/modularml)
+                          | Invested in machine learning & quantum
+                            74
+                            followers
+                          ·
+                            9
+                            following
+                            University of Waterloo
+                          Palo Alto, CA
+                          [https://pavanjay.com/](https://pavanjay.com/)
+                            X
+                          [@pavanjayasinha](https://twitter.com/pavanjayasinha)
+                      [Achievements](/Sinestro38?tab=achievements)
+                        x2
+                      Block or Report
+                            Block or report Sinestro38
+                              Block user
+                              Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about
+                                [blocking users](https://docs.github.com/articles/blocking-a-user-from-your-personal-account)
+                              You must be logged in to block users.
+                                  Add an optional note:
+                                  Please don't include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.
+                            Report abuse
+                            Contact GitHub support about this user’s behavior.
+        Learn more about
+                              [reporting abuse](https://docs.github.com/articles/reporting-abuse-or-spam)
+                          /
+                          README
+                          .md
+                          Hey there 👋, I'm Pavan.
+                          Now
+                          🔥 Interning
+                            [@Modular](https://x.com/modular)
+                            to help build Mojo on GPU!
+                          🏫 Learning as an undergrad at the University of Waterloo for computer engineering (on gap)
+                          Recent
+                          🧑‍💻 Took a gap year (2023) and built the hardware simulation codebase as a research engineer at
+                            [@Extropic](https://x.com/extropic_ai)
+                          🔧 Drove GPU compatibility into TensorFlow Quantum (Open source)
+                          🧑‍💻 Developed performant C++ kernels for AI inference as a Software Engineer Intern
+                            [@UntetherAI](https://www.untether.ai/)
+                          ⛏️ Investigated applications of neutral atom quantum computing as a research intern
+                            [@IQC](https://twitter.com/QuantumIQC)
+                          ⚛ Competed at QHack 2022 placing in the Top 8 teams for a
+                            [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425)
+                            on quantum graph neural networks
+                          ✍ Authored the section on QGANs for the
+                            [IBM Qiskit Textbook](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks)
+                            on quantum machine learning as a Qiskit Advocate
+                          ⚡ Investigated quantum generative models as a quantum AI intern at
+                            [Zapata Computing](https://www.zapatacomputing.com/)
+                          ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the
+                            [QOSF mentorship program](https://qosf.org/qc_mentorship/)
+                          🏨 Built several projects in the QC/QML space—check them out below :)
+                      Pinned
+                          Loading
+                                      tensorflow/
+                                      quantum
+                                    tensorflow/quantum
+                                  Public
+                              An open-source Python framework for hybrid quantum-classical machine learning.
+                                  Python
+                                      QHack-2022-Hackathon
+                              Forked from
+                                [amirebrahimi/QHack-2022-Hackathon](/amirebrahimi/QHack-2022-Hackathon)
+                              Team 'The_Superpositioned_States_of_America' QHack Hackathon submission
+                                  Jupyter Notebook
+                                      qosf-qgan
+                              Exploring learnability and optimal hyperparameters of various quantum generative adversarial networks and quantum neural networks using Pennylane.
+                                      bose_hubbard
+                              Simulating time evolution of a chain of 7 bosons under the Bose-Hubbard Hamiltonian
+                      Something went wrong, please refresh the page to try again.
+                        [GitHub status page](https://www.githubstatus.com/)
+                        or
+                        [contact support](/contact)
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

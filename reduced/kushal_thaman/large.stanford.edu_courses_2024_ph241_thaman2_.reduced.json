@@ -1,0 +1,25 @@
+{
+  "title": "Enrico Fermi: An Architect of the Atomic Age",
+  "meta_description": "",
+  "main_content": "Enrico Fermi: An Architect of the Atomic Age Kushal Thaman May 17, 2024 Submitted as coursework for PH241 , Stanford University, Winter 2024 Introduction Fig. 1: Enrico Fermi in 1943. (Source: Wikimedia Commons ) Enrico Fermi (1901-1954) was an Italian (and later Italian-American) physicist known for his tremendous contributions to the development of nuclear reactors, quantum theory, statistical mechanics and particle physics, and perhaps most notably for his leading role in developing the atomic bomb during the Manhattan Project. [1] Early Life and Education From an early age, Fermi displayed a strong aptitude for physics and mathematics. His profound interest led him to self-study advanced topics in physics. In what is a notable anecdote, at age 12, Fermi had mastered projective geometry. His early accomplishments as an autodidact earned him a scholarship to study at the Scuola Normale Superiore in Pisa, Italy, where he graduated with a doctorate in physics in 1922, at a young age of 21. His graduate thesis on X-rays reflected a striking and unique approach to problem-solving that would go on to characterize his later work. He continued on to study at the University of G\u00f6ttingen, University of Rome at Leyden and the University of Florence after. [2] Scientific Accomplishments Fermi's early work in theoretical physics positioned him as a leading figure in the field. His most notable early contribution to quantum statistics was the formulation of the Fermi-Dirac statistics, which described the behavior of particles known as fermions (named after him). [1] After this work with Paul Dirac in 1926, Fermi published the 'theory of beta decay' in 1934, providing the first quantitative description of the weak force, one of the four fundamental forces. This work introduced the concept of weak interaction and explained how beta particles emit from heavy nuclei. His scientific accomplishments of demonstrating the existence of new radioactive elements produced by neutron irradiation and for his discovery of nuclear reactions brought about by slow neutron won him a Nobel Prize in Physics in 1938. At this time, due to anti-semitic efforts, Fermi emigrated to the United States from Italy and naturalized as an American citizen. While at the Los Alamos Laboratory during the second World War, Fermi observed the Trinity test as he conducted an experiment to estimate the bomb's yield by placing paper strips into the blast wave. He paced off the distance while the explosion was underway to see how much the strips were blown away by the explosion's blast wave, and found the yield to be roughly 10 kilotons of TNT; the actual yield was roughly 18.6 kilotons. [3] Legacy and Contributions Fermi-Dirac statistics laid the groundwork for the field of quantum physics and continues to be influential in various applications, such as the development of semiconductors and digital electronics. After World War II, he helped establish the Institute for Nuclear Studies at Chicago, and served on the General Advisory Committee, advising the Atomic Energy Commission on national nuclear matters. In his final years, Fermi became strongly opposed to the development of a hydrogen bomb due to moral reasons. [2] In 1954, he died of inoperable stomach cancer which may have started due to working near the nuclear pile. His early death was a shock to the whole scientific community. He has been given numerous posthumous recognitions the element fermium was named after him, and so were Fermilab and the Fermi award, celebrating his enduring influence on the scientific community. [2] \u00a9 Kushal Thaman. The author warrants that the work is the author's own and that Stanford University provided no input other than typesetting and referencing guidelines. The author grants permission to copy, distribute and display this work in unaltered form, with attribution to the author, for noncommercial purposes only. All other rights, including commercial rights, are reserved to the author. References [1] E. H. Cone, \"Enrico Fermi,\" Am. Sci. 38 , 442 (1950). [2] D. Cooper, Enrico Fermi: And the Revolutions of Modern Physics (Oxford University Press, 1999). [3] L. Fermi, Atoms in the Family: My Life with Enrico Fermi (University of Chicago Press, 1994).",
+  "links": [
+    {
+      "url": "..",
+      "text": "PH241"
+    },
+    {
+      "url": "images/fermi.jpg",
+      "text": ""
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_1943-49_140x190.jpg",
+      "text": "Wikimedia\n        Commons"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/fermi.jpg",
+      "alt": ""
+    }
+  ]
+}

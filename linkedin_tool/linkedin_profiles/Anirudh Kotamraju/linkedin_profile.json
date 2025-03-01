@@ -1,0 +1,467 @@
+[
+  {
+    "fullName": "Anirudh Kotamraju",
+    "linkedin_internal_id": "1015016244",
+    "first_name": "Anirudh",
+    "last_name": "Kotamraju",
+    "public_identifier": "anirudhkotamraju",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "Computer Science @ UC Berkeley | prev @ Amazon",
+    "location": "749 followers\n          \n          \n              500+ connections",
+    "about": "Website: https://anirudhkotamraju.com",
+    "experience": [
+      {
+        "position": "Teaching Assistant",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": null,
+        "summary": "TA for CS61B: Data Structures (Spring 2025)- Infrastructure Team",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Tutor - CS61B Course Staff",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "Tutor for CS61B: Data Structures (Spring 2024, Fall 2024)- Infrastructure Team",
+        "starts_at": "Jan 2024",
+        "ends_at": "Dec 2024",
+        "duration": "1 year"
+      },
+      {
+        "position": "Tutor - CS61A Course Staff",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": "Berkeley, California, United States",
+        "summary": "Tutor for CS61A: The Structure and Interpretation of Computer Programs (Fall 2023)- Infrastructure Team",
+        "starts_at": "Sep 2023",
+        "ends_at": "Dec 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Machine Learning Researcher",
+        "company_url": "https://www.linkedin.com/company/spacescienceslaboratory?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQG5vG9ZQwYeqg/company-logo_100_100/company-logo_100_100/0/1630641420327/spacescienceslaboratory_logo?e=2147483647&v=beta&t=aHyJ7UoJSpZCqV_5HCEi9nQ-8xveyjOeKJ8Qm3REwgc",
+        "company_name": "Space Sciences Laboratory",
+        "location": "UC Berkeley",
+        "summary": "Developing CNNs and autoencoders to approximate the image response of Compton telescopes.",
+        "starts_at": "Sep 2022",
+        "ends_at": "Present",
+        "duration": "2 years 7 months"
+      },
+      {
+        "position": "Software Development Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/amazon?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=2147483647&v=beta&t=QsC16wgE3EBriPFDlAgtToh2xndFwQWKmR2WcyMG1nk",
+        "company_name": "Amazon",
+        "location": "Seattle, Washington, United States",
+        "summary": "Full stack development for retail division.",
+        "starts_at": "May 2024",
+        "ends_at": "Aug 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/lawrence-livermore-national-laboratory?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGZ1AGlF1C6EQ/company-logo_100_100/company-logo_100_100/0/1735838179675/lawrence_livermore_national_laboratory_logo?e=2147483647&v=beta&t=cG-KIs-Ic4b4A6t7K5nztgp5gHxty76_sSrXrdZVxeQ",
+        "company_name": "Lawrence Livermore National Laboratory",
+        "location": "Livermore, California, United States",
+        "summary": "Cyberattack detection for TCP networks in critical U.S. infrastructure, full stack web development.",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Academic Intern",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQET4WuLdTzDPQ/company-logo_100_100/company-logo_100_100/0/1731605469670/uc_berkeley_eecs_logo?e=2147483647&v=beta&t=GRkMfuxk3y8GhtCBxc1nvSKYysRH1Ss7Qf-4JqQM3IM",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": null,
+        "summary": "CS61A (Spring 2023)CS61B (Fall 2023)",
+        "starts_at": "2023",
+        "ends_at": "2023",
+        "duration": "less than a year"
+      },
+      {
+        "position": "Research Intern - Computational Astrophysics",
+        "company_url": "https://www.linkedin.com/school/ucsc/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEEdPQHFbiGrg/company-logo_100_100/company-logo_100_100/0/1656436364797?e=2147483647&v=beta&t=UzrehX5nM1CBPPT9nuyrxMofYGhJQT8LiwOaIQDPCKM",
+        "company_name": "University of California, Santa Cruz",
+        "location": null,
+        "summary": "Built software to optimize search for very-high-energy gamma ray bursts.",
+        "starts_at": "Jun 2021",
+        "ends_at": "Aug 2021",
+        "duration": "3 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/dkube-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH5y3WKXa6h1g/company-logo_100_100/company-logo_100_100/0/1701148338210/one_convergence_devices_logo?e=2147483647&v=beta&t=d2F0CAkgYspJqkS1qx2Swzgy3TsHcwgx8qXqxCtPE1s",
+        "company_name": "One Convergence, Inc",
+        "location": "San Jose, California",
+        "summary": "Created secure cloud migration framework for Docker images, built AI models to test DKube platform.",
+        "starts_at": "Jun 2019",
+        "ends_at": "Aug 2019",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2022 - 2026",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/the-harker-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The Harker School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGDGDcTiJNqVA/company-logo_100_100/company-logo_100_100/0/1631303891593?e=2147483647&v=beta&t=qwYEp67IES98wqsQu2x1rMUfdn6GOzKVG18THlJQtIw",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2018 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+      "description1_link": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": "Websites",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fanirudhkotamraju%2Ecom%2F&urlhash=65sU&trk=public_profile_website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/karun-kaushik_today-were-thrilled-to-announce-our-33m-activity-7290036228878430209-HqqC",
+        "image": "https://media.licdn.com/dms/image/v2/D4D05AQF5Hs74T_i8qQ/videocover-high/B4DZStpLniGcBs-/0/1738080068805?e=2147483647&v=beta&t=l-oTpL55x_pbJ-k7oxdmDwekUbZH1cn-yUF75geVMJM",
+        "title": "Today, we're thrilled to announce our $3.3M seed round at Delve.\n\nAI makes millions of decisions every second. But it\u2019s still regulated with\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/karun-kaushik_2024-was-an-incredible-year-here-were-the-activity-7280660301732102144-mvPO",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEKqQAikpC4YA/feedshare-shrink_800/B4DZQoZ9sBHUAk-/0/1735844683268?e=2147483647&v=beta&t=xja04L5fCXPh3FKVSNRFlhNOJOJWXbbxr63-pDwvjoA",
+        "title": "2024 was an incredible year! Here were the highlights:\n---\n> left MIT\n> did YC\n> scaled Delve from 0 to $XM ARR\n> ran my first half marathon\n> did a\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rohan-tibrewal_excited-to-announce-that-weve-raised-activity-7273013553056337921-_LoQ",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQG-Millr6yFeQ/image-shrink_800/image-shrink_800/0/1734021005987?e=2147483647&v=beta&t=kJ-t3M3yHA2xbl9CNRVqGWhER16is8_ejMSATXDvNLs",
+        "title": "\ud83c\udf89 \ud83d\ude80 Excited to announce that we\u2019ve raised a $27M seed round! It\u2019s only been a few months since I\u2019ve joined, and I\u2019ve had a great time building with\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rohan-rashingkar_im-excited-to-announce-that-i-will-be-joining-activity-7269854777226768386-JZdw",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQFkMesbA8EpDg/feedshare-shrink_800/feedshare-shrink_800/0/1733268443935?e=2147483647&v=beta&t=c0aWFTWUKp9WTLv70EB7zoY83-4uPW7zEhQLKmoTeX4",
+        "title": "I'm excited to announce that I will be joining Meta next summer as a Software Engineer Intern in Menlo Park, CA! Thank you to my family, friends, and\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/advay-ratan_im-proud-to-announce-that-ill-be-joining-activity-7255650531539345408-Ud1s",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHv-vXpeyjlSw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1729881889547?e=2147483647&v=beta&t=QbaU29ljqMQ9Hguncp7BaNJlQdZ7s_Za1wkQ2Uk5Y5Y",
+        "title": "I'm proud to announce that I'll be joining Optiver as a Hardware Engineering Intern for the summer of 2025. \n\nI want to thank everyone who helped me\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rayna-arora-4a2307214_meet-the-2025-neo-scholars-activity-7255296079687045120-WtD-",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGQdhkKO-GSXg/articleshare-shrink_800/articleshare-shrink_800/0/1739739074792?e=2147483647&v=beta&t=pmdwDzOzztRCpeQG7-UPYILF2nLYyFpxZv7AqAJeX_k",
+        "title": "So excited to join the Neo community! Special thanks to Ali Partovi, Vincent Po, and Michelle Lee for your guidance!",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cartesia-ai_were-excited-to-welcome-rohan-t-to-activity-7248039028560650240-_ipB",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "\ud83e\udd73 \ud83c\udf89 We\u2019re excited to welcome Rohan T. to Cartesia\u2019s technical staff. Rohan graduated from UC Berkeley with a degree in Computer Science. He prior\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sasvath-ramachandran_seismicintern-activity-7234631428552933379-l7ql",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Last Friday, I wrapped up a rewarding, fulfilling summer internship as a Machine Learning Engineer intern at Seismic. Thank you to Francesco Ferrari,\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rayna-arora-4a2307214_my-startup-legalpulse-legalpulseai-has-activity-7216134803954245633-OR1u",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQF1z3SJ8Z87Dw/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1720460552019?e=2147483647&v=beta&t=QpT1jyuj_UMhO4Es7V23K0S3oDVtvDTq9g69TkwXxLE",
+        "title": "My startup, LegalPulse (legalpulse.ai), has launched! We automate the process of time-tracking for lawyers, saving them hours every week.\n\nI was\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brettadcock_we-just-had-an-ai-breakthrough-in-our-lab-activity-7149554629742067712-TJVT",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "we just had an AI breakthrough in our lab\n\nrobotics is about to have its ChatGPT moment \n\nand that moment is happening tomorrow",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aientrepreneurs_welcome-cohort-of-fall-2023-we-brought-together-activity-7115766550833348609-tTjU",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEfBtFK4du8AQ/feedshare-shrink_800/feedshare-shrink_800/0/1696530949790?e=2147483647&v=beta&t=zTPwOT68A8BtJWAQcdNjdf1ldBgwTfcuCdTBS2cbfCA",
+        "title": "Welcome Cohort of Fall 2023! We brought together the best AI Hackers of UC Berkeley. \ud83d\udc69\u200d\ud83d\ude80 \ud83d\ude80 \n\n12 Amazing Start-up Teams\nMore than 70 hours in\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jvngyn_hey-computer-science-students-some-of-activity-7098339792454635521-Wes8",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFJ7sQfTF0Z2A/feedshare-shrink_800/feedshare-shrink_800/0/1692376086572?e=2147483647&v=beta&t=l2FizYtGJRJUpCNqmZHBXuye8a9K9F0eGmoh2xTFkTA",
+        "title": "Hey Computer Science Students :) \n\nSome of the hardest BobaTalks sessions I have with CS Students are about whether or not becoming a Software\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/gitproworld-ogawa-activity-7075217182221094913-ou9P",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGTPZoUcybSAg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1686863225470?e=2147483647&v=beta&t=mhDY0y95qKg3CN3l2ZGb8-N4E-n9orcTlArt4UFYZx8",
+        "title": "\ud83e\udd73\ud83e\udd73\ud83e\udd73Join us for Startup Lessons Learned Panel that I'll be moderating with distinguished entrepreneurs \ud83d\udc47 this Saturday, June 17, 2023 at\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/chess-com_apply-to-become-our-new-chief-executive-officer-activity-7047912427241279488-ZuWc",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFmcA_7NQ43lw/feedshare-shrink_800/feedshare-shrink_800/0/1680353265905?e=2147483647&v=beta&t=1bg-xGfkEqIo_BvSBBPnTA1yD2UG44if7DoOCFGANUw",
+        "title": "Apply to become our new Chief Executive Officer.\n\nhttps://lnkd.in/giRej4SW",
+        "activity": "Liked by Anirudh Kotamraju"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/shreeshiv_jobs-hiring-internship-activity-7020986013112033280-an-0",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "[2023 New-grad Opportunities for Tech roles]\n\nDespite recent layoffs, many companies are still hiring for new-grads. I have compiled a list of\u2026",
+        "activity": "Liked by Anirudh Kotamraju"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_position": "Founder",
+        "company_name": "COVID-19 Oxygen Concentrator and Supply Fundraiser for India",
+        "company_duration": "",
+        "starts_at": "",
+        "ends_at": ""
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/ajayso?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ajay S.\n        \n              \n          Implementing Reinforcement Learning (RL) in the context of Large Language Models (LLMs) posed challenges, particularly in designing reward engineering and penalization components. In traditional RL, reward engineering is straightforward, often defined through a scalar reward function. However, implementing the same concept in RL with LLMs required a critic model that evaluates the questions and answers, critiquing them in a manner that simulates the reward function.\n\nA recent research paper on Natural Language Reinforcement Learning (NLRL) provides an intriguing perspective on the reward problem in RL by translating traditional RL concepts into natural language constructs. Here's a summary of how it addresses the reward problem:\nLanguage-Based Value Functions:\nUnlike traditional RL, which uses scalar rewards, NLRL employs language-based value functions. These functions articulate the effectiveness of policies and actions in a more interpretable, natural language format. This approach addresses the need for richer, more informative feedback than simple numerical scores.\n\nIterative Refinement of Language Policies and Critics:\nNLRL incorporates a structured training pipeline where language-based policies and critics are iteratively refined using textual feedback. This method allows the system to handle the complexities of defining rewards in natural language, improving its understanding and evaluation of actions over time through textual feedback loops.\n\nUse of Large Language Models (LLMs):\nThe framework leverages the advanced capabilities of LLMs to interpret, generate, and evaluate complex language-based information. This is essential for implementing language-based value functions and policies, enabling the system to generate and refine responses that align closely with desired outcomes.\n\nDistilling Enhanced Actions and Evaluations:\nNLRL employs a process where enhanced evaluations from the language-based value function approximator and improved actions from the language policy improvement operator are distilled. This allows for continuous refinement and learning.\n\nCompatibility with Existing LLMs:\nThe framework is designed to be compatible with current LLMs, enabling it to leverage pre-existing language models to process and generate linguistic data effectively. This compatibility is crucial for translating the traditional reward engineering process into a language-based framework.\n\nThe NLRL framework's introduction of natural language as a medium for representing and evaluating policies and rewards offers a novel solution to the reward problem in RL. By shifting from numerical reward systems to a more flexible, expressive, and intuitive system based on language, NLRL enhances interpretability and adaptability, paving the way for more diverse RL applications.\nInnovation Hacks AI Inc.\n#llm #refincorcementlearning #ai",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/in/bhalajikg?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Bhalaji K.G.\n        \n              \n          Comet - LLM model monitoring, trace every step along with the evaluation & ranking to see which models provide more value for our problem is really an advantage to stay ahead in the solution offering process.",
+        "location": "1"
+      },
+      {
+        "link": "https://il.linkedin.com/in/%F0%9F%8E%97%EF%B8%8Fyuval-avidani-87081474?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "\ud83c\udf97\ufe0fYuval Avidani\n        \n              \n          The potential of Large Language Models to revolutionize manufacturing is explored in a recent paper by Yiwei Li et al., showcasing how LLMs can drive innovation and efficiency across the industry. With a focus on GPT-4V, the paper highlights its ability to execute complex instructions and extract insights from data, offering transformative opportunities. \n\nThe applications are vast, from optimizing product design and enhancing quality control to talent management and supply chain optimization. The paper also delves into the impact on manufacturing education and the potential for LLMs to shape the industrial metaverse. \n\nAs Yuval Avidani, a technical content creator, I find this research exciting, offering a glimpse into how LLMs can address challenges and drive sustainable growth in manufacturing.\n\n https://lnkd.in/dF_88WCw",
+        "location": "2"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vishnu-suresh-perumbavoor?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vishnu Suresh Perumbavoor\n        \n              \n          OpenAI has announced the release of o1 model which contains chain-of-thoughts (CoT)\n\nCritics says that openAI were already using it before.\n\nLLMs, reinforcement learning (RL) and CoT is coming together in o1.\n\no1 models introducing inference compute over pretraining & fine tuning paradigm.\n\nInstead of solely depending on the trained data, o1 can \"think\" before generating output using RL and CoT.\n\nCoT prompting simulates human-like reasoning by breaking down complex tasks into a sequence of logical steps, allowing models to articulate their thought processes. \n\n#openai #openaio1 #reinforcementlearning #chainofthoughts",
+        "location": "17"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kennethschen?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Kenny Chen\n        \n              \n          Hi LinkedIn Community,\n\u00a0\nShort version:\u00a0\nGrad student building low-code tool for ML data pipelines. Goal: Make ML dev work enjoyable again, not just endless debugging. Ask: Shadow sessions (see Calendly link below)\n\nLonger version:\nAs ML devs, we often leave the office thinking, \u201cDo I actually love doing my work?\u201d because we had spent most of the day on inefficient whack-a-mole debugging and maintenance work. I want to get us back to where we can love coding for those reasons we originally chose to pick up coding in the first place.\n\u00a0\nA lot of AI tools are restrictive and end up mangling codebases, and I believe the current state of AI coupled with strong design principles can enable much better code native developer experiences.\n\nI\u2019ve gone through prototypes/testing and have some competing hypotheses. I\u2019d love to observe coders working on ML data pipelines (happy to sign NDAs if necessary, can also be personal projects instead). \n\nIf you're open to sharing your expertise, please schedule a shadow session:\nhttps://lnkd.in/eBW6p6qE\n\nLet's make ML data development more efficient and actually enjoyable!\n\n#MachineLearning #DataPipelines #LowCode #DevTools #AI #SoftwareEngineering #GradStudent #Research #MLOps #DataScience #ArtificialIntelligence #ProductivityTools #DeveloperExperience #CodeQuality #TechInnovation #ComputerScience #DataEngineering #CloudComputing",
+        "location": "84\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                8 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/pratham-soneja?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Pratham Soneja\n        \n              \n          Day 5 of learning in public \ud83d\ude80 \n\nTraditional fine-tuning methods for large language models often face challenges like high computational requirements, catastrophic forgetting, and single-task specialization. Enter LoRA (Low-Rank Adaptation), a game-changing technique that addresses these limitations, enabling efficient and practical fine-tuning of large language models.\n\nLoRA introduces a novel approach to fine-tuning by adding a small number of task-specific weights to the pre-trained model instead of updating all the weights. Here's how it works:\n\n1. Low-Rank Matrices: For each layer in the pre-trained model, LoRA introduces a pair of low-rank matrices: one for the weights and one for the biases.\n\n2. Adaptation: During fine-tuning, LoRA updates these low-rank matrices instead of modifying the pre-trained weights directly.\n\n3. Composition: At inference time, the low-rank matrices are composed with the pre-trained weights to produce the final, adapted weights for the fine-tuned model.\n\nThe low-rank nature of these matrices is the key to LoRA's efficiency, dramatically reducing the memory and computational requirements for fine-tuning. This makes it possible to adapt large language models even on consumer-grade hardware like CPUs or edge devices.\n\nBut LoRA's advantages don't stop there. It can match or even outperform the performance of full fine-tuning while using far fewer updatable parameters. Additionally, the LoRA updates are reversible, allowing the model to revert to its original state, and composable, enabling a single pre-trained model to be fine-tuned for multiple tasks simultaneously.\n\nTo illustrate the power of LoRA, let's dive into a practical example. Here, I'll demonstrate how to implement LoRA from scratch and fine-tune the DistilBERT model using LoRA on the IMDB dataset for sentiment analysis.\n\nhttps://lnkd.in/g-Tz2NU7\n\nAs you can see, LoRA is a remarkable technique that addresses the limitations of traditional fine-tuning methods, making it more efficient, practical, and versatile. By introducing low-rank, task-specific updates, LoRA enables efficient adaptation while preserving the model's original knowledge and allowing for multi-task specialization.\n\nAs the demand for deploying large language models on resource-constrained devices continues to grow, techniques like LoRA will make these powerful models more accessible and practical.",
+        "location": "4"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vedantparnaik?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vedant Parnaik\n        \n              \n          I just finished watching Stanford\u2019s lecture on \"\ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udddf\ud835\uddee\ud835\uddff\ud835\uddf4\ud835\uddf2 \ud835\udddf\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\ude02\ud835\uddee\ud835\uddf4\ud835\uddf2 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00\" by Yann Dubois and it\u2019s one of the most insightful resources I\u2019ve come across. It was packed with information\u2014I had to pause and replay a lot to really get it, but it was so worth it! Here's the link: https://lnkd.in/eW5ZpE3B\n\nHere\u2019s a quick snapshot of what stood out to me:\n\n1\ufe0f\u20e3 Data quality over quantity: Pretraining success relies more on clean, high-quality datasets than simply amassing huge volumes of data.\n2\ufe0f\u20e3 Alignment with real-world needs: Fine-tuning with human feedback bridges the gap between technical accuracy and practical utility.\n3\ufe0f\u20e3 Smarter scaling: Techniques like mixed-precision training and efficient GPU usage make it possible to train massive models without excessive costs.\n\nAs someone who\u2019s just been in the field not long ago, this lecture was a wake-up call to how much there is to learn\u2014but also how exciting the journey is. If you\u2019re like me, trying to figure out how to navigate building LLM applications, this is a must-watch.\n\n#AI, #MachineLearning, #NaturalLanguageProcessing, #LanguageModels",
+        "location": "15\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cameron-r-wolfe-ph-d-04744a238?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cameron R. Wolfe, Ph.D.\n        \n              \n          Reinforcement learning (RL) is commonly used to finetune LLMs based on human feedback, but did you know that we can also use RL to automatically improve our prompts?\n\nPrompt engineering is the act of discovering (via trial and error) prompts that perform well. Small changes or rewordings to our prompt (or using a different LLM) can make a massive difference. For this reason, prompt engineering requires a lot of manual\u2013and tedious\u2013effort.\n\nOptimizing prompts: To automate this manual labor, researchers have proposed techniques for learning prompts from data. For example, prompt and prefix tuning [1, 2] add new (continuous) tokens to the prompt and finetune them. Methods like AutoPrompt [3] follow a similar strategy but keep learned tokens discrete so that they are human interpretable.\n\nDiscrete optimization of tokens: The main difficulty with optimizing a prompt is that the prompt\u2019s tokens are discrete. If we use the gradient to update a token, the likelihood of this update producing another valid token within the model\u2019s vocabulary is effectively zero. Optimizing discrete tokens is not possible via traditional gradient-based algorithms.\n\nLLM generating prompts: One way we can optimize a prompt is by having a (separate LLM) output the prompt. Then, we can train the weights of the LLM\u2013which are continuous\u2013to produce better prompts instead of training the discrete prompt directly. But, how do we optimize this LLM? There\u2019s no differentiable training signal that can be used for this.\n\nUsing RL: To optimize the LLM generating the prompt, we can use RL! Our policy network is the LLM that generates the prompt. This policy network will output a prompt using next token prediction. Once a full prompt / sequence is generated, we derive the reward for this generation by measuring the prompt\u2019s performance on a downstream task.\n\nPractical examples: Both RLPrompt [4] and TEMPERA [5] use RL to optimize discrete, human interpretable prompts. RLPrompt optimizes prompts in an offline fashion (i.e., optimize a prompt once and use it for inference many times), while TEMPERA optimizes prompts dynamically at inference time.\n\n\u201cThe resulting optimized prompts are often ungrammatical gibberish text; and surprisingly, those gibberish prompts are transferrable between different LMs to retain significant performance, indicating that LM prompting may not follow human language patterns.\u201d - from RLPrompt paper\n\nDespite performing well, the prompts discovered by these techniques tend to be gibberish / ungrammatical, leading us to wonder whether prompting is a language of its own. The best prompts do not always follow standard rules applied to natural language.",
+        "location": "230\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                8 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/company/scaleai?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Scale AI\n        \n              \n          LLMs have become more capable with better training and data. But they haven\u2019t figured out how to \u201cthink\u201d through problems at test-time.\n\nThe latest research from Scale finds that simply scaling inference compute\u2013meaning, giving models more time or attempts to solve a problem\u2013is not effective because the attempts are not diverse enough from each other. \n\n\ud83d\udc49 Enter PlanSearch, a novel method for code generation that searches over high-level \"plans\" in natural language to encourage response diversity. PlanSearch enables the model to \u201cthink\u201d through various strategies before generating code, making it more likely to solve the problem correctly.\n\nThe Scale team tested PlanSearch on major coding benchmarks (HumanEval+, MBPP+, and LiveCodeBench) and found it consistently outperforms baselines, particularly in extended search scenarios. Overall performance improves by over 16% on LiveCodeBench from 60.6% to 77%. \n\nHere\u2019s how it works:\n\n\u2705  PlanSearch first generates high-level strategies, or \"plans,\" in natural language before proceeding to code generation. \n\n\u2705  These plans are then further broken down into structured observations and solution sketches, allowing for a wider exploration of possible solutions. This increases diversity, reducing the chance of the model recycling similar ideas.\n\n\u2705  These plans are then combined before settling on the final idea and implementing the solution in code.\n\nEnabling LLMs to reason more deeply at inference time via search is one of the most exciting directions in AI right now. When PlanSearch is paired with filtering techniques\u2014such as submitting only solutions that pass initial tests\u2014we can get better results overall and achieve the top score of 77% with only 10 submission attempts.\n\nBig thanks to all collaborators on this paper including: Evan Wang, Hugh Zhang, Federico Cassano, Catherine Wu, Yunfeng Bai, William Song,  Vaskar Nath, Ziwen H., Sean Hendryx, Summer Yue\n\n\ud83d\udc49 Read the full paper here: arxiv.org/abs/2409.03733",
+        "location": "180\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/shengyun-anthony-peng?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "ShengYun (Anthony) Peng\n        \n              \n          Is GPT-4o good at table recognition? Not quite! OCR looks fine, but tripped by spanning cell table structure!\n\ud83e\udd29 However, our UniTable, with only 124M param trained by self-supervision, shows great understanding!\n\ud83d\udc49 UniTable paper: arxiv.org/abs/2403.04822 \n\ud83d\udc49 UniTable code: https://lnkd.in/e4a7YMxJ\n#MachineLearning #GPT-4o #Table #Document",
+        "location": "85\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                8 Comments"
+      },
+      {
+        "link": "https://pk.linkedin.com/in/alishbaramzan?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Alishba Ramzan\n        \n              \n          \ud835\udc06\ud835\udc2b\ud835\udc1a\ud835\udc1d-\ud835\udc02\ud835\udc00\ud835\udc0c \ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc2e\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\n\nWhile doing my semester project for Advanced Machine Learning at California State University, Monterey Bay, I was building a convolutional neural network for image classification. But I struggled with debugging it i.e., how to know if the model is looking at the right parts of your image and not going astray? I came across a technique called \"Class Activation Map\" introduced by Ramprasaath R. Selvaraju et al. in their paper \u201cGrad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization.\u201d\n\nIt is useful for understanding which parts of a given image led a convnet to its final classification decision. This is helpful for \u201cdebugging\u201d the decision process of a convnet, particularly in the case of a classification mistake (a problem domain called model interpretability). It can also allow you to locate specific objects in an image.\n\nI used it to visualize how well my baseline model was doing on the pneumonia detection dataset from Kaggle (the original dataset contains two classes, but we split it into three: normal, bacterial, and viral) before tuning the hyperparameters. I specifically followed the technique explained by Francois Chollet in his book \"Deep Learning with Python, Second Edition\" and condensed the script into a single method for reusability.\n\nFor anybody interested in reading the theory, you can refer to either of the above two resources. For those interested in looking at the code, you can find it here: https://lnkd.in/dBJPe3pS\n\nThanks to Sam Ogden for his continuous support and encouragement, and for providing valuable insights throughout the course.\n\nNeural networks are not that much of a black box as I used to think they were, and that's a relief!",
+        "location": "76\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      },
+      {
+        "link": "https://eg.linkedin.com/in/ahmadshapiro?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ahmad Shapiro\n        \n              \n          Sections 2 and 3 are must to read for anyone who would like to build a connection between MDPs and LLMs. \nBut are the state space fully observable? \ud83e\udd14",
+        "location": ""
+      },
+      {
+        "link": "https://www.linkedin.com/in/shalinianandaphd?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Shalini A.\n        \n              \n          Hi everyone,\n\nI'm excited to share the Notion page for Temporal Odyssey, highlighting its features and integration with AI safety research. The page includes comprehensive details about the project, covering multiple time period environments, customizable agent actions, dynamic environment reactions, and much more. You'll also find some great examples of procedural generation for NPCs and environments, along with insights into our reinforcement learning approaches and safety mechanisms.\n\nExplore more here: Temporal Odyssey Features and Integration with AI Safety Research https://lnkd.in/g4qkSvTb \n\n#AI #MachineLearning #ReinforcementLearning #AISafety #ProceduralGeneration #TemporalOdyssey #TechInnovation #AIResearch #DataScience\n\nBest,\nShalini",
+        "location": ""
+      },
+      {
+        "link": "https://pk.linkedin.com/in/kiranshahzadii?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Kiran Shahzadi\n        \n              \n          \ud83c\udfaf Hi everyone, I need 2 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00/\ud835\udde6\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00 (\ud835\uddfd\ud835\uddff\ud835\uddf2-\ud835\uddf0\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddf4\ud835\uddf2 \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00) with programming background to Join UC Berkeley \ud835\uddd6\ud835\uddd4\ud835\udddf\ud835\udddc\ud835\uddd6\ud835\udde2 Fall '24 programming contest with me \ud83d\ude80\n\nI'll be competing in the CALICO Fall '24 programming contest hosted by UC Berkeley This competition is all about solving tricky algorithm problems in a limited time.\n\nI'm looking for 2 skilled competitive programmers to join my team. If you enjoy solving complex problems and want to collaborate on this challenge, let's team up!\n\n\ud835\udddb\ud835\uddf2\ud835\uddff\ud835\uddf2'\ud835\ude00 \ud835\uddee \ud835\uddfe\ud835\ude02\ud835\uddf6\ud835\uddf0\ud835\uddf8 \ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddf2\ud835\ude04 \ud835\uddfc\ud835\uddf3 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddf2\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb:\n\n- There will be 6-12 problems of different difficulty levels, and we have 3 hours to solve them as a team.\n\n- You can code in C, C++, Java, or Python3.\n\n- The problems will test both your coding skills and how efficiently your code runs.\n\n- The team with the most points wins, and in case of a tie, the fastest correct solutions will decide the winner.\n\n\ud835\uddda\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\uddf9 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\ude00\ud835\ude01 \ud835\uddf6\ud835\uddfb\ud835\uddf3\ud835\uddfc:\n\n- Date and time: November 16, 2024 at 4pm-7pm PT\n\n- Up to 3 members per team\n\n- Contest will be offered online and in person (free for online contestants)\n\n- Eligibility and contest rules: https://lnkd.in/djpG5cpg\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddf4\ud835\ude02\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\ude00 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\ude01\ud835\uddf2\ud835\uddee\ud835\uddfa \ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf6\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddee\ud835\ude00 \ud835\uddf3\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude04\ud835\ude00:\n\n\u2022 CALICO is open to everyone! However, teams with only pre-college students are eligible to win prizes\n\n\u2022 We define \"pre-college student\" as anyone who has not entered college/university\n\nIf you're experienced in competitive programming on platforms like #Codeforces, #LeetCode, or #CodeChef, I'd love to work together!\n\nThis is a great chance to improve our skills, learn from each other, and have fun competing.\n\nSend me a message if you're interested in joining the team. Let's make this competition one to remember!\n\n\ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddfd\ud835\uddf1\ud835\uddf3 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddfa\ud835\uddfc\ud835\uddff\ud835\uddf2 \ud835\uddf6\ud835\uddfb\ud835\uddf3\ud835\uddfc: https://lnkd.in/djpG5cpg \n\n\ud835\uddd6\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddf2\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\ude04\ud835\uddf2\ud835\uddef\ud835\ude00\ud835\uddf6\ud835\ude01\ud835\uddf2: https://lnkd.in/d-jgVKw2\n\n\n\n#CompetitiveProgramming \n#CALICO \n#CodingCompetition \n#TeamBuilding\n#ProblemSolving \n#UCBerkeley \n#programming \n#python \n#c \n#c++ \n#contest \n#codingchallenge \n#calico",
+        "location": "12\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/naveen-manwani-65491678?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Naveen Manwani\n        \n              \n          \ud83d\udea8ECCV 2024 Paper Alert \ud83d\udea8\n\n\u27a1\ufe0fPaper Title: T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning\n\n\ud83c\udf1fFew pointers from the paper\n\n\ud83c\udfafThe scarcity of annotated data in LiDAR point cloud understanding hinders effective representation learning. Consequently, scholars have been actively investigating efficacious self-supervised pre-training paradigms. \n\n\ud83c\udfafNevertheless, temporal information, which is inherent in the LiDAR point cloud sequence, is consistently disregarded.\n\n\ud83c\udfafTo better utilize this property, authors of this paper proposed an effective pre-training strategy, namely \u201cTemporal Masked Auto-Encoders (T-MAE)\u201d, which takes as input temporally adjacent frames and learns temporal dependency. \n\n\ud83c\udfafA SiamWCA backbone, containing a Siamese encoder and a windowed cross-attention (WCA) module, is established for the two-frame input.\n\n\ud83c\udfafConsidering that the movement of an ego-vehicle alters the view of the same instance, temporal modeling also serves as a robust and natural data augmentation, enhancing the comprehension of target objects. SiamWCA is a powerful architecture but heavily relies on annotated data.\n\n\ud83c\udfafTheir T-MAE pre-training strategy alleviates its demand for annotated data. Comprehensive experiments demonstrate that T-MAE achieves the best performance on both Waymo and ONCE datasets among competitive self-supervised approaches.\n\n\ud83c\udfe2Organization:\u00a0 University of Amsterdam\n\n\ud83e\uddd9Paper Authors: Weijie Wei, Fatemeh Karimi Nejadasl, PhD, Theo Gevers, Martin R. Oswald\n\n1\ufe0f\u20e3Read the Full Paper here: https://lnkd.in/gKMuGJM5\n\n2\ufe0f\u20e3Project Page: https://lnkd.in/g5CC6a7H\n\n3\ufe0f\u20e3Code: https://lnkd.in/gHXXt6Gf\n\n\ud83c\udfa5 Be sure to watch the attached Presentation - Sound on \ud83d\udd0a\ud83d\udd0a\n\nFind this Valuable \ud83d\udc8e ?\n\n\u267b\ufe0fREPOST and teach your network something new\n\nFollow me \ud83d\udc63, Naveen Manwani, for the latest updates on Tech and AI-related news, insightful research papers, and exciting announcements.\n\n#ECCV2024 #lidarpointcloud #selfsupervisedlearning",
+        "location": "24"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/massimilianomarchesiello?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Massimiliano Marchesiello\n        \n              \n          llama.cpp: Writing A Simple C++ Inference Program for GGUF LLM Models\n\nhttps://ift.tt/C8HdSWf\n\nExploring llama.cpp internals and a basic chat program\u00a0flow\n\nPhoto by Mathew Schwartz on\u00a0Unsplash\n\nllama.cpp has revolutionized the space of LLM inference by the means of wide adoption and simplicity. It has enabled enterprises and individual developers to deploy LLMs on devices ranging from SBCs to multi-GPU clusters. Though working with llama.cpp has been made easy by its language bindings, working in C/C++ might be a viable choice for performance sensitive or resource constrained scenarios.\n\nThis tutorial aims to let readers have a detailed look on how LLM inference is performed using low-level functions coming directly from llama.cpp. We discuss the program flow, llama.cpp constructs and have a simple chat at the\u00a0end.\n\nThe C++ code that we will write in this blog is also used in SmolChat, a native Android application that allows users to interact with LLMs/SLMs in the chat interface, completely on-device. Specifically, the LLMInference class we define ahead is used with the JNI binding to execute GGUF\u00a0models.\n\nGitHub - shubham0204/SmolChat-Android: Running any GGUF SLMs/LLMs locally, on-device in Android\n\nThe code for this tutorial can be found\u00a0here:\n\nshubham0204/llama.cpp-simple-chat-interface\n\nContents\n\nAbout llama.cpp\n\nSetup\n\nLoading the\u00a0Model\n\nPerforming Inference\n\nGood Habits: Writing a Destructor\n\nRunning the Application\n\nAbout llama.cpp\n\nllama.cpp is a C/C++ framework to infer machine learning models defined in the GGUF format on multiple execution backends. It started as a pure C/C++ implementation of the famous Llama series LLMs from Meta that can be inferred on Apple\u2019s silicon, AVX/AVX-512, CUDA, and Arm Neon-based environments. It also includes a CLI-based tool llama-cli to run GGUF LLM models and llama-server to execute models via HTTP requests (OpenAI compatible server).\n\nllama.cpp uses ggml, a low-level framework that provides primitive functions required by deep learning models and abstracts backend implementation details from the user. Georgi Gerganov is the creator of ggml and llama.cpp.\n\nThe repository\u2019s README also lists wrappers built on top of llama.cpp in other programming languages. Popular tools like Ollama and LM Studio also use bindings over llama.cpp to enhance user friendliness. The project has no dependencies on other third-party libraries\n\nHow is llama.cpp different from PyTorch/TensorFlow?\n\nllama.cpp has emphasis on inference of ML models from its inception, whereas PyTorch and TensorFlow are end-to-end solutions offering data processing, model training/validation, and efficient inference in one\u00a0package.\n\nPyTorch and TensorFlow also have their lightweight inference-only extensions namely ExecuTorch and TensorFlow Lite\n\nConsidering only the inference phase of a model, llama.cpp is lightweight in its implementation due to the absence of third-party dependencies and an extensive set of available operators or model...",
+        "location": "1"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/aishwarya03?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Aishwarya Bhangale\n        \n              \n          Week 10 NeuroNuggets \ud83e\udde0 : Prompt Engineering Using LLMs - Part 3\n\u00a0\nIn this week's NeuroNugget, we will go over a second set of prompting techniques to improve an LLM's performance:\n\u00a0\n1) Chain of Thought \u26d3: \nChain-of-Thought (CoT) prompting, contrasts with the standard few-shot \ud83d\udc89 prompt approach by encouraging the language model (LLM) to reveal its reasoning process. Instead of just providing examples and expecting direct answers, CoT prompts guide the LLM to unfold its thought process. This method often leads to answers that are not only more accurate but also easier to understand and interpret. It's like having a detective \ud83d\udd75\u200d\u2640\ufe0f mentor who not only shows you evidence but also teaches you how to think like a detective to crack the case on your own.\n\u00a0\n2) ReAct:\nReason & Action \ud83c\udff9(ReAct) prompting is a method that helps language models do two things at once: explain their thinking and decide what to do next. This approach lets them think through problems and make plans that they can change and improve as they go. It's like having a smart friend \ud83d\udc67 who not only gives you advice but also helps you understand the reasons behind it, making your plans more organized and effective.\n\u00a0\n3) Directional \u2197 Stimulus:\nDirectional Stimulus Prompting (DSP) introduces a small set of tokens called \"directional stimulus\" into the prompt. These tokens act like hints or clues, guiding the language models (LLMs) towards the right direction. For instance, in a summarization task, the directional stimulus could be specific keywords that should be included in the summary.\n\u00a0\n4) Meta Prompting:\nA Meta Prompt serves as a generic, structured template \ud83c\udfb6 that outlines how to approach a category of tasks without specific examples. It guides LLMs in reasoning through tasks by providing a framework that can be adapted with specific details. This method enhances efficiency and precision in utilizing LLMs, focusing on the methodology of problem-solving rather than the specific content. For eg, a meta prompt to create a product description would outline sections like key features, specifications, use cases, and conclusion, emphasizing structured content generation over specific product details.\n\u00a0\nThis would be my last post in this series ;) Hope these posts have been helpful! Thank you for learning with me \ud83d\udc8c",
+        "location": "3"
+      },
+      {
+        "link": "https://br.linkedin.com/company/compilers-lab?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Compilers Lab\n        \n              \n          The parameters of compiler optimizations interact in complex and non-trivial ways, and finding optimal combinations remains an open research challenge.\n\nThere are several approaches to discovering effective combinations of these optimization parameters. Recently, Michael Canesche (Cadence Design Systems) and Gaurav Verma (Stony Brook University) have had promising results using auto-tuning with coordinate descent.\n\nTo visualize this process, imagine that each optimization represents a 'dimension' in a search space. The combination of all optimizations and their respective parameters forms a vector in this space. Now, consider that each point in this space is mapped to a real number representing the performance of a kernel (assuming a fixed input). Coordinate descent is a search technique that assumes the performance curve is convex. Based on this assumption, it aims to find the optimal point by varying one optimization parameter at a time.\n\nExplore as a Storm, Exploit as a Raindrop: On the Benefit of Fine-Tuning Kernel Schedulers with Coordinate Descent: https://lnkd.in/dgxxfdYR\n\nThe Droplet Search Algorithm for Kernel Scheduling: https://lnkd.in/dBfQid9z",
+        "location": "77"
+      },
+      {
+        "link": "https://bz.linkedin.com/in/omarsar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Elvis S.\n        \n              \n          Not sure why LLM compression is not discussed more often. Leveraging very large language models to build capable smaller LMs will be a huge win for everyone. \n\nCompanies like NVIDIA and Meta seem to be pushing hard on pruning and distillation for good reason. The compressed Llama 3.1 and NeMo models mentioned in this paper look very competitive.",
+        "location": "472\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/brandonphil?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Brandon Phillips\n        \n              \n          About 2 months ago Li Yin  didn't hold back in critiquing LLM application frameworks. Fast forward to 7/3/24, and her team has just released the alpha version of LiteRAG, with beta on the horizon(7/9/24).\n\n\nFirst Impressions? It's a nice balance between how I use instructor and DSPy. \n\nInstead of Pydantic, it uses the dataclasses, which is a standard library construct. The library also introduces DataClass as a wrapper to simplify generating schemas, adding examples, and loading JSON AND YAML.\n\nIf you're familiar with Pytorch, or DSPy, then you'll feel at home composing your Components, which is a core abstraction. My favorite component as of now, Sequential, allows you to chain together your components input -> output.\n\nDefinitely looking forward to seeing how this library grows!\nBut, you don't need me to give you your opinion, Go check it out and make your own.\n\nLightRAG -> https://lnkd.in/g4cWDP88\n\nIf you want to see how I applied it to a current project, check out the video!\nHappy MonYay yall!",
+        "location": "81\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://in.linkedin.com/in/anirudh-kotamraju-40bb012a7?trk=public_profile_samename-profile",
+        "name": "Anirudh Kotamraju",
+        "summary": "--",
+        "location": "Vijayawada East"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "-CS 162 (Operating Systems), CS 186 (Databases), CS61C (Computer Architecture), CS61B (Data Structures), CS 70 (Discrete Math and Probability), CS 61A (Structure & Interpretation of Computer Programs)"
+      },
+      {
+        "name": "-DATA 100 (Principles and Techniques of Data Science), DATA 8 (The Foundations of Data Science), Math 54 (Linear Algebra + Differential Equations)"
+      },
+      {
+        "name": "Compilers and Interpreters, Neural Networks, Computer Architecture, Numerical Methods"
+      },
+      {
+        "name": "Linear Algebra, Multivariate Calculus"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Sustainability Grand Prize Winner, Stanford Treehacks 2024",
+        "organization": "Treehacks",
+        "duration": "Feb 2024",
+        "summary": "Won Grand Prize in Sustainability track for developing SkySplat. drones + gaussian splatting = automated, AI-powered modeling of environments for natural disaster response."
+      },
+      {
+        "name": "1st Place Eluv.io Prize Winner, Calhacks 2022",
+        "organization": "Calhacks",
+        "duration": "Oct 2022",
+        "summary": "Won $10,000 for developing \"Artful,\" an online marketplace for physical art that prevents forgery through blockchain."
+      },
+      {
+        "name": "UC Berkeley Regents\u2019 and Chancellor\u2019s Scholarship Finalist",
+        "organization": "UC Berkeley R&C Scholarship Association",
+        "duration": "Feb 2022",
+        "summary": ""
+      },
+      {
+        "name": "National Merit Scholarship Finalist",
+        "organization": "National Merit Scholarship Corporation",
+        "duration": "Jan 2022",
+        "summary": "One of 15,000 selected from a pool of 1.6 million high school students."
+      },
+      {
+        "name": "4th place, National EconBowl",
+        "organization": "Youth Economics Initiative",
+        "duration": "Nov 2021",
+        "summary": ""
+      },
+      {
+        "name": "Gold, President's Volunteer Service Award",
+        "organization": "PVSA",
+        "duration": "Oct 2021",
+        "summary": "Performed 250+ hours of volunteer service."
+      },
+      {
+        "name": "Top 5, California Finals, National Economics Challenge",
+        "organization": "National Economics Challenge",
+        "duration": "Apr 2021",
+        "summary": "Placed top 5 statewide in competition testing understanding of microeconomics, macroeconomics, and world events. Competed in Adam Smith (advanced) division."
+      },
+      {
+        "name": "\"Best Web App\" Winner, DV Hacks III",
+        "organization": "DV Hacks (Hackathon)",
+        "duration": "Mar 2021",
+        "summary": "Won for developing \"PicassoGAN.\""
+      },
+      {
+        "name": "Finalist, American Computer Science League",
+        "organization": "ACSL",
+        "duration": "2021",
+        "summary": ""
+      },
+      {
+        "name": "2nd Place, Harmony Hacks II",
+        "organization": "Harmony Hacks (Hackathon)",
+        "duration": "Aug 2020",
+        "summary": "Won for developing \"covidNet.\""
+      },
+      {
+        "name": "Finalist, H&R Block Budget Challenge",
+        "organization": "H&R Block",
+        "duration": "Apr 2019",
+        "summary": "Placed 10th nationally out of 40,000+ students in finance-management competition."
+      },
+      {
+        "name": "2024 Bloomberg BPuzzled Challenge Finalist & UC Berkeley Winner",
+        "organization": "Bloomberg",
+        "duration": "",
+        "summary": "1st place in the UC Berkeley competition. Represented Berkeley in the finals held in New York."
+      }
+    ],
+    "score": []
+  }
+]

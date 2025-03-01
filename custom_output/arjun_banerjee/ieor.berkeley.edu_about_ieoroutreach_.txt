@@ -1,0 +1,151 @@
+                    Menu
+                          [About](https://ieor.berkeley.edu/about/)
+                                      Department
+                                      [Why IEOR](https://ieor.berkeley.edu/about/why-ieor/)
+                                      [Message from the Chair](https://ieor.berkeley.edu/about/message-from-the-chair/)
+                                      [Diversity, Equity, & Inclusion](https://ieor.berkeley.edu/about/diversity-equity-inclusion/)
+                                      [Accreditation](https://ieor.berkeley.edu/about/accreditation/)
+                                      [Contact Us](https://ieor.berkeley.edu/about/contact-us/)
+                                      About IEOR
+                                      [What is IEOR?](https://ieor.berkeley.edu/about/what-is-ieor/)
+                                      [Fields of Research](http://ieor.berkeley.edu/research/)
+                                      [Where Alumni Work](https://ieor.berkeley.edu/about/where-alumni-work/)
+                                      Collaborate
+                                      [Donate](https://ieor.berkeley.edu/give/)
+                                      [Recruit Students](https://ieor.berkeley.edu/about/industry/)
+                                      [Visiting Scholars](https://ieor.berkeley.edu/about/visiting-scholars/)
+                                      [Outreach](https://ieor.berkeley.edu/about/ieoroutreach/)
+                                      Resources
+                                      [Directions](https://ieor.berkeley.edu/about/directions/)
+                                      [Etcheverry Hall Safety & IT Resources](https://ieor.berkeley.edu/about/etcheverry-hall-safety-it-resources/)
+                                      [Department Financial Resources](https://ieor.berkeley.edu/department-financial-resources/)
+                                      [Hubert Dreyfus Lending Library](https://ieor.berkeley.edu/?page_id=16000)
+                                      [Jobs](https://ieor.berkeley.edu/jobs)
+                          [Research](https://ieor.berkeley.edu/research/)
+                                      [Overview](https://ieor.berkeley.edu/research/)
+                                      [Optimization & Algorithms](https://ieor.berkeley.edu/research/optimization-algorithms/)
+                                      [Machine Learning & Data Science](https://ieor.berkeley.edu/research/machine-learning-data-science/)
+                                      [Stochastic Modeling & Simulation](https://ieor.berkeley.edu/research/stochastic-modeling-simulation/)
+                                      [Robotics & Automation](https://ieor.berkeley.edu/research/robotics-automation/)
+                                      [Supply Chain Systems](https://ieor.berkeley.edu/research/operations-supply-chain-logistics-production/)
+                                      [Financial Systems](https://ieor.berkeley.edu/research/financial-systems/)
+                                      [Energy Systems](https://ieor.berkeley.edu/research/energy-systems/)
+                                      [Healthcare Systems](https://ieor.berkeley.edu/research/healthcare-systems/)
+                                      [Labs](https://ieor.berkeley.edu/research/labs/)
+                                          The far-reaching research done at Berkeley IEOR  has applications in many fields such as energy systems, healthcare, sustainability, innovation, robotics, advanced manufacturing, finance, computer science, data science, and other service systems. Faculty research in Berkeley IEOR specializes in stochastic processes, optimization, and supply chain management.
+                          [Academics](https://ieor.berkeley.edu/academics/)
+                                      Undergraduate
+                                      [B.S. IEOR](https://ieor.berkeley.edu/academics/bs-ieor/)
+                                      [B.A. Analytics](https://ieor.berkeley.edu/academics/ba-analytics/)
+                                      [5 Year: BS/MS IEOR](https://ieor.berkeley.edu/academics/bs-ms-ieor/)
+                                      [B.S. M.E.T.](https://ieor.berkeley.edu/academics/bs-management-entrepreneurship-technology/)
+                                      Graduate
+                                      [Master of Analytics](https://ieor.berkeley.edu/academics/master-of-analytics-2/)
+                                      [Master of Engineering](https://ieor.berkeley.edu/academics/master-of-engineering/)
+                                      [Master of Science](https://ieor.berkeley.edu/academics/master-of-science/)
+                                      [Doctorate](https://ieor.berkeley.edu/academics/phd/)
+                                      General
+                                      [Courses](https://ieor.berkeley.edu/academics/courses/)
+                                      [Careers](https://ieor.berkeley.edu/about/where-alumni-work/)
+                                      [Graduate Student Handbook](https://docs.google.com/document/d/1GKayQZk9OPBdxsBgSPT9ThrQmC_vQ0s9JV-NhFjTcy0/edit?usp=sharing)
+                          [News](https://ieor.berkeley.edu/news/)
+                                      [Alumni Magazine](https://ieor.berkeley.edu/alumni/alumni-newsletter/)
+                                      [Department News](https://ieor.berkeley.edu/news/recent-news/)
+                                      [IEOR Impact](https://ieor.berkeley.edu/ieor-impact/)
+                                      [Sign Up for Our Newsletter](https://ieor.berkeley.edu/news/sign-up-for-our-newsletter/)
+                                      [For Press & Media](https://ieor.berkeley.edu/for-press-media/)
+                                      [Videos](https://ieor.berkeley.edu/videos/)
+                                      [Follow us on Social Media](https://ieor.berkeley.edu/social-media/)
+                                      Events
+                                      [Department Seminars](https://ieor.berkeley.edu/ieor-seminar-series/)
+                                      [Alumni Events](https://ieor.berkeley.edu/alumni/alumni-events/)
+                          [People](https://ieor.berkeley.edu/people/)
+                                      [Faculty](https://ieor.berkeley.edu/faculty/)
+                                      [Staff](https://ieor.berkeley.edu/staff/)
+                                      [Student Organizations](https://ieor.berkeley.edu/student-organizations/)
+                                      [Graduate Students](https://ieor.berkeley.edu/graduate-students/)
+                                      [Advisory Board](https://ieor.berkeley.edu/advisory-board/)
+                                      [Alumni](https://ieor.berkeley.edu/alumni-friends/)
+                                          With more than 4,000 alumni, 20 faculty, 20 advisory board members and 400 students, the IEOR department is a rapidly growing community equipped with tools and resources to make a large impact in industry, academia, and society. Learn more about our faculty’s research, student activities, alumni game-changers, and how Berkeley IEOR is designing a more efficient world.
+    .fl-page-header-fixed
+              [UC Berkeley](https://www.berkeley.edu/)
+              |
+              [Berkeley Engineering](https://engineering.berkeley.edu/)
+              [Recruit Our Students](https://ieor.berkeley.edu/about/industry/)
+              [Give](https://ieor.berkeley.edu/give/)
+            IEOR -
+              Designing a More Efficient World
+    .fl-page-bar
+                        Submit
+    .fl-page-header
+                                      Flexy Breadcrumb
+                                      Breadcrumb wrapper
+                                        Ordered list
+                                              Home Link
+                                            Meta Position
+                                            /
+                                            IEOR Outreach Page
+                                    Berkeley IEOR Outreach
+                                    At Berkeley IEOR, our mission to solve grand challenges can only be accomplished with meaningful community engagement. We believe in training our scholars to pursue civic engagement through volunteer, outreach, and service activities so that the future of the IEOR profession can fully represent the diverse populations and contexts that surround us.
+                                          K-12 Outreach
+                                    Kids Teach Tech
+                                        [Kids Teach Tech (KTT)](https://kidsteachtech.com/)
+                                      is a non-profit organization founded five years ago by Arjun Banerjee Mulchandani, the then 10-year-old son of Berkeley IEOR alumna Sarbani Banerjee Mulchandani (KTT’s Executive Director). The mission of KTT is to help bring coding education to young people while empowering them to become educators who “teach it forward.” University students train and mentor KTT youth, and then those same youth give back to their communities by delivering KTT curriculum to other underserved young people.
+                                    Read more about KTT through this
+                                        interview
+                                      and
+                                        article
+                                      .
+                                    Other Outreach
+                                    Journey Through The World of Analytics
+                                        Join Us
+                                      for a two-day professional development workshop in analytics designed for community college educators. Discover how to harness the power of data to produce smart solutions to challenges in every industry, from supply chains to finance, from e-commerce to transportation. Teach your students how to use analytics to build new products and services in the 21st century.
+                                    Use analytics & operations research to enrich curriculum, unlock career opportunities, and empower students.
+                                    The workshop is organized by UC Berkeley IEOR Department, in partnership with the NSF AI Institute for Advances in Optimization.
+                                    T-PREP: Transfer Pre-Engineering Program
+                                    Berkeley Engineering’s
+                                        Transfer Pre-Engineering Program
+                                      (T-PREP) begins with a three week summer program offered to incoming Berkeley Engineering transfer students. T-PREP continues throughout the year with workshops and events that are for your cohort. The transition from a community college to a major research university can be challenging, and transfer students often underestimate the degree of change. Students who participate in T-PREP will be fully prepared to meet the rigors of being a junior in the College of Engineering. T-PREP is just one of the many support services offered by Engineering Student Services.
+                                    “Being part of T-Prep as a student and then again as a DA and RA was one of the most impactful and fulfilling experiences during my time at Berkeley Engineering. It is a fast-paced, high-pressure program that gives incoming students a preview of what it truly means to be a Berkeley Engineer. More importantly, however, this program uplifts underrepresented student populations that are entering the College of Engineering by equipping them with not only a set of tools that will allow them to succeed but also a community that will nurture, guide, and support them through the process. T-Prep, in its entirety, is more than a program it is a family.” — Abhigyan Biswas (BS
+                                      IEOR
+                                      '23)
+                                    IISE Alumni Mentorship Initiative
+                                    The IISE Alumni Mentorship Initiative aims to connect
+                                      students with alumni leaders from the Department of Industrial Engineering and Operations Research. Alumni mentors and role models help provide mentees with guidance in academic studies, career choices, independent preparation, and general advice. Consistency is key to the success of mentorship relationships, and we ask that mentors and mentees maintain an ongoing commitment to meet at least once a month.
+                                    Interested in getting matched with an alumni mentor? Complete our interest form, found
+                                        here
+                                    Berkeley Mentorship Cohort
+                                    The
+                                      (BMC) is a year-long program. Getting admitted to Berkeley Engineering is a big achievement in itself. Succeeding here will challenge you in ways you might never have expected. That’s why we offer a robust mentorship program to give each one of you the individual support you need.
+                                    In BMC we’re increasing access and equity for everyone in our community. We close opportunity gaps for marginalized groups. Providing a welcoming culture where all Berkeley Engineering students feel valued and supported by peer mentors, faculty and staff, our goal is to ensure that our students feel prepared to fully unlock their individual and collective potential by continuing to pay it forward. We’ll be serving scholars at every stage of their academic careers, creating a pipeline of support and enhancing our students’ holistic wellness.
+              .fl-post-content
+            .fl-post
+    .fl-page-content
+                                              [4141 Etcheverry Hall](https://goo.gl/maps/sm9RRGvbhZ47B68t7)
+                                          Graduate Student Services
+                                              gradstudentservices-ieor@
+                                          Graduate Admissions
+                                              gradadmissions-ieor@
+                                          Undergraduate Student Services
+                                            ieor-student-services@berkeley.edu
+                                          Public Affairs & Media Relations
+                                            ieornewsletter@berkeley.edu
+                                            gnegelev1@berkeley.edu
+                                          Bachelor's
+                                                [B.S. Industrial Engineering & Operations Research](https://ieor.berkeley.edu/academics/bs-ieor/)
+                                                [Management, Entrepreneurship & Technology](https://ieor.berkeley.edu/academics/bs-management-entrepreneurship-technology/)
+                                          Master's
+                                          Doctoral
+                                                [Ph.D. Industrial Engineering & Operations Research](https://ieor.berkeley.edu/academics/phd/)
+                                          Explore
+                                              [Industry](https://ieor.berkeley.edu/about/industry/)
+                                              [IEOR Magazine](http://ieor.berkeley.edu/alumni/alumni-newsletter/)
+                                            Sign Up For Our Newsletter
+      .fl-page-footer-widgets
+                  [Privacy](https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites)
+                  [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement)
+                  [Accessibility](https://dac.berkeley.edu/web-accessibility)
+                  Copyright © 2025 UC Regents
+      .fl-page-footer
+  .fl-page
+    Scroll To Top

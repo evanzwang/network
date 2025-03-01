@@ -1,0 +1,60 @@
+{
+  "title": "Open Source Silicon @ Stanford",
+  "meta_description": "",
+  "main_content": "Meet the Team Leadership Digital Analog Physical Design Software Board Level Design Project Management Leadership Austin Brown President William Salcedo Vice-President Sarosh Khan Financial Officer Sonnet Xu Chief Operations Officer Fengrui Zuo Industry Outreach Officer Digital Design Subteam The Digital Register-Transfer Level (RTL) Design Subteam focuses on developing high-performance digital hardware accelerators. We create detailed microarchitectures and collaborate with the Software Subteam to ensure seamless software-hardware integration. Our work includes writing and verifying Hardware Description Language (HDL) code and running simulations on behavioral models to validate our designs. Suresh Nambi Digital Design Co-Lead Stan Lee Digital Design Co-Lead Analog Design Subteam The Analog Subteam focuses on designing and verifying analog components such as amplifiers, voltage references, and PMICs. We conduct device simulations, work with both open-source and proprietary software for schematic generation and routing, and perform bench testing and verification. Additionally, we explore cryogenic ASICs, including ADCs and amplifiers, providing members with comprehensive experience in analog design and testing. Fengrui Zuo Analog Design Co-Lead Steven Abrego Analog Design Co-Lead Physical Design Subteam The Physical Design Subteam is dedicated to mastering the intricacies of ASIC design. We work with both open-source and proprietary ASIC tools, developing our own scripts and optimizing designs to meet Performance, Power, and Area (PPA) requirements. Angelina Krinos Physical Design Co-Lead Software & Firmware Subteam The Software and Firmware Subteam bridges the gap between hardware and chip applications. We develop compilers, firmware, and low-level libraries to enhance productivity across the computing stack, as well as to create end-user applications and interfaces. Additionally, we contribute to open-source tools, enriching the open-source semiconductor community. Software Lead 1 Software & Firmware Lead Board Level Design Subteam The Board Level Design Subteam is geared towards developing and assembling Printed Circuit Boards (PCBs), integrating complex systems into a single location. With system and technical specifications in mind, we build infrastructure to bring up chips when they return from the fab. This hands-on work ensures seamless integration and functionality of our designs. Rohan Karunaratne Board Level Design Lead Project Management Subteam The Project Management Subteam drives the operation and flow of OS3\u2019s various ongoing engineering projects. We communicate regularly with partners to generate system-level requirements and technical specifications. Our team serves as a bridge between social needs and club operations, ensuring our projects align with broader goals and meet stakeholder expectations. Eric Liu Project Management Lead",
+  "links": [],
+  "images": [
+    {
+      "src": "Media/Team Photos/AustinBrown.png",
+      "alt": "President"
+    },
+    {
+      "src": "Media/Team Photos/WillSalcedo.png",
+      "alt": "Vice-President"
+    },
+    {
+      "src": "Media/Team Photos/SaroshKhan.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/SonnetXu.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/FengruiZuo.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/SureshNambi.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/StanLee.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/FengruiZuo.png",
+      "alt": "Analog Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/StevenAbrego.png",
+      "alt": "Analog Lead 2"
+    },
+    {
+      "src": "Media/Team Photos/AngelinaKrinos.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/SchwinnSaereesitthipitak.png",
+      "alt": "Digital Lead 1"
+    },
+    {
+      "src": "Media/Team Photos/Rohan Karunaratne.png",
+      "alt": "Board Level Design Lead"
+    },
+    {
+      "src": "Media/Team Photos/EricLiu.png",
+      "alt": "PM Lead"
+    }
+  ]
+}

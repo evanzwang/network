@@ -1,0 +1,287 @@
+[
+  {
+    "fullName": "Natnael Kahssay",
+    "linkedin_internal_id": "765136950",
+    "first_name": "Natnael",
+    "last_name": "Kahssay",
+    "public_identifier": "natnael-kahssay",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQFd9zjZdDcKoQ/profile-displaybackgroundimage-shrink_200_800/B4EZU2pG3gGgAU-/0/1740378503184?e=2147483647&v=beta&t=Q3wWqttvaDS405nuoA_kB4JtKlb3UH9PeVtq4IVmPO4",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQEGGRGzzFxA_w/profile-displayphoto-shrink_200_200/B4EZU5.QVsHgAc-/0/1740434376570?e=2147483647&v=beta&t=FDWkCfk75GkQscw6bbgijPWQlRIcGCspChp9X4_DBqk",
+    "headline": "Computer Science and Engineering @ MIT | Incoming @ Etched",
+    "location": "223 followers\n          \n          \n              223 connections",
+    "about": "Founder, researcher, and lab assistant with hands-on experience in RF systems, FPGA design, Nano-fabrication, and hardware Design. Skilled in Bluespec, C, Python, Cadence, and Vivado.nkk [at] mit [dot] eduGithub: github.com/natask",
+    "experience": [
+      {
+        "position": "6.205: Laboratory Teaching Assistant",
+        "company_url": "https://www.linkedin.com/company/mit-eecs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEpvUjzEJFA7g/company-logo_100_100/company-logo_100_100/0/1635868094368?e=2147483647&v=beta&t=gZvtVXrrBpaovpTPc3fUK5X6Bmx992SYTlkeap7V9pk",
+        "company_name": "MIT EECS",
+        "location": null,
+        "summary": "Assisted students utilizing Sparta-7 FPGAs to implement digital design lab assignments and individually driven final projects for Digital System Laboratory I (6.205) course.",
+        "starts_at": "Sep 2024",
+        "ends_at": "Feb 2025",
+        "duration": "6 months"
+      },
+      {
+        "position": "Bioelectronics Group: Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/mitbrainandcog?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFPq3ZTDqFBQQ/company-logo_100_100/company-logo_100_100/0/1630460589097/mitbrainandcog_logo?e=2147483647&v=beta&t=9iqInu5CXIwTbDCMTlBZyb02QG6NomUtgQNlX4x-gDM",
+        "company_name": "MIT Brain and Cognitive Sciences",
+        "location": null,
+        "summary": "Assembled optogenetic-based waveguide and led neural implants utilized to study the role of stress in addiction susceptibility. Neural implants were built upon fiber draw process and introduced into mice models through a surgical procedure.",
+        "starts_at": "Jun 2024",
+        "ends_at": "Feb 2025",
+        "duration": "9 months"
+      },
+      {
+        "position": "6.2080: Laboratory assistant",
+        "company_url": "https://www.linkedin.com/company/mit-eecs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEpvUjzEJFA7g/company-logo_100_100/company-logo_100_100/0/1635868094368?e=2147483647&v=beta&t=gZvtVXrrBpaovpTPc3fUK5X6Bmx992SYTlkeap7V9pk",
+        "company_name": "MIT EECS",
+        "location": null,
+        "summary": "Assisted students in designing, simulating, and laying out active circuits in cadence for Semiconductor Electronic Circuits (6.2080) course.",
+        "starts_at": "Feb 2024",
+        "ends_at": "May 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "6.2080: Grader",
+        "company_url": "https://www.linkedin.com/company/mit-eecs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEpvUjzEJFA7g/company-logo_100_100/company-logo_100_100/0/1635868094368?e=2147483647&v=beta&t=gZvtVXrrBpaovpTPc3fUK5X6Bmx992SYTlkeap7V9pk",
+        "company_name": "MIT EECS",
+        "location": null,
+        "summary": "Was responsible for grading homework analyzing gain elements including small signal analysis.",
+        "starts_at": "Feb 2024",
+        "ends_at": "May 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Founder",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Saverntronics technologies",
+        "location": "Spokane, Washington, United States",
+        "summary": "Founded a company producing autonomous barbing machine. Designed and implemented a digital model of the machine and characterized its actuator response.",
+        "starts_at": "Dec 2020",
+        "ends_at": "Apr 2022",
+        "duration": "1 year 5 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/mit/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Massachusetts Institute of Technology",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer and Electrical Engineering",
+        "college_duration": " - ",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "MIT EECS",
+      "description1_link": "https://www.linkedin.com/company/mit-eecs?trk=public_profile_topcard-current-company",
+      "description2": "Massachusetts Institute of Technology",
+      "description2_link": "https://www.linkedin.com/school/mit/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/rob-blaine_ai-machinelearning-startups-activity-7294744677830864896-f5yZ",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFV1_zUuGpcbg/feedshare-shrink_800/B56ZTwjjYVGUAg-/0/1739202656958?e=2147483647&v=beta&t=NSiLvLradBrqhvwbU7HIsO80oiPJrWRQhLuBCi4qAms",
+        "title": "Big week for AI at Massachusetts Institute of Technology, headlined by Sundai and Everydai.\n\nBetween Sundai\u2019s annual celebration and presenting at\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dianagrass_phdcandidate-harvardmit-hst-activity-7291239140765966337-aRne",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFniBfnodDBfg/feedshare-shrink_1280/B4EZS.vWThG0As-/0/1738366874532?e=2147483647&v=beta&t=lNGSp8U45xtPUUO4WyH35hy458Qu72kMFDLhsS2Vmtc",
+        "title": "I am delighted to share that I have officially qualified as a PhD candidate at Harvard-MIT Health Sciences and Technology (HST) after successfully\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dana-saied-57869a289_its-incredibly-hard-to-express-how-activity-7291840767554187264-Ddfy",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHB78Fz2AJDyQ/feedshare-shrink_1280/B4EZTHShxSG0Ak-/0/1738510313600?e=2147483647&v=beta&t=Ya6DQ5E4gVwUMm-nidCAXihDmn0X-IzRbHXXXaLjwmI",
+        "title": "\ud83d\udc94\ud83d\udc94\ud83d\udc94\n\nIt's incredibly hard to express how painful it is to lose someone like Dr. Andualem (General and Hepato-Biliary Surgeon) through SENSELESS\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/iwnetim-tim-abate-phd-91357b66_ammonia-is-a-critical-clean-chemical-essential-activity-7287837188191354881-QlZU",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGvpWWHuqv0-w/feedshare-shrink_2048_1536/B4EZSOZRtmHMA0-/0/1737555785989?e=2147483647&v=beta&t=lSW-rU1O9q_xx00Dbr-laZyy1fcOwhO9DcPCPcjYEA4",
+        "title": "Ammonia is a critical clean chemical, essential for ensuring energy security and prosperity. It is the most produced chemical globally and also the\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/unikewicz_incredibly-proud-of-my-undergraduate-mentees-activity-7291948841329700864-2ePf",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFjFGHQ-Xj1Kg/feedshare-shrink_2048_1536/B4EZTI0rc1HUAo-/0/1738536078484?e=2147483647&v=beta&t=rtjlXhWktM3w4iuGLR3bdG9gacwX0Ji5K7i8lLSud-w",
+        "title": "Incredibly proud of my undergraduate mentees, Avishai Jeselsohn and Bemnet Asefa! \n\nThis weekend, the three of us took part in the inaugural\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dr-mihretu-tegegn-dba-19663675_%E1%8A%80%E1%8B%B3%E1%88%AD21-%E1%8A%80%E1%8B%B3%E1%88%AD%E1%8C%BD%E1%8B%AE%E1%8A%95-activity-7268179883170619392-1WYI",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEuOdT-aSIg_A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732869119596?e=2147483647&v=beta&t=85trzN_PbWTHvSFL5lsBbGuBAHmiKcbUbbPFyi3z1Us",
+        "title": "\u1273\u1266\u1270 \u1215\u1309 \u1208\u12a5\u130d\u12da\u12a0\u1265\u1214\u122d \u1260\u12ab\u1205\u1293\u1275 \u1215\u133d\u122d\u1275\u1364\n\u12e8\u12a5\u130d\u12da\u12a0\u1265\u1214\u122d \u12e8\u1215\u1309 \u1273\u1266\u1275 \u1260\u12ab\u1205\u1293\u1275 \u12e8\u1273\u1320\u1228\u127d\u1364\n\n\u12c8\u1260\u1218\u1295\u1348\u1235 \u1245\u12f1\u1235 \u12ad\u120d\u120d\u1275\u1364\n\u1260\u1218\u1295\u1348\u1235 \u1245\u12f1\u1235\u121d \u12e8\u1270\u12a8\u1208\u1208\u127d\u1364\n\n\u12a2\u12ed\u1275\u1218\u12cb\u12a5 \u1208\u1338\u122d\u1363 \u12c8\u12a2\u12e8\u1283\u12f5\u130b \u1208\u1200\u1308\u122d\u1362\n\u1208\u1270\u133b\u122b\u122a \u12a0\u12ed\u1238\u1290\u134d\u121d\u1363 \u1200\u1308\u122d\u1295\u121d \u12a0\u12ed\u1270\u12cb\u1275\u121d\u1362\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sintayehudehnie_christmas-eve-celebration-on-january-7-at-activity-7283145839256956929-NsFk",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Christmas Eve Celebration on January 7 at the Ethiopian Orthodox Tewahdeo Church!",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/yodahe-maaza-579875247_microsoftintern-activity-7285788821756030977-eHh4",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFhCn9-RHOHXw/feedshare-shrink_1280/B56ZRxSUuUGoAs-/0/1737067417040?e=2147483647&v=beta&t=zOZW8jKMAGvWLfIfnU4aFcva0V6mZ1bgHltUQP3yfzo",
+        "title": "I'm excited to share that I will be joining Microsoft as an Explore Intern in Redmond, WA, for Summer 2025! A huge thank you to my interviewers\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/martin-trust-center-for-mit-entrepreneurship_yesterday-was-final-presentation-day-at-startmit-activity-7288234689964699648-0EC9",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEGkSlZrmSiDQ/feedshare-shrink_800/B4DZSUCzKGGcAw-/0/1737650556994?e=2147483647&v=beta&t=0HJW7IT9eLwqT2Xe2kf0jX78sAfCzsvwbdp5uMzwjuc",
+        "title": "Yesterday was final presentation day at StartMIT, our \u2018introduction to entrepreneurship\u2019 IAP program!\n\nStartMIT is a 2.5 week program over January\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/anhad-sawhney_in-august-of-last-year-i-started-mit-combat-activity-7271018970114134017-a9yq",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQHD2Vzxf6NKSA/videocover-high/videocover-high/0/1733545990521?e=2147483647&v=beta&t=eRKyj-zzMjm84fwOl7q1vJVpIlkQxKXe_UiJ7LQW2OY",
+        "title": "In August of last year I started MIT Combat Robotics from scratch. \nIn January we built a kickass robot. \nIn October we were crowned 30lb champion of\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/prof-todd-austin_quantum-quantumcomputing-benchmarking-activity-7272356364662775808-Ucmm",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHvU0Yu3b9jwg/feedshare-shrink_800/B4DZOyZk_jG0As-/0/1733864870338?e=2147483647&v=beta&t=Tma0YZP0v4rux9dNrOGQi1PB3bcTRQ2GtUG3tVd5tZM",
+        "title": "Google's Willow quantum computer has achieved a remarkable milestone, solving problems in just 5 minutes that would take today's most powerful\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/christophervoss_i-need-you-to-wave-a-magic-wand-how-have-activity-7265056493320785921-7PXV",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQGpGf5uIVnI0w/videocover-high/videocover-high/0/1732124416781?e=2147483647&v=beta&t=k_wysLX59Fg8wOdtPEOurVyuUbc7o5yDIPXVAYQeYFQ",
+        "title": "\"I need you to wave a magic wand!\"\n\nHow have you used this phrase in your life?",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/bayenew_massachusetts-institute-of-technology-to-activity-7265757108988497920-7c0p",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQG0YPhwg8bMYw/articleshare-shrink_800/articleshare-shrink_800/0/1732145081090?e=2147483647&v=beta&t=hDQSovMhpv8ubhqtmY2yQ34fVy1LgdMcvnW5BYkRRT4",
+        "title": "As someone who once benefited from MIT\u2019s need blind admission policy, very proud of the institute for taking it even a  step further and hoping other\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/joshuaolaiya_follow-joshuaolaiya-reshare-activity-7266329169666449409-zpEU",
+        "image": "https://media.licdn.com/dms/image/v2/D4D05AQE-ZTOTeAB8XA/videocover-high/videocover-high/0/1732427846788?e=2147483647&v=beta&t=yttUOut8CykLe5JdwzgutKBQ0XqmxpOCYmHa3eSlOhk",
+        "title": "Introducing the WildCat, a bio-inspired mechanical robot, created by Boston Dynamics, created to redefine speed and precision in legged\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mregassa_graduation-physics-electricpropulsion-activity-7218900765275217921-PNvi",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHZKsApKiHZ-w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721120058349?e=2147483647&v=beta&t=hz6dPx2wZOpMl58NPFsH5w2X2rauktj8k3nA4P1OAqY",
+        "title": "\ud83c\udf89 Exciting News! \ud83c\udf89\n\nI'm thrilled to announce that I\u2019ve completed my undergraduate studies! In May 2024, I graduated from Wellesley College with a\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/icon-museum_this-late-19th-or-20th-century-ethiopian-activity-7259623491904196608-IyXK",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGo6HWmgOVr7w/feedshare-shrink_800/feedshare-shrink_800/0/1730829115894?e=2147483647&v=beta&t=91qD2QRO_zWX1RVFWWB6W-G7M2RfJ8vc4AHc1RvzSyU",
+        "title": "This late 19th or 20th-century Ethiopian goatskin is the centerpiece of the \"Skin, Script, Spirit: Ethiopia\" research installation. \n\nThe upper half\u2026",
+        "activity": "Liked by Natnael Kahssay"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/dreldin?trk=public_profile_browsemap-profile",
+        "name": "Adel Eldin, MD FACC FACP, MBA, GGA",
+        "summary": "",
+        "location": "Greater Tampa Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nancy-washburne-a9324a29?trk=public_profile_browsemap-profile",
+        "name": "Nancy Washburne",
+        "summary": "",
+        "location": "East Lansing, MI"
+      },
+      {
+        "link": "https://www.linkedin.com/in/christinemillier?trk=public_profile_browsemap-profile",
+        "name": "Christine \"CG\" Millier",
+        "summary": "",
+        "location": "Dallas-Fort Worth Metroplex"
+      },
+      {
+        "link": "https://www.linkedin.com/in/glenn-wilkinson-nestle?trk=public_profile_browsemap-profile",
+        "name": "Glenn Wilkinson",
+        "summary": "Senior Manager Digital in Manufacturing at Nestl\u00e9 | Leading the Connected Worker Stream",
+        "location": "Greater Cleveland"
+      },
+      {
+        "link": "https://www.linkedin.com/in/miloudsaidi?trk=public_profile_browsemap-profile",
+        "name": "Miloud Saidi",
+        "summary": "",
+        "location": "Rockville, MD"
+      },
+      {
+        "link": "https://www.linkedin.com/in/patrickwilsonrealestate?trk=public_profile_browsemap-profile",
+        "name": "Patrick Wilson",
+        "summary": "",
+        "location": "Destin, FL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mikenejad?trk=public_profile_browsemap-profile",
+        "name": "Mike Nejad",
+        "summary": "",
+        "location": "Pleasanton, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/phil-tamblyn-36ba5728?trk=public_profile_browsemap-profile",
+        "name": "Phil Tamblyn",
+        "summary": "",
+        "location": "Miami-Fort Lauderdale Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ryan-bass-4a030829?trk=public_profile_browsemap-profile",
+        "name": "Ryan Bass",
+        "summary": "",
+        "location": "Phoenix, AZ"
+      },
+      {
+        "link": "https://www.linkedin.com/in/stevendkeyes?trk=public_profile_browsemap-profile",
+        "name": "Steven Keyes",
+        "summary": "",
+        "location": "Princeton, NJ"
+      }
+    ],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Compute Community",
+        "link": "https://www.linkedin.com/in/andrewmead10?trk=public_profile_project_contributor-image",
+        "duration": "Jan 2025"
+      },
+      {
+        "title": "",
+        "link": "https://www.linkedin.com/in/andrewmead10?trk=public_profile_project_contributor-image",
+        "duration": ""
+      },
+      {
+        "title": "802.11a Physical layer on RFSoC",
+        "duration": "Nov 2024 - Dec 2024"
+      },
+      {
+        "title": "Nano MEMS Mirrors",
+        "duration": "Apr 2023 - May 2023"
+      },
+      {
+        "title": "Gestures",
+        "duration": "-"
+      },
+      {
+        "title": "Org-roam search",
+        "duration": "-"
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

@@ -1,0 +1,33 @@
+        ACL Anthology
+            [News](/posts/)
+              (current)
+            [FAQ](/faq/)
+            [Corrections](/info/corrections/)
+            [Submissions](/info/contrib/)
+        Aaquib
+        Syed
+          2024
+              [pdf](https://aclanthology.org/2024.blackboxnlp-1.25.pdf)
+              [bib](/2024.blackboxnlp-1.25.bib)
+                [Attribution Patching Outperforms Automated Circuit Discovery](/2024.blackboxnlp-1.25/)
+              [Aaquib Syed](/people/a/aaquib-syed/)
+              |
+              [Can Rager](/people/c/can-rager/)
+              [Arthur Conmy](/people/a/arthur-conmy/)
+              [Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP](/volumes/2024.blackboxnlp-1/)
+            Automated interpretability research has recently attracted attention as a potential research direction that could scale explanations of neural network behavior to large models. Existing automated circuit discovery work applies activation patching to identify subnetworks responsible for solving specific tasks (circuits). In this work, we show that a simple method based on attribution patching outperforms all existing methods while requiring just two forward passes and a backward pass. We apply a linear approximation to activation patching to estimate the importance of each edge in the computational subgraph. Using this approximation, we prune the least important edges of the network. We survey the performance and limitations of this method, finding that averaged over all tasks our method has greater AUC from circuit recovery than other methods.
+            Search
+                Co-authors
+                    1
+                Venues
+                    [blackboxnlp](/venues/blackboxnlp/)
+            Fix data
+        [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+        . Permission is granted to make copies for the purposes of teaching and research. Materials published in or after 2016 are licensed on a
+        [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+        .
+      The ACL Anthology is managed and built by the
+        [ACL Anthology team](/info/credits/)
+        of volunteers.
+        Site last built on 22 February 2025 at 20:15 UTC with
+          [commit 68f8aca](https://github.com/acl-org/acl-anthology/tree/68f8aca8a464a354e8f09be090d67a8f482566f2)

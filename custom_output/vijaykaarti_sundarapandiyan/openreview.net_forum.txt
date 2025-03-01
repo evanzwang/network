@@ -1,0 +1,44 @@
+            Toggle navigation
+            OpenReview
+            .net
+              [Login](/login)
+            Open Peer Review. Open Publishing. Open Access.
+              Open Discussion. Open Recommendations.
+              Open Directory. Open API. Open Source.
+                ×
+                  Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models
+                      [Aaquib Syed](/profile?id=~Aaquib_Syed1)
+                      ,
+                      [Phillip Huang Guo](/profile?id=~Phillip_Huang_Guo1)
+                      [Vijaykaarti Sundarapandiyan](/profile?id=~Vijaykaarti_Sundarapandiyan1)
+                  01 Mar 2023 (modified: 26 May 2023)
+                  Submitted to Tiny Papers @ ICLR 2023
+                  Readers:
+                    Keywords
+                    Large Language Model, Pruning, Lottery Tickets, GPT, Fine-Tuning
+                    TL;DR
+                    Iteratively fine-tuning SparseGPT models (with relatively few steps) significantly improves their performance at high sparsity.
+                    Abstract
+                    Massive language models with billions of parameters have significant compute expenses and thus can benefit from pruning. Pruning techniques for massive models are typically iterative and require extensive weight retraining after pruning. SparseGPT, a recently introduced one-shot technique for pruning such models, enables pruning without retraining. We improve upon SparseGPT by fine-tuning during pruning with minimal training steps, and we perform experiments against magnitude pruning and find that our iteratively fine-tuned SparseGPT models significantly outperform their magnitude pruning counterparts at high sparsity.
+                  4 Replies
+                  Loading
+                [About OpenReview](/about)
+                [Hosting a Venue](/group?id=OpenReview.net/Support)
+                [All Venues](/venues)
+                [Contact](/contact)
+                [Sponsors](/sponsors)
+                  Join the Team
+                [Frequently Asked Questions](https://docs.openreview.net/getting-started/frequently-asked-questions)
+                [Terms of Use](/legal/terms)
+                [Privacy Policy](/legal/privacy)
+              [OpenReview Sponsors](/sponsors)
+              . ©
+            Send Feedback
+              Enter your feedback below and we'll get back to you as soon as possible. To submit a bug report or feature request, you can use the official OpenReview GitHub repository:
+              [Report an issue](https://github.com/openreview/openreview/issues/new/choose)
+                      Select a topic or type what you need help with
+            Cancel
+            Send
+            BibTeX Record
+            Click anywhere on the box above to highlight complete record
+            Done

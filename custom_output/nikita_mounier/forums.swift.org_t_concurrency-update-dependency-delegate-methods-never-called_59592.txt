@@ -1,0 +1,169 @@
+      [Swift Forums](/)
+      preload-content:
+          [Concurrency update: dependency delegate methods never called](/t/concurrency-update-dependency-delegate-methods-never-called/59592)
+                Related Projects
+                Swift Composable Architecture
+                nikitamounier
+              (Nikita Mounier)
+              August 11, 2022,  5:30pm
+              1
+            I'm building out a new feature using the new Grand Concurrency Update (as I like to call it). It's made modelling dependency clients much, much nicer. As confirmed by your
+              [VoiceMemos](https://github.com/pointfreeco/swift-composable-architecture/blob/main/Examples/VoiceMemos/VoiceMemos/AudioRecorderClient/LiveAudioRecorderClient.swift)
+              case study, it felt natural to push the dependencies into a private actor, with an endpoint on the actor which returns an
+              AsyncThrowingStream
+              .
+            However I'm having an issue, where the
+              CLLocationManagerDelegate
+              methods are never called (even though the
+              locationManagerDidChangeAuthorization(_:)
+              should be called after the
+              CLLocationManager
+              is initialised for instance) , and I'm wondering if it's related to how I modelled the dependancy with an actor and an
+            Here's the important bits of the code:
+            Is it possible that the
+              is somehow getting deallocated instantly?
+              Edit
+              : I'm not sure whether this matters or not, but the endpoint is getting called inside a
+              withThrowingTaskGroup
+              inside of a
+              .run
+              in the reducer, like this:
+                stephencelis
+              August 12, 2022,  2:53pm
+              2
+              [@nikitamounier](/u/nikitamounier)
+              I think we'll need to full implementation to debug. E.g. are you capturing the weak delegate in
+              onTermination
+              ?
+              August 12, 2022,  3:39pm
+              3
+            Sure! I created a GitHub repo, and the files of interest are
+              [BeaconLive.swift](https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift)
+              and the reducer in
+              [ContentView.swift](https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/ContentView.swift#L35-L59)
+            Of note is that the
+              CBPeripheralManagerDelegate
+              methods actually do get called (the console prints
+              Advertiser state changed: CBManagerState(rawValue: 5)
+              quite quickly) – so I don't think the issue is the
+              Delegate
+              class being deallocated.
+            And no, I'm not capturing the weak delegate in
+              – although I am capturing the
+              with
+              UncheckedSendable(locationManager)
+              August 12, 2022,  3:54pm
+              4
+              When this line is invoked, the closure is eagerly capturing
+              locationManager
+              at a point in which it is
+              nil
+              . I think you may need to box this optional value in a reference type (using for example a
+              Box
+              class) if it's getting set later.
+                [github.com](https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38)
+                  [nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38](https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38)
+                      identifier: Bundle.main.bundleIdentifier!
+                      )
+                      let advertisingRegion = CLBeaconRegion(
+                      uuid: UUID(uuidString: "3281D6D1-F2E7-4436-80C0-4EF265331538")!,
+                      major: major,
+                      minor: minor,
+                      self.delegate = Delegate(
+                      print("Detector authorization changed: \(auth)")
+                      case .authorizedAlways, .authorizedWhenInUse:
+                      guard CLLocationManager.isMonitoringAvailable(for: CLBeaconRegion.self),
+                      CLLocationManager.isRangingAvailable()
+                      continuation.finish(throwing: BeaconError.deniedAuthorization)
+              August 12, 2022,  4:34pm
+              5
+            Interesting – so I just did that (with a Box class) but it still didn't work. Let me know if the implementation looks correct:
+              [P2PTest/BeaconLive.swift at main · nikitamounier/P2PTest · GitHub](https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L17-L39)
+              – the Box class is defined at the bottom of the file.
+            I'm wondering whether maybe the CLLocationManager doesn't play nicely with the Swift cooperative thread pool yet, and prefers to deliver its delegate events on the main thread.
+            1 Like
+                rog
+              (Rogerio De Paula Assis)
+              August 16, 2022, 10:12am
+              6
+            Hey
+              I have experienced the exact same issue you are describing here. My "location fetcher" type is not even an actor, just a class using with a vanilla
+              +
+              withCheckedThrowingContinuation
+            Interestingly, if I mark the class with
+              @MainActor
+              then the delegate callbacks get invoked as expected.
+            This is the basic implementation of the
+              LocationManager
+              class:
+            This might be a clue as to why the delegate calls are MIA (from
+              [CLLocationManager | Apple Developer Documentation](https://developer.apple.com/documentation/corelocation/cllocationmanager)
+              ):
+              Core Location calls the methods of your delegate object using the
+                  RunLoop
+                of the thread on which you initialized
+                . That thread must itself have an active
+                , like the one found in your app’s main thread.
+              August 16, 2022, 10:18am
+              7
+            Ahhh... as soon as I posted that documentation snipped above, I had a thought and tried to create the
+              instance outside of my async function (by making it non-lazy) and voilá, everything started working as expected.
+              August 16, 2022,  1:27pm
+              8
+            Yes! Putting everything on the main actor made it work for me. Thank you! It does introduce a lot of thread hops in my code though – I wonder if we can make one of Swift's cooperative thread pool's threads have their own active
+              too.
+              August 16, 2022,  1:48pm
+              9
+            I haven't dug into the project, but with the docs
+              [@rog](/u/rog)
+              points to, it's probably not safe to pass a
+              between concurrent boundaries, as the code is doing above using
+              UncheckedSendable
+              . You could try initializing it directly in the actor to see if that helps its threading model work better. It also might be the case that
+              might not be safe to use in an actor yet.
+              August 16, 2022,  2:12pm
+              10
+                You could try initializing it directly in the actor to see if that helps its threading model work better.
+            AFAIU, I already am initializing it directly in the actor, which is what confuses me.
+            I did some digging about the interaction between actors and
+              , and found something interesting – someone modelled a
+              as a global actor, which I could just annotate onto the class holding the
+              [https://github.com/rustle/AccessibilityElement/blob/main/Sources/AccessibilityElement/Observer/ObserverRunLoopActor.swift](https://github.com/rustle/AccessibilityElement/blob/main/Sources/AccessibilityElement/Observer/ObserverRunLoopActor.swift)
+              August 16, 2022,  3:09pm
+              11
+            So I added the RunLoop global actor, and it worked! The delegate methods are getting called correctly. Here's the updated code –
+              [tapit-app/Live.swift at main · nikitamounier/tapit-app · GitHub](https://github.com/nikitamounier/tapit-app/blob/main/Sources/BeaconClient/Live.swift)
+            Do you think there's anything dangerous going on?
+                rzulkoski
+              (Ryan Zulkoski)
+              August 1, 2023,  6:24pm
+              12
+              [@stephencelis](/u/stephencelis)
+              Sorry to revive this thread, but is there a better way to guarantee
+              is created on the main thread without marking the entire client as
+              or creating a custom actor/runLoop like
+              outlined?
+              August 2, 2023,  2:21am
+              13
+            For anyone who is running into the same issue, an easy way to guarantee
+              gets initialized on the main thread is to add
+              _ = LocationManager.live
+              to your AppDelegate’s
+              didFinishLaunching
+              method.
+            I don’t like it, but it’s the best way I can think of at this time.
+                LeonRedfield
+              (Leon Redfield)
+              October 26, 2024, 10:34pm
+              14
+            I my case I just added
+              to the .run execution
+      :preload-content
+              [Home](/)
+              [Categories](/categories)
+              [Guidelines](/guidelines)
+              [Terms of Service](/tos)
+              [Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
+      Powered by
+        [Discourse](https://www.discourse.org)
+        , best viewed with JavaScript enabled

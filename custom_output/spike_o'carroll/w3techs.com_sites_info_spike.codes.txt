@@ -1,0 +1,118 @@
+        [advertise here](https://b.w3techs.com/)
+        provided by
+          [Q-Success](https://q-success.com/web_services)
+      [Home](https://w3techs.com/)
+      [Technologies](https://w3techs.com/technologies)
+      [Reports](https://w3techs.com/reports)
+      [API](https://w3techs.com/apidoc)
+      [Sites](https://w3techs.com/sites)
+      [Quality](https://w3techs.com/quality)
+      [Users](https://w3techs.com/users)
+      [Blog](https://w3techs.com/blog)
+      [Forum](https://w3techs.com/forum)
+      [FAQ](https://w3techs.com/faq)
+      [Search](https://w3techs.com/search)
+      Featured products and services
+                lookup another site:
+                  [site info tools](https://w3techs.com/sites)
+                  or use our
+                  [site info API](https://w3techs.com/apidoc)
+                  .
+              Site Info - Spike.codes
+              Overview of web technologies used by Spike.codes.
+              Website Background
+              Spike O'Carroll - Portfolio
+              Description on Homepage
+              not ranked
+              Popularity rank
+              Website Quality Alerts
+              Found on page https://blog.spike.codes/build-a-template-engine
+                [Incorrect server time](https://w3techs.com/quality/alert/31)
+              Are you the webmaster of this site?
+                [Register as user](https://w3techs.com/users)
+                to get quality alerts per email.
+                  [Server-side Programming Language](https://w3techs.com/technologies/overview/programming_language)
+                JavaScript is a lightweight, object-oriented, cross-platform scripting language.
+                [JavaScript](https://w3techs.com/technologies/details/pl-js)
+                used on a subdomain
+                  [Client-side Programming Language](https://w3techs.com/technologies/overview/client_side_language)
+                JavaScript is a lightweight, object-oriented, cross-platform scripting language, often used within web pages.
+                  [JavaScript Library](https://w3techs.com/technologies/overview/javascript_library)
+                  [Web Server](https://w3techs.com/technologies/overview/web_server)
+                  [Web Hosting Provider](https://w3techs.com/technologies/overview/web_hosting)
+                Vercel (formerly Zeit) offers hosting for web applications and static websites.
+                [Vercel](https://w3techs.com/technologies/details/ho-vercel)
+                hosting info partly based on data from ipinfo.io,
+                  [see details](https://ipinfo.io/AS16509)
+                  [Data Center Provider](https://w3techs.com/technologies/overview/data_center)
+                Amazon is a US-based e-commerce and cloud computing provider.
+                [Amazon](https://w3techs.com/technologies/details/dc-amazon)
+                  [DNS Server Provider](https://w3techs.com/technologies/overview/dns_server)
+                Cloudflare provides DNS servers and other web services.
+                [Cloudflare](https://w3techs.com/technologies/details/dn-cloudflare)
+                  [Email Server Provider](https://w3techs.com/technologies/overview/email_server)
+                Gmail is the email service provided by Google.
+                [Gmail](https://w3techs.com/technologies/details/em-gmail)
+                  [SSL Certificate Authority](https://w3techs.com/technologies/overview/ssl_certificate)
+                Let’s Encrypt is a free, automated, and open certificate authority provided by the Internet Security Research Group.
+                [Let’s Encrypt](https://w3techs.com/technologies/details/sc-letsencrypt)
+                  [Social Widgets](https://w3techs.com/technologies/overview/social_widget)
+                A Twitter/X Button allows a Twitter user to post a tweet from the visited site.
+                [Twitter/X](https://w3techs.com/technologies/details/so-twitterwidgets)
+                Reddit Buttons allow web pages to be submitted to and discussed on Reddit.
+                [Reddit](https://w3techs.com/technologies/details/so-redditwidgets)
+                  [Site Elements](https://w3techs.com/technologies/overview/site_element)
+                External Cascading Style Sheets define style rules in a separate CSS file.
+                [External CSS](https://w3techs.com/technologies/details/ce-externalcss)
+                Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+                [Embedded CSS](https://w3techs.com/technologies/details/ce-embeddedcss)
+                Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+                [Inline CSS](https://w3techs.com/technologies/details/ce-inlinecss)
+                Brotli is a lossless compression algorithm developed by Google.
+                [Brotli Compression](https://w3techs.com/technologies/details/ce-brotlicompression)
+                A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+                [Strong ETag](https://w3techs.com/technologies/details/ce-strongetag)
+                A weak ETag is an HTTP header field for validation of cached web pages, that indicates a semantically equivalent page in the cache.
+                [Weak ETag](https://w3techs.com/technologies/details/ce-weaketag)
+                HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+                [HTTP Strict Transport Security](https://w3techs.com/technologies/details/ce-hsts)
+                The websites redirects visitors to use SSL encryption, e.g. from http://example.com/ to https://example.com/.
+                [Default protocol https](https://w3techs.com/technologies/details/ce-httpsdefault)
+                  [Structured Data Formats](https://w3techs.com/technologies/overview/structured_data)
+                The Open Graph protocol, originally developed by Facebook, is an RDFa-based format that enables any web page to become a rich object in a social graph.
+                [Open Graph](https://w3techs.com/technologies/details/da-opengraph)
+                Twitter/X Cards enable automatic attachment of photos, videos and media elements to tweets.
+                [Twitter/X Cards](https://w3techs.com/technologies/details/da-twittercards)
+                JSON-LD (JavaScript Object Notation for Linked Data) is a method of encoding Linked Data using JSON.
+                [JSON-LD](https://w3techs.com/technologies/details/da-jsonld)
+                Generic RDFa (Resource Description Framework in attributes) is RDFa without further specialization.
+                [Generic RDFa](https://w3techs.com/technologies/details/da-genericrdfa)
+                  [Markup Language](https://w3techs.com/technologies/overview/markup_language)
+                HTML5 is the fifth revision of the HTML standard.
+                [HTML5](https://w3techs.com/technologies/details/ml-html5)
+                  [Character Encoding](https://w3techs.com/technologies/overview/character_encoding)
+                UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+                [UTF-8](https://w3techs.com/technologies/details/en-utf8)
+                  [Image File Formats](https://w3techs.com/technologies/overview/image_format)
+                PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+                [PNG](https://w3techs.com/technologies/details/im-png)
+                JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+                [JPEG](https://w3techs.com/technologies/details/im-jpeg)
+                Scalable Vector Graphics (SVG) is an XML-based vector image format.
+                [SVG](https://w3techs.com/technologies/details/im-svg)
+                  [Top Level Domain](https://w3techs.com/technologies/overview/top_level_domain)
+                Codes
+                [.codes](https://w3techs.com/technologies/details/tld-codes-)
+                  [Server Location](https://w3techs.com/technologies/overview/server_location)
+                [United States](https://w3techs.com/technologies/details/sl-us-)
+                  [Content Language](https://w3techs.com/technologies/overview/content_language)
+                [English](https://w3techs.com/technologies/details/cl-en-)
+              Share this page
+      [About Us](https://w3techs.com/about)
+      [Disclaimer](https://w3techs.com/disclaimer)
+      [Terms of Use](https://w3techs.com/terms_of_use)
+      [Privacy Policy](https://w3techs.com/privacy_policy)
+      [Advertising](https://b.w3techs.com/)
+      [Contact](https://w3techs.com/feedback)
+    W3Techs on
+    Copyright © 2009-2025 Q-Success

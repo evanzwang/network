@@ -1,0 +1,14 @@
+    Andrew Ye
+        [Publications](publications)
+        [About Me](about)
+        [Blog](blog)
+        andrewye[at]stanford[dot]edu
+          [andrewlye](https://github.com/andrewlye)
+      <div id="input-wrapper">
+          <div id="input">
+            <button id="make-dumber">Make Dumber</button>
+            <button id="make-smarter">Make Smarter</button>
+          </div>
+        </div>
+      </div>
+    Showcase No. 1: Q-learned Blackjack Agent

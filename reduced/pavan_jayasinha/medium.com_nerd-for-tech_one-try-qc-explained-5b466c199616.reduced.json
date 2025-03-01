@@ -1,0 +1,213 @@
+{
+  "title": "One try | QC Explained. Phase kickback and Bernstein-Vaz\u2026 | by Pavan Jayasinha | Nerd For Tech | Medium",
+  "meta_description": "This one is technical. Feeling rusty on your quantum computing fundamentals? Don\u2019t read it. Save it. Bookmark this article for later when you\u2019ve brushed up. You\u2019ll be glad you did, especially if\u2026",
+  "main_content": "Source One try | QC Explained Phase kickback and Bernstein-Vaz algorithm Pavan Jayasinha \u00b7 Follow Published in Nerd For Tech \u00b7 11 min read \u00b7 Nov 21, 2020 -- Listen Share This one is technical. Feeling rusty on your quantum computing fundamentals? Don\u2019t read it. Save it. Bookmark this article for later when you\u2019ve brushed up. You\u2019ll be glad you did, especially if you\u2019re a beginner in QC and trying to understand phase kickback. I\u2019m thinking of a number in binary. If you wanted to guess my number, it could take as many guesses as there are possibilities. If it was 101101 , it would take you upwards of 64 tries (2\u2076)! Now, if you ask our everyday computers to guess that number, the number of tries needed to guess it would be reduced to the number of digits. So if I chose 101101 again, it would take 6 tries (if you\u2019re interested in why, check out this video ). Not bad right? Well, if you had a quantum computer, you\u2019d be able to guess my number \u2014 irrespective of length \u2014 in one try. Sounds crazy right? But that\u2019s what this magical quantum algorithm can do. It\u2019s the Bernstein-Vazirani algorithm and in this article, I\u2019ll show you how it works. To get started, we need to understand the backbone of the whole algorithm: phase kickback. Once you get it, the algorithm itself will be a cinch. If your head spins at the mention of relative phase or superposition, I\u2019d highly recommend giving this a read, it covers these concepts extensively. An \u201ceigenvector-free\u201d explanation to phase kickback Controlled NOT quantum gate To get us all on the same page, let\u2019s debrief the quantum gate at the heart of phase kickback: CNOT. The controlled not gate (CNOT) is a two-qubit gate that performs a bit flip on the second qubit (referred to as the target qubit) under the condition that the first qubit (referred to as the control qubit) is 1. If the control qubit is in the state 0, then it leaves the target qubit (target qubit) unchanged. Here\u2019s the circuit representation of this: Circuit representation of CNOT: q0 as the control, and q1 as the target And here\u2019s the CNOT being applied to each computational basis state: On notation, q1 comes first followed by q0 ( this notation will apply for the rest of the article ) A better way to think of the CNOT Mathematically speaking, we would say that the amplitudes for the states |01\u27e9 and |11\u27e9 were swapped (refer above) but that doesn\u2019t uphold when trying to explain the physical operation, and that\u2019s one key distinction that must be made. Often, we get lost in our hairy math expressions and forget that tools like linear algebra \u2014 albeit powerful \u2014 are just that, tools. It helps us abstract quantum weirdness into coherent expressions but at the end of the day, logic gates like the CNOT are physical processes and thus we should think of them like so. I ask you to forget the matrices for a moment and actually imagine the quantum state as it\u2019s being affected by the CNOT. As the two qubits travel through time, if it\u2019s in the state |01\u27e9 it will become |11\u27e9 \u2014 taking all of its properties with it, including the amplitude. You can think of it as a person moving into a new house. He/she evolves into a new state but still carries most of the properties from beforehand like hair, skin colour, etc. Looking at it from the perspective of time evolution differs physically from thinking of it as swapping states. Keep this in mind when we tackle phase kickback. So what is it? If I give you the textbook definition right now, it\u2019ll breeze right over your head so let\u2019s build towards it with two different examples. The first one will be a meaningless application of phase kickback, but it\u2019ll help us understand the necessary conditions for phase kickback to have a true effect. The second circuit we build will add one feature from the prior one that\u2019ll completely change the circuit outcome. When phase kickback happens, but it doesn\u2019t matter Let\u2019s build our first circuit. We put the \u201ccontrol qubit\u201d in the state |1\u27e9 using an X gate and then apply an X gate followed by a Hadamard to bring the state of the \u201ctarget qubit\u201d to H(X|0\u27e9) . Here\u2019s what the state and circuit look like so far: Next, we apply a CNOT gate\u2026 Notice that in the case that an X gate is applied to q1 (as a part of the CNOT), the state vector for q1 is already on the x-axis (I encourage you to check by plotting it on the Bloch sphere), hence it won\u2019t affect q1 . That\u2019s weird, isn\u2019t it? I just told you that the target qubit will be left untouched irrespective of the control qubit\u2019s state! Let\u2019s go step by step: Notice how the last step has a negative sign in front of the whole quantum state, this can be disregarded as a global phase. If you have no idea what that is, check the last section of this article out. Wow, not only was q1 untouched but applying the CNOT to our quantum state has done nothing since we just modified the global phase! To drill this home, the two quantum states below are physically equivalent. So yes, the CNOT hasn\u2019t actually changed our quantum state but there\u2019s something even more important to notice, -|11\u27e9 became -|01\u27e9 , and |01\u27e9 evolved to |11\u27e9 , this shows that the relative phase of q1 was \u201ckicked\u201d up to q0 . But this doesn\u2019t matter since applying a phase to a computational basis state makes it global. Here\u2019s the same proof as above but with a detailed step indicating the phase kickback on q0 . Notice how this is the exact same quantum state as before except there\u2019s now a negative phase on |1 \u27e9 (q0) but as mentioned above this can be factored out to result in the same quantum state we started with. In this case, the phase kickback had no effect since the second qubit was in a computational basis state, However, this isn\u2019t always the case, so let\u2019s look at an example where this phenomenon actually matters. The key differentiator Our second circuit will be similar to our last one, but with one key difference. Instead of applying an X gate on q0 , we\u2019re going to apply a Hadamard. Let\u2019s see what the circuit looks like. I inserted a barrier between the Hadamard\u2019s and the CNOT so that we could examine the quantum state before and after the CNOT. Let\u2019s see what the state vector is before applying the CNOT. Okay, so what\u2019s going to happen when we apply the CNOT? Well, we know that the CNOT gate evolves the state |01\u27e9 to |11\u27e9 and vice versa. In our circuit, we observe the two basis states |01\u27e9 and -|11\u27e9 , hence it would be reasonable to place your bets on |01\u27e9 \u2192 |11\u27e9 ; -|11\u27e9 \u2192 -|01\u27e9 . Let\u2019s see if we\u2019re correct. Applying the CNOT on q1 has kicked the relative phase of q1 up to q0 Hurrah! We were right! This is a prime example where phase kickback actually matters. Observe that q0 didn\u2019t have a relative phase before the CNOT, but after applying the gate we can see that it has a relative phase of -1 . What happened? Not only was the target qubit unaffected but it also kicked its relative phase to q0 . On control and target I\u2019ve been using the terms control and target often in this article but to be honest, this isn\u2019t completely correct. Calling q0 a control qubit implies that it sits on a pedestal with sweeping control of q1 but that\u2019s simply not the case. As demonstrated with phase kickback, q0 can often be affected. A better way to think of the CNOT is a physical operation that transforms |01\u27e9 into |11\u27e9 and vice versa. So under that lens, it makes sense that q0 absorbed a relative phase. The CNOT transforms the state |11\u27e9 to |01\u27e9 so if there\u2019s an accompanying phase that\u2019s with |11\u27e9 , it\u2019ll naturally get carried on to the new basis state: -|11\u27e9 --> -|01\u27e9 . To avoid the muddy connotation, I\u2019ll refer to the control qubit as the ancilla qubit. We now understand phase kickback in the context of a CNOT but this phenomenon occurs in other situations as well. Time for a generalized definition It\u2019s bullet time: As you know, all quantum logic gates are unitary and can be thought of as rotations on the Bloch sphere Applying a unitary operation on an eigenstate just means that you\u2019re applying a rotation on a state vector that is on the axis you\u2019re rotating around. Naturally, the rotation doesn\u2019t physically affect the state vector, but it adds a global phase . For example, if I apply an X gate while the state is on a Hadamard basis (on the x-axis), then nothing will happen since the X gate performs a \u03c0 rotation around the x-axis. However, a global phase will be added to the state such that it\u2019s now in e^i\u03c0|+\u27e9 or -|+\u27e9 . An eigenstate of the unitary X gate When you apply a controlled operation on a target qubit that is in an eigenstate of the unitary, what\u2019s essentially happening is that you\u2019re tacking on a global phase to that target qubit. Normally, this wouldn\u2019t matter but since it\u2019s a controlled operation, the target qubit will be in a superposition of having incurred this global phase, and not having incurred it. Thus, a relative phase is born between the quantum states (including the ancilla) that have the global phase and those that do not. This means that the ancilla qubit now has a relative phase that is equal to the global phase applied to the target qubit. This phenomenon is what we refer to as phase kickback. Why a controlled operation? If we were to not use a controlled operation, it would target all states and thus we would just incur a global phase. The easy part \u2014 Bernstein Vazirani algorithm Now that we get what phase kickback is, we can guess any number in one try using the Bernstein Vazirani algorithm. Step 1: Initialize qubits to 0 After you know what your binary number is, initialize the qubits to |0\u27e9 . How may qubits though? In general, you\u2019ll need as many qubits as there are binary digits in your number plus an extra one. Let\u2019s take the example of 1010 to create this circuit. We\u2019ll need 5 qubits (4+1) for this example. Step 2: Hadamard everything! To access all possible states in superposition, we\u2019re going to apply a Hadamard to every qubit. For the last qubit, however, we will apply an X gate before the Hadamard such that the qubit has a negative relative phase. I\u2019ll explain the use of this last crucial qubit in the following step. Step 3: Hadamard sandwich Since the Hadamard gate is unitary, applying it twice reverts the transformation imposed by the first Hadamard gate. If there\u2019s nothing between the two Hadamard gates, it will return back to |0\u27e9 . But the point in the Hadamard sandwich is to tactfully place certain gates in the sandwich such that it tells us something about the state. More of this in the next step. Step 4: Filling the sandwich with an oracle What goes in between the Hadamard sandwich is crucial, and this middle part is the oracle. The job of the oracle is to discern between the correct number and the number we input, in this case, we\u2019re inputting all possible numbers in a superposition. How can we distinguish the correct number? Well, if you recall what we learned with phase kickback we can leverage the fact that q4 has a negative phase to strategically dish out this phase to other qubits using CNOT. If we set the target qubit to q4 and connect a CNOT for each digit that is 1 in the binary number, then we can kick a negative phase to each of those qubits. The point of q4 is simply to dish out negative relative phases to each qubit representing a 1 through the use of CNOTs. This differentiates the \u201c1\u201d qubits from the rest. The last line of Hadamard's will then transform the \u201c1\u201d qubits to |1\u27e9 and the rest to |0\u27e9 ; thereby giving us our random number. To clarify: Recall that each qubit except the last one represents a digit in the binary number we chose. So for every qubit that represents a digit that is 1, we\u2019re going to set those qubits as the controls for a CNOT targeted at q4 . This will do nothing to q4 but it will kick negative relative phases back to each qubit representing a binary digit that is 1. So since our number is 1010 , our circuit would look like this: As you might have noticed, we have encoded the oracle such that the circuit performs a bit flip on any qubit that is supposed to represent a 1 in the binary number. Don\u2019t we need to know the answer to make the oracle? Feel like cheating\u2026 Using the oracle might seem discomforting at first because we\u2019re technically using the solution data to make it but there is no other way to discern between the input and the solution. Even the classical computer\u2019s black box is aware of the answer but it still takes much longer to solve it. What\u2019s ingenious about this algorithm is that it can discover the unknown number in 1 try by leveraging superposition and phase kickback. In these trivial examples, we\u2019ll know the solution beforehand but as we progress in quantum computing the oracle will be made such that it can discern between the solution and the input; you don\u2019t need to know the solution to do that. Step 5: Measurement After measuring all of the qubits except for the last one we can arrive at our random number in one try! Full circuit diagram of our circuit that solves for 1010 Unsurprisingly, here are the counts: As promised, we got 1010 as the result of the circuit! Recap That was a lot so here\u2019s the bullet recap: To remember phase kickback, think back to the CNOT example. A basis state with a negative phase switches with another basis state such that the ancilla qubit now has the negative relative phase as well. The Bernstein Vazirani algorithm leverages phase kickback to mark all of the binary digits that are 1 to allow us to measure the whole number in one try. If you enjoyed the article or learned something new, feel free to contact me on LinkedIn , or see what I\u2019m up to in my monthly newsletter.",
+  "links": [
+    {
+      "url": "https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F5b466c199616&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav-----------------------------------------",
+      "text": "Open in app"
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fnerd-for-tech%2Fone-try-qc-explained-5b466c199616&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------",
+      "text": "Write"
+    },
+    {
+      "url": "/search?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fnerd-for-tech%2Fone-try-qc-explained-5b466c199616&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "https://www.greenbiz.com/article/how-quantum-computing-poised-support-sustainable-power-grids",
+      "text": "Source"
+    },
+    {
+      "url": "/@pavanjayasinha?source=post_page---byline--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/nerd-for-tech?source=post_page---byline--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@pavanjayasinha?source=post_page---byline--5b466c199616---------------------------------------",
+      "text": "Pavan Jayasinha"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F91586f3db41b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnerd-for-tech%2Fone-try-qc-explained-5b466c199616&user=Pavan+Jayasinha&userId=91586f3db41b&source=post_page-91586f3db41b--byline--5b466c199616---------------------post_header------------------",
+      "text": "Follow"
+    },
+    {
+      "url": "https://medium.com/nerd-for-tech?source=post_page---byline--5b466c199616---------------------------------------",
+      "text": "Nerd For Tech"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fnerd-for-tech%2F5b466c199616&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnerd-for-tech%2Fone-try-qc-explained-5b466c199616&user=Pavan+Jayasinha&userId=91586f3db41b&source=---header_actions--5b466c199616---------------------clap_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b466c199616&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnerd-for-tech%2Fone-try-qc-explained-5b466c199616&source=---header_actions--5b466c199616---------------------bookmark_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "https://youtu.be/sqJIpHYl7oo?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&t=112",
+      "text": "this video"
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/but-what-is-a-quantum-phase-factor-d05c15c321fe",
+      "text": "this"
+    },
+    {
+      "url": "https://pavanjayasinha.medium.com/but-what-is-a-quantum-phase-factor-d05c15c321fe",
+      "text": "article"
+    },
+    {
+      "url": "https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.subscribepage.com/pavanjaynews",
+      "text": "see what I\u2019m up to"
+    },
+    {
+      "url": "/tag/quantum-computing?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Quantum Computing"
+    },
+    {
+      "url": "/tag/quantum-algorithms?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Quantum Algorithms"
+    },
+    {
+      "url": "https://medium.com/nerd-for-tech?source=post_page---post_publication_info--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/nerd-for-tech?source=post_page---post_publication_info--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://medium.com/nerd-for-tech?source=post_page---post_publication_info--5b466c199616---------------------------------------",
+      "text": "Published in Nerd For Tech"
+    },
+    {
+      "url": "/nerd-for-tech/followers?source=post_page---post_publication_info--5b466c199616---------------------------------------",
+      "text": "11.8K Followers"
+    },
+    {
+      "url": "/nerd-for-tech/ai-powered-crm-software-development-revolutionizing-business-automation-032e656e16d2?source=post_page---post_publication_info--5b466c199616---------------------------------------",
+      "text": "Last published\u00a06 days ago"
+    },
+    {
+      "url": "https://www.nerdfortech.org/",
+      "text": "https://www.nerdfortech.org/"
+    },
+    {
+      "url": "/@pavanjayasinha?source=post_page---post_author_info--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@pavanjayasinha?source=post_page---post_author_info--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@pavanjayasinha?source=post_page---post_author_info--5b466c199616---------------------------------------",
+      "text": "Written by Pavan Jayasinha"
+    },
+    {
+      "url": "/@pavanjayasinha/followers?source=post_page---post_author_info--5b466c199616---------------------------------------",
+      "text": "158 Followers"
+    },
+    {
+      "url": "/@pavanjayasinha/following?source=post_page---post_author_info--5b466c199616---------------------------------------",
+      "text": "32 Following"
+    },
+    {
+      "url": "http://pavanjay.com",
+      "text": "pavanjay.com"
+    },
+    {
+      "url": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--5b466c199616---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://help.medium.com/hc/en-us?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Help"
+    },
+    {
+      "url": "https://medium.statuspage.io/?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Status"
+    },
+    {
+      "url": "/about?autoplay=1&source=post_page-----5b466c199616---------------------------------------",
+      "text": "About"
+    },
+    {
+      "url": "/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Careers"
+    },
+    {
+      "url": "mailto:pressinquiries@medium.com",
+      "text": "Press"
+    },
+    {
+      "url": "https://blog.medium.com/?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Blog"
+    },
+    {
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Terms"
+    },
+    {
+      "url": "https://speechify.com/medium?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Text to speech"
+    },
+    {
+      "url": "/business?source=post_page-----5b466c199616---------------------------------------",
+      "text": "Teams"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png",
+      "alt": ""
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:88:88/1*EVTJisDJus59AMnTfkKaWw.jpeg",
+      "alt": "Pavan Jayasinha"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:48:48/1*53-lvCPnPV4sTOmvcITDxw.png",
+      "alt": "Nerd For Tech"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:96:96/1*53-lvCPnPV4sTOmvcITDxw.png",
+      "alt": "Nerd For Tech"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:128:128/1*53-lvCPnPV4sTOmvcITDxw.png",
+      "alt": "Nerd For Tech"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:96:96/1*EVTJisDJus59AMnTfkKaWw.jpeg",
+      "alt": "Pavan Jayasinha"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:128:128/1*EVTJisDJus59AMnTfkKaWw.jpeg",
+      "alt": "Pavan Jayasinha"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Emily Phu Thomas-Tran",
+  "meta_description": "",
+  "main_content": "",
+  "links": [
+    {
+      "url": "https://explorecourses.stanford.edu/about",
+      "text": "About"
+    },
+    {
+      "url": "https://bulletin.stanford.edu/",
+      "text": "University Bulletin"
+    },
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/",
+      "text": "BulletinExploreCourses"
+    },
+    {
+      "url": "https://explorecourses.stanford.edu/browse?academicYear=20202021",
+      "text": "2020-2021"
+    },
+    {
+      "url": "https://explorecourses.stanford.edu/browse?academicYear=20212022",
+      "text": "2021-2022"
+    },
+    {
+      "url": "https://explorecourses.stanford.edu/browse?academicYear=20222023",
+      "text": "2022-2023"
+    },
+    {
+      "url": "https://explorecourses.stanford.edu/browse?academicYear=20232024",
+      "text": "2023-2024"
+    },
+    {
+      "url": "http://explorecourses.stanford.edu/browse",
+      "text": "Browseby subject..."
+    },
+    {
+      "url": "http://explorecourses.stanford.edu/search?page=0&q=MKTG&catalog=&filter-coursestatus-Active=on&filter-catalognumber-MKTG=on&view=timeschedule",
+      "text": "Scheduleview..."
+    },
+    {
+      "url": "https://explorecourses.stanford.edu/updateInstructor",
+      "text": "Manage my profile"
+    },
+    {
+      "url": "http://stanford.edu/site/terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "http://stanford.edu/site/copyright.html",
+      "text": "Copyright Complaints"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://explorecourses.stanford.edu/images/stanford-white.f5b5e52b436b2da0.png",
+      "alt": "Stanford University"
+    },
+    {
+      "src": "https://explorecourses.stanford.edu/images/tree.fc596e10ca7111cf.png",
+      "alt": "SuNet Login Required"
+    },
+    {
+      "src": "https://explorecourses.stanford.edu/instructorPhoto?sunet=emtran",
+      "alt": "Emily Phu Thomas-Tran"
+    }
+  ]
+}

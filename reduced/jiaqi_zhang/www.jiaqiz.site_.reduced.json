@@ -1,0 +1,101 @@
+{
+  "title": "Jiaqi Zhang | \u5f20\u5609\u7426",
+  "meta_description": "PhD Student at Computer Science",
+  "main_content": "Jiaqi Zhang PhD Student at Computer Science Singh Lab Brown University Department of Computer Science Biography I am a PhD candidate in the Department of Computer Science at Brown University and I work with Dr. Ritambhara Singh . My research interest is developing machine learning methods to explore complex structures inherent in single-cell measurement data. These structures, such as gene-gene coexpression networks and cellular dynamics, are critical to understanding the intricate processes of developmental biological systems. My work emphasizes creating scalable and efficient algorithms tailored to tackle challenges arising from real-world biological applications, ensuring that theoretical advancements translate effectively into practice. In particular, my current research project focuses on modelling cell developmental dynamics from temporal multi-modal single-cell data. Before joining Brown, I received my bachelor\u2019s degree in software engineering at Southeast University, China. I worked there with Dr. Beilun Wang mainly on developing statistical methods for graphical model structure estimation. Interests Single-cell analysis Multi-modal integration Model interpretation Gene network Probabilistic graphical model Bayesian statistics Education PhD in Computer Science, 2021~present Brown University BSc in Software Engineering, 2015~2020 Southeast University, China Featured Publications Jiaqi Zhang , Manav Chakravarthy , Ritambhara Singh (2024). scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data . biorxiv. DOI Jiaqi Zhang , Erica Larschan , Jeremy Bigness , Ritambhara Singh (2024). scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction . 23rd European Conference on Computational Biology (ECCB 2024). DOI Jiaqi Zhang , Ritambhara Singh (2023). Evaluating the Complexity of Gene Co-expression Estimation for Single-cell Data . Journal of Machine Learning for Modeling and Computing. DOI Qianli Yang , Zhongqiao Lin , Wenyi Zhang , Jianshu Li , Xiyuan Chen , Jiaqi Zhang , Tianming Yang (2022). Monkey plays Pac-Man with compositional strategies and hierarchical decision-making . Elife. DOI Jiaqi Zhang , Meng Wang , Qinchi Li , Sen Wang , Xiaojun Chang , Beilun Wang (2020). Quadratic Sparse Gaussian Graphical Model Estimation Method for Massive Variables . IJCAI 2020. PDF Cite DOI Talks Poster Talk at MLCB 2023 Poster talk at MLCB 2023 for my accepted abstract: \u201cscNODE: Generative Model for Temporal Single Cell Transcriptomic Data \u2026 Nov 30, 2023 \u2014 Dec 1, 2023 Seattle, WA Poster Talk at IJCAI 2020 (virtual) Talk for the poster session at IJCAI 2020 for my accepted paper: \u201cQuadratic Sparse Gaussian Graphical Model Estimation Method for \u2026 Jan 8, 2021 2:59 AM \u2014 Jan 15, 2021 5:00 AM virtual Contact jiaqi_zhang2@brown.edu 164 Angll St., Providence, RI 02906 Cite \u00d7 Copy Download",
+  "links": [
+    {
+      "url": "https://rsinghlab.org/",
+      "text": "Singh Lab"
+    },
+    {
+      "url": "https://cs.brown.edu/",
+      "text": "Brown University Department of Computer Science"
+    },
+    {
+      "url": "mailto:jiaqi_zhang2@brown.edu",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/JQZ-Brown",
+      "text": ""
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=953ox68AAAAJ",
+      "text": ""
+    },
+    {
+      "url": "https://rsinghlab.org/",
+      "text": "Dr. Ritambhara Singh"
+    },
+    {
+      "url": "https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm",
+      "text": "Dr. Beilun Wang"
+    },
+    {
+      "url": "/publication/scmultinode/",
+      "text": "scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data"
+    },
+    {
+      "url": "https://doi.org/https://doi.org/10.1101/2024.10.27.620531",
+      "text": "DOI"
+    },
+    {
+      "url": "/publication/scnode/",
+      "text": "scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction"
+    },
+    {
+      "url": "https://doi.org/https://doi.org/10.1101/2023.11.22.568346",
+      "text": "DOI"
+    },
+    {
+      "url": "/publication/srnaseq_coexpression_benchmark/",
+      "text": "Evaluating the Complexity of Gene Co-expression Estimation for Single-cell Data"
+    },
+    {
+      "url": "https://doi.org/https://doi.org/10.1101/2023.01.24.525447",
+      "text": "DOI"
+    },
+    {
+      "url": "/publication/monkey_plays_pacman/",
+      "text": "Monkey plays Pac-Man with compositional strategies and hierarchical decision-making"
+    },
+    {
+      "url": "https://doi.org/10.7554/eLife.74500",
+      "text": "DOI"
+    },
+    {
+      "url": "/publication/quadratic-sparse-gaussian-graphical-model-estimation-method-for-massive-variables/",
+      "text": "Quadratic Sparse Gaussian Graphical Model Estimation Method for Massive Variables"
+    },
+    {
+      "url": "/publication/quadratic-sparse-gaussian-graphical-model-estimation-method-for-massive-variables/Quadratic%20Sparse%20Gaussian%20Graphical%20Model%20Estimation%20Method%20for%20Massive%20Variables.pdf",
+      "text": "PDF"
+    },
+    {
+      "url": "https://doi.org/10.24963/ijcai.2020/410",
+      "text": "DOI"
+    },
+    {
+      "url": "/talk/poster-talk-at-mlcb-2023/",
+      "text": "Poster Talk at MLCB 2023"
+    },
+    {
+      "url": "/talk/poster-talk-at-mlcb-2023/",
+      "text": "Poster talk at MLCB 2023 for my accepted abstract: \u201cscNODE: Generative Model for Temporal Single Cell Transcriptomic Data \u2026"
+    },
+    {
+      "url": "/talk/poster-talk-at-ijcai-2020-virtual/",
+      "text": "Poster Talk at IJCAI 2020 (virtual)"
+    },
+    {
+      "url": "/talk/poster-talk-at-ijcai-2020-virtual/",
+      "text": "Talk for the poster session at IJCAI 2020 for my accepted paper: \u201cQuadratic Sparse Gaussian Graphical Model Estimation Method for \u2026"
+    }
+  ],
+  "images": [
+    {
+      "src": "/authors/admin/avatar_hub47dee191d232c89b33f507c81654b6d_910179_270x270_fill_q75_lanczos_center.jpg",
+      "alt": "Jiaqi Zhang"
+    }
+  ]
+}

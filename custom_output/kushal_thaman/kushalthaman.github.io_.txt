@@ -1,0 +1,87 @@
+          Toggle navigation
+              [about](/)
+                (current)
+              [blog](/blog/)
+              [photography](https://kushalthaman.tumblr.com/)
+              [shelf](/books/)
+              [research](/research/)
+          Kushal
+          Thaman
+          I’m Kushal (pronounced
+            /kʊʃəl/
+            ), an undergrad at Stanford studying Computer Science. Previously, I worked on the
+            [science of neural network training](https://arxiv.org/abs/2312.03096)
+            at
+            [STAIR](https://stair.cs.stanford.edu/)
+            ,
+            [adversarial attacks](https://openreview.net/forum?id=Le7fswY1lj)
+            [CAIS](https://safe.ai/)
+            , and now think about in-context learning & build new LM architectures at
+            [Stanford NLP](https://nlp.stanford.edu/people/)
+            , supervised by Prof.
+            [Chris Manning](https://nlp.stanford.edu/~manning/)
+            and Prof.
+            [Chris Potts](https://stanford.edu/~cgpotts/)
+            .
+          In my spare time, I like to do
+            to make the world feel a bit more mythic, swim, think about culture & endogenous growth theory, and counter my perpetual
+            [onism](https://www.thedictionaryofobscuresorrows.com/concept/onism)
+            by hiking mountains.
+          Reach out if you’d like to chat about anything you think we’d both enjoy!
+          news
+                  Jul 17, 2024
+                  I have been awarded an
+                    [Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2024/07/emergent-ventures-35th-cohort.html)
+                    grant by
+                    [Tyler Cowen](https://x.com/tylercowen)
+                  May 11, 2024
+                  I presented my co-first author interpretability paper
+                    [Incidental Polysemanticity](https://arxiv.org/abs/2312.03096)
+                    as a
+                    [poster](https://openreview.net/forum?id=AHfE6WeJLQ)
+                    at the
+                    [Representational Alignment](https://representational-alignment.github.io/)
+                    workshop and the
+                    [Bridging the Gap Between Practice and Theory in Deep Learning](https://sites.google.com/view/bgpt-iclr24)
+                    (BGPT) workshop at
+                    [ICLR 2024](https://iclr.cc/)
+                    in Vienna, Austria.
+                  Feb 25, 2024
+                  I
+                    [presented](https://linguistics.stanford.edu/news/look-whos-talking-stanford-linguists-wccfl-42)
+                    our paper on
+                    [Probabilistic Syllable Structure](https://drive.google.com/file/d/1yLcHKRF9kcGaTxwDwxup4Ac8W0tfNdH5/view?usp=sharing)
+                    [42nd West Coast Conference on Formal Linguistics](https://www.wccfl42.com/)
+                    (WCCFL) at Berkeley, CA.
+                  Feb 3, 2024
+                  I am a Teaching Assistant for the course
+                    [CS21SI: AI for Social Good](https://web.stanford.edu/class/cs21si/)
+                    in Spring 2024. Come hear me talk about RL and unsupervised learning!
+                  Dec 15, 2023
+                  First day at the
+                    [Center for AI Safety](https://safe.ai/)
+                    , where I’m working on vision adversarial attacks with
+                    [Dan Hendrycks](https://people.eecs.berkeley.edu/~hendrycks/)
+                  May 21, 2022
+                  I have been awarded the
+                    [Atlas Fellowship](https://atlasfellowship.org/)
+                  Jul 1, 2021
+                  I attended the national orientation & selection olympiad camp for the International Olympiad in Astronomy and Astrophysics (
+                    [IOAA](https://www.ioaastrophysics.org/)
+                    ), organized by
+                    [HBCSE](https://olympiads.hbcse.tifr.res.in/)
+                  May 28, 2021
+                  I was part of the five person team that represented India at the International Young Physicists’ Tournament (
+                    [IYPT](https://www.iypt.org/)
+                    ).
+                  Dec 17, 2020
+                  I won the Honorable Mention award at the International Physics Olympiad (which was held as a
+                    [distributed](https://ipho-unofficial.org/timeline/2020/)
+                    event due to COVID-19).
+                  Jun 16, 2019
+                  I achieved national rank 5 in Physics at the
+                    [STEMS](https://tessellate.cmi.ac.in/stems/)
+                    exam and subsequently attended their camp on Physics, Mathematics and Theoretical Computer Science at the
+                    [Chennai Mathematical Institute](https://www.cmi.ac.in/)
+          email or tweet at me!
+    © Copyright 2024 Kushal Thaman.

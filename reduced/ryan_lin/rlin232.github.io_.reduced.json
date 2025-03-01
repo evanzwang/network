@@ -1,0 +1,25 @@
+{
+  "title": "Ryan Y. Lin",
+  "meta_description": "Caltech undergraduate, software engineer, student researcher.",
+  "main_content": "Hi, my name is Ryan Lin, an undergraduate student at the California Institute of Technology. I am currently pursuing a degree in Computer Science, with a keen focus on machine learning. My journey in academia has brought me to my role as an undergraduate researcher at the Anima AI + Science Lab. Equipped with the knowledge I gained from various graduate-level machine learning courses, I hope to delve deeper into the complex concepts and techniques related to artificial intelligence. In the industry, I have spent three summers full-time as a full-stack developer and a DevSecOps engineer at the MITRE Corporation, where I honed my skills in software engineering and learned about industry practices and methodologies. I also worked with MITRE during the school year as a part-time employee. Moreover, in summer of 2024, I joined MITRE part-time as a machine learning and software engineering intern. Beyond academics and professional pursuits, I am a part of the Caltech NCAA Division III Swimming & Diving team. Go Beavers!",
+  "links": [
+    {
+      "url": "mailto:%72%79%6C%69%6E@%63%61%6C%74%65%63%68.%65%64%75",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/rlin232",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/ryan-lin232",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/img/SeniorHeadshot.jpg?191a638325727b64daa7887bc1d19b43",
+      "alt": "SeniorHeadshot.jpg"
+    }
+  ]
+}

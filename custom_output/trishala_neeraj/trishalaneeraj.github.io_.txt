@@ -1,0 +1,52 @@
+        Trishala's Blog
+          [About](/about)
+          [Posts](/)
+          July 26, 2020
+          Data Labeling using Weak Supervision: In Action
+          In this blog post, I will share my takeaways and results from using Weak Supervision to label Jigsaw’s Comments data as toxic or non-toxic comments. In my previous
+          July 05, 2020
+          Weak Supervision for Online Discussions
+          When working on the data I used for my previous blog post, I grew particularly interested in learning how the dataset was labeled for toxicity and identities. I believe that...
+          April 04, 2020
+          Feature-based Approach with BERT
+          BERT is a language representation model pre-trained on a very large amount of unlabeled text corpus over different pre-training tasks. It was proposed in the paper BERT: Pre-training of...
+          December 22, 2017
+          Semantic Entailment
+          A key part of our understanding of natural language is the ability to understand sentence semantics.
+            Essentially, given a piece of text the goal is to understand the additional...
+        </p>
+
+      </div>
+    </a>
+  
+    <a href="/2017-08-25/buzzfeed-summer-internship" class="catalogue-item">
+      <div>
+        <time datetime="2017-08-25 00:00:00 +0000" class="catalogue-time">August 25, 2017</time>
+        <h1 class="catalogue-title">Summer 2017 @BuzzFeed Data Science</h1>
+        <div class="catalogue-line"></div>
+
+        <p>
+           This blog post was originally published by me on Medium and can be found here. It describes my project at BuzzFeed during the period of my summer internship....
+        </p>
+
+      </div>
+    </a>
+  
+</div>
+
+<div class="pagination">
+  
+  
+
+  <span>1</span>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2022-07-04 18:20:02 +0000">2022</time> Trishala Neeraj. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
+    </footer>
+  </body>
+</html>

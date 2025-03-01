@@ -1,0 +1,60 @@
+      [Jiaqi Zhang](/)
+          [home](/)
+          [research](/research/)
+          [talk](/talk/)
+          [teaching](/teach/)
+          [contact](/contact/)
+          About Me
+        I’m a Ph.D. student in MIT EECS, advised by
+          [Caroline Uhler](https://www.carolineuhler.com)
+          . My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations).
+        My research has been supported by the
+          [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows)
+          and the
+          [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023)
+          . I was a research intern at
+          [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/)
+          and
+          [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html)
+          . I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with
+          [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/)
+          ,
+          [Mengdi Wang](https://mwang.princeton.edu)
+          [Le Cong](http://clbiology.com/index.html)
+          .
+          News
+              A more effective experimental design for engineering a cell into a new state
+            : news story covering our recent
+            [work](https://www.nature.com/articles/s42256-023-00719-0)
+            on active learning in causal models. Read also on
+              EWSC news
+          Papers
+          Causal Discovery with Fewer Conditional Independence Tests
+          ICML
+          , 2024.
+          [arXiv](https://arxiv.org/abs/2406.01823)
+          ]
+[
+          [code](https://github.com/uhlerlab/CCPG)
+          [bibtex](/CCPG/)
+          ]
+          Towards Causal Foundation Model: on Duality between Causal Inference and Attention
+          Membership Testing in Markov Equivalence Classes via Independence Query Oracles
+          AISTATS (
+            Oral Presentation, <3%
+            )
+          [conference](https://proceedings.mlr.press/v238/zhang24k.html)
+          Meek Separators and Their Applications in Targeted Causal Discovery
+          NeurIPS
+          , 2023.
+          Identifiability guarantees for causal disentanglement from soft interventions
+          Active learning for optimal intervention design in causal models
+          Nature Machine Intelligence
+          [journal](https://www.nature.com/articles/s42256-023-00719-0)
+          Machine-learning-optimized Cas12a barcoding enables the recovery of single-cell lineages and transcriptional profiles
+          Molecular Cell
+          , 2022.
+          Stochastic Augmented Projected Gradient Methods for the Large-Scale Precoding Matrix Indicator Selection Problem
+          IEEE Transactions on Wireless Communications
+          Matching a desired causal state via shift interventions
+          , 2021.

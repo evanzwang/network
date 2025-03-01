@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datalume</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <style>
+    html, body{
+      margin: 0;
+      padding: 0;
+      background-color: #161616;
+      font-family: 'Inconsolata', monospace;
+      color: white;
+    }
+    .navbar{
+      position: sticky;
+      top: 0;
+      background-color: #161616;
+      border-bottom: 2px solid white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 16px;
+      z-index: 9999; /* high z-index value */
+    }
+    .navbar .logo {
+      color: white;
+    }
+    .navbar .menu {
+      display: none;
+      cursor: pointer;
+      color: white;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: 60px;
+      right: 0;
+      background-color: #161616;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+    .dropdown-content a {
+      color: white;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+    #hero-header {
+      padding: 20px;
+      text-align: left;
+    }
+    #hero-header h1 {
+      font-size: 2em;
+    }
+    #hero-header p {
+      font-size: 1.2em;
+    }
+    #hero-header a {
+      color: #64ffda;
+    }
+    @media screen and (max-width: 600px) {
+      .navbar .menu {
+        display: block;
+      }
+      #hero-header h1 {
+        font-size: 1.5em;
+      }
+      #hero-header p {
+        font-size: 1em;
+      }
+    }
+  
+
+    .card-inner img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.8s;
+      transform-style: preserve-3d;
+
+    }
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Changed to 'hidden' */
+  backface-visibility: hidden; /* Changed to 'hidden' */
+}
+ 
+@media screen and (max-width: 600px) {
+  .navbar .menu {
+    display: block;
+  }
+  #hero-header h1 {
+    font-size: 1.5em;
+  }
+  #hero-header p {
+    font-size: 1em;
+  }
+  .card {
+    height: 200px;
+  }
+}
+
+  </style>
+  <script>
+    function toggleMenu() {
+      var dropdownContent = document.getElementById('dropdown-content');
+      if (dropdownContent.style.display === 'none') {
+        dropdownContent.style.display = 'block';
+      } else {
+        dropdownContent.style.display = 'none';
+      }
+    }
+   window.addEventListener('scroll', function() {
+    var dropdownContent = document.getElementById('dropdown-content');
+    if (dropdownContent.style.display === 'block') {
+      dropdownContent.style.display = 'none';
+    }
+   })
+  </script>
+
+  </script>
+</head>
+<body>
+  <div class="navbar">
+    <a href="/" class="logo">Datalume</a>
+    <div class="menu" onclick="toggleMenu()">☰</div>
+  </div>
+  <div id="dropdown-content" class="dropdown-content">
+    <a href="/">Home</a>
+    <a href="/features">Services</a>
+    <a href="/contact">Contact</a>
+  </div>
+ <!-- About Us -->
+  <div id="hero-header">
+      <h1>About Us</h1>
+      <p><span id='datalume' style="color: orange;">DataLume </span>is an innovative new data analytics platform that is putting the power of data back in the hands of local businesses owners. We are working closely with several local business owners to develop an insightful and easy to use product.</p>
+      <h1>Our Team</h1>
+      <p><span id='name-aidan' style="color:orange;">Aidan Gollan - Founder / Lead Backend Developer</p>
+      <p><span>Aidan Gollan, a rising sophomore at Michigan State University studying Computer Science Engineering and Mathematics, is the Founder and Lead Backend Developer at Datalume. Inspired by his father's struggles with complex data systems as the owner of Common Good Bakery, Aidan developed Datalume to provide simplified, data-driven solutions for small businesses. His aim is to empower local enterprises to harness the power of their data, turning potential stumbling blocks into stepping stones for growth and success.</span></p>
+      <hr>
+      <p><span id='name-matthew' style="color:orange;">Matthew S. Hernandez - UX Strategist / Lead Frontend Developer</p>
+      <p><span>Matthew Hernandez, a rising junior at Michigan State University studying User Experience Architecture and Computer Science Engineering, serves as the UX Strategist and Lead Frontend Developer at Datalume. Joining Datalume, a leading tech company, Matthew seized the opportunity to transform his academic knowledge into practical expertise. As the UX Strategist, he meticulously plans and implements strategies that enhance the user experience. He is adept at analyzing user behavior, understanding their needs, and structuring a system that optimizes ease of use, satisfaction, and user engagement. His strategies are centered on simplicity, ease of navigation, and an intuitive interface, ensuring the users enjoy a seamless and meaningful interaction with the platform.</span></p>
+      
+
+
+  </div>
+        
+  
+  
+ 
+</body>
+</html>

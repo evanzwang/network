@@ -1,0 +1,68 @@
+          [Browse State-of-the-Art](/sota)
+          [Datasets](/datasets)
+          [Methods](/methods)
+            [Newsletter](/newsletter)
+            [RC2022](/rc2022)
+            [About](/about)
+            [Trends](/trends)
+            [Portals](https://portal.paperswithcode.com/)
+            [Libraries](/libraries)
+          [Sign In](/accounts/login?next=/search)
+  Page modals
+          Subscribe to the PwC Newsletter
+            ×
+            Stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets.
+              [Read previous issues](/newsletter)
+            Subscribe
+  Login
+          Join the community
+        You need to
+          [log in](/accounts/login?next=/search)
+          to edit.
+          [create a new account](/accounts/register?next=/search)
+          if you don't have one.
+            Search Results for author:
+              Liangze Li
+            Found
+              3
+              papers,
+              papers with code
+                Date Published
+                  [Github Stars](?q=author%3ALiangze+Li&order_by=stars)
+          2231218
+                  [Token Prediction as Implicit Classification to Identify LLM-Generated Text](/paper/token-prediction-as-implicit-classification)
+                  [1 code implementation](/paper/token-prediction-as-implicit-classification#code)
+                  •
+                  15 Nov 2023
+                    [Yutian Chen](/author/yutian-chen)
+                  ,
+                    [Hao Kang](/author/hao-kang)
+                    [Vivian Zhai](/author/vivian-zhai)
+                    [Rita Singh](/author/rita-singh)
+                    [Bhiksha Raj](/author/bhiksha-raj)
+                This paper introduces a novel approach for identifying the possible large language models (LLMs) involved in text generation.
+                      text-classification
+                      Text Classification
+                      +1
+          2154852
+                  [Listener Model for the PhotoBook Referential Game with CLIPScores as Implicit Reference Chain](/paper/listener-model-for-the-photobook-referential)
+                  16 Jun 2023
+                    [Shih-Lun Wu](/author/shih-lun-wu)
+                    [Yi-Hui Chou](/author/yi-hui-chou)
+                PhotoBook is a collaborative dialogue game where two players receive private, partially-overlapping sets of images and resolve which images they have in common.
+          2265143
+                  [GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content](/paper/gpt-sentinel-distinguishing-human-and-chatgpt)
+                  [2 code implementations](/paper/gpt-sentinel-distinguishing-human-and-chatgpt#code)
+                  13 May 2023
+                This paper presents a novel approach for detecting ChatGPT-generated vs. human-written text using language models.
+      Cannot find the paper you are looking for? You can
+        [Submit](/submit-paper)
+        a new open access paper.
+      Contact us on:
+      .
+      Papers With Code is a free resource with all data licensed under
+        [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+      [Terms](/site/terms)
+      [Data policy](/site/data-policy)
+      [Cookies policy](/site/cookies-policy)
+      [from](/about#team)

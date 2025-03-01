@@ -1,0 +1,95 @@
+  <![endif]
+          [University of Washington](http://uw.edu)
+                [Students](http://uw.edu/studentlife)
+                [Parents](http://uw.edu/parents)
+                [Faculty & Staff](http://uw.edu/facultystaff)
+                [Alumni](http://uw.edu/alumni)
+              [if gt IE 8]><!
+            Quick Links
+              [Lab Home](https://startup.ischool.uw.edu/)
+              [Mission](https://startup.ischool.uw.edu/mission/)
+              [People](https://startup.ischool.uw.edu/people/)
+              [Courses](https://startup.ischool.uw.edu/courses/)
+              [Events](https://startup.ischool.uw.edu/events/)
+              [Micro Grants](https://startup.ischool.uw.edu/grants/)
+              [Research](https://startup.ischool.uw.edu/research/)
+              [Contact](https://startup.ischool.uw.edu/contact/)
+              iStartup Lab
+              Menu
+                  [Home](http://uw.edu)
+              Faculty and staff
+                  Jeremy Zaretzky
+                    Co-Director, iStartup Lab
+                    [Loyal VC](https://www.loyal.vc/)
+                    [jeremyz@uw.edu](mailto:jeremyz@uw.edu)
+                    [iSchool Profile](https://ischool.uw.edu/people/faculty/profile/jeremyz)
+                    |
+                    [LinkedIn](https://www.linkedin.com/in/jeremyzaretzky)
+                  Mike Teodorescu
+                    [SurgiBox](https://www.surgibox.com/)
+                    [miketeod@uw.edu](mailto:miketeod@uw.edu)
+              Advisory board
+              Our advisory board is made up of experienced entrepreneurs, investors, and business leaders, including several iSchool alumni:
+                    [Abhishek Unnam](https://www.linkedin.com/in/abhishek-unnam-7047949b/)
+                  / AI Manager, SHL Labs
+                    [Albert Lam](https://www.linkedin.com/in/albert-klam/)
+                  / Product Manager, UiPath
+                    [Amy Hutchins](https://www.linkedin.com/in/amy-hutchins/)
+                  / Director of Product – Mapping and Locations, Procore Technologies
+                    [Andy Wu](https://www.linkedin.com/in/andywuandywu/)
+                  / Arjun and Minoo Melwani Family Associate Professor of Business Administration, Harvard Business School
+                    [Colleen Hilton](https://www.linkedin.com/in/colleen-hilton/)
+                  / Co-founder and CEO, Alli Connect
+                    [Eric Larsen](https://www.linkedin.com/in/eric-larsen-1506671/)
+                  / Vice Chairperson, Alliance of Angels
+                    [Jax Morgan](https://www.linkedin.com/in/jaxmorgan/)
+                  / Software Investor, Turn/River Capital
+                    [Julie Averill](https://www.linkedin.com/in/julieaverill/)
+                  / EVP and Chief Information Officer, lululemon
+                    [Kabir Shahani](https://www.linkedin.com/in/kabirshahani/)
+                  / Co-Founder and Executive Chair, Avante and Adora
+                    [Kristie Duffin](https://www.linkedin.com/in/kristieduffin/)
+                  / CTO, Cascade Asset Management Company
+                    [Nick Whiting](https://www.linkedin.com/in/nick-whiting-49998910/)
+                  / Technical Co-founder, kumikai
+                    [Prem Kumar](https://www.linkedin.com/in/premskumar/)
+                  / Co-founder and CEO, Humanly
+                    [Spencer Christiansen](https://www.linkedin.com/in/spencer-christiansen/)
+                  / Head of Operations, Loyal VC
+                    [Tim Kotin](https://www.linkedin.com/in/timothykotin/)
+                  / Director of Data Analytics and GenAI, AmaliTech Services
+              Entrepreneurs-in-residence (EIRs)
+              Our EIRs support our community events and provide mentorship to first-time student founders. EIRs are typically UW students who bring substantial prior experience as entrepreneurs or VC investors. If you’re an iSchool student and would like to schedule a mentoring session with an EIR, please
+                [contact us](https://startup.ischool.uw.edu/contact/)
+                .
+              Autumn 2024 / Winter 2025 EIRs
+                    Brian Cao
+                  / Founder, Amethyst
+                    Luna Chen
+                  / Fellow, 8VC
+              Spring 2024 / Summer 2024 EIRs
+                    Jake Harper
+                  / Founder, Napkin
+              Winter 2024 EIRs
+                    Sierra Lee
+                  / Co-founder, DubHacks Next
+                  Search
+          Be boundless
+        Connect with us:
+              [Facebook](http://www.facebook.com/UofWA)
+              [Twitter](http://twitter.com/UW)
+              [Instagram](http://instagram.com/uofwa)
+              [YouTube](http://www.youtube.com/user/uwhuskies)
+              [Pinterest](http://www.pinterest.com/uofwa/)
+              [Google+](https://plus.google.com/+universityofwashington/posts)
+              [Accessibility](http://www.uw.edu/accessibility)
+              [Contact Us](http://uw.edu/contact)
+              [Jobs](http://www.washington.edu/jobs)
+              [Campus Safety](http://www.washington.edu/safety)
+              [My UW](http://my.uw.edu/)
+              [Rules Docket](http://www.washington.edu/rules/wac)
+              [Privacy](http://www.washington.edu/online/privacy/)
+              [Terms](http://www.washington.edu/online/terms/)
+        © 2025 University of Washington  |  Seattle, WA
+    #uw-container-inner
+  #uw-container

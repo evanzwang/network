@@ -1,0 +1,297 @@
+[
+  {
+    "fullName": "Sheryl Chen",
+    "linkedin_internal_id": "1224186729",
+    "first_name": "Sheryl",
+    "last_name": "Chen",
+    "public_identifier": "sheryl-chen-489b892a1",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQF7_QG5tfr-OA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707247264534?e=2147483647&v=beta&t=pLLl0q8_b7J7d3UeTvTjW8tT5-kVRKRwOWjNeMq120M",
+    "headline": "CS @Stanford",
+    "location": "567 followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/rezme-app?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQHD27ljBviXEw/company-logo_100_100/company-logo_100_100/0/1727470593191/rezme_app_logo?e=2147483647&v=beta&t=ryV9BDgIMRoUBKvS0jjTXL4LwMZrUkQ7hO3L3IDzxMQ",
+        "company_name": "r\u00e9zme",
+        "location": null,
+        "summary": "",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Debate Coach",
+        "company_url": "https://www.linkedin.com/school/menlo-school/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEyY-qU6S-erg/company-logo_100_100/company-logo_100_100/0/1668626427136/menlo_school_logo?e=2147483647&v=beta&t=Fu4NSbEXdmFrpM2gBEIvGkLoAQZkNa829oA6ins7rs4",
+        "company_name": "Menlo School",
+        "location": "Atherton, California, United States",
+        "summary": "",
+        "starts_at": "Sep 2024",
+        "ends_at": "Present",
+        "duration": "7 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/fundusol-llc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGM-w5CZ1sNEg/company-logo_100_100/company-logo_100_100/0/1680902742949/fundusol_llc_logo?e=2147483647&v=beta&t=RaG8U4lmJBYpLQPZDtBk708sinCvbKYToDOdSqcIEMg",
+        "company_name": "Fundusol, LLC.",
+        "location": "New York, New York, United States",
+        "summary": "Developed an internal UI to simulate agrivoltaic systems using Django, Celery, Redis, HTML, CSS, SQLite, and Chart.js. Secured contracts with leading international solar development companies.",
+        "starts_at": "Apr 2024",
+        "ends_at": "Dec 2024",
+        "duration": "9 months"
+      },
+      {
+        "position": "NLP Researcher",
+        "company_url": "https://www.linkedin.com/company/stanford-institute-for-economic-policy-research?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQEBwUVCn3eAjg/company-logo_100_100/company-logo_100_100/0/1631323531125?e=2147483647&v=beta&t=xfMy8p6QD5BlxF3GGBrFnYME2mqxnXdHjQnF365q324",
+        "company_name": "Stanford Institute for Economic Policy Research",
+        "location": "Stanford, California, United States",
+        "summary": "Advised by Dr. Ashrakat Elshehawy in various research machine learning/data science projects using nlp and ocr to extract insights related to the social sciences. Presented research poster at 2024 Global Development Research Symposium.",
+        "starts_at": "Jan 2024",
+        "ends_at": "Jul 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Project Management Mentor",
+        "company_url": "https://www.linkedin.com/company/streetcode-academy?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGI0XFmirfbDg/company-logo_100_100/company-logo_100_100/0/1701466438061/streetcode_academy_logo?e=2147483647&v=beta&t=BA_NM7NNCfjXs8c4HnkgNIYQjfoFoMHxSyFFfNLsS9M",
+        "company_name": "StreetCode Academy",
+        "location": "East Palo Alto, California, United States",
+        "summary": "Mentored the educational journey in the Project Management class for 17+ adult learners, focusing on project management life cycles, methodologies, and approaches.",
+        "starts_at": "Jan 2024",
+        "ends_at": "Mar 2024",
+        "duration": "3 months"
+      },
+      {
+        "position": "Intern at Data Science and Engineering Laboratory",
+        "company_url": "https://www.linkedin.com/school/auburn-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQEM_SJBFzoT4w/company-logo_100_100/company-logo_100_100/0/1645562456481?e=2147483647&v=beta&t=m1U1rsutMnXiSBTbuTDTCz547_7Km_vN0upKT8mVHRk",
+        "company_name": "Auburn University",
+        "location": null,
+        "summary": "Tested and compared state-of-the-art video analysis models within MMAction2, a Pytorch toolbox for action recognition and temporal modeling. Conducted literature review of research on 3D CNN image classification.",
+        "starts_at": "Jun 2023",
+        "ends_at": "Sep 2023",
+        "duration": "4 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Computer Science",
+        "college_duration": " - ",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "r\u00e9zme",
+      "description1_link": "https://www.linkedin.com/company/rezme-app?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": "Blog",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fsherylchen%2Ecom%2F&urlhash=vEfy&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/joseph-scharf-84a44b30_agrivoltaics-activity-7137893649526263810-hVCV",
+        "title": "#agrivoltaics on the rooftop",
+        "activity": "Liked by Sheryl Chen"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/prakhar-sinha-57a412201?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Prakhar Sinha\n        \n              \n          A few short days ago, I wrapped up my research position at UC Davis Health with Professor Farzad Fereidouni. My role at the lab entailed a specialization in machine learning and computer vision and I'm excited to share what I was able to accomplish with everyone. \n\nI worked on two projects during my time at the lab. The first one was something I called \"Kernel Generation for Image Similarity\" (https://lnkd.in/ghsY73ts). It was to process an image such that it would look like it was H&E stained. I learned a lot about the basics of histology and digital histology through this process. The most novel part of this approach was using Wiener deconvolution to generate a kernel that would be used to enhance image similarity (typically using SSIM, MSE or a combination of both). \n\nA big part of this process was optimization. I learned how to use Python libraries such as Cupy and other tools to GPU accelerate a lot of these image-processing optimization problems.\n\nMy second project and my most meaningful contribution was called \"FastSAM-needle-biopsy\" (https://lnkd.in/gXXydq-X). The objective of this project was to use the FastSAM image segmentation network to accurately generate image segmentation masks of live tissue such that a microscope would only scan the relevant parts of an image. Here is step by step walkthrough of the image processing pipeline:\n\n1) VB.NET (Darius) application calls a DLL (compiled from csharp.NET)\n2) DLL calls FastSAM image segmentation code using Python.NET\n3) FastSAM segments image and returns image segmentation bitmask and as well as the fastest path to visit every bit (Traveling Salesman Problem)\n4) Python returns values are returned to DLL using JSON as a reliable data transfer solution\u00a0\n5) DLL returns an object that can be parsed by VB.NET\n\nFastSAM is a faster version of Meta Research's Segment Anything Model and I used it to greatly speed up development time on this project. It was a big challenge to integrate such cutting-edge, machine-learning driven, image processing pipelines into a legacy codebase that was written in Visual Basic .NET but thanks to tools such as DLLs, JSON, and C#, I was able to figure it out!\n\nI am very grateful for the time I spent in the lab. I feel like I developed some great programming skills, especially in computer vision, that will prove useful for the rest of my career. I'd like to give special thanks to Professor Fereidouni, Ruby Mascareno, Willy Ju, Dena Sayrafi, Ruben Gnanaruban, Inyola, Antara Mallick, and Jayla. \n\nThe link is here if you'd like to see my lab report going over everything I did in more technical detail and with a few pictures!\n\nhttps://lnkd.in/gRpZVmjG\n\n#computervision #machinelearning #AI #histology",
+        "location": "67\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                10 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/vivan-gupta-b63835264?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Vivan Gupta\n        \n              \n          This past weekend, I had the amazing opportunity to build out a new idea at the Berkeley AI Hackathon. It was a great time, and I learned a lot from the experience. Our team built Billy, a social media platform to help people engage more thoughtfully within the political sphere by helping make their ideas for bills come to life. Thanks for having me and thanks to my team for helping building such a cool platform!\n\nBilly's goal is to foster informed political engagement online. Using AI and a vast database of American legislation, users can write their bills. Once a bill is created with Billy, it's posted for others to interact with\u2014exploring ideas, voting on issues, and leaving comments. Billy promotes thoughtful dialogue, new perspectives, and idea-sharing, creating a space for public political discussion.\n\nTo learn more about how we built it, feel free to check out this dev post. Also, check out our demo in this video.\n\nhttps://lnkd.in/e3Um8SGf\nhttps://lnkd.in/eGueJYAe\n\n#AI #Hackathon #BerkeleyAI #PoliticalEngagement #CivicTech #Innovation #MachineLearning #WebDevelopment #Nextjs #OpenAI",
+        "location": "36\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/colegawin?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cole Gawin\n        \n              \n          Do large language models have an in-built notion of \"common sense\"? \ud83d\udc40\n\nThis is the driving question behind my research with the USC Information Sciences Institute this summer as part of the \"AI & Complex Systems\" group. Using methods grounded in cognitive science and computational linguistics, we\u2019re aiming to conduct a holistic analysis of LLMs that bridges the gap between theoretical computer science and the social sciences.\n\nOur preliminary investigations indicate that LLMs have a strong, but not infallible, grasp of \"topical regularity\"\u2014that is, understanding how different concepts are related to one another. This is probably unsurprising if you\u2019ve played around with #ChatGPT; the majority of what it outputs usually seems to make sense, regardless of whether it\u2019s correct.\n\nThis understanding of relations between topics could serve as a basis for general reasoning abilities, much like how humans are able to reason using their general understanding of the world\u2014in other words, \"common sense\". \ud83e\udde0 Further investigations will lead us to narrow in on whether these LLMs have genuine abstract reasoning capabilities, or if they're using semantic markers (like \"IsA\", \"HasA\", \"PartOf\") as \"hints\" that enable them to perform well.\n\nStay tuned for further updates on this project and for more #cognitivescience and #artificialintelligence content!\n.\n.\n.\n#AI #NLP #LLM #research #innovation #computerscience #linguistics #psychology #USC #academia",
+        "location": "79\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                9 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mansi-garg3?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Mansi Garg\n        \n              \n          \ud835\udde7-\ud835\udff4 \ud835\uddd7\ud835\uddee\ud835\ude06\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\uddda\ud835\udddb\ud835\uddd6 \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff0: \ud835\udddd\ud835\uddfc\ud835\uddf6\ud835\uddfb \ud835\udde0\ud835\ude06 \ud835\uddd5\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddfc\ud835\uddfb \ud835\udde0\ud835\uddee\ud835\ude05\ud835\uddf6\ud835\uddfa\ud835\uddf6\ud835\ude07\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd9\ud835\uddd4\ud835\uddd4\ud835\udde1\ud835\uddda \ud835\uddd8\ud835\ude05\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2!\n\nOne of the aspects of GHC I'm most excited about is participating in \ud835\udc01\ud835\ude67\ud835\udc82\ud835\ude5e\ud835\udc8f\ud835\udc1d\ud835\udc82\ud835\udc95\ud835\udc86\ud835\ude00. Braindates offer an incredible opportunity to connect with like-minded individuals, share experiences, and gain new insights in a more intimate setting. They truly embody the spirit of GHC by fostering personal connections that contribute to our collective growth.\n\nI believe strongly in GHC's mission because we share the same ideology of helping women navigate the tech industry. This year's theme, \"We + Me\", emphasizes how our journeys contribute to a greater collective impact.\n\nNavigating our way through big companies like FAANG isn't an easy task. Beyond keeping up with regular job responsibilities, there's always so much happening around us. It's crucial to ensure that, in addition to professional development, we don't miss out on personal growth opportunities.\n\nDuring my time at Microsoft, I had the incredible opportunity to be part of the Aspire Leadership Council, participate in hackathons, lead an early-in-career group in the Growth Groups community, and serve as a speaker for a series organized by Microsoft for undergraduate students. These experiences have significantly contributed to both my personal and professional growth.\n\nHaving worked there for three years, I've gathered valuable tips on how to make the most out of your experience in a FAANG company. I'd love to share these insights and learn from yours!\n\nIn that spirit, I'm hosting a Braindate titled:\n\"\ud835\ude48\ud835\udc82\ud835\ude6d\ud835\udc8a\ud835\ude62\ud835\udc8a\ud835\ude6f\ud835\udc8a\ud835\ude63\ud835\udc88 \ud835\udc80\ud835\ude64\ud835\udc96\ud835\ude67 \ud835\ude41\ud835\udc68\ud835\ude3c\ud835\udc75\ud835\ude42 \ud835\ude40\ud835\udc99\ud835\ude65\ud835\udc86\ud835\ude67\ud835\udc8a\ud835\ude5a\ud835\udc8f\ud835\ude58\ud835\udc86: \ud835\ude43\ud835\udc90\ud835\ude6c \ud835\ude69\ud835\udc90 \ud835\udc6b\ud835\ude5e\ud835\udc97\ud835\ude5a\ud835\udc93\ud835\ude68\ud835\udc8a\ud835\ude5b\ud835\udc9a \ud835\udc82\ud835\ude63\ud835\udc85 \ud835\udc7b\ud835\ude5d\ud835\udc93\ud835\ude5e\ud835\udc97\ud835\ude5a\"\n\nIf this aligns with your interests, let's come together to empower each other and make the most of our individual and collective experiences.\n\nFeel free to reach out or sign up for the Braindate session here - \nhttps://lnkd.in/gJ5JbEbM\n\nLooking forward to connecting with you all!\n\n\ud83c\udf1f W\u1d07 + M\u1d07 = E\u1d0d\u1d18\u1d0f\u1d21\u1d07\u0280\u1d07\u1d05 T\u1d0f\u0262\u1d07\u1d1b\u029c\u1d07\u0280 \ud83c\udf1f\n\n#GHC2024 #AnitaBOrg #WePlusMe #Braindate #WomenInTech #Networking #FAANG #PersonalDevelopment #AspireLeadersCouncil #Hackathons",
+        "location": "27"
+      },
+      {
+        "link": "https://www.linkedin.com/in/josh-chang11?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Josh Chang\n        \n              \n          \ud83c\udf09 Dead Week at UC Berkeley \ud83c\udf09\nMay has swept through Berkeley, bringing with it the annual tradition known as Dead Week. As the buzz of Telegraph Avenue dims slightly, we undergrads know it\u2019s our cue to hunker down and hit the books one last time before finals. Here are some key points I've been focusing on as we wrap up this dead week!\n\nLesson 1: Structure in Chaos\nBerkeley\u2019s Dead Week is ironically alive with a flurry of review sessions and last-minute project deadlines. I've found that a structured approach\u2014breaking down study sessions into focused blocks\u2014helps me navigate this intense week. The serene backdrop of the Bay Area, from the calming waters by the marina to the redwoods around campus, provides the perfect study break scenery to clear my mind and reset.\n\nLesson 2: The Strength of Shared Struggles\nThere's something about the communal silence of Mainstacks Library during Dead Week that reminds you you're not alone. Joining forces with other students, we grind out practice exams and Pomodoro sessions until 2 am. It's these moments of collaboration that transform challenging content into shared victories.\n\nLesson 3: Well-being as a Priority\nDead Week at Berkeley is not just about academic survival but also about maintaining well-being amidst the madness. I make it a point to keep up with my runs through the Fire Trails, ensuring that my mental and physical health aren\u2019t sidelined during these critical times.\n\nLesson 4: Reflection and Readiness\nAs I review notes and practice problems, I\u2019m also reflecting on how each semester builds more than just technical skills. It hones resilience, deepens patience, and expands my understanding of what I can achieve under pressure.\n\nWith finals on the horizon, I feel prepared and eager to tackle the challenges ahead. To my peers also in the midst of Dead Week, let\u2019s push through to the finish line with determination and spirit! \ud83d\udcaa\n\nWhat are your Dead Week strategies? Let\u2019s share some wisdom and encouragement as we gear up for finals! \ud83d\ude80 #UCBerkeley #ComputerScience #DeadWeek #FinalsPreparation #GoBears",
+        "location": "39\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mason-moses?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Mason Moses\n        \n              \n          \ud83d\ude80 \ud83d\ude80 \ud83d\ude80 As the first week of the Headstarter AI SWE Fellowship comes to an end. I want to share a few things with you that have been valuable to me as an aspiring software engineer.\n\n\ud83e\udd16 After the #Pathways2Tech event, I want to share a few takeaways:\n\n- Dustin Beadle (ex-Director, AMD): He spoke about the importance of effective communication within a team. Communication can't be taught easily, and many aspects affect team efforts on projects. This talk was definitely my favorite, as Dustin has about 16 years of international experience, so gaining wisdom from him was extremely valuable. \ud83c\udf0f \n\n- Nabeel Alamgir\ud83e\udd84 (CEO, Lunchbox) gave an inspiring talk about his journey to become the CEO of Lunchbox, raising 100M. He changed my perspective on what I want when looking for a career. A key takeaway from his talk is to stop searching for acceptance and start gathering rejections. This way, you can find the right fit for you.\n\n- Shariar Kabir & Miguel Acero (Co-founders, Ruby) spoke on their progression to become co-founders of Ruby. As someone who eventually wants to build a startup, failure is the one thing you have to accept. Experiencing failure makes you more resilient. That resiliency allows you to continue to grow stronger and better in whatever you aspire to be. \ud83d\udcab \n\nOverall, it was an incredible experience to partake in this event, and this is only the beginning. I plan on continuing to share my progress for weeks to come. It won't be an easy journey, but when is reaching your goals ever easy? Once again, thank you, Yasin Ehsan \ud83d\ude80 and Headstarter AI, for providing me with this opportunity. \ud83d\ude4c \ud83d\ude4c",
+        "location": "27\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/spenlin?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Spencer Lin, OD\n        \n              \n          Finished a 9 month Software Engineering Bootcamp with Springboard! PERN full stack web development skills achieved. I'm now transitioning into Headstarter Software Engineering fellowship program where I will be building AI driven projects with other teammates. \n\nMy gameplan: \n\n1. Continue the data structure/algorithm grind. Daily LeetCode problems alternating between Python and JavaScript. Can try more languages as I acquire them. Learn at least one new algorithm or concept daily.\n\n2. Continue acquiring breath/depth of knowledge in available technologies. There's a lot of libraries/tools out there so I want to focus on the most impactful and efficient ones with thorough documentation. \n\n3. Develop sight-reading skills for code. Similar to sight-reading sheet music, I want to be able to look at any code and figure out how things work as quickly as possible. \n\n4. Implement personal projects. Some ideas include abstracting Optometry decision making into a weighted graph data structure with the end node being the most accurate diagnosis. Subjective refraction can also be abstracted as well since input is simply a Boolean provided by the patient (one or two becomes 0 or 1). A directed graph would work nicely. \n\n5. Find a paid internship/job. This would help apply my skills to a real world application and within a company framework. Also, I got bills to pay like everyone else. \n\nVery excited for what's to come! \n\nhttps://lnkd.in/gJUk-RkD",
+        "location": "63\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ethanwangco?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ethan Wang\n        \n              \n          \ud83d\ude80 First Ever Hackathon Win\nLast weekend, I had the pleasure of attending my first-ever hackathon at UC Berkeley's Cal Hacks 11.0, the world's largest collegiate hackathon. Working with Aaditya Pore, Rami Maalouf, and Ethan Jagoda, we created Text to Dot.\n\nText to dot is a tool that attempts to help those who are visually impaired convert physical texts into tactile braille for ease of access. The inspiration for this project came from our research into current text-to-braille systems, which were very clunky and expensive, making them relatively inaccessible to the general public. As such, we sought to create a convenient, straightforward, and economically efficient gadget that visually impaired individuals could utilize to access different forms of information. Our team hopes to spark positive change within the realm of assistive technology, and we hope to make a long-lasting impact on those who can use our products. \n\nUsing Deepgram, Cartesia, Groq, Hyperbolic, and Vapi, we were able to create a scanner that could take images of text and output a comprehensive written transcript. This transcript would then be passed on to one of three separate implementations, a text-to-braille, text-to-speech, and speech-to-speech model, which allowed users to choose how they wanted to experience information. This software was then combined with a complex hardware component that was made up of a 3D housing, Microcontrollers, Solenoids, and Camera Sensors to make up our final product. \n\nOur project didn't come without its challenges. From difficulties with 3D printing, troubles scanning text, and even a burnt out microcontroller, we were constantly pushed to our limits. However, at the end of the day, we created an impactful product all while improving our technical skills and having an amazing time. Winning the Voice Agent Quest Prize for our utilization of Deepgram's AI TTS technology was the perfect end to an incredible hackathon \ud83c\udfc6 .\n\nPlease take a look at our project: https://lnkd.in/gC3kxH-D\n\nA special thanks to all of the hackers who were willing to lend us their spare hardware, the Deepgram team for recognizing our project, and Raghav Lamsal  for showing me around campus and giving me food and housing whenever I wasn't at the hackathon.\n\nCal Hacks 11.0 was such a wonderful experience, giving me countless opportunities to meet new people and learn new things, and I'm excited to attend more hackathons in the future.",
+        "location": "66\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                11 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/naisarg-h?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Naisarg Halvadiya\n        \n              \n          \ud83c\udf1f Attended My First Hackathon at UC Berkeley! \ud83c\udf1f\n\nYesterday, I had the incredible opportunity to participate in my very first hackathon, the UC Berkeley AI Hackathon, organized by  Cal Hacks & Berkeley SkyDeck. They say that the firsts should be special, and this experience was nothing short of surreal.\n\nThe 36-hour event was packed with insightful workshops, interactive sessions with sponsors, and brainstorming sessions to solve complex AI problems. Every moment kept us energized and engaged, from selecting a problem to designing a solution. The camaraderie, exchange of ideas, and interaction with other teams were truly inspiring.\n\nThe highlight? Some golden words of wisdom from the one and only Andrej Karpathy. His insights were the perfect icing on the cake, leaving us all motivated and eager to push the boundaries of what's possible with AI.\n\nGrateful for the experience and looking forward to more hackathons in the future!\n\n#Hackathon #AI #UCberkeley #Innovation #FirstHackathon #AndrejKarpathy #TechJourney #HackathonsAtBerkeley #BerkeleySkyDeck #UCberkeley",
+        "location": "138\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jasmaine-khale?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jasmaine Khale\n        \n              \n          \ud83c\udf1f Career Kickstarter Event Recap \ud83c\udf1f\nHad an amazing time attending Northeastern University\u2019s Career Kickstarter-Fall '24 event at the Silicon Valley campus! \ud83c\udf89 \nThe event provided valuable insights and resources that left me feeling empowered and ready to take my next career steps.\nKey highlights: \n\u2705 Building a Personal Brand: A deep dive into defining and expressing my unique value.\n\u2705 Experiential Learning: It\u2019s incredible to see the emphasis Northeastern places on hands-on experience. The team shared how vital this is in shaping career success. \n\u2705 Networking: The interactive session allowed me to connect with peers and professionals, expanding my network and gaining new perspectives.\n \u2705 Career Planning: I walked away with a clear plan and SMART goals for the upcoming months, which has already given me a great sense of direction.\n\nHuge shoutout to the career development team\u2014Emanuel Cifuentes Machado, M.A. and Natasha Odama for their dedication and guidance throughout the event.\n\n#NUCareerKickstarter #CareerGrowth #ProfessionalDevelopment #SiliconValleyCareers #ExperientialLearning #NetworkingOpportunities #CareerPlanning #NortheasternUniversity #SVCampus",
+        "location": "35\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/anirudh-t-kumar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Anirudh Kumar\n        \n              \n          Last quarter, I got the chance to take the VR (virtual reality) capstone class!\nMy team (Matthew Shang, Tenzin Low, and Varun Pradeep) and I developed a mixed-reality multiplayer mini-golf game for the Meta Quest 2 and 3! A video is worth a million words, so I've linked our game teaser trailer.\n\nIn our game, players will be located in the same physical space, each with their own headsets, while being able to interact with the same procedurally generated virtual mini-golf course. We took a \"Golf With Friends\"-like approach to the game, where all players hit at the same time and can even cause some chaos by hitting opponents' balls and grabbing opponents' clubs! One of our requirements for this capstone was to incorporate some aspect of generative AI, so we created a genAI announcer with GPT-4o that gives snarky comments about various in-game events. We also used many of Meta's SDKs for Unity, such as Shared Spatial Anchors, Passthrough, and the Interaction SDK, which made VR development much more accessible.\n\nThis was the biggest project I've been involved with at school. Here are some of my main takeaways:\n- Networking is tricky: Our game is a multiplayer app, so we had to carefully use Unity's Photon Networking to sync up events and some objects between players. Designing a good networking scheme--such as determining what states are sent over the network--is critical for smooth performance in resource-constrained environments like a Meta Quest headset.\n- Don't wait to integrate: after our midterm MVP, each of us decided to work on roughly independent features. However, we got to a point where each of us had a really fleshed-out feature but had trouble integrating. From this, we learned to integrate and communicate design decisions early-on, which increased our development velocity towards the end of the quarter.\n- You'll be surprised how much you can get done in a short period of time: after developing a whole range of features such as UIs, a course painter, and user-spawned obstacles within 10 weeks, I certainly was surprised at all the milestones I hit and how fun the final product was to play. Even though projects may seem daunting, this experience assured me that with just a little bit of concentration and the \"2-way door mindset\", we all can accomplish some incredible things!\n\nThanks to the UW Reality Lab and all the instructors and TAs for offering this awesome course!",
+        "location": "55\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/anupriyadixit123?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Anupriya Dixit\n        \n              \n          \ud83c\udf1f Today marks the end of the first week of the Headstarter AI Fellowship, and I\u2019m thrilled to share my accomplishments and experiences:\n\n\ud83c\udf10 Created and Deployed a Personal Website: Launched my personal website using GitHub Pages. \nCheck it out here: https://lnkd.in/eeKrm26H\n\n\ud83e\udd1d Collaborative Team Meetings: Met with my amazing team, Lawrence Hoerst and America Gaona Borges, to brainstorm final project ideas aiming to attract 1,000 users by the end of these 7 weeks.\n\n\ud83e\udd16 AI Mock Interview: Completed a mock interview with an AI interviewer and received valuable feedback on my skills.\n\n\ud83d\udd17 Networking: Connected with Software Engineers on LinkedIn by reaching out and expanding my professional network.\n\n\ud83c\udfa4Entrepreneurship Insights: Attended a panel session on Thursday with incredible speakers:\u00a0 Nabeel Alamgir\ud83e\udd84,  Logan Havern, Dustin Beadle, Shariar Kabir, Miguel Acero, who shared their insights on entrepreneurship and generating users for our projects. One of my key takeaways from this event has been the concept of \u201cfailing gracefully.\u201d Failure is not an end but a stepping stone to success. Embracing setbacks with resilience and learning from them is crucial in our growth journey.\n\n\n\ud83d\udde3\ufe0f Peer Feedback: Provided constructive feedback on peers\u2019 projects.\n\nAdditionally, I gained so much more by attending the daily sessions and today's hackathon demo. There are so many exciting projects to look forward to. A special shout-out to the hackathon winners of the projects: CitySwipe, iBudget and react-form-validator-mini,\u00a0 who completed their projects in just 36 hours and generated over 500 users!\n\nAlthough I couldn\u2019t participate in this week\u2019s hackathon due to other commitments, I\u2019m eagerly looking forward to joining next week!\n\n\n\ud83c\udf1f Next Steps: I\u2019m excited to have my personal website up and running, showcasing all my projects. My next step is to buy a domain and connect it to my website. Starting tomorrow, I\u2019ll be diving into Project 2: Pantry Tracker, utilizing React.js, Next.js, and Firebase.\n\nI am immensely grateful to Yasin Ehsan \ud83d\ude80 and his team for providing budding software engineers like myself with such a valuable opportunity. Not only am I expanding my skill set, but I\u2019m also learning how to build my personal brand and market myself as a software engineer.",
+        "location": "18\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nithin-sameer-yerramilli?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nithin Sameer Yerramilli\n        \n              \n          Week 2 at Headstarter Fellowship: Pushing boundaries and gaining insights\n\nJust wrapped up another intense week in the fellowship. Here's what I've been up to:\n\n1. Project Update: Built a Pantry Tracker app using Next.js, Firebase, and AI. Coming from a Python AI/ML background, working with JavaScript and its AI integrations was a new challenge. Interestingly, AI tools significantly accelerated my learning process - a testament to how impactful AI could be in teaching space. \n\n2. Pathways to Tech Event: Some key takeaways:\n\u00a0\u00a0- Dennis Crowley (Founder of Foursquare) emphasized the importance of being scrappy and responsive in this AI-driven world\n\u00a0\u00a0- \"Start fast, start ugly\" - perfection can come later\n\u00a0\u00a0- Focus on building, not just specific technologies\n\u00a0\u00a0- Simplicity often wins - concentrate on what truly matters\n\nJulian Alvarez \ud83d\ude80 (CEO of Wisdolia) stood out with his advice to \"think like a scientist\" and constantly validate assumptions. His perspective on potential, framed around four key questions (who you want to become, what you want to create/achieve/give), was particularly insightful.\n\nThis fellowship is challenging me in unexpected ways, and I'm looking forward to what's next. \n\n#PathwaystoTech #HeadstarterFellowship #TechJourney #HeadstarterAI #AIEngineering",
+        "location": "16"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aaanjalisharma?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Anjali Sharma\n        \n              \n          Sharing My GOOGLE SWE 2025 Interview Experience -\n\nAbout a month ago, I received an email from Google notifying me that my resume had been shortlisted for a technical interview for their Software Engineering role. The initial screening call was a 15-20 minute conversation about my projects, problem-solving experience on different platforms and my academic background. I was then given three weeks to prepare for the interview, along with some helpful study resources.\n\nIn those three weeks, I diligently solved different DSA problems. It wasn\u2019t just about learning algorithms but also about gaining a deeper understanding of problem-solving patterns. This process really helped me sharpen my logic and appreciate how fundamental DSA concepts are for both interviews and actual software development.\n\nIn my first-round interview, I was asked a question related to graphs. I was able to successfully solve and code the problem on the spot, explaining my thought process along the way. It was a rewarding experience, and I was thrilled to receive an email the following day informing me that I had cleared the first round and would be advancing to the next round.\n\nThe second round was another intense technical session where I couldn't fully complete the solution, we had a constructive discussion on different approaches, optimization strategies, and time complexity. This experience taught me the importance of confidently communicating ideas, staying calm under pressure, and keeping a positive mindset even when the solution isn't perfect.\n\nUnfortunately, despite my efforts, I didn\u2019t make it past the final round. While the rejection was disappointing, I see this journey as a victory in itself. Making it to the second round at Google in my first-ever interview of this scale is something I\u2019m incredibly proud of. This experience has motivated me even more to keep learning, growing, and preparing for future opportunities.\nThis isn't the end\u2014it\u2019s just the beginning. Stay tuned, because I\u2019ll be back with my \u201cI'm thrilled to announce\u201d post soon!",
+        "location": "148\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/jashanjot-panjrath?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jashanjot Panjrath\n        \n              \n          Check out this hackathon project that me and Pranay Harpalani created.",
+        "location": "32\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/snailey?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Snailey Dol\n        \n              \n          Here's my 2024 LinkedIn Rewind, by Coauthor.studio:\n\nAs a first-generation student, my tech journey in 2024 wasn't about collecting internships\u2014it was about finding where I could truly make an impact.\n\nEach experience was a puzzle piece: from Nordstrom's Nspire program to Capital One's Tech Mini-Mester, I wasn't just collecting skills, I was learning how technology can solve real-world challenges. My role as  Black Student Union at Florida State University's Master Coordinator taught me that leadership isn't just about titles\u2014it's about creating pathways for others.\n\nHighlights that shaped my year:\n\n\u2022 Joining Wells Fargo as a Software Engineering Intern, where I discovered the intersection of finance and technology: \"I'm thrilled to share that I've accepted an offer to join Wells Fargo as a Software Engineering Intern!\" https://lnkd.in/eSeVzgaD\n\n\u2022 Being selected for the Wells Fargo Changemaker Summit, one of 84 students out of nearly 1,000 applicants: \"Last week, I had the incredible honor of attending the Wells Fargo #Changemaker Summit in Charlotte, NC\" https://lnkd.in/eU3AFyuS\n\n\u2022 Leading the Black Student Union to raise $2,200 in scholarships\u2014a 26% increase that proved collective effort creates tangible change https://lnkd.in/eh6Ygahq\n\nWith my top quote being \"I am Indebted to Makhtar N. and Cameron G. for their invaluable mentorship and guidance in my professional journey\", I must give thanks to everyone who has supported me in anyway this year and, it is the work of a community that I am where i'm at.\n\nMy technical skills expanded across data engineering, software development, and project management. But more importantly, I learned that as a first-generation student, my unique perspective isn't a limitation\u2014it's my greatest strength.\n\nLooking ahead to 2025, I'm committed to not just advancing my own path, but creating opportunities for others who might not see themselves in tech yet.\n\nTo every first-generation student wondering if they belong: you absolutely do. Your different perspective is your superpower. \ud83d\ude80\n\n#LinkedInRewind #FirstGenInTech #SoftwareEngineering #2024wrapped\n\n--\n\nGet your 2024 LinkedIn Rewind! Go to coauthor.studio",
+        "location": "61"
+      },
+      {
+        "link": "https://www.linkedin.com/in/patrick-halim?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Patrick Halim\n        \n              \n          We just made v1 of our app this weekend at the UC Berkeley AI Hackathon! \ud83d\udc68\u200d\ud83c\udf73 It's still very basic compared to the app we're envisioning, but it\u2019s a good start with one of our most important features (ai question asking) at a stage where we can actually try it out while cooking!\n\nOur app name is still TBD. Have any ideas??\n\n-\nWant to try it out? Join the waitlist: https://lnkd.in/gte54MYD\n\nAdhav Rajesh, Saif Alesawy, Nathan Yap \nbuildspace, Cal Hacks, Berkeley SkyDeck",
+        "location": "79\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                14 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/shuklamoksh?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Moksh Shukla\n        \n              \n          Over the past few weeks, many people have reached out to me to learn more about the work I did during my internship at American Express, where I focused on \ud835\uddf2\ud835\uddfb\ud835\uddf5\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf0\ud835\uddee\ud835\ude02\ud835\ude00\ud835\uddee\ud835\uddf9 \ud835\uddf3\ud835\uddff\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00 \ud835\ude02\ud835\ude00\ud835\uddf2\ud835\uddf1 \ud835\uddef\ud835\ude06 \ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00. To share my technical insights, I\u2019ll be detailing my experience in a series of posts, starting with an important concept I worked on: the distinction between predictive and causal modeling.\n\n\ud835\udde3\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\ude03\ud835\ude00. \ud835\uddd6\ud835\uddee\ud835\ude02\ud835\ude00\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4: \ud835\uddea\ud835\uddf5\ud835\ude06 \ud835\uddd6\ud835\uddee\ud835\ude02\ud835\ude00\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\ude00 \ud835\udde1\ud835\uddf2\ud835\uddf2\ud835\uddf1\ud835\uddf2\ud835\uddf1\n\nIn data science, \ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4 is widely used to forecast future outcomes based on past data. For example, a retail company might use a predictive model to estimate next month\u2019s product sales using historical trends, seasonality, and customer behavior. While useful, this approach only tells us \ud835\ude38\ud835\ude29\ud835\ude22\ud835\ude35 \ud835\ude2e\ud835\ude2a\ud835\ude28\ud835\ude29\ud835\ude35 \ud835\ude29\ud835\ude22\ud835\ude31\ud835\ude31\ud835\ude26\ud835\ude2f but not \ud835\ude38\ud835\ude29\ud835\ude3a it happens.\n\nEnter \ud835\uddf0\ud835\uddee\ud835\ude02\ud835\ude00\ud835\uddee\ud835\uddf9 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4, which goes a step further to uncover the cause-and-effect relationships behind the outcomes. Instead of just predicting future sales, causal modeling answers questions like, \ud835\ude0b\ud835\ude2a\ud835\ude25 \ud835\ude22 \ud835\ude33\ud835\ude26\ud835\ude24\ud835\ude26\ud835\ude2f\ud835\ude35 \ud835\ude2e\ud835\ude22\ud835\ude33\ud835\ude2c\ud835\ude26\ud835\ude35\ud835\ude2a\ud835\ude2f\ud835\ude28 \ud835\ude24\ud835\ude22\ud835\ude2e\ud835\ude31\ud835\ude22\ud835\ude2a\ud835\ude28\ud835\ude2f \ud835\ude22\ud835\ude24\ud835\ude35\ud835\ude36\ud835\ude22\ud835\ude2d\ud835\ude2d\ud835\ude3a \ud835\ude24\ud835\ude22\ud835\ude36\ud835\ude34\ud835\ude26 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude34\ud835\ude22\ud835\ude2d\ud835\ude26\ud835\ude34 \ud835\ude23\ud835\ude30\ud835\ude30\ud835\ude34\ud835\ude35, \ud835\ude30\ud835\ude33 \ud835\ude38\ud835\ude22\ud835\ude34 \ud835\ude2a\ud835\ude35 \ud835\ude25\ud835\ude36\ud835\ude26 \ud835\ude35\ud835\ude30 \ud835\ude30\ud835\ude35\ud835\ude29\ud835\ude26\ud835\ude33 \ud835\ude27\ud835\ude22\ud835\ude24\ud835\ude35\ud835\ude30\ud835\ude33\ud835\ude34?\n\n\ud835\uddea\ud835\uddf5\ud835\ude06 \ud835\uddf1\ud835\uddfc\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddfa\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff? Predictive models might show a correlation, but correlation doesn\u2019t equal causation. If we want to make data-driven decisions\u2014whether it\u2019s in marketing, healthcare, or finance\u2014we need to know what actions directly influence outcomes. For example, knowing that a campaign caused an increase in sales is far more valuable than just predicting sales trends.\n\nIn my next post, I\u2019ll discuss different causal algorithms, including the ones I used in my project. \nStay tuned and follow for more!\n\n#internship #healthcare #finance #machinelearning",
+        "location": "90\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/rimika-dhara?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Rimika Dhara\n        \n              \n          Hi LinkedIn!\nAs you might already know from my past posts, I am passionate about writing and sharing my journey as a woman in Tech, a first-generation immigrant, a CS student, a new intern, and someone navigating life.\n\nI'm excited to introduce a list of my recent articles. I primarily focus on my experiences in Tech as a woman and an international student. Additionally, I have a passion for exploring neuroscience and its intersection with technology. I also enjoy reflecting on my personal experiences and talking about how to cultivate discipline and habits that can elevate you as an individual. \n\nI would love for you all to check out my articles. I recently started writing on Medium, and you can find my profile here: https://lnkd.in/gDc3c5W4.\n\nAll my articles are also available for free on my personal blog: www.rimikawrites.com. While many of my tech-related articles are exclusive to Medium, here\u2019s a list of my most recent blog posts:\n\nTechnical Articles:\n- Revolutionizing VLSI Design with Machine Learning\n- Introduction to Kolmogorov-Arnold Networks (KANs)\n\nExperiences/Thoughts in Tech:\n- Decoding GHC 2023: My Journey, Career Impact, and Insider Tips\n- Staying Ahead of the Curve as a Computer Science Student\n- AI-Powered Neurotechnology\u2013The Future of Big Tech\n\nLife/Habits/Thoughts:\n- How to Self-Introspect Correctly for 2024\n- 5 Mindset Shifts that will Guarantee Personal Growth in 2024\n- 3 Habits of Successful People \u2014 According to Neuroscience\n- The Key to Discipline is Loving Yourself\n\nThank you for your support and happy reading!",
+        "location": "98\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/sheryl-chen?trk=public_profile_samename-profile",
+        "name": "Sheryl Chen",
+        "summary": "",
+        "location": "Los Angeles Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sheryl-chen-a6bb3a5b?trk=public_profile_samename-profile",
+        "name": "Sheryl Chen",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/chensheryl?trk=public_profile_samename-profile",
+        "name": "Sheryl Chen",
+        "summary": "Product @ Incremental",
+        "location": "New York City Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sheryl-chen-18a336141?trk=public_profile_samename-profile",
+        "name": "Sheryl Chen",
+        "summary": "",
+        "location": "Union City, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sheryl-chen-4352783a?trk=public_profile_samename-profile",
+        "name": "Sheryl Chen",
+        "summary": "CFO at Delta Products Corporation",
+        "location": "Fremont, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [
+      {
+        "name": "Girl Scouts of Northern California Troop 62410",
+        "position": "Lifetime Girl Scout Member"
+      }
+    ],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Perfect Score on AP Research Exam",
+        "organization": "College Board",
+        "duration": "Sep 2022",
+        "summary": "In the top 1.14% of 2022 AP Research Exam takers from around the world to earn every point possible on this exam"
+      },
+      {
+        "name": "2022 CA National History Day Champion",
+        "organization": "National History Day",
+        "duration": "Apr 2022",
+        "summary": "Winner of CA-NHD in Historical Paper division"
+      },
+      {
+        "name": "Special Congressional Recognition",
+        "organization": "Anna Eschoo",
+        "duration": "2020",
+        "summary": "Congressionally recognized for service co-founding Fighting for Heroes, an organization which fundraised to donate 40,800+ masks to hospitals in the Bay Area, NY, Chicago, Navajo Nation, and low-income and homeless centers"
+      },
+      {
+        "name": "Ranked 2nd Nationally in Parliamentary Debate",
+        "organization": "National Parliamentary Debate League",
+        "duration": "",
+        "summary": ""
+      }
+    ],
+    "score": []
+  }
+]

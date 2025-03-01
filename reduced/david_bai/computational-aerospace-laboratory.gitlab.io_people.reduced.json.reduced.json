@@ -1,0 +1,81 @@
+{
+  "title": "Computational Aerospace Lab by TEMPLATED",
+  "meta_description": "",
+  "main_content": "Faculty Ivan Bermejo-Moreno Associate Professor of Aerospace and Mechanical Engineering Email: bermejom@usc.edu Phone: (213) 740-2881 Doctoral students Benjamin Dalman B.Sc., Mechanical Engineering, University of Calgary, Canada M.Sc., Mechanical Engineering, University of Calgary, Canada Email: dalman@usc.edu Thomas Cuvillier B.Sc., New York University, New York Email: thomas.cuvillier@usc.edu Aishwarya Krishnan B.E. (Hons.), Birla Institute of Technology & Science, Pilani, India M.Sc., University of Michigan, Ann Arbor Email: ak42121@usc.edu Vanessa Rubien B.Sc., Mechanical Engineering, California State Polytechnic University, Pomona, California Email: vrubien@usc.edu Naili Xu B.E., Ocean Engineering, Shanghai Jiao Tong University, China Email: nailixu@usc.edu Ryan Zapp B.Sc., University of the Pacific, Stockton, California Email: rzapp@usc.edu M.Sc. students Sodiq Adeniji Email: sadeniji@usc.edu H. Himanshu Email: h190330@usc.edu Undergraduate students Humzah Merchant B.Sc., Mechanical Engineering, University of Southern California (class of 2026) Email: hmerchan@usc.edu Postdoctoral Scholars Jonas Buchmeier (2022). Donya Ramezanian (2021-2022). Ph.D. Students Jonathan Hoy, Ph.D. (2022): Numerical study of shock-wave/turbulent boundary layer interactions on flexible and rigid panels with wall-modeled large-eddy simulations. Jonas Buchmeier, Ph.D. (2022): Tracking and evolution of compressible turbulent flow structures. Xiangyu Gao, Ph.D. (2020) (current: Google): Shock-induced combustion and mixing. Visiting M.Sc. Students Alexander Bussmann (Technical University Munich) (M.Sc. Thesis, May 2019 - Aug 2019): Tracking and Geometry of multiphase turbulent flows. M.Sc. Students Tianyi Bai (USC AME) (Directed Research, Summer, Fall 2020, Spring 2021): Simulation of person-to-person and room-scale droplets/aerosols dispersion. Noah Seador (USC School of Archiecture) (Directed Research, Spring 2021): Simulation of passive air-filtering on liminal architectural surfaces. Yiwei (Lucy) Lyu (USC School of Archiecture) (Directed Research, Spring 2021): Simulation of passive air-filtering on liminal architectural surfaces. Jin Dou (USC CS) (Volunteer Research, 2018-2020): GPU-HPC compressible flow simulation; machine learning for data analysis. Bailin Chen (USC CS) (Volunteer Research, 2019-2020): GPU-HPC compressible flow simulation; machine learning for data analysis. Francisco del Campo Melchor (USC AME) (Directed Research, Summer 2020): Simulation of room-scale droplets/aerosols dispersion. Arjun Pundarika (USC AME) (Directed Research, Summer 2020): Simulation and meshing of supersonic aerodynamics. Saurabh Dube (USC AME) (Directed Research, Spring 2019): Flat-plate turbulent boundary layer simulation. Ram-Srinivasan Shyam-Sundar (USC AME) (Directed Research, Spring 2018): CFD Visualization. Undergraduate Students David Magie (USC AME): CFD simulation of entry, descent and landing space mission. Sinclair Sparkes (USC AME): Meshing and CFD simulation of entry, descent and landing space mission. Marshall Basson (Carleton College - Physics) (USC SURE 2019): Wall-model LES of backward-facing step; Python-based meshing. William Jo (University of Carlifornia, Irvine) (USC SURE 2019): Data mining and particle tracking shock-turbulence interaction datasets. David Nagoshi (USC AME) (Volunteer Research, Spring 2019): CFD simulation. High-School Students Alan Wang (Junior at Arnold O. Beckman High School) (SHINE, 2020): Visualization of Turbulent Flow Structures.",
+  "links": [
+    {
+      "url": "https://viterbi.usc.edu/directory/faculty/Bermejo-Moreno/Ivan",
+      "text": ""
+    },
+    {
+      "url": "mailto: bermejom@usc.edu",
+      "text": "bermejom@usc.edu"
+    },
+    {
+      "url": "mailto: dalman@usc.edu",
+      "text": "dalman@usc.edu"
+    },
+    {
+      "url": "mailto: thomas.cuvillier@usc.edu",
+      "text": "thomas.cuvillier@usc.edu"
+    },
+    {
+      "url": "mailto: ak42121@usc.edu",
+      "text": "ak42121@usc.edu"
+    },
+    {
+      "url": "mailto: vrubien@usc.edu",
+      "text": "vrubien@usc.edu"
+    },
+    {
+      "url": "mailto: nailixu@usc.edu",
+      "text": "nailixu@usc.edu"
+    },
+    {
+      "url": "mailto: rzapp@usc.edu",
+      "text": "rzapp@usc.edu"
+    },
+    {
+      "url": "mailto: sadeniji@usc.edu",
+      "text": "sadeniji@usc.edu"
+    },
+    {
+      "url": "mailto: h190330@usc.edu",
+      "text": "h190330@usc.edu"
+    },
+    {
+      "url": "mailto: hmerchan@usc.edu",
+      "text": "hmerchan@usc.edu"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/people/ivan_bermejo-moreno_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/benjamin_dalman_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/thomas_cuvillier_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/aishwarya_krishnan_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/vanessa_rubien_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/naili_xu_480x640.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/ryan_zapp_480x640.jpg",
+      "alt": ""
+    }
+  ]
+}

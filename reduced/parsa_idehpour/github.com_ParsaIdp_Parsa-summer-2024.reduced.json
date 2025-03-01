@@ -1,0 +1,152 @@
+{
+  "title": "GitHub - ParsaIdp/Parsa-summer-2024: Parsa Idehpour work in LyRl",
+  "meta_description": "Parsa Idehpour work in LyRl. Contribute to ParsaIdp/Parsa-summer-2024 development by creating an account on GitHub.",
+  "main_content": "ParsaIdp / Parsa-summer-2024 Public Notifications You must be signed in to change notification settings Fork 0 Star 2 Parsa Idehpour work in LyRl 2 stars 0 forks Branches Tags Activity Star Notifications You must be signed in to change notification settings ParsaIdp/Parsa-summer-2024 main Branches Tags Go to file Code Folders and files Name Name Last commit message Last commit date Latest commit History 9 Commits README.md README.md bpac.py bpac.py kfac.py kfac.py model.py model.py View all files Repository files navigation Parsa Summer 2024 My work in LyRL 1. bpac.py Purpose : Implements the method outlined in the referenced paper to compute PAC-Bayes bounds. Model : Applies to a 2-layer fully connected neural network. Dataset : Trained on the MNIST dataset. 2. model.py Purpose : Trains a 2-layer fully connected neural network. Dataset : Trained on the MNIST dataset. 2. kfac.py Purpose : Implements the results of the paper does the data induce capacity control in deep learning . Dataset : Trained on the MNIST dataset. About Parsa Idehpour work in LyRl Resources Readme Activity Stars 2 stars Watchers 1 watching Forks 0 forks Report repository Releases No releases published Packages 0 No packages published Languages Python 100.0%",
+  "links": [
+    {
+      "url": "/ParsaIdp",
+      "text": "ParsaIdp"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024",
+      "text": "Parsa-summer-2024"
+    },
+    {
+      "url": "/login?return_to=%2FParsaIdp%2FParsa-summer-2024",
+      "text": "Notifications"
+    },
+    {
+      "url": "/login?return_to=%2FParsaIdp%2FParsa-summer-2024",
+      "text": "Fork\n    0"
+    },
+    {
+      "url": "/login?return_to=%2FParsaIdp%2FParsa-summer-2024",
+      "text": "Star\n 2"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/stargazers",
+      "text": "2\n          stars"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/forks",
+      "text": "0\n          forks"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/login?return_to=%2FParsaIdp%2FParsa-summer-2024",
+      "text": "Star"
+    },
+    {
+      "url": "/login?return_to=%2FParsaIdp%2FParsa-summer-2024",
+      "text": "Notifications"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/branches",
+      "text": "Branches"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/tags",
+      "text": "Tags"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/branches",
+      "text": ""
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/tags",
+      "text": ""
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/commits/main/",
+      "text": "9 Commits"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/commits/main/",
+      "text": ""
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/README.md",
+      "text": "README.md"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/bpac.py",
+      "text": "bpac.py"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/bpac.py",
+      "text": "bpac.py"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/kfac.py",
+      "text": "kfac.py"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/kfac.py",
+      "text": "kfac.py"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/model.py",
+      "text": "model.py"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/blob/main/model.py",
+      "text": "model.py"
+    },
+    {
+      "url": "https://arxiv.org/abs/1703.11008",
+      "text": "referenced paper"
+    },
+    {
+      "url": "https://arxiv.org/abs/2110.14163",
+      "text": "does the data induce capacity control in deep learning"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/activity",
+      "text": "Activity"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/stargazers",
+      "text": "2\n      stars"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/watchers",
+      "text": "1\n      watching"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/forks",
+      "text": "0\n      forks"
+    },
+    {
+      "url": "/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FParsaIdp%2FParsa-summer-2024&report=ParsaIdp+%28user%29",
+      "text": "Report repository"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/releases",
+      "text": "Releases"
+    },
+    {
+      "url": "/users/ParsaIdp/packages?repo_name=Parsa-summer-2024",
+      "text": "Packages\n      0"
+    },
+    {
+      "url": "/ParsaIdp/Parsa-summer-2024/search?l=python",
+      "text": "Python\n100.0%"
+    }
+  ],
+  "images": []
+}

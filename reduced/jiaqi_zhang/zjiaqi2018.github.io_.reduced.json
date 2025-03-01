@@ -1,0 +1,73 @@
+{
+  "title": "About me (CV) - Jiaqi Zhang",
+  "meta_description": "",
+  "main_content": "Jiaqi Zhang Assistant Professor at BNU and UIC Follow Zhuhai City Github I currently hold the position of Assistant Professor at Beijing Normal University at Zhuhai and at the Beijing Normal University-Hong Kong Baptist University United International College (UIC). Prior to my current position, I was a postdoctoral fellow at Clemson University, where I had the privilege of collaborating closely with Professor Timo Heister in the development of open-source finite element libraries. I received my PhD in mathematics from Virginia Tech in 2020 under the guidance of Professor Pengtao Yue . My research focuses on designing numerical algorithms to solve mathematical models derived from complex physical processes, developing efficient parallel solvers, and analyzing numerical results to explore underlying physics. The physical problems I am working on include dynamic wetting on (soft) solids, interfacial flows of a poroelastic hydrogel, brain concussion based on the hydrogel model, as well as three-phase (gas, liquid, solid) solidification with moving contact lines. Research Finite-element simulations of interfacial flows with moving contact lines. Level-set method Phase-field method Simulating interfacial dynamics between a hydrogel and a fluid Arbitrary Lagrangian-Eulerian method Modeling of Rotation-induced Traumatic Brain Injury (TBI) Simulation of three-phase system with solidification and moving contact lines Cahn-Hilliard model Allen-Cahn model deal.ii and ASPECT -Advanced Solver for Problems in Earth\u2019s ConvecTion Matrix-free methods Geometric multigrid High performance computing Current Research Funding 01/2025-12/2027: Modeling and numerical studies of wetting on soft solids. National Natural Science Foundation of China Youth Program, Principal Investigator, 300,000 RMB, Project Number: 12401511. 11/2023-10/2026: Numerical simulations of dynamic wetting with fluid-structure interaction, and the development of a parallel solver. Guangdong Basic and Applied Basic Research Foundation, Principal Investigator, 10,000 RMB, Project Number: 2023A1515110861. Publications Zelai Xu, Jiaqi Zhang, Yuan-Nan Young, Pengtao Yue, and James J. Feng. \u201cComparison of four boundary conditions for the fluid-hydrogel interface\u201d. Phys. Rev. Fluids , 7:093301, Sep 2022. ( DOI ) Lei Li, Jiaqi Zhang, Zelai Xu, Yuan-Nan Young, James J. Feng and Pengtao Yue. \u201cAn arbitrary Lagrangian-Eulerian method for simulating interfacial dynamics between a hydrogel and a fluid\u201d. Journal of Computational Physics , page 110851, 2021. ( Preprint ) Daniel Arndt, Wolfgang Bangerth, Bruno Blais, Marc Fehling, Rene Gassm\u00f6ller, Timo Heister, Luca Heltai, Uwe K\u00f6cher, Martin Kronbichler, Matthias Maier, Peter Munch, Jean-Paul Pelteret, Sebastian Proell, Konrad Simon, Bruno Turcksin, David Wells and Jiaqi Zhang . \u201cThe deal.II library, Version 9.3\u201d Journal of Numerical Mathematics , vol. 29, no. 3, 2021, pp. 171-186. ( Preprint , DOI ) Jiaqi Zhang and Pengtao Yue. \u201cA level-set method for moving contact lines with contact angle hysteresis\u201d. Journal of Computational Physics , 418:109636, 2020. ( Preprint , DOI ) Jiaqi Zhang and Pengtao Yue. \u201cA high-order and interface-preserving discontinuous Galerkin method for level-set reinitialization\u201d. Journal of Computational Physics , 378:634\u2013664, 2019. ( Preprint , DOI ) In revision A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury. (with Qifu Wang, David Bates, James J. Feng, Pengtao Yue, and Qianhong Wu) Tutorial The deal.II tutorial step-74: Symmetric interior penalty Galerkin method for Poisson\u2019s equation ( URL , DOI )",
+  "links": [
+    {
+      "url": "https://github.com/zjiaqi2018",
+      "text": "Github"
+    },
+    {
+      "url": "http://www.math.clemson.edu/~heister/#home",
+      "text": "Professor Timo Heister"
+    },
+    {
+      "url": "https://www.math.vt.edu/people/faculty/yue-pengtao.html",
+      "text": "Professor Pengtao Yue"
+    },
+    {
+      "url": "https://www.dealii.org/",
+      "text": "deal.ii"
+    },
+    {
+      "url": "https://github.com/geodynamics/aspect",
+      "text": "ASPECT"
+    },
+    {
+      "url": "https://doi.org/10.1103/physrevfluids.7.093301",
+      "text": "DOI"
+    },
+    {
+      "url": "https://github.com/zjiaqi2018/zjiaqi2018.github.io/blob/master/files/hydrogel_ver14.pdf",
+      "text": "Preprint"
+    },
+    {
+      "url": "https://www.dealii.org/deal93-preprint.pdf",
+      "text": "Preprint"
+    },
+    {
+      "url": "https://doi.org/10.1515/jnma-2021-0081",
+      "text": "DOI"
+    },
+    {
+      "url": "https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/contactLine_20.pdf",
+      "text": "Preprint"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcp.2020.109636",
+      "text": "DOI"
+    },
+    {
+      "url": "https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/ls_reinit_19.pdf",
+      "text": "Preprint"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcp.2018.11.029",
+      "text": "DOI"
+    },
+    {
+      "url": "https://www.dealii.org/current/doxygen/deal.II/step_74.html",
+      "text": "URL"
+    },
+    {
+      "url": "https://zenodo.org/record/5812174",
+      "text": "DOI"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://zjiaqi2018.github.io/images/profile.png",
+      "alt": "Jiaqi Zhang"
+    }
+  ]
+}

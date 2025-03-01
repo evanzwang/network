@@ -1,0 +1,64 @@
+            Video Diffusion Models Encode Motion in Early Timesteps
+              Paper authors
+                [Vatsal Baherwani](https://vatsal0.github.io/)
+                ,
+                [Yixuan Ren](https://ryx19th.github.io/)
+                [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/)
+              University of Maryland
+              <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
+                Arxiv PDF link
+                    Paper
+                Supplementary PDF link
+                <span class="link-block">
+                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Supplementary</span>
+                    </a>
+                  </span>
+                Github link
+                <span class="link-block">
+                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                ArXiv abstract Link
+                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+                    arXiv coming soon!
+  Teaser video
+          Your video here
+        How temporal (e.g. motion) and spatial (e.g. apperance) information materializes throughout the video diffusion generation process. We find that temporal and spatial attributes are encoded in distinct timestep intervals and are thus inherently decoupled.
+  End teaser video
+  Paper abstract
+          Abstract
+          Text-to-video diffusion models jointly process spatial and temporal information while generating videos, although the interaction between these dimensions remains underexplored. In this work, we reveal that distinct timestep intervals in the diffusion process specialize in encoding temporal and spatial information. This property is consistent across models with different architectures, suggesting that it is a universal characteristic of video diffusion models. To demonstrate the practical utility of this property, we develop a timestep-constrained LoRA fine-tuning method that achieves precise motion customization without requiring explicit spatial debiasing. Our findings provide novel empirical insights into the internal mechanics of video diffusion models, enabling progress in downstream applications requiring motion understanding.
+  End paper abstract
+  Latents
+        Video DDIM Inversion and Restoration
+        Decoded latents at various points of the diffusion process when applying DDIM inversion on an existing video starting from t=0. Up until t=600, the original motion of the video remains intact, while the spatial information is gradually removed.
+        Results of resampling the DDIM inverted latents of the existing video with a new prompt. In this case, the original prompt is "a monkey walking" and the new prompt is "a cat walking". When sampling unconditionally, we expect to retain the original video attributes; sampling with the new prompt will edit the generation result.
+  End latents
+  Application
+        Application: Motion Customization
+        Using our findings, we can efficiently fine-tune a diffusion model to replicate a motion by strictly training on timesteps from t=1000 to t=600. Because this is decoupled from the timesteps responsible for spatial information, we are able to transfer the reference motion to a new video without leakage of spatial attributes.
+        Unlike other concurrent methods, our approach does not require any additional spatial debiasing training modules or loss functions.
+        Our method is versatile across different fine-tuning methods and base models. The first three examples are using the ModelScope model with LoRA, the fourth example is using the Latte model with LoRA, and the fifth example is using ModelScope with direct fine-tuning.
+  End application
+  BibTex citation
+      BibTeX
+        Coming soon!
+  End BibTex citation
+            This page was built using the
+              [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template)
+              which was adopted from the
+              [Nerfies](https://nerfies.github.io)
+              project page.
+  Statcounter tracking code
+  You can add a tracker to track page visits by creating an account at statcounter.com
+  End of Statcounter Code

@@ -1,0 +1,101 @@
+{
+  "title": "aidangollan\u2019s gists \u00b7 GitHub",
+  "meta_description": "GitHub Gist: star and fork aidangollan's gists by creating an account on GitHub.",
+  "main_content": "Instantly share code, notes, and snippets. Aidan Gollan aidangollan I am a student at Michigan State University majoring in Computer Science and minoring in Mathematics 13 followers \u00b7 11 following View GitHub Profile Sort Recently created Least recently created Recently updated Least recently updated 1 file 0 forks 0 comments 0 stars aidangollan / example.ts Created December 10, 2024 21:06 export const customLLMZodObject = z . object ( { attributeOne : z . string ( ) . describe ( \"Description of attribute one\" ) , attributeTwo : z . string ( ) . describe ( \"Description of attribute two\" ) , } ) ; export interface customLLMObject { attributeOne : string ; attributeTwo : string ; }",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan",
+      "text": "Sign\u00a0in"
+    },
+    {
+      "url": "/join?return_to=https%3A%2F%2Fgist.github.com%2Faidangollan&source=header-gist",
+      "text": "Sign\u00a0up"
+    },
+    {
+      "url": "https://avatars.githubusercontent.com/u/65179432?v=4",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/aidangollan?tab=followers",
+      "text": "13\n          followers"
+    },
+    {
+      "url": "https://github.com/aidangollan?tab=following",
+      "text": "11\n          following"
+    },
+    {
+      "url": "https://github.com/aidangollan",
+      "text": "View GitHub Profile"
+    },
+    {
+      "url": "https://gist.github.com/aidangollan?direction=desc&sort=created",
+      "text": "Recently created"
+    },
+    {
+      "url": "https://gist.github.com/aidangollan?direction=asc&sort=created",
+      "text": "Least recently created"
+    },
+    {
+      "url": "https://gist.github.com/aidangollan?direction=desc&sort=updated",
+      "text": "Recently updated"
+    },
+    {
+      "url": "https://gist.github.com/aidangollan?direction=asc&sort=updated",
+      "text": "Least recently updated"
+    },
+    {
+      "url": "/aidangollan/ab038ddfb2752ecb9b068e074fcfe785",
+      "text": "1 file"
+    },
+    {
+      "url": "/aidangollan/ab038ddfb2752ecb9b068e074fcfe785/forks",
+      "text": "0 forks"
+    },
+    {
+      "url": "/aidangollan/ab038ddfb2752ecb9b068e074fcfe785#comments",
+      "text": "0 comments"
+    },
+    {
+      "url": "/aidangollan/ab038ddfb2752ecb9b068e074fcfe785/stargazers",
+      "text": "0 stars"
+    },
+    {
+      "url": "/aidangollan",
+      "text": ""
+    },
+    {
+      "url": "/aidangollan",
+      "text": "aidangollan"
+    },
+    {
+      "url": "/aidangollan/ab038ddfb2752ecb9b068e074fcfe785",
+      "text": "example.ts"
+    },
+    {
+      "url": "https://github.co/hiddenchars",
+      "text": ""
+    },
+    {
+      "url": "{{ revealButtonHref }}",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/65179432?v=4",
+      "alt": "View aidangollan's full-sized avatar"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/65179432?s=60&v=4",
+      "alt": "@aidangollan"
+    }
+  ]
+}

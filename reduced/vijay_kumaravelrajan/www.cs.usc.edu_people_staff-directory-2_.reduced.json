@@ -1,0 +1,673 @@
+{
+  "title": "Staff Directory - USC Viterbi | Thomas Lord Department of Computer Science",
+  "meta_description": "",
+  "main_content": "Meet Our Staff Administration Nenad Medvidovi\u0107 Professor and Department Chair neno@usc.edu Asiroh Cham Senior Business Officer asirohch@usc.edu Karla Aranda Director of Administrative Operations arandaal@usc.edu Operations Caitlin Dawson Director of Communications dawsonc@usc.edu Angel Haro Events Coordinator haroange@usc.edu Julia Mittenberg-Beirao Executive Assistant to the Chair mittenbe@usc.edu Albert Morita Programmer Analyst amorita@usc.edu Mario Pabon Office Manager mpabon@usc.edu Kusum Shori Administrative Services Coordinator kusum@usc.edu Student Services PhD Programs and Curriculum Ellecia Williams Senior Director, Student Affairs ellecia w@usc.edu Felant\u00e9 Charlemagne Assistant Director, Student Affairs fcharlem@usc.edu Kimberly Serrano Assistant Director, Curriculum Coordinator kserrano@usc.edu Graduate Programs Steve Pham Senior Associate Director, Masters Programs stevepha@usc.edu Erica Kim Assistant Director, Student Affairs minsunk@usc.edu Flor Mart\u00ednez Assistant Director, Student Affairs fmmartin@usc.edu Idania Takimoto Assistant Director, Student Affairs takimoto@usc.edu Undergraduate Programs Randy Lesko Senior Associate Director, Undergraduate Programs lesko@usc.edu Norma Perry Associate Director, Student Affairs norduna@usc.edu Sabrina Rodriguez Associate Director, Student Affairs sr11988@usc.edu Lilian Leung Assistant Director, Student Affairs lilianl@usc.edu Viviana Ramirez Assistant Director, Student Affairs vyramire@usc.edu Faculty Affairs, Payroll/Personnel Lisa Avalos Senior Payroll Specialist leavalos@usc.edu Arianna de la Cruz Payroll Coordinator ad07113@usc.edu Angela Inostroza-Hoffman Faculty Affairs Coordinator inostroz@usc.edu Rene Grano Faculty Affairs Associate grano@usc.edu Research Administration Stacey Croomes Senior Research Administrator scroomes@usc.edu Sara Burnett Research Administrator lsburnet@usc.edu Lifeng (Mai) Lee Research Administrator lifengle@usc.edu Naomi Caldwell Associate Research Administrator naomical@usc.edu Miguel Manalo Associate Research Administrator manalom@usc.edu Samantha Marquez Associate Research Administrator marquezs@usc.edu Rita Wiraatmadja Associate Research Administrator rwiraatm@usc.edu Aisha Baptiste Budget/Business Technician aishabap@usc.edu Areatny Barrios Budget/Business Technician areatnyb@usc.edu Raquel Saez Budget/Business Technician saez@usc.edu Published on November 16th, 2023 Last updated on February 5th, 2025",
+  "links": [
+    {
+      "url": "mailto:neno@usc.edu",
+      "text": "neno@usc.edu"
+    },
+    {
+      "url": "mailto:asirohch@usc.edu",
+      "text": "asirohch@usc.edu"
+    },
+    {
+      "url": "mailto:arandaal@usc.edu",
+      "text": "arandaal@usc.edu"
+    },
+    {
+      "url": "mailto:dawsonc@usc.edu",
+      "text": "dawsonc@usc.edu"
+    },
+    {
+      "url": "mailto:haroange@usc.edu",
+      "text": "haroange@usc.edu"
+    },
+    {
+      "url": "mailto:mittenbe@usc.edu",
+      "text": "mittenbe@usc.edu"
+    },
+    {
+      "url": "mailto:amorita@usc.edu",
+      "text": "amorita@usc.edu"
+    },
+    {
+      "url": "mailto:mpabon@usc.edu",
+      "text": "mpabon@usc.edu"
+    },
+    {
+      "url": "mailto:kusum@usc.edu",
+      "text": "kusum@usc.edu"
+    },
+    {
+      "url": "mailto:elleciaw@usc.edu",
+      "text": "elleciaw@usc.edu"
+    },
+    {
+      "url": "mailto:fcharlem@usc.edu",
+      "text": "fcharlem@usc.edu"
+    },
+    {
+      "url": "mailto:kserrano@usc.edu",
+      "text": "kserrano@usc.edu"
+    },
+    {
+      "url": "mailto:stevepha@usc.edu",
+      "text": "stevepha@usc.edu"
+    },
+    {
+      "url": "mailto:minsunk@usc.edu",
+      "text": "minsunk@usc.edu"
+    },
+    {
+      "url": "mailto:fmmartin@usc.edu",
+      "text": "fmmartin@usc.edu"
+    },
+    {
+      "url": "mailto:fmmartin@usc.edu",
+      "text": "lesko@usc.edu"
+    },
+    {
+      "url": "mailto:norduna@usc.edu",
+      "text": "norduna@usc.edu"
+    },
+    {
+      "url": "mailto:sr11988@usc.edu",
+      "text": "sr11988@usc.edu"
+    },
+    {
+      "url": "mailto:lilianl@usc.edu",
+      "text": "lilianl@usc.edu"
+    },
+    {
+      "url": "mailto:vyramire@usc.edu",
+      "text": "vyramire@usc.edu"
+    },
+    {
+      "url": "mailto:leavalos@usc.edu",
+      "text": "leavalos@usc.edu"
+    },
+    {
+      "url": "mailto:ad07113@usc.edu",
+      "text": "ad07113@usc.edu"
+    },
+    {
+      "url": "mailto:inostroz@usc.edu",
+      "text": "inostroz@usc.edu"
+    },
+    {
+      "url": "mailto:grano@usc.edu",
+      "text": "grano@usc.edu"
+    },
+    {
+      "url": "mailto:scroomes@usc.edu",
+      "text": "scroomes@usc.edu"
+    },
+    {
+      "url": "mailto:naomical@usc.edu",
+      "text": "lsburnet@usc.edu"
+    },
+    {
+      "url": "mailto:lifengle@usc.edu",
+      "text": "lifengle@usc.edu"
+    },
+    {
+      "url": "mailto:naomical@usc.edu",
+      "text": "naomical@usc.edu"
+    },
+    {
+      "url": "mailto:manalom@usc.edu",
+      "text": "manalom@usc.edu"
+    },
+    {
+      "url": "mailto:marquezs@usc.edu",
+      "text": "marquezs@usc.edu"
+    },
+    {
+      "url": "mailto:rwiraatm@usc.edu",
+      "text": "rwiraatm@usc.edu"
+    },
+    {
+      "url": "mailto:aishabap@usc.edu",
+      "text": "aishabap@usc.edu"
+    },
+    {
+      "url": "mailto:areatnyb@usc.edu",
+      "text": "areatnyb@usc.edu"
+    },
+    {
+      "url": "mailto:saez@usc.edu",
+      "text": "saez@usc.edu"
+    },
+    {
+      "url": "/chairs-welcome/",
+      "text": "About"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/chairs-welcome/",
+      "text": "Chair\u2019s Welcome"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/awards-and-honors/",
+      "text": "Awards and Honors"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/csscinstitutes/",
+      "text": "CS@SC Institutes"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/news/",
+      "text": "News"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/media-coverage/",
+      "text": "Media Coverage"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/newsletters/",
+      "text": "Newsletters and Fact Sheets"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/affiliate/",
+      "text": "CS Industry Affiliate Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/bekey-lecture/",
+      "text": "Bekey Lecture"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/contact/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://www.cs.usc.edu/visiting/",
+      "text": "Visiting"
+    },
+    {
+      "url": "https://www.cs.usc.edu/visiting/directions-maps/",
+      "text": "Driving Directions"
+    },
+    {
+      "url": "https://usccareers.usc.edu/",
+      "text": "Open Staff Positions"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/open-faculty-positions/",
+      "text": "Open Faculty Positions"
+    },
+    {
+      "url": "/research-areas-labs/",
+      "text": "Research"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/centers-and-institutes/",
+      "text": "Centers and Institutes"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/research-areas-labs/",
+      "text": "Research Areas and Labs"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/technical-reports/",
+      "text": "Technical Reports"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/annual-research-review/",
+      "text": "Annual Research Review"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/undergraduate-research-experiences/",
+      "text": "Undergraduate Research Experiences"
+    },
+    {
+      "url": "/directory/faculty/",
+      "text": "People Search"
+    },
+    {
+      "url": "https://www.cs.usc.edu/directory/faculty/",
+      "text": "Faculty Directory"
+    },
+    {
+      "url": "https://www.cs.usc.edu/people/staff-directory-2/",
+      "text": "Staff Directory"
+    },
+    {
+      "url": "https://www.cs.usc.edu/people/advisoryboard/",
+      "text": "Advisory Board"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/",
+      "text": "Academic Programs"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/getting-started-csusc/",
+      "text": "Getting Started with CS@USC"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/courses/",
+      "text": "Courses"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/undergrad/",
+      "text": "B.S. Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/masters/",
+      "text": "M.S. Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/phd/",
+      "text": "Ph.D. Program"
+    },
+    {
+      "url": "https://datascience.usc.edu",
+      "text": "Data Science Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/graduate-certificate/",
+      "text": "Graduate Certificate"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/denviterbi/",
+      "text": "Distance Education"
+    },
+    {
+      "url": "https://www.cs.usc.edu/k-12-outreach/",
+      "text": "K-12 Outreach"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/academic-advisement/",
+      "text": "Student Resources"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/academic-advisement/",
+      "text": "Academic Advisement"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/d-clearance/",
+      "text": "D-Clearance"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/directed-research/",
+      "text": "Directed Research"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/information-for-graders-and-course-producers/",
+      "text": "Information for Graders and Course Producers"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/microsoft-imagine/",
+      "text": "Microsoft Imagine"
+    },
+    {
+      "url": "/newsletter/",
+      "text": "Newsletter"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/cs-student-organizations/",
+      "text": "CS Student Organizations"
+    },
+    {
+      "url": "http://libguides.usc.edu/computerscience",
+      "text": "CS Library Guide"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/cs-job-announcements/",
+      "text": "CS Job Announcements"
+    },
+    {
+      "url": "https://www.cs.usc.edu/admission/",
+      "text": "Admission"
+    },
+    {
+      "url": "http://viterbiadmission.usc.edu/",
+      "text": "B.S. Application Information"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/programs/masters/",
+      "text": "M.S. Application Information"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/doctoral/",
+      "text": "Ph.D. Application Information"
+    },
+    {
+      "url": "/search/?siteSearch=000738207487992260877%3Aum-3i7vlvga",
+      "text": ""
+    },
+    {
+      "url": "/chairs-welcome/",
+      "text": "About"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/chairs-welcome/",
+      "text": "Chair\u2019s Welcome"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/awards-and-honors/",
+      "text": "Awards and Honors"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/csscinstitutes/",
+      "text": "CS@SC Institutes"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/news/",
+      "text": "News"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/media-coverage/",
+      "text": "Media Coverage"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/newsletters/",
+      "text": "Newsletters and Fact Sheets"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/affiliate/",
+      "text": "CS Industry Affiliate Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/bekey-lecture/",
+      "text": "Bekey Lecture"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/contact/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://www.cs.usc.edu/visiting/",
+      "text": "Visiting"
+    },
+    {
+      "url": "https://www.cs.usc.edu/visiting/directions-maps/",
+      "text": "Driving Directions"
+    },
+    {
+      "url": "https://usccareers.usc.edu/",
+      "text": "Open Staff Positions"
+    },
+    {
+      "url": "https://www.cs.usc.edu/about/open-faculty-positions/",
+      "text": "Open Faculty Positions"
+    },
+    {
+      "url": "/research-areas-labs/",
+      "text": "Research"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/centers-and-institutes/",
+      "text": "Centers and Institutes"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/research-areas-labs/",
+      "text": "Research Areas and Labs"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/technical-reports/",
+      "text": "Technical Reports"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/annual-research-review/",
+      "text": "Annual Research Review"
+    },
+    {
+      "url": "https://www.cs.usc.edu/research/undergraduate-research-experiences/",
+      "text": "Undergraduate Research Experiences"
+    },
+    {
+      "url": "/directory/faculty/",
+      "text": "People Search"
+    },
+    {
+      "url": "https://www.cs.usc.edu/directory/faculty/",
+      "text": "Faculty Directory"
+    },
+    {
+      "url": "https://www.cs.usc.edu/people/staff-directory-2/",
+      "text": "Staff Directory"
+    },
+    {
+      "url": "https://www.cs.usc.edu/people/advisoryboard/",
+      "text": "Advisory Board"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/",
+      "text": "Academic Programs"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/getting-started-csusc/",
+      "text": "Getting Started with CS@USC"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/courses/",
+      "text": "Courses"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/undergrad/",
+      "text": "B.S. Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/masters/",
+      "text": "M.S. Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/phd/",
+      "text": "Ph.D. Program"
+    },
+    {
+      "url": "https://datascience.usc.edu",
+      "text": "Data Science Program"
+    },
+    {
+      "url": "https://www.cs.usc.edu/academic-programs/graduate-certificate/",
+      "text": "Graduate Certificate"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/denviterbi/",
+      "text": "Distance Education"
+    },
+    {
+      "url": "https://www.cs.usc.edu/k-12-outreach/",
+      "text": "K-12 Outreach"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/academic-advisement/",
+      "text": "Student Resources"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/academic-advisement/",
+      "text": "Academic Advisement"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/d-clearance/",
+      "text": "D-Clearance"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/directed-research/",
+      "text": "Directed Research"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/information-for-graders-and-course-producers/",
+      "text": "Information for Graders and Course Producers"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/microsoft-imagine/",
+      "text": "Microsoft Imagine"
+    },
+    {
+      "url": "/newsletter/",
+      "text": "Newsletter"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/cs-student-organizations/",
+      "text": "CS Student Organizations"
+    },
+    {
+      "url": "http://libguides.usc.edu/computerscience",
+      "text": "CS Library Guide"
+    },
+    {
+      "url": "https://www.cs.usc.edu/students/cs-job-announcements/",
+      "text": "CS Job Announcements"
+    },
+    {
+      "url": "https://www.cs.usc.edu/admission/",
+      "text": "Admission"
+    },
+    {
+      "url": "http://viterbiadmission.usc.edu/",
+      "text": "B.S. Application Information"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/programs/masters/",
+      "text": "M.S. Application Information"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/doctoral/",
+      "text": "Ph.D. Application Information"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/12/Untitled-design-20.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/Asiroh-crop.jpg",
+      "alt": "AsirohCham"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/KarlaAranda.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/MG_2295.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/AngelHaro.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/JuliaMB.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/AlbertMorita.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/11/1.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/noprofile.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/02/EW.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/FelanteCharlemagne.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/KimberlySerrano.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/02/SP2.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/EricaKim.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/noprofile.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/Idiana.jpeg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/02/Randy.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/NormaPerry.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/SabrinaRodriguez.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/LillianLeung.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/VivianaRamirez.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/LisaAvalos.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/AriannadelaCruz.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/Angela2.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/ReneGrano.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/noprofile.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/SaraBurnett.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/LifengMaiLee.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/noprofile.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/MiguelManalo.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/noprofile.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2023/11/RitaWiraatmadja.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/02/AB.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/02/ARB.jpg",
+      "alt": "Image"
+    },
+    {
+      "src": "https://www.cs.usc.edu/wp-content/uploads/2024/11/3.png",
+      "alt": "Image"
+    }
+  ]
+}

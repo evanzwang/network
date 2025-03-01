@@ -1,0 +1,291 @@
+  Dagstuhl nav bar
+            [dblp](https://dblp.org)
+                [Blog](https://blog.dblp.org)
+                [Statistics](https://dblp.org/statistics/)
+                [Update feed](https://dblp.org/feed/)
+                [XML dump](https://dblp.org/xml/)
+                [RDF dump](https://dblp.org/rdf/)
+            [browse](https://dblp.org/db/)
+                [Persons](https://dblp.org/pers/)
+                [Conferences](https://dblp.org/db/conf/)
+                [Journals](https://dblp.org/db/journals/)
+                [Series](https://dblp.org/db/series/)
+                [Repositories](https://dblp.org/db/repo/)
+            [search](https://dblp.org/search/)
+                [Search dblp](https://dblp.org/search/)
+                [SPARQL queries](https://sparql.dblp.org)
+                [Lookup by ID](https://dblp.org/lookup/)
+            [about](https://dblp.org/db/about/)
+                [F.A.Q.](https://dblp.org/faq/)
+                [Team](https://dblp.org/db/about/team.html)
+                [Advisory Board](https://dblp.org/db/about/advisoryboard.html)
+                [License](https://dblp.org/db/about/copyright.html)
+                [Privacy](https://dblp.org/db/about/privacy.html)
+                [Imprint](https://dblp.org/db/about/imprint.html)
+            [nfdi](https://www.nfdi.de/?lang=en)
+                  NFDI - National Research Data Infrastructure Germany
+                [consortia](https://www.nfdi.de/consortia/?lang=en)
+                  NFDIxCS
+                [events](https://nfdixcs.org/veranstaltungen)
+                |
+                [mastodon](https://mastodon.social/@nfdixcs@nfdi.social)
+                  NFDI4DataScience
+                [ORKG](https://www.orkg.org)
+                [CEUR](http://ceur-ws.org/)
+                [MyBinder](https://mybinder.org/)
+                [publications](https://scholar.google.com/citations?user=MB2fMGEAAAAJ)
+                [solidarity](https://www.leibniz-gemeinschaft.de/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine)
+                -
+                [(ua)](https://www-leibniz--gemeinschaft-de.translate.goog/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine?_x_tr_sl=en&_x_tr_tl=uk)
+                [(ru)](https://www-leibniz--gemeinschaft-de.translate.goog/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine?_x_tr_sl=en&_x_tr_tl=ru)
+                [news](https://news.un.org/en/tags/ukraine)
+                [donate](https://donate.unhcr.org/int/en/ukraine-emergency)
+                for scientists
+                [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine/)
+                [Assistance in Germany](https://www.daad-ukraine.org/en/)
+                [Ukrainian Global University](https://uglobal.university/)
+  banner
+    div class="message modest" data-version="2016-02-19">We would like to express our heartfelt thanks to the many users who have sent us their remarks and constructive critizisms during the past weeks. Your detailed comments have been very informative and extremely helpful. Of course, you may keep <a href="http://dblp.org/db/about/team.html">contacting us to send us your feedback.</a></div
+    div class="message fancy" data-version="2023-03-09"><b>We are hiring!</b> Would you like to contribute to the development of the national research data infrastructure NFDI for the computer science community? Schloss Dagstuhl seeks to hire a <b>Research Data Expert (f/m/d)</b>. For more information, see <a href="https://dagstuhl.de/job">our job offer</a>.</div
+    div class="message modest" data-version="2023-01-27">Due to maintenance work, <b>this server may be temporarily unavailable within the next 30 mintues</b>. In the mean time, please use <a href="https://dblp.uni-trier.de">server Trier</a> istead.</div
+    We've just launched a new service: our brand new
+        dblp SPARQL query service
+      . Read more about it in
+      [our latest blog post](https://blog.dblp.org/2024/09/09/introducing-our-public-sparql-query-service/)
+      or try out some of the SPARQL queries linked on the dblp web pages below.
+    logo
+    search form
+            default search action
+              combined dblp search
+              author search
+              venue search
+              publication search
+            Authors:
+                no matches
+            Venues:
+            Publications:
+            ask others
+    head line
+        Liangze Li
+                export bibliography
+                dblp key:
+                  homepages/119/0055
+                share bibliography
+                persistent URL:
+                    [https://dblp.org/pid/119/0055](https://dblp.org/pid/119/0055)
+                help us
+    inpage navigation menu
+              '20
+              '10
+    mirror selector
+        Dagstuhl
+              [Trier](https://dblp.uni-trier.de/pid/119/0055.html?view=by-year)
+    order-by selector
+        by year
+              [by type](https://dblp.org/pid/119/0055.html?view=by-type)
+    breadcrumbs
+          >
+              Home
+    person profile
+          Person information
+      googleoff: index
+          Other persons with a similar name
+              see FAQ
+                  [Why are some names followed by a four digit number?](https://dblp.org/faq/1474704)
+              [Liangze Cui](https://dblp.org/pid/280/1250.html)
+              [Liangze Jiang](https://dblp.org/pid/316/9449.html)
+              [Liangze Mo](https://dblp.org/pid/377/3736.html)
+              [Liangze Tao](https://dblp.org/pid/376/6816.html)
+              [Liangze Yang](https://dblp.org/pid/337/2360.html)
+              [Liangze Yin](https://dblp.org/pid/23/10811.html)
+      googleon: index
+    publ side panel
+              run query for this person
+                [highly cited coauthors](https://sparql.dblp.org?exec=true&query=%23%23+Highly+cited+coauthors+of+Liangze+Li%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28DISTINCT+%3Fcite%29+as+%3Fcites%29+%28%3Fcoauthor+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcoauthor+%29+.%0A++%3Fcoauthor+rdfs%3Alabel+%3Fname+.%0A++OPTIONAL+%7B+%3Fcoauthor+dblp%3Aorcid+%3Forcids+.+%7D%0A++OPTIONAL+%7B+%3Fcoauthor+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++%3Fpubl+dblp%3Aomid+%3Fomid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fomid+.%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fcoauthor%0AORDER+BY+DESC%28%3Fcites%29%0ALIMIT+10)
+                [co-cited other authors](https://sparql.dblp.org?exec=true&query=%23%23+Papers+that+cite+Liangze+Li+do+also+cite+...%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28%3Fother_pers%29+as+%3Ffreq%29+%28%3Fother_pers+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER%28+%3Fother_omid+%21%3D+%3Fthis_omid+%29+.%0A++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++%3Fother_publ+dblp%3AauthoredBy+%3Fother_pers+.%0A++FILTER%28+%3Fother_pers+%21%3D+%3Fthis_pers+%29+.%0A++%3Fother_pers+dblp%3AprimaryCreatorName+%3Fname+.%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fother_pers%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10)
+                [non-coauthors with many coauthors in common](https://sparql.dblp.org?exec=true&query=%23%23+Non-coauthors+of+Liangze+Li+with+many+coauthors+in+common%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28DISTINCT+%3Fcoauthor%29+AS+%3Fcount%29+%28%3Fcocoauthor+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fpubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcoauthor+%29+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcocoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcocoauthor+%29+.%0A++MINUS+%7B+%3Fcocopubl+dblp%3AauthoredBy+%3Fauthor+.+%3Fcocopubl+dblp%3AauthoredBy+%3Fcocoauthor+%7D%0A++%3Fcocoauthor+rdfs%3Alabel+%3Fname+.%0A++OPTIONAL+%7B+%3Fcocoauthor+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fcocoauthor+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fcocoauthor%0AORDER+BY+DESC%28%3Fcount%29%0ALIMIT+10)
+                [highly cited publications](https://sparql.dblp.org?exec=true&query=%23%23+Highly+cited+publications+by+Liangze+Li%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Flabel+%3Fyear+%28COUNT%28DISTINCT+%3Fcite%29+as+%3Fcites%29+%28%3Fpubl+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fpubl+rdfs%3Alabel+%3Flabel+.%0A++%3Fpubl+dblp%3Aomid+%3Fomids+.%0A++OPTIONAL+%7B+%3Fcite+cito%3AhasCitedEntity+%3Fomids+.+%7D%0A++OPTIONAL+%7B+%3Fpubl+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++OPTIONAL+%7B+%3Fpubl+dblp%3Adoi+%3Fdois+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fpubl%0AORDER+BY+DESC%28%3Fcites%29%0ALIMIT+10)
+                [co-cited publications](https://sparql.dblp.org?exec=true&query=%23%23+Papers+that+cite+Liangze+Li+do+also+cite+...%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+schema%3A+%3Chttps%3A%2F%2Fschema.org%2F%3E%0ASELECT+%3Flabel+%3Fyear+%28COUNT%28DISTINCT+%3Fother_cite%29+as+%3Ffreq%29+%28%3Fother_publ+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+%3Furl+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER%28+%3Fother_omid+%21%3D+%3Fthis_omid+%29+.%0A++OPTIONAL+%7B%0A++++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++++%3Fother_publ+rdfs%3Alabel+%3Flabel+.%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3Adoi+%3Fdois+.+%7D%0A++%7D%0A++MINUS+%7B+%3Fother_publ+dblp%3AauthoredBy+%3Fthis_pers+.+%7D%0A++OPTIONAL+%7B+%3Fother_omid+schema%3Aurl+%3Furl+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fother_publ+%3Furl%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10)
+                [authors citing this author](https://sparql.dblp.org?exec=true&query=%23%23+Who+is+citing+Liangze+Li%3F%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28%3Fother_pers%29+as+%3Ffreq%29+%28%3Fother_pers+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fother_omid+.%0A++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++%3Fother_publ+dblp%3AauthoredBy+%3Fother_pers+.%0A++FILTER%28+%3Fother_pers+%21%3D+%3Fthis_pers+%29%0A++%3Fother_pers+dblp%3AprimaryCreatorName+%3Fname+.%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fother_pers%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10)
+                [number of authors per paper](https://sparql.dblp.org?exec=true&query=%23%23+Number-of-authors+statistic+for+Liangze+Li%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0ASELECT+%3Fnumber_of_authors+%28COUNT%28%3Fnumber_of_authors%29+AS+%3Ffreq%29+WHERE+%7B%0A++VALUES+%3Fpers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F119%2F0055%3E+%7D+.%0A++%3Fpubl+dblp%3AauthoredBy+%3Fpers+.%0A++%3Fpubl+dblp%3AnumberOfCreators+%3Fnumber_of_authors+.%0A%7D%0AGROUP+BY+%3Fnumber_of_authors%0AORDER+BY+%3Fnumber_of_authors)
+                or build your own?
+          Refine list
+                refinements active!
+              zoomed in on
+                ??
+                of
+                records
+                view refined list in
+                export refined list as
+              showing all
+          2020 – today
+                  [What is the meaning of the colors in the publication lists?](https://dblp.org/faq/1474790)
+            2023
+              [c5]
+                        view
+                        authority control:
+                        export record
+                          conf/acl/WuCL23
+                        share record
+                            [https://dblp.org/rec/conf/acl/WuCL23](https://dblp.org/rec/conf/acl/WuCL23)
+                    Shih-Lun Wu
+                ,
+                    Yi-Hui Chou
+                :
+                Listener Model for the PhotoBook Referential Game with CLIPScores as Implicit Reference Chain.
+                    ACL (2)
+                1420-1432
+              [c4]
+                          conf/emnlp/ChenKZLSR23
+                            [https://dblp.org/rec/conf/emnlp/ChenKZLSR23](https://dblp.org/rec/conf/emnlp/ChenKZLSR23)
+                    Yutian Chen
+                    Hao Kang
+                    Vivian Zhai
+                    Rita Singh
+                    Bhiksha Raj
+                Token Prediction as Implicit Classification to Identify LLM-Generated Text.
+                    EMNLP
+                13112-13120
+              [i6]
+                          journals/corr/abs-2305-07969
+                            [https://dblp.org/rec/journals/corr/abs-2305-07969](https://dblp.org/rec/journals/corr/abs-2305-07969)
+                GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content.
+                    CoRR
+                    abs/2305.07969
+                (
+                )
+              [i5]
+                          journals/corr/abs-2306-09607
+                            [https://dblp.org/rec/journals/corr/abs-2306-09607](https://dblp.org/rec/journals/corr/abs-2306-09607)
+                    abs/2306.09607
+              [i4]
+                          journals/corr/abs-2311-08723
+                            [https://dblp.org/rec/journals/corr/abs-2311-08723](https://dblp.org/rec/journals/corr/abs-2311-08723)
+                    abs/2311.08723
+          2010 – 2019
+            2019
+              [j1]
+                          journals/joc/BaiGLS19
+                            [https://dblp.org/rec/journals/joc/BaiGLS19](https://dblp.org/rec/journals/joc/BaiGLS19)
+                    Shi Bai
+                    Steven D. Galbraith
+                    Daniel Sheffield
+                Improved Combinatorial Algorithms for the Inhomogeneous Short Integer Solution Problem.
+                    J. Cryptol.
+                    32
+                    1
+                35-83
+            2014
+              [c3]
+                          conf/intrust/ZhangLW14
+                            [https://dblp.org/rec/conf/intrust/ZhangLW14](https://dblp.org/rec/conf/intrust/ZhangLW14)
+                    Fan Zhang
+                    Hongfeng Wu
+                Faster Pairing Computation on Jacobi Quartic Curves with High-Degree Twists.
+                    INTRUST
+                310-327
+              [i3]
+                          journals/iacr/BaiGLS14
+                            [https://dblp.org/rec/journals/iacr/BaiGLS14](https://dblp.org/rec/journals/iacr/BaiGLS14)
+                Improved Exponential-time Algorithms for Inhomogeneous-SIS.
+                    IACR Cryptol. ePrint Arch.
+                593
+            2013
+              [c2]
+                          conf/cisc/LiWZ13
+                            [https://dblp.org/rec/conf/cisc/LiWZ13](https://dblp.org/rec/conf/cisc/LiWZ13)
+                Pairing Computation on Edwards Curves with High-Degree Twists.
+                    Inscrypt
+                185-200
+            2012
+              [c1]
+                          conf/wisa/LiZ12
+                            [https://dblp.org/rec/conf/wisa/LiZ12](https://dblp.org/rec/conf/wisa/LiZ12)
+                Tate Pairing Computation on Generalized Hessian Curves.
+                    WISA
+                111-123
+              [i2]
+                          journals/iacr/LiWZ12
+                            [https://dblp.org/rec/journals/iacr/LiWZ12](https://dblp.org/rec/journals/iacr/LiWZ12)
+                Pairing computation on Edwards curves with high-degree twists.
+                532
+              [i1]
+                          journals/iacr/LiWZ12a
+                            [https://dblp.org/rec/journals/iacr/LiWZ12a](https://dblp.org/rec/journals/iacr/LiWZ12a)
+                Faster Pairing Computation on Jacobi quartic Curves with High-Degree Twists.
+                551
+    coauthor side panel
+    coauthor index
+          Coauthor Index
+                  [What is the meaning of the colors in the coauthor index?](https://dblp.org/faq/1474792)
+                  [How does dblp detect coauthor communities?](https://dblp.org/faq/8388649)
+                0001
+              [2](https://dblp.org/pid/119/0055.html?view=joint&param=2)
+              [3](https://dblp.org/pid/119/0055.html?view=joint&param=3)
+              [4](https://dblp.org/pid/119/0055.html?view=joint&param=4)
+              [5](https://dblp.org/pid/119/0055.html?view=joint&param=5)
+              [6](https://dblp.org/pid/119/0055.html?view=joint&param=6)
+              [7](https://dblp.org/pid/119/0055.html?view=joint&param=7)
+              [8](https://dblp.org/pid/119/0055.html?view=joint&param=8)
+              [9](https://dblp.org/pid/119/0055.html?view=joint&param=9)
+              [10](https://dblp.org/pid/119/0055.html?view=joint&param=10)
+              [11](https://dblp.org/pid/119/0055.html?view=joint&param=11)
+              [12](https://dblp.org/pid/119/0055.html?view=joint&param=12)
+    settings menu
+            manage site settings
+            To protect your privacy, all features that rely on external API calls from your browser are
+              turned off by default
+              . You need to opt-in for them to become active. All settings here will be stored as cookies with your web browser. For more information
+              [see our F.A.Q.](https://dblp.org/faq/15696107)
+                Unpaywalled article links
+                Add open access links from
+                    load links from unpaywall.org
+                  Privacy notice: By enabling the option above, your browser will contact the API of
+                    unpaywall.org
+                    to load hyperlinks to open access articles. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the
+                    [Unpaywall privacy policy](http://unpaywall.org/legal/privacy)
+                    .
+                Archived links via Wayback Machine
+                For web page which are no longer available, try to retrieve content from the
+                    load content from archive.org
+                    archive.org
+                    to check for archived content of web pages that are no longer available. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the
+                    [Internet Archive privacy policy](https://archive.org/about/terms.php)
+                Reference lists
+                Add a list of references from
+                    load references from crossref.org and opencitations.net
+                  Privacy notice: By enabling the option above, your browser will contact the APIs of
+                    crossref.org
+                    opencitations.net
+                    , and
+                    semanticscholar.org
+                    to load article reference information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the
+                    [Crossref privacy policy](https://www.crossref.org/privacy/)
+                    and the
+                    [OpenCitations privacy policy](https://opencitations.net/about)
+                    , as well as the
+                    [AI2 Privacy Policy](https://allenai.org/privacy-policy)
+                    covering Semantic Scholar.
+                Citation data
+                Add a list of citing articles from
+                    load citations from opencitations.net
+                    and
+                    to load citation information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the
+                    as well as the
+                OpenAlex data
+                Load additional information about publications from
+                    load data from openalex.org
+                    openalex.org
+                    to load additional information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the information given by
+                    [OpenAlex](https://openalex.org/about)
+    footer
+          [dblp team](https://dblp.org/db/about/team.html)
+          [open data](https://opendefinition.org/)
+          under
+          [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)
+        see also:
+          [Terms of Use](https://dblp.org/db/about/copyright.html)
+          [Privacy Policy](https://dblp.org/db/about/privacy.html)
+        dblp was originally created in 1993 at:
+        since 2018, dblp has been operated and maintained by:
+        the dblp computer science bibliography is funded and supported by:

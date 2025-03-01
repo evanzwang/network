@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+  <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Journal Article" />
+<meta property="og:site_name" content="The Movement Lab" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://tml.stanford.edu/publications/2017/preparing-unknown-learning-universal-policy-online-system-identification" />
+<meta property="og:title" content="Preparing for the Unknown: Learning a Universal Policy with Online System Identification" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Preparing for the Unknown: Learning a Universal Policy with Online System Identification" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/custom/stanford_profile/themes/stanford_basic/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://tml.stanford.edu/publications/2017/preparing-unknown-learning-universal-policy-online-system-identification" />
+<link rel="shortlink" href="https://tml.stanford.edu/node/321" />
+
+
+              <link rel="apple-touch-icon" sizes="60x60" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www-media.stanford.edu/assets/favicon/apple-touch-icon-180x180.png" />
+
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-196x196.png" sizes="196x196" />
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-192x192.png" sizes="192x192" />
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-128.png" sizes="128x128" />
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="https://www-media.stanford.edu/assets/favicon/favicon-16x16.png" sizes="16x16" />
+      
+    <link rel="mask-icon" href="https://www-media.stanford.edu/assets/favicon/safari-pinned-tab.svg" color="#ffffff">
+    <meta name="application-name" content="Stanford University"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="https://www-media.stanford.edu/assets/favicon/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="https://www-media.stanford.edu/assets/favicon/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="https://www-media.stanford.edu/assets/favicon/mstile-150x150.png" />
+    <meta name="msapplication-square310x310logo" content="https://www-media.stanford.edu/assets/favicon/mstile-310x310.png" />
+
+    <title>Preparing for the Unknown: Learning a Universal Policy with Online System Identification | The Movement Lab</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/sbiybj24676/files/css/css_Mugefs7H_ygmfG1wUqxOC9SZVe1SAHQw-QXWPX7uEU8.css?delta=0&amp;language=en&amp;theme=stanford_basic&amp;include=eJyNkFGOwyAMRC-E4EiRA07jLmCEoZTbb9I2m1RqtP1BeOZhD7ac0bhcE3gNV7grvBdP8WfTXqWaOBZoKBzQHO664biW8i-gZaagrjUkKZDLUMlYDokjrqaF7N7NY_HueOhciwroCMxEvmBe3qdCHFWCDJcMaZbtA7uia0x19CQzOrV0ixNnN4wgZM3j3MXniOHQbck5WPY1xJ16JnAkaeF3OWVeUuEgpXuULe6Z_TdDZwR7nPnFk9aFWr-ckif6gV8XYmHdnYnsUH9yPuM3wiYnfJeCYV0qqgf2ggO76vEXDX37MQ" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/v4-shims.css" />
+<link rel="stylesheet" media="all" href="/sites/g/files/sbiybj24676/files/css/css_auhBBa52LBYFwD0CKbr64ddmhnAEuKQoo7dz8pXT7us.css?delta=3&amp;language=en&amp;theme=stanford_basic&amp;include=eJyNkFGOwyAMRC-E4EiRA07jLmCEoZTbb9I2m1RqtP1BeOZhD7ac0bhcE3gNV7grvBdP8WfTXqWaOBZoKBzQHO664biW8i-gZaagrjUkKZDLUMlYDokjrqaF7N7NY_HueOhciwroCMxEvmBe3qdCHFWCDJcMaZbtA7uia0x19CQzOrV0ixNnN4wgZM3j3MXniOHQbck5WPY1xJ16JnAkaeF3OWVeUuEgpXuULe6Z_TdDZwR7nPnFk9aFWr-ckif6gV8XYmHdnYnsUH9yPuM3wiYnfJeCYV0qqgf2ggO76vEXDX37MQ" />
+<link rel="stylesheet" media="all" href="/sites/g/files/sbiybj24676/files/css/css_JFvSNgNZBh5VWDRbPzvj-U9hsXN0MA9FyqOXDEC9lNo.css?delta=4&amp;language=en&amp;theme=stanford_basic&amp;include=eJyNkFGOwyAMRC-E4EiRA07jLmCEoZTbb9I2m1RqtP1BeOZhD7ac0bhcE3gNV7grvBdP8WfTXqWaOBZoKBzQHO664biW8i-gZaagrjUkKZDLUMlYDokjrqaF7N7NY_HueOhciwroCMxEvmBe3qdCHFWCDJcMaZbtA7uia0x19CQzOrV0ixNnN4wgZM3j3MXniOHQbck5WPY1xJ16JnAkaeF3OWVeUuEgpXuULe6Z_TdDZwR7nPnFk9aFWr-ckif6gV8XYmHdnYnsUH9yPuM3wiYnfJeCYV0qqgf2ggO76vEXDX37MQ" />
+<link rel="stylesheet" media="print" href="/sites/g/files/sbiybj24676/files/css/css_tZIeCIS4JRnKB8x0OJTwtLZhWUKWR1Oqr30fHU961WI.css?delta=5&amp;language=en&amp;theme=stanford_basic&amp;include=eJyNkFGOwyAMRC-E4EiRA07jLmCEoZTbb9I2m1RqtP1BeOZhD7ac0bhcE3gNV7grvBdP8WfTXqWaOBZoKBzQHO664biW8i-gZaagrjUkKZDLUMlYDokjrqaF7N7NY_HueOhciwroCMxEvmBe3qdCHFWCDJcMaZbtA7uia0x19CQzOrV0ixNnN4wgZM3j3MXniOHQbck5WPY1xJ16JnAkaeF3OWVeUuEgpXuULe6Z_TdDZwR7nPnFk9aFWr-ckif6gV8XYmHdnYnsUH9yPuM3wiYnfJeCYV0qqgf2ggO76vEXDX37MQ" />
+
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+
+
+                      <!-- Global analytics tag (gtag.js) - Google Analytics -->
+        <script async src="//www.googletagmanager.com/gtag/js?id=G-BECJQXLNCY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-BECJQXLNCY', {cookie_domain: window.location.host, cookie_prefix: "sws", "ga-expire": 15552000});
+        </script>
+                </head>
+            <body class="sws-acsf page-publications-2017-preparing-unknown-learning-universal-policy-online-system-identification section-publications not-front role--anonymous">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<header class="su-masthead su-masthead--right">
+
+              <a href="#main-content" class="visually-hidden focusable su-skipnav su-skipnav--content">
+          Skip to main content
+        </a>
+        <a href="#secondary-navigation" class="visually-hidden focusable su-skipnav su-skipnav--secondary">
+          Skip to secondary navigation
+        </a>
+      
+      
+<div class="su-brand-bar su-brand-bar--default">
+  <div class="su-brand-bar__container"><a  class="su-brand-bar__logo" href="https://www.stanford.edu">Stanford University<span class="su-brand-bar__link--a11y"> (link is external)</span>
+  </a></div>
+</div>
+
+<section class="su-masthead--inner" aria-label="Page logo, menu and search">
+        <div  id="block-stanford-basic-branding" class="su-lockup su-lockup--option-none">
+    <a href="https://tml.stanford.edu/" >
+  <div class="su-lockup__cell1">
+          <div class="su-lockup__logo-wrapper">
+      <img src="/sites/g/files/sbiybj24676/files/2022-05/tml-long-logo.png" alt="The Movement Lab" class="su-lockup__custom-logo" />
+          </div>
+    </div>        </a>
+  </div>
+
+
+        
+        <div id="block-stanford-basic-main-navigation" class="system-menu-block main">
+      <nav class="su-multi-menu su-multi-menu--buttons su-multi-menu--right no-js" aria-label="main menu">
+    <button class="su-multi-menu__nav-toggle su-multi-menu__nav-toggle--right " aria-expanded="false">Menu</button>
+    <ul class="su-multi-menu__menu su-multi-menu__menu-lv1"><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/"><span class="su-multi-menu__link-text-wrapper">Home</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/people" data-toggle="tooltip" title="A listing of people types"><span class="su-multi-menu__link-text-wrapper">People</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/publications" data-toggle="tooltip" title="publication list"><span class="su-multi-menu__link-text-wrapper">Publications</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/resources"><span class="su-multi-menu__link-text-wrapper">Resources</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/courses"><span class="su-multi-menu__link-text-wrapper">Courses</span></a></li><li class="su-multi-menu__item"><a class="su-multi-menu__link" href="/join" data-toggle="tooltip" title="Join TML!"><span class="su-multi-menu__link-text-wrapper">Join</span></a></li></ul></nav>
+
+  </div>
+
+
+      </section>
+    </header><main class="page-content" id="page-content"><div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-stanford-basic-content" class="system-main-block block-system block-stanford-basic-content">
+  
+    
+      
+
+<section class="node publication node--layout-full">
+      <div class="content">
+    
+
+
+  
+
+<div class="jumpstart-ui--one-column centered-container">
+    <div  class="main-region flex-12-of-12">
+      
+
+<div class="extra-field-block node-stanford-publication-citation-type block-layout-builder">
+  
+    
+      Journal Article
+  </div>
+
+
+<div class="field-block node-stanford-publication-title block-layout-builder">
+  
+    
+      <div class="node stanford-publication title string label-hidden"><h1>Preparing for the Unknown: Learning a Universal Policy with Online System Identification</h1>
+</div>
+
+  </div>
+
+    </div>
+</div>
+
+    
+    
+<div class="jumpstart-ui--two-column flex-container centered-container">
+
+      <div  class="left-region flex-lg-9-of-12">
+      
+
+<div class="field-block node-stanford-publication-su-publication-components block-layout-builder">
+  
+    
+      
+
+
+
+
+      <div class="node stanford-publication su-publication-components entity-reference-revisions label-hidden">
+              <div class="paragraph-item ptype-stanford-layout">  <div class="ptype-stanford-layout paragraph paragraph--type--stanford-layout paragraph--view-mode--default">
+          
+  <div class="layout layout--layout-paragraphs-one-column">
+
+          <div  class="layout__region layout__region--main">
+          <div class="ptype-stanford-wysiwyg paragraph paragraph--type--stanford-wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+            <div class="su-wysiwyg-text paragraph stanford-wysiwyg text-long label-hidden"><div class="align-left media-entity-wrapper image">
+  
+  
+
+
+
+
+            <div class="media image field-media-image label-hidden">  <img loading="lazy" src="/sites/g/files/sbiybj24676/files/styles/large/public/media/image/screen_shot_2022-05-04_at_10.37.07_pm_0.png?itok=JJGJ2jlb" width="480" height="232" alt="overview">
+
+
+</div>
+      
+</div>
+
+
+<p>We present a new method of learning control policies that successfully operate under unknown dynamic models. We create such policies by leveraging a large number of training examples that are generated using a physical simulator. Our system is made of two components: a Universal Policy (UP) and a function for Online System Identification (OSI). We describe our control policy as universal because it is trained over a wide array of dynamic models. These variations in the dynamic model may include differences in mass and inertia of the robots' components, variable friction coefficients, or unknown mass of an object to be manipulated. By training the Universal Policy with this variation, the control policy is prepared for a wider array of possible conditions when executed in an unknown environment. The second part of our system uses the recent state and action history of the system to predict the dynamics model parameters mu. The value of mu from the Online System Identification is then provided as input to the control policy (along with the system state). Together, UP-OSI is a robust control policy that can be used across a wide range of dynamic models, and that is also responsive to sudden changes in the environment. We have evaluated the performance of this system on a variety of tasks, including the problem of cart-pole swing-up, the double inverted pendulum, locomotion of a hopper, and block-throwing of a manipulator. UP-OSI is effective at these tasks across a wide range of dynamic models. Moreover, when tested with dynamic models outside of the training range, UP-OSI outperforms the Universal Policy alone, even when UP is given the actual value of the model dynamics. In addition to the benefits of creating more robust controllers, UP-OSI also holds out promise of narrowing the Reality Gap between simulated and real physical systems.</p>
+
+<p><a href="https://arxiv.org/pdf/1702.02453.pdf">Paper</a> &nbsp; <a href="https://github.com/VincentYu68/policy_transfer">Code</a> &nbsp; <a href="https://www.youtube.com/watch?v=MWf6mcwPSW0">Video</a></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+    </div>
+  
+      <div  class="flex-lg-3-of-12 main-region">
+      
+
+<div class="field-block node-stanford-publication-su-publication-citation block-layout-builder">
+  
+    
+      
+
+
+
+
+            <div class="node stanford-publication su-publication-citation entity-reference label-hidden">
+
+
+
+
+  <div class="su-margin-bottom-2 citation su-article-journal su-author name label-above">
+    <div>Author(s)</div>
+        <div>
+                    <div>Wenhao Yu</div>
+              <div>Jie Tan</div>
+              <div>C. Karen Liu</div>
+              <div>Greg Turk</div>
+                </div>
+      </div>
+
+
+
+
+
+  <div class="su-margin-bottom-2 citation su-article-journal su-publisher string label-above">
+    <div>Journal Name</div>
+                  <div>Robotics: Science and Systems (RSS), 2017</div>
+              </div>
+
+
+
+
+
+  <div class="su-margin-bottom-2 citation su-article-journal su-year integer label-above">
+    <div>Publication Date</div>
+                  <div>June, 2017</div>
+              </div>
+</div>
+      
+  </div>
+
+    </div>
+  
+</div>
+
+
+
+  
+            
+<div class="jumpstart-ui--one-column centered-container centered-content">
+    <div  class="main-region flex-12-of-12">
+      
+
+<div class="field-block node-stanford-publication-su-publication-topics block-layout-builder">
+  
+      <h2 class="block__title">Related Topics</h2>
+    
+      
+
+
+
+
+      <div class="node stanford-publication su-publication-topics entity-reference label-hidden">
+              <div><ul><li><a href="/publications/2017" hreflang="en">2017</a></li></ul></div>
+          </div>
+  
+  </div>
+<div class="views-element-container views-block stanford-publications-related block-views">
+  
+      <h2 class="block__title">More Publications</h2>
+    
+      <div><div class="view stanford-publications related js-view-dom-id-9243717cb1a0c4b2382176a183d08b63dd043394f8c057ca56db4b007276eada">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="su-list-unstyled grid-container-3">
+
+          <li class="su-margin-top-1 su-margin-bottom-3"><article  class="su-card ">
+    
+  
+<div class="su-card__contents">
+                  <div class="su-card__superhead">
+  Journal Article
+</div>
+              <h2>
+<a href="/publications/2015/soft-body-locomotion">Soft Body Locomotion</a></h2>
+                  
+<a href="/publications/2015-0" hreflang="en">Before 2015</a>
+          </div></article>
+
+</li>
+          <li class="su-margin-top-1 su-margin-bottom-3"><article  class="su-card ">
+    
+  
+<div class="su-card__contents">
+                  <div class="su-card__superhead">
+  Journal Article
+</div>
+              <h2>
+<a href="/publications/performance-based-control-interface-character-animation">Performance-Based Control Interface for Character Animation</a></h2>
+                  
+
+          </div></article>
+
+</li>
+          <li class="su-margin-top-1 su-margin-bottom-3"><article  class="su-card ">
+    
+  
+<div class="su-card__contents">
+                  <div class="su-card__superhead">
+  Journal Article
+</div>
+              <h2>
+<a href="/publications/2024/simulation-framework-determine-optimal-strength-training-and-musculoskeletal">A simulation framework to determine optimal strength training and musculoskeletal geometry for sprinting and distance running</a></h2>
+                  
+<a href="/publications/2024" hreflang="en">2024</a>
+          </div></article>
+
+</li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  <div class="more-link"><a href="/publications">See All Publications</a></div>
+
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+</div>
+
+  </div><!-- /.content --></section><!-- /.node as page -->
+
+  </div>
+
+<button id="back-to-top">
+    <span class="fas fa-chevron-up"></span>
+    Back to Top
+  </button>
+</main>
+
+<footer id="footer">
+    
+<div class="su-global-footer ">
+  <div class="su-global-footer__container">
+    <div class="su-global-footer__brand">
+<a  id="su-logo" class="su-logo " aria-hidden="true" tabindex="-1" href="https://www.stanford.edu">Stanford<br>University<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a>
+</div>
+    <div class="su-global-footer__content">
+      <nav aria-label="global footer menu">
+        <ul class="su-global-footer__menu su-global-footer__menu--global">
+          <li><a href="https://www.stanford.edu" rel="nofollow">Stanford Home<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://visit.stanford.edu/basics/" rel="nofollow">Maps &amp; Directions<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/search/" rel="nofollow">Search Stanford<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://emergency.stanford.edu" rel="nofollow">Emergency Info<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+        </ul>
+        <ul class="su-global-footer__menu su-global-footer__menu--policy">
+          <li><a href="https://www.stanford.edu/site/terms/" rel="nofollow"
+                 title="Terms of use for sites">Terms of Use<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/site/privacy/" rel="nofollow"
+                 title="Privacy and cookie policy">Privacy<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://uit.stanford.edu/security/copyright-infringement" rel="nofollow"
+                 title="Report alleged copyright infringement">Copyright<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4" rel="nofollow"
+                 title="Ownership and use of Stanford trademarks and images">Trademarks<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://non-discrimination.stanford.edu/" rel="nofollow"
+                 title="Non-discrimination policy">Non-Discrimination<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+          <li><a href="https://www.stanford.edu/site/accessibility" rel="nofollow"
+                 title="Report web accessibility issues">Accessibility<span class="su-global-footer__link-a11y"> (link is external)</span>
+  </a></li>
+        </ul>
+      </nav>
+      <div class="su-global-footer__copyright">
+        <span>&copy; Stanford University.</span>
+        <span>&nbsp; Stanford, California 94305.</span>
+      </div>
+    </div>
+  </div>
+</div> <!-- su-global-footer end -->
+</footer>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/321","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNkmuOgzAMhC8UJUdCbmKKu3kpdkq5_abQB3QX0T8R_jK2Z1DwJp7ij3GlZvAal1L1KQqMyCmgWX3rEU_3kg8FmgcK6lJDZoEiXSVzAsYtWRfbGw9TqqICOgLTkxcs2kIWSlFlKHAukAd-un4TXWOuJ088oFNtWuxTcV3bTNbM5ye0zSxG0S88t1uYN73gYqdbbU4RO5t8DSvV4tYR56Z_41xSS4DdgD5jMUyCFBq8ooYIfhKy_FfNMnnk54_Yu47J4YH3j45XBn0w-i0sCHYd_ouWcWIap_Oucoer_6J8FXIlvxKOvKOfWDAsL7FSiyTtYUU2ForT90PNzY8RcIHbBoTkqsdf0RNIaQ","theme":"stanford_basic","theme_token":null},"ajaxTrustedUrl":[],"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"su-link su-link--external","extLabel":" (link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".localist-widget, #lclst_widget_footer, .oembed-lazyload__button","extCssExplicit":"#page-content, .su-local-footer","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":" (link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"stanford_basic":{"nav_dropdown_enabled":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:9243717cb1a0c4b2382176a183d08b63dd043394f8c057ca56db4b007276eada":{"view_name":"stanford_publications","view_display_id":"related","view_args":"321","view_path":"\/node\/321","view_base_path":null,"view_dom_id":"9243717cb1a0c4b2382176a183d08b63dd043394f8c057ca56db4b007276eada","pager_element":0}}},"user":{"uid":0,"permissionsHash":"fd2f4286ef10497eecae0506d82617aee4f6e42f05ab3a1485b860d14a9909b9"}}</script>
+<script src="/sites/g/files/sbiybj24676/files/js/js_eyJWvFCJ7Xut_uJbJ_icQGYeYfNg2uZEVkPnE_mXVL8.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=stanford_basic&amp;include=eJxNiEEOgzAMwD5UNU-qMhq0sLREScrg90PsABfLNu0h3D9QbShKpn-mZTT1QIsyGJ6RTunzarW80HmCi_dsVBmhsqvgcW-1dWah8iZRMnAO4nbOjTJ2lCN48rQxfR0uZlxw_wHo_z3e"></script>
+
+      </body>
+</html>

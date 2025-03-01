@@ -1,0 +1,12 @@
+{
+  "title": "Alvin Zhang, Ph.D. Computational Scientist and Engineer | Welcome! This is my personal site and work portfolio.",
+  "meta_description": "Welcome! This is my personal site and work portfolio.",
+  "main_content": "Officially, I am a Ph.D in Mechanical Engineering from Rensselaer Polytechnic Institute specializing in computational fluid dynamics. Functionally, I am a scientific software engineer that currently develops methods to more efficiently simulate the behavior of flows involving air and water. Specifically, I am developing and implementing methods on the United States Army Corps of Engineers - Engineering Research Center and Development (USACE-ERDC) open-source multiphase toolkit, Proteus. My research focuses on estimating the local spatial discretization error by looking at the underlying finite element method and subsequently modifying the spatial discretization mid-simulation to reduce or distribute the discretization errors more evenly. The goal is to achieve high-fidelity simulations with significantly less cost. To give a visual sense of what this all might mean, I present to you a breaking water dam simulation with an obstacle in an isometric view: That simulation above took around 150 hours on a supercomputer to complete with around 224 processors. That means that if you somehow had the memory on your personal computer, which generally has around 4 processors or cores, it would take about a year for this simulation to finish. Missing from the animation is how spatial discretization plays a role. We can take a look at the same animation but in a side-view with the underlying discretization exposed: We can see that with the right tools, we can dynamically adjust the discretization/resolution to accurately capture the flow. And to really emphasize the importance of computational science, I\u2019ve linked my prize-winning 3-minute thesis presentation which is intended for a more general audience:",
+  "links": [],
+  "images": [
+    {
+      "src": "pictures/Profile3.jpg",
+      "alt": ""
+    }
+  ]
+}

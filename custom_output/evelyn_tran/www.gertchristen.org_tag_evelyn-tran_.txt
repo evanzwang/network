@@ -1,0 +1,130 @@
+            [Home](https://www.gertchristen.org/)
+            [News](http://www.gertchristen.org/category/newsletter/)
+            [Musings](https://www.gertchristen.org/category/gerts-musings/)
+            [About Gert Christen](https://www.gertchristen.org/about-gert/)
+            [Twitter](http://www.twitter.com/gertchristen)
+            [LinkedIn](http://www.linkedin.com/in/gertchristen)
+            [Contact](https://www.gertchristen.org/contact/)
+      end #header-top
+        end #site-header
+          [Gert Christen.org](https://www.gertchristen.org/)
+        I like and work the business of innovation!
+      end #site-title
+        Menu
+              [Internationalization](https://www.gertchristen.org/category/international-business-development/)
+              [Technology](https://www.gertchristen.org/category/technology/)
+              [Startups](https://www.gertchristen.org/category/startups/)
+        end #site-nav
+          Close Menu
+      end #mobile-menu-wrap
+    end #masthead
+          All posts tagged:
+            Evelyn Tran
+        end .archive-header
+          end .entry-thumbnail
+              [“Connected Life” Startup Class at UC Berkeley](https://www.gertchristen.org/connected-life-startup-class-at-uc-berkeley/)
+              Published by
+                [Gert Christen](https://www.gertchristen.org/author/gertorg/)
+              end .entry-author
+            end .entry-details
+          end .entry-header
+            I just finished teaching my latest course at UC Berkeley, “Connected Life”. In this course, we examined our “always-on” lifestyle and how this expectation of being ever-connected in our social and professional lives continues to develop, especially in a post-COVID world that allows for work via connectivity. We examined connectedness from an entrepreneurial standpoint to solve previously unsolvable problems using apps, data, IoT for machines, AI for decision-making, robotics for automation, and beyond. The course explored practical applications of e.g. 5G-connected smartphones, machines, and sensors, empowering entrepreneurs to solve previously unsolvable problems. For example, a surgeon can now use technology to save patients’ lives on the other side of the world, or anyone can be automatically alerted if a faraway family member needs help. However, questionable uses have also appeared, such as the constant battle to protect private data against illegal use for commercial, political, or criminal gain.  The course explored the use of technologies at the foundation of connectivity for people, communities, businesses, factories, and the environment and what happens when there is a lack of equity in …
+          .entry-summary
+              [December 30, 2022](https://www.gertchristen.org/connected-life-startup-class-at-uc-berkeley/)
+            end .entry-date
+              [comment 1](https://www.gertchristen.org/connected-life-startup-class-at-uc-berkeley/#comments)
+            end .entry-comments
+              [All](https://www.gertchristen.org/category/all/)
+              /
+            end .entry-cats
+          end .entry-meta
+        end post -1768
+              [Digigram Newsletter of December 2022](https://www.gertchristen.org/digigram-december-2022/)
+            Welcome back to DIGIGRAM! After a bit of a hiatus, I am back to give you an update on the latest topics, trends, and stories from Silicon Valley and beyond. A lot has happened in the world over the last year. While a lot of gloom befell the world, there have also been some incredible milestones this year. There is much to celebrate that happened in 2022! For instance, in the last year, we’ve had these incredible technological and scientific breakthroughs: The United States Senate passed a bill to boost domestic chip manufacturing. The law also includes $67 billion to fund research into how to slow down climate change, a new record! I hope that a significant portion will go towards developing climate technologies. A new report found that if the current pace of wind and solar growth continues, the world will meet its climate targets. Switzerland qualified for the last 16 nations at the soccer World Cup. And was promptly eliminated by Portugal – oh well… In this edition of Digigram: #1: Mitipi and KEVIN’s …
+              [December 20, 2022](https://www.gertchristen.org/digigram-december-2022/)
+                Leave a comment
+        end post -1652
+      end #primary
+          end .quote-wrap
+          Newsletter
+          Mailchimp for WordPress v4.10.2 - https://wordpress.org/plugins/mailchimp-for-wp/
+                Email address:
+            Leave this field empty if you're human:
+          / Mailchimp for WordPress Plugin
+          Categories
+          Find me on:
+                [Facebook](https://www.facebook.com/GertChristenOrg)
+                [Email](mailto:gert.christen@artecos.ch)
+          Tag Cloud
+            [AI](https://www.gertchristen.org/tag/ai/)
+            [Amazon](https://www.gertchristen.org/tag/amazon-2/)
+            [AR](https://www.gertchristen.org/tag/ar/)
+            [artificial intelligence](https://www.gertchristen.org/tag/artificial-intelligence/)
+            [autonomous vehicles](https://www.gertchristen.org/tag/autonomous-vehicles/)
+            [blockchain](https://www.gertchristen.org/tag/blockchain/)
+            [BlueLion](https://www.gertchristen.org/tag/bluelion/)
+            [cable](https://www.gertchristen.org/tag/cable/)
+            [Climate Change](https://www.gertchristen.org/tag/climate-change/)
+            [Connected Life](https://www.gertchristen.org/tag/connected-life/)
+            [data science](https://www.gertchristen.org/tag/data-science/)
+            [design thinking](https://www.gertchristen.org/tag/design-thinking/)
+            [digigram](https://www.gertchristen.org/tag/digigram/)
+            [Digital](https://www.gertchristen.org/tag/digital/)
+            [Digital leadership](https://www.gertchristen.org/tag/digital-leadership/)
+            [Digital revolution](https://www.gertchristen.org/tag/digital-revolution/)
+            [disruption](https://www.gertchristen.org/tag/disruption/)
+            [Economic development](https://www.gertchristen.org/tag/economic-development/)
+            [facebook](https://www.gertchristen.org/tag/facebook/)
+            [Future](https://www.gertchristen.org/tag/future/)
+            [Gert's Digi Blog](https://www.gertchristen.org/tag/gerts-digi-blog/)
+            [Gert's Digigram](https://www.gertchristen.org/tag/gerts-digigram/)
+            [Google](https://www.gertchristen.org/tag/google/)
+            [GovTech](https://www.gertchristen.org/tag/govtech/)
+            [HWZ](https://www.gertchristen.org/tag/hwz/)
+            [Innovation](https://www.gertchristen.org/tag/innovation/)
+            [International](https://www.gertchristen.org/tag/international/)
+            [Magic Leap](https://www.gertchristen.org/tag/magic-leap/)
+            [Mitipi](https://www.gertchristen.org/tag/mitipi/)
+            [San Francisco](https://www.gertchristen.org/tag/san-francisco/)
+            [self-driving cars](https://www.gertchristen.org/tag/self-driving-cars/)
+            [Silicon Valley](https://www.gertchristen.org/tag/silicon-valley/)
+            [Startup](https://www.gertchristen.org/tag/startup/)
+            [Streaming](https://www.gertchristen.org/tag/streaming/)
+            [tech trends](https://www.gertchristen.org/tag/tech-trends/)
+            [TikTok](https://www.gertchristen.org/tag/tiktok/)
+            [trends](https://www.gertchristen.org/tag/trends/)
+            [UC Berkeley](https://www.gertchristen.org/tag/uc-berkeley/)
+            [USA Launching Pad](https://www.gertchristen.org/tag/usa-launching-pad/)
+            [VR](https://www.gertchristen.org/tag/vr/)
+            [XaaS](https://www.gertchristen.org/tag/xaas/)
+            [Follow me on Facebook](https://www.facebook.com/GertChristenOrg)
+      end #blog-sidebar
+        end #footer-two
+            Contact Gert Christen
+                [ArtEco Services](https://maps.google.com/maps?z=16&q=arteco%2Bservices%2Bsan%2Bfrancisco%2C%2Bca%2Busa)
+                +1 650 441 6299
+        end #footer-three
+            Notes
+                  [Disclaimer](https://www.gertchristen.org/disclaimer/)
+        end #footer-four
+      end #footerwidgets-wrap
+          Follow Us
+        end #footer-social
+            Copyright © 2015 Gert Christen.org.  Theme: Zuki by
+              [Elmastudio](http://www.elmastudio.de/wordpress/zuki-minimalistisches-wordpress-magazin-theme/)
+              . Supported by
+              [paperclip](http://www.paperclip.ch)
+              .
+          end .credit
+        end #site-info
+      end #colophon
+    end #main-wrap
+  end #container
+      The Carousel Swiper
+      The main close buton
+      Image info, comments and meta
+                Loading Comments...
+                  Write a Comment...
+                        Email (Required)
+                        Name (Required)
+                        Website

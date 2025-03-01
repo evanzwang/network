@@ -1,0 +1,409 @@
+{
+  "title": "People",
+  "meta_description": "We are the IRIS lab at Stanford. We are interested in the capability of robots and other agents to develop broadly intelligent behavior through learning and interaction. To that end, we work on robotics and machine learning.",
+  "main_content": "Lab Members Chelsea Finn Professor Karl Pertsch Postdoc Yuejiang Liu Postdoc Kaylee Burns PhD Student Kyle Hsu PhD Student Alexander Khazatsky PhD Student Annie Chen PhD Student Yoonho Lee PhD Student Tony Z. Zhao PhD Student Zipeng Fu PhD Student Rafael Rafailov PhD Student Jonathan Yang PhD Student Moo Jin Kim PhD Student Tian Gao PhD Student Anikait Singh PhD Student Lucy Shi Rotating PhD Student Marcel Torne Villasevil Rotating PhD Student Kyle Hatch MS Student Qi Wu MS Student Katherine Tian Visiting Researcher Logan Mondal Bhamidipaty Undergrad Rhea Malhotra Undergrad Maximilian Du Undergrad Govind Chada Undergrad Takao Yatagai Undergrad Rehaan Ahmad Undergrad Olivia Lee Undergrad Moritz Stephan Undergrad Sergio Charles Undergrad David Yuan Undergrad Niveditha S. Iyer Undergrad Patricia Strutz Undergrad Kaien Yang Undergrad Nathan Hu Undergrad Charles Lin Undergrad Isabel Sieh Undergrad Johnathan Xie Undergrad Lab Alumni Postdocs Ali Ghadirzadeh -- Machine learning research engineer at Embark Studios Huaxiu Yao -- Assistant Professor at University of North Carolina at Chapel Hill PhD students Frederik Ebert -- Founder and CEO of Emancro Tianhe Yu -- Research scientist at Google Suraj Nair -- Research scientist at Toyota Research Institute Evan Z. Liu -- Member of the Technical Staff at Generally Intelligent Annie Xie -- Research scientist at Google DeepMind Eric Mitchell Allan Zhou -- Research scientist at Google DeepMind Archit Sharma Visiting PhD students Lisa Lee -- Research scientist at Google Will Dorrell Masters students Henrik Marklund -- PhD student at Stanford Ahmed Ahmed -- PhD student at Stanford Fahim Tajwar -- PhD student at CMU Undergrads Annie Chen -- PhD student at Stanford Tom Knowles -- Aurora HyunJi (Alex) Nam -- PhD student at Stanford Bezhad Haghgoo -- Co-founder and CEO of Tym Rayan Krishnan Leo Dong Nikhil Sardana Caroline Choi -- PhD student at Stanford",
+  "links": [
+    {
+      "url": "https://ai.stanford.edu/~cbfinn/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/chelseabfinn",
+      "text": ""
+    },
+    {
+      "url": "https://kpertsch.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/karlpertsch",
+      "text": ""
+    },
+    {
+      "url": "https://sites.google.com/view/yuejiangliu",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/yue_jiang_liu",
+      "text": ""
+    },
+    {
+      "url": "https://kayburns.github.io",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/kaylburns",
+      "text": ""
+    },
+    {
+      "url": "https://www.kylehsu.org/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/kylehkhsu",
+      "text": ""
+    },
+    {
+      "url": "https://anniesch.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/_anniechen_",
+      "text": ""
+    },
+    {
+      "url": "https://yoonholee.com/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/yoonholeee",
+      "text": ""
+    },
+    {
+      "url": "https://tonyzhaozh.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/tonyzzhao",
+      "text": ""
+    },
+    {
+      "url": "https://zipengfu.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/zipengfu",
+      "text": ""
+    },
+    {
+      "url": "https://rmrafailov.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/rm_rafailov",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/jonathan-yang-7b5542124",
+      "text": ""
+    },
+    {
+      "url": "https://moojink.com",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/moo_jin_kim",
+      "text": ""
+    },
+    {
+      "url": "https://skybhh19.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://asap7772.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/Anikait_Singh_",
+      "text": ""
+    },
+    {
+      "url": "https://lucys0.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/lucy_x_shi",
+      "text": ""
+    },
+    {
+      "url": "https://marceltorne.github.io",
+      "text": ""
+    },
+    {
+      "url": "https://x.com/marceltornev",
+      "text": ""
+    },
+    {
+      "url": "https://khatch31.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://wooqi57.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/katherine-tian/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/kattian_",
+      "text": ""
+    },
+    {
+      "url": "https://logan-mondal-bhamidipaty.com/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/loganmb_",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/rhea-mal/",
+      "text": ""
+    },
+    {
+      "url": "https://www.maximiliandu.com/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/du_maximilian",
+      "text": ""
+    },
+    {
+      "url": "https://oliviaylee.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://twitter.com/olivia_y_lee",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/moritz-stephan/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/sergio-charles-5a8052134/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/dewei-yuan/",
+      "text": ""
+    },
+    {
+      "url": "https://pstrutz.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/kaienyang/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/isabelsieh/",
+      "text": ""
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=bPX8_8AAAAAJ&hl=en",
+      "text": "Ali Ghadirzadeh"
+    },
+    {
+      "url": "https://www.huaxiuyao.io/",
+      "text": "Huaxiu Yao"
+    },
+    {
+      "url": "https://febert.github.io/",
+      "text": "Frederik Ebert"
+    },
+    {
+      "url": "https://cs.stanford.edu/~tianheyu/",
+      "text": "Tianhe Yu"
+    },
+    {
+      "url": "http://surajnair.com/",
+      "text": "Suraj Nair"
+    },
+    {
+      "url": "http://ezliu.github.io/",
+      "text": "Evan Z. Liu"
+    },
+    {
+      "url": "https://anxie.github.io/",
+      "text": "Annie Xie"
+    },
+    {
+      "url": "https://ericmitchell.ai/",
+      "text": "Eric Mitchell"
+    },
+    {
+      "url": "http://bland.website/",
+      "text": "Allan Zhou"
+    },
+    {
+      "url": "https://architsharma97.github.io/",
+      "text": "Archit Sharma"
+    },
+    {
+      "url": "https://leelisa.com/",
+      "text": "Lisa Lee"
+    },
+    {
+      "url": "https://www.williamdorrell.co.uk/",
+      "text": "Will Dorrell"
+    },
+    {
+      "url": "https://tajwarfahim.github.io/",
+      "text": "Fahim Tajwar"
+    },
+    {
+      "url": "https://anniesch.github.io/",
+      "text": "Annie Chen"
+    },
+    {
+      "url": "https://tomknowles.com/",
+      "text": "Tom Knowles"
+    },
+    {
+      "url": "https://cchoi1.github.io/",
+      "text": "Caroline Choi"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/people/chelsea-finn.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/karl-pertsch.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/yuejiang-liu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/kaylee.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/kyle-hsu.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/sasha.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/annie-chen.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/yoonho.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/tonyz.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/zipeng-fu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/rafael.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/jonathan-yang.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/moojin.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/tian-gao.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/anikait-singh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/lucys.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/marcel.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/kyle-hatch.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/qi_wu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/kat_tian.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/logan-bhamidipaty.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/rhea-malhotra.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/maximilian-du.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/govind-chada.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/takao-yatagai.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/reehan-ahmad.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/olivia-lee.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/moritz-stephan.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/sergio-charles.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/david-yuan.png",
+      "alt": ""
+    },
+    {
+      "src": "images/people/niveditha-iyer.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/patricia-strutz.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/kaien-yang.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/nathan-hu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/missing.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/isabel-sieh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/people/missing.jpg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+        = link_to("Sign In", login_path, :rel => 'facebox')
+        \/
+        = link_to("Register", register_path)
+        [Sign Up For Card Player's Newsletter And Free Bi-Monthly Online Magazine](/newsletter/subscribe)
+      = render('shared/sitewrap')
+          LEARN HOW
+          TO PLAY
+          % %li= link_to('Card Player Poker School', 'https://cardplayer.pokercoaching.com/courses/')
+            [Play Poker For Free](/online-poker-bonus/59-global-poker)
+            [Poker Rules](/rules-of-poker/how-to-play-poker)
+            [Strategy Articles](/poker-strategy)
+            [Basic Odds And Outs](/poker-tools/odds-and-outs)
+            [Pro Hand Matchups](/poker-tools/hand-matchups)
+            [Poker Software](/online-poker/best-poker-software)
+          ONLINE
+          POKER
+            [Online Poker Bonus](/online-poker/best-poker-bonuses)
+            [Crypto Poker](/online-poker/bitcoin-poker-sites)
+            [Online Poker Apps](/online-poker/best-poker-apps)
+            [Offshore Poker Sites](/online-poker/offshore-poker-sites)
+          PLAYER
+          DATABASE
+            [Poker News](/poker-news)
+            [Player Results](/poker-players)
+            [Latest Winners](/poker-players)
+            [All-Time Money List](/poker-leaderboards)
+            [Hall Of Fame](/poker-players/poker-hall-of-fame)
+          TOURNAMENTS
+            [Upcoming Events](/poker-tournaments)
+            [Player Of The Year](/poker-players/player-of-the-year/%20)
+            [Leaderboards](/poker-leaderboards)
+            [Las Vegas Tournaments](/lasvegaspoker)
+            [Card Player Poker Tour](http://www.cardplayerpokertour.com)
+            [PokerGO Tour](/poker-tournaments/pgt)
+            [World Series Of Poker](/poker-tournaments/wsop)
+            [World Poker Tour](/poker-tournaments/wpt)
+            [WSOP Circuit](/poker-tournaments/wsop-circuit)
+            [European Poker Tour](/poker-tournaments/ept)
+          %li= link_to('Ladies Events', tournaments_ladies_events_landing_path)
+          CASINOS
+            [Crypto Casinos](/online-casinos/best-bitcoin-casinos)
+            [Fastest Payout Casinos](https://www.cardplayer.com/online-casinos/fast-payout-casinos)
+            [Offshore Casinos](/online-casinos/offshore-casinos)
+            [No KYC Casinos](/online-casinos/no-kyc-casinos)
+            [Inclave Casinos](/online-casinos/inclave-casinos)
+            [Sweepstakes Casinos](/online-casinos/sweepstakes-casinos)
+          POKER ODDS
+          CALCULATOR
+            [Poker Tools](/poker-tools)
+            [Hold'em](/poker-tools/odds-calculator/texas-holdem)
+            [Omaha](/poker-tools/odds-calculator/omaha)
+            [Stud](/poker-tools/odds-calculator/seven-card-stud)
+            [Hand Matchups](/poker-tools/hand-matchups)
+          CARD PLAYER
+          MAGAZINE
+          %li= link_to('Read The Latest Issue', magazines_path)
+            [Get Magazine Delivered](/link/subscribe)
+            [Magazine Archives](/cardplayer-poker-magazines/archives)
+            [Poker Stories Podcast](/poker-podcasts)
+            [Card Player TV](https://www.youtube.com/@cardplayermedia)
+  #sub-nav
+  .container
+  %ul#sub-nav-left
+  %li.first.only-non-restricted-regions=link_to('Poker Bonuses', poker_bonuses_path)
+  %li.only-non-restricted-regions=link_to('Best Online Poker Sites', best_online_sites_path)
+  %li.only-non-restricted-regions=link_to('Best U.S. Poker Rooms', best_us_poker_rooms_path)
+  %li.only-non-restricted-regions=link_to('Free Poker Room', 'https://globalpoker.com/redirect?utm_source=cardplayer&utm_medium=onlinepoker&utm_campaign=bonus', :target => '_blank', :rel => :nofollow)
+  %li.first.only-restricted-regions.all-restricted-regions=link_to('Card Player Poker Tour', 'http://www.cardplayerpokertour.com')
+  %li.only-restricted-regions.all-restricted-regions=link_to('Poker Player of the Year', '/poker-players/player-of-the-year/%20')
+  %li.only-restricted-regions.all-restricted-regions=link_to('Free Poker Room', 'https://globalpoker.com/redirect?utm_source=cardplayer&utm_medium=onlinepoker&utm_campaign=bonus', :target => '_blank', :rel => :nofollow)
+  %ul#sub-nav-right
+  %li.first=link_to("ODDS <br/> CALCULATORS".html_safe, '/poker-tools/odds-calculator/texas-holdem')
+  %li=link_to('HAND <br/> MATCHUPS'.html_safe, '/poker-tools/hand-matchups')
+  %li.last=link_to('CARD PLAYER <br/> POKER SCHOOL'.html_safe, 'https://cardplayer.pokercoaching.com/courses/')
+          Best Online Poker Bonuses
+                ACR Poker
+                Coin Poker
+                Bovada Poker
+                Global Poker
+                Ignition Casino
+                Black Chip Poker
+                BetOnline
+          BEST CASINO BONUSES
+          Poker Training
+              [Card Player Poker School](https://cardplayer.pokercoaching.com/courses/)
+          Newsletter and Magazine
+          [Sign Up](/newsletter/subscribe)
+          %ul#training-list
+        %li
+          Find Your Local
+          Card Room
+              [Casino Poker Rooms](/poker-rooms)
+                [Home](/)
+                :
+                : Poker Goes Ivy League With Match Poker Series At Harvard University
+                  Poker Goes Ivy League With Match Poker Series At Harvard University
+                  Harvard Poker Club Hosts Unique Event
+                  by
+                    [Card Player News Team](/authors/277-card-player-news-team)
+                    |  Published: May 05, 2024
+            The event featured Harvard students in digital competition. The Match Poker format removes the element of luck by ensuring that all players in the same seat positions are dealt identical hands, emphasizing skillful decision-making. The unique format makes poker a team sport and uses a points system to calculate scores for every hand.
+            “The Harvard Match Poker Championships exemplify the spirit of competition and camaraderie that defines our university,” Harvard Poker Club President Natalia Lopez said. “Through this event, students have had the opportunity not only to showcase their strategic acumen but also to develop valuable life skills such as critical thinking, decision-making, and teamwork.”
+              Event Details
+            Organizers view Match Poker as more of a dynamic game of strategy and mental acuity than just a betting game. The game has been recognized as a digital mind sport and eSport, “planting the seed of poker-play in education.”
+            “I personally sponsored this event because I believe Match Poker has the potential to lift the gambling stain off poker,” Harvard law professor Charlie Nesson said. “I want to put across to the Harvard world, and then to the world beyond, what a powerful tool poker, and especially Match Poker, is for teaching young adults the skills of negotiation, risk analysis, and civil discourse.”
+            The Harvard series featured a vibrant fan zone, where the action was streamed in real time with all card information available. The awards ceremony highlighted the event with top-performing teams honored with medals and trophies for their achievements.
+            John Marcucci was named player of the tournament, having performed best over both sessions of play. His team also finished in first place overall.
+              John Marcucci emerged as the best performing individual player at the 2024 Harvard Match Poker Championship, proving his skill over both sessions of play and helping his team take down the inaugural ! Congrats Champ
+                [#Harvard](https://twitter.com/hashtag/Harvard?src=hash&ref_src=twsrc%5Etfw)
+                [#MatchPoker](https://twitter.com/hashtag/MatchPoker?src=hash&ref_src=twsrc%5Etfw)
+                [#Skill](https://twitter.com/hashtag/Skill?src=hash&ref_src=twsrc%5Etfw)
+                [#Poker](https://twitter.com/hashtag/Poker?src=hash&ref_src=twsrc%5Etfw)
+                [#Sport](https://twitter.com/hashtag/Sport?src=hash&ref_src=twsrc%5Etfw)
+                [#MindSport](https://twitter.com/hashtag/MindSport?src=hash&ref_src=twsrc%5Etfw)
+                [pic.twitter.com/mzS4zjRmhK](https://t.co/mzS4zjRmhK)
+              — International Federation of Match Poker (@IFPoker)
+                [April 26, 2024](https://twitter.com/IFPoker/status/1783722098416107956?ref_src=twsrc%5Etfw)
+              Team Results
+                Related Articles
+                  [WATCH: Could You Fold Pocket Kings Preflop?](/poker-news/29872-shocking-poker-hand-could-you-fold-pocket-kings-preflop)
+                  [Friedman Tops PGT $5k 8-Game Field](/poker-news/29871-adam-friedman-dominates-late-stages-wins-pokergo-tour-mixed-games-title)
+                  [Malaysian Takes Down Triton Jeju Event For $1.35M](/poker-news/29870-malaysian-takes-down-triton-poker-jeju-20-000-event-for-1-350-000-payday)
+              Tags:
+              [Poker Tournaments](/search?field=keywords&q=Poker+Tournaments)
+              ,
+              [Poker Event](/search?field=keywords&q=Poker+Event)
+              [Harvard](/search?field=keywords&q=Harvard)
+              [Harvard University](/search?field=keywords&q=Harvard+University)
+              [Ivy League](/search?field=keywords&q=Ivy+League)
+              [Match Poker](/search?field=keywords&q=Match+Poker)
+              [Skill Game](/search?field=keywords&q=Skill+Game)
+              [Poker Skill](/search?field=keywords&q=Poker+Skill)
+              [Team Poker](/search?field=keywords&q=Team+Poker)
+              [Looking for tips and tricks to win more money at the tables? Check out the free Card Player Poker School](http://cardplayerpokerschool.com)
+            Most Viewed Articles
+                  1
+                    [Hellmuth Shoots Airball In Jordan's Former House](/poker-news/29860-poker-legend-phil-hellmuth-tosses-up-an-airball-in-the-house-that-jordan-built)
+                  2
+                    [71-Year-Old Wins L.A. Poker Classic Main Event](/poker-news/29863-71-year-old-mike-nia-wins-l-a-poker-classic-main-event)
+                  3
+                    [WATCH: Chips Fly As Player Flips Over Tables](/poker-news/29852-chips-fly-as-poker-player-flips-over-three-tournament-tables)
+                  4
+                    [The Easy Fix For Poker’s Ultimate 'Endurance Test'](/poker-news/29864-the-easy-fix-for-the-world-series-of-poker-s-ultimate-tournament-endurance-test)
+                  5
+                    [Frenchman Wins WSOPC Harrah's Cherokee Main Event](/poker-news/29854-frenchman-wins-world-series-of-poker-circuit-harrah-s-cherokee-main-event)
+                  6
+                    [WATCH: Insane Bluff Catch In Nearly $1M Pot](/poker-news/29857-watch-insane-high-stakes-poker-bluff-catch-in-nearly-1-million-pot)
+                  7
+                    [Pay Attention To Ranges: The Right Play May Show Itself](/poker-news/29848-poker-strategy-pay-attention-to-ranges-and-the-right-play-may-show-itself)
+                  8
+                    [Soccer Legend Neymar Owed $5M From Poker Debt](/poker-news/29866-pro-boxer-chris-eubank-jr-allegedly-owes-5-million-poker-debt-to-soccer-legend-neymar)
+                  9
+                    [WATCH: High Stakes Poker Triple Barrel Bluff](/poker-news/29853-watch-high-stakes-poker-game-features-six-figure-triple-barrel-bluff)
+                  10
+                    [Nicolas Milgrom's Big Comeback To Win PGT Mixed Games](/poker-news/29859-nicolas-milgrom-makes-big-comeback-to-win-pokergo-mixed-games-kickoff-event)
+                    [Poker Cheat Ali Imsirovic Booted From Texas Tournament](/poker-news/29830-poker-cheater-ali-imsirovic-gets-booted-from-texas-tournament)
+                    [Straight Flush Earns Hawkins 17th WSOPC Ring](/poker-news/29809-straight-flush-earns-maurice-hawkins-17th-world-series-of-poker-circuit-ring)
+                    [WATCH: Mariano Plays Blind And Scoops Rampage](/poker-news/29842-watch-poker-pro-mariano-plays-his-hand-blind-and-brutally-scoops-rampage)
+                    [Three Rings In Five Days For Cody Stanford](/poker-news/29780-cody-stanford-wins-three-world-series-of-poker-circuit-rings-in-five-days)
+                    [Former Casino Owner Emerges From Coma, Feels ‘Fantastic’](/poker-news/29781-former-casino-owner-emerges-from-coma-feels-fantastic)
+                    [Phil Hellmuth Claims He’ll Skip WSOP Main Event](/poker-news/29835-phil-hellmuth-claims-he-ll-skip-world-series-of-poker-main-event)
+                    [Three Titles In Six Weeks For Scott Stewart](/poker-news/29767-three-poker-tournament-titles-in-six-weeks-for-scott-stewart)
+          POPULAR PAGES
+          [Poker Videos](/cptv)
+          [Poker Players](/poker-players)
+          [Poker Leaderboards](/poker-leaderboards)
+          [Poker Blogs](/poker-blogs)
+          [Poker Twitter](/poker-twitter)
+          [Nevada](/regions/NV)
+          [California](/regions/CA)
+          [Florida](/regions/FL)
+          [Pennsylvania](/regions/PA)
+          [New Jersey](/regions/NJ)
+          POKER TOOLS
+          [How to Play Poker](/rules-of-poker/how-to-play-poker)
+          [Poker Hand Rankings](/rules-of-poker/hand-rankings)
+          [Hold'em Poker Odds Calculator](/poker-tools/odds-calculator/texas-holdem)
+          [Omaha Poker Odds Calculator](/poker-tools/odds-calculator/omaha)
+          [Poker Strategy](/poker-strategy)
+          [Poker Magazine](/cardplayer-magazines)
+          POKER TOURNAMENTS
+          [Poker Tournament Rules](/rules-of-poker/tournaments)
+          [Poker Casinos](/poker-tournaments)
+          [World Series of Poker](/poker-tournaments/wsop)
+          [NBC Heads-Up](/poker-tournaments/nbc)
+          [Women in Poker](/poker-tournaments/women-in-poker)
+          POKER & CASINO SITES
+          [Best Online Poker
+          Sites]( /online-poker)
+          [Best Online Casinos](https://www.cardplayer.com/online-casinos)
+          [Best Online Sportsbooks](https://www.cardplayer.com/betting)
+          [Online Poker
+          Bonus](/online-poker/best-poker-bonuses)
+          [Card Player Australia](https://www.cardplayer.com/au)
+          [Card Player Canada](https://www.cardplayer.com/ca)
+          [Card Player Germany](https://www.cardplayer.com/de)
+          [Card Player Netherlands](https://www.cardplayer.com/nl)
+          [Card Player Sweden](https://www.cardplayer.com/se)
+          [Card Player UK](https://www.cardplayer.com/uk)
+          <a href="/online-poker-bonus/free-online-poker" id='cp-poker-footer'>CardPlayer Poker</a><br/>
+          <a href="/online-poker-bonus/best-us-online-poker-rooms" class='only-non-restricted-regions'>Best US Online Poker Sites</a><br class='only-non-restricted-regions'/>
+          <a href="/online-poker-bonus/free-online-poker">Free Poker</a><br/>
+          CARD PLAYER MEDIA
+          [Contact Us](https://www.cardplayer.com/contact)
+          [Poker Media Consulting](/packages/media_kit/pdf/PMC.pdf)
+          [Facebook](http://www.facebook.com/cardplayer)
+          [Twitter](http://twitter.com/#!/CardPlayerMedia)
+          ABOUT CARDPLAYER, THE POKER AND ONLINE CASINO AUTHORITY
+          CardPlayer.com is the world's oldest and
+          most well-respected poker magazine and online gambling guide.
+          Since 1988, CardPlayer has provided poker and casino players with
+          poker strategy, news, and results while also
+        covering anything related to casino gambling: how to play casino games, strategies, and online casino
+        recommendations.
+          Today, CardPlayer.com is the
+          best poker and gambling information portal for free poker and
+        casino content
+          , offering online poker site and casino reviews and exclusive online gambling bonus deals.
+              WWW.CARDPLAYER.COM
+              [About Us](/about)
+              [Advertise With Us](/media-kit)
+              [Newsletter Sign Up](/newsletter/subscribe)
+              [Subscription Support](/link/subscribe)
+              [Terms of Use](/terms-of-use)
+              [Disclaimer](/privacy)
+              [Site Map](/sitemap)
+              [Webmaster Tools](/webmasters)
+              [View Mobile Site](/view_mobile_site)
+              Copyright © 2001-2025

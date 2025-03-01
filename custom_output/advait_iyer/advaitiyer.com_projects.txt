@@ -1,0 +1,64 @@
+      [Advait Iyer](/)
+      | Projects
+    Here are some things I’ve worked on.
+        94 MHz RISC-V CPU
+        Designed a pipelined processor in
+          SystemVerilog
+          for the RISC-V ISA
+        Used P6 style renaming, an N-way superscalar design, early tag broadcast, early branch resolution, and GShare branch prediction.
+        Also incorporated instruction prefetching, non-blocking instruction and data caches (N-way set-associative and banked, respectively), a victim cache, and a load-store queue with forwarding.
+        Achieved a clock frequency of ~94MHz and an average CPI of 1.7 on a suite of programs including GNU libraries, Alexnet, sorting algorithms, and geometric functions.
+        s/o
+          [Bradley](https://bschulz01.github.io/)
+          ,
+          [Miah](https://www.linkedin.com/in/noel-pamenan-576499259/)
+          [Arjun](https://www.linkedin.com/in/arjunlaxman/)
+          [Sunny](https://www.linkedin.com/in/sanidhya-patel/)
+          , and
+          [Jack](https://www.linkedin.com/in/jack-wildes/)
+          .
+          [Report](./processor-report.pdf)
+        Roll Over Beethoven: A Cloth Piano
+        A foldable, portable piano/keyboard.
+        Comprises the core instrument with cloth keys (on foldable card paper), a graphics display (for feedback and tutorials), and a sustain pedal.
+        Wrote drivers for the sensors and display, synthesized different timbres, and created a tutorial in
+          C
+          [Code](https://github.com/adviyer/cloth-piano/tree/master)
+        Formal Verification of FtTokenCMP
+        Formally verified
+          FtTokenCMP
+          , a fault-tolerant, token-based cache coherence protocol using
+            [Murphi](https://en.wikipedia.org/wiki/Mur%CF%86)
+        EECS 270 RTL DV Autograder
+        As a TA, co-developed testing frameworks in
+          Verilog
+          , set up
+          Docker
+          environments, and wrote testbenches to verify student FPGA designs.
+        Deployed on autograder.io, and used by every computer engineering student at Michigan (~300/semester).
+        FPGA Design Projects
+        Four function calculator, traffic lights controller, and carry lookahead adder.
+        Deployed and verified on
+          Altera DE2-115
+          boards.
+        Robotic Planning and Controls Projects
+        iLQR implementation in
+          Pytorch
+          for the inverted double-pendulum on a cart.
+        MPC and MPPI for linearizing cartpole and robot arm dynamics.
+        Dynamics from state measurements, with Gaussian processes.
+        Misc C/C++ Projects
+        RISC-V assembler, simulator, linker
+        Pipeline and cache simulators in C
+        Tarjan’s pairing heap
+        SQL-like relational database
+        Among Us simulator with optimal TSP
+        Seam-carving for image resizing
+        Piazza posts classifier
+        Plants vs Zombies simulator
+        Euchre simulator
+      [Writing](/writing)
+      •
+      [Projects](/projects)
+      [Quotes](/quotes)
+      [Work](/work)

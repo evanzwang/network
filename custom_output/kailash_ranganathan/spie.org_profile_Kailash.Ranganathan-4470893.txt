@@ -1,0 +1,144 @@
+  [if lt IE 8]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+            Sign In
+          [View Cart (](//spie.org/shoppingcart)
+            0
+            )
+            Help
+  #topbar
+  Polyfills:
+  End PolyFills
+  Application content here
+    #header
+          [About](//spie.org/x128784.xml)
+                [About the Society](//spie.org/x86785.xml)
+                [Community Support](//spie.org/x128785.xml)
+                [Advocacy](//spie.org/x128786.xml)
+                [Get Involved](//spie.org/x129829.xml)
+                [International Day of Light](//spie.org/x126610.xml)
+                [Awards](//spie.org/x1163.xml)
+                [Press Room](//spie.org/x24601.xml)
+                [Jobs at SPIE](https://spie.jobs)
+                [optics.org](https://optics.org)
+                [SPIEDigitalLibrary.org](https://spiedigitallibrary.org)
+                [SPIE Career Center](/careercenter)
+                [Profiles](//spie.org/profiles/home)
+                [SPIE Logos](//spie.org/x35314.xml)
+                [SPIE Clothing and Gifts](//spie.org/x92090.xml)
+          [Conferences + Exhibitions](//spie.org/x138980.xml)
+                [Conferences + Exhibitions Calendar](//spie.org/x138980.xml?filterEventType=exhibition;conference)
+                [Exhibitions Only](//spie.org/x138980.xml?filterEventType=exhibition)
+                [SPIE.Online](//spie.org/x139236.xml)
+                [Open Calls for Papers](//spie.org/x138980.xml?filterEventStatus=callForPapers)
+                [Past Event Archives](//spie.org/x1379.xml?type=all&region=all)
+                [SPIE Photonics West](//spie.org/x2584.xml)
+                [SPIE Defense + Commercial Sensing](//spie.org/x6765.xml)
+                [SPIE Optics + Photonics](//spie.org/x30491.xml)
+                [SPIE Medical Imaging](//spie.org/x12166.xml)
+                [SPIE Advanced Lithography + Patterning](//spie.org/x10942.xml)
+          [Publications](//spie.org/x128875.xml)
+                [Conference Proceedings](//spie.org/x128885.xml)
+                [SPIE Journals](//spie.org/x128876.xml)
+                [SPIE Digital Library](//spie.org/x128877.xml)
+                [Books](//spie.org/x646.xml)
+                [Open Access](//spie.org/x128878.xml)
+                [Journals](//spie.org/x994.xml)
+                [Reprint Permissions](//spie.org/x1125.xml)
+          [Membership](//spie.org/x128757.xml)
+                [Explore Membership](//spie.org/x128758.xml)
+                [Fellows](//spie.org/x32.xml)
+                [Senior Members](//spie.org/x19144.xml)
+                [Early Career Members](//spie.org/x128771.xml)
+                [Students](//spie.org/x128781.xml)
+                [BACUS Group](//spie.org/x7237.xml)
+                [Student Services](//spie.org/x128765.xml)
+                [Early Career Resources](//spie.org/x128776.xml)
+                [Corporate Membership](//spie.org/x128779.xml)
+          [Industry Resources](//spie.org/x127929.xml)
+                [Marketing](//spie.org/x127931.xml)
+                [Become an Exhibitor](//spie.org/x127932.xml)
+                [Sponsorships & Advertising](//spie.org/x127933.xml)
+                [Information](//spie.org/x127930.xml)
+                [Industry Report](//spie.org/industry-report)
+                [Salary Survey](//spie.org/x139353.xml)
+                [Technical Information](//spie.org/x127935.xml)
+                [Recruiting](//spie.org/x127927.xml)
+                [Industry Events](//spie.org/x127950.xml)
+                [Prism Awards](//spie.org/x128943.xml)
+                [Startup Challenge](//spie.org/x128953.xml)
+                [Photonics Clusters](//spie.org/x22931.xml)
+          [Education](//spie.org/x307.xml)
+                [Find a Course](//spie.org/x124281.xml)
+                [Courses at Conferences](//spie.org/x126057.xml)
+                [Online Courses](//spie.org/x126056.xml)
+                [Group Training](//spie.org/x48988.xml)
+                [Education Outreach Resources](//spie.org/x30114.xml)
+                [Technician Resources](//spie.org/x135602.xml)
+                [ABET](//spie.org/x120433.xml)
+                [SPIE Instructors](//spie.org/x1703.xml)
+                [Courses Attendees](//spie.org/x1701.xml)
+          [News](/news)
+    #navigation
+        could add  style="padding-left:0px" to force element style as a fix for WFE01 left padding
+                          Kailash  Ranganathan
+                                SPIE Leadership
+                                  SPIE Leadership:
+                                  Retrieving Data, please wait...
+                                SPIE Membership
+                              SPIE Awards
+                              Once get CRM bool, change back to a ProfileAwardsVisible check
+                and get rid of string stuff
+                                Roles
+                                  SPIE Involvement:
+                                Expertise
+                                ORCID iD
+                                      Contact Details:
+                                        Sign In to send a private message or view contact details
+                            Upcoming Presentations
+                              Most Recent |
+                              Show All
+                            Conference Committee Involvement
+                            Course Instructor
+        #content
+      #container
+    #middle
+  #wrapper
+          PREMIUM CONTENT
+      Sign in to read the full article
+      Create a free SPIE account to get access to
+        [Sign in to your account](/account/login?redir=/profile/Kailash.Ranganathan-4470893)
+        [Create an SPIE account](/Account/Create)
+            ABOUT
+              [Mission](/about-spie/the-society/mission-and-vision)
+              [Leadership](/about-spie/the-society/spie-officers-and-directors)
+              [Committees](/about-spie/the-society/spie-committees)
+              [History](/about-spie/the-society/history)
+              [Policies and Reporting](/about-spie/the-society/policies-and-reporting)
+              [Donate to SPIE](/about-spie/donate-to-spie)
+            RESOURCES
+              [Join SPIE](/membership)
+              [Publish with SPIE](/publications)
+              [Public Policy](/about-spie/advocacy-and-public-policy)
+              [Education Outreach](/education/education-outreach-resources)
+              [SPIE Brand and Logos](/about-spie/spie-brand-and-logos)
+              [SPIE Press Releases](/news/spie-press-releases)
+              [SPIE Profiles](/profiles/home)
+            HELP
+              [Help FAQs](/contact-us)
+              [Report an Incident](https://secure.ethicspoint.com/domain/media/en/gui/35717/index.html)
+              [Email Preferences](/communication/updates-and-newsletters)
+            SUBSCRIBE TO OUR EMAILS
+            Receive only the information you want
+              Sign Up
+              [Stay Connected](/news/social-media-feed)
+              Get the App
+        © 2025 SPIE
+          |
+          [Privacy Policy](/privacy-policy)
+  #footer
+  02
+  LinkedIn Tag
+            Cancel

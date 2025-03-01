@@ -1,0 +1,264 @@
+{
+  "title": "David Bai",
+  "meta_description": "Cambridge Lecture Notes taken by Zhiyuan Bai (David).",
+  "main_content": "Cambridge Lecture Notes I would like to thank everyone who has helped the perfection of these notes by way of correcting and giving feedbacks. If you think any of these notes can be improved in some direction, or have spotted any mistakes or typos, you are most welcome to let me know . All materials listed here are actively maintained. For obvious reasons, notes that were taken more recently are usually better written. TeX codes of the documents are available upon request. Part IA Michaelmas Differential Equations by Dr. J. R. Taylor (Michaelmas 2019) Groups by Dr. O. Randal-Williams (Michaelmas 2019) Numbers and Sets by Prof. I. B. Leader (Michaelmas 2019) Vectors and Matrices by Dr. J. M. Evans (Michaelmas 2019) Lent Analysis I by Prof. J. Rassmussen (Lent 2020) Dynamics and Relativity by Prof. P. H. Haynes (Lent 2020) Probability by Dr. P. Sousi (Lent 2020) Vector Calculus by Dr. A. Ashton (Lent 2020) Part IB Michaelmas Analysis and Topology by Dr. A. Zs\u00e1k (Michaelmas 2019) Linear Algebra by Prof. P. Raphael (Michaelmas 2020) Markov Chains by Dr. R. Bauerschmidt (Michaelmas 2020) Methods by Prof. E. P. S. Shellard (Michaelmas 2020) Quantum Mechanics by Dr. M. Ubiali (Michaelmas 2020) Lent Complex Analysis by Prof. N. Wickramasekera (Lent 2020) Complex Methods by Dr. U. Sperhake (Lent 2021) Geometry by Prof. I. Smith (Lent 2021) Groups, Rings and Modules by Dr. T. A. Fisher (Lent 2020) Numerical Analysis by Prof. C. B. Sch\u00f6nlieb (Lent 2021) Statistics by Dr. S. Bacallado (Lent 2021) Easter Optimisation by Dr. M. R. Tehranchi (Easter 2020) Variational Principles by Dr. M. Dunajski (Easter 2020) Part II Michaelmas Algebraic Topology by Prof. M. Gross (Michaelmas 2020) Galois Theory by Prof. I. Grojnowski (Michaelmas 2021) Linear Analysis by Prof. C. Mouhot (Michaelmas 2021) Number Theory by Dr. J. Wolf (Michaelmas 2020) Probability and Measure by Prof. R. Nickl (Michaelmas 2020) Representation Theory by Dr. S. Wadsley (Michaelmas 2021) Riemann Surfaces by Dr. H. Wilton (Michaelmas 2020) Stochastic Financial Models by Dr. M. Tehranchi (Michaelmas 2021) The following notes are taken by Nicky Wong Galois Theory by Prof. I. Grojnowski (Michaelmas 2020) Linear Analysis by Prof. C. Mouhot (Michaelmas 2020) Lent Algebraic Geometry by Dr. D. Ranganathan (Lent 2021) Differential Geometry by Dr. A. Keating (Lent 2021) Quantum Information and Computation by Prof. R. Jozsa (Lent 2021) Number Fields by Prof. A. Scholl (Lent 2022) Analysis of Functions by Dr. C. Warnick (Lent 2022) The following notes are taken by Nicky Wong Number Fields by Prof. A. J. Scholl (Lent 2021) Part III Michaelmas Algebraic Geometry by Dr. D. Ranganathan (Michaelmas 2022) Algebraic Topology by Prof. J. Rasmussen (Michaelmas 2022) Commutative Algebra by Dr. O. Becker (Michaelmas 2022) Differential Geometry by Dr. J. Smith (Michaelmas 2022) Local Fields by Dr. R. Zhou (Michaelmas 2022) Modular Forms by Prof. J. Thorne (Michaelmas 2022) Introduction to Modular Representation Theory by Prof. S. Martin (Michaelmas 2022) The following notes are taken by Artie Category Theory by Prof. P. T. Johnstone (Michaelmas 2022) Commutative Algebra by Dr. O. Becker (Michaelmas 2022) Local Fields by Dr. R. Zhou (Michaelmas 2022) Logic and Computability by Dr. J. V. Siqueira (Michaelmas 2022) Lent Abelian Varieties by Prof. A. J. Scholl (Lent 2023) Algebraic Number Theory by Dr. H. Wiersema (Lent 2023) Complex Manifolds by Dr. A. Kovalev (Lent 2023) [You heard I have Lie algebra notes? Lies.] Group Cohomology by Dr. C. J. B. Brookes (Lent 2023) Characteristic Classes and K-Theory by Prof. O. Randal-Williams (Lent 2023) [Currently in maintenance. Official notes are here ] Toric Geometry by Dr. T. Gr\u00e4fnitz (Lent 2023) Modular Forms by Prof. J. A. Thorne (Lent 2021) Elliptic Curves by Dr. T. Fisher (Lent 2022) Topics in Algebraic Groups by Prof. A. Scholl (Lent 2022) Introduction to Geometric Representation Theory by Prof. I. Grojnowski (Lent 2022) (my best set of notes so far!) The following notes taken by Nicky Wong Modular Forms by Prof. J. A. Thorne (Lent 2022)",
+  "links": [
+    {
+      "url": "/contact/",
+      "text": "let me know"
+    },
+    {
+      "url": "IA/diffeqn.pdf",
+      "text": "Differential Equations"
+    },
+    {
+      "url": "IA/groups.pdf",
+      "text": "Groups"
+    },
+    {
+      "url": "IA/numsets.pdf",
+      "text": "Numbers and Sets"
+    },
+    {
+      "url": "IA/matrices.pdf",
+      "text": "Vectors and Matrices"
+    },
+    {
+      "url": "IA/ana1.pdf",
+      "text": "Analysis I"
+    },
+    {
+      "url": "IA/dynrel.pdf",
+      "text": "Dynamics and Relativity"
+    },
+    {
+      "url": "IA/prob.pdf",
+      "text": "Probability"
+    },
+    {
+      "url": "IA/vectcal.pdf",
+      "text": "Vector Calculus"
+    },
+    {
+      "url": "IB/anatop.pdf",
+      "text": "Analysis and Topology"
+    },
+    {
+      "url": "IB/linear.pdf",
+      "text": "Linear Algebra"
+    },
+    {
+      "url": "IB/markov.pdf",
+      "text": "Markov Chains"
+    },
+    {
+      "url": "IB/methods.pdf",
+      "text": "Methods"
+    },
+    {
+      "url": "IB/qm.pdf",
+      "text": "Quantum Mechanics"
+    },
+    {
+      "url": "IB/comana.pdf",
+      "text": "Complex Analysis"
+    },
+    {
+      "url": "IB/commet.pdf",
+      "text": "Complex Methods"
+    },
+    {
+      "url": "IB/geom.pdf",
+      "text": "Geometry"
+    },
+    {
+      "url": "IB/grm.pdf",
+      "text": "Groups, Rings and Modules"
+    },
+    {
+      "url": "IB/numana.pdf",
+      "text": "Numerical Analysis"
+    },
+    {
+      "url": "IB/stats.pdf",
+      "text": "Statistics"
+    },
+    {
+      "url": "IB/optim.pdf",
+      "text": "Optimisation"
+    },
+    {
+      "url": "IB/varpri.pdf",
+      "text": "Variational Principles"
+    },
+    {
+      "url": "II/algtop.pdf",
+      "text": "Algebraic Topology"
+    },
+    {
+      "url": "II/gal.pdf",
+      "text": "Galois Theory"
+    },
+    {
+      "url": "II/linan.pdf",
+      "text": "Linear Analysis"
+    },
+    {
+      "url": "II/nt.pdf",
+      "text": "Number Theory"
+    },
+    {
+      "url": "II/pm.pdf",
+      "text": "Probability and Measure"
+    },
+    {
+      "url": "II/rep.pdf",
+      "text": "Representation Theory"
+    },
+    {
+      "url": "II/rsurf.pdf",
+      "text": "Riemann Surfaces"
+    },
+    {
+      "url": "II/sfm.pdf",
+      "text": "Stochastic Financial Models"
+    },
+    {
+      "url": "https://www.lookup.cam.ac.uk/person/crsid/tcw54",
+      "text": "Nicky Wong"
+    },
+    {
+      "url": "https://tcw54.user.srcf.net/Galois.pdf",
+      "text": "Galois Theory"
+    },
+    {
+      "url": "http://tcw54.user.srcf.net/LinAn.pdf",
+      "text": "Linear Analysis"
+    },
+    {
+      "url": "II/alggeom.pdf",
+      "text": "Algebraic Geometry"
+    },
+    {
+      "url": "II/dg.pdf",
+      "text": "Differential Geometry"
+    },
+    {
+      "url": "II/qic.pdf",
+      "text": "Quantum Information and Computation"
+    },
+    {
+      "url": "II/nf.pdf",
+      "text": "Number Fields"
+    },
+    {
+      "url": "II/anafun.pdf",
+      "text": "Analysis of Functions"
+    },
+    {
+      "url": "https://www.lookup.cam.ac.uk/person/crsid/tcw54",
+      "text": "Nicky Wong"
+    },
+    {
+      "url": "https://tcw54.user.srcf.net/Numfield.pdf",
+      "text": "Number Fields"
+    },
+    {
+      "url": "III/ag.pdf",
+      "text": "Algebraic Geometry"
+    },
+    {
+      "url": "III/at.pdf",
+      "text": "Algebraic Topology"
+    },
+    {
+      "url": "III/commalg.pdf",
+      "text": "Commutative Algebra"
+    },
+    {
+      "url": "III/dg.pdf",
+      "text": "Differential Geometry"
+    },
+    {
+      "url": "III/local.pdf",
+      "text": "Local Fields"
+    },
+    {
+      "url": "III/modform22.pdf",
+      "text": "Modular Forms"
+    },
+    {
+      "url": "III/modrep.pdf",
+      "text": "Introduction to Modular Representation Theory"
+    },
+    {
+      "url": "https://www.lookup.cam.ac.uk/person/crsid/aik31",
+      "text": "Artie"
+    },
+    {
+      "url": "https://aik31.user.srcf.net/lecture_notes/cat_theory.pdf",
+      "text": "Category Theory"
+    },
+    {
+      "url": "https://aik31.user.srcf.net/lecture_notes/comm_alg.pdf",
+      "text": "Commutative Algebra"
+    },
+    {
+      "url": "https://aik31.user.srcf.net/lecture_notes/local_fields.pdf",
+      "text": "Local Fields"
+    },
+    {
+      "url": "https://aik31.user.srcf.net/lecture_notes/logic_comp.pdf",
+      "text": "Logic and Computability"
+    },
+    {
+      "url": "III/abel.pdf",
+      "text": "Abelian Varieties"
+    },
+    {
+      "url": "III/algnt.pdf",
+      "text": "Algebraic Number Theory"
+    },
+    {
+      "url": "III/complex.pdf",
+      "text": "Complex Manifolds"
+    },
+    {
+      "url": "III/group.pdf",
+      "text": "Group Cohomology"
+    },
+    {
+      "url": "https://www.dpmms.cam.ac.uk/~or257/teaching/notes/Kthy_long.pdf",
+      "text": "here"
+    },
+    {
+      "url": "III/toric.pdf",
+      "text": "Toric Geometry"
+    },
+    {
+      "url": "III/modform.pdf",
+      "text": "Modular Forms"
+    },
+    {
+      "url": "III/elliptic.pdf",
+      "text": "Elliptic Curves"
+    },
+    {
+      "url": "III/alggrp.pdf",
+      "text": "Topics in Algebraic Groups"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "text": "Introduction to Geometric Representation Theory"
+    },
+    {
+      "url": "https://www.lookup.cam.ac.uk/person/crsid/tcw54",
+      "text": "Nicky Wong"
+    },
+    {
+      "url": "https://tcw54.user.srcf.net/Modform.pdf",
+      "text": "Modular Forms"
+    }
+  ],
+  "images": []
+}

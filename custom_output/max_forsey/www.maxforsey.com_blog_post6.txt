@@ -1,0 +1,91 @@
+                When I joined a research lab in May, I quickly realized there's a big gap between using OpenAI's API and actually training models. This guide aims to bridge that gap with carefully selected resources and a structured learning path.
+                Visual Learning Resources
+                These visualizations helped me understand the core concepts:
+                    Transformer Architecture
+                    :
+                    [Gemma walkthrough](https://graphcore-research.github.io/posts/gemma/)
+                    - Great step by step explanation
+                    Neural Network Basics
+                    [3Blue1Brown's series](https://www.3blue1brown.com/topics/neural-networks)
+                    - Mathematical intuition made clear
+                    GPT Internals
+                    [Interactive visualization](https://bbycroft.net/llm)
+                    - See how GPT actually processes text
+                    Transformer Deep Dive
+                    [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+                    - Play with each component
+                    Neural Networks from Zero
+                    [Andrej Karpathy's YouTube](https://www.youtube.com/@AndrejKarpathy/playlists)
+                    - Excellent from-scratch implementations
+                    Illustrated Transformer
+                    [jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
+                    - Visual explanation of the transformer
+                Essential Reading
+                Two books stand out for different learning styles:
+                    [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+                    - Practical approach with great
+                    [visualizations](https://udlbook.github.io/udlfigures/)
+                    [Probabilistic Machine Learning](https://github.com/probml/pml-book)
+                    - For the math-focused learner
+                Getting Started with Code
+                Hardware Options
+                    Free
+                    [Google Colab](https://colab.research.google.com/)
+                    - Great for learning
+                    Local
+                    : M-series Macbooks or any modern laptop for small models
+                Software Stack
+                    Model Running
+                        [Ollama](https://ollama.com/)
+                        - Easiest setup
+                        [LMStudio](https://lmstudio.ai/)
+                        - Great UI to chat with a model locally
+                        [HuggingFace](https://huggingface.co/)
+                        - Industry standard
+                Ideas for First Projects
+                  Try to run
+                    [MiniCPM](https://github.com/OpenBMB/MiniCPM-o)
+                    or
+                    [YOLOv8](https://github.com/haermosi/yolov8)
+                    locally.
+                  Finetune a model on a dataset from
+                    [Roboflow](https://universe.roboflow.com/)
+                  Join a competition on
+                    [Kaggle](https://www.kaggle.com/)
+                Learning Resources
+                  Take
+                    [DeepLearning.AI courses](https://www.deeplearning.ai/courses/)
+                  Join university ML clubs or classes (surrounding yourself with ML enthusiasts helps!)
+                  Stay updated via
+                    [tldr.tech/ai](https://tldr.tech/ai)
+                    newsletter and follow key ML researchers ( scroll through
+                    [my follows](https://x.com/max_4c)
+                    for reference)
+                Study Method
+                I use this prompt template with LLMs to learn new concepts:
+                    Core Understanding
+• Category (ML/math/startups/investments): [WHY]
+• ELI5: [simple analogy with everyday objects]
+• Technical: [detailed explanation]
+
+Connections & Context
+• Prerequisites → [core concepts needed]
+• Builds into → [advanced applications]
+• Related to → [parallel concepts]
+
+Implementation
+• Industry use: [practical applications]
+• Common pitfalls: [key challenges]
+• Your context: [relevance to ML/startups/grad school]
+
+Flash Card
+[in the format: Question == Answer] (to be added to remnote)
+
+TL;DR
+[One-paragraph essence + key insight]
+
+Time Context: Today's date
+
+Explain
+                Remember: Start small, focus on understanding fundamentals, and learn by implementing. While the gap between using APIs and training models may seem daunting at first, this structured approach and these resources can help make the transition more manageable.
+              [← Back to home](/)

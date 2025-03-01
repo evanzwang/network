@@ -1,0 +1,34 @@
+    [Home](index.html)
+    |
+    [Projects](projects.html)
+    [Thoughts](thoughts.html)
+      Welcome to Sathvik Redrouthu's homepage!
+        With Paul Graham—author,
+          On Lisp (1993)
+          ; creator, Arc (a Lisp dialect).
+    I graduated highschool in June 2024, but decided not to attend university. Instead, I created
+      [Instachip](https://getinstachip.com)
+      , an EDA start-up company, and decided to go through a program called Y Combinator. I worked on chip design tooling for a bit, but decided to drop out of the Y Combinator program and join a chip company called Etched. Concurrently, I am working on Formal Verification research with Dr. Mark Santolucito at Columbia University.
+    Beyond foundational mathematics knowledge from Thomas Jefferson High School for Science and Technology, I am self-taught via textbooks and projects. I was inspired by Code.org when I was 7. When I was 10, I taught myself basic Combinatorics, Statistics, Algebra I and II, and Geometry, created video game sprites for Super Smash Flash 2, and sat-in on Trigonometry classes at Virginia Polytechnic University. When I was 12, I wrote my first toy interpreter, fostering an interest in programming language theory. I enjoy finding excuses to build interpreters (e.g., I built a custom programming language for Etched's Vestaboards, which are mini Smartboards).
+    Prior to Instachip, my Verilog community contributions include the
+      [Verilog Package Manager](https://github.com/getinstachip/vpm)
+      and the
+      [Verilog Module Registry](https://verilogmodules.org)
+      . At TJ, I
+      Designed/taped out three small chips (O(1) matrix-vector multiplication, Vector Processing Unit (US18119437) concept, and more)
+      Designed and implemented a
+        [programming language for optical computers](https://arxiv.org/pdf/2208.06749)
+        - a tensor algebra DSL that compiles to an optical processor with better sparse tensor storage than NumPy
+      Created a
+        [Regex interpreter using Brzozowski derivatives](https://github.com/sathvikr/ai-stuff/tree/main/regex_compiler%20(finite%20automata%20%2B%20browzowski%20derivative))
+        (my favorite project)
+      [See more projects!!](projects.html)
+      Favorite book:
+      Perfectly Reasonable Deviations from the Beaten Track
+      by Richard Feynman. His letter to Arline Greenbaum, sixteen months after her death. "I love my wife. My wife is dead."
+      Contact me:
+      sathvik@etched.com
+    [Twitter](https://x.com/_sathvikr)
+    [LinkedIn](https://www.linkedin.com/in/sathvik-redrouthu-28456919b/)
+    [GitHub](https://github.com/sathvikr)
+    [Email](mailto:sathvik@etched.com)

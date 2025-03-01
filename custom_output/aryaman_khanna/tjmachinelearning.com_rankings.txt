@@ -1,0 +1,75 @@
+      TJ Machine Learning Club
+      Making AI more accessible
+      Close
+            [Home](/)
+            [Lectures](schedule/2324)
+            [Resources](resources)
+            [Opportunities](opportunities)
+            [Research](research)
+            [Competitions](competitions/2021)
+      <h3><a id="welcome-to-tjhsst-machine-learning" class="anchor" href="#welcome-to-tjhsst-machine-learning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2019-2020 Rankings</h3>
+                <div class="splittrack">
+                    <section class="section section--menu" id="yearnav">
+                        <span class="link-copy"></span>
+                        <nav class="menu menu--yearnav">
+                            <ul class="menu__list">
+                                <li class="menu__item  menu__item--current"><a class="menu__link" href="#">Beginner</a></li>
+                                <li class="menu__item"><a class="menu__link" href="rankings-adv">Advanced</a></li>
+                                <li class="menu__line"></li>
+                            </ul>
+                        </nav>
+                    </section>
+                </div>
+      <p>For the first time ever, we have connected with data science professors at GMU and the EDIT internship team (a digital pathology + machine learning focused internship) who have agreed to acknowledge TJ Machine Learning Club rankings in their decision making. The top Machine Learning Club participants will also be able to obtain a Slingshot internship without going through the standard application process!</p>
+      2022-2023 Overall Rankings
+      With our seventh year finished, we congratulate our top 3 students in the beginner and advanced groups for their success in quizzes, problem sets, and coding competitions!
+      Beginner Group
+            Rank
+            Student
+            1
+            Vatsal Sivaratri
+            2
+            Aneesh Kalla
+            3
+            Dhruv Chandna
+      <br>
+      Advanced Group
+            Pranav Kuppa
+            Munir Kudrati-Plummer
+      2021-2022 Overall Rankings
+      With our sixth year finished, we congratulate our top 3 students in the beginner and advanced groups for their success in quizzes, problem sets, and coding competitions!
+            Sanchali Banerjee
+            Eric Feng
+            Anish Susarla
+            Aryaman Khanna
+      2020-2021 Overall Rankings
+      With our fifth year finished, we congratulate our top 3 students for their success in quizzes, problem sets, and coding competitions!
+            Ram Reddy
+            Sritan Motati
+      2019-2020 Overall Rankings
+      With our fourth year finished, we congratulate our top 3 students for their success in quizzes, problem sets, and coding competitions!
+            Mikhail Mints
+            Daniel Zeng
+            Jason Wang
+      2018-2019 Overall Rankings
+      With our third year finished, we congratulate our top 3 students for their success in quizzes, problem sets, and coding competitions!
+            Saahith Janapati
+            Aarav Khanna
+            Krish Ganotra
+      <p>View the full rankings <a href="rank/1819table">here</a>.</p>
+      2017-2018 Overall Rankings
+      Another year of Machine Learning Club has concluded. This year's rankings include results from competitions, quizzes, and problem sets. Congratulations to our top 3 students!
+            Vinay Bhaip
+            Alan Zheng
+            Joseph Rejive
+      <p>View the full rankings <a href="rank/1718table">here</a>.</p>
+      2016-2017 Overall Rankings
+      The inaugural year of Machine Learning Club has come to a close. Congratulations to our top 3 students from 2016-2017!
+            Sylesh Suresh
+            Rishabh Krishnan
+            Amrit Gorle
+      These results show the students who scored the best on our club-run competitions.
+                In each club-run competition, a dataset and instructions were given to students following the lecture and code was due before the next meeting.
+    close all non-footer content
+                  [Open-source](https://github.com/nikhilsardana/tjmachinelearning)
+                  [GitHub](https://github.com/tjmachinelearning)

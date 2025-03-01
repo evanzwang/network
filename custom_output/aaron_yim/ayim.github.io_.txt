@@ -1,0 +1,21 @@
+          Hi, I'm Aaron.
+          PM, Designer, Data Enthusiast
+          I am a Waterloo Engineering student interning at
+                        BlackBerry as a Product Manager.
+          Currently seeking an internship for January 2019.
+          [View my resume](static/aaronyim_uwaterloo.pdf)
+        My Work
+        YELP BUTLER
+        Product Discovery, UI/UX Design, Data Science
+        Building a case for using contextual recommendations to increase Yelp's stickiness.
+                                From industry, market, and tech insights to feature design
+                                and solution architecture.
+        [View project](yelp.html)
+        UW FOOD FINDER
+        Data Analytics, UI/UX Design
+        Helping UWaterloo students find open cafeteria
+                                locations in one tap. Menus, reviews, and dietary filters at your fingertips.
+          PHOTOGRAPHY
+          Composition, Light, Colour
+          A collection of product, automotive, and event photography.
+          [View photography](https://ayim.github.io/gallery/)

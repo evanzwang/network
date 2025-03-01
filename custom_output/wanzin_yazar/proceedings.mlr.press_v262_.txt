@@ -1,0 +1,173 @@
+          [PMLR](/)
+          [JMLR](https://www.jmlr.org/)
+          [DMLR](https://data.mlr.press/)
+          [TMLR](https://jmlr.org/tmlr/)
+          [MLOSS](https://www.jmlr.org/mloss)
+          [FAQ](/faq.html)
+          [Submission Format](/spec.html)
+      [
+        [edit](https://github.com/mlresearch/v262/edit/gh-pages/index.html)
+        ]
+      Volume 262: NeurIPS Efficient Natural Language and Speech Processing Workshop, 14 December 2024, Vancouver, British Columbia, Canada
+        Editors: Mehdi Rezagholizadeh, Peyman Passban, Soheila Samiee, Vahid Partovi Nia, Yu Cheng, Yue Deng, Qun Liu, Boxing Chen
+        [bib](./assets/bib/bibliography.bib)
+        ][
+        [citeproc](./assets/bib/citeproc.yaml)
+        Contents:
+          Filter Authors:
+          Filter Titles:
+      Training
+        Scaling Smart: Accelerating Large Language Model Pre-Training with Small Model Initialization
+          Mohammad Samragh, Seyed Iman Mirzadeh, Keivan Alizadeh-Vahid, Fartash Faghri, Minsik Cho, Moin Nabi, Devang Naik, Mehrdad Farajtabar
+          ;
+            Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop
+            , PMLR 262:1-13
+          [abs](https://proceedings.mlr.press/v262/samragh24a.html)
+          [Download PDF](https://raw.githubusercontent.com/mlresearch/v262/main/assets/samragh24a/samragh24a.pdf)
+        Computational Bottlenecks of Training Small-scale Large Language Models
+          Saleh Ashkboos, Seyed Iman Mirzadeh, Keivan Alizadeh-Vahid, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar, Fartash Faghri
+            , PMLR 262:14-21
+        QuAILoRA: Quantization-Aware Initialization for LoRA
+          Neal G Lawton, Aishwarya Padmakumar, Judith Gaspers, Jack FitzGerald, Anoop Kumar, Greg Ver Steeg, Aram Galstyan
+            , PMLR 262:22-33
+        SuperPos-Prompt: Enhancing Soft Prompt Tuning of Language Models with Superposition of Multi Token Embeddings
+          Mohammad Ali Sadraei Javaheri, Ehsaneddin Asgari, Alice C. McHardy, Hamid R. Rabiee
+            , PMLR 262:34-46
+        RGP: Achieving Memory-Efficient Model Fine-tuning Via Randomized Gradient Projection
+          Ali Saheb Pasand, Pouya Bashivan
+            , PMLR 262:47-54
+        Efficient Alignment of Large Language Models via Data Sampling
+          Amrit Khera, Rajat Ghosh, Debojyoti Dutta
+            , PMLR 262:55-72
+        KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation
+          Rambod Azimi, Rishav Rishav, Marek Teichmann, Samira Ebrahimi Kahou
+            , PMLR 262:73-80
+      Model Design \& Architecture
+        Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts
+          Ashwinee Panda, Vatsal Baherwani, Zain Sarwar, Benjamin Therien, Sambit Sahu, Stephen Rawls, Supriyo Chakraborty, Tom Goldstein
+            , PMLR 262:81-101
+        VL-Mamba: Exploring State Space Models for Multimodal Learning
+          Yanyuan Qiao, Zheng Yu, Zijia Zhao, Sihan Chen, Mingzhen Sun, Longteng Guo, Qi Wu, Jing Liu
+            , PMLR 262:102-113
+        MisD-MoE: A Multimodal Misinformation Detection Framework with Adaptive Feature Selection
+          Moyang Liu, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
+            , PMLR 262:114-122
+        Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities
+          Vicky Zayats, Peter Chen, Melissa Ferrari, Dirk Padfield
+            , PMLR 262:123-135
+        Is 3D Convolution with 5D Tensors Really Necessary for Video Analysis?
+          Habib Hajimolahoseini, Walid Ahmed, Shuangyue Wen, Yang Liu
+            , PMLR 262:136-144
+        Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts
+          Youngseog Chung, Dhruv Malik, Jeff Schneider, Yuanzhi Li, Aarti Singh
+            , PMLR 262:145-164
+        Revisiting SMoE Language Models by Evaluating Inefficiencies with Task Specific Expert Pruning
+          Soumajyoti Sarkar, Leonard Lausen, Volkan Cevher, Thomas Brox, Sheng Zha, George Karypis
+            , PMLR 262:165-181
+        StructMoE: Structured Mixture of Experts Using Low Rank Experts
+          Zain Sarwar, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
+            , PMLR 262:182-193
+        Sparse Upcycling: Inference Inefficient Finetuning
+          Sasha Doubov, Nikhil Sardana, Vitaliy Chiley
+            , PMLR 262:194-205
+      Model Efficiency \& Compression
+        Post-Training Statistical Calibration for Higher Activation Sparsity
+          Vui Seng Chua, Yujie Pan, Nilesh Jain
+            , PMLR 262:206-221
+        Accelerating the Low-Rank Decomposed Models
+            , PMLR 262:222-231
+        The EarlyBird Gets the WORM: Heuristically Accelerating EarlyBird Convergence
+          Adithya G Vasudev
+            , PMLR 262:232-240
+        Post Training Quantization of Large Language Models with Microscaling Formats
+          Sayeh Sharify, Utkarsh Saxena, Zifei Xu, Wanzin Yazar, Ilya Soloveychik, Xin Wang
+            , PMLR 262:241-258
+        EchoAtt: Attend, Copy, then Adjust for More Efficient Large Language Models
+          Hossein Rajabzadeh, Aref Jafari, Aman Sharma, Benyamin Jami, Hyock Ju Hj Kwon, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh
+            , PMLR 262:259-269
+        Scaling laws for post-training quantized large language models
+          Zifei Xu, Alexander Y Lan, Wanzin Yazar, Tristan Webb, Sayeh Sharify, Xin Wang
+            , PMLR 262:270-285
+        Partially Shared Query-Key for Lightweight Language Models
+          Kai Yang, Vahid Partovi Nia, Boxing Chen, Masoud Asgharian
+            , PMLR 262:286-291
+      Inference
+        Snakes and Ladders: Accelerating SSM Inference with Speculative Decoding
+          Yangchao Wu, Yonatan Dukler, Matthew Trager, Alessandro Achille, Wei Xia, Stefano Soatto
+            , PMLR 262:292-304
+        GEAR: An Efficient Error Reduction Framework for KV Cache Compression in LLM Inference
+          Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao
+            , PMLR 262:305-321
+        The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation
+          Lawrence Stewart, Matthew Trager, Sujan Gonugondla, Stefano Soatto
+            , PMLR 262:322-335
+        Distributed Speculative Inference of Large Language Models is Provably Faster
+          Nadav Timor, Jonathan Mamou, Oren Pereg, Moshe Berchansky, Daniel Korat, Moshe Wasserblat, Tomer Galanti, Michal Gordon, David Harel
+            , PMLR 262:336-354
+        AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability
+          Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee
+            , PMLR 262:355-369
+        Inference-Friendly Models With MixAttention
+          Shashank Rajput, Ying Sheng, Sean Owen, Vitaliy Chiley
+            , PMLR 262:370-381
+        Improving Multi-candidate Speculative Decoding
+          XiaoFan Lu, Yixiao Zeng, Marco Levorato, FeiYang Ma, ZiXu Yu
+            , PMLR 262:382-394
+        Speculative Streaming: Fast LLM Inference without Auxiliary Models
+          Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi
+            , PMLR 262:395-413
+        Hysteresis Activation Function for Efficient Inference
+          Moshe Kimhi, Idan Kashani, Chaim Baskin, Avi Mendelson
+            , PMLR 262:414-422
+        Efficiently Dispatching Flash Attention For Partially Filled Attention Masks
+          Agniv Sharma, Jonas A. Geiping
+            , PMLR 262:423-442
+        Duo-LLM: A Framework for Studying Adaptive Computation in Large Language Models
+          Keivan Alizadeh-Vahid, Seyed Iman Mirzadeh, Hooman Shahrkokhi, Dmitry Belenko, Frank Sun, Minsik Cho, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar
+            , PMLR 262:443-455
+        Dynamic Speculation Lookahead Accelerates Speculative Decoding of Large Language Models
+          Jonathan Mamou, Oren Pereg, Daniel Korat, Moshe Berchansky, Nadav Timor, Moshe Wasserblat, Roy Schwartz
+            , PMLR 262:456-467
+        CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios
+          Luning Wang, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang
+            , PMLR 262:468-484
+        Residual vector quantization for KV cache compression in large language model
+          Ankur Kumar
+            , PMLR 262:485-490
+      Benchmark \& Evaluation
+        Rephrasing natural text data with different languages and quality levels for Large Language Model pre-training
+          Michael Pieler, Marco Bellagente, Hannah Teufel, Duy Phung, Nathan Cooper, Jonathan Tow, Paulo Rocha, Reshinth Adithyan, Zaid Alyafeai, Nikhil Pinnaparaju, Maksym Zhuravinskyi, Carlos Riquelme
+            , PMLR 262:491-511
+        ChemTEB: Chemical Text Embedding Benchmark, an Overview of Embedding Models Performance & Efficiency on a Specific Domain
+          Ali Shiraee Kasmaee, Mohammad Khodadad, Mohammad Arshi Saloot, Nick Sherck, Stephen Dokas, Hamidreza Mahyar, Soheila Samiee
+            , PMLR 262:512-531
+        On the Efficiency of NLP-Inspired Methods for Tabular Deep Learning
+          Anton F Thielmann, Soheila Samiee
+            , PMLR 262:532-539
+      Applications
+        Text Summarization With Graph Attention Networks
+          Mohammadreza Ardestani, Yllias Chali
+            , PMLR 262:540-553
+        Less is Enough: Adapting Pre-trained Vision Transformers for Audio-Visual Speaker Verification
+          Gnana Praveen Rajasekhar, Jahangir Alam
+            , PMLR 262:554-563
+        Enhanced label noise robustness through early adaptive filtering for the self-supervised speaker verification task
+          Abderrahim Fathan, Xiaolin Zhu, Jahangir Alam
+            , PMLR 262:564-575
+        Mai Ho‘omāuna i ka ‘Ai: Language Models Improve Automatic Speech Recognition in Hawaiian
+          Kaavya D Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones
+            , PMLR 262:576-583
+        Lightweight Neural Networks for Speech Emotion Recognition using Layer-wise Adaptive Quantization
+          Tushar Shinde, Ritika Jain, Avinash Kumar Sharma
+            , PMLR 262:584-595
+        OnlySportsLM: Optimizing Sports-Domain Language Models with SOTA Performance under Billion Parameters
+          Zexin Chen, Chengxi Li, Xiangyu Xie, Parijat Dube
+            , PMLR 262:596-610
+      subscribe
+        [via RSS](/v262/assets/rss/feed.xml)
+      Search Widget
+      This site last compiled Mon, 27 Jan 2025 08:06:06 +0000
+          [Github Account](https://github.com/mlresearch/v262)
+      Copyright ©
+        [The authors and PMLR](https://proceedings.mlr.press)
+        2025.

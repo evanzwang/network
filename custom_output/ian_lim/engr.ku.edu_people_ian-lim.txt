@@ -1,0 +1,93 @@
+        The University
+          of
+          Kansas
+        MENU
+        anchor linking to navigator page
+          link to menu page
+          BEGIN HEADER HTML
+                THE UNIVERSITY
+                  KANSAS
+                      BEGIN SITE INFO
+                              [School of Engineering](/)
+                      END SITE INFO
+                    BEGIN LINK MENU HTML
+                          [myKU](https://my.ku.edu)
+                          [Email](https://outlook.office365.com)
+                          [Canvas](https://canvas.ku.edu)
+                          [Enroll & Pay](https://sa.ku.edu)
+                          [Jayhawk GPS](https://my.ku.edu/JayhawkGpsRedirect)
+                    END LINK MENU HTML
+                  BEGIN MENU BUTTON HTML
+                      Close
+                  END MENU BUTTON HTML
+          END HEADER HTML
+                Search this unit
+                  Start search
+                  Submit Search
+              Main navigation
+                      Select to follow link
+              Info for
+                    [Prospective Students](https://admissions.ku.edu/visiting-campus)
+                    [Current Students](/academics)
+                    [Alumni](https://admissions.ku.edu/alumni-volunteers)
+                    [Degree Programs](https://ku.edu/academics)
+        KU Alerts
+                  BEGIN SITE BRANDING AND INFO
+                            University of Kansas logo
+                  END SITE BRANDING AND INFO
+                    Menu
+                  BEGIN KU SEARCH HEADER REGION
+                  END KU SEARCH HEADER REGION
+                        Ian Lim
+                            Computer Science, 2025
+                            Hometown: Overland Park, KS
+                            Contact Info
+                      biography
+                      education: degrees and specialization
+                      research: description and interests (key words)
+                      teaching: description and interests (key words)
+                      publications
+                      presentations
+                      artistic works
+                      exhibitions
+                      awards and honors
+                      grants and other funded activity
+                      service description
+                      memberships
+        BEGIN FOOTER HTML OUTSIDE OF REGIONS
+                BEGIN FOOTER REGION
+                    Eaton Hall
+                      Only display city, state, and zip when all three provided in settings.
+                      Lawrence, Kansas 66045
+                      [Bus Routes: 10, 29, 30, 43](https://lawrencetransit.org)
+                      [kuengr@ku.edu](mailto:kuengr@ku.edu)
+                      [785-864-3881](tel:785-864-3881)
+                        facebook
+                        instagram
+                        twitter
+                        youtube
+                        linkedin
+              BEGIN KU FOOTER FIRST REGION
+                        [Aerospace Engineering](https://ae.ku.edu/)
+                        [Bioengineering](http://bioengr.ku.edu/)
+                        [Chemical & Petroleum Engineering](http://cpe.ku.edu/)
+                        [Civil, Environmental & Architectural Engineering](http://ceae.ku.edu/)
+                        [Electrical Engineering & Computer Science](http://eecs.ku.edu/)
+                        [Engineering Physics](http://ephx.engr.ku.edu/)
+                        [Mechanical Engineering](http://me.ku.edu/)
+              BEGIN KU FOOTER SECOND REGION
+                        [Visit KU](https://ku.edu/visit)
+                        [KU Admissions](https://ku.edu/admissions)
+                        [KU Endowment](http://www.kuendowment.org)
+                        [KU News](https://news.ku.edu)
+                        [KU Events](https://calendar.ku.edu)
+                        [KU Careers](https://employment.ku.edu)
+                        [KU Alumni Association](http://www.kualumni.org/)
+              EVERYTHING ELSE BELOW IS OUTSIDE OF REGIONS
+                  [Accessibility](https://accessibility.ku.edu)
+                  |
+                  [Website support](https://cms.ku.edu)
+                  [CMS login](/cas?returnto=/people/ian-lim)
+                    © 2025
+                      [The University of Kansas](https://ku.edu)
+                    The University of Kansas is a public institution governed by the Kansas Board of Regents.

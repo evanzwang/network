@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship</title>
+<!--Generated on Wed Jun 26 19:08:56 2024 by LaTeXML (version 0.8.8) http://dlmf.nist.gov/LaTeXML/.-->
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/static/browse/0.3.4/css/ar5iv.0.7.9.min.css" rel="stylesheet" type="text/css"/>
+<link href="/static/browse/0.3.4/css/ar5iv-fonts.0.7.9.min.css" rel="stylesheet" type="text/css"/>
+<link href="/static/browse/0.3.4/css/latexml_styles.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.3/html2canvas.min.js"></script>
+<script src="/static/browse/0.3.4/js/addons_new.js"></script>
+<script src="/static/browse/0.3.4/js/feedbackOverlay.js"></script>
+<base href="/html/2406.18702v1/"/></head>
+<body>
+<nav class="ltx_page_navbar">
+<nav class="ltx_TOC">
+<ol class="ltx_toclist">
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S1" title="In Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">1 </span>Introduction</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S2" title="In Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2 </span>Methodology</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S2.SS1" title="In 2 Methodology ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.1 </span>Agents</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S2.SS2" title="In 2 Methodology ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.2 </span>Simulation</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S2.SS3" title="In 2 Methodology ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.3 </span>Assessment of agent capability and simulation believability</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S3" title="In Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3 </span>Results</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S3.SS1" title="In 3 Results ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.1 </span>Agents accurately and thoughtfully summarize simulations</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S3.SS2" title="In 3 Results ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2 </span>Expert-assigned believability</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S3.SS3" title="In 3 Results ‣ Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.3 </span>Simulation perturbations identify potential for bipartisanship</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S4" title="In Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4 </span>Discussion</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="https://arxiv.org/html/2406.18702v1#S5" title="In Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">5 </span>Conclusion</span></a></li>
+</ol></nav>
+</nav>
+<div class="ltx_page_main">
+<div class="ltx_page_content">
+<article class="ltx_document ltx_authors_1line">
+<h1 class="ltx_title ltx_title_document">Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship</h1>
+<div class="ltx_authors">
+<span class="ltx_creator ltx_role_author">
+<span class="ltx_personname">Zachary R. Baker 
+<br class="ltx_break"/>University College London
+<br class="ltx_break"/><span class="ltx_text ltx_font_typewriter" id="id1.1.id1">zacattackbaker@gmail.com</span>
+<br class="ltx_break"/>Zarif L. Azher 
+<br class="ltx_break"/>California Institute of Technology
+<br class="ltx_break"/><span class="ltx_text ltx_font_typewriter" id="id2.2.id2">zazher@caltech.edu</span>
+<br class="ltx_break"/>
+</span></span>
+</div>
+<div class="ltx_abstract">
+<h6 class="ltx_title ltx_title_abstract">Abstract</h6>
+<p class="ltx_p" id="id3.id1">This study introduces a novel approach to simulating legislative processes using LLM-driven virtual agents, focusing on the U.S. Senate Intelligence Committee. We developed agents representing individual senators and placed them in simulated committee discussions. The agents demonstrated the ability to engage in realistic debate, provide thoughtful reflections, and find bipartisan solutions under certain conditions. Notably, the simulation also showed promise in modeling shifts towards bipartisanship in response to external perturbations. Our results indicate that this LLM-driven approach could become a valuable tool for understanding and potentially improving legislative processes, supporting a broader pattern of findings highlighting how LLM-based agents can usefully model real-world phenomena. Future works will focus on enhancing agent complexity, expanding the simulation scope, and exploring applications in policy testing and negotiation.</p>
+</div>
+<section class="ltx_section" id="S1">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">1 </span>Introduction</h2>
+<div class="ltx_para" id="S1.p1">
+<p class="ltx_p" id="S1.p1.1">Large language models (LLMs) have emerged as powerful computational engines capable of memorization, reasoning, and reflection, using natural language as a medium of input and output. The advent of LLMs – particularly GPT models trained on diverse datasets generated by processing internet content [1] – have generated particular interest in the development of virtual agents. These agents aim to adopt distinct personas according to user design, interacting with other agents and potential actions in sandbox environments to form simulations of scenarios. Such models have reasonably simulated diverse settings, such as hospital management [2], virtual reality games [3], and computer programming [4]. The importance of developing such simulations lies in valuable direct task outputs (ex: automated code generation), as well as the creation of perturbable environments which can be used to better study modeled systems (ex: discovering optimal patient care strategies in hospitals).</p>
+</div>
+<div class="ltx_para" id="S1.p2">
+<p class="ltx_p" id="S1.p2.1">The United States Senate is a complex body of governance composed of diverse individuals working to achieve their own agendas. The goal of the U.S. Senate is to propose, debate, and pass legislation that benefits the senators’ constituents. The Senate often faces political gridlock and polarization, where neither side is willing to compromise. Efforts to research and better understand political polarization have primarily drawn on social science, including the development of quantitative indicators of political dysfunction as well as takeaways from real-world experience [5] [6].</p>
+</div>
+<div class="ltx_para" id="S1.p3">
+<p class="ltx_p" id="S1.p3.1">To date, no study has simulated believable government action using LLMs. We present the first attempt to use LLM-driven virtual agents to simulate the US Senate, focusing on the Select Committee on Intelligence as a proof-of-concept. We seek to demonstrate the potential to use such a system for exploration of legislative behavior and discovery of useful themes, such as how to promote bipartisanship in a gridlocked body.</p>
+</div>
+<figure class="ltx_figure" id="S1.F1">
+<p class="ltx_p ltx_align_center" id="S1.F1.1"><span class="ltx_text ltx_framed ltx_framed_rectangle" id="S1.F1.1.1" style="border-color: #000000;"><img alt="Refer to caption" class="ltx_graphics ltx_img_landscape" height="171" id="S1.F1.1.1.g1" src="extracted/5694027/study_overview.png" width="314"/></span></p>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 1: </span>Study overview. A - LLM-driven agents are synthesized to model U.S Senators. B - Agents are placed into structured debate simulating the Senate Intelligence Committee. C - Agent interactions are evaluated, they are questioned to determine recall and reflection ability, and domain experts assign believability scores to the simulation. </figcaption>
+</figure>
+</section>
+<section class="ltx_section" id="S2">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">2 </span>Methodology</h2>
+<div class="ltx_para" id="S2.p1">
+<p class="ltx_p" id="S2.p1.1">We adapted the structure proposed in the seminal “Generative Agents” study [7]. Specifically, we defined agents with specific attributes relevant to their roles as US Senators (name, supported policies, key traits, years of service). Next, we placed them into debate with each other on various complex issues. Each agent was assigned a memory stream which they could refer back throughout debate, to inform discussions with context of previous interactions. At the end of each discussion segment, we could ask the agents to reflect on specific ideas, at which time they accessed the same memory stream to generate relevant summaries.</p>
+</div>
+<section class="ltx_subsection" id="S2.SS1">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.1 </span>Agents</h3>
+<div class="ltx_para" id="S2.SS1.p1">
+<p class="ltx_p" id="S2.SS1.p1.1">Our agents each represented various Senators in the 2024 Senate Committee on Intelligence. To provide accurate information about each Senator to their representative agent, we accessed the popular GPT-3.5 LLM model [8] using the OpenAI API to generate concise policies and key traits about each member of the committee. For instance, for Republican Senator Marco Rubio from Florida, the LLM generated the following policy bio: "My policies are aimed at advancing economic growth and strengthening America’s role in the world".</p>
+</div>
+<div class="ltx_para" id="S2.SS1.p2">
+<p class="ltx_p" id="S2.SS1.p2.1">Next, for each Senator, their name, years of service, party, traits, and policies were stored in a JSON file to be accessed during the simulation. Due to resource constraints associated with LLM simulation, we limited the Senators included in the simulation to: Mark Warner (D), Marco Rubio (R), Susan Collins (R), John Cornyn (R), Ron Wyden (D), and Martin Heinrich (D).</p>
+</div>
+<div class="ltx_para" id="S2.SS1.p3">
+<p class="ltx_p" id="S2.SS1.p3.1">Each agent was instantiated with a memory list, which is a JSON that stores the agent’s perceived memories at every time step. At each step, their interpretation of the current conversation was stored for accessed later in the simulation. Throughout debate, the agents accessed their memories to make more informed comments in the context of previous actions. At the end of our simulation, we questioned the agents and asked them to reflect on the debate and what was accomplished using the same memory list.</p>
+</div>
+</section>
+<section class="ltx_subsection" id="S2.SS2">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.2 </span>Simulation</h3>
+<div class="ltx_para" id="S2.SS2.p1">
+<p class="ltx_p" id="S2.SS2.p1.1">We presented our agents with two different current issues to discuss: 1) Russia’s invasion of Ukraine. 2) A general discussion of ideas for a bill that the nation needs. For each topic, we presented the agents with a prompt describing the problem settings. Then, they each had an opportunity to state their position. During each cycle, agents could respond to others as they saw fit, resulting in both cooperation and arguments. After three rounds of such conversation cycles, we began questioning and evaluation.</p>
+</div>
+</section>
+<section class="ltx_subsection" id="S2.SS3">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.3 </span>Assessment of agent capability and simulation believability</h3>
+<div class="ltx_para" id="S2.SS3.p1">
+<p class="ltx_p" id="S2.SS3.p1.1">Our evaluation focused on two key aspects of the simulated Senate Intelligence Committee: (1) the agents’ ability to summarize and reflect on their actions and (2) their capacity to find bipartisan solutions under varying conditions. These goals aimed to assess the efficacy of our LLM-driven virtual agents to simulate realistic senatorial behavior and decision-making processes.</p>
+</div>
+<div class="ltx_para" id="S2.SS3.p2">
+<p class="ltx_p" id="S2.SS3.p2.1">To assess agent capacity for self-reflection and summarization, we randomly selected agents from our simulations and prompted them to reflect on their actions during committee meetings. At the end of each conversation cycle for each presented problem, we asked our chosen agents to reflect on the debate experience and what they accomplished, through three questions: “What did you do during committee?”, “What senator did you agree most with, and which did you disagree most with?” and “What progress was made today, and what held you back the most?” We scrutinized their responses for accuracy, depth of insight, and alignment with their simulated behavior.</p>
+</div>
+<div class="ltx_para" id="S2.SS3.p3">
+<p class="ltx_p" id="S2.SS3.p3.1">For quantitative analysis further we recruited two domain experts – a high school Government teacher and a former Congressional staffer – to assign believability scores (0 = not believable, 10 = highly believable) to the generated simulations. For this analysis, the entire simulation was run 10 times, with experts assigning a single score to each round. Inter-observer agreement was assessed using Pearson’s correlation testing.</p>
+</div>
+<div class="ltx_para" id="S2.SS3.p4">
+<p class="ltx_p" id="S2.SS3.p4.1">To assess the ability of our simulation to illuminate pathways to bipartisanship, we introduced perturbations to each scenario to potentially catalyze bipartisan cooperation. Subsequent interactions were observed and qualitatively analyzed.</p>
+</div>
+</section>
+</section>
+<section class="ltx_section" id="S3">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">3 </span>Results</h2>
+<section class="ltx_subsection" id="S3.SS1">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.1 </span>Agents accurately and thoughtfully summarize simulations</h3>
+<div class="ltx_para" id="S3.SS1.p1">
+<p class="ltx_p" id="S3.SS1.p1.1">We generally observed that agents demonstrated high accuracy and thoughtful reflections when summarizing their actions. For example:</p>
+</div>
+<div class="ltx_para" id="S3.SS1.p2">
+<p class="ltx_p" id="S3.SS1.p2.1">Agent Rubio: "During the committee meeting, I strongly advocated for substantial military aid to Ukraine. With the new information that Russia is about to overrun Ukraine, I emphasized the urgency of our support. I believe we can’t afford to wait, and our response needs to be swift and decisive. I’m satisfied with the outcome, especially since we managed to agree on an emergency aid package that includes both military and humanitarian assistance, along with provisions for oversight."</p>
+</div>
+<div class="ltx_para" id="S3.SS1.p3">
+<p class="ltx_p" id="S3.SS1.p3.1">This reflection accurately captured the agent’s role in the debate, primary arguments, and satisfaction with the outcome, demonstrating an understanding of situational urgency and the compromise reached.</p>
+</div>
+<div class="ltx_para" id="S3.SS1.p4">
+<p class="ltx_p" id="S3.SS1.p4.1">Similarly, Agent Wyden provided a nuanced reflection that acknowledged both the urgency of the situation and concerns about accountability:</p>
+</div>
+<div class="ltx_para" id="S3.SS1.p5">
+<p class="ltx_p" id="S3.SS1.p5.1">Agent Wyden: "In the meeting, I raised concerns about the balance between our domestic needs and the urgency of supporting Ukraine. While I understand the gravity of the situation, I stressed the importance of having clear accountability and oversight to prevent misuse of funds. Given the immediate threat, I supported the emergency aid package but insisted on the need for strict oversight and a long-term strategy. I’m cautiously optimistic about the outcome; it’s a necessary step, but we must follow through with diligence."</p>
+</div>
+</section>
+<section class="ltx_subsection" id="S3.SS2">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.2 </span>Expert-assigned believability</h3>
+<div class="ltx_para" id="S3.SS2.p1">
+<p class="ltx_p" id="S3.SS2.p1.1">Domain experts ranked tested simulations as relatively highly believable on a scale from 0-10, with mean scores greater than 5 across scenarios (Table 1). Importantly, inter-observer agreement measured by Pearson’s correlation demonstrated significant (p&lt;0.5) agreement between the experts, strengthening the reliability of the measures.</p>
+</div>
+<figure class="ltx_table" id="S3.T1">
+<figcaption class="ltx_caption"><span class="ltx_tag ltx_tag_table">Table 1: </span>Mean believability score and calculated inter-observer agreement for agent simulations </figcaption>
+<table class="ltx_tabular ltx_centering ltx_guessed_headers ltx_align_middle" id="S3.T1.1">
+<tbody class="ltx_tbody">
+<tr class="ltx_tr" id="S3.T1.1.1.1">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_column ltx_border_t" id="S3.T1.1.1.1.1">Funding for Ukraine</th>
+<td class="ltx_td ltx_border_t" id="S3.T1.1.1.1.2"></td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.2.2">
+<td class="ltx_td ltx_align_left ltx_border_t" id="S3.T1.1.2.2.1">Expert 1 (HS Government Teacher)</td>
+<td class="ltx_td ltx_align_left ltx_border_t" id="S3.T1.1.2.2.2">8.1</td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.3.3">
+<td class="ltx_td ltx_align_left" id="S3.T1.1.3.3.1">Expert 2 (Former Congressional Staffer)</td>
+<td class="ltx_td ltx_align_left" id="S3.T1.1.3.3.2">6.8</td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.4.4">
+<td class="ltx_td ltx_align_left" id="S3.T1.1.4.4.1">Pearson’s Correlation, P-value</td>
+<td class="ltx_td ltx_align_left" id="S3.T1.1.4.4.2">0.63, 0.03</td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.5.5">
+<td class="ltx_td ltx_align_left ltx_border_t" id="S3.T1.1.5.5.1">Discussion on needed bills</td>
+<td class="ltx_td ltx_border_t" id="S3.T1.1.5.5.2"></td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.6.6">
+<td class="ltx_td ltx_align_left ltx_border_t" id="S3.T1.1.6.6.1">Expert 1 (HS Government Teacher)</td>
+<td class="ltx_td ltx_align_left ltx_border_t" id="S3.T1.1.6.6.2">6.4</td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.7.7">
+<td class="ltx_td ltx_align_left" id="S3.T1.1.7.7.1">Expert 2 (Former Congressional Staffer)</td>
+<td class="ltx_td ltx_align_left" id="S3.T1.1.7.7.2">7.2</td>
+</tr>
+<tr class="ltx_tr" id="S3.T1.1.8.8">
+<td class="ltx_td ltx_align_left ltx_border_bb" id="S3.T1.1.8.8.1">Pearson’s Correlation, P-value</td>
+<td class="ltx_td ltx_align_left ltx_border_bb" id="S3.T1.1.8.8.2">0.59, 0.02</td>
+</tr>
+</tbody>
+</table>
+</figure>
+</section>
+<section class="ltx_subsection" id="S3.SS3">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.3 </span>Simulation perturbations identify potential for bipartisanship</h3>
+<div class="ltx_para" id="S3.SS3.p1">
+<p class="ltx_p" id="S3.SS3.p1.1">We observed changes in agent behavior and decision-making following introduced perturbations, sometimes leading to bipartisanship. For example:</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p2">
+<p class="ltx_p" id="S3.SS3.p2.1">Initial Debate: Agents demonstrated significant polarization regarding funding for Ukraine. Agents Rubio and Cotton advocated for immediate and substantial military aid, while Agent Wyden expressed concerns about balancing domestic needs with international commitments.</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p3">
+<p class="ltx_p" id="S3.SS3.p3.1">Perturbation: Introduction of intelligence indicating imminent Russian overrun of Ukraine.</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p4">
+<p class="ltx_p" id="S3.SS3.p4.1">Outcome: The perturbation led to increased bipartisanship. Agents who were initially hesitant, such as Wyden, agreed to support an emergency aid package. The committee reached a consensus on providing both military and humanitarian aid, with provisions for oversight.</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p5">
+<p class="ltx_p" id="S3.SS3.p5.1">In Figure 1, we highlight representative dialogue from each phase in this flow of debate. As presented, agents appeared more likely to strike conciliatory tones open to compromise following the introduction of a perturbation.</p>
+</div>
+<figure class="ltx_figure" id="S3.F2">
+<p class="ltx_p ltx_align_center" id="S3.F2.1"><span class="ltx_text ltx_framed ltx_framed_rectangle" id="S3.F2.1.1" style="border-color: #000000;"><img alt="Refer to caption" class="ltx_graphics ltx_img_landscape" height="221" id="S3.F2.1.1.g1" src="extracted/5694027/perturbation.png" width="393"/></span></p>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 2: </span>Introduction of perturbation leads to agent bipartisanship.</figcaption>
+</figure>
+</section>
+</section>
+<section class="ltx_section" id="S4">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">4 </span>Discussion</h2>
+<div class="ltx_para" id="S4.p1">
+<p class="ltx_p" id="S4.p1.1">Here, we demonstrate the potential of LLM-driven virtual agents to simulate complex legislative processes in the U.S. Senate Intelligence Committee. The ability of the agents to provide accurate summarizations and thoughtful reflections suggests that our model can capture nuanced decision-making processes. Expert-assigned believability indicates that outputs from our system are reasonably reflective of real-world Senate proceedings, highlighting the applicability of the framework. The capacity of the simulation to model bipartisanship, especially in response to external perturbations, is significant. This suggests our model could be valuable for studying factors that promote bipartisanship in legislative bodies. Broadly, our findings showcase the utility of using LLM-based virtual agents to improve human understanding of critical real-world scenarios.</p>
+</div>
+<div class="ltx_para" id="S4.p2">
+<p class="ltx_p" id="S4.p2.1">Our results align with emerging literature illuminating how LLMs can be valuable tools for enhancing policymaking by helping refine and target legislation [9]. Recently, Moghimifar et al [10] utilized LLMs to model consensus-finding negotiations between political coalitions. However, their methodology did not adapt agent models equipped with memory capability, and their simulation structure utilized Markov Models rather than open-ended discussion between agents. We believe that the application of these differences enable our approach to more flexibly model government actions at the granular individual actor level.</p>
+</div>
+<div class="ltx_para" id="S4.p3">
+<p class="ltx_p" id="S4.p3.1">This study was limited to a single Congressional committee with selected members due to computational resource constraints associated with LLM usage. Additionally, we present a preliminary analysis of the proposed methods, where systemic evaluations of adherence to real-world outcomes or comparison of factors driving bipartisanship, were out of scope. Future works can increase agent complexity, expanding the simulation to include the full Congress, and train agents on historical data to simulate past legislative sessions. The proposed framework could further be used to simulate outcomes of legislation, helping policymakers anticipate challenges and proactively identify grounds for bipartisanship.</p>
+</div>
+</section>
+<section class="ltx_section" id="S5">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">5 </span>Conclusion</h2>
+<div class="ltx_para" id="S5.p1">
+<p class="ltx_p" id="S5.p1.1">Our study presents a novel approach to simulating legislative processes using LLM-driven virtual agents. We demonstrated that these agents can engage in realistic debate, reflect on their actions, and find bipartisan solutions under certain conditions. The ability of our simulation to model shifts towards bipartisanship in response to external factors is particularly noteworthy. As we refine and expand this model, we anticipate it will become a valuable tool for political scientists, policymakers, and educators. By establishing a flexible, controllable environment for studying legislative dynamics, this approach opens up new avenues for research in political science and governance.</p>
+</div>
+</section>
+<section class="ltx_section" id="Sx1">
+<h2 class="ltx_title ltx_title_section">References</h2>
+<div class="ltx_para" id="Sx1.p1">
+<p class="ltx_p" id="Sx1.p1.1"><span class="ltx_text" id="Sx1.p1.1.1" style="font-size:90%;">[1] OpenAI (2023). GPT-4 Technical Report.</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p2">
+<p class="ltx_p" id="Sx1.p2.1"><span class="ltx_text" id="Sx1.p2.1.1" style="font-size:90%;">[2] Li, J., Wang, S., Zhang, M., Li, W., Lai, Y., Kang, X., Weizhi, M., &amp; Liu, Y. (2024). Agent hospital: A simulacrum of hospital with evolvable medical agents. arXiv preprint arXiv:2405.02957.</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p3">
+<p class="ltx_p" id="Sx1.p3.1"><span class="ltx_text" id="Sx1.p3.1.1" style="font-size:90%;">[3] Wan, H., Zhang, J., Suria, A.A., Yao, B., Wang, D., Coady, Y., &amp; Prpa. M., (2024). Building LLM-based AI Agents in Social Virtual Reality. In Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA ’24). Association for Computing Machinery, New York, NY, USA, Article 65, 1–7. https://doi.org/10.1145/3613905.3651026</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p4">
+<p class="ltx_p" id="Sx1.p4.1"><span class="ltx_text" id="Sx1.p4.1.1" style="font-size:90%;">[4] Zhang, K., Li, J., Li, G., Shi, X., &amp; Jin, Z. (2024). CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges. arXiv preprint arXiv:2401.07339.</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p5">
+<p class="ltx_p" id="Sx1.p5.1"><span class="ltx_text" id="Sx1.p5.1.1" style="font-size:90%;">[5] Cameron, M. A., Ribeiro, A., Baier, G., McKay, S., Monnerat, R. A., &amp; Cameron, C. A. (2022). Partisanship and Political Learning: Lessons from Training Politicians. Journal of Political Science Education, 19(1), 154–173. https://doi.org/10.1080/15512169.2022.2130070</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p6">
+<p class="ltx_p" id="Sx1.p6.1"><span class="ltx_text" id="Sx1.p6.1.1" style="font-size:90%;">[6] DeFord, D., Dhamankar, N., Duchin, M., Gupta, V., McPike, M., Schoenbach, G., &amp; Sim, K. W. (2023). Implementing Partisan Symmetry: Problems and Paradoxes. Political Analysis, 31(3), 305–324. doi:10.1017/pan.2021.49</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p7">
+<p class="ltx_p" id="Sx1.p7.1"><span class="ltx_text" id="Sx1.p7.1.1" style="font-size:90%;">[7] Park, J. S., O’Brien, J., Cai, C. J., Morris, M. R., Liang, P., &amp; Bernstein, M. S. (2023, October). Generative agents: Interactive simulacra of human behavior. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (pp. 1-22).</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p8">
+<p class="ltx_p" id="Sx1.p8.1"><span class="ltx_text" id="Sx1.p8.1.1" style="font-size:90%;">[8] Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., … Amodei, D. (2020). Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, 1877-1901.</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p9">
+<p class="ltx_p" id="Sx1.p9.1"><span class="ltx_text" id="Sx1.p9.1.1" style="font-size:90%;">[9] Peña, A., Morales, A., Fierrez, J., Serna, I., Ortega-Garcia, J., Puente, I., Cordova, J., &amp; Cordova, G. (2023, August). Leveraging large language models for topic classification in the domain of public affairs. In International Conference on Document Analysis and Recognition (pp. 20-33). Cham: Springer Nature Switzerland.</span></p>
+</div>
+<div class="ltx_para" id="Sx1.p10">
+<p class="ltx_p" id="Sx1.p10.1"><span class="ltx_text" id="Sx1.p10.1.1" style="font-size:90%;">[10] Moghimifar, F., Li, Y. F., Thomson, R., &amp; Haffari, G. (2024). Modelling Political Coalition Negotiations Using LLM-based Agents. arXiv preprint arXiv:2402.11712.</span></p>
+</div>
+</section>
+</article>
+</div>
+<footer class="ltx_page_footer">
+<div class="ltx_page_logo">Generated  on Wed Jun 26 19:08:56 2024 by <a class="ltx_LaTeXML_logo" href="http://dlmf.nist.gov/LaTeXML/"><span style="letter-spacing:-0.2em; margin-right:0.1em;">L<span class="ltx_font_smallcaps" style="position:relative; bottom:2.2pt;">a</span>T<span class="ltx_font_smallcaps" style="font-size:120%;position:relative; bottom:-0.2ex;">e</span></span><span style="font-size:90%; position:relative; bottom:-0.2ex;">XML</span><img alt="Mascot Sammy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="/></a>
+</div></footer>
+</div>
+</body>
+</html>

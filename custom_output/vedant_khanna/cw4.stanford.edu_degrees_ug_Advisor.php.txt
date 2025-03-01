@@ -1,0 +1,43 @@
+        [Home](index.shtml)
+      <li><a href="Considering.shtml">Considering CS?</a></li>
+      <li><a href="CSE.shtml">CSE</a></li>
+        [Declaring](Declare.shtml)
+        [The Major](Requirements.shtml)
+      <li><a href="SeniorProject.shtml">Senior Project</a></li>
+        [Program Sheets](ProgramSheets.shtml)
+        [The Minor](Minor.shtml)
+        [The Coterm](Coterm.shtml)
+        [Petitions](Requirements.shtml#Petitions)
+        [Transfer Credit](Requirements.shtml#Transfers)
+      <li><a href="AfterStanford.shtml">After Stanford</a></li>
+        [Events](Events.shtml)
+        [Who To See](WhoToContact.shtml)
+      <li><a href="WhoToContact.shtml">Contact</a></li>
+    Jay Borenstein
+    Total Students: 13
+    Mailing List: jbb-ug-advisees@cs.stanford.edu
+        Yarency Avelar (yarencya@cs.stanford.edu)
+        Emmanuel Ayumba (eayumba@cs.stanford.edu)
+        Elizabeth Theresa Baena (ebaena@cs.stanford.edu)
+        Ryan Da (rda1@cs.stanford.edu)
+        Vedant Sumit Khanna (vedant@cs.stanford.edu)
+        Gustavo Martinez (gm3603@cs.stanford.edu)
+        Grace Miller (egmill@cs.stanford.edu)
+        Alex Nguyen (ngualexa@cs.stanford.edu)
+        Uche Ochuba (uochuba@cs.stanford.edu)
+        Shree Reddy (shreered@cs.stanford.edu)
+        Noel Sarduy (noelsd@cs.stanford.edu)
+        Regina Sevilla (regcsev@cs.stanford.edu)
+        Emma Sun (emmacsun@cs.stanford.edu)
+    end of #content
+      ©
+        [Stanford
+University](http://stanford.edu/)
+        [Computer Science
+Department](http://cs.stanford.edu/)
+      Content by
+        [CS Course
+Advisor](WhoToSee.shtml)
+      Last updated on Saturday, 05-Sep-2009 20:46:59 PDT.
+      Design by Linda Nguyen, '05
+    Google Analytics

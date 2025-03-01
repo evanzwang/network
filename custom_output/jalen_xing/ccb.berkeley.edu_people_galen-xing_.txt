@@ -1,0 +1,101 @@
+        Brand and toggle get grouped for better mobile display
+          Toggle navigation
+                [Center for Computational Biology](/)
+        /.navbar-header
+        Collect the nav links, forms, and other content for toggling
+                  Search Terms
+                  Submit Search
+                [Home](/home)
+                [About](/overview)
+                    [Overview](/overview)
+                    [Governance](/about/governance)
+                    [Careers](/about/careers)
+                    [Contact Us](/about/contact-us)
+                [People](/people/principal-investigators)
+                    [Principal Investigators](/people/principal-investigators)
+                        [Core Faculty](/people/core-faculty)
+                        [Welcome New CCB Faculty](/people/principal-investigators/welcome-new-ccb-faculty)
+                        [Research Fields](/people/principal-investigators/research-fields)
+                    [Associated Faculty](/people/associated-faculty)
+                        [DE Faculty](/people/associated-faculty/de-faculty)
+                        [PhD Co-Advisors](/people/associated-faculty/phd-co-advisors)
+                        [Affiliated Faculty](/people/associated-faculty/affiliated-faculty)
+                        [Professors Emeriti](/people/associated-faculty/professors-emeriti)
+                    [Graduate Students](/people/graduate-students)
+                        [PhD Students](/people/graduate-students/phd-students)
+                        [Designated Emphasis Students](/people/graduate-students/designated-emphasis-students)
+                    [Alumni](/people/alumni)
+                        [PhD Alumni](/people/alumni/phd-alumni)
+                        [DE Alumni](/people/alumni/de-alumni)
+                        [Recent Graduate Highlights](/people/alumni/recent-graduate-highlights)
+                    [Administrative Staff](/people/administrative-staff)
+                [Research](/research/faculty-research)
+                    [Faculty & Research](/research/faculty-research)
+                    [Centers and Facilities](/research/centers-and-facilities)
+                    [Web Servers, Databases, Tools](/research/web-servers-databases-tools)
+                [Academics](/academics)
+                    [Computational Biology PhD](/academics/computational-biology-phd)
+                        [PhD Requirements](/academics/computational-biology-phd/phd-requirements)
+                        [Financial Support](/academics/computational-biology-phd/financial-support)
+                        [PhD Admissions](/academics/computational-biology-phd/phd-admissions)
+                        [Application Tips](/academics/computational-biology-phd/application-tips)
+                        [PhD Faculty and Contacts](/academics/computational-biology-phd/phd-faculty-and-contacts)
+                    [Designated Emphasis](/academics/designated-emphasis)
+                        [Requirements](/academics/designated-emphasis/requirements)
+                        [Application Process](/academics/designated-emphasis/application-process)
+                        [DE Faculty and Contacts](/academics/designated-emphasis/de-faculty-and-contacts)
+                    [Professional Development](/academics/professional-development)
+                    [Undergraduate Opportunities](/academics/undergraduate-opportunities)
+                [Outreach](/outreach/overview)
+                    [Seminars and Symposia](/outreach/seminars-and-symposia)
+                        [CCB Seminars](/outreach/seminars-and-symposia/ccb-seminars)
+                        [Industry Speaker Series](/outreach/seminars-and-symposia/industry-speaker-series)
+                        [Student Seminars](/outreach/seminars-and-symposia/student-seminars)
+                    [Workshops and Bootcamps](/outreach/workshops-and-bootcamps)
+                        [Bioinformatics Bootcamp](/outreach/workshops-and-bootcamps/bioinformatics-bootcamp)
+                        [Core Skills Seminar](/outreach/workshops-and-bootcamps/core-skills-seminars)
+                        [Resources](/outreach/workshops-and-bootcamps/resources)
+                    [Annual Retreat](/outreach/annual-retreat)
+                [Diversity](/diversity-equity-inclusion-belonging)
+                [News](/news-archive)
+                Secondary navigation
+                    [Give to CCB](https://give.berkeley.edu/fund/FU0937000)
+        /.navbar-collapse
+      /.navbar
+    /.container
+                Galen Xing
+    /#pre-content
+      /#title-pre-content
+                                    Job title:
+                                      2021 PhD Cohort
+                                    Department:
+                                      CCB PhD Student
+                                    Bio/CV:
+                                          Labs:
+                                            [Alex Marson](https://ccb.berkeley.edu/people/alex-marson)
+                                            ,
+                                            [Aaron Streets](https://ccb.berkeley.edu/people/aaron-streets)
+                                    Role:
+                            Contact
+                                                  [galenxing@berkeley.edu](mailto:galenxing@berkeley.edu)
+                              /.boxton
+                /.bryant-flipped
+          /.main
+        /#content
+      /#main-content
+    role main
+  /#main-wrapper
+                Follow us:
+                        X (formerly Twitter)
+                        LinkedIn
+                        [Credits](/credits)
+                        108 Stanley Hall
+                        Berkeley, CA 94720-3220
+                        (510) 666-3342
+                  [Powered by Open Berkeley](https://open.berkeley.edu)
+                  [Accessibility](https://dap.berkeley.edu/get-help/report-web-accessibility-issue)
+                    Statement
+                  [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement)
+                    Policy Statement
+                  [Privacy](https://open.berkeley.edu/privacy-statement)
+                Copyright © 2025 UC Regents; all rights reserved

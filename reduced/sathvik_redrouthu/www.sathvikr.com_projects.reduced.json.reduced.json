@@ -1,0 +1,85 @@
+{
+  "title": "Sathvik Redrouthu's Homepage",
+  "meta_description": "",
+  "main_content": "Cool (and occasionally useful) stuff I made The theme seems to be compilers, chips, and AI... An AI agent that can autonomously design inference chips A programming language for an optical computer A photonic O(1) MATMUL accelerator Compiler for the Jack programming language A Regex interpreter using Brzozowski derivatives A handwritten tensor algebra compiler with a sparse tensor storage system better than NumPy Toy interpreter for RED, my first programming language AI chess engine Sudoku solver CV algorithm to count physical money (from scratch) edge detection (from scratch) tiny neural net (from scratch) Othello engine augmented reality chessboard cipher cracker AI Tetris solver train stuff toy syntax analyzers Graham scan hands-free computer interface puzzle solver Calibron engine word ladder solver image vectorizer search engine file storage app online word processor a toy Quora AI for the Ghost word game A bunch more unfinished things, and there's probably stuff I forgot to upload to GitHub P.S. , I also made an electric guitar from scratch , and a few EMP generators . In 11th grade I almost got in trouble for wrapping a bunch of multimeters with copper wire and running an electromagnetic pulse through them",
+  "links": [
+    {
+      "url": "https://www.youtube.com/watch?v=KA7YH4XT1s0&t=5s",
+      "text": "An AI agent that can autonomously design inference chips"
+    },
+    {
+      "url": "https://github.com/sathvikr/nand2tetris/tree/main/JackCompiler/src",
+      "text": "Compiler for the Jack programming language"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/regex_compiler%20(finite%20automata%20%2B%20browzowski%20derivative)",
+      "text": "A Regex interpreter using Brzozowski derivatives"
+    },
+    {
+      "url": "https://github.com/sathvikr/tensor-algebra-compiler",
+      "text": "A handwritten tensor algebra compiler"
+    },
+    {
+      "url": "https://github.com/sathvikr/chess",
+      "text": "AI chess engine"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/ai_sudoku_solver",
+      "text": "Sudoku solver"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/perceptrons_practice",
+      "text": "tiny neural net (from scratch)"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/othello",
+      "text": "Othello engine"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/forensics_club_cipher_cracker",
+      "text": "cipher cracker"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/tetris",
+      "text": "AI Tetris solver"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/trains",
+      "text": "train stuff"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/sliding_puzzles",
+      "text": "puzzle solver"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/calibron",
+      "text": "Calibron engine"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/wordladders",
+      "text": "word ladder solver"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/kmeans",
+      "text": "image vectorizer"
+    },
+    {
+      "url": "https://github.com/sathvikr/ai-stuff/tree/main/ghost",
+      "text": "AI for the Ghost word game"
+    },
+    {
+      "url": "eguitar.html",
+      "text": "electric guitar from scratch"
+    }
+  ],
+  "images": [
+    {
+      "src": "media/builds/emp.gif",
+      "alt": "EMP Generator"
+    },
+    {
+      "src": "media/builds/boost.gif",
+      "alt": "Boost Converter"
+    }
+  ]
+}

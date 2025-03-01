@@ -1,0 +1,2631 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151308353-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151308353-1');
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"/>
+
+<! script src="resources/authors.js"></script>
+
+<script>
+var Author = {
+    //default config
+    config: {
+        el: '#author',
+        name: 'Author Name',
+        url: 'empty.com'
+    },
+
+    init: function (config) {
+      var cfg = this.config = $.extend({}, this.config, config);
+      $(cfg.el).html('<a href=' + cfg.url + '>');
+      $(cfg.el).innerHTML = cfg.name;
+    }
+};
+
+$(function () {
+    Object.create(Author).init({
+        el: '#taochen',
+        name: "Tao Chen",
+        url: "https://taochenshh.github.io/"
+    });
+
+    Object.create(Author).init({
+        el: '#jacobhuh',
+        name: 'Jacob Huh',
+        url: "http://minyounghuh.com/"
+    });
+});
+</script>
+
+  <title>Pulkit Agrawal</title>
+
+  <meta name="author" content="Pulkit Agrawal">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/jpg" href="images/pulkit.jpg">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Pulkit Agrawal</name>
+              </p>
+              <p>I am an Associate Professor in the department of Electrical
+                Engineering and Computer Science (EECS) at <a href="www.mit.edu">MIT</a>.
+                My lab is a part of the Computer Science and Artificial Intelligence Lab
+                (<a href="https://www.csail.mit.edu/">CSAIL</a>), is
+                affiliated with the Laboratory for Information and Decision Systems
+                (<a href="https://lids.mit.edu/">LIDS</a>) and involved with
+                NSF AI Institute for Artificial Intelligence and Fundamental Interactions
+                (<a href="https://iaifi.org/"> IAIFI </a>).
+              </p>
+
+              <p>
+                I completed my Ph.D. at UC Berkeley; undergraduate studies from IIT Kanpur.
+                Co-founded <a href="https://www.safely-you.com/">SafelyYou Inc.</a>
+                that builds fall prevention technology. Advisor to
+                <a href="https://www.tutorintelligence.com/">Tutor Intelligence</a>,
+                Lab0 Inc., and <a href="https://csm.ai/"> Common Sense Machines</a>.
+                <!--and the
+                <a href=https://aifoundry.ai/>AI Foundry</a>, an incubator for AI startups.
+              -->
+              </p>
+              <p>
+              </p>
+              <p style="text-align:center">
+                <a href="https://twitter.com/pulkitology?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @pulkitology</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                &nbsp/&nbsp <a href="https://www.linkedin.com/in/pulkit-agrawal-967a4218/"> LinkedIn </a> &nbsp/&nbsp
+                <a href="mailto:pulkitag@mit.edu">Email</a> &nbsp/&nbsp
+                <a href="data/pulkit_CV_current.pdf">CV</a> &nbsp/&nbsp
+                <a href="data/pulkit-bio.txt">Biography</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=UpZmJI0AAAAJ&hl=en">Google Scholar</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/pulkit.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/pulkit.jpg" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+               The overarching research interest is to build machines that have similar manipulation
+               and locomotion abilities as humans. These machines will automatically and continuously
+               learn about their environment and exhibit both common sense and physical intuition.
+               I refer to this line of work as <b>"computational sensorimotor learning"</b>.
+               It encompasses problems in <b>peception</b>, <b>control</b>, <b>hardware design</b>,
+               <b>robotics</b>, <b>reinforcement learning</b>, and other learning approaches to control.
+               My past work has also drawn inspiration from  <b>cognitive science</b>, and
+               <b> neuroscience</b>.
+               <!-- My key papers are <span class="highlight">highlighted</span>. -->
+              </p>
+
+              <p style="text-align:center">
+                <a href="http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-133.pdf">
+                  Ph.D. Thesis (Computational Sensorimotor Learning)</a> &nbsp/&nbsp
+                <a href="https://youtu.be/opsQndkSw5k">Thesis Talk</a> &nbsp/&nbsp
+                <a href="data/agrawal2018computational.bib"> Bibtex</a>
+              </p>
+              <p style="text-align:center">
+                <a href="https://www.youtube.com/watch?v=LPGGIdxOmWI" target="_blank">
+                  TEDxMIT Talk: </a> Why machines can play chess but <strong> can't </strong> open doors? (i.e., why is robotics hard?)
+              </p>
+
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Teaching</heading>
+              <p>
+                <b> Courses </b> <br>
+                <a href="https://pulkitag.github.io/6.8200/" target="_blank"> Computational Sensorimotor Learning </a>
+                <br>
+                Graduate Machine Learning: FA'20, FA'21 <br>
+                Intelligent Robot Manipulation:
+                <a href="http://manipulation.csail.mit.edu/Fall2019/"> FA'19</a> <br>
+              </p>
+              <p>
+                 <b> Professional Education </b> <br>
+                 These courses are intended for industry professionals and not MIT students. <br>
+                  Advanced Reinforcement Learning:
+                  <a href="https://professional.mit.edu/course-catalog/advanced-reinforcement-learning-0"> Summer'24 </a> <br>
+                  Reinforcement Learning:
+                  <a href="https://professional.mit.edu/course-catalog/reinforcement-learning"> Summer'24 </a> <br>
+                  AI in Robotics:
+                  <a href="https://professional.mit.edu/course-catalog/ai-robotics-learning-algorithms-design-and-safety"> Summer'24 <a/><br>
+              </p>
+
+            </td>
+          </tr>
+        </tbody></table>
+
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Recent Awards to Lab Members </heading>
+              <p>
+                Pulkit recieves 2024 <a href="https://www.ieee-ras.org/awards-recognition/society-awards/ras-early-career-award-academic">
+                IEEE Early Academic Career Award in Robotics and Automation </a>.
+              <br>
+                Meenal Parakh wins the 2024 Charles and Jennifer Johnson
+                MEng Thesis Award.
+              <br>
+               Idan Shenfeld and Zhang-Wei Hong win the 2024 Qualcomm Innvoation Fellowship.
+              <br>
+                Srinath Mahankali wins the 2024 Jeremy Gerstle UROP Award for undergraduate research.
+              <br>
+                Srinath Mahankali wins the 2024 Barry Goldwater Scholarship.
+              <br>
+                Gabe Margolis wins the 2022 Ernst A. Guillemin Thesis Award in Artificial
+                Intelligence and Decision Making.
+              <br>
+               <a href="https://sites.google.com/robot-learning.org/corl2021/program/awards_2021?authuser=0">Best Paper Award </a> at Conference on Robot Learning (CoRL) 2021 to our work on
+                  <a href="https://taochenshh.github.io/projects/in-hand-reorientation#"> in-hand
+                  object re-orientation</a>. <br>
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research Group</heading>
+              <p>
+              The lab is an unsual collection of folks working on something that is unconceivable/unthinkable, but not
+              impossible in our lifetime: General Artificial Intelligence. Life is short, do what you must do :-)
+              I like to call my group: <b>Improbable AI Lab</b>.
+              </p>
+            <p>
+              <b> Post Docs </b> <br>
+              <a href="https://fang-haoshu.github.io/"> Haoshu Fang </a> <br>
+              <a href="https://scholar.google.com/citations?user=0lns2BAAAAAJ&hl=en"> Branden Romero </a> <br>
+            </p>
+            <p>
+              <b> Graduate Students </b> <br>
+              <a href="https://tonibronars.github.io/"> Antonia Bronars </a><br>
+              <a href="https://gmargo11.github.io/about/"> Gabe Margolis</a> <br>
+              <a href="https://williamd4112.github.io/"> Zhang-wei Hong </a> <br>
+              <a href="https://www.linkedin.com/in/nolan-fey"> Nolan Fey </a> <br>
+              <a href="https://younghyopark.me/"> Younghyo Park </a> <br>
+              <a href="https://jyopari.github.io/aboutMe.html"> Jyothish Pari </a> <br>
+              <a href="https://idanshen.github.io/"> Idan Shenfeld </a> <br>
+              <a href="https://avivne.github.io/"> Aviv Netanyahu </a> <br>
+              <a href="https://bipashasen.github.io/"> Bipasha Sen </a> <br>
+              <a href="https://richardrl.github.io/"> Richard Li </a> <br>
+              <a href="https://scholar.google.com/citations?user=B6tpjKkAAAAJ&hl=en"> Seungwook Han </a><br>
+            </p>
+
+            <p>
+            <b>Masters of Engineering (MEng. Students) and Undergraduate Researchers (UROPs)</b> <br>
+              Srinath Mahankali, Jagdeep Bhatia, Arthur Hu, Gregory Pylypovych, Kevin Garcia,
+              Yash Prabhu, Locke Cai.
+            <br>
+            </p>
+
+            <p>
+              <b>Visiting Researchers</b> <br>
+              Sandor Felber, Lars Ankile
+            </p>
+
+            <!-- <p>
+              <b>Collaborators </b> <br>
+            </p> -->
+
+            <p>
+            <b>Openings</b> <br>
+              We have openings for <b>Ph.D. Students, PostDocs, and MIT UROPs/SuperUROPs</b>.
+              If you would like to apply for the Ph.D. program, please apply directly
+              to MIT EECS admissions. For all other positions, send me an e-mail with your resume.
+            </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr>
+          <td style="padding:10px;vertical-align:middle">
+            <heading>Recent Talks</heading>
+             <p>
+              <a href="https://www.youtube.com/watch?v=-ghQJNmStB4"> Pathway to Robotic Intelligence </a>, MIT Schwarzman College of Computing Talk, 2024. <br>
+              <a href="https://www.forbes.com/video/6335581924112/making-robots-as-intelligent-as-chatgpt/"> Making Robots as Intelligent as ChatGPT</a>, Forbes, 2023. <br>
+              <a href="https://www.cs.utexas.edu/~ai-lab/fai/?year=2022-2023#Pulkit%20Agrawal"> Robot Learning for the Real World, </a> Forum for Artificial Intelligence, UT Austin, March 2023. <br>
+              <a href="https://www.youtube.com/watch?v=6NDWSxV7H3o"> Fun with Robots and Machine Learning </a>, Robotics Colloqium,
+              University of Washington, Nov 2022. <br>
+              <a href="https://www.youtube.com/watch?v=jU7pkiv3x0E&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=11">
+                Navigating Through Contacts </a>, RSS 2022 Workshop in The Science of Bumping into Things. <br>
+              <a href="https://www.youtube.com/watch?v=ym-mrmOqOYg">
+                Coming of Age of Robot learning </a>, Technion Robotics Seminar (April 14 2022) / MIT Robotics Seminar (March 2022). <br>
+              <a href="https://www.youtube.com/watch?v=C6LRBs27pG4&t=60s"> Rethinking Robot Learning </a>, Learning to Learn: Robotics Workshop, ICRA'21. <br>
+              <a href="https://youtu.be/MDCkBRh0D1U"> Self-Supervised Robot Learning, Robotics Seminar,</a> Robot Learning Seminar, MILA. <br>
+              <a href="https://youtu.be/1OSaTZB3WVY?t=565"> Challenges in Real-World Reinforcement Learning</a>, IAIFI Seminar, MIT. <br>
+              <a href="https://www.youtube.com/watch?v=2el3GdwS1mg"> The Task Specification Problem</a>, Embodied Intelligence Seminar, MIT.
+             </p>
+          </td>
+        </tr>
+        </tbody></table>
+
+        <!--
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr>
+          <td style="padding:10px;vertical-align:middle">
+            <heading>Papers Coming Soon</heading>
+             <p>
+               Stacking Objects using Contact Plane Registration, Li et al., ICRA 2022 <br>
+               An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators, Zlokapa et al., ICRA 2022 <br>
+            </p>
+          </td>
+        </tr>
+        </tbody></table>
+        !-->
+
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr>
+          <td style="padding:10px;vertical-align:middle">
+            <heading>Pre-Prints</heading>
+          </td>
+        </tr>
+
+        <tr>
+           <td style="padding:20px;width:25%;vertical-align:middle">
+               <a href="https://taochenshh.github.io/projects/veg-peeling" target="_blank">
+                   <video width="100%" autoplay loop muted playsinline>
+                       <source src="images/peeling.mp4" type="video/mp4" />
+                   </video>
+               </a>
+           </td>
+           <td valign="top" style="padding:20px;width:75%;vertical-align:middle">
+               <papertitle>Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation
+               </papertitle>
+               <br>
+               <a href="https://taochenshh.github.io/">Tao Chen</a>,
+               <a href="https://www.eacousineau.com/" target="_blank">Eric Cousineau</a>,
+               <a href="https://naveenoid.wordpress.com/" target="_blank">Naveen Kuppuswamy</a>,
+               <strong >Pulkit Agrawal</strong>
+               <br>
+               <a href="https://taochenshh.github.io/projects/veg-peeling" target="_blank">project page</a> /
+               <a href="https://arxiv.org/abs/2407.07884" target="_blank">arXiv</a>
+               <br>
+               <p></p>
+               <p>A robotic system that peels vegetables with a dexterous robot hand.
+               </p>
+           </td>
+         </tr>
+
+         <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2405.06639" target="_blank">
+              <img src="images/vas_image.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2405.06639" target="_blank">
+              <papertitle>Value Augmented Sampling for Language Model Alignment and Personalization
+              </papertitle>
+            </a>
+            <be>
+            Seungwook Han, Idan Shenfeld, Akash Srivastava,Yoon Kim,
+            <strong>Pulkit Agrawal</strong> <br>
+            <em>Workshop on Reliable and Responsible Foundation Models</em>, ICLR 2024 (<strong>Oral</strong>)
+            <br> <br>
+            <a href="https://arxiv.org/abs/2405.06639" target="_blank">paper</a> /
+            <a href="data/han2024value.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> Algorithm for inference-time augmentation of Large Language Models.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://minyoungg.github.io/LTE/" target="_blank">
+          <img src="https://minyoungg.github.io/LTE/assets/teaser.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2402.16828" target="_blank">
+              <papertitle>Training Neural Networks From Scratch with Parallel Low-Rank Adapters
+              </papertitle>
+            </a>
+            <br>
+            Minyoung Huh, Brian Cheung, Jeremy Bernstein,
+            Phillip Isola, <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>arXiv</em>, 2024
+            <br>
+            <br>
+            <a href="https://arxiv.org/abs/2402.16828" target="_blank">paper</a> /
+            <a href="https://minyoungg.github.io/LTE/" target="_blank">project page</a> /
+            <a href="data/huh2024training.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p>A method for parallel training of large models on computers with
+               limited memory. </p>
+          </td>
+        </tr>
+
+        <tr>
+        	<td style="padding:20px;width:25%;vertical-align:middle">
+        	<a href="https://residual-assembly.github.io/" target="_blank">
+        	<img src="images/ankile2024resip.gif" alt="sym" width="100%" style="border-radius:5px">
+        	</a></td>
+        	<td style="padding:20px;width:75%;vertical-align:middle">
+        	  <a href="https://residual-assembly.github.io/" target="_blank">
+        	    <papertitle>From Imitation to Refinement – Residual RL for Precise Visual Assembly
+        	    </papertitle>
+        	  </a>
+        	  <br>
+        		Lars Ankile, Anthony Simeonov, Idan Shenfeld, Marcel Torne,
+        	  <strong>Pulkit Agrawal</strong>
+        	  <br>
+        	  <em>arXiv</em>, 2024 <br> <br>
+        	  <a href="https://arxiv.org/abs/2407.16677" target="_blank">paper</a> /
+        	  <a href="https://residual-assembly.github.io/" target="_blank">project page</a> /
+        	  <a href="https://github.com/ankile/robust-rearrangement" target="_blank">code</a> /
+        	  <a href="data/ankile2024resip.bib">bibtex</a>
+        	  <p></p>
+        	  <p> Refining behavior-cloned diffusion model policies using RL.</p>
+        	</td>
+        </tr>
+
+
+      </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr>
+          <td style="padding:10px;vertical-align:middle">
+            <heading>Publications</heading>
+          </td>
+        </tr>
+	<!--
+        <tr>
+        	<td style="padding:20px;width:25%;vertical-align:middle">
+        	<a href="https://eyesighthand.github.io/" target="_blank">
+        	<img src="images/eyesighthand.png" alt="sym" width="100%" style="border-radius:5px">
+        	</a></td>
+        	<td style="padding:20px;width:75%;vertical-align:middle">
+        	  <a href="https://eyesighthand.github.io/" target="_blank">
+        	    <papertitle>EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation
+        	    </papertitle>
+        	  </a>
+        	  <br>
+        		Branden Romero*, Hao-Shu Fang*, <strong>Pulkit Agrawal</strong>,
+        		Edward Adelson <br>
+        	  <em>IROS</em>, 2024 <br><br>
+        	  <a href="https://arxiv.org/abs/2408.06265" target="_blank">paper</a> /
+        	  <a href="https://eyesighthand.github.io/" target="_blank">project page</a> /
+        	  <a href="data/romero2024eyesight.bib" target="_blank">bibtex</a>
+        	  <p></p>
+        	  <p> A dexterous hand with proprioceptive actuation fully covered with tactile sensing. </p>
+        	</td>
+       </tr>
+       !-->
+
+       <tr>
+         <td style="padding:20px;width:25%;vertical-align:middle">
+         <a href="http://arxiv.org/abs/2403.03949" target="_blank">
+           <video width="100%" autoplay loop muted playsinline>
+               <source src="images/rialto.mp4" type="video/mp4" />
+           </video>
+         </a></td>
+         <td style="padding:20px;width:75%;vertical-align:middle">
+           <a href="http://arxiv.org/abs/2403.03949" target="_blank">
+             <papertitle>Reconciling Reality through Simulation: A Real-To-Sim-to-Real Approach for Robust Manipulation
+             </papertitle>
+           </a>
+           <br>
+           Marcel Torne Villasevil , Anthony Simeonov, Zechu Li, April Chan, Tao Chen, Abhishek Gupta,
+           <b>Pulkit Agrawal</b> <br>
+           <em>RSS</em>, 2024 <br> <br>
+           <a href="http://arxiv.org/abs/2403.03949" target="_blank">paper</a> /
+           <a href="https://real-to-sim-to-real.github.io/RialTo/" target="_blank">project page</a> /
+           <a href="data/torne2024reconciling.bib" target="_blank">bibtex</a>
+           <p></p>
+           <p>A framework to train robots on scans of real-world scenes.</p>
+         </td>
+     </tr>
+
+     <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2407.13755" target="_blank">
+          <img src="images/rle_conceptualization.png" alt="sym" width="100%" style="border-radius:5px">
+      </a></td>
+
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2407.13755" target="_blank">
+          <papertitle>Random Latent Exploration for Deep Reinforcement Learning
+          </papertitle>
+        </a>
+        <br>
+        <a href="https://srinathm1359.github.io/" target="_blank">Srinath Mahankali</a>,
+        <a href="https://williamd4112.github.io/" target="_blank">Zhang-Wei Hong</a>,
+        <a href="https://ayush.sekhari.com/" target="_blank">Ayush Sekhari</a>,
+        <a href="https://www.mit.edu/~rakhlin/"target="_blank">Alexander Rakhlin</a>,
+        <strong>Pulkit Agrawal</strong>
+        <br>
+        <em>ICML</em>, 2024
+        <br>
+        <br>
+        <a href="https://arxiv.org/abs/2407.13755" target="_blank">paper</a> /
+        <a href="https://srinathm1359.github.io/random-latent-exploration/" target="_blank">project page</a> /
+        <a href="https://github.com/Improbable-AI/random-latent-exploration" target="_blank">code</a> /
+        <a href="data/mahankali2024random.bib" target="_blank">bibtex</a>
+        <p></p>
+        <p> State-of-the-art exploration by optimizing the agent to achieve randomly sampled
+          latent goals.</p>
+      </td>
+    </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2309.14321" target="_blank">
+              <img src="images/halp.gif" alt="sym" width="100%" style="border-radius:5px">
+            </a>
+          </td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2309.14321" target="_blank">
+              <papertitle>Lifelong Robot Learning with Human Assisted Language Planners
+              </papertitle>
+            </a>
+            <br>
+						Meenal Parakh*, Alisha Fong*, Anthony Simeonov, Abhishek Gupta,
+            Tao Chen, <strong>Pulkit Agrawal</strong>
+            <br> (*equal contribution)
+            <em>ICRA </em>, 2024
+            <br>
+            <br>
+            <a href="https://arxiv.org/abs/2309.14321" target="_blank">paper</a> /
+            <a href="https://sites.google.com/mit.edu/halp-robot-learning" target="_blank">project page</a> /
+            <a href="data/parakh2024lifelong.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> An LLM-based task planner that can learn new skills
+              opens doors for continual learning.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="http://arxiv.org/abs/2405.01402.pdf" target="_blank">
+              <img src="images/learning_force_control.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="http://arxiv.org/abs/2405.01402" target="_blank">
+              <papertitle>Learning Force Control for Legged Manipulation
+              </papertitle>
+            </a>
+            <br>
+            Tifanny Portela, Gabriel B. Margolis, Yandong Ji, <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICRA</em>, 2024
+            <br><br>
+            <a href="http://arxiv.org/abs/2405.01402.pdf" target="_blank">paper</a> /
+            <a href="https://tif-twirl-13.github.io/learning-compliance" target="_blank"> project page </a> /
+            <a href="data/portela2024learning.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> Learning to control the force applied by a legged robot's arm for compliant and forceful manipulation. </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="http://arxiv.org/abs/2405.01402.pdf" target="_blank">
+              <img src="images/avatar_curisoity_redteam.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="http://arxiv.org/abs/2405.01402" target="_blank">
+              <papertitle>Curiosity-driven Red-teaming for Large Language Models</papertitle>
+            </a>
+            <br>
+            Zhang-Wei Hong, Idan Shenfeld, Tsun-Hsuan Wang, Yung-Sung Chuang, Aldo Pareja,
+            James R. Glass, Akash Srivastava, <b>Pulkit Agrawal</b> <br>
+            <em>ICLR</em>, 2024
+            <br><br>
+              <a href="https://arxiv.org/pdf/2402.19464.pdf" target="_blank">paper</a> /
+              <a href="https://github.com/Improbable-AI/curiosity_redteam" target="_blank">code</a> /
+              <a href="bibtex/hong2024curiosity.bib" target="_blank">bibtex </a>
+            </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10609983" target="_blank">
+              <img src="images/eipo_spin.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10609983" target="_blank">
+              <papertitle>Maximizing Quadruped Velocity by Minimizing Energy
+              </papertitle>
+            </a>
+            <br>
+            <a href="https://srinathm1359.github.io/" target="_blank">Srinath Mahankali*</a>,
+            <a href="https://dblp.org/pid/258/6861.html" target="_blank">Chi-Chang Lee*</a>,
+            <a href="https://gmargo11.github.io/" target="_blank">Gabriel B. Margolis</a>,
+            <a href="https://williamd4112.github.io/"target="_blank">Zhang-Wei Hong</a>,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICRA</em>, 2024
+            <br>
+            <br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/10609983" target="_blank">paper</a> /
+            <a href="https://srinathm1359.github.io/eipo-locomotion/" target="_blank">project page</a> /
+            <a href="data/mahankali2024maximizing.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> Principled energy minimization increases robot's agility.</p>
+          </td>
+      </tr>
+
+        <tr>
+        	<td style="padding:20px;width:25%;vertical-align:middle">
+        	<a href="https://imitation-juicer.github.io/" target="_blank">
+        	<img src="images/juicer.gif" alt="sym" width="100%" style="border-radius:5px">
+        	</a></td>
+        	<td style="padding:20px;width:75%;vertical-align:middle">
+        	  <a href="https://imitation-juicer.github.io/" target="_blank">
+        	    <papertitle>JUICER: Data-Efficient Imitation Learning for Robotic Assembly
+        	    </papertitle>
+        	  </a>
+        	  <br>
+        		Lars Ankile, Anthony Simeonov, Idan Shenfeld, <strong>Pulkit Agrawal</strong>
+        	  <br>
+        	  <em>IROS</em>, 2024 <br> <br>
+        	  <a href="https://arxiv.org/abs/2404.03729" target="_blank">paper</a> /
+        	  <a href="https://imitation-juicer.github.io/" target="_blank">project page</a> /
+        	  <a href="https://github.com/ankile/imitation-juicer" target="_blank">code</a> /
+        	  <a href="data/ankile2024juicer.bib" target="_blank">bibtex</a>
+        	  <p></p>
+        	  <p>Learning complex assembly skills from few human demonstrations.</p>
+        	</td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+        <a href="https://rank2reward.github.io/" target="_blank">
+        <img src="images/rank2reward.png" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://rank2reward.github.io/" target="_blank">
+            <papertitle>Rank2Reward: Learning Shaped Reward Functions from Passive Video
+            </papertitle>
+          </a>
+          <br>
+          Daniel Yang, Davin Tjia, Jacob Berg, Dima Damen,
+          <b>Pulkit Agrawal</b>, Abhishek Gupta
+          <br>
+          <em>ICRA</em>, 2024 <br> <br>
+          <a href="https://arxiv.org/abs/2404.14735" target="_blank">paper</a> /
+          <a href="https://rank2reward.github.io/" target="_blank">project page</a> /
+          <a href="https://github.com/ankile/imitation-juicer" target="_blank">code</a> /
+          <a href="data/yang2024rank.bib" target="_blank">bibtex</a>
+          <p></p>
+          <p>Learning reward functions from videos of human demonstrations.</p>
+        </td>
+    </tr>
+
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2408.04142" target="_blank">
+      <img src="images/everyday_finger.png" alt="sym" width="100%" style="border-radius:5px">
+      </a></td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2408.04142" target="_blank">
+          <papertitle>Everyday finger: a robotic finger that meets the needs of everyday interactive manipulation
+          </papertitle>
+        </a>
+        <br>
+        Rubén Castro Ornelas, Tomás Cantú, Isabel Sperandio, Alexander H. Slocum,
+        <b>Pulkit Agrawal</b> <br>
+        <em>ICRA</em>, 2024 <br> <br>
+        <a href="https://arxiv.org/abs/2408.04142" target="_blank">paper</a> /
+        <a href="https://sites.google.com/view/everydayfinger/" target="_blank">project page</a> /
+        <a href="data/ornelas2024everyday.bib" target="_blank">bibtex</a>
+        <p></p>
+        <p>Robotic finger designed to perform every day tasks.</p>
+      </td>
+  </tr>
+
+
+        <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+                <a href="https://openreview.net/forum?id=7uSBJDoP7tY" target="_blank">
+                    <video width="100%" autoplay loop muted playsinline>
+                        <source src="images/mug_short_comp.mp4" type="video/mp4" />
+                    </video>
+                </a>
+            </td>
+            <td valign="top" style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://taochenshh.github.io/projects/visual-dexterity">
+                <papertitle>Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes
+                </papertitle> </a>
+                <br>
+                <a href="https://taochenshh.github.io/" target="_blank">Tao Chen</a>, Megha Tippur, Siyang Wu,
+                <a href="https://vikashplus.github.io/" target="_blank">Vikash Kumar</a>,
+                <a href="http://persci.mit.edu/people/adelson" target="_blank">Edward Adelson</a>,
+                <strong>Pulkit Agrawal</strong>
+                <br>
+                <em> Science Robotics</em>, 2023 <br><br>
+                <a href="https://arxiv.org/abs/2211.11744" target="_blank">paper </a>/
+                <a href="https://taochenshh.github.io/projects/visual-dexterity" target="_blank">project page</a> /
+                <a href="data/chen2023visual.bib" target="_blank"> bibtex </a>
+                <br>
+                <p></p>
+                <p> A real-time controller that dynamically reorients complex and novel objects by any amount
+                    using a single depth camera.
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://browse.arxiv.org/pdf/2309.08587.pdf">
+              <img src="images/hip.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://browse.arxiv.org/pdf/2309.08587.pdf">
+              <papertitle>Compositional Foundation Models for Hierarchical Planning
+              </papertitle>
+            </a>
+            <br>
+						Anurag Ajay*, Seungwook Han*, Yilun Du*,
+						Shuang Li, Abhi Gupta,
+						Tommi Jaakkola, Josh Tenenbaum,
+						Leslie Kaelbling, Akash Srivastava,
+            <strong>Pulkit Agrawal</strong>
+            <br> (* equal contribution)
+            <br>
+            <em>NeurIPS</em>, 2023
+            <br>
+            <br>
+            <a href="https://browse.arxiv.org/pdf/2309.08587.pdf" target="_blank">paper</a> /
+            <a href="https://hierarchical-planning-foundation-model.github.io/" target="_blank"> project page </a> /
+            <a href="" target="_blank"> </a>
+            <a href="data/ajay2023compositional.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> Composing existing foundation models operating on different modalities to solve long-horizon tasks.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://browse.arxiv.org/pdf/2307.11049.pdf" target="_blank">
+          <img src="images/huge2023.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+                  <a href="https://browse.arxiv.org/pdf/2307.11049.pdf" target="_blank">
+                    <papertitle>Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback
+                    </papertitle>
+                  </a>
+          <br>
+          Marcel Torne,
+          Max Balsells,
+          Zihan Wang,
+  				Samedh Desai,
+  				Tao Chen,
+          <strong>Pulkit Agrawal</strong>,
+  				Abhishek Gupta
+          <br>
+          <em>NeurIPS</em>, 2023
+          <br>
+          <br>
+          <a href="https://browse.arxiv.org/pdf/2307.11049.pdf" target="_blank">paper</a> /
+  				<a href="https://human-guided-exploration.github.io/HuGE/" target="_blank">project page</a> /
+  				<a href="https://github.com/Improbable-AI/human-guided-exploration" target="_blank">code</a> /
+  			  <a href="data/torne2023breadcrumbs.bib" target="_blank"> bibtex </a>
+          <p></p>
+          <p> Method for guiding goal-directed exploration with asynchronous human feedback.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://arxiv.org/pdf/2310.04413.pdf">
+          	<img src="images/dw_teaser.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+         <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="<https://arxiv.org/pdf/2310.04413.pdf">
+                  <papertitle>Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets
+                  </papertitle>
+                </a>
+                <br>
+                Zhang-Wei Hong, Aviral Kumar, Sathwik Karnik,
+                Abhishek Bhandwaldar, Akash Srivastava, Joni Pajarinen,
+                Romain Laroche, Abhishek Gupta,
+                <strong>Pulkit Agrawal</strong> <br>
+                <em>NeurIPS</em>, 2023
+                <br>
+                <br>
+                <a href="https://arxiv.org/pdf/2310.04413.pdf" target="_blank">paper</a> /
+                <a href="data/hong2023beyond.bib" target="_blank">bibtex</a> /
+                <a href="https://github.com/Improbable-AI/dw-offline-rl" target="_blank"> code </a>
+                <p></p>
+                <p> Optimizing the sampling distribution enables offline RL to learn a good policy in skewed datasets primarily
+                  composed of sub-optimal trajectories.</p>
+            </td>
+        </tr>
+
+        <tr>
+         <td style="padding:20px;width:25%;vertical-align:middle">
+           <a href="https://arxiv.org/abs/2307.04751" target="_blank">
+             <img src="images/rpdiff.gif" alt="sym" width="100%" style="border-radius:5px">
+           </a>
+         </td>
+
+         <td style="padding:20px;width:75%;vertical-align:middle">
+           <a href="https://arxiv.org/abs/2307.04751" target="_blank">
+             <papertitle>Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement
+             </papertitle>
+           </a>
+           <br>
+           Anthony Simeonov, Ankit Goyal*, Lucas Manuelli*, Lin Yen-Chen,
+           Alina Sarmiento, Alberto Rodriguez, <strong>Pulkit Agrawal</strong>**,
+           Dieter Fox**
+           <br> (*equal contribution, **equal advising)
+           <em>CoRL</em>, 2023
+           <br><br>
+           <a href="https://arxiv.org/abs/2307.04751" target="_blank">paper</a> /
+           <a href="https://anthonysimeonov.github.io/rpdiff-multi-modal/" target="_blank">project page</a> /
+           <a href="https://github.com/anthonysimeonov/rpdiff" target="_blank">code</a> /
+           <a href="data/simeonov2023shelving.bib" target="_blank">bibtex</a>
+           <p></p>
+           <p> Relational rearrangement with multi-modal placing and generalization over scene layouts via diffusion and local scene conditioning.</p>
+         </td>
+       </tr>
+
+       <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2311.01405">
+              <img src="images/asmp_miniclip_small.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2311.01405">
+            <papertitle>Learning to See Physical Properties with Active Sensing Motor Policies
+            </papertitle>
+            </a>
+            <br>
+            Gabriel B. Margolis,
+            Xiang Fu,
+            Yandong Ji,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>Conference on Robot Learning (CoRL), 2023</em>
+            <br>
+            <br>
+            <a href="https://arxiv.org/abs/2311.01405">paper</a> /
+            <a href="https://gmargo11.github.io/active-sensing-loco" target="_blank">project page</a> /
+            <a href="" target="_blank"> bibtex</a>
+            <p></p>
+            <p> Learn to perceive physical properties of terrains in front of the robot (i.e., a digital twin). </p>
+          </td>
+       </tr>
+
+       <tr onmouseout="noise2ptz_stop()" onmouseover="noise2ptz_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <div class="two" id='noise2ptz_image'>
+                <img src='images/noise2ptz.png' width="160"></div>
+              <img src='images/noise2ptz.png' width="160">
+            </div>
+            <script type="text/javascript">
+              function noise2ptz_start() {
+                document.getElementById('noise2ptz_image').style.opacity = "1";
+              }
+
+              function nerfactor_stop() {
+                document.getElementById('noise2ptz_image').style.opacity = "0";
+              }
+              noise2ptz_stop()
+            </script>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://yanweiw.github.io/noise2ptz/">
+            <papertitle>Visual Pre-training for Navigation: What Can We Learn from Noise?</papertitle>
+            </a>
+            <br>
+            Yanwei Wang, Ching-Yun Ko, <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>IROS 2023</em>, <em>NeurIPS 2022 Workshop</em>
+            <br><br>
+            <a href="https://arxiv.org/abs/2207.00052" target="_blank">paper</a> /
+            <a href="https://github.com/yanweiw/noise2ptz" target"_blank">code</a> /
+            <a href="https://yanweiw.github.io/noise2ptz" target="_blank">project page</a> /
+            <a href="data/wang2023visual.bib" target="_blank"> bibtex </a> <br>
+            <br>
+            <p> Learning to navigate by moving the camera across random images.</p>
+          </td>
+      </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://openreview.net/pdf?id=z3D__-nc9y" target="_blank">
+          	<img src="images/gear2023.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://openreview.net/pdf?id=z3D__-nc9y" target="_blank">
+              <papertitle>Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback
+              </papertitle>
+            </a>
+            <br>
+    				Max Balsells*, Marcel Torne*, Zihan Wang,
+    				Samedh Desai, <strong>Pulkit Agrawal</strong>, Abhishek Gupta
+            <br>
+            <em>CoRL</em>, 2023
+            <br>
+            <br>
+            <a href="https://openreview.net/pdf?id=z3D__-nc9y" target="_blank">paper</a> /
+            <a href="data/pamies2023autonomous.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> Leveraging crowdsourced non-expert human feedback to guide exploration in robot policy learning.</p>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2307.03186.pdf" target="_blank">
+              <img src="images/tgrl.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2307.03186" target="_blank">
+              <papertitle>TGRL: An Algorithm for Teacher Guided Reinforcement Learning
+              </papertitle>
+            </a>
+            <br>
+            Idan Shenfeld,
+            Zhang-Wei Hong,
+            Aviv Tamar,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICML</em>, 2023
+            <br>
+            <br>
+            <a href="https://arxiv.org/abs/2307.03186" target="_blank">paper</a> /
+            <a href="https://github.com/idanshen/cleanrl/blob/master/cleanrl/tgrl_continuous_action.py" target="_blank">
+              code </a> /
+            <a href="https://sites.google.com/view/tgrl-paper/" target="_blank"> project page </a> /
+            <a href="data/shenfeld2023tgrl.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> An algorithm for automatically balancing learning from teacher's
+              guidance and task reward.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://minyoungg.github.io/vqtorch/">
+              <img src="images/vq2023.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://minyoungg.github.io/vqtorch/">
+              <papertitle>Straightening Out the Straight-Through Estimator: Overcoming
+                Optimization Challenges in Vector Quantized Networks
+              </papertitle>
+            </a>
+            <br>
+            Minyoung Huh, Brian Cheung,
+            <strong> Pulkit Agrawal</strong>, Phillip Isola
+            <br>
+            <em>International Conference on Machine Learning (<strong>ICML</strong>)</em>, 2023
+            <br><br>
+            <a href="https://arxiv.org/abs/2305.08842" target="_blank">paper</a> /
+            <a href="https://minyoungg.github.io/vqtorch/" target="_blank"> website </a> /
+            <a href="https://github.com/minyoungg/vqtorch" target="_blank"> code </a> /
+            <a href="data/huh2023straightening.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> A set of suggestions that simplifies training of vector quantization layers.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2307.12983" target="_blank">
+                  <a href="https://arxiv.org/abs/2307.12983" target="_blank">
+                      <img src="images/pql.png" alt="sym" width="100%" style="border-radius:5px">
+                  </a>
+              </a>
+          </td>
+          <td valign="top" style="padding:20px;width:75%;vertical-align:middle">
+             <a href="https://arxiv.org/abs/2307.12983" target="_blank">
+              <papertitle>Parallel Q-Learning: Scaling Off-policy Reinforcement Learning under
+                Massively Parallel Simulation
+              </papertitle>
+            </a>
+              <br>
+              <a href="https://supersglzc.github.io/" target="_blank">Zechu Li*</a>,
+      				<a href="https://taochenshh.github.io/" target="_blank">Tao Chen*</a>,
+              <a href="https://williamd4112.github.io/" target="_blank">Zhang-Wei Hong</a>,
+              <a href="https://anuragajay.github.io/" target="_blank">Anurag Ajay</a>,
+              <strong>Pulkit Agrawal</strong>
+              <br>
+              (* indicates equal contribution)
+              <br>
+              <em>ICML</em>, 2023
+              <br>
+              <a href="https://arxiv.org/abs/2307.12983" target="_blank">paper</a> /
+              <a href="https://github.com/Improbable-AI/pql" target="_blank">code</a> /
+              <a href="data/li2023parallel.bib" target="_blank"> bibtex </a>
+              <br>
+              <p></p>
+              <p>Scaling Q-learning algorithms to 10K+ workers.
+              </p>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2307.06333.pdf" target="_blank">
+              <img src="images/counterfactual.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2307.06333.pdf" target="_blank">
+              <papertitle>Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation
+              </papertitle>
+            </a>
+            <br>
+            Andi Peng,
+						Aviv Netanyahu,
+						Mark Ho,
+						Tianmin Shu,
+						Andreea Bobu, <br>
+						Julie Shah,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICML</em>, 2023
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/2307.06333.pdf" target="_blank">paper</a> /
+            <a href="https://andipeng.com/counterfactual-adaptation/" target="_blank">project page</a> /
+						<a href="data/peng2023diagnosis.bib" target="_blank">bibtex</a>
+            <p></p>
+            <p> A step towards using counterfactuals for improving policy adaptation. </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://browse.arxiv.org/pdf/2302.13934.pdf">
+              <img src="images/distshift.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://browse.arxiv.org/pdf/2302.13934.pdf">
+              <papertitle>Statistical Learning under Heterogenous Distribution Shift
+              </papertitle>
+            </a>
+            <br>
+						Max Simchowitz*, Anurag Ajay*, <strong>Pulkit Agrawal</strong>,
+						Akshay Krishnamurthy <br> (* equal contribution)
+            <br>
+            <em>ICML</em>, 2023
+            <br>
+            <br>
+            <a href="https://browse.arxiv.org/pdf/2302.13934.pdf">paper</a> /
+            <a href="data/simchowitz2023statistical.bib">bibtex</a>
+            <p></p>
+            <p> In-distribution error for certain features
+              predicts their out-of-distribution sensitivity.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://gmargo11.github.io/dribblebot" target="_blank">
+              <img src="images/dribblebot_field.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://gmargo11.github.io/dribblebot" target="_blank">
+            <papertitle>DribbleBot: Dynamic Legged Manipulation in the Wild </papertitle>
+            </a>
+            <br>
+            <a href="https://yandongji.github.io/" target="_blank">Yandong Ji*</a>,
+            <a href="https://gmargo11.github.io/" target="_blank">Gabriel B. Margolis*</a>,
+            <strong>Pulkit Agrawal</strong> (*equal contribution) <br>
+            <em>International Conference on Robotics and Automation (<strong>ICRA</strong>), 2023</em>
+            <br><br>
+            <a href="https://arxiv.org/abs/2304.01159" target="_blank">paper</a> /
+            <a href="https://gmargo11.github.io/dribblebot" target="_blank">project page</a> /
+            <a href="data/ji2023dribblebot.bib" target="_blank">bibtex</a> <br>
+            Press:
+            <a href="https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/" target="_blank"> TechCrunch</a>,
+            <a href="https://spectrum.ieee.org/quadrupedal-robot" target="_blank">IEEE Spectrum</a>,
+            <a href="https://archive.tveyes.com/7313/meltwater/3fa732c9-740b-4602-a9e6-f9b44988c02b/WBTS_04-04-2023_04.55.00.mp4" target="_blank"> NBC Boston</a>,
+            <a href="https://www.businessinsider.com/mit-robot-that-can-play-soccer-dribble-ball-video-2023-4" target="_blank"> Insider</a>,
+            <a href="https://www.yahoo.com/lifestyle/robots-getting-good-dribbling-soccer-163646616.html" target="_blank"> Yahoo!News</a>,
+            <a href="https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403" target="_blank">MIT News</a>
+            <p></p>
+            <p> Dynamic legged object manipulation on diverse terrains with onboard compute and sensing. </p>
+          </td>
+        </tr>
+
+        <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+                <a href="https://taochenshh.github.io/projects/tactofind" target="_blank">
+                    <video width="100%" autoplay loop muted playsinline>
+                        <source src="images/tactofind.mp4" type="video/mp4" />
+                    </video>
+                </a>
+            </td>
+            <td valign="top" style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://taochenshh.github.io/projects/tactofind">
+                <papertitle>TactoFind: A Tactile Only System for Object Retrieval
+                </papertitle></a>
+                <br>
+                Sameer Pai*, Tao Chen*, Megha Tippur*,
+                <a href="http://persci.mit.edu/people/adelson" target="_blank">Edward Adelson</a>,
+                <a href="https://homes.cs.washington.edu/~abhgupta/" target="_blank">Abhishek Gupta<sup>&dagger;</sup></a>,
+                <strong>Pulkit Agrawal</strong><sup>&dagger;</sup>
+                <br>
+                (*equal contribution, &dagger; equal advising)
+                <br>
+                <em>International Conference on Robotics and Automation (<strong>ICRA</strong>)</em>, 2023
+                <br><br>
+                <a href="https://arxiv.org/abs/2303.13482" target="_blank">paper</a> /
+                <a href="https://taochenshh.github.io/projects/tactofind" target="_blank">project page</a> /
+                <a href="data/pai2023tactofind.bib" target="_blank">bibtex</a>
+                <br>
+                <p></p>
+                <p>Localize, identify, and fetch a target object in the dark with tactile sensors.
+                </p>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/decisiondiff.gif" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/2211.15657.pdf" target="_blank">
+                <papertitle>Is Conditional Generative Modeling all you need for Decision Making?</papertitle>
+              </a>
+              <br>
+              Anurag Ajay*,
+              Yilun Du*,
+              Abhi Gupta*,
+              Josh Tenenbaum,
+              Tommi Jaakkola,
+              <strong>Pulkit Agrawal</strong>
+              <br>
+              (*equal contribution) <br>
+              <em>ICLR</em>, 2023 <font color="red"><strong>(Oral)</strong></font>
+              <br><br>
+              <a href="https://arxiv.org/pdf/2211.15657.pdf" target="_blank">paper</a> /
+              <a href="https://anuragajay.github.io/decision-diffuser/" target="_blank">project page</a> /
+              <a href="data/ajay2023is.bib" target="_blank">bibtex</a>
+              <p></p>
+              <p> Return conditioned generative models offer a powerful alternative to temporal-difference learning
+                for offline decision making and reasoning with constraints.
+              </p>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2304.14329" target="_blank">
+                <img src="images/transduction.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2304.14329" target="_blank">
+                <papertitle>Learning to Extrapolate: A Transductive Approach
+                </papertitle>
+              </a>
+              <br>
+  						Aviv Netanyahu*, Abhishek Gupta*, Max Simchowitz, Kaiqing Zhang,
+              <strong>Pulkit Agrawal</strong>
+              <br>(*equal contribution)
+              <br>
+              <em>ICLR</em>, 2023
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/2304.14329" target="_blank">paper</a> /
+              <a href="data/netanyahu2023learning.bib" target="_blank">bibtex</a>
+              <p></p>
+              <p>Transductive reparameterization converts out-of-support generalization problem into out-of-combination generalization which
+                is possible under low-rank style conditions.</p>
+            </td>
+          </tr>
+
+
+          <tr>
+           <td style="padding:20px;width:25%;vertical-align:middle">
+             <a href="https://openreview.net/forum?id=OhUAblg27z">
+               <img src="images/avatar_harness.png" alt=“harness” width="100%" style="border-radius:5px">
+           </a></td>
+
+           <td style="padding:20px;width:75%;vertical-align:middle">
+             <a href="https://openreview.net/forum?id=OhUAblg27z">
+               <papertitle>Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting
+               </papertitle>
+             </a>
+             <br>
+             Zhang-Wei Hong, <strong>Pulkit Agrawal</strong>, Remi Tachet des Combes,
+             Romain Laroche
+             <br>
+             <em>ICLR</em>, 2023
+             <br><br>
+             <a href="https://openreview.net/forum?id=OhUAblg27z"> paper</a> /
+             <a href="data/hong2023harness.bib">bibtex</a>
+             <p></p>
+             <p> Return reweighted sampling of trajectories enables offline RL algorithms to work with skewed datasets.</p>
+           </td>
+         </tr>
+
+         <tr>
+           <td style="padding:20px;width:25%;vertical-align:middle">
+             <a href="https://minyoungg.github.io/overparam/">
+               <img src="images/low-rank-bias.png" alt="sym" width="100%" style="border-radius:5px">
+           </a></td>
+
+           <td style="padding:20px;width:75%;vertical-align:middle">
+             <a href="https://minyoungg.github.io/overparam/">
+               <papertitle>The Low-Rank Simplicity Bias in Deep Networks
+               </papertitle>
+             </a>
+             <br>
+             Minyoung Huh,
+             Hossein Mobahi, Richard Zhang, Brian Cheung,
+             <strong> Pulkit Agrawal</strong>, Phillip Isola
+             <br>
+             <em>Transactions of Machine Learning Research (<strong>TMLR</strong>)</em>, 2023
+             <br><br>
+             <a href="https://minyoungg.github.io/overparam/resources/overparam-v3.pdf">paper</a> /
+             <a href="https://minyoungg.github.io/overparam/"> website </a> /
+             <a href="data/huh2023low.bib">bibtex</a>
+             <p></p>
+             <p> Deeper Networks find simpler solutions! Also learn why ResNets overcome
+             the challenges associated with very deep networks.</p>
+           </td>
+         </tr>
+
+        <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://sites.google.com/view/neurips22-eipo/">
+            <img src="images/eipo.png" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://sites.google.com/view/neurips22-eipo/">
+          <papertitle>Redeeming Intrinsic Rewards via Constrained Optimization
+          </papertitle>
+          </a>
+          <br>
+          Eric Chen*, Zhang-Wei Hong*, Joni Pajarinen, <strong> Pulkit Agrawal </strong>
+          <br>(*equal contribution) <br>
+          <em>NeurIPS</em>, 2022
+          <br>
+          <br>
+          <a href="https://arxiv.org/abs/2211.07627"> paper</a> /
+          <a href="https://sites.google.com/view/neurips22-eipo/">project page</a> /
+          <a href="data/chen2022redeeming.bib">bibtex</a>  <br>
+            Press: <a href="https://news.mit.edu/2022/ensuring-ai-works-with-right-dose-curiosity-1110">MIT News</a>
+          <p></p>
+          <p> Method that automatically balances exploration bonus or curiosity against task rewards leading to consistent performance improvement.</p>
+        </td>
+      </tr>
+
+      <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src='images/rndf_bowl_bottle.gif' width="100%" />
+              <!--<img src='images/mug_cut.gif' width="100%" />-->
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2211.09786">
+                  <papertitle>SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields</papertitle>
+              </a>
+              <br>
+              <a href="https://anthonysimeonov.github.io/">Anthony Simeonov*</a>,
+              <a href="https://yilundu.github.io/">Yilun Du*</a>,
+              <a href="https://yenchenlin.me/">Lin Yen-Chen</a>,
+              <a href="http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU">Alberto Rodriguez</a>,
+              <a href="https://people.csail.mit.edu/lpk/">Leslie P. Kaelbling</a>, <br>
+              <a href="https://people.csail.mit.edu/tlp/">Tom&aacute;s Lozano-Per&eacute;z</a>,
+              <strong>Pulkit Agrawal</strong> (*equal contribution)
+              <br>
+              <em>CoRL</em>, 2022
+              <br><br>
+              <a href="https://arxiv.org/abs/2211.09786">paper</a> /
+              <a href="https://anthonysimeonov.github.io/r-ndf/">project page</a> /
+              <a href="https://github.com/anthonysimeonov/relational_ndf">code</a> /
+              <a href="data/simeonov2022se.bib">bibtex</a>
+              <br>
+              <p></p>
+              <p>
+                Learning relational tasks with a few demonstrations in a way that generalizes to new configurations of objects.
+              </p>
+          </td>
+      </tr>
+
+
+    <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://sites.google.com/view/gait-conditioned-rl/">
+            <img src="images/walk-these-ways.png" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://sites.google.com/view/gait-conditioned-rl/">
+          <papertitle>Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior
+          </papertitle>
+          </a>
+          <br>
+          <a href="https://gmargo11.github.io/about/">Gabriel B. Margolis</a>,
+          <strong>Pulkit Agrawal</strong>
+          <br>
+          <em>CoRL</em>, 2022 <font color="red"><strong>(Oral)</strong></font>
+          <br>
+          <br>
+          <a href="https://openreview.net/pdf?id=52c5e73SlS2">paper</a> /
+          <a href="https://github.com/Improbable-AI/walk-these-ways">code</a> /
+          <a href=https://sites.google.com/view/gait-conditioned-rl/ target="_blank">project page</a> /
+          <a href="data/margolis2022walk.bib">bibtex</a>
+          <p></p>
+          <p> One learned policy embodies many dynamic behaviors useful for different tasks. </p>
+        </td>
+    </tr>
+
+        <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/diametr_web.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://openreview.net/pdf?id=2ovFjGGDFjc">
+                <papertitle>Distributionally Adaptive Meta Reinforcement Learning</papertitle>
+              </a>
+              <br>
+              <strong>Anurag Ajay*</strong>,
+              Abhishek Gupta*,
+              Dibya Ghosh,
+              Sergey Levine,
+              <strong> Pulkit Agrawal</strong>
+              <br>
+              (*equal contribution) <br>
+              <em>NeurIPS</em>, 2022
+              <br><br>
+              <a href="https://openreview.net/forum?id=2ovFjGGDFjc">paper</a> /
+              <a href="https://anuragajay.github.io/diametr/">project page</a> /
+              <a href="data/ajay2022distributionally.bib">bibtex</a>
+              <p></p>
+              <p> Being adaptive instead of being robust results in faster adaption to
+                out-of-distribution tasks.
+              </p>
+            </td>
+          </tr>
+
+          <tr>
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <a href="http://tactilesim.csail.mit.edu/">
+                  <img src="images/touch_sim_2022.jpeg" alt="sym" width="100%" style="border-radius:5px">
+              </a></td>
+
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="http://tactilesim.csail.mit.edu/">
+                <papertitle>Efficient Tactile Simulation with Differentiability for Robotic Manipulation
+                </papertitle>
+                </a>
+                <br>
+                <a href="https://people.csail.mit.edu/jiex">Jie Xu</a>,
+                <a href="https://sangwkim.github.io/">Sangwoon Kim</a>,
+                <a href="https://taochenshh.github.io/">Tao Chen</a>,
+                <a href="https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU">Alberto Rodriguez</a>,
+                <strong>Pulkit Agrawal</strong>,
+                <a href="https://people.csail.mit.edu/wojciech/">Wojciech Matusik</a>,
+                <a href="http://faculty.cs.tamu.edu/sueda/">Shinjiro Sueda</a><br>
+                <em>CoRL</em>, 2022
+                <br>
+                <br>
+                <a href="https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf">paper</a> /
+                <a href="">Code coming soon</a> /
+                <a href="http://tactilesim.csail.mit.edu/">project page</a> /
+                <a href="data/xu2022efficient.bib">bibtex</a>
+                <p></p>
+                <p> Tactile Simulator for complex shapes training on which transfers to real-world. </p>
+              </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://agility.csail.mit.edu">
+                <img src="images/cheetah-spin-2022.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://agility.csail.mit.edu">
+              <papertitle>Rapid Locomotion via Reinforcement Learning
+              </papertitle>
+              </a>
+              <br>
+              Gabriel Margolis*, Ge Yang*, Kartik Paigwar,
+              Tao Chen, <strong> Pulkit Agrawal </strong>
+              <br>
+              <em>RSS</em>, 2022
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/2205.02824.pdf"> paper</a> /
+              <a href="https://agility.csail.mit.edu">project page</a> /
+              <a href="https://agility.csail.mit.edu">bibtex</a> <br>
+                Press: <a href="https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/">Wired</a>,
+                <a href="https://www.popsci.com/technology/machine-learning-robot-runs-its-fastest/"> Popular Science</a>,
+                <a href="https://techcrunch.com/2022/03/17/to-servi-man/"> TechCrunch</a>,
+                <a href="https://www.bbc.com/news/av/technology-60795221">BBC </a>,
+                <a href="https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317"> MIT News </a>
+              <p></p>
+              <p> High-speed running and spinning on diverse terrains with a RL based controller. </p>
+            </td>
+          </tr>
+
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2203.07359.pdf">
+              <img src="images/stubborn_cropped_iros22.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2203.07359.pdf">
+            <papertitle>Stubborn: A Strong Baseline for Indoor Object Navigation
+            </papertitle>
+            </a>
+            <br>
+            Haokuan Luo, Albert Yue, Zhang-Wei Hong,
+            <strong> Pulkit Agrawal </strong>
+            <br>
+            <em>IROS</em>, 2022
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/2203.07359.pdf"> paper</a> /
+            <a href="https://github.com/Improbable-AI/Stubborn">code</a> /
+            <a href="data/luo2022stubborn.bib">bibtex</a>
+            <br>
+            <p></p>
+            <p> State-of-the-art Performance on Habitat Navigation Challenge without any machine learning
+            for navigation.</p>
+          </td>
+        </tr>
+
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://arxiv.org/abs/2112.05124">
+            <img src="images/mug_cut.gif" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://arxiv.org/abs/2112.05124">
+            <papertitle>Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation
+            </papertitle>
+          </a>
+          <br>
+          Anthony Simeonov*,
+          Yilun Du*,
+          Andrea Tagliasacchi,
+          Joshua B. Tenenbaum,
+          Alberto Rodriguez,
+          <strong>Pulkit Agrawal</strong>**,
+          Vincent Sitzmann**
+          <br> (*equal contribution, order determined by coin flip. **equal advising) <br>
+          <em>ICRA</em>, 2022
+          <br>
+          <br>
+          <a href="https://arxiv.org/abs/2112.05124">paper</a> /
+          <a href="https://yilundu.github.io/ndf/"> website and code </a> /
+          <a href="data/simeonov2021neural.bib">bibtex</a>
+          <p></p>
+          <p> An SE(3) Equivariant method for specifiying and finding correspondences which enables data efficient object manipulation.</p>
+        </td>
+      </tr>
+
+      <tr>
+	       <td style="padding:20px;width:25%;vertical-align:middle">
+		         <a href="https://arxiv.org/pdf/2204.07149.pdf">
+			       <img src="images/robohand_teaser.png" alt="sym" width="100%" style="border-radius:5px">
+		         </a>
+	       </td>
+	   <td style="padding:20px;width:75%;vertical-align:middle">
+	    <a href="https://arxiv.org/pdf/2204.07149.pdf">
+        <papertitle>An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators</papertitle>
+      </a>
+        <br>
+        Lara Zlokapa,
+        Yiyue Luo,
+        Jie Xu,
+				Michael Foshey,
+				Kui Wu,
+        <strong>Pulkit Agrawal</strong>,
+				Wojciech Matusik
+        <br>
+        <em>ICRA</em>, 2022
+        <br>
+        <br>
+        <a href="https://arxiv.org/pdf/2204.07149.pdf">paper</a> /
+        <a href="http://robohands.csail.mit.edu/"> website </a> /
+        <a href="data/zlokapa2022integrated.bib">bibtex</a>
+        <p></p>
+        <p>A method for users to easily design a variety of robotic manipulators with integrated tactile sensors. </p>
+      </td>
+    </tr>
+
+    <tr>
+	<td style="padding:20px;width:25%;vertical-align:middle">
+		<a href="https://richardrl.github.io/stable-reorientation/resources/ICRA_2022__Stable_Object_Reorientation_using_Contact_Plane_Registration.pdf">
+			<img src="images/icra2022_stacking.png" alt="sym" width="100%" style="border-radius:5px">
+		</a>
+	</td>
+	<td style="padding:20px;width:75%;vertical-align:middle">
+	  <a href="https://richardrl.github.io/stable-reorientation/resources/ICRA_2022__Stable_Object_Reorientation_using_Contact_Plane_Registration.pdf">
+        <papertitle>Stable Object Reorientation using Contact Plane Registration</papertitle>
+    </a>
+        <br>
+        Richard Li, Carlos Esteves, Ameesh Makadia, <strong>Pulkit Agrawal</strong>
+        <br>
+        <em>ICRA</em>, 2022
+        <br>
+        <br>
+        <a href="https://arxiv.org/abs/2208.08962">paper</a> /
+        <a href="data/li2022stable.bib">bibtex</a>
+        <p></p>
+        <p>Predicting contact points with a CVAE and plane segmentation improves object generalization and handles multimodality.</p>
+      </td>
+    </tr>
+
+    <tr>
+	     <td style="padding:20px;width:25%;vertical-align:middle">
+		       <a href="https://proceedings.mlr.press/v162/netanyahu22a.html">
+			        <img src="images/GEM.jpg" alt="sym" width="100%" style="border-radius:5px">
+		       </a>
+	     </td>
+	    <td style="padding:20px;width:75%;vertical-align:middle">
+	      <a href="https://proceedings.mlr.press/v162/netanyahu22a.html">
+        <papertitle>Discovering Generalizable Spatial Goal Representations via Graph-based Active Reward Learning</papertitle>
+        </a>
+        <br>
+        Aviv Netanyahu*,
+        Tianmin Shu*,
+        Joshua B. Tenenbaum,
+        <strong>Pulkit Agrawal</strong>
+        <br>
+        <em>ICML</em>, 2022
+        <br>
+        <br>
+        <a href="<https://proceedings.mlr.press/v162/netanyahu22a.html>">paper</a> /
+        <a href="data/netanyahu2022discovering.bib">bibtex</a>
+        <p></p>
+        <p>Graph-based one-shot reward learning via active learning for object rearrangement tasks.</p>
+      </td>
+    </tr>
+
+
+<tr>
+	<td style="padding:20px;width:25%;vertical-align:middle">
+		<a href="https://arxiv.org/pdf/2207.02200.pdf">
+			<img src="images/icml_2022_pic.png" alt="sym" width="100%" style="border-radius:5px">
+		</a>
+	</td>
+	<td style="padding:20px;width:75%;vertical-align:middle">
+	  <a href="https://arxiv.org/pdf/2207.02200.pdf">
+        <papertitle>Offline RL Policies Should be Trained to be Adaptive</papertitle>
+    </a>
+        <br>
+        Dibya Ghosh, Anurag Ajay, <strong>Pulkit Agrawal</strong>, Sergey Levine
+        <br>
+        <em>ICML</em>, 2022
+        <br>
+        <br>
+        <a href="https://arxiv.org/pdf/2207.02200.pdf">paper</a> /
+        <a href="data/ghosh2022offline.bib">bibtex</a>
+        <p></p>
+        <p> Online adaptation of offline RL policies using evaluation data improves
+          performance.</p>
+      </td>
+    </tr>
+
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://openreview.net/forum?id=OXRZeMmOI7a">
+            <img src="images/ter.png" alt=“ter” width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://openreview.net/forum?id=OXRZeMmOI7a">
+            <papertitle>Topological Experience Replay
+            </papertitle>
+          </a>
+          <br>
+          Zhang-Wei Hong,
+          Tao Chen,
+      Yen-Chen Lin,
+          Joni Pajarinen,
+          <strong>Pulkit Agrawal</strong>
+          <br>
+          <em>ICLR</em>, 2022
+          <br>
+          <br>
+          <a href="https://openreview.net/forum?id=OXRZeMmOI7a"> paper</a> /
+          <a href="data/hong2022topological.bib">bibtex</a>
+          <p></p>
+          <p> Sampling data from the replay buffer informed by topological structure
+          of the state space improves performance.</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://openreview.net/forum?id=LedObtLmCjS">
+            <img src="images/bvn.png" alt=“ter” width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://openreview.net/forum?id=LedObtLmCjS">
+            <papertitle>Bilinear Value Networks for Multi-goal Reinforcement Learning
+            </papertitle>
+          </a>
+          <br>
+          Zhang-Wei Hong*,
+          Ge Yang*,
+          <strong>Pulkit Agrawal</strong> (*equal contribution)
+          <br>
+          <em>ICLR</em>, 2022
+          <br>
+          <br>
+          <a href="https://openreview.net/forum?id=LedObtLmCjS">paper</a> /
+          <a href="data/hong2022bilinear.bib">bibtex</a>
+          <p></p>
+          <p> Bilinear decomposition of the Q-value function improves generalization and
+            data efficiency.</p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://arxiv.org/pdf/2111.00899.pdf">
+          <img src="images/construction.png" alt="sym" width="100%" style="border-radius:5px">
+          </a>
+        </td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/pdf/2111.00899.pdf">
+            <papertitle>Equivariant Contrastive Learning
+            </papertitle>
+        </a>
+        <br>
+        Rumen Dangovski,
+        Li Jing,
+        Charlotte Loh,
+        Seungwook Han,
+        Akash Srivastava,
+        Brian Cheung,
+        <strong>Pulkit Agrawal</strong>,
+        Marin Soljacic
+        <br>
+        <em>ICLR </em>, 2022
+        <br>
+        <br>
+        <a href="https://arxiv.org/pdf/2111.00899.pdf">paper</a> /
+        <a href="data/dangovski2021equivariant.bib">bibtex</a>
+        <p></p>
+        <p> Study revealing complementarity of invariance and equivariance in contrastive learning.</p>
+      </td>
+  </tr>
+
+  <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://people.csail.mit.edu/pulkitag/">
+              <img src="images/rff.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://people.csail.mit.edu/pulkitag/">
+              <papertitle>Overcoming The Spectral Bias of Neural Value Approximation
+              </papertitle>
+            </a>
+            <br>
+            Ge Yang*,
+            Anurag Ajay*,
+            <strong>Pulkit Agrawal</strong> (*equal contribution)
+            <br>
+            <em>ICLR</em>, 2022
+            <br>
+            <br>
+            <a href="https://arxiv.org/abs/2206.04672"> paper </a> /
+            <a href="data/yang2022overcoming.bib">bibtex</a>
+            <p></p>
+            <p> Fourier features improve value estimation and consequently data efficiency.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://openreview.net/forum?id=7uSBJDoP7tY">
+              <img src="images/hand_reori.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://taochenshh.github.io/projects/in-hand-reorientation">
+            <papertitle>A System for General In-Hand Object Re-Orientation
+            </papertitle>
+            </a>
+            <br>
+            <a href="https://taochenshh.github.io/">Tao Chen</a>,
+            <a href="http://people.csail.mit.edu/jiex" target="_blank">Jie Xu</a>,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>CoRL</em>, 2021 <font color="red"><strong>(Best Paper Award)</strong></font>
+            <br>
+            <br>
+            <a href="https://openreview.net/forum?id=7uSBJDoP7tY">paper</a> /
+            <a href="data/chen2021system.bib">bibtex</a> /
+            <a href="https://taochenshh.github.io/projects/in-hand-reorientation" target="_blank">project page</a>
+            <br>
+            Press: <a href="https://news.mit.edu/2021/dexterous-robotic-hands-manipulate-thousands-objects-1112">MIT News</a>
+            <p></p>
+            <p> A framework for general in-hand object reorientation.</p>
+          </td>
+        </tr>
+
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://openreview.net/pdf?id=R4E8wTUtxdl">
+          <img src="images/cheetah-jump.gif" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://openreview.net/pdf?id=R4E8wTUtxdl">
+          <papertitle>Learning to Jump from Pixels
+          </papertitle>
+          </a>
+          <br>
+          <a href="http://people.csail.mit.edu/gmargo/" target="_blank">Gabriel Margolis</a>,
+          <a href="https://taochenshh.github.io/" target="_blank">Tao Chen</a>,
+          <a href="https://kartikpaigwar.github.io/" target="_blank">Kartik Paigwar</a>,
+           <a href="https://xiangfu.co/" target="_blank">Xiang Fu</a>, <br>
+          <a href="https://dhkim0821.github.io/" target="_blank">Donghyun Kim</a>,
+          <a href="http://meche.mit.edu/people/faculty/sangbae@mit.edu" target="_blank">Sangbae Kim</a>,
+          <strong>Pulkit Agrawal</strong>
+          <br>
+          <em>CoRL</em>, 2021
+          <br>
+          <br>
+          <a href="https://openreview.net/pdf?id=R4E8wTUtxdl">paper</a> /
+          <a href="data/margolis2021jumping.bib">bibtex</a> /
+          <a href="https://sites.google.com/view/jumpingfrompixels" target="_blank">project page</a>
+          <br>
+          Press: <a href="https://news.mit.edu/2021/one-giant-leap-mini-cheetah-1020">MIT News</a>
+          <p></p>
+          <p> A hierarchical control framework for dynamic vision-aware locomotion. </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <a href="https://3d-representation-learning.github.io/nerf-dy/">
+            <img src="images/nerf3d.png" alt="sym" width="100%" style="border-radius:5px">
+        </a></td>
+
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://3d-representation-learning.github.io/nerf-dy/">
+            <papertitle>3D Neural Scene Representations for Visuomotor Control
+            </papertitle>
+          </a>
+          <br>
+          Yunzhu Li*, Shuang Li*, Vincent Sitzmann,<strong>Pulkit Agrawal</strong>,
+          Antonio Torralba (*equal contribution)
+          <br>
+          <em>CoRL</em>, 2021 <font color="red"><strong>(Oral)</strong></font>
+          <br>
+          <br>
+          <a href="https://arxiv.org/abs/2107.04004">paper</a> /
+          <a href="https://3d-representation-learning.github.io/nerf-dy/"> website </a> /
+          <a href="data/li20213d.bib">bibtex</a>
+          <p></p>
+          <p> Extreme viewpoint generalization via 3D representations based on Neural Radiance Fields.</p>
+        </td>
+      </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2107.07501">
+              <img src="images/handdesign2021.jpeg" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2107.07501.pdf">
+              <papertitle>An End-to-End Differentiable Framework for Contact-Aware Robot Design
+              </papertitle>
+            </a>
+            <br>
+            Jie Xu, Tao Chen, Lara Zlokapa, Michael Foshey, Wojciech Matusik, <br>
+            Shinjiro Sueda, <strong> Pulkit Agrawal </strong>
+            <br>
+            <em>RSS</em>, 2021
+            <br><br>
+            <a href="https://arxiv.org/abs/2107.07501.pdf">paper</a> /
+            <a href="http://diffhand.csail.mit.edu/">website</a> /
+            <a href="data/xu2021end.bib">bibtex</a> /
+            <a href="https://youtu.be/0CQoFaRaz7U">video</a> /
+            <br>
+            Press: <a href="https://news.mit.edu/2021/contact-aware-robot-design-0719">MIT News</a>
+            <p></p>
+            <p> Computational method for design task-specific robotic hands. </p>
+          </td>
+      </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2106.15612.pdf">
+              <img src="images/tia2021.gif" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2106.15612.pdf">
+              <papertitle>Learning Task Informed Abstractions
+              </papertitle>
+            </a>
+            <br>
+            Xiang Fu,
+            Ge Yang,
+            <strong>Pulkit Agrawal</strong>,
+            Tommi Jaakkola
+            <br>
+            <em>ICML</em>, 2021
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/2106.15612.pdf">paper</a> /
+            <a href="https://xiangfu.co/tia">website</a> /
+            <a href="data/fu2021learning.bib">bibtex</a>
+            <p></p>
+            <p> A MDP formulation that dissociates task relevant and irrelevant information.</p>
+          </td>
+      </tr>
+
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2104.00631.pdf">
+              <img src="images/hamr-rml.png" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/pdf/2104.00631.pdf">
+              <papertitle>Residual Model Learning for Microrobot Control
+              </papertitle>
+            </a>
+            <br>
+            Joshua Gruenstein,
+            Tao Chen,
+            Neel Doshi,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICRA</em>, 2021
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/2104.00631.pdf">paper</a> /
+            <a href="data/gruenstein2021residual.bib">bibtex</a>
+            <p></p>
+            <p> Data efficient learning method for controlling microrobots.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href=href="https://sites.google.com/view/opal-iclr">
+              <img src="images/opal.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://sites.google.com/view/opal-iclr">
+              <papertitle>OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning
+              </papertitle>
+            </a>
+            <br>
+            <a href="https://anuragajay.github.io/">Anurag Ajay</a>,
+            Aviral Kumar,
+            <strong>Pulkit Agrawal</strong>,
+            Sergey Levine,
+            Ofir Nachum
+            <br>
+            <em>ICLR</em>, 2021
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/2010.13611.pdf">paper</a> /
+            <a href="https://sites.google.com/view/opal-iclr">website</a> /
+            <a href="data/ajay2021opal.bib">bibtex</a>
+            <p></p>
+            <p> Learning action primitives for data efficient online and offline RL.</p>
+          </td>
+        </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href=href="https://anthonysimeonov.github.io/rpo-planning-framework/">
+                <img src="images/multistep_intro.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://anthonysimeonov.github.io/rpo-planning-framework/">
+                <papertitle>A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects
+                </papertitle>
+              </a>
+              <br>
+              <a href="https://anthonysimeonov.github.io/">Anthony Simeonov</a>,
+              Yilun Du,
+              Beomjoon Kim,
+              Francois Hogan,
+              Joshua Tenenbaum,
+              <strong>Pulkit Agrawal</strong>,
+              Alberto Rodriguez
+              <br>
+              <em>CoRL</em>, 2020
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/2011.08177.pdf">paper</a> /
+              <a href="https://anthonysimeonov.github.io/rpo-planning-framework/">website</a> /
+              <a href="data/simeonov2020learning.bib">bibtex</a>
+              <p></p>
+              <p> A framework that achieves the best of TAMP and robot-learning
+                for manipulating rigid objects.</p>
+            </td>
+          </tr>
+
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <a href="https://richardrl.github.io/relational-rl/">
+              <img src="images/block-stacking-2019.gif" alt="sym" width="100%" style="border-radius:5px">
+          </a></td>
+
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://richardrl.github.io/relational-rl/">
+              <papertitle>Towards Practical Multi-object Manipulation using
+Relational Reinforcement Learning</papertitle>
+            </a>
+            <br>
+            <a href="https://richardrl.github.io/">Richard Li</a>,
+            <a href="https://ajabri.github.io/">Allan Jabri</a>,
+            <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>,
+            <strong>Pulkit Agrawal</strong>
+            <br>
+            <em>ICRA</em>, 2020
+            <br>
+            <br>
+            <a href="https://arxiv.org/pdf/1912.11032.pdf">paper</a> /
+            <a href="https://richardrl.github.io/relational-rl/">website</a> /
+            <a href="https://github.com/richardrl/rlkit-relational">code</a> /
+            <a href="data/li2019towards.bib">bibtex</a>
+            <p></p>
+            <p> Combining graph neural networks with curriculum learning for solve
+            long horizon multi-object manipulation tasks.</p>
+          </td>
+        </tr>
+
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/1902.05522">
+                <img src="images/superposition_nutshell.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/1902.05522">
+                <papertitle>Superposition of Many Models into One</papertitle>
+              </a>
+              <br>
+              <a href="https://redwood.berkeley.edu/people/brian-cheung/">Brian Cheung</a>,
+              <a href="https://redwood.berkeley.edu/people/alex-terekhov/">Alex Terekhov</a>,
+              <a href="https://redwood.berkeley.edu/people/yubei-chen/">Yubei Chen</a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="http://www.rctn.org/bruno/">Bruno Olshausen</a>,
+              <br>
+              <em>NeurIPS</em>, 2019
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1902.05522">arxiv</a> /
+              <a href="https://www.youtube.com/watch?v=1WopZJ4WrX0">video tutorial</a> /
+              <a href="https://github.com/briancheung/superposition">code</a> /
+              <a href="data/cheung2019superposition.bib">bibtex</a>
+              <p></p>
+              <p> A method for storing multiple neural network models for different
+                tasks into a single neural network.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://www.ncbi.nlm.nih.gov/pubmed/31318502">
+                <img src="images/emt_2019.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_07_2019_Xiong%20final.pdf">
+                <papertitle>Real-time Video Detection of Falls in Dementia Care
+                  Facility and Reduced Emergency Care</papertitle>
+              </a>
+              <br>
+              Glen L Xiong, Eleonore Bayen, Shirley Nickels, Raghav Subramaniam,
+              <strong> Pulkit Agrawal</strong>, Julien Jacquemot, Alexandre M Bayen,
+              Bruce Miller, George Netscher
+              <br>
+              <em>American Journal of Managed Care </em>, 2019
+              <br>
+              <br>
+              <a href="https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_07_2019_Xiong%20final.pdf">paper</a> /
+              <a href="https://www.safely-you.com/">SafelyYou</a> /
+              <a href="data/xiong2019real.bib">bibtex</a>
+              <p></p>
+              <p> Computer Vision based Fall Detection system reduces number of
+              falls and emergency room visits in people with Dementia.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://openreview.net/pdf?id=BkisuzWRW">
+                <img src="images/iclr18_1.gif " alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://openreview.net/pdf?id=BkisuzWRW">
+                <papertitle>Zero Shot Visual Imitation</papertitle>
+              </a>
+              <br>
+              <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak*</a>,
+              <a href="https://people.eecs.berkeley.edu/~parsa.m/">Parsa Mahmoudieh*</a>,
+              Michael Luo,
+              <strong>Pulkit Agrawal*</strong>, <br>
+              <a href="https://people.eecs.berkeley.edu/~shelhamer/">Evan Shelhamer</a>,
+              <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>,
+              <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
+              (* equal contribution)
+              <br>
+              <em>ICLR</em>, 2018 &nbsp <font color="red"><strong>(Oral)</strong></font>
+              <br>
+              <br>
+              <a href="https://openreview.net/forum?id=BkisuzWRW">paper</a> /
+              <a href="https://pathak22.github.io/zeroshot-imitation/">website</a> /
+              <a href="https://github.com/pathak22/zeroshot-imitation">code</a> /
+              <a href="https://www.dropbox.com/s/36efg1t3qn6i495/2018_04_ZeroShotImitation.pptx">slides</a> /
+              <a href="data/pathak2018zero.bib">bibtex</a>
+              <p></p>
+              <p> Self-supervised learning of skills helps an agent imitate
+              the task presented as a sequence of images. Forward consistency loss
+              overcomes key challenges of inverse and forward models.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://rach0012.github.io/humanRL_website/">
+                <img src="images/icml18.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://rach0012.github.io/humanRL_website/">
+                <papertitle>Investigating Human Priors for Playing Video Games</papertitle>
+              </a>
+              <br>
+              <a href="http://cocosci.princeton.edu/rachit/">Rachit Dubey</a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>,
+              <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>,
+              <a href="http://cocosci.princeton.edu/tom/">Tom Griffiths</a>
+              <br>
+              <em>ICML</em>, 2018
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/1802.10217.pdf">paper</a> /
+              <a href="https://rach0012.github.io/humanRL_website/">website</a> /
+              <a href="https://youtu.be/Ol0-c9OE3VQ">youtube cover</a> /
+              <a href="https://rach0012.github.io/humanRL_website/#media">media</a> /
+              <a href="data/dubey2018investigating.bib">bibtex</a>
+              <p></p>
+              <p> An empirical study of various kinds of prior information used
+                by humans to solve video games. Such priors make them significantly
+              more sample efficient as compared to Deep Reinforcement Learning algorithms.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://pathak22.github.io/seg-by-interaction/">
+                <img src="images/instance_segmentation.png" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://pathak22.github.io/seg-by-interaction/">
+                <papertitle>Learning Instance Segmentation by Interaction</papertitle>
+              </a>
+              <br>
+              <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak*</a>,
+              Yide Shentu*,
+              <a href="http://www.cs.utexas.edu/~dchen/">Dian Chen*</a>,
+              <strong>Pulkit Agrawal*</strong>,
+              <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>,
+              <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              &nbsp (*equal contribution)
+              <br>
+              <em>CVPR Workshop</em>, 2018
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/1806.08354.pdf">paper</a> /
+              <a href="https://pathak22.github.io/seg-by-interaction/">website</a>
+              <a href="data/pathak2018learning.bib">bibtex</a>
+              <p></p>
+              <p> A self-supervised method for learning to segment objects by
+                interacting with them. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338">
+                <img src="images/circulation18_2.png " alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338">
+                <papertitle>Fully Automated Echocardiogram Interpretation in Clinical Practice:
+                  Feasibility and Diagnostic Accuracy </papertitle>
+              </a>
+              <br>
+              Jeffrey Zhang, Sravani Gajjala, <strong>Pulkit Agrawal</strong>, Geoffrey H Tison, Laura A Hallock,
+              Lauren Beussink-Nelson, Mats H Lassen, Eugene Fan, Mandar A Aras, ChaRandle Jordan,
+              Kirsten E Fleischmann, Michelle Melisko, Atif Qasim, Sanjiv J Shah,
+              Ruzena Bajcsy, Rahul C Deo
+              <br>
+              <em>Circulation</em>, 2018
+              <br>
+              <br>
+              <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338">paper</a> /
+              <a href="https://arxiv.org/abs/1706.07342">arxiv</a> /
+              <a href="data/zhang2018fully.bib">bibtex</a>
+              <p></p>
+              <p> Computer vision method for building fully automated and scalable analysis
+                pipeline for echocardiogram interpretation.</p>
+            </td>
+          </tr>
+
+          <tr bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <a href="http://pathak22.github.io/noreward-rl/">
+                <img src="images/icml17_1.gif" alt="sym" width="100%" style="border-radius:5px">
+            </a></td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="TODO">
+                <papertitle>Curiosity Driven Exploration by Self-Supervised Prediction</papertitle>
+              </a>
+              <br>
+              <a href="https://people.eecs.berkeley.edu/~pathak/">Deepak Pathak</a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>,
+              <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
+              <br>
+              <em>ICML</em>, 2017
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1705.05363">arxiv</a> /
+              <a href="https://www.youtube.com/watch?v=J3FHOyhUn3A">video</a> /
+              <a href="https://vimeo.com/237270588">talk</a> /
+              <a href="https://github.com/pathak22/noreward-rl">code</a> /
+              <a href="https://pathak22.github.io/noreward-rl/"> project website </a> /
+              <a href="data/pathak2017curiosity.bib">bibtex</a>
+              <p></p>
+              <p> Intrinsic curiosity of agents enables them to learn useful and
+                generalizable skills without any rewards from the environment. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+                <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Felsen_What_Will_Happen_ICCV_2017_paper.html">
+                  <img src="images/waterpolo.png" alt="sym" width="100%" style="border-radius:5px">
+              </a>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="http://openaccess.thecvf.com/content_iccv_2017/html/Felsen_What_Will_Happen_ICCV_2017_paper.html">
+              <papertitle>What Will Happen Next?: Forecasting Player Moves in Sports Videos</papertitle>
+              </a>
+              <br>
+              <a href="https://www.linkedin.com/in/panna-felsen-030a3964">Panna Felsen</a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              <br>
+              <em>ICCV</em>, 2017
+              <br>
+              <br>
+              <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf">paper </a> /
+              <a href="data/felsen2017iccv.bib">bibtex</a>
+              <p></p>
+              <p> Feature learning by making use of an agent's knowledge of its motion.</p>
+            </td>
+          </tr>
+
+
+          <tr bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/rope-manipulation.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://ropemanipulation.github.io/">
+              <papertitle>Combining Self-Supervised Learning and Imitation for Vision-based Rope Manipulation</papertitle>
+              </a>
+              <br>
+              <a href="http://ashvin.me/">Ashvin Nair*</a>,
+              <a href="http://www.cs.utexas.edu/~dchen/">Dian Chen*</a>,
+              <strong>Pulkit Agrawal*</strong>,
+              <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>,
+              <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>,
+              <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>
+              <br>(*equal contribution)
+              <br>
+              <em>ICRA</em>, 2017
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1703.02018">arxiv</a> /
+              <a href="https://ropemanipulation.github.io/"> website</a> /
+              <a href="https://youtu.be/ofNQh5ELrOw"> video </a> /
+              <a href="data/nair2017combining.bib">bibtex</a>
+              <p></p>
+              <p> Self-supervised learning of low-level skills enables a robot to
+                follow a high-level plan specified by a single video demonstration.
+                The code for the paper <em> Zero Shot Visual Imitation </em>
+                subsumes this project's code release. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/physics_exp.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/1611.01843">
+              <papertitle>Learning to Perform Physics Experiments via Deep Reinforcement Learning</papertitle>
+              </a>
+              <br>
+              <a href="http://mdenil.com/">Misha Denil</a>,
+              <strong>Pulkit Agrawal*</strong>,
+              <a href="https://tejasdkulkarni.github.io/">Tejas D Kulkarni</a>,
+              <a href="https://scholar.google.com/citations?user=gVFnjOcAAAAJ&hl=en">Tom Erez</a>,
+              <a href="https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en">Peter Battaglia</a>,
+              <a href="https://www.cs.ubc.ca/~nando/">Nando de Freitas</a>
+              <br>
+              <em>ICLR</em>, 2017
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1611.01843">arxiv</a> /
+              <a href="https://www.newscientist.com/article/2112455-google-deepminds-ai-learns-to-play-with-physical-objects/">media</a> /
+              <a href="https://www.youtube.com/watch?time_continue=1&v=gs7mWG2sjUU&feature=emb_logo"> video </a> /
+              <a href="data/denil2017learning.bib">bibtex</a>
+              <p></p>
+              <p> Deep reinforcement learning can equip an agent with the ability
+                to perform experiments for inferring physical quanities of interest.
+               </p>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+                <a href="https://www.ncbi.nlm.nih.gov/pubmed/29042342">
+                  <img src="images/safely_cameras.png" alt="sym" width="100%" style="border-radius:5px">
+              </a>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.ncbi.nlm.nih.gov/pubmed/29042342">
+              <papertitle>Reduction in Fall Rate in Dementia Managed Care through
+                 Video Incident Review: Pilot Study</papertitle>
+              </a>
+              <br>
+              Eleonore Bayen, Julien Jacquemot, George Netscher,
+              <strong>Pulkit Agrawal</strong>,
+              Lynn Tabb Noyce, Alexandre Bayen
+              <br>
+              <em>Journal of Medical Internet Research</em>, 2017
+              <br>
+              <br>
+              <a href="https://www.jmir.org/2017/10/e339/pdf">paper </a> /
+              <a href="data/bayen2017reduction.bib">bibtex</a>
+              <p></p>
+              <p> Analysis how continuous video monitoring and review of falls
+                of individuals with dementia can support better quality of care.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/ief.gif" alt="sym" width="80%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/1507.06550">
+                <papertitle>Human Pose Estimation with Iterative Error Feedback</papertitle>
+              </a>
+              <br>
+              <a href="https://uk.linkedin.com/in/jo%C3%A3o-carreira-56238a7">Joao Carreira</a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              <br>
+              <em>CVPR</em>, 2016  &nbsp <font color="red"><strong>(Spotlight)</strong></font>
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/1507.06550">arxiv</a> /
+              <a href="https://github.com/pulkitag/ief">code</a> /
+              <a href="data/carreira2016human.bib">bibtex</a>
+              <p></p>
+              <p> Iterative Error Feedback (IEF) is a self-correcting model that
+                progressively changes an initial solution by feeding back error predictions.
+                In contrast to feedforward CNNs that only capture structure in inputs,
+                IEF captures structure in both the space of inputs and outputs.</p>
+            </td>
+          </tr>
+
+          <tr bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/poking.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="http://ashvin.me/pokebot-website/">
+              <papertitle>Learning to Poke by Poking: Experiential Learning of Intuitive Physics</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal*</strong>,
+              <a href="http://ashvin.me/">Ashvin Nair*</a>,
+              <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>,
+              <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>
+              <br>(*equal contribution)
+              <br>
+              <em>NIPS</em>, 2016, <font color="red"><strong>(Oral)</strong></font>
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1505.01596">arxiv</a> /
+              <a href="https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Learning-to-Poke-by-Poking-Experiential-Learning-of-Intuitive-Physics">talk</a> /
+              <a href="http://ashvin.me/pokebot-website/">project website</a> /
+              <a href="https://drive.google.com/file/d/0B3xZefNMOTwuTUwtU0ZnaDhGVUE/view?usp=sharing">data</a> /
+              <a href="data/agrawal2016learning.bib">bibtex</a>
+              <p></p>
+              <p> Robot learns how to push objects to target locations by conducting
+                a large number of pushing experiments. The code for the paper
+                <em> Zero Shot Visual Imitation </em> subsumes this project's code release. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/imagenet_thumb.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/1608.08614v2.pdf">
+              <papertitle>What makes Imagenet Good for Transfer Learning?</papertitle>
+              </a>
+              <br>
+              <a href="http://minyounghuh.com/"> Jacob Huh </a>,
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>
+              <br>
+              <em>NIPS LSCVS Workshop</em>, 2016, &nbsp <font color="red"><strong>(Oral)</strong></font>
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/1608.08614">arxiv</a> /
+              <a href="http://minyounghuh.com/papers/analysis/">project website</a> /
+              <a href="https://github.com/minyoungg/WMIGFT">code</a> /
+              <a href="data/huh2016what.bib">bibtex</a>
+              <p></p>
+              <p> An empirical investigation into various factors related to the
+              statistics of Imagenet dataset that result in transferrable features. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/billiards.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/1511.07404">
+              <papertitle>Learning Visual Predictive Models of Physics for Playing Billiards</papertitle>
+              </a>
+              <br>
+              <a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki*</a>,
+              <strong>Pulkit Agrawal*</strong>,
+              <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              <br>(*equal contribution)
+              <br>
+              <em>ICLR</em>, 2016
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1511.07404">arxiv</a> /
+              <a href="https://github.com/pulkitag/pyphy-engine">code</a> /
+              <a href="data/fragkiadaki2016learning.bib">bibtex</a>
+              <p></p>
+              <p> This work explores how an agent can be equipped with an internal
+                model of the dynamics of the external world, and how it can use this model to plan novel
+                actions by running multiple internal simulations (“visual imagination”). </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+                <img src="images/3D_rep.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="http://3drepresentation.stanford.edu/">
+              <papertitle>Generic 3d Representation via Pose Estimation and Matching</papertitle>
+              </a>
+              <br>
+              <a href="https://cs.stanford.edu/~amirz/">Amir R. Zamir</a>,
+              <a href="https://www.researchgate.net/profile/Tilman_Wekel"> Tilman Wekel</a>,
+              <strong>Pulkit Agrawal</strong>,
+              Colin Weil,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>,
+              <a href="http://cvgl.stanford.edu/silvio/"> Silvio Savarese</a>
+              <br>
+              <em>ECCV</em>, 2016
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1710.08247">arxiv</a> /
+              <a href="http://3drepresentation.stanford.edu/">website </a> /
+              <a href="https://github.com/amir32002/3D_Street_View"> dataset </a> /
+              <a href="https://github.com/pulkitag/learning-to-see-by-moving">code</a> /
+              <a href="data/zamir2016generic.bib">bibtex</a>
+              <p></p>
+              <p> Large-scale study of feature learning using agent's knowledge of its motion.
+                This paper extends our ICCV 2015 paper.
+              </p>
+            </td>
+          </tr>
+
+          <tr bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/lsm_3.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Agrawal_Learning_to_See_ICCV_2015_paper.pdf">
+              <papertitle>Learning to See by Moving</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://uk.linkedin.com/in/jo%C3%A3o-carreira-56238a7">Joao Carreira</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              <br>
+              <em>ICCV</em>, 2015
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1505.01596">arxiv</a> /
+              <a href="https://github.com/pulkitag/learning-to-see-by-moving">code</a> /
+              <a href="data/agrawal2015learning.bib">bibtex</a>
+              <p></p>
+              <p> Feature learning by making use of an agent's knowledge of its motion.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/analyzing_2014.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/PulkitECCV2014.pdf">
+                <papertitle>Analyzing the Performance of Multilayer Neural Networks for Object Recognition</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://www.rossgirshick.info/">Ross Girshick</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>
+              <br>
+              <em>ECCV</em>, 2014
+              <br>
+              <br>
+              <a href="https://arxiv.org/abs/1407.1610">arxiv</a> /
+              <a href="data/carreira2016human.bib">bibtex</a>
+              <p></p>
+              <p> A detailed study of how to finetune neural networks and the
+              nature of the learned representations.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/brain.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/1407.5104">
+              <papertitle>Pixels to Voxels: Modeling Visual Representation in the Human Brain</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal</strong>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Dustin Stansbury</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>,
+              <a href="https://people.eecs.berkeley.edu/~malik/">Jack Gallant</a>
+              <br>(*equal contribution)
+              <br>
+              <em>arXiv</em>, 2014
+              <br>
+              <br>
+              <a href="https://arxiv.org/pdf/1407.5104">arxiv</a> /
+              <a href="data/cnn_mimics_brain.pdf">unpublished results</a> /
+              <a href="data/agrawal2014pixels.bib">bibtex</a>
+              <p></p>
+              <p> Comparing the representations learnt by a Deep Neural Network
+              optimized for object recognition against the human brain. </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/automatic_assesment.png" alt="sym" width="100%" style="border-radius:5px">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://pdfs.semanticscholar.org/0242/a90f7a269ef2d185ca59ada28e4160b638a6.pdf">
+              <papertitle>The Automatic Assessment of Knowledge Integration Processes in Project Teams</papertitle>
+              </a>
+              <br>
+              Gahgene Gweon,
+              <strong>Pulkit Agrawal</strong>,
+              Mikesh Udani,
+              Bhiksha Raj,
+              Carolyn Rose
+              <br>
+              <em>Computer Supported Collaborative Learning </em>, 2011
+              &nbsp <font color="red"><strong>(Best Student Paper Award)</strong></font>
+              <br>
+              <br>
+              <a href="https://pdfs.semanticscholar.org/0242/a90f7a269ef2d185ca59ada28e4160b638a6.pdf">arxiv</a> /
+              <a href="data/gweon2011automatic.bib">bibtex</a>
+              <p></p>
+              <p> Method for identifying important parts of a group conversation
+                directly from speech data. </p>
+            </td>
+          </tr>
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:10px;vertical-align:middle">
+              <heading>Patents</heading>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px;width:100%;vertical-align:middle">
+              <a href="https://patentimages.storage.googleapis.com/5d/98/08/56f1af274703b6/US20190287376A1.pdf">
+              <papertitle>System and Method for Detecting, Recording and Communicating
+                Events in the Care and Treatment of Cognitively Impaired Persons</papertitle>
+              </a>
+              <br>
+              George Netscher, Julien Jacquemot, <strong>Pulkit Agrawal</strong>, Alexandre Bayen
+              <br>
+              US Patent: <em>US20190287376A1</em>, 2019
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px;width:100%;vertical-align:middle">
+              <a href="https://patentimages.storage.googleapis.com/51/c6/fa/ce05ea8879dd68/US20150278628A1.pdf">
+              <papertitle>Invariant Object Representation of Images Using Spiking Neural Networks</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal</strong>, Somdeb Majumdar, Vikram Gupta
+              <br>
+              US Patent: <em>US20150278628A1</em>, 2015
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px;width:100%;vertical-align:middle">
+              <a href="https://patentimages.storage.googleapis.com/cb/1f/cf/5d728862f69828/US20150278641A1.pdf">
+              <papertitle>Invariant Object Representation of Images Using Spiking Neural Networks</papertitle>
+              </a>
+              <br>
+              <strong>Pulkit Agrawal</strong>, Somdeb Majumdar
+              <br>
+              US Patent: <em>US20150278641A1</em>, 2015
+            </td>
+          </tr>
+        </tbody></table>
+        <br>
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10"><tbody>
+          <tr>
+            <td>
+              <heading>Service</heading>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px;width:100%;vertical-align:middle">
+            Program Chair, CoRL, 2024 <br>
+            Area Chair, ICML, 2021 <br>
+            Area Chair, ICLR, 2021 <br>
+            Area Chair, NeurIPS, 2020 <br>
+            Area Chair, CoRL, 2020, 2019 <br>
+            Reviewer for CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR,
+            RSS, ICRA, IJRR, IJCV, IEEE RA-L, TPAMI etc.
+          </td>
+          </tr>
+        </tbody></table>
+
+        <br>
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10"><tbody>
+          <tr>
+            <td>
+              <heading>Lab Alumni</heading>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px;width:100%;vertical-align:middle">
+              <a href="https://taochenshh.github.io/">Tao Chen</a>, PhD 2024, co-founded his startup. <br>
+              <a href="https://anuragajay.github.io/"> Anurag Ajay </a>, PhD 2024, now at Google.<br>
+              <a href="https://rcastro.mit.edu/"> Ruben Castro </a>, MS 2024. <br>
+              <a href="http://minyounghuh.com/"> Jacob Huh </a>, PhD 2024, now at OpenAI. <br>
+              <a href="https://anthonysimeonov.github.io/"> Anthony Simeonov </a>, PhD 2024, now at Boston Dynamics. <br>
+              <a href="http://xiangfu.co/"> Xiang Fu </a>, PhD 2024. <br>
+              <a href="https://scholar.google.com/citations?user=7N-ethYAAAAJ&hl=en">
+                Brian Cheung </a> <br>
+              Andrew Jenkins, MEng, 2024, now at Zoosk <br>.
+              <a href="https://ch.linkedin.com/in/tifanny-pereira-portela-97868521a">
+              Tifanny Portela </a>, visiting student 2023, now a Ph.D. student at ETH Zurich. <br>
+              Yandong Ji, visiting researcher 2023, now a Ph.D. student at UCSD. <br>
+              Meenal Parakh, MEng 2023, now PhD student at Princeton. <br>
+              Marcel Torne, MS 2023, now PhD student at Stanford. <br>
+              Alisha Fong, MEng, 2023 <br>
+              Alina Sarmiento, Undergraduate, 2023, now PhD student at CMU. <br>
+              Sathwik Karnik, Shreya Kumar, Yaosheng Xu, Bhavya Agrawalla,
+              April Chan, Andrei Spiride, April Chan, Calvin Zhang,
+              Abhaya Ravikumar, Alex Hu, Isabel Sperandino <br>
+              Andi Peng, MS 2023, now PhD student with Julie Shah.
+              <a href="https://supersglzc.github.io/"> Steven Li </a>, visiting researcher 2023, now a PhD student at TU Darmstadt.<br>
+              <a href="https://abhishekunique.github.io/"> Abhishek Gupta</a>, PostDoc, now Faculty at University of Washington. <br>
+              <a href="https://lara-z.github.io/"> Lara Zlokapa</a>, MEng, 2022 <br>
+              Haokuan Luo, MEng, 2022 (now at Hudson River) <br>
+              Albert Yue, MEng, 2022 (now at Hudson River) <br>
+              Matthew Stallone, MEng, 2022 <br>
+              Eric Chen, MEng, 2021 (now at Aurora)<br>
+              Joshua Gruenstein, 2021 (now CEO Tutor Intelligence)<br>
+              Alon Z. Kosowsky-Sachs, 2021 (now CTO Tutor Intelligence) <br>
+              <a href="https://averylamp.me/"> Avery Lamp </a> (now at stealth startup)
+              Sanja Simonkovj, 2021 (Masters Student) <br>
+              Oran Luzon, 2021 (Undergraduate Researcher)<br>
+              Blake Tickell, 2020 (Visiting Researcher) <br>
+              Ishani Thakur, 2020 (Undergraduate Researcher) <br>
+          </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:right;font-size:small;">
+                <a href="https://github.com/jonbarron/jonbarron_website">template</a> /
+                <a href="https://accessibility.mit.edu/"> accessibility </a>
+            </td>
+          </tr>
+        </tbody></table>
+
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

@@ -1,0 +1,335 @@
+[
+  {
+    "fullName": "Anush Mutyala",
+    "linkedin_internal_id": "845517313",
+    "first_name": "Anush",
+    "last_name": "Mutyala",
+    "public_identifier": "anushmutyala",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQHz_mtQ8ulqlA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668379356344?e=2147483647&v=beta&t=_HUV-Qg_gRuASV5SuthzbO4S-Ft64WA1NPYNNOtAd6Y",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "engineering @ generalcybernetics.org | nc4 @ ubc",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "currently working on building electronics for next-gen STEM cell factories @ general cybernetics, calibration-free robotics @ nc4, and a DIY semiconductor fab in my free time @ ubctwitter: https://twitter.com/anushmutyalagithub: https://github.com/anushmutyalamedium: https://medium.com/@anushmutyala",
+    "experience": [
+      {
+        "position": "Robotics Researcher",
+        "company_url": "https://ca.linkedin.com/company/nc4-lab?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQGWsYt5bcOPVQ/company-logo_100_100/company-logo_100_100/0/1668560242604?e=2147483647&v=beta&t=Jsd9EhMukSpMSuV7Hw0_YoWvscRlabgNJ0U1PB9O_CY",
+        "company_name": "NC4 Lab",
+        "location": "Vancouver, British Columbia, Canada",
+        "summary": "Phasing out sensor calibration in robotics using neural manifolds.Currently working on building ROS/Gazebo simulations to generate rich LIDAR datasets.",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Electrical Engineering Intern",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "General Cybernetics",
+        "location": null,
+        "summary": "Using LTSpice and Altium/Kicad to design PCBs for bioelectric cell reprogramming experiments.",
+        "starts_at": "Feb 2024",
+        "ends_at": "Present",
+        "duration": "1 year 2 months"
+      },
+      {
+        "position": "Neuromorphics Researcher",
+        "company_url": "https://ca.linkedin.com/school/york-university/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFI_4JbiEOmPQ/company-logo_100_100/company-logo_100_100/0/1688670035445?e=2147483647&v=beta&t=i3qq0Zkg-8Zazw7Uhmz0NDXKNVGkkCoVGd5FyxgV8oU",
+        "company_name": "York University",
+        "location": "Toronto, Ontario, Canada",
+        "summary": "Leading a cross-institutional team in developing novel bio-plausible spiking neural network training algorithms using EEG-fMRI data in Prof. Amirali Amirsoleimani's Lab for Computing Research and Innovation.",
+        "starts_at": "Oct 2023",
+        "ends_at": "Jul 2024",
+        "duration": "10 months"
+      },
+      {
+        "position": "Deep Learning and Hardware Engineer",
+        "company_url": "https://ca.linkedin.com/school/university-of-toronto/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_100_100/company-logo_100_100/0/1639421285702/university_of_toronto_logo?e=2147483647&v=beta&t=cQszsICrRJyKR9NBsim0R-MIobY1gIXbODdD2JOgobY",
+        "company_name": "University of Toronto",
+        "location": "Toronto, Ontario, Canada",
+        "summary": "Working on integrating spiking neural networks into low-power neural implants using programmable logic @ Intelligent Sensory Microsystems Lab under Prof. Roman Genov.Contributions:- Developed software models of on-chip signal processing capabilities - Benchmarked software models using experimentally recorded data of in-vitro brain slices @ Krembil Brain Institute- Trained energy-efficient spiking neural networks using novel methodologies to adapt to the specifics of the taped-out implant design on Compute Canada clusters- Deployed an end2end pipeline on edge and reduced latency by 5x through algorithmic optimizations while enabling a wearable form factor- Designed gate-level implementations of the software/SNNs on FPGA to further reduce latency and support future ASIC/tape-out efforts\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jul 2023",
+        "ends_at": "Jul 2024",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Co-Founder and Core Developer",
+        "company_url": "https://ca.linkedin.com/company/neuradao?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFJV_jF3mmSXw/company-logo_100_100/company-logo_100_100/0/1658167801159?e=2147483647&v=beta&t=ukldhxqG3JdrMHDCCFSIWZyb-MBSfyzTyxjniqESqlI",
+        "company_name": "NeuraDAO",
+        "location": null,
+        "summary": "NeuraDAO's objective is to facilitate a democratized, circular funding ecosystem to accelerate research and development at the intersection of neuroscience and technology.As a co-founder, I was responsible for building our first product iteration, travelling worldwide to pitch at Ethereum conferences, and leading the tech perspective in customer/investor meetings. Raised $6000+ in Gitcoin Round 15. Contributions:- Developing a decentralized marketplace for neuroimaging datasets built on Web3 protocols including Ocean, Bacalhau, Balancer, and Torus- Conceptualizing novel frameworks for IP transfer & ownership on-chain\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Dec 2021",
+        "ends_at": "Dec 2022",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Data Science and Software Engineer",
+        "company_url": "https://ca.linkedin.com/company/divergenceneuro?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQEvlaHnksEavw/company-logo_100_100/company-logo_100_100/0/1630663641976/divergenceneuro_logo?e=2147483647&v=beta&t=-FDCcmvMYnuShDIPdG71oLnz16E98zBbliZFvzOpBpk",
+        "company_name": "Divergence Neuro",
+        "location": "Toronto, Ontario, Canada",
+        "summary": "Helped the team at Divergence build a consumer EEG-based neurofeedback therapy platform. Worked on building visualization and event-related potential experiment modules with Node and ReactJS + EEG analysis scripts in MNE.",
+        "starts_at": "Sep 2021",
+        "ends_at": "Feb 2022",
+        "duration": "6 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://ca.linkedin.com/school/universityofbc/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The University of British Columbia",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQH415qlDBkj8Q/company-logo_100_100/company-logo_100_100/0/1630608877834/universityofbc_logo?e=2147483647&v=beta&t=6U0n4F7zajLH3RxK8A9AyjNmsY8pHmygVsyQf8lv4ng",
+        "college_degree": "Bachelor of Applied Science - BASc",
+        "college_degree_field": "Biomedical Engineering",
+        "college_duration": "2024 - 2024",
+        "college_activity": "Attending on $120k Schulich Leader Scholarship"
+      },
+      {
+        "college_url": "https://ca.linkedin.com/school/theknowledgesociety/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The Knowledge Society (TKS)",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGGAY2Cixadgw/company-logo_100_100/company-logo_100_100/0/1694025408193/theknowledgesociety_logo?e=2147483647&v=beta&t=aQry4STjI9TOd_5EMuO9IDkbBR2EM8qz1k1DC-aJu_E",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2020 - 2022",
+        "college_activity": ""
+      },
+      {
+        "college_name": "Chinguacousy Secondary School - SciTech",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "Grade 12",
+        "college_degree_field": null,
+        "college_duration": "2020 - 2024",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "NC4 Lab",
+      "description1_link": "https://ca.linkedin.com/company/nc4-lab?trk=public_profile_topcard-current-company",
+      "description2": "The University of British Columbia",
+      "description2_link": "https://ca.linkedin.com/school/universityofbc/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=anushmutyala%2Ecom&urlhash=7tHx&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/ethan-childerhose_excited-to-share-what-ive-been-working-on-activity-7300224433867161601-4JaH",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Excited to share what I've been working on,\n\nAutomotive manufacturers are quickly transitioning to electric vehicles but initial offerings remain\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/masoncai_isml-isscc2025-isml-activity-7299911169677438977-wikt",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGqeSRiDWrDbA/feedshare-shrink_2048_1536/B56ZU5.hcKGoAo-/0/1740434446704?e=2147483647&v=beta&t=2NfKOARq5TlWZ7FhJbRKCX3YdPVT2TjmrGLH9p934H4",
+        "title": "I am thrilled to announce that our team at Intelligent Sensory Microsystems Laboratory (#ISML), University of Toronto, has presented our\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nsmccarty_evo-2-can-design-entire-genomes-activity-7298010669298114563-W505",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG_cKhOP__3Yw/articleshare-shrink_800/articleshare-shrink_800/0/1739981323853?e=2147483647&v=beta&t=hVf3v6aoQtbUVnlJfq3B6b2MP29o4v8Xne9nMmnFsqQ",
+        "title": "Just now: Arc Institute and NVIDIA release Evo 2, the largest AI model for biology. Evo 2 can predict which mutations in a gene are likely to be\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/garrytan_summer-fellows-grants-y-combinator-activity-7297305580065472512-FI5P",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQF9zYHIzHHqQA/articleshare-shrink_800/articleshare-shrink_800/0/1739812406556?e=2147483647&v=beta&t=Y2tohleqZPK2wBvTK5IDfKzanpqC4q3t3-oVa0XfxtU",
+        "title": "YC is funding undergraduate computer science and engineering students for summer grants this year: $20,000 in cash and $90,000 in compute credits and\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/pavan-jayasinha-6b06b71b6_modular-careers-activity-7297023084786593793-aPx2",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQH4dov9kNWQwA/articleshare-shrink_800/articleshare-shrink_800/0/1737943280087?e=2147483647&v=beta&t=5asj4sHC088-ZkBteUsOllxqPQo_p3I2ela2OOzGTLY",
+        "title": "Since Modular summer internships just opened up, I thought I'd share my story as one of the first interns there and express how valuable of a growth\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/andrew-cao-400104205_introducing-apollo-a-12-dof-quadruped-robot-activity-7294765831090057216-OKY0",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQHj1JMVcWBiAw/feedshare-thumbnail_720_1280/B56ZTwyQ4jHsA8-/0/1739206499927?e=2147483647&v=beta&t=Zvb1lprnVyvvCVeY5xYIk_TEsgl5N9Xq06QP4aLC6vM",
+        "title": "Introducing Apollo, a 12-DOF quadruped robot that I designed and built entirely from the ground up. After six months of design, manufacturing\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aahaanmaini_engineering-drone-robot-activity-7292592248230215680-AZir",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEOcOF8qLl1QQ/feedshare-shrink_800/B4EZTR9_xtHgAg-/0/1738689478886?e=2147483647&v=beta&t=7fAeC0Wz2azLgC3DKb1QXuPCqe1dA0SinSL1F4J3GqM",
+        "title": "What an amazing first semester of Software Engineering @ Waterloo! My first time experimenting with hardware, excited to share some updates:\n\nTLDR:\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/omar-soliman989_super-grateful-excited-to-be-part-of-the-activity-7283654854407856128-IR7t",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE5PsGmACuAHA/feedshare-shrink_1280/B56ZRQT.dKHQAk-/0/1736514202021?e=2147483647&v=beta&t=6pyqG7M3q-o_SWlgclaUtPmqF4ln54yMdRH14XNPJ4g",
+        "title": "Super grateful & excited to be part of The Cansbridge Fellowship!",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/cayden-pierce_6-years-ago-i-built-my-first-pair-of-smart-activity-7292542533253890049-69J_",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFLBtobAM_1bg/feedshare-shrink_800/B4EZTQM_vWGYAg-/0/1738659859812?e=2147483647&v=beta&t=bmEWKuuesxRMPSl0LlGdNb69Z3lTlASzrycSbxcBAsw",
+        "title": "6 years ago I built my first pair of smart glasses with hot glue and grit. Today: I've dropped out of MIT to build the smart glasses OS at Mentra and\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/olearygerard_weve-just-launched-nxveta-dedicated-brand-activity-7287197060548739072-Trad",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFPjoos-UQ85g/feedshare-shrink_1280/B56ZRrOf07HoAk-/0/1736965751141?e=2147483647&v=beta&t=EdbNgEQISE7EnoPoUhNZIKHZGdu-8lMY9Az4xK80ons",
+        "title": "We\u2019ve just launched NXVET\u2014a dedicated brand for veterinary healthcare under our parent company, NerveX! \n\nWhen we founded NerveX back in 2021, we\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nickdelaguila_hackathon-nwhacks-music-activity-7289722583967490048-5Zdi",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQG5J7m8zfk0ug/feedshare-shrink_2048_1536/B4EZSpMCF5HgAs-/0/1738005297387?e=2147483647&v=beta&t=uQ4SDSfjNKEBveHXQjZ8V2KD90_N8ZWb4FCJ2qmzR2E",
+        "title": "Last weekend, I built flowcus at nwHacks with Anush Mutyala and Ellie Taghavi \ud83d\udee0\ufe0f\n\nflowcus uses a Muse EEG headset to monitor your brainwave activity\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/matthew-willsey-201097300_a-bci-controlling-virtual-fingers-is-used-activity-7287151668033388545-LY9q",
+        "image": "https://media.licdn.com/dms/image/v2/D4E05AQHQpjGZESwVCQ/videocover-high/B4EZSEpkkoGgBs-/0/1737392328131?e=2147483647&v=beta&t=CMZY-P--eEZ_PD_xjk3jQ-HQ0F2fqBh7E1MkwJV5SxA",
+        "title": "A BCI controlling virtual fingers is used to fly a high-performance virtual quadcopter. BCIs could allow people with paralysis to eventually play\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brad-aimone-248661_the-biggest-challenge-opportunity-in-neuromorphic-activity-7288571031512879104-N9ue",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGHUQxJgCD1dw/feedshare-thumbnail_720_1280/B56ZSY0twbGUBU-/0/1737730744120?e=2147483647&v=beta&t=a75886Zp7_wutmi3zH36zrUyHOq807gNXyJaOkB6Jiw",
+        "title": "The biggest challenge / opportunity in neuromorphic computing is figuring out what the right algorithms should be.  Hardware today is scalable and\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jess-villanueva-a07aa1313_whats-your-superpower-or-a-unique-skillset-activity-7286570202807390208-rDKe",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFMSWx6VQ7brg/feedshare-shrink_800/B56ZR8YQDtGQAg-/0/1737253712029?e=2147483647&v=beta&t=1eYgq6uTsdMbgjmXSEf7_avr4PNZoc9JnbQr_xs3Br4",
+        "title": "What's your superpower? Or a unique skillset you possess?\n\nFor me, it's striving to look at the fish into a problem (dig deep), and...\n-> taking\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/url-matt-stokes_building-the-future-of-onshore-semiconductor-activity-7284668148828532736-7UAs",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEpkLoS653-_A/feedshare-shrink_2048_1536/B56ZRhW5h4HoAo-/0/1736800220111?e=2147483647&v=beta&t=7uFwkzPUrjvmf61Ac3gxtsHpTtl_2fEgb7G-QVc1nqk",
+        "title": "Building the future of onshore Semiconductor fabs in North America!\n\nOur team at Waterloo Hacker Fab spent the weekend down in Pittsburgh at the\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/abhayratti_we-generated-plasma-in-a-high-vacuum-sputtering-activity-7281436177067323394-1Vc-",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF3aPt1ZTXCqA/feedshare-shrink_2048_1536/B56ZQzbk6wGoAw-/0/1736029660685?e=2147483647&v=beta&t=4nqufakwRad9442rlWiMo-tjDpcRRRN1Fhcsj1t8NA8",
+        "title": "We generated plasma in a high-vacuum sputtering chamber we engineered here at the Waterloo Hacker Fab for <$1500.\n\nThis was just one of several\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/theknowledgesociety_10-million-cataract-surgeries-happen-every-activity-7279523884402413568-3wQp",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHLapVg8OwYaQ/feedshare-shrink_2048_1536/B4EZQYQZW1HgAo-/0/1735573739431?e=2147483647&v=beta&t=nUif4UUmhTcVqiT8D-LW6S5Jf2bk0nUZBXScHDEwhn4",
+        "title": "10 million cataract surgeries happen every year\u2014but for 25% of patients, complications like Posterior Capsule Opacification (PCO) are a painful\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aarushgupta001_introducing-cerebrum-by-the-silicon-valley-activity-7276990018374512640-B52a",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGm02eYPIwTQQ/feedshare-shrink_2048_1536/B56ZPvmv_cGQAw-/0/1734891733277?e=2147483647&v=beta&t=pwQHjS-iLL5oxuHcyC4A1ICXT8bbaCTLO311gcAMy8I",
+        "title": "Introducing Cerebrum by The Silicon Valley Brain Company.\n\nTL;DR: We combined neural networks with biologically plausible mathematical models that\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ishaan1013_were-turning-the-university-of-waterloo-activity-7275581931348508673-IBIY",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQE-G2Sx0Ww2GA/videocover-high/B56ZPgPLHwHQBs-/0/1734633900002?e=2147483647&v=beta&t=RigHd_0-sqL3xxz6c-Zb2_Fu7dv_au2Q8hssqiL-eBY",
+        "title": "We're turning the University of Waterloo into a supercomputer!\n\nArceus is a distributed compute network for training large Machine Learning models\u2026",
+        "activity": "Liked by Anush Mutyala"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rajansagarwal_im-excited-to-share-that-ill-be-joining-activity-7270221139208015872-y-8L",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQE0AlhYPkBMyw/feedshare-shrink_800/feedshare-shrink_800/0/1733355793000?e=2147483647&v=beta&t=8CO1Og55sPePIy-rSTr5d5I_YaClJ0TVV5XQ7rMFE7o",
+        "title": "I'm excited to share that I'll be joining Kino AI this Winter in San Francisco! I'll be working on multimodal research engineering to help filmmakers\u2026",
+        "activity": "Liked by Anush Mutyala"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://ca.linkedin.com/in/prasanna-parthasarathi?trk=public_profile_browsemap-profile",
+        "name": "Prasanna Parthasarathi",
+        "summary": "McGill | MILA |",
+        "location": "Montreal, QC"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/martha-white-49713a59?trk=public_profile_browsemap-profile",
+        "name": "Martha White",
+        "summary": "",
+        "location": "Edmonton, AB"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/harshineesriram?trk=public_profile_browsemap-profile",
+        "name": "Harshinee S.",
+        "summary": "AI for Healthcare PhD Candidate @ UBC Vancouver | Applied Scientist Intern at Amazon AWS CIC | Incoming Applied Scientist Intern at Amazon",
+        "location": "Metro Vancouver A, BC"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/nrostamzadeh?trk=public_profile_browsemap-profile",
+        "name": "Negar Rostamzadeh",
+        "summary": "",
+        "location": "Montreal, QC"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/sile-tao-phd-95523941?trk=public_profile_browsemap-profile",
+        "name": "Sile Tao, PhD",
+        "summary": "",
+        "location": "Canada"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/fatemi?trk=public_profile_browsemap-profile",
+        "name": "Mehdi Fatemi",
+        "summary": "",
+        "location": "Vancouver, BC"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/stepthom?trk=public_profile_browsemap-profile",
+        "name": "Stephen W. Thomas",
+        "summary": "Executive Director, Analytics and AI Ecosystem at Smith School of Business at Queen's University",
+        "location": "Kingston, ON"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/ankur1998?trk=public_profile_browsemap-profile",
+        "name": "Ankur Agarwal",
+        "summary": "",
+        "location": "Montreal, QC"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/hasmahabibiy?trk=public_profile_browsemap-profile",
+        "name": "Hasma Habibiy",
+        "summary": "Industrial Development @ United Nations | Mechanical Engineering New Grad | prev @ Tesla and Amazon",
+        "location": "Greater Toronto Area, Canada"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/trailblazerajaypreetsinghsaini?trk=public_profile_browsemap-profile",
+        "name": "Ajaypreet Singh Saini",
+        "summary": "",
+        "location": "Montreal, QC"
+      }
+    ],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Enerspike: CWSF 23' Bronze Winner",
+        "duration": "May 2023 - May 2023"
+      },
+      {
+        "title": "ConnexSci: Hack The North 22' Finalist",
+        "duration": "Sep 2022 - Jan 2023"
+      }
+    ],
+    "awards": [
+      {
+        "name": "2024 Schulich Leader Scholar - $120k CAD Scholarship",
+        "organization": "-",
+        "duration": "",
+        "summary": ""
+      },
+      {
+        "name": "Emergent Ventures Fellow - $4k USD Grant",
+        "organization": "-",
+        "duration": "",
+        "summary": "Received a grant to build a maskless photolithography stepper for Hacker Fab @ UBC."
+      }
+    ],
+    "score": []
+  }
+]

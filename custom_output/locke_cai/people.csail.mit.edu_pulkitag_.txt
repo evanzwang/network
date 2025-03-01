@@ -1,0 +1,602 @@
+                    Pulkit Agrawal
+                  I am an Associate Professor in the department of Electrical
+                Engineering and Computer Science (EECS) at
+                    [MIT](www.mit.edu)
+                    .
+                My lab is a part of the Computer Science and Artificial Intelligence Lab
+                (
+                    [CSAIL](https://www.csail.mit.edu/)
+                    ), is
+                affiliated with the Laboratory for Information and Decision Systems
+                (
+                    [LIDS](https://lids.mit.edu/)
+                    ) and involved with
+                NSF AI Institute for Artificial Intelligence and Fundamental Interactions
+                (
+                    [IAIFI](https://iaifi.org/)
+                    ).
+                  I completed my Ph.D. at UC Berkeley; undergraduate studies from IIT Kanpur.
+                Co-founded
+                    [SafelyYou Inc.](https://www.safely-you.com/)
+                    that builds fall prevention technology. Advisor to
+                    [Tutor Intelligence](https://www.tutorintelligence.com/)
+                    ,
+                Lab0 Inc., and
+                    [Common Sense Machines](https://csm.ai/)
+                    .
+                    and the
+                <a href=https://aifoundry.ai/>AI Foundry</a>, an incubator for AI startups.
+                    [Follow @pulkitology](https://twitter.com/pulkitology?ref_src=twsrc%5Etfw)
+                    [LinkedIn](https://www.linkedin.com/in/pulkit-agrawal-967a4218/)
+                    /
+                    [Email](mailto:pulkitag@mit.edu)
+                    [CV](data/pulkit_CV_current.pdf)
+                    [Biography](data/pulkit-bio.txt)
+                    [Google Scholar](https://scholar.google.com/citations?user=UpZmJI0AAAAJ&hl=en)
+                  Research
+                  The overarching research interest is to build machines that have similar manipulation
+               and locomotion abilities as humans. These machines will automatically and continuously
+               learn about their environment and exhibit both common sense and physical intuition.
+               I refer to this line of work as
+                    "computational sensorimotor learning"
+                    .
+               It encompasses problems in
+                    peception
+                    ,
+                    control
+                    hardware design
+                    robotics
+                    reinforcement learning
+                    , and other learning approaches to control.
+               My past work has also drawn inspiration from
+                    cognitive science
+                    , and
+                    neuroscience
+                    My key papers are <span class="highlight">highlighted</span>.
+                    [Ph.D. Thesis (Computational Sensorimotor Learning)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-133.pdf)
+                    [Thesis Talk](https://youtu.be/opsQndkSw5k)
+                    [Bibtex](data/agrawal2018computational.bib)
+                    [TEDxMIT Talk:](https://www.youtube.com/watch?v=LPGGIdxOmWI)
+                    Why machines can play chess but
+                    can't
+                    open doors? (i.e., why is robotics hard?)
+                  Teaching
+                    Courses
+                    [Computational Sensorimotor Learning](https://pulkitag.github.io/6.8200/)
+                    [FA'19](http://manipulation.csail.mit.edu/Fall2019/)
+                    Professional Education
+                    [Summer'24](https://professional.mit.edu/course-catalog/advanced-reinforcement-learning-0)
+                  Recent Awards to Lab Members
+                  Pulkit recieves 2024
+                    [IEEE Early Academic Career Award in Robotics and Automation](https://www.ieee-ras.org/awards-recognition/society-awards/ras-early-career-award-academic)
+                    [Best Paper Award](https://sites.google.com/robot-learning.org/corl2021/program/awards_2021?authuser=0)
+                    at Conference on Robot Learning (CoRL) 2021 to our work on
+                    [in-hand
+                  object re-orientation](https://taochenshh.github.io/projects/in-hand-reorientation#)
+                  Research Group
+                  The lab is an unsual collection of folks working on something that is unconceivable/unthinkable, but not
+              impossible in our lifetime: General Artificial Intelligence. Life is short, do what you must do :-)
+              I like to call my group:
+                    Improbable AI Lab
+                    Post Docs
+                    [Haoshu Fang](https://fang-haoshu.github.io/)
+                    [Branden Romero](https://scholar.google.com/citations?user=0lns2BAAAAAJ&hl=en)
+                    Graduate Students
+                    [Antonia Bronars](https://tonibronars.github.io/)
+                    [Gabe Margolis](https://gmargo11.github.io/about/)
+                    [Zhang-wei Hong](https://williamd4112.github.io/)
+                    [Nolan Fey](https://www.linkedin.com/in/nolan-fey)
+                    [Younghyo Park](https://younghyopark.me/)
+                    [Jyothish Pari](https://jyopari.github.io/aboutMe.html)
+                    [Idan Shenfeld](https://idanshen.github.io/)
+                    [Aviv Netanyahu](https://avivne.github.io/)
+                    [Bipasha Sen](https://bipashasen.github.io/)
+                    [Richard Li](https://richardrl.github.io/)
+                    [Seungwook Han](https://scholar.google.com/citations?user=B6tpjKkAAAAJ&hl=en)
+                    Masters of Engineering (MEng. Students) and Undergraduate Researchers (UROPs)
+                    Visiting Researchers
+                  <p>
+              <b>Collaborators </b> <br>
+            </p>
+                    Openings
+                    Ph.D. Students, PostDocs, and MIT UROPs/SuperUROPs
+                    .
+              If you would like to apply for the Ph.D. program, please apply directly
+              to MIT EECS admissions. For all other positions, send me an e-mail with your resume.
+                  Recent Talks
+                    [Pathway to Robotic Intelligence](https://www.youtube.com/watch?v=-ghQJNmStB4)
+                    , MIT Schwarzman College of Computing Talk, 2024.
+                    [Making Robots as Intelligent as ChatGPT](https://www.forbes.com/video/6335581924112/making-robots-as-intelligent-as-chatgpt/)
+                    , Forbes, 2023.
+                    [Robot Learning for the Real World,](https://www.cs.utexas.edu/~ai-lab/fai/?year=2022-2023#Pulkit%20Agrawal)
+                    Forum for Artificial Intelligence, UT Austin, March 2023.
+                    [Fun with Robots and Machine Learning](https://www.youtube.com/watch?v=6NDWSxV7H3o)
+                    , Robotics Colloqium,
+              University of Washington, Nov 2022.
+                    [Navigating Through Contacts](https://www.youtube.com/watch?v=jU7pkiv3x0E&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=11)
+                    , RSS 2022 Workshop in The Science of Bumping into Things.
+                    [Coming of Age of Robot learning](https://www.youtube.com/watch?v=ym-mrmOqOYg)
+                    , Technion Robotics Seminar (April 14 2022) / MIT Robotics Seminar (March 2022).
+                    [Rethinking Robot Learning](https://www.youtube.com/watch?v=C6LRBs27pG4&t=60s)
+                    , Learning to Learn: Robotics Workshop, ICRA'21.
+                    [Self-Supervised Robot Learning, Robotics Seminar,](https://youtu.be/MDCkBRh0D1U)
+                    Robot Learning Seminar, MILA.
+                    [Challenges in Real-World Reinforcement Learning](https://youtu.be/1OSaTZB3WVY?t=565)
+                    , IAIFI Seminar, MIT.
+                    [The Task Specification Problem](https://www.youtube.com/watch?v=2el3GdwS1mg)
+                    , Embodied Intelligence Seminar, MIT.
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr>
+          <td style="padding:10px;vertical-align:middle">
+            <heading>Papers Coming Soon</heading>
+             <p>
+               Stacking Objects using Contact Plane Registration, Li et al., ICRA 2022 <br>
+               An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators, Zlokapa et al., ICRA 2022 <br>
+            </p>
+          </td>
+        </tr>
+        </tbody></table>
+        !
+                  Pre-Prints
+                  Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation
+                  [Tao Chen](https://taochenshh.github.io/)
+                  [Eric Cousineau](https://www.eacousineau.com/)
+                  [Naveen Kuppuswamy](https://naveenoid.wordpress.com/)
+                  [project page](https://taochenshh.github.io/projects/veg-peeling)
+                  [arXiv](https://arxiv.org/abs/2407.07884)
+                  A robotic system that peels vegetables with a dexterous robot hand.
+                    Value Augmented Sampling for Language Model Alignment and Personalization
+                  Seungwook Han, Idan Shenfeld, Akash Srivastava,Yoon Kim,
+                    Workshop on Reliable and Responsible Foundation Models
+                    , ICLR 2024 (
+                    Oral
+                    )
+                    [paper](https://arxiv.org/abs/2405.06639)
+                    [bibtex](data/han2024value.bib)
+                    Algorithm for inference-time augmentation of Large Language Models.
+                    Training Neural Networks From Scratch with Parallel Low-Rank Adapters
+                  , 2024
+                  A method for parallel training of large models on computers with
+               limited memory.
+                    From Imitation to Refinement – Residual RL for Precise Visual Assembly
+                  [code](https://github.com/ankile/robust-rearrangement)
+                  Refining behavior-cloned diffusion model policies using RL.
+                  Publications
+              <tr>
+        	<td style="padding:20px;width:25%;vertical-align:middle">
+        	<a href="https://eyesighthand.github.io/" target="_blank">
+        	<img src="images/eyesighthand.png" alt="sym" width="100%" style="border-radius:5px">
+        	</a></td>
+        	<td style="padding:20px;width:75%;vertical-align:middle">
+        	  <a href="https://eyesighthand.github.io/" target="_blank">
+        	    <papertitle>EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation
+        	    </papertitle>
+        	  </a>
+        	  <br>
+        		Branden Romero*, Hao-Shu Fang*, <strong>Pulkit Agrawal</strong>,
+        		Edward Adelson <br>
+        	  <em>IROS</em>, 2024 <br><br>
+        	  <a href="https://arxiv.org/abs/2408.06265" target="_blank">paper</a> /
+        	  <a href="https://eyesighthand.github.io/" target="_blank">project page</a> /
+        	  <a href="data/romero2024eyesight.bib" target="_blank">bibtex</a>
+        	  <p></p>
+        	  <p> A dexterous hand with proprioceptive actuation fully covered with tactile sensing. </p>
+        	</td>
+       </tr>
+       !
+                    Reconciling Reality through Simulation: A Real-To-Sim-to-Real Approach for Robust Manipulation
+                  RSS
+                  A framework to train robots on scans of real-world scenes.
+                    Random Latent Exploration for Deep Reinforcement Learning
+                  [Srinath Mahankali](https://srinathm1359.github.io/)
+                  [Zhang-Wei Hong](https://williamd4112.github.io/)
+                  [Ayush Sekhari](https://ayush.sekhari.com/)
+                  [Alexander Rakhlin](https://www.mit.edu/~rakhlin/)
+                  ICML
+                  State-of-the-art exploration by optimizing the agent to achieve randomly sampled
+          latent goals.
+                    Lifelong Robot Learning with Human Assisted Language Planners
+                  ICRA
+                  An LLM-based task planner that can learn new skills
+              opens doors for continual learning.
+                    Learning Force Control for Legged Manipulation
+                  Learning to control the force applied by a legged robot's arm for compliant and forceful manipulation.
+                    Curiosity-driven Red-teaming for Large Language Models
+                  ICLR
+                    Maximizing Quadruped Velocity by Minimizing Energy
+                  [Srinath Mahankali*](https://srinathm1359.github.io/)
+                  [Chi-Chang Lee*](https://dblp.org/pid/258/6861.html)
+                  [Gabriel B. Margolis](https://gmargo11.github.io/)
+                  Principled energy minimization increases robot's agility.
+                    JUICER: Data-Efficient Imitation Learning for Robotic Assembly
+                  IROS
+                  Learning complex assembly skills from few human demonstrations.
+                    Rank2Reward: Learning Shaped Reward Functions from Passive Video
+                  , Abhishek Gupta
+                  Learning reward functions from videos of human demonstrations.
+                    Everyday finger: a robotic finger that meets the needs of everyday interactive manipulation
+                  Robotic finger designed to perform every day tasks.
+                    Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes
+                  , Megha Tippur, Siyang Wu,
+                  [Vikash Kumar](https://vikashplus.github.io/)
+                  [Edward Adelson](http://persci.mit.edu/people/adelson)
+                  Science Robotics
+                  , 2023
+                  A real-time controller that dynamically reorients complex and novel objects by any amount
+                    using a single depth camera.
+                    Compositional Foundation Models for Hierarchical Planning
+                  NeurIPS
+                  Composing existing foundation models operating on different modalities to solve long-horizon tasks.
+                    Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback
+                  ,
+  				Abhishek Gupta
+                  Method for guiding goal-directed exploration with asynchronous human feedback.
+                    Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets
+                  Optimizing the sampling distribution enables offline RL to learn a good policy in skewed datasets primarily
+                  composed of sub-optimal trajectories.
+                    Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement
+                  **,
+           Dieter Fox**
+                  CoRL
+                  Relational rearrangement with multi-modal placing and generalization over scene layouts via diffusion and local scene conditioning.
+                    Learning to See Physical Properties with Active Sensing Motor Policies
+                  Conference on Robot Learning (CoRL), 2023
+                  Learn to perceive physical properties of terrains in front of the robot (i.e., a digital twin).
+                    Visual Pre-training for Navigation: What Can We Learn from Noise?
+                  IROS 2023
+                  NeurIPS 2022 Workshop
+                  Learning to navigate by moving the camera across random images.
+                    Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback
+                  Leveraging crowdsourced non-expert human feedback to guide exploration in robot policy learning.
+                    TGRL: An Algorithm for Teacher Guided Reinforcement Learning
+                  An algorithm for automatically balancing learning from teacher's
+              guidance and task reward.
+                    Straightening Out the Straight-Through Estimator: Overcoming
+                Optimization Challenges in Vector Quantized Networks
+                  , Phillip Isola
+                  International Conference on Machine Learning (
+                  [website](https://minyoungg.github.io/vqtorch/)
+                  A set of suggestions that simplifies training of vector quantization layers.
+                    Parallel Q-Learning: Scaling Off-policy Reinforcement Learning under
+                Massively Parallel Simulation
+                  [Zechu Li*](https://supersglzc.github.io/)
+                  [Tao Chen*](https://taochenshh.github.io/)
+                  [Anurag Ajay](https://anuragajay.github.io/)
+                  Scaling Q-learning algorithms to 10K+ workers.
+                    Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation
+                  A step towards using counterfactuals for improving policy adaptation.
+                    Statistical Learning under Heterogenous Distribution Shift
+                  ,
+						Akshay Krishnamurthy
+                  In-distribution error for certain features
+              predicts their out-of-distribution sensitivity.
+                    DribbleBot: Dynamic Legged Manipulation in the Wild
+                  [Yandong Ji*](https://yandongji.github.io/)
+                  [Gabriel B. Margolis*](https://gmargo11.github.io/)
+                  (*equal contribution)
+                  International Conference on Robotics and Automation (
+                    ), 2023
+                  [TechCrunch](https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/)
+                  [IEEE Spectrum](https://spectrum.ieee.org/quadrupedal-robot)
+                  [NBC Boston](https://archive.tveyes.com/7313/meltwater/3fa732c9-740b-4602-a9e6-f9b44988c02b/WBTS_04-04-2023_04.55.00.mp4)
+                  [Insider](https://www.businessinsider.com/mit-robot-that-can-play-soccer-dribble-ball-video-2023-4)
+                  [Yahoo!News](https://www.yahoo.com/lifestyle/robots-getting-good-dribbling-soccer-163646616.html)
+                  [MIT News](https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403)
+                  Dynamic legged object manipulation on diverse terrains with onboard compute and sensing.
+                    TactoFind: A Tactile Only System for Object Retrieval
+                  [Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/)
+                    †
+                  Localize, identify, and fetch a target object in the dark with tactile sensors.
+                    Is Conditional Generative Modeling all you need for Decision Making?
+                    (Oral)
+                  Return conditioned generative models offer a powerful alternative to temporal-difference learning
+                for offline decision making and reasoning with constraints.
+                    Learning to Extrapolate: A Transductive Approach
+                  Transductive reparameterization converts out-of-support generalization problem into out-of-combination generalization which
+                is possible under low-rank style conditions.
+                    Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting
+                  , Remi Tachet des Combes,
+             Romain Laroche
+                  Return reweighted sampling of trajectories enables offline RL algorithms to work with skewed datasets.
+                    The Low-Rank Simplicity Bias in Deep Networks
+                  Transactions of Machine Learning Research (
+                    TMLR
+                  Deeper Networks find simpler solutions! Also learn why ResNets overcome
+             the challenges associated with very deep networks.
+                    Redeeming Intrinsic Rewards via Constrained Optimization
+                  , 2022
+                  Method that automatically balances exploration bonus or curiosity against task rewards leading to consistent performance improvement.
+                  <img src='images/mug_cut.gif' width="100%" />
+                    SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields
+                  [Anthony Simeonov*](https://anthonysimeonov.github.io/)
+                  [Yilun Du*](https://yilundu.github.io/)
+                  [Lin Yen-Chen](https://yenchenlin.me/)
+                  [Alberto Rodriguez](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU)
+                  [Leslie P. Kaelbling](https://people.csail.mit.edu/lpk/)
+                  [Tomás Lozano-Peréz](https://people.csail.mit.edu/tlp/)
+                  Learning relational tasks with a few demonstrations in a way that generalizes to new configurations of objects.
+                    Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior
+                  One learned policy embodies many dynamic behaviors useful for different tasks.
+                    Distributionally Adaptive Meta Reinforcement Learning
+                  Anurag Ajay*
+                  ,
+              Abhishek Gupta*,
+              Dibya Ghosh,
+              Sergey Levine,
+                  Being adaptive instead of being robust results in faster adaption to
+                out-of-distribution tasks.
+                    Efficient Tactile Simulation with Differentiability for Robotic Manipulation
+                  [Jie Xu](https://people.csail.mit.edu/jiex)
+                  [Sangwoon Kim](https://sangwkim.github.io/)
+                  [Wojciech Matusik](https://people.csail.mit.edu/wojciech/)
+                  [Shinjiro Sueda](http://faculty.cs.tamu.edu/sueda/)
+                  Tactile Simulator for complex shapes training on which transfers to real-world.
+                    Rapid Locomotion via Reinforcement Learning
+                  [Wired](https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/)
+                  [Popular Science](https://www.popsci.com/technology/machine-learning-robot-runs-its-fastest/)
+                  [BBC](https://www.bbc.com/news/av/technology-60795221)
+                  High-speed running and spinning on diverse terrains with a RL based controller.
+                    Stubborn: A Strong Baseline for Indoor Object Navigation
+                  State-of-the-art Performance on Habitat Navigation Challenge without any machine learning
+            for navigation.
+                    Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation
+                  **,
+          Vincent Sitzmann**
+                  [website and code](https://yilundu.github.io/ndf/)
+                  An SE(3) Equivariant method for specifiying and finding correspondences which enables data efficient object manipulation.
+                    An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators
+                  ,
+				Wojciech Matusik
+                  A method for users to easily design a variety of robotic manipulators with integrated tactile sensors.
+                    Stable Object Reorientation using Contact Plane Registration
+                  Predicting contact points with a CVAE and plane segmentation improves object generalization and handles multimodality.
+                    Discovering Generalizable Spatial Goal Representations via Graph-based Active Reward Learning
+                  Graph-based one-shot reward learning via active learning for object rearrangement tasks.
+                    Offline RL Policies Should be Trained to be Adaptive
+                  , Sergey Levine
+                  Online adaptation of offline RL policies using evaluation data improves
+          performance.
+                    Topological Experience Replay
+                  Sampling data from the replay buffer informed by topological structure
+          of the state space improves performance.
+                    Bilinear Value Networks for Multi-goal Reinforcement Learning
+                  Bilinear decomposition of the Q-value function improves generalization and
+            data efficiency.
+                    Equivariant Contrastive Learning
+                  ,
+        Marin Soljacic
+                  Study revealing complementarity of invariance and equivariance in contrastive learning.
+                    Overcoming The Spectral Bias of Neural Value Approximation
+                  Fourier features improve value estimation and consequently data efficiency.
+                    A System for General In-Hand Object Re-Orientation
+                  , 2021
+                    (Best Paper Award)
+                  A framework for general in-hand object reorientation.
+                    Learning to Jump from Pixels
+                  [Gabriel Margolis](http://people.csail.mit.edu/gmargo/)
+                  [Kartik Paigwar](https://kartikpaigwar.github.io/)
+                  [Xiang Fu](https://xiangfu.co/)
+                  [Donghyun Kim](https://dhkim0821.github.io/)
+                  [Sangbae Kim](http://meche.mit.edu/people/faculty/sangbae@mit.edu)
+                  A hierarchical control framework for dynamic vision-aware locomotion.
+                    3D Neural Scene Representations for Visuomotor Control
+                  ,
+          Antonio Torralba (*equal contribution)
+                  Extreme viewpoint generalization via 3D representations based on Neural Radiance Fields.
+                    An End-to-End Differentiable Framework for Contact-Aware Robot Design
+                  [video](https://youtu.be/0CQoFaRaz7U)
+                  Computational method for design task-specific robotic hands.
+                    Learning Task Informed Abstractions
+                  ,
+            Tommi Jaakkola
+                  A MDP formulation that dissociates task relevant and irrelevant information.
+                    Residual Model Learning for Microrobot Control
+                  Data efficient learning method for controlling microrobots.
+                    OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning
+                  ,
+            Aviral Kumar,
+                  ,
+            Sergey Levine,
+            Ofir Nachum
+                  Learning action primitives for data efficient online and offline RL.
+                    A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects
+                  [Anthony Simeonov](https://anthonysimeonov.github.io/)
+                  ,
+              Yilun Du,
+              Beomjoon Kim,
+              Francois Hogan,
+              Joshua Tenenbaum,
+                  ,
+              Alberto Rodriguez
+                  , 2020
+                  A framework that achieves the best of TAMP and robot-learning
+                for manipulating rigid objects.
+                    Towards Practical Multi-object Manipulation using
+Relational Reinforcement Learning
+                  [Allan Jabri](https://ajabri.github.io/)
+                  [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)
+                  Combining graph neural networks with curriculum learning for solve
+            long horizon multi-object manipulation tasks.
+                    Superposition of Many Models into One
+                  [Brian Cheung](https://redwood.berkeley.edu/people/brian-cheung/)
+                  [Alex Terekhov](https://redwood.berkeley.edu/people/alex-terekhov/)
+                  [Yubei Chen](https://redwood.berkeley.edu/people/yubei-chen/)
+                  [Bruno Olshausen](http://www.rctn.org/bruno/)
+                  , 2019
+                  [arxiv](https://arxiv.org/abs/1902.05522)
+                  [video tutorial](https://www.youtube.com/watch?v=1WopZJ4WrX0)
+                  A method for storing multiple neural network models for different
+                tasks into a single neural network.
+                    Real-time Video Detection of Falls in Dementia Care
+                  Facility and Reduced Emergency Care
+                  , Julien Jacquemot, Alexandre M Bayen,
+              Bruce Miller, George Netscher
+                  American Journal of Managed Care
+                  [SafelyYou](https://www.safely-you.com/)
+                  Computer Vision based Fall Detection system reduces number of
+              falls and emergency room visits in people with Dementia.
+                    Zero Shot Visual Imitation
+                  [Deepak Pathak*](https://people.eecs.berkeley.edu/~pathak/)
+                  [Parsa Mahmoudieh*](https://people.eecs.berkeley.edu/~parsa.m/)
+                  ,
+              Michael Luo,
+                  Pulkit Agrawal*
+                  [Evan Shelhamer](https://people.eecs.berkeley.edu/~shelhamer/)
+                  [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)
+                  (* equal contribution)
+                  , 2018
+                  [slides](https://www.dropbox.com/s/36efg1t3qn6i495/2018_04_ZeroShotImitation.pptx)
+                  Self-supervised learning of skills helps an agent imitate
+              the task presented as a sequence of images. Forward consistency loss
+              overcomes key challenges of inverse and forward models.
+                    Investigating Human Priors for Playing Video Games
+                  [Rachit Dubey](http://cocosci.princeton.edu/rachit/)
+                  [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/)
+                  [Tom Griffiths](http://cocosci.princeton.edu/tom/)
+                  [youtube cover](https://youtu.be/Ol0-c9OE3VQ)
+                  [media](https://rach0012.github.io/humanRL_website/#media)
+                  An empirical study of various kinds of prior information used
+                by humans to solve video games. Such priors make them significantly
+              more sample efficient as compared to Deep Reinforcement Learning algorithms.
+                    Learning Instance Segmentation by Interaction
+                  ,
+              Yide Shentu*,
+                  [Dian Chen*](http://www.cs.utexas.edu/~dchen/)
+                  [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
+                  [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/)
+                  CVPR Workshop
+                  A self-supervised method for learning to segment objects by
+                interacting with them.
+                    Fully Automated Echocardiogram Interpretation in Clinical Practice:
+                  Feasibility and Diagnostic Accuracy
+                  , Geoffrey H Tison, Laura A Hallock,
+              Lauren Beussink-Nelson, Mats H Lassen, Eugene Fan, Mandar A Aras, ChaRandle Jordan,
+              Kirsten E Fleischmann, Michelle Melisko, Atif Qasim, Sanjiv J Shah,
+              Ruzena Bajcsy, Rahul C Deo
+                  Circulation
+                  Computer vision method for building fully automated and scalable analysis
+                pipeline for echocardiogram interpretation.
+                    Curiosity Driven Exploration by Self-Supervised Prediction
+                  , 2017
+                  [talk](https://vimeo.com/237270588)
+                  [project website](https://pathak22.github.io/noreward-rl/)
+                  Intrinsic curiosity of agents enables them to learn useful and
+                generalizable skills without any rewards from the environment.
+                    What Will Happen Next?: Forecasting Player Moves in Sports Videos
+                  [Panna Felsen](https://www.linkedin.com/in/panna-felsen-030a3964)
+                  ICCV
+                  Feature learning by making use of an agent's knowledge of its motion.
+                    Combining Self-Supervised Learning and Imitation for Vision-based Rope Manipulation
+                  [Ashvin Nair*](http://ashvin.me/)
+                  [Phillip Isola](http://web.mit.edu/phillipi/)
+                  [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
+                  Self-supervised learning of low-level skills enables a robot to
+                follow a high-level plan specified by a single video demonstration.
+                The code for the paper
+                    subsumes this project's code release.
+                    Learning to Perform Physics Experiments via Deep Reinforcement Learning
+                  [Misha Denil](http://mdenil.com/)
+                  [Tejas D Kulkarni](https://tejasdkulkarni.github.io/)
+                  [Tom Erez](https://scholar.google.com/citations?user=gVFnjOcAAAAJ&hl=en)
+                  [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en)
+                  [Nando de Freitas](https://www.cs.ubc.ca/~nando/)
+                  Deep reinforcement learning can equip an agent with the ability
+                to perform experiments for inferring physical quanities of interest.
+                    Reduction in Fall Rate in Dementia Managed Care through
+                 Video Incident Review: Pilot Study
+                  ,
+              Lynn Tabb Noyce, Alexandre Bayen
+                  Journal of Medical Internet Research
+                  Analysis how continuous video monitoring and review of falls
+                of individuals with dementia can support better quality of care.
+                    Human Pose Estimation with Iterative Error Feedback
+                  [Joao Carreira](https://uk.linkedin.com/in/jo%C3%A3o-carreira-56238a7)
+                  [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
+                  CVPR
+                  , 2016
+                    (Spotlight)
+                  Iterative Error Feedback (IEF) is a self-correcting model that
+                progressively changes an initial solution by feeding back error predictions.
+                In contrast to feedforward CNNs that only capture structure in inputs,
+                IEF captures structure in both the space of inputs and outputs.
+                    Learning to Poke by Poking: Experiential Learning of Intuitive Physics
+                  NIPS
+                  , 2016,
+                  [data](https://drive.google.com/file/d/0B3xZefNMOTwuTUwtU0ZnaDhGVUE/view?usp=sharing)
+                  Robot learns how to push objects to target locations by conducting
+                a large number of pushing experiments. The code for the paper
+                    What makes Imagenet Good for Transfer Learning?
+                  [Jacob Huh](http://minyounghuh.com/)
+                  NIPS LSCVS Workshop
+                  An empirical investigation into various factors related to the
+              statistics of Imagenet dataset that result in transferrable features.
+                    Learning Visual Predictive Models of Physics for Playing Billiards
+                  [Katerina Fragkiadaki*](https://www.cs.cmu.edu/~katef/)
+                  This work explores how an agent can be equipped with an internal
+                model of the dynamics of the external world, and how it can use this model to plan novel
+                actions by running multiple internal simulations (“visual imagination”).
+                    Generic 3d Representation via Pose Estimation and Matching
+                  [Amir R. Zamir](https://cs.stanford.edu/~amirz/)
+                  [Tilman Wekel](https://www.researchgate.net/profile/Tilman_Wekel)
+                  ,
+              Colin Weil,
+                  [Silvio Savarese](http://cvgl.stanford.edu/silvio/)
+                  ECCV
+                  [dataset](https://github.com/amir32002/3D_Street_View)
+                  Large-scale study of feature learning using agent's knowledge of its motion.
+                This paper extends our ICCV 2015 paper.
+                    Learning to See by Moving
+                  , 2015
+                    Analyzing the Performance of Multilayer Neural Networks for Object Recognition
+                  [Ross Girshick](https://www.rossgirshick.info/)
+                  , 2014
+                  A detailed study of how to finetune neural networks and the
+              nature of the learned representations.
+                    Pixels to Voxels: Modeling Visual Representation in the Human Brain
+                  [Dustin Stansbury](https://people.eecs.berkeley.edu/~malik/)
+                  [Jack Gallant](https://people.eecs.berkeley.edu/~malik/)
+                  [unpublished results](data/cnn_mimics_brain.pdf)
+                  Comparing the representations learnt by a Deep Neural Network
+              optimized for object recognition against the human brain.
+                    The Automatic Assessment of Knowledge Integration Processes in Project Teams
+                  ,
+              Mikesh Udani,
+              Bhiksha Raj,
+              Carolyn Rose
+                  Computer Supported Collaborative Learning
+                  , 2011
+                    (Best Student Paper Award)
+                  Method for identifying important parts of a group conversation
+                directly from speech data.
+                  Patents
+                    System and Method for Detecting, Recording and Communicating
+                Events in the Care and Treatment of Cognitively Impaired Persons
+                  , Alexandre Bayen
+                  US20190287376A1
+                    Invariant Object Representation of Images Using Spiking Neural Networks
+                  , Somdeb Majumdar, Vikram Gupta
+                  US20150278628A1
+                  , Somdeb Majumdar
+                  US20150278641A1
+                  Service
+                Program Chair, CoRL, 2024
+                  Lab Alumni
+                  , PhD 2024, co-founded his startup.
+                  , PhD 2024, now at Google.
+                  [Ruben Castro](https://rcastro.mit.edu/)
+                  , MS 2024.
+                  , PhD 2024, now at OpenAI.
+                  , PhD 2024, now at Boston Dynamics.
+                  , PhD 2024.
+                  [Tifanny Portela](https://ch.linkedin.com/in/tifanny-pereira-portela-97868521a)
+                  , visiting student 2023, now a Ph.D. student at ETH Zurich.
+                  [Steven Li](https://supersglzc.github.io/)
+                  , visiting researcher 2023, now a PhD student at TU Darmstadt.
+                  , PostDoc, now Faculty at University of Washington.
+                  [Lara Zlokapa](https://lara-z.github.io/)
+                  , MEng, 2022
+                  [Avery Lamp](https://averylamp.me/)
+                  (now at stealth startup)
+              Sanja Simonkovj, 2021 (Masters Student)
+                    [template](https://github.com/jonbarron/jonbarron_website)
+                    [accessibility](https://accessibility.mit.edu/)

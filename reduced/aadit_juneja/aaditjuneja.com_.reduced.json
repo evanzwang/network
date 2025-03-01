@@ -1,0 +1,28 @@
+{
+  "title": "Aadit Juneja \u2013 Personal Website",
+  "meta_description": "Personal Website",
+  "main_content": "2025 February 25, 2025 A Distributed Inference Engine for SmolLM with Rust and gRPC January 01, 2025 RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models 2024 December 24, 2024 Frequency Based Constrained Decoding for Language Model Watermarks December 18, 2024 Agent for Seamless Meeting Scheduling November 22, 2024 Tempus AI Short Recommendation",
+  "links": [
+    {
+      "url": "/2025/02/25/Rust-gRPC-Inference-Engine/",
+      "text": "A Distributed Inference Engine for SmolLM with Rust and gRPC"
+    },
+    {
+      "url": "/2025/01/01/RL-For-Inference-Acceleration/",
+      "text": "RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models"
+    },
+    {
+      "url": "/2024/12/24/Constrained-Decoding-For-LM-Watermarks/",
+      "text": "Frequency Based Constrained Decoding for Language Model Watermarks"
+    },
+    {
+      "url": "/2024/12/18/Seamless-Meeting-Scheduling/",
+      "text": "Agent for Seamless Meeting Scheduling"
+    },
+    {
+      "url": "/2024/11/22/Tempus-AI-Short/",
+      "text": "Tempus AI Short Recommendation"
+    }
+  ],
+  "images": []
+}

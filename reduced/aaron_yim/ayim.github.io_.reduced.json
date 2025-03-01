@@ -1,0 +1,49 @@
+{
+  "title": "Aaron Yim",
+  "meta_description": "I'm a product, design, and data enthusiast studying at UWaterloo.",
+  "main_content": "Hi, I'm Aaron. PM, Designer, Data Enthusiast I am a Waterloo Engineering student interning at BlackBerry as a Product Manager. I'm passionate about creating tech products with exceptional user-focused design. Currently seeking an internship for January 2019. View my resume My Work YELP BUTLER Product Discovery, UI/UX Design, Data Science Building a case for using contextual recommendations to increase Yelp's stickiness. From industry, market, and tech insights to feature design and solution architecture. View project UW FOOD FINDER Data Analytics, UI/UX Design Helping UWaterloo students find open cafeteria locations in one tap. Menus, reviews, and dietary filters at your fingertips. View project PHOTOGRAPHY Composition, Light, Colour A collection of product, automotive, and event photography. View photography",
+  "links": [
+    {
+      "url": "static/aaronyim_uwaterloo.pdf",
+      "text": "View my resume"
+    },
+    {
+      "url": "yelp.html",
+      "text": "View project"
+    },
+    {
+      "url": "yelp.html",
+      "text": ""
+    },
+    {
+      "url": "foodservices.html",
+      "text": "View project"
+    },
+    {
+      "url": "foodservices.html",
+      "text": ""
+    },
+    {
+      "url": "https://ayim.github.io/gallery/",
+      "text": "View photography"
+    },
+    {
+      "url": "https://ayim.github.io/gallery/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "static/img/yelp_home.png",
+      "alt": ""
+    },
+    {
+      "src": "static/img/usfw_tile.png",
+      "alt": ""
+    },
+    {
+      "src": "static/img/photography.png",
+      "alt": ""
+    }
+  ]
+}

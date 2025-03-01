@@ -1,0 +1,325 @@
+[
+  {
+    "fullName": "Zeeshaan Mohammed",
+    "linkedin_internal_id": "817212415",
+    "first_name": "Zeeshaan",
+    "last_name": "Mohammed",
+    "public_identifier": "mohammed-zeeshaan",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQGuaxuemXv-YQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734160409672?e=2147483647&v=beta&t=bF2HUK50GZJ2ixUq9d4lR0uwdh3eRTGOu8g0aZBaCL8",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQEt-L5gz_7CYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710367629193?e=2147483647&v=beta&t=qDrAzNVyzCozsU-oejJ57jDPBSV3j4wSEb4peOCCank",
+    "headline": "Machine Learning Engineer | Data Scientist | ArtificiaI Intelligence | Computer Vision Expert | Crafting impactful AI systems | Actively looking for full-time job opportunities",
+    "location": "2K followers\n          \n              500+ connections",
+    "followers": "Issued Feb 2021",
+    "connections": "Issued Feb 2021",
+    "about": "",
+    "experience": [
+      {
+        "position": "Machine Learning Engineer",
+        "company_url": "https://www.linkedin.com/company/get-solo-tech?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEk5A-UiHR1FQ/company-logo_100_100/company-logo_100_100/0/1735887190918/get_solo_tech_logo?e=2147483647&v=beta&t=v0SasJSjTeLmmHJMVDAkfnMQRSj5rfpJbXP186RE05E",
+        "company_name": "Solo Tech",
+        "location": "San Francisco Bay Area",
+        "summary": "Spearheaded the development of an object detection and tracking system using YOLO and Bytetrack, improving accuracy by 30% and reducing irrelevant ID switches under challenging conditions like occlusions.Optimized model inference speeds by 20%, reducing latency by 40% through GPU acceleration and custom optimization pipelines, enabling seamless edge-device deployment.",
+        "starts_at": "Sep 2024",
+        "ends_at": "Present",
+        "duration": "7 months"
+      },
+      {
+        "position": "Machine Learning Engineer",
+        "company_url": "https://www.linkedin.com/company/medtronic?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_100_100/company-logo_100_100/0/1667587833952/medtronic_logo?e=2147483647&v=beta&t=CfH7X45N2jyqCyE8mcJbNSVR8UFEDdrqWblmbxUMiZs",
+        "company_name": "Medtronic",
+        "location": null,
+        "summary": "Enhanced the GI Genius intelligent endoscopy AI system, achieving a 20% improvement in detecting precancerous lesions, significantly reducing colorectal cancer risks.Developed and fine-tuned a machine learning model for a smart insulin pen, reducing hypoglycemic events by 28% through personalized insulin dosing recommendations.Collaborated cross-functionally with engineers, data scientists, and clinicians to refine models, ensuring clinical relevance and reliability.",
+        "starts_at": "Jan 2022",
+        "ends_at": "Jun 2022",
+        "duration": "6 months"
+      },
+      {
+        "position": "Machine Learning Engineer",
+        "company_url": "https://www.linkedin.com/company/skylarklabs?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQE3_6xRsbHJwg/company-logo_100_100/company-logo_100_100/0/1653398654037?e=2147483647&v=beta&t=zhTpu8ObGLAyKSGBjgKNppJi3KZ_Jtqy331JlqyliKE",
+        "company_name": "SkyLark Labs",
+        "location": null,
+        "summary": "Deployed a real-time theft detection system (YOLO/DeepSort) achieving 90% accuracy, reducing security response time by 50%Designed a face recognition system (ResNet/Inception), achieving 95% accuracy, Introduced various data augmentation techniques to train the model effectively, ensuring high-level accuracy",
+        "starts_at": "Jun 2021",
+        "ends_at": "Dec 2021",
+        "duration": "7 months"
+      },
+      {
+        "position": "Data Scientist",
+        "company_url": "https://www.linkedin.com/company/paypal?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+        "company_name": "PayPal",
+        "location": "Hyderabad, Telangana, India",
+        "summary": "Developed a churn prediction model, reducing customer churn by 20% and retaining 20,000+ customers, and automated a feature engineering pipeline, reducing manual effort by 60%, and boosting churn prediction accuracy by 12%.Deployed an NLP-based chatbot system (LSTM), increasing ticket resolution efficiency by 25%, processing an additional 3,000 tickets monthly.",
+        "starts_at": "Jun 2019",
+        "ends_at": "May 2021",
+        "duration": "2 years"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/california-state-university-los-angeles/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "California State University, Los Angeles",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFbmonFWiUqOw/company-logo_100_100/company-logo_100_100/0/1630564352533/california_state_university_los_angeles_logo?e=2147483647&v=beta&t=Or6ODCf9b5t_BEAWr0-DaMb9QVeByIw63E89lbU_Mdo",
+        "college_degree": "Master of Science - MS",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2022 - 2024",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://in.linkedin.com/school/muffakham-jah-college-of-engineering-&-technology/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Muffakham Jah College of Engineering & Technology",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGiXXF0JnyePA/company-logo_100_100/company-logo_100_100/0/1631348652978?e=2147483647&v=beta&t=dY-pMMYhTePdB8foTi382goWVHPVgby6NJGEjA0GGlg",
+        "college_degree": "Bachelor of Engineering - BE",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2016 - 2020",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/elevatemepro/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "ElevateMe",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQFSIoc7ELjUAA/company-logo_100_100/company-logo_100_100/0/1719256998810/elevatemepro_logo?e=2147483647&v=beta&t=Q_OMxyYClhhbLR4JLbNVBcKwfYWP4LKf8eiMrQCYwf0",
+        "college_degree": "Data Analyst & Machine Learning Trainee",
+        "college_degree_field": null,
+        "college_duration": "2025 - 2025",
+        "college_activity": "150+ hours of hands-on coursework, having completed a Data Analytics project and Machine Learning project using Tableau, Python, Machine Learning and SQL."
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Solo Tech",
+      "description1_link": "https://www.linkedin.com/company/get-solo-tech?trk=public_profile_topcard-current-company",
+      "description2": "California State University, Los Angeles",
+      "description2_link": "https://www.linkedin.com/school/california-state-university-los-angeles/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "Deep Learning and Computer Vision A-Z\u2122",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Feb 2021",
+        "credential_id": "See credential",
+        "credential_url": "https://www.udemy.com/certificate/UC-1dc1e9d7-68a9-4669-90d2-7e375d6f73bb/?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "Natural Language Processing with Python",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Aug 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-433a9915-6786-489b-874f-cf288d23cb15.pdf?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "Time Series Data Analysis",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Aug 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.udemy.com/certificate/UC-cd78ecc3-40ca-401e-9630-0c2f3250f223/?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=2147483647&v=beta&t=5LWGGC1ppFOKVpSsj1Rn2ARu0PhILwDIhu6zqCnCr7o",
+        "certification": "Data Science A-Z\u2122: Real-Life Data Science Exercises Included",
+        "company_url": "https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Udemy",
+        "issue_date": "Issued Jul 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.udemy.com/certificate/UC-a29f2436-97cc-443e-b2e4-aa22c057d7a2/?trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://in.linkedin.com/in/kriti-sahu?trk=public_profile_browsemap-profile",
+        "name": "Kriti Sahu",
+        "summary": "",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://www.linkedin.com/in/prasiddhi?trk=public_profile_browsemap-profile",
+        "name": "Prasiddhi M.",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://in.linkedin.com/in/nikhil-kumar-singh-3255002b?trk=public_profile_browsemap-profile",
+        "name": "Nikhil Kumar Singh",
+        "summary": "",
+        "location": "Gurugram"
+      },
+      {
+        "link": "https://in.linkedin.com/in/arpita2915?trk=public_profile_browsemap-profile",
+        "name": "Arpita Gupta",
+        "summary": "",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://sg.linkedin.com/in/sonu-kumari?trk=public_profile_browsemap-profile",
+        "name": "Sonu Kumari",
+        "summary": "",
+        "location": "Singapore"
+      },
+      {
+        "link": "https://in.linkedin.com/in/khushijainkj01?trk=public_profile_browsemap-profile",
+        "name": "Khushi Jain",
+        "summary": "",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://pl.linkedin.com/in/souraj-mishra?trk=public_profile_browsemap-profile",
+        "name": "Souraj Mishra",
+        "summary": "",
+        "location": "Cracow"
+      },
+      {
+        "link": "https://in.linkedin.com/in/shristi-jaiswal?trk=public_profile_browsemap-profile",
+        "name": "Shristi Jaiswal",
+        "summary": "Data Scientist at Ijona Services",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/-sudhanshu-kumar?trk=public_profile_browsemap-profile",
+        "name": "sudhanshu kumar",
+        "summary": "",
+        "location": "India"
+      },
+      {
+        "link": "https://www.linkedin.com/in/aman0456?trk=public_profile_browsemap-profile",
+        "name": "Aman Bansal",
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vetrivel-ps?trk=public_profile_browsemap-profile",
+        "name": "Vetrivel PS",
+        "summary": "",
+        "location": "Chennai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/utsav-aggarwal?trk=public_profile_browsemap-profile",
+        "name": "Utsav Aggarwal",
+        "summary": "",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ajay-singh-p-8ab92ba8?trk=public_profile_browsemap-profile",
+        "name": "Ajay Singh P.",
+        "summary": "EXL | Ex Samsung | IIM Lucknow | Data Science | Machine learning | Deep Learning | Lean Six Sigma | Google Cloud Platform | Project Management | Business Process Operations",
+        "location": "Gurgaon"
+      },
+      {
+        "link": "https://in.linkedin.com/in/shilotri?trk=public_profile_browsemap-profile",
+        "name": "Mayuresh Shilotri",
+        "summary": "Sr. Director - Customer Engineering @ BrowserStack | 2X Founder | 1X Successful Exit | 1 Acquihire",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/prernakakkar95?trk=public_profile_browsemap-profile",
+        "name": "Prerna Kakkar",
+        "summary": "",
+        "location": "Delhi, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aarnavjindal?trk=public_profile_browsemap-profile",
+        "name": "Aarnav Jindal",
+        "summary": "",
+        "location": "India"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/kunal-kushwaha?trk=public_profile_browsemap-profile",
+        "name": "Kunal Kushwaha",
+        "summary": "",
+        "location": "London"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ruchi798?trk=public_profile_browsemap-profile",
+        "name": "Ruchi Bhatia",
+        "summary": "",
+        "location": "New York City Metropolitan Area"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sandhaya4u?trk=public_profile_browsemap-profile",
+        "name": "Sandhaya K.",
+        "summary": "SAP CPQ Developer and Salesforce CPQ (BA) \nMicrosoft Certified : Azure Data Scientist & AI Engineer",
+        "location": "Pune"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ajinkyakolhe112?trk=public_profile_browsemap-profile",
+        "name": "Ajinkya Kolhe",
+        "summary": "",
+        "location": "Mumbai"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://in.linkedin.com/in/zeeshaan-saqeeb-mohammed?trk=public_profile_samename-profile",
+        "name": "Zeeshaan Saqeeb Mohammed",
+        "summary": "Data Engineering and Analytics",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/zeeshaan-mohammed-44708933a?trk=public_profile_samename-profile",
+        "name": "Zeeshaan Mohammed",
+        "summary": "--",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/zeeshaan-mohammed-453672309?trk=public_profile_samename-profile",
+        "name": "ZEESHAAN MOHAMMED",
+        "summary": "--",
+        "location": "Hanamakonda"
+      },
+      {
+        "link": "https://in.linkedin.com/in/zeeshaan-saqeeb-mohammed-55140b227?trk=public_profile_samename-profile",
+        "name": "Zeeshaan Saqeeb Mohammed",
+        "summary": "Assosciate data analyst at Neustar, Inc.",
+        "location": "Parkal"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [
+      {
+        "name": "Data Science"
+      },
+      {
+        "name": "Machine Learning"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "Python Bootcamp"
+      },
+      {
+        "name": "Python for Data Science and Machine Learning"
+      },
+      {
+        "name": "SQL Bootcamp"
+      },
+      {
+        "name": "Tableau A-Z"
+      },
+      {
+        "name": "Time Series Data Analysis"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Solovision",
+        "duration": "Sep 2024"
+      }
+    ],
+    "awards": [],
+    "score": []
+  }
+]

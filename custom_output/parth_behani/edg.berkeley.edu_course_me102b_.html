@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en-US" id="html">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mechatronics Design</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<meta name="id" content="2988" /><link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Embodied Dexterity Group &raquo; Feed" href="https://edg.berkeley.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Embodied Dexterity Group &raquo; Comments Feed" href="https://edg.berkeley.edu/comments/feed/" />
+<link rel="canonical" href="https://edg.berkeley.edu/course/me102b/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/edg.berkeley.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='fancybox-css-css' href='https://edg.berkeley.edu/wp-content/themes/unit/assets/css/jquery.fancybox.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-style-css' href='https://edg.berkeley.edu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-pro-style-css' href='https://edg.berkeley.edu/wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ucb-engineering-units-css' href='https://edg.berkeley.edu/wp-content/themes/unit/style.css?ver=3.4.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://edg.berkeley.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://edg.berkeley.edu/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://edg.berkeley.edu/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='filebird-block-filebird-gallery-style-inline-css' type='text/css'>
+ul.filebird-block-filebird-gallery{margin:auto!important;padding:0!important;width:100%}ul.filebird-block-filebird-gallery.layout-grid{display:grid;grid-gap:20px;align-items:stretch;grid-template-columns:repeat(var(--columns),1fr);justify-items:stretch}ul.filebird-block-filebird-gallery.layout-grid li img{border:1px solid #ccc;box-shadow:2px 2px 6px 0 rgba(0,0,0,.3);height:100%;max-width:100%;-o-object-fit:cover;object-fit:cover;width:100%}ul.filebird-block-filebird-gallery.layout-masonry{-moz-column-count:var(--columns);-moz-column-gap:var(--space);column-gap:var(--space);-moz-column-width:var(--min-width);columns:var(--min-width) var(--columns);display:block;overflow:auto}ul.filebird-block-filebird-gallery.layout-masonry li{margin-bottom:var(--space)}ul.filebird-block-filebird-gallery li{list-style:none}ul.filebird-block-filebird-gallery li figure{height:100%;margin:0;padding:0;position:relative;width:100%}ul.filebird-block-filebird-gallery li figure figcaption{background:linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent);bottom:0;box-sizing:border-box;color:#fff;font-size:.8em;margin:0;max-height:100%;overflow:auto;padding:3em .77em .7em;position:absolute;text-align:center;width:100%;z-index:2}ul.filebird-block-filebird-gallery li figure figcaption a{color:inherit}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--berkeley-blue: #002676;--wp--preset--color--california-gold: #FDB515;--wp--preset--color--gray: #808080;--wp--preset--color--blue-dark: #010133;--wp--preset--color--gold-dark: #FC9313;--wp--preset--color--green-dark: #00553A;--wp--preset--color--rose-dark: #770747;--wp--preset--color--purple-dark: #431170;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='supersideme-style-css' href='https://edg.berkeley.edu/wp-content/plugins/superside-me/includes/css/supersideme-style.css?ver=2.8.1' type='text/css' media='screen' />
+<style id='supersideme-style-inline-css' type='text/css'>
+@media only screen and (max-width:997px) {nav,#nav,.nav-primary,.nav-secondary,.supersideme .site-header .secondary-toggle,.menu-toggle {display:none }.slide-nav-link,.ssme-search,.button.ssme-button.ssme-custom {display:block }}.sidr {width:300px }.sidr.left {left:-300px }.sidr.right {right:-300px }.slide-nav-link {background-color:#edf0f4;right:0;color:#003262;position:relative;width:auto }.sidr {background-color:#edf0f4;color:#003262 }.sidr h3,.sidr h4,.sidr .widget,.sidr p {color:#003262 }.slide-nav-link:focus,.sidr:focus,.sidr a:focus,.menu-close:focus,.sub-menu-toggle:focus {outline:#003262 dotted 1px }.sidr a,.sidr a:focus,.sidr a:active,.sidr button,.sidr .sub-menu-toggle:before {color:#003262 }.search-me {color:#edf0f4 }.sidr .sub-menu-toggle:before {content:none }
+</style>
+<link rel='stylesheet' id='arve-css' href='https://edg.berkeley.edu/wp-content/plugins/advanced-responsive-video-embedder/build/main.css?ver=755e5bf2bfafc15e7cc1' type='text/css' media='all' />
+<link rel='stylesheet' id='arve-pro-css' href='https://edg.berkeley.edu/wp-content/plugins/arve-pro/build/main.css?ver=315d9259da117be994ff' type='text/css' media='all' />
+<link rel='stylesheet' id='ha_main-css' href='https://edg.berkeley.edu/wp-content/themes/unit/dist/main.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://edg.berkeley.edu/wp-includes/css/dashicons.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://edg.berkeley.edu/wp-content/tablepress-combined.min.css?ver=40' type='text/css' media='all' />
+<style id='kadence-blocks-global-variables-inline-css' type='text/css'>
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+</style>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://edg.berkeley.edu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://edg.berkeley.edu/wp-json/wp/v2/course/2988" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://edg.berkeley.edu/xmlrpc.php?rsd" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://edg.berkeley.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedg.berkeley.edu%2Fcourse%2Fme102b%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://edg.berkeley.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedg.berkeley.edu%2Fcourse%2Fme102b%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<style>
+header.site-header {background: url(https://edg.berkeley.edu/wp-content/uploads/2022/02/EDGbanner5-e1644027562977.png) scroll no-repeat center center white; background-size:cover;; height:145px; width:100%;}
+header.site-header .title-area {color: white;}
+header.site-header .title-area .site-description {
+	padding-top: 6px;
+}
+header.site-header .title-area .site-description {
+	color: white !important;
+	font-size: .88em; 
+	padding-left:0px; 
+	font-weight:  600 !important;
+	display:none}
+header.site-header .title-area .site-title {visibility: unset; font-size:42px; font-family: "Inter", sans-serif;} 
+header.site-header img {max-height: 85px;}
+nav.nav-secondary a, 
+header.site-header {
+	color: white}
+ul.menu-secondary > li.menu-item-has-children a:after {
+	content: url('/wp-content/themes/unit/assets/images/arrow-down-nav-white.svg') !important; 
+}
+header.site-header .title-area a, header.site-header .title-area a:hover {color: transparent !important;}</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mechatronics Design" />
+<meta property="og:url" content="https://edg.berkeley.edu/course/me102b/" />
+<meta property="og:description" content="ME102B provides students with an opportunity to integrate mechanical and electrical systems to create &#8220;smart&#8221; mechatronics devices. Over the course, students become familiar with event-…" />
+<meta property="article:published_time" content="2019-07-29T22:30:49+00:00" />
+<meta property="article:modified_time" content="2024-12-21T00:46:13+00:00" />
+<meta property="og:site_name" content="Embodied Dexterity Group" />
+<meta property="og:image" content="https://edg.berkeley.edu/wp-content/uploads/2019/07/102bLogo.png" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="500" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Mechatronics Design" />
+<meta name="twitter:image" content="https://edg.berkeley.edu/wp-content/uploads/2019/07/102bLogo.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://edg.berkeley.edu/wp-content/uploads/2018/01/cropped-EDGsquare-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://edg.berkeley.edu/wp-content/uploads/2018/01/cropped-EDGsquare-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://edg.berkeley.edu/wp-content/uploads/2018/01/cropped-EDGsquare-180x180.png" />
+<meta name="msapplication-TileImage" content="https://edg.berkeley.edu/wp-content/uploads/2018/01/cropped-EDGsquare-270x270.png" />
+</head>
+<body class="course-template-default single single-course postid-2988 no-js full-width-content genesis-breadcrumbs-hidden pacific" itemscope itemtype="https://schema.org/WebPage"><script>/* <![CDATA[ */(function(){var c = document.body.classList;c.remove('no-js');c.add('js');})();/* ]]> */</script>
+		<div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="header-utility"><div class="widget-area header-widget-area"><div class="genesis-sidebar-title screen-reader-text">Header Search Widget</div><section id="search-4" class="widget widget_search"><div class="widget-wrap"><form class="search-form" method="get" action="https://edg.berkeley.edu/" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website" itemprop="query-input"><input class="search-form-submit" type="submit" value="GO"><meta content="https://edg.berkeley.edu/?s={s}" itemprop="target"></form></div></section>
+</div></div><div class="title-area"><div itemprop="headline" class="site-title"><a rel="home" aria-current="page" title="Homepage" href="https://edg.berkeley.edu"><img alt="site logo" src="https://edg.berkeley.edu/wp-content/uploads/2022/02/EDG-logo-transparent-words.png"></a></div><p class="site-description" itemprop="description">Design research lab studying physical robot interaction</p></div></header><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-primary" class="menu genesis-nav-menu menu-primary"><li id="menu-item-2460" class="menu-item menu-item-type-post_type_archive menu-item-object-research menu-item-2460"><a href="https://edg.berkeley.edu/research/" itemprop="url"><span itemprop="name">Research</span></a></li>
+<li id="menu-item-2525" class="menu-item menu-item-type-post_type_archive menu-item-object-publication menu-item-2525"><a href="https://edg.berkeley.edu/publication/" itemprop="url"><span itemprop="name">Publications</span></a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="/facility" itemprop="url"><span itemprop="name">Facilities</span></a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="/people" itemprop="url"><span itemprop="name">People</span></a></li>
+<li id="menu-item-2986" class="menu-item menu-item-type-post_type_archive menu-item-object-course menu-item-2986"><a href="https://edg.berkeley.edu/course/" itemprop="url"><span itemprop="name">Teaching</span></a></li>
+<li id="menu-item-2675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2675"><a href="https://edg.berkeley.edu/resources-for-members/" itemprop="url"><span itemprop="name">For Members</span></a></li>
+</ul></div></nav><nav class="nav-level2" aria-label = "Main Auxiliary Menu"></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><h1 class="page-title">Mechatronics Design</h1><div></div>
+<p>ME102B provides students with an opportunity to integrate mechanical and electrical systems to create &#8220;smart&#8221; mechatronics devices. Over the course, students become familiar with event-driven programming, common machine elements, and electromechanical actuators with drive electronics.</p>
+
+
+
+<p>The course culminates in an Inventor&#8217;s Open House where students demonstrate their projects. This page highlights these projects. An archive of project videos from all years (that Prof. Stuart taught the class) can be found on the class channel of <a href="https://www.youtube.com/channel/UCufwZ-1sJ40FR6EOMoFBZkg/playlists">Youtube playlists</a>. More information about each semester provided below, including project reports.</p>
+<div class="course-info"></div><div class="accordion stay"><div id = "" class="fold start-open"><div class="key" tabindex="0">2024 Fall Semester</div><div class="note"><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-2988-1-slideshow" class="jetpack-slideshow-window jetpack-slideshow jetpack-slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164013-scaled.jpg&quot;,&quot;id&quot;:&quot;4262&quot;,&quot;title&quot;:&quot;20241211_164013&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Jacobs 310 during the showcase, with teams 2 and 3 in the foreground.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164435-scaled.jpg&quot;,&quot;id&quot;:&quot;4273&quot;,&quot;title&quot;:&quot;20241211_164435&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 9 (Winners of Mechanical Design)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164329-scaled-e1734028729589.jpg&quot;,&quot;id&quot;:&quot;4271&quot;,&quot;title&quot;:&quot;20241211_164329&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 7 (Winners of the MEECS award) + Prof. Stuart&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164540-scaled.jpg&quot;,&quot;id&quot;:&quot;4263&quot;,&quot;title&quot;:&quot;20241211_164540&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 13 (runner up for MEECS award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164403-scaled.jpg&quot;,&quot;id&quot;:&quot;4272&quot;,&quot;title&quot;:&quot;20241211_164403&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 8 (Winner of the Design Innovation Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164524-scaled.jpg&quot;,&quot;id&quot;:&quot;4275&quot;,&quot;title&quot;:&quot;20241211_164524&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 11 (runner up for the Design Innovation Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164454-scaled.jpg&quot;,&quot;id&quot;:&quot;4274&quot;,&quot;title&quot;:&quot;20241211_164454&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 10 (Winner Societal Impact Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164133-scaled.jpg&quot;,&quot;id&quot;:&quot;4269&quot;,&quot;title&quot;:&quot;20241211_164133&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 12 (runner up for Societal Impact Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_170938-scaled.jpg&quot;,&quot;id&quot;:&quot;4266&quot;,&quot;title&quot;:&quot;20241211_170938&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 26 (Winner of the Commercial Value Entrepreneurship Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_165001-scaled.jpg&quot;,&quot;id&quot;:&quot;4264&quot;,&quot;title&quot;:&quot;20241211_165001&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 32 (runner up for the Commercial Value Entrepreneurship Award)&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_165551-scaled.jpg&quot;,&quot;id&quot;:&quot;4265&quot;,&quot;title&quot;:&quot;20241211_165551&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 27&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_171454-scaled.jpg&quot;,&quot;id&quot;:&quot;4267&quot;,&quot;title&quot;:&quot;20241211_171454&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 20&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_171656-scaled.jpg&quot;,&quot;id&quot;:&quot;4268&quot;,&quot;title&quot;:&quot;20241211_171656&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 17&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20241211_164240-scaled.jpg&quot;,&quot;id&quot;:&quot;4270&quot;,&quot;title&quot;:&quot;20241211_164240&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 5&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div>
+<p><img fetchpriority="high" decoding="async" class="wp-image-4255 alignleft" src="https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer.png" alt="" width="331" height="284" srcset="https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer.png 800w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer-500x429.png 500w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer-169x145.png 169w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer-650x557.png 650w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer-400x343.png 400w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2024Flyer-150x129.png 150w" sizes="(max-width: 331px) 100vw, 331px" />This year&#8217;s Showcase was hosted in Jacobs Hall room 310 on Wednesday 12/11 from 4-5:30 pm.</p>
+<p>Once again, student projects were partially funded by the <a href="https://asme.berkeley.edu/student-resources-2/asme-maker-grant/">ASME MakerGrant program</a>.</p>
+<p>During the live Showcase, a set of impartial judges selected award winners from among the class. The categories and awardees are:</p>
+<p><strong>Mechanical Design Award</strong>: Team 9 (runner up: 3 and 16)</p>
+<p><strong>Electromechanical Design (MEECS) Award</strong>: Team 7 (runner up: 13)</p>
+<p><strong>Design Innovation Award</strong>: Team 8 (runner up: 11)</p>
+<p><strong>Societal Impact Award</strong>: Team 10 (runner up: 12)</p>
+<p><strong>Commercial Value Entrepreneurship Award</strong>: Team 26 (runner up: 32)</p>
+<p>A playlist of video descriptions created for each project can be viewed at this <a href="https://youtube.com/playlist?list=PLZtZP5ZYah6dIO80ZI-cUWQaid1NxaIQw&amp;si=Rd88ZfrO_iygqYm_">Youtube playlist</a>. See below for the complete set of the project reports.</p>
+
+<table id="tablepress-13" class="tablepress tablepress-id-13">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><strong>Group 1: Automatic Drink Dispenser</strong> <br />
+Mia Galatis, Ming Chin, Can Aydin, and Ali Ahmed<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team1.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Group 2: Winnie the Robot</strong> <br />
+Aashika Nair, Mira Shah, Kimia Sattary, Marina Jew<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team2.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 3: KinetiHoop</strong> <br />
+Parth Behani, Aarav Goel, Aathavan Senthilkumar, Bryan Yim<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team3.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Group 4: Automated Rx Scheduler</strong> <br />
+Abdel Zaro, Beni Issler and Pedro Monteleone<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team4.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 5: Sunlight 360</strong> <br />
+Abigail Wood, Athena Lewis, Gabriela Mercado, Riya Jain<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team5.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 6: Leveling Tray Manual</strong> <br />
+<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team6.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><strong>Group 7: Tea Maker</strong> <br />
+Harrison Lee, Franklin Ho, Alahe Akhavan, David Lu<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team7.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 8: Breadboard Bend Layout (BBL)</strong> <br />
+Jeremy Huang, Griffin Zajac, Alex Gao<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team8.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 9: Ravioli Machine</strong> <br />
+Ian Zhang, Annette Bennet, Marissa Shoji<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team9.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><strong>Group 10: Ollie the Trash Robot</strong> <br />
+Upasana Dilip, Linda Krellner, Audrey Young, Tyler Vo<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team10.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 11: Robotic Fish</strong> <br />
+Seong Jae Ahn, Parjit Khakh, Kobey Cheung, Evan Kuo<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team11.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 12: Little Drummer Bot</strong> <br />
+Jasper Hsu, Meghna Sharma, Layne Werle<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team12.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><strong>Group 13: Wack O Mole</strong> <br />
+Ryan Chiang, Santiago Hopkins, Anders Nilsen, Jonathan Rendon<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team13.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 14: Mono-legged hopper with jump controller</strong> <br />
+(a): Chase LaForge-Sciacqua, Kyu Kim, Said Eyyubov; <br />
+(b): Kyle Blanset, Nathaniel Seymour<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team14a.pdf" rel="noopener noreferrer" target="_blank">Report</a>(a)<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team14b.pdf" rel="noopener noreferrer" target="_blank">Report</a>(b)</td><td class="column-3"><strong>Group 15: Sand Table</strong> <br />
+Laurence, Christopher, and Blaze<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team15.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"><strong>Group 16: Remote Controlled Maze</strong> <br />
+Daniel Richards, Laura Wong, Kyle Woody<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team16.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 17: IntelliChess</strong> <br />
+Jason Kyle Lopez, Brian Lu, Nelson Sim, David Soto Gonzalez<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team17.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 18: Active Wheel Camber Control</strong> <br />
+Gurmehr Klair, Dawood Junaid, Feynman Barney<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team18.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><strong>Group 19: Assistive Rotating Toolbox</strong> <br />
+Nolan Herbert, Henry Libermann, Vic May<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team19.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 20: Automated Pill Dispenser</strong> <br />
+Jason Khatkar, Noah Koch, Kayla Le, Gunit Pabla<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team20.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 21: Articulated Compass</strong> <br />
+Samuel Leo Mankoff, Puneet Bhaskar, Suk Young Jang, Un U Li<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team21.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><strong>Group 22: Tabletop maze game</strong> <br />
+Jonathon Cheng, Sacha Dulout, Jaden Nguyen and Ole G. F. Sjulstad<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team22.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 23: Smart Door Lock</strong> <br />
+Victor Ceja , Yuqi Tang , Ryan Christopher Montis<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team23.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 24: Kinetic Sand Table</strong> <br />
+Rocklin Duong, Nilesh Kothari, Taylor Jazan, Rahul Kariyawasam<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team24.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><strong>Group 25: Sensor-based sorting lid</strong> <br />
+Zhihan Wang,Kaleb Zhong,Tom Springer<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team25.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 26: Powder Dispenser</strong> <br />
+Sara Crogh, Sareena Sandhu, Navjot Singh, and Daniela Guerra<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team26.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 27: Catch N’ Treat: CaN’T</strong> <br />
+Eric Gonzalez Bermudez, Migdalia Sanchez, Andrew P. Torri<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team27.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><strong>Group 28: Seed Planting Robot</strong> <br />
+Charlize Niswanger, Sebastian Pescal, Jared Sitton<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team28.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 29: Locomotive Plant Pot</strong> <br />
+Katelyn Lee, Matthew Hong, Derek Meadows, Shyan Lee<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team29.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 30: Autonomous French Press: ‘Brewt Force’</strong> <br />
+Jacob Kuczynski, Jacob Lopez, Eduardo Diaz<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team30.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><strong>Group 31: Turret for Luncher</strong> <br />
+Nitin Balasubramanian, Christopher Liang, Sohom Roy<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team31.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 32: Motorized Optical Translation Stage</strong> <br />
+Benjamin Capinski, Karla Morales De Leon<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2024/12/2024Fall-team32.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-13 from cache -->
+</div></div><div id = "" class="fold"><div class="key" tabindex="0">2023 Fall Semester</div><div class="note"><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-2988-2-slideshow" class="jetpack-slideshow-window jetpack-slideshow jetpack-slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_192027-scaled.jpg&quot;,&quot;id&quot;:&quot;4075&quot;,&quot;title&quot;:&quot;20231214_192027&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Hesse Hall lobby during the showcase&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_192527-scaled.jpg&quot;,&quot;id&quot;:&quot;4077&quot;,&quot;title&quot;:&quot;20231214_192527&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 30: Winner of Design Innovation Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_201045-scaled.jpg&quot;,&quot;id&quot;:&quot;4074&quot;,&quot;title&quot;:&quot;20231214_201045&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 5: Winner of Entrepreneurship Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_192036-scaled.jpg&quot;,&quot;id&quot;:&quot;4076&quot;,&quot;title&quot;:&quot;20231214_192036&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 23: Winner of Electromechanical Design (MEECS) Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/IMG_2469.jpg&quot;,&quot;id&quot;:&quot;4081&quot;,&quot;title&quot;:&quot;IMG_2469&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 23: Winner of Electromechanical Design (MEECS) Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_192159-scaled.jpg&quot;,&quot;id&quot;:&quot;4080&quot;,&quot;title&quot;:&quot;20231214_192159&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 29: Winner of Mechanical Design Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_195810-scaled.jpg&quot;,&quot;id&quot;:&quot;4079&quot;,&quot;title&quot;:&quot;20231214_195810&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 27: Runner up of Mechanical Design Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/IMG_2463.jpg&quot;,&quot;id&quot;:&quot;4082&quot;,&quot;title&quot;:&quot;IMG_2463&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 28: Winner of Societal Impact Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/IMG_2442.jpg&quot;,&quot;id&quot;:&quot;4083&quot;,&quot;title&quot;:&quot;IMG_2442&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 21&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20231214_193113-scaled.jpg&quot;,&quot;id&quot;:&quot;4078&quot;,&quot;title&quot;:&quot;20231214_193113&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 2&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div>
+<p><img decoding="async" class=" wp-image-4072 alignleft" src="https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce.png" alt="" width="346" height="297" srcset="https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce.png 800w, https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce-500x429.png 500w, https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce-169x145.png 169w, https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce-650x557.png 650w, https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce-400x343.png 400w, https://edg.berkeley.edu/wp-content/uploads/2019/07/102b2023-announce-150x129.png 150w" sizes="(max-width: 346px) 100vw, 346px" />This year&#8217;s Showcase will be hosted in Hesse Hall&#8217;s Lobby on Thursday 12/14 from 7-8:30p.</p>
+<p>Once again, student projects were partially funded by the <a href="https://asme.berkeley.edu/student-resources-2/asme-maker-grant/">ASME MakerGrant program</a>.</p>
+<p>During the live Showcase, a set of impartial judges will select award winners from among the class. The categories are:</p>
+<p><strong>Mechanical Design Award</strong>: Group 29 (Runners up 27)</p>
+<p><strong>Electromechanical Design (MEECS) Award</strong>: Group 23 (Runners up 25)</p>
+<p><strong>Design Innovation Award</strong>: Group 30 (Runners up 17)</p>
+<p><strong>Societal Impact Award</strong>: Group 28 (Runners up 12)</p>
+<p><strong>Commercial Value Entrepreneurship Award</strong>: Group 5 (Runners up 24)</p>
+<p>A playlist of video descriptions created for each project can be viewed at this <a href="https://www.youtube.com/watch?v=ooqxqLBZcls&amp;list=PLZtZP5ZYah6eVe_og18ynZIkUsHL6uc7S">Youtube playlist</a>. See below for the complete set of the project reports.</p>
+
+<table id="tablepress-12" class="tablepress tablepress-id-12">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><strong>Group 1: sPrint</strong> <br />
+Anthony Chan, Chris Huang, Ty Schultz, Zac Gwennap<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team1.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Group 2: Umbrella Corporate Solar Energy Harvester</strong> <br />
+Jackson Hilton, Hugo Maida, Liam McHugh, Andrew Moncada<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team2.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 3: Automated Blackjack Dealer</strong> <br />
+Yiheng Ji, Matthew Thomas, Hyeong Yoon, Lori Huang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team3.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Group 4: Inverted pendulum balancer</strong> <br />
+Michelle Klein, Johnathan Lao, Aidan Sussman, Roy Zhang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team4.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 5: Wireless Charger Air Gap Actuation System</strong> <br />
+Brad Ling, Shane Lee, David Kurniawan, Isak Knox, David Kurniawan<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team5.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 6: Automatic Card Dealer</strong> <br />
+Arjun Chauhan, Vinh Dinh, Samuel Harris, and Derek Rodriguez<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team6.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><strong>Group 7: Botanical Buddy</strong> <br />
+Brandon Honwad, Sage Holter, Lucero Jones-Ortiz , Asusena Benavides<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team7.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 8: Couchopy</strong> <br />
+Salvador Bravo Diaz, Brian Duran Perez, Jose Ramirez Jr., Sammy Sipaseuth<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team8.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 9: Jerry the New York Rat</strong> <br />
+Thor Oase, Ethan Pavlet, Greg Salazar, Conor Zachar<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team9.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><strong>Group 10: Autonomous Drink Shooter</strong> <br />
+Mohamed Mouhab, Ibad Ali, Chester Zelaya, Shayan Moghaddam<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team10.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 11: Sauce-EZ</strong> <br />
+Kyle Nelson, Yen Do, Derrick Ma, Sohan Jayanth<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team11.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 12: Tears of Ocean</strong> <br />
+Tongmiao Xu, Siyuan Chen, Shangtao Li, Nafees Ahamad<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team12.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><strong>Group 13: FAFA: Food Accessibility for All</strong> <br />
+Ashley Lee, Justin Nam<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team13.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 14: Plant Nanny</strong> <br />
+Guillermo Fernandez, Preston Hong, Dafne Renteria, Sebastian Quiroz<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team14.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 15: Little Buddy Inverted Pendulum</strong> <br />
+Luan Chuang, Katherine How, Kaitlyn Lee, Kyle Miller<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team15.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"><strong>Group 16: SkyPal Automatic Telescope</strong> <br />
+Konrad Keihl, Shawn Tuten, Aidan White, William Shiflet<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team16.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 17: Autonomous Sun Shade Tracking</strong> <br />
+Eugene Chen, Luke Gargotta, Maylene Vong, Alex McNamara<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team17.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 18: Automated Tennis Ball Launcher</strong> <br />
+Aryan Sood, Fernando Medina, Masayuki Ohashi, Zeyad Alhomeida<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team18.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><strong>Group 19:  Drawing Robot </strong> <br />
+Sameer Khan, Sukhpal Ghotra, Jorge Pool, Elijah Priwer<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team19.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 20: Ping Pong Catcher</strong> <br />
+Wong Rui Yue, Fang Yi Kuan, Ming Xiao Huo<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team20.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 21: Golf Ball Collector and Sorter</strong> <br />
+Felisha Jacobus, Joey Chen, Prenda Zhang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team21.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><strong>Group 22: Mechatronic Wrist</strong> <br />
+Cynthia Valdez, Danielle Hernandez, Ricardo Cano, Fernando Cardenas<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team22.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 23: Automatic Ramen Maker</strong> <br />
+Andrew Liu, Jacqueline Montoya, Phoebe Liu<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team23.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 24: BottleRevive</strong> <br />
+Allan Ulloa, Yohana Samayoa, Cezar Carvajal<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team24.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><strong>Group 25: Trendy Vendy</strong> <br />
+Elliot Hong, Christopher Luo, Aidan Li, Colby Winters<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team25.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 26: Bike Security Alarm</strong> <br />
+Cassie Young, Albert Tran, Darsh Doshi, Dylan Rosario<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team26.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 27: Prometheus</strong> <br />
+Shawn Chan, Aldo Jardines, Dennis Tercero, Angel Valdivia<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team27.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><strong>Group 28: Industrial waste optimizer</strong> <br />
+Nikolas Papaeracleous, Leo Li, and Victor Mello<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team28.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 29: Magnetic Submersible Transmission</strong> <br />
+Rodrigo Blanco Arce, Kyle Ito, Thomas Fabian Kragerud, Nicholas Chard<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team29.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 30: Soft Tentacle</strong> <br />
+Darren Suen, Zach Tam, Aalaya Wudaru<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team30.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><strong>Group 31: Buggy mini cart</strong> <br />
+Yufan Liu, Serena Wee<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2023/12/2023Fall-team31.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-12 from cache -->
+</div></div><div id = "" class="fold"><div class="key" tabindex="0">2022 Fall Semester</div><div class="note"><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-2988-3-slideshow" class="jetpack-slideshow-window jetpack-slideshow jetpack-slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2478-scaled.jpg&quot;,&quot;id&quot;:&quot;3840&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2478&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 6: Winner of the Social Impact Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2046-scaled.jpg&quot;,&quot;id&quot;:&quot;3842&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2046&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 18: Runner up for Design Innovation&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2582-scaled.jpg&quot;,&quot;id&quot;:&quot;3841&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2582&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 12: Winner of Mechanical Design Award&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2304-scaled.jpg&quot;,&quot;id&quot;:&quot;3839&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2304&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 20&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2121-scaled.jpg&quot;,&quot;id&quot;:&quot;3844&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2121&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 3&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/20221208_DesignShowcase_AVL_2186-scaled.jpg&quot;,&quot;id&quot;:&quot;3845&quot;,&quot;title&quot;:&quot;20221208_DesignShowcase_AVL_2186&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Team 1: Runner up for the Social Impact Award&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div>
+<p><img decoding="async" class="wp-image-3847 alignleft" src="https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement.png" alt="" width="181" height="155" srcset="https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement.png 800w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement-500x429.png 500w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement-169x145.png 169w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement-650x557.png 650w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement-400x343.png 400w, https://edg.berkeley.edu/wp-content/uploads/2019/07/2022-102B-Announcement-150x129.png 150w" sizes="(max-width: 181px) 100vw, 181px" />This year&#8217;s Showcase was hosted in Jacob&#8217;s Hall Room 310 on Thursday 12/8 from 10-11:30a.</p>
+<p>The first 2/3 of the semester covered a wide range of topics, from gears to embedded programming. The last 1/3 of the semester was almost all dedicated to fulltime work on an independent team capstone project.</p>
+<p>Once again, student projects were partially funded by the <a href="https://asme.berkeley.edu/student-resources-2/asme-maker-grant/">ASME MakerGrant program</a>.</p>
+<p>During the live Showcase, a set of impartial judges selected award winners from among the class. The winners were:</p>
+<p><strong>Mechanical Design Award</strong>: Group 12 (Runners up 9)</p>
+<p><strong>Electromechanical Design (MEECS) Award</strong>: Group 11 (Runners up 21)</p>
+<p><strong>Design Innovation Award</strong>: Group 19 (Runners up 18)</p>
+<p><strong>Societal Impact Award</strong>: Group 6 (Runners up 1)</p>
+<p><strong>Commercial Value Entrepreneurship Award</strong>: Group 5 (Runners up 28)</p>
+<p>A playlist of video descriptions created for each project can be viewed at this <a href="https://www.youtube.com/watch?v=46yh-iwrNcY&amp;list=PLZtZP5ZYah6dhxvKkDIN_eQHdiTUjccdV">Youtube playlist</a>. See below for the complete set of the project reports.</p>
+
+<table id="tablepress-10" class="tablepress tablepress-id-10">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><strong>Group 1: WalkerAssist</strong> <br />
+Marco Abbiate, Joseph Benedetti, Calvin Stephens<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team1.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Group 2: Pet Interaction Extravaganza</strong> <br />
+Keilani Adachi, Sydney Chan, Laura Dabundo, Nate Pellini<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team2.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 3: El Pinatatron</strong> <br />
+Constance Angelopoulos, Troy Keslinke, Romy Mastel, Anthony Moody<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team3.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Group 4: Lock Breaker</strong> <br />
+Xavier Barneclo, Michael Jia, Pranav Kalra, Annika Yong<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team4.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 5: Planty Bot</strong> <br />
+Youssef Elias, Nhi Phan, Miguel Salazar-Rivera, Martin Beshara<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team5.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 6: Overhead Obstacle Detection Device for Visually Impaired Individuals</strong> <br />
+Dylan Lee, Shanon Lee, Yarah Feteih, Emily Blum<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team6.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><strong>Group 7: Cajonament</strong> <br />
+Tolou Pharokhipanah, Tzuyi Chang, Anya Shrivastava, Sam Phillips<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team7.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 8: monkeybot</strong> <br />
+Kevin Cheng, Massimiliano de Sa, Julie Hoang, Jessica Lee<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team8.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 9: Continuously variable differential transmission</strong> <br />
+Toh Ming Xian, Brian Chuan Jie Sim, Jovon Jun Wei Lim, Megan Choo Ming Hui<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team9.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><strong>Group 10: Horse racer game</strong> <br />
+Alex Castillo, Luis Flores, Jesse Medina, Eymon Wong<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team10.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 11: The Auto Spice Dispenser</strong> <br />
+Jacob Gottesman, Alvin So, Nikhil Gupta, Amy Jiang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team11.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 12: Autotrike</strong> <br />
+Weston White, Magnus Gu, Kevin Oh, Sarah Kung<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team12.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><strong>Group 13: Mech-E robot</strong> <br />
+Adam Stewart, Ben Shoemaker, Jaeyun Ha, Seong Ho Yang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team13.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 14: Pin Bot</strong> <br />
+Elaine Llacuna, Gissell Jimenez, Hannah Dam, and Tristan Villanueva<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team14.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 15: Affordable Glasses Prescription</strong> <br />
+Samuel Ang, Carlos Karve, Jingzhou Song, Manraj Gill<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team15.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"><strong>Group 16: Automatic drink and mixing machine</strong> <br />
+Ethan Lee, Elianna Peng, Max Ries, Rishi Wadgaonkar<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team16.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 17: Autonomous Cat Toy</strong> <br />
+Alan Monge, Austin Kim, Danny Kwon, Marcos Marmolejo<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team17.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 18: The Porter transportation solution</strong> <br />
+Andrew Zhu, Hubert Liu<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team18.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><strong>Group 19:  Ball Balancing Board </strong> <br />
+Casey Wilson, Ziven Posner, Tristan Schwab, John Gilbreth<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team19.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 20: Walking linkage</strong> <br />
+Aakash Ramachandran, Ingrid Shan<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team20.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 21: AutonoTech</strong> <br />
+Xiangyu Hong, Ziyi Wang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team21.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><strong>Group 22: Personal Bot, Bot-ler</strong> <br />
+Abdullah Alhamood, Fahd Althukair, Zachary Douglas<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team22.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 23: Automatic Pet Care Device</strong> <br />
+Travis Carroll, Lauren Robson, Laurice Hawatmeh, Yixin Tang<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team23.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 24: Snail Bot</strong> <br />
+Kevin Lam, Gumer Ho, Guanhua Fu<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team24.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><strong>Group 26: Perfect Beer Pour Bot</strong> <br />
+Nana Porter-Honicky, Jun Yeob Lee, Alexandr Nechay, Hayden Ye<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team26.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 27: Laser Light Show</strong> <br />
+Blaise Hahs, Deven Matthews, Anuj Raichura<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team27.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"><strong>Group 28: Autonomous trash</strong> <br />
+Claudia Renero, Ambrose Liu, Angelo Braganza<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team28.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><strong>Group 29: TreaToss</strong> <br />
+John Kenny, Donghun Lee and Luke Seybold<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team29.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-2"><strong>Group 30: Automated Cling Wrap Dispenser</strong> <br />
+Sam Averitt, Tae Lee, Yuke Nakano, Todd Russell<br />
+<a href="http://edg.berkeley.edu/wp-content/uploads/2022/12/2022Fall-team30.pdf" rel="noopener noreferrer" target="_blank">Report</a></td><td class="column-3"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-10 from cache -->
+<p>&nbsp;</p>
+</div></div><div id = "" class="fold"><div class="key" tabindex="0">2021 Fall Semester</div><div class="note"><p>Award winning projects from Fall 2021:</p>
+<p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-2988-4-slideshow" class="jetpack-slideshow-window jetpack-slideshow jetpack-slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/me102b-billiard.png&quot;,&quot;id&quot;:&quot;3581&quot;,&quot;title&quot;:&quot;me102b-billiard&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/me102b-cabinet.png&quot;,&quot;id&quot;:&quot;3582&quot;,&quot;title&quot;:&quot;me102b-cabinet&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/me102b-icarus.png&quot;,&quot;id&quot;:&quot;3583&quot;,&quot;title&quot;:&quot;me102b-icarus&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/edg.berkeley.edu\/wp-content\/uploads\/2019\/07\/me102b-lightdisc.png&quot;,&quot;id&quot;:&quot;3584&quot;,&quot;title&quot;:&quot;me102b-lightdisc&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div>
+<p>The showcase occurred on <strong>Wednesday, 12/8/2021 from 12-1:30pm at Jacobs Hall room 310</strong>. Attendees were able to witness the ingenuity and skill of our amazing mechanical engineering students! The event was live and in-person.</p>
+<p>This semester, half of the class consisted of individual labs and assignments in order to learn specific mechatronics skills. Therefore, the project represents the second half of the semester’s work, to deepen and apply lessons in a more integrated product. This semester was also the debut of the <a href="https://asme.berkeley.edu/student-resources-2/asme-maker-grant/">ASME MakerGrant </a>system, led by students in the ASME student group, which provided students with funding to help support their project realization.</p>
+<p>During the live Showcase, a set of impartial judges selected award winners from among the class. The winners were:</p>
+<p><strong>Mechanical Design Award</strong>: Group 7, LightDisc</p>
+<p><strong>Electromechanical Design (MEECS) Award</strong>: Group 12, Billiard Robot</p>
+<p><strong>Design Innovation Award</strong>: Group 16, Domino Placer</p>
+<p><strong>Societal Impact Award</strong>: Group 17, Assistive Cabinet</p>
+<p><strong>Commercial Value Entrepreneurship Award</strong>: Group 10, Icarus Solar Seeker</p>
+<p>See below for the complete set of reports and videos submitted by students this year.</p>
+
+<table id="tablepress-5" class="tablepress tablepress-id-5">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><strong>Group 1: Autonomous Card Sorting Robot</strong> <br />
+David Guo, Jenny Mei, Kenneth Song, Taewon Kim<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group1.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/VMk0O7rSzZE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 2: Roll-On-You-Bot</strong> <br />
+Mark Theis, Elizabeth Gammariello, Han Nguyen<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group2.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/gfet88gT1Dk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 3: Kid Candy Machine</strong> <br />
+Maria Padilla, Levi Evans, Maikel Masoud<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group3.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/zGL9ZLtjKWg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Group 4: DrinkBot</strong> <br />
+Dixun Cui, Andrew Chen, Mayank Gupta, Ocean Zhou<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group4.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/bucLh9cI-d4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 5A: Circoloco</strong> <br />
+Joel Parks and Sina Shakeraneh<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group5a.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/-9sANoKVhZM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 5B: Pipe Inspector</strong> <br />
+Tonya Beatty, Ryan Norris, Komal Thind<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group5b.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/tbzFz5zhfPI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><strong>Group 6: Automated Rice Dispenser</strong> <br />
+Oniqa Urmi, Alejandro Diaz, SooMin Kang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group6.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/GmNncy4yKuk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 7: LightDiscs </strong> <br />
+Kai Chorazewicz, Michael McNabb<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group7.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/HnieEZJK7Is?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 8: Pyrovalve</strong> <br />
+Trevor Zinky, Dylan Potter<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group8.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/3ie04xKGIh4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><strong>Group 9: Height-adjust desk</strong> <br />
+Ben Liao, Alexis Wei, Allison Yuan, Atlas Yuen<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group9.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/KgfymqHCPaI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 10: Icarus</strong> <br />
+Thena Guttieri, Julia Pecego, Cassidy Powers<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group10.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/tKwb80N5P_U?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 11: Morphing Airfoil</strong> <br />
+Richard Tee, James Yoo<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group11.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/WInOGa72-Wc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><strong>Group 12: Billiard Robot</strong> <br />
+Yuting(Elizabeth) Chen, Haoxiang Huang, WenHao Li<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group12.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/XWB0aOW1xsQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 13: Bear Fold</strong> <br />
+Bernardo Fichman Lacerda &amp; Thomas Ragsac<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group13.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/yP1Hai__Z3c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 14: Fully Automated Coffee Machine</strong> <br />
+Junlong Li, Ivan Shao, Zelin Ye<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group14.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ZxTmZVR4VLM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"><strong>Group 15: Wealth Inequality Claw Machine</strong> <br />
+Jesse Thiara, Miguel Nepomuceno, Conor Blackburn<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group15.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/8jwbYm3qLTc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 16: Domino Placer</strong> <br />
+Tess Callan, Jorell Gotamco, Tachpol (Pond) Posaphiwat<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group16.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Yd634X_d5ZM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 17: Assistive Cabinet</strong> <br />
+Monet Garrett, Mohamed Mohamed, Kevin Rubio<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group17.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/H9r1PGpq-ow?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><strong>Group 18: Spice-bot</strong> <br />
+Deborah Lin, Navid Nassiri<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group18.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/j3p-_pzVY1M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 19: High-rise Glass Cleaner</strong> <br />
+Braeden Swidenbank, Kyle Pedersen<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group19.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/c2OyfKki9zs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 20: Bio-Inspired Monopedal Jumping Robot</strong> <br />
+Stanley Wang, Steven Salah-Eddine, Andrew Boutros<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group20.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/W75AAK06-Mk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><strong>Group 21: Dishwashing robot arm</strong> <br />
+Janek de Silva, Adit Roychowdhury<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group21.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/5QSYlyY3cXI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 22: Automated Projector</strong> <br />
+Austin Nguyen, James Nguyen<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group22.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Gz8H88JNp_Y?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 23: UkƐ</strong> <br />
+John John Huddleston, Hadar Gamliel, Shaan Jagani<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group23.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/yU_nP4jStQk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><strong>Group 24: Bike Car</strong> <br />
+Ethan Cardenas, Alexander Park, Henry Smith<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group24.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ImnVQYfL4TE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 25: </strong> <br />
+Dorotea Macri, James Lee, Hae Young Jang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group25.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/5JaNQgmGjJM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 26: Boston Terrier</strong> <br />
+Karen Chen, Bryant La, Moises Medrano<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group26.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/zP9V9KmcgRM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><strong>Group 27: Violin-bot</strong> <br />
+Uriel Barragan, Anjana Saravanan, Rohan Castelino<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group27.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/xXkm7s-gjxA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 28: Actuated Camera Platform</strong> <br />
+Chengdu Xu and Aaron Luo<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group28.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/fQMBSONJqvo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 29: Bear Boost</strong> <br />
+Mark Kallos, Ricardo Alfaro, Jake Glick<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group29.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Y6u_NvuM3AA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><strong>Group 30: Robotic Cat Toy</strong> <br />
+Collin Nilsen, Varun Rao, Matthew Walker<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group30.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/1iZIkiSP09Y?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 31: Pet Feeder Machine</strong> <br />
+Canberk Hurel, Aaron Wagner, Joshua Fong<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group31.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/BMUQ-rxINc0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Group 32: Rubble Robot</strong> <br />
+Alex Chemali, Matthew Nelson, Alejandro Orozco<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group32.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Dn3TQG1wTpo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-12">
+	<td class="column-1"><strong>Group 33: Light Show</strong> <br />
+Eric Kang, Mirabelle Huang, Sebastian Baehr<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group33.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/jyCqHFgv1LU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Group 34: Self-Playing Guitar</strong> <br />
+Julia Estrada, Sharjeel Laeeq, Cooper Clark<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2021/12/ME102B-2021-group34.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dMDodU79cyI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-5 from cache -->
+</div></div><div id = "" class="fold"><div class="key" tabindex="0">2020 Fall Semester</div><div class="note"><p>This semester, the class and showcase were conducted remotely / virtually due to the COVID-19 pandemic. The teaching team included Prof. Stuart, Prof. Kazeooni and GSI Joseph Skelley. The majority of this class consisted of lab assignments using a home lab kit. This <a href="https://microkit.berkeley.edu/" target="_blank" rel="noopener">MicroKit</a> is a newly developed tool, featured on the front page of the first ever <a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/Mechanical-Engineering-Fall-2020-Newsletter.pdf" target="_blank" rel="noopener">ME Dept. Newsletter</a>.</p>
+<p>Then, the mini-project was conducted over the last 3 weeks of class. The students chose to either produce a rough mechatronics product at home (PDF + video) or produce a more detailed mechanical design in CAD (PDF only). These projects are a part of the <a href="https://jacobsinstitute.berkeley.edu/design-showcase/">Jacobs Winter Design Showcase</a>. The Jacob’s staff would like you to be able to connect with the students: “<em>Help provide student feedback and nominate your favorite projects for our Student Projects page, using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSex6QaHUj0QHEXYIZ8oAjLj-oIzihsqiZB8tW933ajKvUW5HQ/viewform" target="_blank" rel="noopener">feedback form</a> – all are welcome to submit!</em>” This form is a great way to celebrate the wonderful achievements of the students and let them know if you were impressed with their work. Students are also encouraged to apply for the <a href="https://jacobsinstitute.berkeley.edu/the-jacobs-institute-innovation-catalysts/">Jacobs Institute Innovation Catalysts</a> program to get a “Spark” or “Ignite” grant to continue working on their ideas!</p>
+<p>See the complete set of reports and videos submitted by students here.</p>
+
+<table id="tablepress-3" class="tablepress tablepress-id-3">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><strong>Welcome</strong> <br />
+by Prof. Hannah Stuart<br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/wQmhxnsNejI?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong> Hamster Heating System</strong> <br />
+by Kevin Antonino<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_antoninokevin.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dkLFYqeQwfI?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Dog Bell</strong> <br />
+by Matthew Blanchard<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_blanchardmatthew.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/jpVdxKXPvQU?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Automated Pour-over Coffee Machine</strong> <br />
+by Evan Borzilleri<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_borzillerievan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/EIumso1xa78?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Rise and Shine</strong> <br />
+by Kevin Brown<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_brownkevin.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/05FlXRX3PtM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Cellphone Casket Countdown Timer</strong> <br />
+by Juan Carrillo Melendez<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_carrillomelendezjuan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/OCjcf06wNSc?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><strong>Mini-Excavator</strong> <br />
+by Ho Tin Chau<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chauhotin.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>The “Stokowski” EZ-Conduct</strong> <br />
+by Eatone Cheng<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chengeatone.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/WWdhwDYN9m8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Gyroscope Controlled RC Car</strong> <br />
+by Yingying Chen<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chenyingying.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/aasN8mcSuys?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><strong>Automatic Dice Roller</strong> <br />
+by Henry Cheung<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_cheunghenry.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/KRUQ1OlOi6w?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Hands Free Stirrer</strong> <br />
+by Jinman Cho<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chojinman.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-3"><strong>Cooling Fan for Fried Food</strong> <br />
+by Ethan Chung<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chungethan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dOPv2XnXPOM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><strong>Automatic Nail Filer</strong> <br />
+by Wonsik Chung<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_chungwonsik.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/MFQhjszQZfA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong> ESP32 VU Meter</strong> <br />
+by Jonathan de Laine<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_delainejonathan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/tMayijJlEQE?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>ToastBot</strong> <br />
+by Ashlyn D'Orazio<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_dorazioashlyn.pdf" rel="noopener noreferrer" target="_blank">Report</a></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"><strong>Ultimate Cat Feeder</strong> <br />
+by Mahsood Ebrahim<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_ebrahimmahsood.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Z2r2P0Suh3k?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Automatic Window Opener and Closer</strong> <br />
+by Zaxhary ElShaer<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_elshaerzachary.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-3"><strong>Bubbles the Clown Animatronic</strong> <br />
+by Katelyn Gerhardt<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_gerhardtkatelyn.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/FlPcD1T17ZA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><strong>Quarantine Buddy</strong> <br />
+by Srishti Goswamy<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_goswamysrishti.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/vYXgZns3pRg?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Automatic Tea Maker 3000</strong> <br />
+by Arda Hatay<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_hatayarda.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/kbu51iUt40E?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>The Welcomer</strong> <br />
+by Vanessa Hernandez-Cruz<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_hernandezcruzvanessa.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/DMtK4JgtX10?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><strong>Drink Stirrer</strong> <br />
+by Frederick Houghton <br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_houghtonfreddie.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Xyx4jzTVIHM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Single-Motor Robotic Hand </strong> <br />
+by Jay Huber<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_huberjay.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/sTTEoZp9Hac?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Merry’Go Round Recycling System</strong> <br />
+by Alberto Ibarra<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_ibarraalberto.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><strong>Sonar Alarm Security System</strong> <br />
+by Michael Ingerman<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_ingermanmichael.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Ju9Pk8eXkic?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>V-12T: Bluetooth Controlled Vehicle</strong> <br />
+by Kiaria Johnson<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_johnsonkiaria.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/_Ftgd1LPI-o?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Dynamic Elevate</strong> <br />
+by Tiana Johnson-Kidd<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_johnsonkiddtiana.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><strong>Ajoy Temperature Control</strong> by Sam Johnson<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_johnsonsamuel.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Package Pick-Up Mechanism</strong> <br />
+by Jeonghyun Jo<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_jojeonghyun.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-3"><strong>Lifting Spirits</strong> <br />
+by Chung Min Kim<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_kimchungmin.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/R9bK5Ecmtus?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><strong>Light Controller</strong> <br />
+by Eric Kim<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_kimeric.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/2v2NK2alQ88?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Pet Food Dispenser</strong> <br />
+by Caitlyn Lee<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_leecaitlyn.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ZRNzZ7RvhR8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Simple Self-Driving Vehicle</strong> <br />
+by Gunn Lee<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_leegunn.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/abNloKLO87A?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-12">
+	<td class="column-1"><strong>Tresspassing Alarm Security System</strong> <br />
+by Sang Joon Lee<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_leesangjoon.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ZJcddJ9uiDo?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Butter Buttler <br />
+</strong> <br />
+by Christian Leycam <br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_leycamchristian.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/XBL-Y9ncMqA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Automatic Clamping Phone Holder for Car</strong> <br />
+by Ericson Li<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_liericson.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/JpuLiDiPlEs?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-13">
+	<td class="column-1"><strong>Edge Bikes</strong> <br />
+by Joe Li<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_lijoe.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Elevator for Air Quality Sensor</strong> <br />
+by Yilan Lu<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_luyilan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/xkfOoSheKdM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>3D scanner</strong> <br />
+by Casper Max<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_maxcasper.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/HWk8TEfz1xw?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-14">
+	<td class="column-1"><strong>Lightweight Staircase Lift</strong> <br />
+by Wenny Miao<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_miaowenny.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-2"><strong>Automatic Plant Watering Device</strong> <br />
+by Sara Mirza<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_mirzasara.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/SxUPjxOBhIc?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Prosthetic Joint</strong> <br />
+by Edmund Narh<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_narhedmund.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1"><strong>Scoop Evener</strong> <br />
+by Alex Orr<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_orralex.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/mzmauRMdluY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Shower Temperature Controller</strong> <br />
+by Rees Parker<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_parkerrees.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/fh4UAquCWKk?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Egg Smasher</strong> <br />
+by Shane Pauker<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_paukershane.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/UcmsgMjWmyM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1"><strong>Leggy, the Legged Robot</strong> <br />
+by Natalia Perez<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_pereztriananatalia.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ZV7ES7Xx8o0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Package Detector</strong> <br />
+by An Phan<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_phanan.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/d-cNVUMVSNM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Softball Swing Trainer Prototype</strong> <br />
+by Ashley Reilly and Jeremy Rine<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_reillyashley.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Ul-uhk9h-Kg?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-17">
+	<td class="column-1"><strong>Tea Steeper Prototype</strong> <br />
+by Elsa Robertson<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_robertsonelsa.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dePMJDAKoD8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Temperature Operated Summer Fan</strong> <br />
+by Rishabh Roy<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_royrishabh.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/r1KYbq2E78Q?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Study Helper</strong> <br />
+by Jung Won Shin<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_shinjungwon.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/HZBs-aZp1H8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-18">
+	<td class="column-1"><strong>Car Autopilot System</strong> <br />
+by Ye Song<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_songye.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dnAxgoh7j0A?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Humidifier Assistant Fan</strong> <br />
+by Ognyan Stefanov<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_stefanovog.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Dz8g2FH9rOw?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Bluetooth Blinds</strong> <br />
+by Dimitri Stetsenko<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_stetsenkodimitri.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/DY1oY34FVD0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-19">
+	<td class="column-1"><strong>Line Follower Robot</strong><br />
+ by Jeremiah Teofil<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_teofiljeremiah.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/8FkCDseaieU?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+</td><td class="column-2"><strong>Haptic Mouse Bungee</strong> <br />
+by Eric Wang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_wangeric.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/CakFuAVO7cE?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Micro control curtain with weather station</strong> <br />
+by He Wang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_wanghe.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/Eb_ty1lsnPM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+</td>
+</tr>
+<tr class="row-20">
+	<td class="column-1"><strong>Curtain Assistant</strong> <br />
+by Shaobo Wang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_wangshaobo.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/FrPsV_19BEs?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Mini Conveyor Belt</strong> <br />
+by Linnea Warburton<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_warburtonlinnea.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td><td class="column-3"><strong>Robotic Arm Prototype with Hand Sanitizer</strong> <br />
+by Nicolas Williams<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_williamsnicolas.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/MIIt0pUsUn8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-21">
+	<td class="column-1"><strong>Literally Just A Sign</strong> <br />
+by Leon Wu<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_wuleon.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/arxzuK_OWkQ?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Motorized Window Blind</strong> <br />
+by Charlie Xu<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_xucharlie.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/3paDOpL6lik?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Mechanical Gripper Arm with Touch Sensor</strong> <br />
+by Alexander Yang<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_yangalexander.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+</td>
+</tr>
+<tr class="row-22">
+	<td class="column-1"><strong>Makeshift Rock Tumbler</strong> <br />
+by Asena Yildiz<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_yildizasena.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/5hwGn5XDLeY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Swipe to Squeeze: No-contact Hand Sanitizer Dispenser</strong> <br />
+by Howard Yoon<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_yoonhoward.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/dG2Am_NU1fU?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"><strong>Automatic Paper Rotor</strong> <br />
+by Licheng Yu<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_yulicheng.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/bmbpkIkRvPA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<tr class="row-23">
+	<td class="column-1"><strong>Roof Vent</strong> <br />
+by Steven Zadourian<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_zadouriansteven.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/E33yOKvFD1c?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-2"><strong>Boxer's Pinata</strong> <br />
+by Victor Zendejas Lopez<br />
+<a href="https://edg.berkeley.edu/wp-content/uploads/2020/12/2020Fall_ME102B_zendejaslopezvictor.pdf" rel="noopener noreferrer" target="_blank">Report</a><br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/RJiK7hIt1uM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td><td class="column-3"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-3 from cache -->
+</div></div><div id = "" class="fold"><div class="key" tabindex="0">2019 Fall Semester</div><div class="note"><p>The teaching team this semester included GSI’s Wilson Torres and Sareum Kim.</p>
+<div id="attachment_3067" class="wp-caption aligncenter" style="width: 760px;">
+<p><img decoding="async" class="wp-image-3067" src="https://edg.berkeley.edu/wp-content/uploads/2019/07/showcasePictures2-500x236.png" sizes="(max-width: 750px) 100vw, 750px" srcset="https://edg.berkeley.edu/wp-content/uploads/2019/07/showcasePictures2-500x236.png 500w, https://edg.berkeley.edu/wp-content/uploads/2019/07/showcasePictures2-1200x567.png 1200w, https://edg.berkeley.edu/wp-content/uploads/2019/07/showcasePictures2-300x142.png 300w, https://edg.berkeley.edu/wp-content/uploads/2019/07/showcasePictures2.png 1583w" alt="" width="750" height="354" aria-describedby="caption-attachment-3067" /></p>
+<p id="caption-attachment-3067" class="wp-caption-text">Pictures from ME102B showcase, Fall 2019.</p>
+</div>
+<div id="attachment_3068" class="wp-caption aligncenter" style="width: 510px;">
+<p><img decoding="async" class="wp-image-3068 size-medium" src="https://edg.berkeley.edu/wp-content/uploads/2019/07/showcaseAnnouncement-500x344.png" sizes="(max-width: 500px) 100vw, 500px" srcset="https://edg.berkeley.edu/wp-content/uploads/2019/07/showcaseAnnouncement-500x344.png 500w, https://edg.berkeley.edu/wp-content/uploads/2019/07/showcaseAnnouncement-300x207.png 300w, https://edg.berkeley.edu/wp-content/uploads/2019/07/showcaseAnnouncement.png 1188w" alt="" width="500" height="344" aria-describedby="caption-attachment-3068" /></p>
+<p id="caption-attachment-3068" class="wp-caption-text">This semester we piloted the brand new California Mechanics for the Greater Good Design Excellence Competition.</p>
+</div>
+<p>Cal Athletics video highlighting the work of one student in class this semester, Matthew Messman, and his team:</p>
+<p><span class="embed-youtube" style="text-align: center; display: block;"><iframe class="youtube-player" style="border: 0;" src="https://www.youtube.com/embed/aib6NZq0kNQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" width="640" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen="allowfullscreen"></iframe></span></p>
+</div></div></div> <!-- /accordion --></main></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><nav aria-label="Footer" class="nav-footer"><div class="wrap"><ul id="menu-footer" class="menu genesis-nav-menu menu-footer"><li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120"><a href="https://engineering.berkeley.edu" itemprop="url"><span itemprop="name">Berkeley Engineering</span></a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119"><a href="http://berkeley.edu" itemprop="url"><span itemprop="name">UC Berkeley</span></a></li>
+</ul></div></nav>	
+	<div id = "legal">
+		<ul id = "legal-links">
+		<li><a href="/privacy/" itemprop="url"><span itemprop="name">Privacy</span></a></li><li><a href="https://dac.berkeley.edu/web-accessibility" itemprop="url"><span itemprop="name">Accessibility</span></a></li><li><a href="https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement" itemprop="url"><span itemprop="name">Nondiscrimination</span></a></li>		</ul>
+	</div>
+<p>&#x000A9;&nbsp;2016&#x02013;2025 UC Regents  |  <a href="https://edg.berkeley.edu/wp-login.php">Log in</a></p>
+</div></footer></div><link rel='stylesheet' id='jetpack-slideshow-css' href='https://edg.berkeley.edu/wp-content/plugins/jetpack/modules/shortcodes/css/slideshow-shortcode.min.css?ver=14.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/unit/assets/js/jquery.fancybox.min.js?ver=1.0" id="fancybox-js-js"></script>
+<script type="text/javascript" id="pt-cv-content-views-script-js-extra">
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"be944e023c","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/edg.berkeley.edu\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==","is_mobile_tablet":"","sf_no_post_found":"No posts found.","lf__separator":","};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=4.1" id="pt-cv-content-views-script-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js?ver=7.2.1" id="pt-cv-public-pro-script-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/superside-me/includes/js/sidr.me.min.js?ver=2.2.1" id="supersideme-sidr-js"></script>
+<script type="text/javascript" id="superside-init-js-extra">
+/* <![CDATA[ */
+var SuperSideMeVar = {"location":"","close":{"closeText":"Close","closeAria":"Close Navigation"},"displace":"","closeevent":".menu-close","side":"right","navigation":"Menu","navarialabel":"Navigation Menu","submenu":"Menu","subarialabel":"Navigation Sub Menu","swipe":"","speed":"200","source":null,"function":"prepend","search":{"panel":false,"button":false,"button_text":"Search","button_aria":"Search"},"second":[],"html5":"","widget_end":"1","custom":[],"customizer":"","svg":{"menu":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 448 512\" class=\"supersideme__icon ssme-icon bars\" fill=\"currentcolor\" height=\"1em\" width=\"1em\" aria-hidden=\"true\" focusable=\"false\" role=\"img\"><!-- Font Awesome Free 5.15.4 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license\/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d=\"M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z\"><\/path><\/svg>\n","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 352 512\" class=\"supersideme__icon ssme-icon times\" fill=\"currentcolor\" height=\"1em\" width=\"1em\" aria-hidden=\"true\" focusable=\"false\" role=\"img\"><!-- Font Awesome Free 5.15.4 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license\/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"><\/path><\/svg>\n","submenu":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 320 512\" class=\"supersideme__icon ssme-icon angle-down\" fill=\"currentcolor\" height=\"1em\" width=\"1em\" aria-hidden=\"true\" focusable=\"false\" role=\"img\"><!-- Font Awesome Free 5.15.4 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license\/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d=\"M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z\"><\/path><\/svg>\n","search":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 512 512\" class=\"supersideme__icon ssme-icon search\" fill=\"currentcolor\" height=\"1em\" width=\"1em\" aria-hidden=\"true\" focusable=\"false\" role=\"img\"><!-- Font Awesome Free 5.15.4 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license\/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d=\"M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z\"><\/path><\/svg>\n"},"rest":"https:\/\/edg.berkeley.edu\/wp-json\/supersideme\/api\/menu"};
+var supersidemeSkipLinks = {"ulClass":".genesis-skip-link","startLink":"genesis-nav-primary","contains":"genesis-nav","unique":"primary"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/superside-me/includes/js/supersideme.min.js?ver=2.8.1" id="superside-init-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.3.4" id="skip-links-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202509.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"142692228\",\"post\":\"2988\",\"tz\":\"-8\",\"srv\":\"edg.berkeley.edu\",\"j\":\"1:14.3\"}") ]);
+_stq.push([ "clickTrackerInit", "142692228", "2988" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/jetpack/modules/shortcodes/js/jquery.cycle.min.js?ver=20161231" id="jquery-cycle-js"></script>
+<script type="text/javascript" id="jetpack-slideshow-js-extra">
+/* <![CDATA[ */
+var jetpackSlideshowSettings = {"spinner":"https:\/\/edg.berkeley.edu\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/img\/slideshow-loader.gif","speed":"4000","label_prev":"Previous Slide","label_stop":"Pause Slideshow","label_next":"Next Slide"};
+var jetpackSlideshowSettings = {"spinner":"https:\/\/edg.berkeley.edu\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/img\/slideshow-loader.gif","speed":"4000","label_prev":"Previous Slide","label_stop":"Pause Slideshow","label_next":"Next Slide"};
+var jetpackSlideshowSettings = {"spinner":"https:\/\/edg.berkeley.edu\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/img\/slideshow-loader.gif","speed":"4000","label_prev":"Previous Slide","label_stop":"Pause Slideshow","label_next":"Next Slide"};
+var jetpackSlideshowSettings = {"spinner":"https:\/\/edg.berkeley.edu\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/img\/slideshow-loader.gif","speed":"4000","label_prev":"Previous Slide","label_stop":"Pause Slideshow","label_next":"Next Slide"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/plugins/jetpack/_inc/build/shortcodes/js/slideshow-shortcode.min.js?ver=20160119.1" id="jetpack-slideshow-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/unit/assets/js/jquery.tabbable.js?ver=6.7.1" id="tabble_js-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/unit/dist/main.js?ver=3.1.34" id="primary_js-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/unit/assets/js/accordion.js?ver=1.6.0" id="ha-accordion-js"></script>
+<script type="text/javascript" src="https://edg.berkeley.edu/wp-content/themes/unit/assets/js/header.js?ver=1.6.0" id="ha-header-js"></script>
+		<script type="text/javascript">
+				jQuery('.soliloquy-container').removeClass('no-js');
+		</script>
+		</body></html>

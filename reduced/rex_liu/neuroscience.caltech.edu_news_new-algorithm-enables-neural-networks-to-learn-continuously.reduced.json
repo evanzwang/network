@@ -1,0 +1,57 @@
+{
+  "title": "New Algorithm Enables Neural Networks to Learn Continuously\n     - \n    \n    Chen Institute",
+  "meta_description": "Caltech researchers have developed a new type of algorithm based on a field of mathematics called differential geometry, enabling artificial neural networks to be updated in real time.",
+  "main_content": "Chen Institute Homepage / News / New Algorithm Enables Neural Networks to Learn Continuously New Algorithm Enables Neural Networks to Learn Continuously October 09, 2024 Neural networks have a remarkable ability to learn specific tasks, such as identifying handwritten digits. However, these models often experience \"catastrophic forgetting\" when taught additional tasks: They can successfully learn the new assignments, but \"forget\" how to complete the original. For many artificial neural networks, like those that guide self-driving cars, learning additional tasks thus requires being fully reprogrammed. Biological brains, on the other hand, are remarkably flexible. Humans and animals can easily learn how to play a new game, for instance, without having to re-learn how to walk and talk. Inspired by the flexibility of human and animal brains, Caltech researchers have now developed a new type of algorithm that enables neural networks to be continuously updated with new data that they are able to learn from without having to start from scratch. The algorithm, called a functionally invariant path (FIP) algorithm, has wide-ranging applications from improving recommendations on online stores to fine-tuning self-driving cars. The algorithm was developed in the laboratory of Matt Thomson , assistant professor of computational biology and a Heritage Medical Research Institute (HMRI) Investigator. The research is described in a new study that appeared in the journal Nature Machine Intelligence on October 3. Thomson and former graduate student Guru Raghavan (PhD '23) were inspired by neuroscience research at Caltech, particularly in the laboratory of Carlos Lois, Research Professor of Biology. Lois studies how birds can rewire their brains to learn how to sing again after a brain injury. Humans can do this too; people who have experienced brain damage from a stroke, for instance, can often forge new neural connections to learn everyday functions again. \"This was a yearslong project that started with the basic science of how brains flexibly learn,\" says Thomson. \"How do we give this capability to artificial neural networks?\" The team developed the FIP algorithm using a mathematical technique called differential geometry. The framework allows a neural network to be modified without losing previously encoded information. In 2022, with guidance from Julie Schoenfeld, Caltech Entrepreneur In Residence, Raghavan and Thomson started a company called Yurts to further develop the FIP algorithm and deploy machine learning systems at scale to address many different problems. Raghavan co-founded Yurts with industry professionals Ben Van Roo and Jason Schnitzer. The paper is titled \"Engineering flexible machine learning systems by traversing functionally invariant paths.\" Raghavan is the study's first author. In addition to Raghavan and Thomson, Caltech co-authors are graduate students Surya Narayanan Hari and Shichen Rex Liu, and collaborator Dhruvil Satani. Bahey Tharwat of Alexandria University in Egypt is also a co-author. Funding was provided by the Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech , HMRI, the Packard Foundation, and the Rothenberg Innovation Initiative. Thomson is an affiliated faculty member with the Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech. Subscribe The Caltech Weekly Share this Tags computer & information science See All News",
+  "links": [
+    {
+      "url": "/",
+      "text": "Chen Institute Homepage"
+    },
+    {
+      "url": "/news",
+      "text": "News"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/people/matt-thomson",
+      "text": "Matt Thomson"
+    },
+    {
+      "url": "https://www.caltech.edu/about/news",
+      "text": "how to sing again"
+    },
+    {
+      "url": "https://www.nature.com/articles/s42256-024-00902-x",
+      "text": "\"Engineering flexible machine learning systems by traversing functionally invariant paths.\""
+    },
+    {
+      "url": "http://neuroscience.caltech.edu",
+      "text": "Tianqiao and Chrissy Chen Institute for Neuroscience at Caltech"
+    },
+    {
+      "url": "https://www.caltech.edu/caltech-weekly",
+      "text": "The Caltech Weekly"
+    },
+    {
+      "url": "https://www.addtoany.com/share",
+      "text": ""
+    },
+    {
+      "url": "/news?tag=computer%20%26%20information%20science",
+      "text": "computer & information science"
+    },
+    {
+      "url": "/news",
+      "text": "See All News"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://caltechsites-prod.s3.amazonaws.com/root/images/ArtificialIntelligence-WEB.2e16d0ba.fill-1600x810-c100.jpg",
+      "alt": "Brain made of computer chip and wires"
+    },
+    {
+      "src": "/static/airspace/img/icon-chevron-orange.png",
+      "alt": ""
+    }
+  ]
+}

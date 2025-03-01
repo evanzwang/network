@@ -1,0 +1,389 @@
+{
+  "title": "Numerical Study on Different Shapes of Heat Shields in Continuous Czochralski Silicon | Silicon",
+  "meta_description": "Monocrystalline silicon is the core material of solar cells and integrated circuits and its quality have a direct impact on device performance. The Continu",
+  "main_content": "Numerical Study on Different Shapes of Heat Shields in Continuous Czochralski Silicon Research Published: 28 February 2025 ( 2025 ) Cite this article Silicon Aims and scope Submit manuscript Abstract Monocrystalline silicon is the core material of solar cells and integrated circuits and its quality have a direct impact on device performance. The Continuous Czochralski method is a very well know technique which can grow large-sized monocrystalline silicon, with uniform axial resistivity distribution and higher growth efficiency. However, there are still some flaws such as unstable melt flow, temperature fluctuations, and high oxygen content. A two-dimensional axisymmetric global quasi steady numerical model is proposed by Fluent software for Continuous Czochralski growth of monocrystalline silicon. Two types of heat shields are designed (SHS and IHS), and the effects of changes in heat shields on heater power, argon velocity, crystal thermal stress, oxygen impurity concentration, melt/crystal interface, melt temperature and flow fields are studied. The results show that the IHS increases the velocity of argon above the melt free surfaces about 56.3%, weaken the reflux phenomenon. The technique helps to save the heater power by 2.7%, decrease the oxygen concentration on melt-crystal interface by 10.2% and smooth the melt/crystal interface, ultimately reducing crystal production costs and improving crystal quality. This is a preview of subscription content, log in via an institution to check access. Access this article Log in via an institution Subscribe and save Springer+ Basic $34.99 /Month Get 10 units per month Download Article/Chapter or eBook 1 Unit = 1 Article or 1 Chapter Cancel anytime Subscribe now Buy Now Buy article PDF USD 39.95 Price excludes VAT (USA) Tax calculation will be finalised during checkout. Instant access to the full article PDF. Institutional subscriptions Similar content being viewed by others Influence of Thermal Conductivity and Emissivity of Heat Shield Surface Material on the Thermal Field of Czochralski Silicon Crystal Growth Article 08 June 2024 The Effect of Physical Property Parameters of the Insulation Material Inside the Heat Shield on the Growth of Czochralski Silicon Crystal Article 28 November 2023 Numerical Investigation of Argon Gas Flow Patterns and Their Effects on Mc-Si Ingot Growth Process: Solar Cell Applications Article 04 March 2024 Explore related subjects Discover the latest articles, news and stories from top researchers in related subjects. Environmental Chemistry Polymers Data Availability No datasets were generated or analysed during the current study. References Rui Y, Wang Z, Sheng W et al (2023) Effect of Heat Shield Structure on the Distribution of Oxygen Content in 200 mm Semiconductor-Grade Czochralski Monocrystalline Silicon. J Cryst Growth. 52:1110\u20131119 CAS Google Scholar Zhang J, Liu D, Zhao Y et al (2014) Impact of heat shield structure in the growth process of Czochralski silicon derived from numerical simulation. Chin J Mech Eng. https://doi.org/10.3901/CJME.2014.03.504 Article Google Scholar Jeon HJ, Park H, Koyyada G et al (2020) Optimal cooling system design for increasing the crystal growth rate of single-crystal silicon ingots in the Czochralski process using the crystal growth simulation. Processes. https://doi.org/10.3390/pr8091077 Article Google Scholar Teng R, Zhou Q, Dai X et al (2012) Optimization of heat shield for single silicon crystal growth by using numerical simulation. Rare Met. https://doi.org/10.1007/s12598-012-0545-0 Article Google Scholar Song DW, Lee SH, Hee Mun Y et al (2011) Oxygen content increasing mechanism in Czochralski (CZ) silicon crystals doped with heavy antimony under a double-typed heat shield. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2011.04.020 Article Google Scholar Hu R, Lv X, Li J et al (2024) The effect of physical property parameters of the insulation material inside the heat shield on the growth of Czochralski silicon crystal. Silicon. https://doi.org/10.1007/s12633-023-02778-9 Article Google Scholar Li Z, Smirnov A (2023) Application of computer modeling to pulling rate and productivity of Czochralski pullers in PV Si crystal growth. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2023.127178 Article Google Scholar Qi X, Wang J, Wen Y et al (2023) Effect of water-cooled jacket on the oxygen transport during the Czochralski silicon crystal growth process. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2023.127139 Article Google Scholar Dezfoli ARA (2023) Czochralski (CZ) process modification with cooling tube in the response to market Global silicon shortage. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2023.127170 Article Google Scholar Zhao W, Liu L (2017) Control of heat transfer in continuous-feeding Czochralski-silicon crystal growth with a water-cooled jacket. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2016.10.041 Article Google Scholar Zhao W, Li J, Liu L (2021) Control of oxygen impurities in a continuous-feeding Czochralski-silicon crystal growth by the double-crucible method. Crystals. https://doi.org/10.3390/cryst11030264 Article Google Scholar Chen S, Liu W, Li M et al (2022) Melt convection and temperature distribution in 300 mm Czochralski crystal growth with transverse magnetic field. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2022.126722 Article Google Scholar Su W, Zhang Z, Li J et al (2023) Numerical study on the effects of inner crucible window heights on the growth of silicon in a continuous Czochralski process. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2023.127129 Article Google Scholar Qi X, Ma W, Dang Y et al (2020) Optimization of the melt/crystal interface shape and oxygen concentration during the Czochralski silicon crystal growth process using an artificial neural network and a genetic algorithm. J Cryst Growth. https://doi.org/10.1016/j.jcrysgro.2020.125828 Article Google Scholar Popescu A, Bellmann MP, Vizman D (2021) Effect of crucible rotation on the temperature and oxygen distributions in Czochralski grown silicon for photovoltaic applications. CrystEngComm. https://doi.org/10.1039/d0ce01377c Article Google Scholar Chen L, Yu X, Chen P et al (2011) Effect of oxygen precipitation on the performance of Czochralski silicon solar cells. Sol Energy Mater Sol Cells. https://doi.org/10.1016/j.solmat.2011.06.044 Article Google Scholar Download references Acknowledgements The project was supported by the Key Research and Development Program of Jiangsu Province of China (grant no. BE2019009-003), Industry\u2013University Research Project (Wuxi Wuyue Semiconductor Co., Ltd., grant no. HX20230899), and the National Natural Science Foundation for Young Scholars of China (grant no. 51206069). Funding The project was supported by the Key Research and Development Program of Jiangsu Province of China (grant no. BE2019009-003), Industry\u2013University Research Project (Wuxi Wuyue Semiconductor Co., Ltd., grant no. HX20230899), and the National Natural Science Foundation for Young Scholars of China (grant no. 51206069). Author information Authors and Affiliations School of Energy and Power Engineering, Jiangsu University, Zhenjiang, 212013, Jiangsu, China Wenjia Su, Ruilin Guo, Jiaqi Li & Yanshuo Zhang Shanghai Zingsemiconductor Co., Ltd, Shanghai, 201306, China Jiaqi Li & Zhiqiang Zhang Authors Wenjia Su View author publications You can also search for this author in PubMed Google Scholar Ruilin Guo View author publications You can also search for this author in PubMed Google Scholar Jiaqi Li View author publications You can also search for this author in PubMed Google Scholar Yanshuo Zhang View author publications You can also search for this author in PubMed Google Scholar Zhiqiang Zhang View author publications You can also search for this author in PubMed Google Scholar Contributions Wenjia Su contributed to the conception of the study and the analysis with constructive discussion. Ruilin Guo performed the simulation and contributed to analysis and manuscript written. Jiaqi Li and Yanshuo Zhang performed the data analyses and modi-fied the manuscript. Zhiqiang Zhang contributed to carrying out additional analyses and finalizing this paper. Corresponding author Correspondence to Wenjia Su . Ethics declarations Competing Interest The authors declare no competing interests. Additional information Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Rights and permissions Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law. Reprints and permissions About this article Cite this article Su, W., Guo, R., Li, J. et al. Numerical Study on Different Shapes of Heat Shields in Continuous Czochralski Silicon. Silicon (2025). https://doi.org/10.1007/s12633-025-03253-3 Download citation Received : 14 October 2024 Accepted : 09 February 2025 Published : 28 February 2025 DOI : https://doi.org/10.1007/s12633-025-03253-3 Share this article Anyone you share the following link with will be able to read this content: Get shareable link Sorry, a shareable link is not currently available for this article. Copy to clipboard Provided by the Springer Nature SharedIt content-sharing initiative Keywords Continuous-feeding Czochralski method Semiconducting silicon Heat transfer Fluid flow Computer simulation Access this article Log in via an institution Subscribe and save Springer+ Basic $34.99 /Month Get 10 units per month Download Article/Chapter or eBook 1 Unit = 1 Article or 1 Chapter Cancel anytime Subscribe now Buy Now Buy article PDF USD 39.95 Price excludes VAT (USA) Tax calculation will be finalised during checkout. Instant access to the full article PDF. Institutional subscriptions Advertisement",
+  "links": [
+    {
+      "url": "/journal/12633",
+      "text": "Silicon"
+    },
+    {
+      "url": "https://link.springer.com/journal/12633/aims-and-scope",
+      "text": "Aims and scope"
+    },
+    {
+      "url": "https://submission.nature.com/new-submission/12633/3",
+      "text": "Submit manuscript"
+    },
+    {
+      "url": "//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12633-025-03253-3",
+      "text": "log in via an institution"
+    },
+    {
+      "url": "//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12633-025-03253-3",
+      "text": "Log in via an institution"
+    },
+    {
+      "url": "https://link.springer.com/product/springer-plus",
+      "text": "Subscribe now"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/licensing/agc/journals",
+      "text": "Institutional subscriptions"
+    },
+    {
+      "url": "https://link.springer.com/10.1007/s12633-024-03044-2?fromPaywallRec=true",
+      "text": "Influence of Thermal Conductivity and Emissivity of Heat Shield Surface Material on the Thermal Field of Czochralski Silicon\u00a0Crystal Growth"
+    },
+    {
+      "url": "https://link.springer.com/10.1007/s12633-023-02778-9?fromPaywallRec=true",
+      "text": "The Effect of Physical Property Parameters of the Insulation Material Inside the Heat Shield on the Growth of Czochralski Silicon Crystal"
+    },
+    {
+      "url": "https://link.springer.com/10.1007/s12633-024-02934-9?fromPaywallRec=true",
+      "text": "Numerical Investigation of Argon Gas Flow Patterns and Their Effects on Mc-Si Ingot Growth Process: Solar Cell Applications"
+    },
+    {
+      "url": "/subject/environmental-chemistry",
+      "text": "Environmental Chemistry"
+    },
+    {
+      "url": "/subject/polymers",
+      "text": "Polymers"
+    },
+    {
+      "url": "/articles/cas-redirect/1:CAS:528:DC%2BB3sXis1CltLfK",
+      "text": "CAS"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Effect%20of%20Heat%20Shield%20Structure%20on%20the%20Distribution%20of%20Oxygen%20Content%20in%20200%20mm%20Semiconductor-Grade%20Czochralski%20Monocrystalline%20Silicon&journal=J%20Cryst%20Growth.&volume=52&pages=1110-1119&publication_year=2023&author=Rui%2CY&author=Wang%2CZ&author=Sheng%2CW",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.3901/CJME.2014.03.504",
+      "text": "https://doi.org/10.3901/CJME.2014.03.504"
+    },
+    {
+      "url": "https://doi.org/10.3901%2FCJME.2014.03.504",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Impact%20of%20heat%20shield%20structure%20in%20the%20growth%20process%20of%20Czochralski%20silicon%20derived%20from%20numerical%20simulation&journal=Chin%20J%20Mech%20Eng&doi=10.3901%2FCJME.2014.03.504&publication_year=2014&author=Zhang%2CJ&author=Liu%2CD&author=Zhao%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.3390/pr8091077",
+      "text": "https://doi.org/10.3390/pr8091077"
+    },
+    {
+      "url": "https://doi.org/10.3390%2Fpr8091077",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Optimal%20cooling%20system%20design%20for%20increasing%20the%20crystal%20growth%20rate%20of%20single-crystal%20silicon%20ingots%20in%20the%20Czochralski%20process%20using%20the%20crystal%20growth%20simulation&journal=Processes&doi=10.3390%2Fpr8091077&publication_year=2020&author=Jeon%2CHJ&author=Park%2CH&author=Koyyada%2CG",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1007/s12598-012-0545-0",
+      "text": "https://doi.org/10.1007/s12598-012-0545-0"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1007/s12598-012-0545-0",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Optimization%20of%20heat%20shield%20for%20single%20silicon%20crystal%20growth%20by%20using%20numerical%20simulation&journal=Rare%20Met&doi=10.1007%2Fs12598-012-0545-0&publication_year=2012&author=Teng%2CR&author=Zhou%2CQ&author=Dai%2CX",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2011.04.020",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2011.04.020"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2011.04.020",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Oxygen%20content%20increasing%20mechanism%20in%20Czochralski%20%28CZ%29%20silicon%20crystals%20doped%20with%20heavy%20antimony%20under%20a%20double-typed%20heat%20shield&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2011.04.020&publication_year=2011&author=Song%2CDW&author=Lee%2CSH&author=Hee%20Mun%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1007/s12633-023-02778-9",
+      "text": "https://doi.org/10.1007/s12633-023-02778-9"
+    },
+    {
+      "url": "https://link.springer.com/doi/10.1007/s12633-023-02778-9",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=The%20effect%20of%20physical%20property%20parameters%20of%20the%20insulation%20material%20inside%20the%20heat%20shield%20on%20the%20growth%20of%20Czochralski%20silicon%20crystal&journal=Silicon&doi=10.1007%2Fs12633-023-02778-9&publication_year=2024&author=Hu%2CR&author=Lv%2CX&author=Li%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2023.127178",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2023.127178"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2023.127178",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Application%20of%20computer%20modeling%20to%20pulling%20rate%20and%20productivity%20of%20Czochralski%20pullers%20in%20PV%20Si%20crystal%20growth&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2023.127178&publication_year=2023&author=Li%2CZ&author=Smirnov%2CA",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2023.127139",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2023.127139"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2023.127139",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Effect%20of%20water-cooled%20jacket%20on%20the%20oxygen%20transport%20during%20the%20Czochralski%20silicon%20crystal%20growth%20process&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2023.127139&publication_year=2023&author=Qi%2CX&author=Wang%2CJ&author=Wen%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2023.127170",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2023.127170"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2023.127170",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Czochralski%20%28CZ%29%20process%20modification%20with%20cooling%20tube%20in%20the%20response%20to%20market%20Global%20silicon%20shortage&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2023.127170&publication_year=2023&author=Dezfoli%2CARA",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2016.10.041",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2016.10.041"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2016.10.041",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Control%20of%20heat%20transfer%20in%20continuous-feeding%20Czochralski-silicon%20crystal%20growth%20with%20a%20water-cooled%20jacket&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2016.10.041&publication_year=2017&author=Zhao%2CW&author=Liu%2CL",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.3390/cryst11030264",
+      "text": "https://doi.org/10.3390/cryst11030264"
+    },
+    {
+      "url": "https://doi.org/10.3390%2Fcryst11030264",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Control%20of%20oxygen%20impurities%20in%20a%20continuous-feeding%20Czochralski-silicon%20crystal%20growth%20by%20the%20double-crucible%20method&journal=Crystals&doi=10.3390%2Fcryst11030264&publication_year=2021&author=Zhao%2CW&author=Li%2CJ&author=Liu%2CL",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2022.126722",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2022.126722"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2022.126722",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Melt%20convection%20and%20temperature%20distribution%20in%20300%20mm%20Czochralski%20crystal%20growth%20with%20transverse%20magnetic%20field&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2022.126722&publication_year=2022&author=Chen%2CS&author=Liu%2CW&author=Li%2CM",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2023.127129",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2023.127129"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2023.127129",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Numerical%20study%20on%20the%20effects%20of%20inner%20crucible%20window%20heights%20on%20the%20growth%20of%20silicon%20in%20a%20continuous%20Czochralski%20process&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2023.127129&publication_year=2023&author=Su%2CW&author=Zhang%2CZ&author=Li%2CJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jcrysgro.2020.125828",
+      "text": "https://doi.org/10.1016/j.jcrysgro.2020.125828"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.jcrysgro.2020.125828",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Optimization%20of%20the%20melt%2Fcrystal%20interface%20shape%20and%20oxygen%20concentration%20during%20the%20Czochralski%20silicon%20crystal%20growth%20process%20using%20an%20artificial%20neural%20network%20and%20a%20genetic%20algorithm&journal=J%20Cryst%20Growth&doi=10.1016%2Fj.jcrysgro.2020.125828&publication_year=2020&author=Qi%2CX&author=Ma%2CW&author=Dang%2CY",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1039/d0ce01377c",
+      "text": "https://doi.org/10.1039/d0ce01377c"
+    },
+    {
+      "url": "https://doi.org/10.1039%2Fd0ce01377c",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Effect%20of%20crucible%20rotation%20on%20the%20temperature%20and%20oxygen%20distributions%20in%20Czochralski%20grown%20silicon%20for%20photovoltaic%20applications&journal=CrystEngComm&doi=10.1039%2Fd0ce01377c&publication_year=2021&author=Popescu%2CA&author=Bellmann%2CMP&author=Vizman%2CD",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.solmat.2011.06.044",
+      "text": "https://doi.org/10.1016/j.solmat.2011.06.044"
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.solmat.2011.06.044",
+      "text": "Article"
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Effect%20of%20oxygen%20precipitation%20on%20the%20performance%20of%20Czochralski%20silicon%20solar%20cells&journal=Sol%20Energy%20Mater%20Sol%20Cells&doi=10.1016%2Fj.solmat.2011.06.044&publication_year=2011&author=Chen%2CL&author=Yu%2CX&author=Chen%2CP",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://citation-needed.springer.com/v2/references/10.1007/s12633-025-03253-3?format=refman&flavour=references",
+      "text": "Download references"
+    },
+    {
+      "url": "/search?dc.creator=Wenjia%20Su",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wenjia%20Su",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Wenjia%20Su%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?dc.creator=Ruilin%20Guo",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ruilin%20Guo",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ruilin%20Guo%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?dc.creator=Jiaqi%20Li",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jiaqi%20Li",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jiaqi%20Li%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?dc.creator=Yanshuo%20Zhang",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yanshuo%20Zhang",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yanshuo%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "/search?dc.creator=Zhiqiang%20Zhang",
+      "text": "View author publications"
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhiqiang%20Zhang",
+      "text": "PubMed"
+    },
+    {
+      "url": "http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhiqiang%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "mailto:wjsu@ujs.edu.cn",
+      "text": "Wenjia Su"
+    },
+    {
+      "url": "https://s100.copyright.com/AppDispatchServlet?title=Numerical%20Study%20on%20Different%20Shapes%20of%20Heat%20Shields%20in%20Continuous%20Czochralski%20Silicon&author=Wenjia%20Su%20et%20al&contentID=10.1007%2Fs12633-025-03253-3&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Nature%20B.V.&publication=1876-990X&publicationDate=2025-02-28&publisherName=SpringerNature&orderBeanReset=true",
+      "text": "Reprints and permissions"
+    },
+    {
+      "url": "https://crossmark.crossref.org/dialog/?doi=10.1007/s12633-025-03253-3",
+      "text": ""
+    },
+    {
+      "url": "https://citation-needed.springer.com/v2/references/10.1007/s12633-025-03253-3?format=refman&flavour=citation",
+      "text": "Download citation"
+    },
+    {
+      "url": "/search?query=Continuous-feeding%20Czochralski%20method&facet-discipline=\"Chemistry\"",
+      "text": "Continuous-feeding Czochralski method"
+    },
+    {
+      "url": "/search?query=Semiconducting%20silicon&facet-discipline=\"Chemistry\"",
+      "text": "Semiconducting silicon"
+    },
+    {
+      "url": "/search?query=Heat%20transfer&facet-discipline=\"Chemistry\"",
+      "text": "Heat transfer"
+    },
+    {
+      "url": "/search?query=Fluid%20flow&facet-discipline=\"Chemistry\"",
+      "text": "Fluid flow"
+    },
+    {
+      "url": "/search?query=Computer%20simulation&facet-discipline=\"Chemistry\"",
+      "text": "Computer simulation"
+    },
+    {
+      "url": "//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12633-025-03253-3",
+      "text": "Log in via an institution"
+    },
+    {
+      "url": "https://link.springer.com/product/springer-plus",
+      "text": "Subscribe now"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/licensing/agc/journals",
+      "text": "Institutional subscriptions"
+    },
+    {
+      "url": "https://link.springer.com/journals/",
+      "text": "Find a journal"
+    },
+    {
+      "url": "https://www.springernature.com/gp/authors",
+      "text": "Publish with us"
+    },
+    {
+      "url": "https://link.springernature.com/home/",
+      "text": "Track your research"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://media.springernature.com/w72/springer-static/cover-hires/journal/12633?as=webp",
+      "alt": ""
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png",
+      "alt": ""
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png",
+      "alt": ""
+    },
+    {
+      "src": "https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png",
+      "alt": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgxIiB3aWR0aD0iNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJtMTcuMzUgMzUuNDUgMjEuMy0xNC4ydi0xNy4wM2gtMjEuMyIgZmlsbD0iIzk4OTg5OCIvPjxwYXRoIGQ9Im0zOC42NSAzNS40NS0yMS4zLTE0LjJ2LTE3LjAzaDIxLjMiIGZpbGw9IiM3NDc0NzQiLz48cGF0aCBkPSJtMjggLjVjLTEyLjk4IDAtMjMuNSAxMC41Mi0yMy41IDIzLjVzMTAuNTIgMjMuNSAyMy41IDIzLjUgMjMuNS0xMC41MiAyMy41LTIzLjVjMC02LjIzLTIuNDgtMTIuMjEtNi44OC0xNi42Mi00LjQxLTQuNC0xMC4zOS02Ljg4LTE2LjYyLTYuODh6bTAgNDEuMjVjLTkuOCAwLTE3Ljc1LTcuOTUtMTcuNzUtMTcuNzVzNy45NS0xNy43NSAxNy43NS0xNy43NSAxNy43NSA3Ljk1IDE3Ljc1IDE3Ljc1YzAgNC43MS0xLjg3IDkuMjItNS4yIDEyLjU1cy03Ljg0IDUuMi0xMi41NSA1LjJ6IiBmaWxsPSIjNTM1MzUzIi8+PHBhdGggZD0ibTQxIDM2Yy01LjgxIDYuMjMtMTUuMjMgNy40NS0yMi40MyAyLjktNy4yMS00LjU1LTEwLjE2LTEzLjU3LTcuMDMtMjEuNWwtNC45Mi0zLjExYy00Ljk1IDEwLjctMS4xOSAyMy40MiA4Ljc4IDI5LjcxIDkuOTcgNi4zIDIzLjA3IDQuMjIgMzAuNi00Ljg2eiIgZmlsbD0iIzljOWM5YyIvPjxwYXRoIGQ9Im0uMiA1OC40NWMwLS43NS4xMS0xLjQyLjMzLTIuMDFzLjUyLTEuMDkuOTEtMS41Yy4zOC0uNDEuODMtLjczIDEuMzQtLjk0LjUxLS4yMiAxLjA2LS4zMiAxLjY1LS4zMi41NiAwIDEuMDYuMTEgMS41MS4zNS40NC4yMy44MS41IDEuMS44MWwtLjkxIDEuMDFjLS4yNC0uMjQtLjQ5LS40Mi0uNzUtLjU2LS4yNy0uMTMtLjU4LS4yLS45My0uMi0uMzkgMC0uNzMuMDgtMS4wNS4yMy0uMzEuMTYtLjU4LjM3LS44MS42Ni0uMjMuMjgtLjQxLjYzLS41MyAxLjA0LS4xMy40MS0uMTkuODgtLjE5IDEuMzkgMCAxLjA0LjIzIDEuODYuNjggMi40Ni40NS41OSAxLjA2Ljg4IDEuODQuODguNDEgMCAuNzctLjA3IDEuMDctLjIzcy41OS0uMzkuODUtLjY4bC45MSAxYy0uMzguNDMtLjguNzYtMS4yOC45OS0uNDcuMjItMSAuMzQtMS41OC4zNC0uNTkgMC0xLjEzLS4xLTEuNjQtLjMxLS41LS4yLS45NC0uNTEtMS4zMS0uOTEtLjM4LS40LS42Ny0uOS0uODgtMS40OC0uMjItLjU5LS4zMy0xLjI2LS4zMy0yLjAyem04LjQtNS4zM2gxLjYxdjIuNTRsLS4wNSAxLjMzYy4yOS0uMjcuNjEtLjUxLjk2LS43MnMuNzYtLjMxIDEuMjQtLjMxYy43MyAwIDEuMjcuMjMgMS42MS43MS4zMy40Ny41IDEuMTQuNSAyLjAydjQuMzFoLTEuNjF2LTQuMWMwLS41Ny0uMDgtLjk3LS4yNS0xLjIxLS4xNy0uMjMtLjQ1LS4zNS0uODMtLjM1LS4zIDAtLjU2LjA4LS43OS4yMi0uMjMuMTUtLjQ5LjM2LS43OC42NHY0LjhoLTEuNjF6bTcuMzcgNi40NWMwLS41Ni4wOS0xLjA2LjI2LTEuNTEuMTgtLjQ1LjQyLS44My43MS0xLjE0LjI5LS4zLjYzLS41NCAxLjAxLS43MS4zOS0uMTcuNzgtLjI1IDEuMTgtLjI1LjQ3IDAgLjg4LjA4IDEuMjMuMjQuMzYuMTYuNjUuMzguODkuNjdzLjQyLjYzLjU0IDEuMDNjLjEyLjQxLjE4Ljg0LjE4IDEuMzIgMCAuMzItLjAyLjU3LS4wNy43NmgtNC4zNmMuMDcuNjIuMjkgMS4xLjY1IDEuNDQuMzYuMzMuODIuNSAxLjM4LjUuMjkgMCAuNTctLjA0LjgzLS4xM3MuNTEtLjIxLjc2LS4zN2wuNTUgMS4wMWMtLjMzLjIxLS42OS4zOS0xLjA5LjUzLS40MS4xNC0uODMuMjEtMS4yNi4yMS0uNDggMC0uOTItLjA4LTEuMzQtLjI1LS40MS0uMTYtLjc2LS40LTEuMDctLjctLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDQtLjI2LS45NS0uMjYtMS41MnptNC42LS42MmMwLS41NS0uMTEtLjk4LS4zNC0xLjI4LS4yMy0uMzEtLjU4LS40Ny0xLjA2LS40Ny0uNDEgMC0uNzcuMTUtMS4wNy40NS0uMzEuMjktLjUuNzMtLjU4IDEuM3ptMi41LjYyYzAtLjU3LjA5LTEuMDguMjgtMS41My4xOC0uNDQuNDMtLjgyLjc1LTEuMTNzLjY5LS41NCAxLjEtLjcxYy40Mi0uMTYuODUtLjI0IDEuMzEtLjI0LjQ1IDAgLjg0LjA4IDEuMTcuMjNzLjYxLjM0Ljg1LjU3bC0uNzcgMS4wMmMtLjE5LS4xNi0uMzgtLjI4LS41Ni0uMzctLjE5LS4wOS0uMzktLjE0LS42MS0uMTQtLjU2IDAtMS4wMS4yMS0xLjM1LjYzLS4zNS40MS0uNTIuOTctLjUyIDEuNjcgMCAuNjkuMTcgMS4yNC41MSAxLjY2LjM0LjQxLjc4LjYyIDEuMzIuNjIuMjggMCAuNTQtLjA2Ljc4LS4xNy4yNC0uMTIuNDUtLjI2LjY0LS40MmwuNjcgMS4wM2MtLjMzLjI5LS42OS41MS0xLjA4LjY1LS4zOS4xNS0uNzguMjMtMS4xOC4yMy0uNDYgMC0uOS0uMDgtMS4zMS0uMjQtLjQtLjE2LS43NS0uMzktMS4wNS0uN3MtLjUzLS42OS0uNy0xLjEzYy0uMTctLjQ1LS4yNS0uOTYtLjI1LTEuNTN6bTYuOTEtNi40NWgxLjU4djYuMTdoLjA1bDIuNTQtMy4xNmgxLjc3bC0yLjM1IDIuOCAyLjU5IDQuMDdoLTEuNzVsLTEuNzctMi45OC0xLjA4IDEuMjN2MS43NWgtMS41OHptMTMuNjkgMS4yN2MtLjI1LS4xMS0uNS0uMTctLjc1LS4xNy0uNTggMC0uODcuMzktLjg3IDEuMTZ2Ljc1aDEuMzR2MS4yN2gtMS4zNHY1LjZoLTEuNjF2LTUuNmgtLjkydi0xLjJsLjkyLS4wN3YtLjcyYzAtLjM1LjA0LS42OC4xMy0uOTguMDgtLjMxLjIxLS41Ny40LS43OXMuNDItLjM5LjcxLS41MWMuMjgtLjEyLjYzLS4xOCAxLjA0LS4xOC4yNCAwIC40OC4wMi42OS4wNy4yMi4wNS40MS4xLjU3LjE3em0uNDggNS4xOGMwLS41Ny4wOS0xLjA4LjI3LTEuNTMuMTctLjQ0LjQxLS44Mi43Mi0xLjEzLjMtLjMxLjY1LS41NCAxLjA0LS43MS4zOS0uMTYuOC0uMjQgMS4yMy0uMjRzLjg0LjA4IDEuMjQuMjRjLjQuMTcuNzQuNCAxLjA0Ljcxcy41NC42OS43MiAxLjEzYy4xOS40NS4yOC45Ni4yOCAxLjUzcy0uMDkgMS4wOC0uMjggMS41M2MtLjE4LjQ0LS40Mi44Mi0uNzIgMS4xM3MtLjY0LjU0LTEuMDQuNy0uODEuMjQtMS4yNC4yNC0uODQtLjA4LTEuMjMtLjI0LS43NC0uMzktMS4wNC0uN2MtLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDUtLjI3LS45Ni0uMjctMS41M3ptMS42NSAwYzAgLjY5LjE0IDEuMjQuNDMgMS42Ni4yOC40MS42OC42MiAxLjE4LjYyLjUxIDAgLjktLjIxIDEuMTktLjYyLjI5LS40Mi40NC0uOTcuNDQtMS42NiAwLS43LS4xNS0xLjI2LS40NC0xLjY3LS4yOS0uNDItLjY4LS42My0xLjE5LS42My0uNSAwLS45LjIxLTEuMTguNjMtLjI5LjQxLS40My45Ny0uNDMgMS42N3ptNi40OC0zLjQ0aDEuMzNsLjEyIDEuMjFoLjA1Yy4yNC0uNDQuNTQtLjc5Ljg4LTEuMDIuMzUtLjI0LjctLjM2IDEuMDctLjM2LjMyIDAgLjU5LjA1Ljc4LjE0bC0uMjggMS40LS4zMy0uMDljLS4xMS0uMDEtLjIzLS4wMi0uMzgtLjAyLS4yNyAwLS41Ni4xLS44Ni4zMXMtLjU1LjU4LS43NyAxLjF2NC4yaC0xLjYxem0tNDcuODcgMTVoMS42MXY0LjFjMCAuNTcuMDguOTcuMjUgMS4yLjE3LjI0LjQ0LjM1LjgxLjM1LjMgMCAuNTctLjA3LjgtLjIyLjIyLS4xNS40Ny0uMzkuNzMtLjczdi00LjdoMS42MXY2Ljg3aC0xLjMybC0uMTItMS4wMWgtLjA0Yy0uMy4zNi0uNjMuNjQtLjk4Ljg2LS4zNS4yMS0uNzYuMzItMS4yNC4zMi0uNzMgMC0xLjI3LS4yNC0xLjYxLS43MS0uMzMtLjQ3LS41LTEuMTQtLjUtMi4wMnptOS40NiA3LjQzdjIuMTZoLTEuNjF2LTkuNTloMS4zM2wuMTIuNzJoLjA1Yy4yOS0uMjQuNjEtLjQ1Ljk3LS42My4zNS0uMTcuNzItLjI2IDEuMS0uMjYuNDMgMCAuODEuMDggMS4xNS4yNC4zMy4xNy42MS40Ljg0LjcxLjI0LjMxLjQxLjY4LjUzIDEuMTEuMTMuNDIuMTkuOTEuMTkgMS40NCAwIC41OS0uMDkgMS4xMS0uMjUgMS41Ny0uMTYuNDctLjM4Ljg1LS42NSAxLjE2LS4yNy4zMi0uNTguNTYtLjk0LjczLS4zNS4xNi0uNzIuMjUtMS4xLjI1LS4zIDAtLjYtLjA3LS45LS4ycy0uNTktLjMxLS44Ny0uNTZ6bTAtMi4zYy4yNi4yMi41LjM3LjczLjQ1LjI0LjA5LjQ2LjEzLjY2LjEzLjQ2IDAgLjg0LS4yIDEuMTUtLjYuMzEtLjM5LjQ2LS45OC40Ni0xLjc3IDAtLjY5LS4xMi0xLjIyLS4zNS0xLjYxLS4yMy0uMzgtLjYxLS41Ny0xLjEzLS41Ny0uNDkgMC0uOTkuMjYtMS41Mi43N3ptNS44Ny0xLjY5YzAtLjU2LjA4LTEuMDYuMjUtMS41MS4xNi0uNDUuMzctLjgzLjY1LTEuMTQuMjctLjMuNTgtLjU0LjkzLS43MXMuNzEtLjI1IDEuMDgtLjI1Yy4zOSAwIC43My4wNyAxIC4yLjI3LjE0LjU0LjMyLjgxLjU1bC0uMDYtMS4xdi0yLjQ5aDEuNjF2OS44OGgtMS4zM2wtLjExLS43NGgtLjA2Yy0uMjUuMjUtLjU0LjQ2LS44OC42NC0uMzMuMTgtLjY5LjI3LTEuMDYuMjctLjg3IDAtMS41Ni0uMzItMi4wNy0uOTVzLS43Ni0xLjUxLS43Ni0yLjY1em0xLjY3LS4wMWMwIC43NC4xMyAxLjMxLjQgMS43LjI2LjM4LjY1LjU4IDEuMTUuNTguNTEgMCAuOTktLjI2IDEuNDQtLjc3di0zLjIxYy0uMjQtLjIxLS40OC0uMzYtLjctLjQ1LS4yMy0uMDgtLjQ2LS4xMi0uNy0uMTItLjQ1IDAtLjgyLjE5LTEuMTMuNTktLjMxLjM5LS40Ni45NS0uNDYgMS42OHptNi4zNSAxLjU5YzAtLjczLjMyLTEuMy45Ny0xLjcxLjY0LS40IDEuNjctLjY4IDMuMDgtLjg0IDAtLjE3LS4wMi0uMzQtLjA3LS41MS0uMDUtLjE2LS4xMi0uMy0uMjItLjQzcy0uMjItLjIyLS4zOC0uM2MtLjE1LS4wNi0uMzQtLjEtLjU4LS4xLS4zNCAwLS42OC4wNy0xIC4ycy0uNjMuMjktLjkzLjQ3bC0uNTktMS4wOGMuMzktLjI0LjgxLS40NSAxLjI4LS42My40Ny0uMTcuOTktLjI2IDEuNTQtLjI2Ljg2IDAgMS41MS4yNSAxLjkzLjc2cy42MyAxLjI1LjYzIDIuMjF2NC4wN2gtMS4zMmwtLjEyLS43NmgtLjA1Yy0uMy4yNy0uNjMuNDgtLjk4LjY2cy0uNzMuMjctMS4xNC4yN2MtLjYxIDAtMS4xLS4xOS0xLjQ4LS41Ni0uMzgtLjM2LS41Ny0uODUtLjU3LTEuNDZ6bTEuNTctLjEyYzAgLjMuMDkuNTMuMjcuNjcuMTkuMTQuNDIuMjEuNzEuMjEuMjggMCAuNTQtLjA3Ljc3LS4ycy40OC0uMzEuNzMtLjU2di0xLjU0Yy0uNDcuMDYtLjg2LjEzLTEuMTguMjMtLjMxLjA5LS41Ny4xOS0uNzYuMzFzLS4zMy4yNS0uNDEuNGMtLjA5LjE1LS4xMy4zMS0uMTMuNDh6bTYuMjktMy42M2gtLjk4di0xLjJsMS4wNi0uMDcuMi0xLjg4aDEuMzR2MS44OGgxLjc1djEuMjdoLTEuNzV2My4yOGMwIC44LjMyIDEuMi45NyAxLjIuMTIgMCAuMjQtLjAxLjM3LS4wNC4xMi0uMDMuMjQtLjA3LjM0LS4xMWwuMjggMS4xOWMtLjE5LjA2LS40LjEyLS42NC4xNy0uMjMuMDUtLjQ5LjA4LS43Ni4wOC0uNCAwLS43NC0uMDYtMS4wMi0uMTgtLjI3LS4xMy0uNDktLjMtLjY3LS41Mi0uMTctLjIxLS4zLS40OC0uMzctLjc4LS4wOC0uMy0uMTItLjY0LS4xMi0xLjAxem00LjM2IDIuMTdjMC0uNTYuMDktMS4wNi4yNy0xLjUxcy40MS0uODMuNzEtMS4xNGMuMjktLjMuNjMtLjU0IDEuMDEtLjcxLjM5LS4xNy43OC0uMjUgMS4xOC0uMjUuNDcgMCAuODguMDggMS4yMy4yNC4zNi4xNi42NS4zOC44OS42N3MuNDIuNjMuNTQgMS4wM2MuMTIuNDEuMTguODQuMTggMS4zMiAwIC4zMi0uMDIuNTctLjA3Ljc2aC00LjM3Yy4wOC42Mi4yOSAxLjEuNjUgMS40NC4zNi4zMy44Mi41IDEuMzguNS4zIDAgLjU4LS4wNC44NC0uMTMuMjUtLjA5LjUxLS4yMS43Ni0uMzdsLjU0IDEuMDFjLS4zMi4yMS0uNjkuMzktMS4wOS41M3MtLjgyLjIxLTEuMjYuMjFjLS40NyAwLS45Mi0uMDgtMS4zMy0uMjUtLjQxLS4xNi0uNzctLjQtMS4wOC0uNy0uMy0uMzEtLjU0LS42OS0uNzItMS4xMy0uMTctLjQ0LS4yNi0uOTUtLjI2LTEuNTJ6bTQuNjEtLjYyYzAtLjU1LS4xMS0uOTgtLjM0LTEuMjgtLjIzLS4zMS0uNTgtLjQ3LTEuMDYtLjQ3LS40MSAwLS43Ny4xNS0xLjA4LjQ1LS4zMS4yOS0uNS43My0uNTcgMS4zem0zLjAxIDIuMjNjLjMxLjI0LjYxLjQzLjkyLjU3LjMuMTMuNjMuMi45OC4yLjM4IDAgLjY1LS4wOC44My0uMjNzLjI3LS4zNS4yNy0uNmMwLS4xNC0uMDUtLjI2LS4xMy0uMzctLjA4LS4xLS4yLS4yLS4zNC0uMjgtLjE0LS4wOS0uMjktLjE2LS40Ny0uMjNsLS41My0uMjJjLS4yMy0uMDktLjQ2LS4xOC0uNjktLjMtLjIzLS4xMS0uNDQtLjI0LS42Mi0uNHMtLjMzLS4zNS0uNDUtLjU1Yy0uMTItLjIxLS4xOC0uNDYtLjE4LS43NSAwLS42MS4yMy0xLjEuNjgtMS40OS40NC0uMzggMS4wNi0uNTcgMS44My0uNTcuNDggMCAuOTEuMDggMS4yOS4yNXMuNzEuMzYuOTkuNTdsLS43NC45OGMtLjI0LS4xNy0uNDktLjMyLS43My0uNDItLjI1LS4xMS0uNTEtLjE2LS43OC0uMTYtLjM1IDAtLjYuMDctLjc2LjIxLS4xNy4xNS0uMjUuMzMtLjI1LjU0IDAgLjE0LjA0LjI2LjEyLjM2cy4xOC4xOC4zMS4yNmMuMTQuMDcuMjkuMTQuNDYuMjFsLjU0LjE5Yy4yMy4wOS40Ny4xOC43LjI5cy40NC4yNC42NC40Yy4xOS4xNi4zNC4zNS40Ni41OC4xMS4yMy4xNy41LjE3LjgyIDAgLjMtLjA2LjU4LS4xNy44My0uMTIuMjYtLjI5LjQ4LS41MS42OC0uMjMuMTktLjUxLjM0LS44NC40NS0uMzQuMTEtLjcyLjE3LTEuMTUuMTctLjQ4IDAtLjk1LS4wOS0xLjQxLS4yNy0uNDYtLjE5LS44Ni0uNDEtMS4yLS42OHoiIGZpbGw9IiM1MzUzNTMiLz48L2c+PC9zdmc+",
+      "alt": "Check for updates. Verify currency and authenticity via CrossMark"
+    }
+  ]
+}

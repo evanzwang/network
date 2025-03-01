@@ -1,0 +1,215 @@
+  Star cookies banner
+  end cookies banner
+  UHF header
+                Microsoft
+                Dev Blogs
+                    [Home](https://devblogs.microsoft.com)
+                      Developer
+                          [Microsoft for Developers](https://devblogs.microsoft.com/blog)
+                          [Visual Studio](https://devblogs.microsoft.com/visualstudio/)
+                          [Visual Studio Code](https://devblogs.microsoft.com/vscode-blog)
+                          [Develop from the cloud](https://devblogs.microsoft.com/develop-from-the-cloud/)
+                          [All things Azure](https://devblogs.microsoft.com/all-things-azure/)
+                          [Xcode](https://devblogs.microsoft.com/xcode/)
+                          [DevOps](https://devblogs.microsoft.com/devops/)
+                          [Windows Developer](https://blogs.windows.com/windowsdeveloper/)
+                          [Developer support](https://devblogs.microsoft.com/premier-developer/)
+                          [ISE Developer](https://devblogs.microsoft.com/ise/)
+                          [Engineering@Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)
+                          [Azure SDK](https://devblogs.microsoft.com/azure-sdk/)
+                          [Command Line](https://devblogs.microsoft.com/commandline/)
+                          [Perf and Diagnostics](https://devblogs.microsoft.com/performance-diagnostics/)
+                          [React Native](https://devblogs.microsoft.com/react-native/)
+                      Technology
+                          [AutoGen](https://devblogs.microsoft.com/autogen/)
+                          [DirectX](https://devblogs.microsoft.com/directx/)
+                          [OpenAPI](https://devblogs.microsoft.com/openapi/)
+                          [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/)
+                          [SurfaceDuo](https://devblogs.microsoft.com/surface-duo/)
+                          [Windows AI Platform](https://devblogs.microsoft.com/windowsai/)
+                      Languages
+                          [C++](https://devblogs.microsoft.com/cppblog/)
+                          [C#](https://devblogs.microsoft.com/dotnet/category/csharp/)
+                          [F#](https://devblogs.microsoft.com/dotnet/category/fsharp/)
+                          [TypeScript](https://devblogs.microsoft.com/typescript/)
+                          [PowerShell Community](https://devblogs.microsoft.com/powershell-community/)
+                          [PowerShell Team](https://devblogs.microsoft.com/powershell/)
+                          [Python](https://devblogs.microsoft.com/python/)
+                          [JavaScript](https://devblogs.microsoft.com/visualstudio/tag/javascript/)
+                          [Java](https://devblogs.microsoft.com/java/)
+                          [Java Blog in Chinese](https://devblogs.microsoft.com/java-ch/)
+                          [Go](https://devblogs.microsoft.com/go/)
+                      .NET
+                          [All .NET posts](https://devblogs.microsoft.com/dotnet/ )
+                          [.NET Aspire](https://devblogs.microsoft.com/dotnet/category/dotnet-aspire/)
+                          [.NET MAUI](https://devblogs.microsoft.com/dotnet/category/maui/)
+                          [AI](https://devblogs.microsoft.com/dotnet/category/ai/)
+                          [ASP.NET Core](https://devblogs.microsoft.com/dotnet/category/aspnetcore/)
+                          [Blazor](https://devblogs.microsoft.com/dotnet/category/blazor/)
+                          [Entity Framework](https://devblogs.microsoft.com/dotnet/category/entity-framework/)
+                          [Servicing](https://devblogs.microsoft.com/dotnet/category/maintenance-and-updates/)
+                          [.NET Blog in Chinese](https://devblogs.microsoft.com/dotnet-ch/)
+                      Platform Development
+                          [#ifdef Windows](https://devblogs.microsoft.com/ifdef-windows/)
+                          [Azure Government](https://devblogs.microsoft.com/azuregov/)
+                          [Azure VM Runtime Team](https://devblogs.microsoft.com/azure-vm-runtime/)
+                          [Bing Dev Center](https://blogs.bing.com/Developers-Blog/)
+                          [Microsoft Edge Dev](http://blogs.windows.com/msedgedev/)
+                          [Microsoft Azure](http://azure.microsoft.com/blog/)
+                          [Microsoft 365 Developer](https://devblogs.microsoft.com/microsoft365dev/)
+                          [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/)
+                          [Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
+                          [Power Platform](https://devblogs.microsoft.com/powerplatform/)
+                          [Windows MIDI and Music dev](https://devblogs.microsoft.com/windows-music-dev/)
+                      Data Development
+                          [Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/)
+                          [Azure Data Studio](https://cloudblogs.microsoft.com/sqlserver/?product=azure-data-studio)
+                          [Azure SQL](https://devblogs.microsoft.com/azure-sql/)
+                          [OData](https://devblogs.microsoft.com/odata/)
+                          [Revolutions R](http://blog.revolutionanalytics.com/)
+                          [SQL Server Data Tools](https://devblogs.microsoft.com/ssdt/)
+                          [Unified Data Model (IDEAs)](https://devblogs.microsoft.com/udm/)
+                      More
+                    Search
+                        No results
+                  Cancel
+  / UHF header
+              [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/)
+              Aaron Yim
+        alert-banner-starts
+                Visual Studio Hub is here!
+                We’re excited to introduce a central place for all things Visual Studio
+                      Check it out
+        alert-banner-ends
+                author icon
+                author details
+                  author name
+                  author title
+                  Product Manager, AI Experiences
+                  author socials
+              author description
+                Aaron is a Product Manager on the Visual Studio IDE team, where he’s been working on AI assisted developer tools like GitHub Copilot Chat and IntelliCode. He’s pioneered interfaces that are now industry standard, such as the inline-diff view, copy-paste-update automation, and most recently, Agentic Coding through Copilot Edits
+              author topics
+                Author Topics
+                  [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/tag/visual-studio-2022/)
+                  [GitHub Copilot](https://devblogs.microsoft.com/visualstudio/tag/github-copilot/)
+                  [Copilot](https://devblogs.microsoft.com/visualstudio/tag/copilot/)
+                  [GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/tag/github-copilot-chat/)
+                  [#Githubcopilot](https://devblogs.microsoft.com/visualstudio/tag/githubcopilot/)
+                  [Conversational AI](https://devblogs.microsoft.com/visualstudio/tag/conversational-ai/)
+            .page-header
+                Posts by this author
+                      Jan 28, 2025
+                          4
+                      [Iterate across multiple files more efficiently with GitHub Copilot Edits](https://devblogs.microsoft.com/visualstudio/iterate-across-multiple-files-more-efficiently-with-github-copilot-edits-preview/)
+                    GitHub Copilot Edits in Visual Studio 2022 combines the conversational flow of chat and an inline review experience to help you iterate across your codebase with more control and efficiency.
+
+💡 Here’s how Copilot Edits helps with iterating across multiple files:
+
+ 	
+ 	
+ 	
+
+
+Available in Visual Studio 2022 17.13, released February 11th.
+
+...
+              #post-252165
+                      Jun 8, 2023
+                          0
+                          9
+                      [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions.](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
+                    TL:DR GitHub Copilot and Visual Studio’s built-in AI assistance features are now better together. With the latest version of GitHub Copilot, changing your selection in Visual Studio's IntelliSense list steers the GitHub Copilot with additional context about your code, so you can easily explore the single and multi-line code completions to get just ...
+              #post-243032
+                      Mar 20, 2023
+                          2
+                          3
+                      [Upgrading from IntelliCode custom team completions models to deep learning.](https://devblogs.microsoft.com/visualstudio/upgrading-from-intellicode-custom-team-completions-models-to-deep-learning/)
+                    TL;DR – A deep learning model will now help provide starred completions for custom methods in the IntelliSense list. All users of Visual Studio 2022 will receive this improvement automatically.
+With original IntelliCode, a custom trained model was previously useful for ranking custom methods in a user’s code.
+When IntelliCode first shipped in Vis...
+              #post-242131
+              End Loop
+              The pagination component
+        .row
+      #content
+    end .wrapper
+  end #main
+  Add a hidden dark theme button to trigger the toggle function
+      [Sign in](https://devblogs.microsoft.com/visualstudio/wp-login.php?redirect_to=https%3A%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fauthor%2Faayim%2F)
+      Theme
+  Model form for code insert
+          Code Block
+            ×
+              Paste your code snippet
+            Ok
+  Usabilla feedback button
+      Feedback
+  UHF footer
+                What's new
+                    [Surface Pro](https://www.microsoft.com/en-us/surface/devices/surface-pro-11th-edition)
+                    [Surface Laptop](https://www.microsoft.com/en-us/surface/devices/surface-laptop-7th-edition)
+                    [Surface Laptop Studio 2](https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz)
+                    [Surface Laptop Go 3](https://www.microsoft.com/en-us/d/Surface-Laptop-Go-3/8p0wwgj6c6l2)
+                    [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot)
+                    [AI in Windows](https://www.microsoft.com/en-us/windows/copilot-ai-features)
+                    [Explore Microsoft products](https://www.microsoft.com/en-us/microsoft-products-and-apps)
+                    [Windows 11 apps](https://www.microsoft.com/windows/windows-11-apps)
+                Microsoft Store
+                    [Account profile](https://account.microsoft.com/)
+                    [Download Center](https://www.microsoft.com/en-us/download)
+                    [Microsoft Store support](https://go.microsoft.com/fwlink/?linkid=2139749)
+                    [Returns](https://www.microsoft.com/en-us/store/b/returns)
+                    [Order tracking](https://www.microsoft.com/en-us/store/b/order-tracking)
+                    [Certified Refurbished](https://www.microsoft.com/en-us/store/b/certified-refurbished-products)
+                    [Microsoft Store Promise](https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020)
+                    [Flexible Payments](https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc)
+                Education
+                    [Microsoft in education](https://www.microsoft.com/en-us/education)
+                    [Devices for education](https://www.microsoft.com/en-us/education/devices/overview)
+                    [Microsoft Teams for Education](https://www.microsoft.com/en-us/education/products/teams)
+                    [Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/microsoft-365)
+                    [How to buy for your school](https://www.microsoft.com/education/how-to-buy)
+                    [Educator training and development](https://education.microsoft.com/)
+                    [Deals for students and parents](https://www.microsoft.com/en-us/store/b/education)
+                    [Azure for students](https://azure.microsoft.com/en-us/free/students/)
+                Business
+                    [Microsoft Cloud](https://www.microsoft.com/en-us/microsoft-cloud)
+                    [Microsoft Security](https://www.microsoft.com/en-us/security)
+                    [Dynamics 365](https://www.microsoft.com/en-us/dynamics-365)
+                    [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business)
+                    [Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform)
+                    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+                    [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work)
+                    [Small Business](https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore)
+                Developer & IT
+                    [Azure](https://azure.microsoft.com/en-us/)
+                    [Microsoft Developer](https://developer.microsoft.com/en-us/)
+                    [Documentation](https://learn.microsoft.com/docs/)
+                    [Microsoft Learn](https://learn.microsoft.com/)
+                    [Microsoft Tech Community](https://techcommunity.microsoft.com/)
+                    [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/)
+                    [AppSource](https://appsource.microsoft.com/en-us/)
+                Company
+                    [Careers](https://careers.microsoft.com/)
+                    [About Microsoft](https://www.microsoft.com/about)
+                    [Company news](https://news.microsoft.com/)
+                    [Privacy at Microsoft](https://privacy.microsoft.com/en-us)
+                    [Investors](https://www.microsoft.com/investor/default.aspx)
+                    [Diversity and inclusion](https://www.microsoft.com/en-us/diversity/)
+                    [Accessibility](https://www.microsoft.com/en-us/accessibility)
+                    [Sustainability](https://www.microsoft.com/en-us/sustainability/)
+                Your Privacy Choices Opt-Out Icon
+              Your Privacy Choices
+              Consumer Health Privacy
+                  [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx)
+                  [Contact Microsoft](https://support.microsoft.com/contactus)
+                  [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839)
+                  [Terms of use](https://go.microsoft.com/fwlink/?LinkID=206977)
+                  [Trademarks](https://go.microsoft.com/fwlink/?linkid=2196228)
+                  [Safety & eco](https://go.microsoft.com/fwlink/?linkid=2196227)
+                  [Recycling](https://www.microsoft.com/en-us/legal/compliance/recycling)
+                  [About our ads](https://choice.microsoft.com)
+                © Microsoft 2025
+  / UHF footer
+  UHF search functionality query parameter append for all pages excluding landing page

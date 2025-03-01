@@ -1,0 +1,282 @@
+                      [The Lab](https://css.seas.upenn.edu/about/lab/)
+                      [CSS Community](https://css.seas.upenn.edu/about/community/)
+                  [People](https://css.seas.upenn.edu/people/)
+                  [Research](https://css.seas.upenn.edu/research/)
+                      [PennMAP](https://css.seas.upenn.edu/project/penn-map/)
+                      [Integrative Experiments](https://css.seas.upenn.edu/project/virtual-lab/)
+                      [NOMAD](https://css.seas.upenn.edu/project/covid-philadelphia/)
+                      [Common Sense](https://css.seas.upenn.edu/project/common-sense/)
+                  [Partners](https://css.seas.upenn.edu/partnerships/)
+                  [Publications](https://css.seas.upenn.edu/publications/)
+                  [News](https://css.seas.upenn.edu/news/)
+                Select Page
+          #et-top-navigation
+        .container
+      #main-header
+                            The CSSLab Team
+                          ;
+                              [Duncan Watts](https://css.seas.upenn.edu/people/duncan-watts/)
+                              Director
+                              Staff
+                              [Regina (Jeanne) Ruane](https://css.seas.upenn.edu/people/regina-jeanne-ruane/)
+                              Managing Director
+                              [Eric Shapiro](https://css.seas.upenn.edu/people/eric-shapiro/)
+                            Research Operations Manager
+                              [Delphine Gardiner](https://css.seas.upenn.edu/delphine-gardiner/)
+                            Senior Communications Specialist
+                              [Yuxuan Zhang](https://css.seas.upenn.edu/yuxuan-zhang/)
+                            Data Scientist
+                              [Anushkaa Gupta](https://css.seas.upenn.edu/anushkaa-gupta/)
+                            Project Manager
+                            Caroline Rogers
+                            Partnerships Manager
+                              [Grace Jennings](https://css.seas.upenn.edu/6027-2/)
+                              Pre-Doctoral Researcher
+                              Researchers
+                                Jorge Barreras Cortes
+                              Post-Doctoral Researcher
+                                James Houghton
+                              [Amir Tohidi](https://css.seas.upenn.edu/amir-tohidi/)
+                              [Jenny Allen](https://jenny-allen.com)
+                              Affiliated Researchers
+                              [Abdullah Almaatouq](http://www.amaatouq.com/)
+                              Massachusetts Institute of Technology
+                              [Mohammed Alsobay](https://malsobay.com)
+                              [David M. Rothschild](https://researchdmr.com/)
+                              Economist
+                              Microsoft Research
+                              [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
+                            University of Pennsylvania CIS
+                              [Ajay Patel](https://ajayp.app)
+                              [Bryan Li](https://manestay.github.io)
+                              [Jenny Wang](https://jennywang.me)
+                              Pre-Doctoral Researcher Microsoft Research
+                              [David Rand](https://davidrand-cooperation.com)
+                              [Dean Knox](https://oid.wharton.upenn.edu/profile/dcknox/)
+                              University of Pennsylvania OID
+                              [Robert West](https://dlab.epfl.ch/people/west/)
+                            Swiss Federal Institute of Technology Lausanne
+                              [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io)
+                            Miguel Rivera-Lanas
+                              University of Pennsylvania
+                                Homa Hosseinmardi
+                              UCLA Department of Communication
+                                Amir Ghasemian
+                              Computational Social Science Researcher
+                            Mark Whiting
+                              Research Fellow
+                              PhD Students
+                              [Timothy Dorr](https://www.linkedin.com/in/timothy-dennys-doerr/)
+                            Ph.D. in Communications
+                              [Upasana Dutta](https://upasanadutta.owlstown.net/)
+                            Ph.D. in Computer and Information Science
+                                Linnea Gandhi
+                              Ph.D. in Operations, Information and Decisions
+                                Samar Haider
+                              Baird Howland
+                              [Xinlan (Emily) Hu](https://xinlanemilyhu.com/)
+                            Ph.D. in Operations, Information, and Decisions
+                              [Sam Wolken](https://www.linkedin.com/in/samwolken/)
+                            Ph.D. in Communication and Political Science
+                              [Bethany Hsiao](https://www.linkedin.com/in/bethany-hsiao)
+                              [Josh Nguyen](https://joshnguyen.net/)
+                              [Calvin Isch](https://www.linkedin.com/in/calvin-isch)
+                              [Neil Fasching](https://www.neilfasching.com)
+                              [Sikata Sengupta](https://psamathe50.github.io/sikatasengupta/)
+                              Masters Students
+                              [Anna Lamb](https://www.linkedin.com/in/anna-kate-lamb/)
+                            M.S. in Behavioral and Decision Sciences
+                              [Aravika Khosla](https://www.aravikakhosla.com)
+                              [Anoushka Kiyawat](https://www.linkedin.com/in/anoushka-kiyawat/)
+                              [Yang Huang](https://cn.linkedin.com/in/yang-huang-2a65321b1)
+                            M.S in Behavioral and Decision Sciences
+                            Ricky Wang
+                              [Ana Pimienta](https://www.linkedin.com/in/ana-pimienta)
+                              [Suzy Xu](http://linkedin.com/in/suzy-xinqi-xu-a727811b3)
+                            M.S. in Social Policy and Data Analytics
+                            Emily Duan
+                            M.C.I.T.
+                            Andrés Mondragón
+                            M.S. in Computer Science
+                              [Wenyu (Teresa) Liao](https://www.linkedin.com/in/wenyu-teresa-liao-b8a0b81b8/)
+                              [Omkar Joshi](https://www.linkedin.com/in/omkarjoshya/)
+                              [Selina Yang](https://www.linkedin.com/in/yue-selina-yang/)
+                              Undergraduate Students
+                              [Millie Gu](https://www.linkedin.com/in/millie-gu-60739224a)
+                            B.A. in Cognitive Science and Computer Science
+                              [Shruti Agarwal](https://www.linkedin.com/in/agshruti/)
+                            B.S.E. in Computer Science
+                              [Thomas Li](https://thomashli.com/)
+                            B.A. in Mathematical Economics and M.S.E. in Data Science
+                              [Evan Ping](https://www.linkedin.com/in/evanping/)
+                              [Mahika Calyanakoti](https://github.com/mahika-c)
+                            B.S.E. in Computer and Information Science
+                              [Amy Zheng](https://www.linkedin.com/in/amy-zheng-b20049274/)
+                            B.A. in Economics and Computer Science
+                              [Christa Dushime](https://www.linkedin.com/in/ange-christa-dushime/)
+                              [Angie Cao](https://github.com/acao22)
+                              [Dan Kim](https://www.linkedin.com/in/dankim44/)
+                            Pradnaya Pathak
+                            B.S. in Economics
+                              Our Alumni Community
+                              Core Research and Administrative Staff
+                                  Lab member
+                                  Role
+                                  Yashveer Singh Sohi
+                                    [Emma Arsekin](https://www.linkedin.com/in/emmaarsekin/)
+                                    [Tuti Gomoka](https://www.linkedin.com/in/tuti-m-931001124/)
+                                  Senior Research Coordinator
+                                    [Valery Yakubovich](https://drive.google.com/file/d/1icRZCzVkPtXpo5IXPeDTQWmUsZZa6Y2R/view?usp=sharing)
+                                  Executive Director
+                                  Yingquan Li
+                                  Research Data Engineer
+                            #tablepress-5 from cache
+                              Research Assistants
+                                    [Binbin Chen](https://www.seas.upenn.edu/~chenbb/)
+                                  Graduate Student (M.S.E. in Computer and Information Science)
+                                    [Micaela Kim](https://www.linkedin.com/in/micaela-kim-440062127/)
+                                  Graduate Student (M.S. in Behavioral and Decision Sciences)
+                                    [Yash Agrawal](https://www.linkedin.com/in/yashagrawal-5757/)
+                                  Graduate Student (M.S.E. in Data Science)
+                                    [Adil Shahid](https://www.linkedin.com/in/adil-shahid/)
+                                  Graduate Student (M.C.I.T.)
+                                    [Liancheng Gong](https://www.linkedin.com/in/liancheng-gong-ab2137173/)
+                                    [Yeon Lee](http://www.linkedin.com/in/lee-yeon-sl)
+                                  Undergraduate Student (B.A.S. in Computer Science and B.S. in Economics)
+                                    [Carol Tu](http://linkedin.com/in/caroltuu)
+                                  Undergraduate Student (B.S.E. in Computer Science)
+                                    [Bojun Feng](https://fengbojun.com/)
+                                  Undergraduate Student (B.S. in Computational and Applied Mathematics)
+                                    [Jean Park](https://www.linkedin.com/in/jean-park-profile/)
+                                  Undergraduate Student (B.A. in Communications)
+                                    [Cindy Su](https://www.linkedin.com/in/cindy-su-867a5817b/)
+                                  Undergraduate Student (B.S.E. in Computer and Information Science)
+                                    [Helena Zhou](https://www.linkedin.com/in/helena-zhou/)
+                                  Eda Orakci
+                                    [Anna Vazhaeparambil](https://www.linkedin.com/in/anna-vazhaeparambil-421744229/)
+                                  Undergraduate Student (B.S.E. in Computer Science and B.A. in Communications)
+                                    [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar-7ba604245)
+                                  Undergraduate Student (B.S.E in Networked and Social Systems Engineering)
+                                    [Maya Gambhir](https://www.linkedin.com/in/maya-gambhir)
+                                    [Alan Qiao](https://www.linkedin.com/in/alan-qiao)
+                                  Undergraduate Student (B.A.S. in Computer Science)
+                                    [Kaily Liu](https://www.linkedin.com/in/kaily-liu/)
+                                    [Karan Sampath](https://www.linkedin.com/in/karansampath/)
+                                  Undergraduate Student (B.S.E. in Networked and Social Systems Engineering)
+                                    [Jason Ren](https://www.linkedin.com/in/jason-ren-89855b203/)
+                                    [Bryan Yao](https://www.linkedin.com/in/bryao//)
+                                    [Norah Rami](https://www.linkedin.com/in/norah-rami-64815119b/)
+                                  Undergraduate Student (B.A. in Cognitive Science)
+                                  Jose (Hooverney) Castaño
+                                    [Kimberly Epstein](https://www.linkedin.com/in/kimberly-epstein-b92713220/)
+                                  Undergraduate Student (B.A. in Cognitive Science and Data Science)
+                                    [Mary Xu](https://www.linkedin.com/in/mxumary/?challengeId=AQEtjd_LSL9kpAAAAYs57B38mQhgu8FnvoFPSUP0SYvkxfpNpYfPU9iaz22vbZaluC9eJcUelCNxBGeYKgS23F-kiBD7wRuvFw&submissionId=feed6e04-93ac-8e17-6cff-834d47853815&challengeSource=AgE1Yg1JDn0C5wAAAYs57EeCIc1_7Y2YB3IRknX78HmdcZposU9MRxmR5EBWgUA&challegeType=AgEcGkDral8IVQAAAYs57EeGJZYacApEY4UNRSYPp4I9-FWgM1K-Ofw&memberId=AgGivwmNvta1egAAAYs57EeJD6PSoSnBYqo0uiUUBAxaKSc&recognizeDevice=AgFZDfGkQgKNKQAAAYs57EeNDLJDqk2uJiN2Cil7h8ARfvOZJItD)
+                                  Undergraduate Student (B.S. in Statistics and Data Science)
+                                    [Eric Huang](https://www.linkedin.com/in/jiahao-eric/)
+                                    [Priya DCosta](https://www.linkedin.com/in/priya-dcosta/)
+                                  Graduate Student (M.C.I.T. in Computer Science)
+                                  Anushka Bhansali
+                                    [Mia Shelton](https://www.linkedin.com/in/miashelton)
+                                  Michael Li
+                                  2022-2023
+                                    [Trisha Nagpal](https://www.linkedin.com/in/trisha-nagpal-bb9b02142/)
+                                    [Vartika Parasramka](https://www.linkedin.com/in/pvartika)
+                                    [Huifang Ye](https://www.linkedin.com/in/huifang-ye-386593199/)
+                                    [Henry Ge](https://www.linkedin.com/in/hg8/)
+                                  Undergraduate Student (B.A. in Computer Science)
+                                  Maya Jamdar
+                                  Undergraduate Student (B.A. in Economics and Political Science)
+                                    [Skylar Rearick](https://www.linkedin.com/in/skylarrearick/)
+                                    [Kaelin Suh](https://www.linkedin.com/in/kaelin-suh-a1b581169/)
+                                  Undergraduate Student (B.A. in Politics, Philosophy, and Economics)
+                                    [Kira Wang](https://www.linkedin.com/in/kirawang18)
+                                  Undergraduate Student (B.A. in Political Science and Communication)
+                                    [Yiwei (Ellen) Yan](https://www.linkedin.com/in/ellenyan2024/)
+                                  Undergraduate Student (B.A.S. in Computer Science, B.S. in OIDD)
+                                    [Yue (Flora) Chen](https://www.linkedin.com/in/florachen0014/)
+                                  Graduate Student (M.E. in Data Science)
+                                    [Yuluan Cao](https://www.linkedin.com/in/candice-cao-93a1b8190/)
+                                  Graduate Student (M.S. in Social Policy and Data Analytics)
+                                    [Karmanya Aggarwal](https://www.linkedin.com/in/calmdownkarm/)
+                                    [Chelsey Gonzalez](https://www.linkedin.com/in/chelsey-gonzalez/)
+                                  Graduate student (M.S. in Behavioral and Decision Sciences)
+                                    [Elina Konstantinidou](https://www.linkedin.com/in/elinakonst/)
+                                    [Jessie Janny Thenarianto](https://www.linkedin.com/in/jessiejannyt/)
+                                    [Joshua Kurniawan](https://www.linkedin.com/in/joshua-k1/)
+                                    [Parimal Mehta](https://www.linkedin.com/in/parimalrmehta/)
+                                  Graduate student (M.S.E. in Computer Science)
+                                    [Shloka Kumar](https://www.linkedin.com/in/shlokakumar/)
+                                  Graduate student (Masters in Public Policy)
+                                    [Shuchen (Zania) Zhang](https://www.linkedin.com/in/zania-zhang/)
+                                    [Isaac Gateno](https://www.linkedin.com/in/isaac-g-7995301b4)
+                                  Undergraduate student (B.A. in Political Science)
+                                    [Josh Ludan](https://www.linkedin.com/in/josh-ludan-a87043165/)
+                                  Undergraduate student (B.S.E. in Networked and Social Systems Engineering)
+                                    [Sina Shaikh](http://sinashaikh.com/)
+                                  Undergraduate student (B.S.E. in CIS and B.A in Political Science)
+                                    [Bharathrushab Manthripragada](https://www.linkedin.com/in/bharath-rushab-manthripragada-a1110718a)
+                                  Graduate student (M.S.E. in Systems Engineering)
+                                    [Grace Moon](https://www.linkedin.com/in/gymoon1/)
+                                    [Sarah Batta](https://www.linkedin.com/in/sarah-batta/)
+                                  Arina Paniukhina
+                                  Undergraduate student (B.A. in Cognitive Science)
+                                    [Becca Smith](https://www.linkedin.com/in/becca-smith-/)
+                                  Undergraduate student (B.A. in Philosophy and Computer Science)
+                                    [Leonardo Ferreira Guilhoto](https://www.linkedin.com/in/leonardo-guilhoto/)
+                                  Ph.D. student (Ph.D. in Applied Mathematics and Computational Science)
+                                    [Brooke Bernstein](https://www.linkedin.com/in/bernsteinbrooke/)
+                                  Graduate student (M.S. in Social Policy and Data Analytics)
+                                    [Keith Golden](https://www.linkedin.com/in/keith-golden-608509101/)
+                                  Graduate student (M.S.E. in Data Science)
+                                  Dodge Hill
+                                  Graduate student (M.S. in Data Science)
+                                    [Kailun Li](https://www.linkedin.com/in/kailun-li-4a4386185/)
+                                  Graduate student (M.E. in Computer Science)
+                                    [Bhairavi Muralidharan](https://bhairavi-m.github.io/)
+                                    [Tai Nguyen](https://taidnguyen.github.io/)
+                                  Graduate student (M.C.I.T. in Computer Science)
+                                    [Sumant Shringari](https://www.linkedin.com/in/sumantshringari/)
+                                    [Sarika Subramaniam](https://www.linkedin.com/in/sarikasubramaniam/)
+                                    [Joyce An-Jie Wang](https://www.linkedin.com/in/joyce-aj-w/)
+                                  Graduate student (M.C.I.T.)
+                                    [Vikram Balasubramanian](https://www.linkedin.com/in/vikram03/)
+                                  Undergraduate student (B.S. in Economics (Statistics), B.A. in Philosophy and Science)
+                                    [Vincent Cai](https://www.linkedin.com/in/caiv/)
+                                  Undergraduate student (B.S.E. in Computer Science)
+                                    [Vivienne Chen](https://drive.google.com/file/d/10Rt2oCy4YrUzOyfwRytN1GHUMcLW1p6b/view?usp=sharing)
+                                  Undergraduate student (B.A. in Communication)
+                                  Vivian Dinh
+                                  Undergraduate student (B.A. in Neuroscience)
+                                    [Daniel Xue](https://www.linkedin.com/in/daniel-l-xue/)
+                                  Andrew Cullen
+                                    [Zhangyi (David) Fan](https://www.fzy311.com/)
+                                    [Xiaonan Liu](https://www.linkedin.com/in/xiaonan-liu-00299b194/)
+                                    [Nathaniel Cunnan](https://www.linkedin.com/in/nathaniel-cunnan-955a07169/)
+                                  Undergraduate student (B.S.E. in Systems Engineering)
+                                    [Jess Mixon](https://www.linkedin.com/in/jess-mixon/)
+                                  Undergraduate student (B.A. in Economics)
+                            #tablepress-6 from cache
+                            #tablepress-2 from cache
+                                  Undergraduate student (B.A. in Cognitive Science and Computer Science)
+                                  Ph.D. student (Ph.D. in Computer and Information Science)
+                            #tablepress-3 from cache
+                      Navigate
+                                [About](https://css.seas.upenn.edu/about/)
+                      Contact
+                      Amy Gutmann Hall
+                      CSSLab@seas.upenn.edu
+                        [https://bsky.app/profile/csspenn.bsky.social](https://bsky.app/profile/csspenn.bsky.social)
+                        Follow
+                      Subscribe to our annual newsletter
+                          Success!
+                            Email
+                              Subscribe
+                        [Penn Homepage](https://www.upenn.edu/)
+                        |
+                        [Disclaimer](https://www.upenn.edu/about/disclaimer)
+                        [Emergency Services](https://www.publicsafety.upenn.edu/contact/)
+                        [Privacy Policy](https://www.upenn.edu/about/privacy-policy)
+                        [Report Accessibility Issues and Get Help](https://accessibility.web-resources.upenn.edu/get-help)
+                        [Report Copyright Infringement](https://www.upenn.edu/about/report-copyright-infringement)
+                          Interested in working at the CSSLab?
+                          [Click here regarding research assistant opportunities for Penn students](https://css.seas.upenn.edu/research-assistant-positions/)

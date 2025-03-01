@@ -1,0 +1,117 @@
+{
+  "title": "Jay Khemchandani's Personal Website",
+  "meta_description": "Welcome to Jay Khemchandani's personal website. Top Stanford Artificial Intelligence Student. AI and ML specialist.",
+  "main_content": "J A Y K H E M C H A N D A N I C S / A I @ S T A N F O R D U N I V E R S I T Y Lake Ch\u016bzenji, Japan A B O U T M E As an undergraduate student at Stanford University, I am driven by a passion for artificial intelligence and its transformative potential. At Stanford, I am deeply involved in both academic and extracurricular activities that allow me to explore and innovate within this exciting field. My journey has been marked by significant achievements, including winning the Grand Prize at TreeHacks 2024, Stanford's renowned hackathon. During this event, my team and I developed innovative technology solutions aimed at creating tangible benefits for people. My projects often focus on empathy and practical applications, striving to make a positive impact on society. In addition to my hackathon successes, I am a dedicated student researcher. My research experiences include working under Dr Bianchi at The Bianchi Lab at the Miller School of Medicine where I gained valuable insights and skills into cognitive disorders and brain lesions. I am committed to leveraging technology for positive change and look forward to continuing this journey of exploration and innovation. P R O J E C T S Baymax - TreeHacks 2024 Grand Prize Winner Baymax is a vision-powered robotic arm designed to assist individuals with physical impairments using advanced NLP and computer vision. View Project Mosaic - AI-Generated Wallpapers 1517 fund winner @ Stanford Startup Society. Mosaic creates personal wallpapers using AI based on your images' themes and colors. View Project Lucid - AI Design Tool for Commercial Projects Developed a full-stack AI design tool by finetuning the Flux AI model on target images and integrating advanced prompt engineering for a web-hosted commercial product. View Project S K I L L S C++ Python Fusion 360 Java MatLab HTML, CSS, and JavaScript Adobe Photoshop Adobe Illustrator CONTACT Email: jaykhem@stanford.edu Location: Palo Alto, CA \u00a9 2024 Jay Khemchandani. All rights reserved.",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/jay-khemchandani/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/Jaybear411",
+      "text": ""
+    },
+    {
+      "url": "https://x.com/jaykhem_",
+      "text": ""
+    },
+    {
+      "url": "https://devpost.com/software/baymax-your-personal-healthcare-companion",
+      "text": "View Project"
+    },
+    {
+      "url": "https://github.com/Jaybear411/Mosaic",
+      "text": "View Project"
+    },
+    {
+      "url": "https://github.com/Jaybear411/Lucid.git",
+      "text": "View Project"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jay-khemchandani/",
+      "text": ""
+    },
+    {
+      "url": "https://github.com/Jaybear411",
+      "text": ""
+    },
+    {
+      "url": "https://x.com/jaykhem_",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "Linkedin.webp",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "Github.png",
+      "alt": "GitHub"
+    },
+    {
+      "src": "Twitter.png",
+      "alt": "Twitter"
+    },
+    {
+      "src": "profile.webp?v=1.0.3",
+      "alt": "Profile Picture"
+    },
+    {
+      "src": "project1.webp?v=1.0.1",
+      "alt": "Baymax Project"
+    },
+    {
+      "src": "project2.webp",
+      "alt": "Mosaic Project"
+    },
+    {
+      "src": "project3.webp",
+      "alt": "AI Design Tool"
+    },
+    {
+      "src": "1.png?v=1.0.3",
+      "alt": "C++"
+    },
+    {
+      "src": "2.png?v=1.0.3",
+      "alt": "Python"
+    },
+    {
+      "src": "3.png?v=1.0.3",
+      "alt": "Fusion 360"
+    },
+    {
+      "src": "4.png?v=1.0.3",
+      "alt": "Java"
+    },
+    {
+      "src": "7.png?v=1.0.4",
+      "alt": "MatLab"
+    },
+    {
+      "src": "8.png?v=1.0.3",
+      "alt": "HTML, CSS, and JavaScript"
+    },
+    {
+      "src": "5.png?v=1.0.3",
+      "alt": "Adobe Photoshop"
+    },
+    {
+      "src": "6.png?v=1.0.3",
+      "alt": "Adobe Illustrator"
+    },
+    {
+      "src": "Linkedin.webp",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "Github.png",
+      "alt": "GitHub"
+    },
+    {
+      "src": "Twitter.png",
+      "alt": "Twitter"
+    }
+  ]
+}

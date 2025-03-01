@@ -1,0 +1,96 @@
+    PageHeadFmt
+      USC Programming Contest
+      PageSearchFmt
+      /PageSearchFmt
+    /PageHeadFmt
+    PageActionFmt
+    /PageActionFmt
+            PageTitleFmt
+            Fall 2024 USC Programming Contest
+            /PageTitleFmt
+            PageText
+              Problems
+              The problems are available as a
+                [PDF document](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fall2024.pdf)
+                . The table below contains sample solutions programmed by participants during the contest, as well as the input data and correct solutions used by the judges.
+                    Problem
+                    C/C++ solution
+                    Java/Python solution
+                    Judges' Python solution
+                    Input
+                    Correct Output
+                    A - Sign Restoration
+                      [Tracy Hu](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.tracy.cpp.txt)
+                      [Nathan Sparks](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.nathan.py.txt)
+                      [restoration.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.judge.py.txt)
+                      [restoration.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.in.txt)
+                      [restoration.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.restoration.out.txt)
+                    B - Sign Pranks
+                      [Vayun Mathur](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.vayun.cpp.txt)
+                      [Gianna Ysabel Besmonte](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.gianna.py.txt)
+                      [pranks.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.judge.py.txt)
+                      [pranks.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.in.txt)
+                      [pranks.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.pranks.out.txt)
+                    C - Perfect Photos
+                      [William Xiang](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.william.cpp.txt)
+                      [Spencer Tran](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.spencer.py.txt)
+                      [photos.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.judge.py.txt)
+                      [photos.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photos.in.txt)
+                      [photos.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.photors.out.txt)
+                    D - Access Control
+                      [Peiran Qiu](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.peiran.cpp.txt)
+                    no solution
+                      [access.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.judge.py.txt)
+                      [access.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.in.txt)
+                      [access.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.access.out.txt)
+                    E - Land Purchase
+                      [Shidong Zhang](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.shidong.cpp.txt)
+                      [purchase.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.judge.py.txt)
+                      [purchase.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.in.txt)
+                      [purchase.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.purchase.out.txt)
+                    F - 5-Mile Hike
+                      [Lian Fouse](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.lian.cpp.txt)
+                      [Vijay Kumaravelrajan](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.vijay.py.txt)
+                      [miles.py](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.judge.py.txt)
+                      [miles.in](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.in.txt)
+                      [miles.out](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.miles.out.txt)
+              Results
+              There were 22 participants. Out of these, 19 solved at least one problem, 18 solved at least two problems, 14 students solved at least 3 problems, 7 students solved at least 4 problems, 5 students solved at least 5 problems, and two students solved all six problems.
+                    Rank
+                    Name
+                    Problems solved
+                    cumulative time
+                    1
+                    Shidong Zhang (CSCI MS)
+                    6
+                    465
+                    2
+                    William Xiang (CSCI PhD)
+                    585
+                    3
+                    Yiming Gao (CSCI MS)
+                    5
+                    384
+                    4
+                    Peiran Qiu (CSCI Sophomore)
+                    519
+              The
+                [complete final standings](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=download&upname=fa24.summary.html)
+                are also available.
+                [Pictures from the award ceremony](https://photos.app.goo.gl/HcqPvTUqB36mGj379)
+                (taken by Nathan Sparks) are available for you to enjoy.
+              We would like to thank VSoE for making the labs available for the contest. David Kempe wrote the problem set. Changyu Zhu, Adhyyan Sekhsaria, and Chenghao Wang provided standard solutions and test cases. Changyu Zhu also worked as contest judge. Daniel Yip and Loc Vo created and installed the contest environment on the machines. Multiple volunteers from ACM and Isabel Fernandez from Viterbi IT helped with running the contest.
+        PageLeftFmt
+                  Overview
+                  Details
+                  Rules
+        /PageLeftFmt
+        PageRightFmt
+        /PageRightFmt
+    PageFootFmt
+          [About](https://contest.usc.edu/pmwiki.php/Main/About)
+          [Print](https://contest.usc.edu/pmwiki.php?action=print)
+          [Login](https://contest.usc.edu/pmwiki.php/Main/Fall24?action=login)
+      (contest.usc.edu)
+    /PageFootFmt
+  HTMLFooter

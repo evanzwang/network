@@ -1,0 +1,242 @@
+[
+  {
+    "fullName": "David Bai",
+    "linkedin_internal_id": "856039076",
+    "first_name": "David",
+    "last_name": "Bai",
+    "public_identifier": "david-bai",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGo5S4m9--2yA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1670384000084?e=2147483647&v=beta&t=Kb0zpokA9GZizAQdbKyDozEk_Nz-bdKPJgvaBn3wpAg",
+    "headline": "CECS @ USC Viterbi | USC Presidential Scholar",
+    "location": "582 followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Research Fellow",
+        "company_url": "https://www.linkedin.com/company/supervised-program-in-alignment-research?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQHCfaqFcgOPnw/company-logo_100_100/company-logo_100_100/0/1696537185325/supervised_program_in_alignment_research_logo?e=2147483647&v=beta&t=lLyxL7PGA4OmCnZbLzlwlHtAiunjoFmdAjYUdKQ9_vw",
+        "company_name": "Supervised Program for Alignment Research",
+        "location": null,
+        "summary": "currently investigating reasoning + AI agents from a capabilities and security perspective",
+        "starts_at": "Feb 2025",
+        "ends_at": "Present",
+        "duration": "2 months"
+      },
+      {
+        "position": "Research Assistant",
+        "company_url": "https://www.linkedin.com/school/usc-viterbi-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGLQ7K896s4aA/company-logo_100_100/company-logo_100_100/0/1631322941738?e=2147483647&v=beta&t=bm9LJoe2vvKEu8B1ZkbPefUa9MzPiHow5WGWb6rR9-U",
+        "company_name": "USC Viterbi School of Engineering",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "working on multi-agent robotic planning through the intersection of LLMs and symbolic planners as a CURVE Fellow @ GLAMOR Lab",
+        "starts_at": "Aug 2024",
+        "ends_at": "Present",
+        "duration": "8 months"
+      },
+      {
+        "position": "Project Member",
+        "company_url": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Center for AI in Society's Student Branch (CAIS++)",
+        "location": null,
+        "summary": "researching inference-time compute for machine translation",
+        "starts_at": "Jan 2025",
+        "ends_at": "Present",
+        "duration": "3 months"
+      },
+      {
+        "position": "Cohort Member",
+        "company_url": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Center for AI in Society's Student Branch (CAIS++)",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "learn fundamentals of machine learning and build projects including a multimodal hate speech detector, drug prescription network, and facial emotion recognition network",
+        "starts_at": "Aug 2024",
+        "ends_at": "Feb 2025",
+        "duration": "7 months"
+      },
+      {
+        "position": "Co-Founder",
+        "company_url": "https://www.linkedin.com/company/jargonlearn?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGFNGj7rQ7DFg/company-logo_100_100/company-logo_100_100/0/1712900762017/jargonlearn_logo?e=2147483647&v=beta&t=Ss1fb9H4Um9YGDDx2pdBakz0DnM5E6EFutP_gJEpzRc",
+        "company_name": "Jargon",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "building a language learning chrome extension > https://www.jargonlearn.com",
+        "starts_at": "Nov 2023",
+        "ends_at": "Present",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "Project Manager",
+        "company_url": "https://www.linkedin.com/company/makers-usc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Makers",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "building brain-controlled drones with electroencephalography",
+        "starts_at": "Aug 2024",
+        "ends_at": "Present",
+        "duration": "8 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/makers-usc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Makers",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "building an autonomous greenhouse with computer vision",
+        "starts_at": "Aug 2023",
+        "ends_at": "Aug 2024",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Machine Learning & Computer Vision Intern",
+        "company_url": "https://www.linkedin.com/company/rhomanaero?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGaJzU0n_gl2w/company-logo_100_100/company-logo_100_100/0/1665696001194/rhomanaero_logo?e=2147483647&v=beta&t=n0TJkhvx4cyAVa5KC2ddlTYJz2JaD2ZyLPfb1ElOWU4",
+        "company_name": "Rhoman Aerospace",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "enabling GPS-denied navigation through VIO, building simulation/SLAM pipelines",
+        "starts_at": "May 2024",
+        "ends_at": "Nov 2024",
+        "duration": "7 months"
+      },
+      {
+        "position": "Research Assistant",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Dynamic Robotics and Control Laboratory",
+        "location": "Los Angeles Metropolitan Area",
+        "summary": "augmenting model predictive control for legged robots with reinforcement learning",
+        "starts_at": "Jan 2024",
+        "ends_at": "Nov 2024",
+        "duration": "11 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Southern California",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_100_100/company-logo_100_100/0/1631312619853?e=2147483647&v=beta&t=uv2J12HEewxyizWMwIblg7CO1XROk-nsuuljqXSZdb0",
+        "college_degree": "Computer Engineering & Computer Science",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/valley-christian-junior-high-and-high-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Valley Christian Schools (San Jose)",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQH65NeW3Y9pZQ/company-logo_100_100/company-logo_100_100/0/1631347016586?e=2147483647&v=beta&t=OA42b8_BlTBPTKH42eBmnAYcxobDVOY0qO1670V1-5E",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Supervised Program for Alignment Research",
+      "description1_link": "https://www.linkedin.com/company/supervised-program-in-alignment-research?trk=public_profile_topcard-current-company",
+      "description2": "University of Southern California",
+      "description2_link": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/colegawin_datascience-nlp-hackathon-activity-7297785192532873217-BnJH",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHjpyHqsLBtVA/feedshare-shrink_800/B56ZUbw8xXGUAo-/0/1739927573836?e=2147483647&v=beta&t=YgXyQLLB5CPzJwwoXpdoQmdaP7-qf7O-GQgBiYA9FYA",
+        "title": "We built a tool to flag misinformation on Twitter in 36 hours at Stanford University's Treehacks 2025 \ud83d\ude80\n\nToday, misinformation spreads quicker than\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/emily-lan-ca_im-happy-to-share-that-i-will-be-joining-activity-7284685652271546368-fNLG",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH7G2VqQrHQdw/feedshare-shrink_1280/B56ZRhm__RG8A0-/0/1736804401527?e=2147483647&v=beta&t=AnIqHgkh9z2fOeNPHU-c4KdI30b41nKITn7FyQXVsE4",
+        "title": "I'm happy to share that I will be joining Cadence this summer as a WFO Application Engineer Intern! I'm super grateful for this opportunity and\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dewei-yuan_ces2025-activity-7283180756632313859-AK4K",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFoi92huJKGBg/feedshare-shrink_800/B56ZRMMyYfG8Ag-/0/1736445211760?e=2147483647&v=beta&t=R_eKouMWcPs6F9mflFrFjkY3KYTz3ppXLCqEW4mwXNw",
+        "title": "At IntBot, we create robots that are interactive, intuitive, and intelligent. \nWe're at CES showcasing a live robot demo! Come by and check us out at\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brennenho_makeithappenhere-activity-7274568550474727425-dwcp",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQG4tA6fPOzPeQ/feedshare-shrink_1280/B56ZPR1jQuGQAk-/0/1734392296877?e=2147483647&v=beta&t=-ySrKaSDNumwYbgbEh0tG-mh6yhoqEGQYH7w9Pjh97g",
+        "title": "It\u2019s official! I am so excited to share that I will be working in New York as a Software Engineering Intern at Bloomberg this summer. I am extremely\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ted-le_research-undergrad-mri-activity-7190204954609872896-zs3Q",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF2tidxtTEDIA/feedshare-shrink_800/feedshare-shrink_800/0/1714278446640?e=2147483647&v=beta&t=6LuQ7Y7fZK4jVak-uSRKxouCzkRrGBTWnPXTJhWnuDU",
+        "title": "Hey everyone! I'm glad to announce that this past Friday I've recently participated in my first research poster presentation with the Center for\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jargonlearn_we-really-appreciate-everyone-that-came-to-activity-7184581049564213248-9EUk",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFAaQqeiJoTnQ/feedshare-shrink_800/feedshare-shrink_800/0/1712900616802?e=2147483647&v=beta&t=fjvR0yVVcX2go3ErBBA0GAIWlbBmNaZMs7NWNN4dSbY",
+        "title": "We really appreciate everyone that came to visit our booth yesterday at TroyLabs'  DEMO 2024 event and stayed to hear our final pitch! We were so\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/advaitpaliwal_how-this-cover-letter-got-me-an-interview-activity-7183113028622581760-steg",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQH_j4IdsJo7Pg/feedshare-shrink_800/feedshare-shrink_800/0/1712587599595?e=2147483647&v=beta&t=GpqAizhdeoUIkuaX7BtokXz64HfLv__LGBxdR31g2vI",
+        "title": "How this cover letter got me an interview with OpenAI\n\nWith just 5 minutes to spare before the OpenAI Residency application deadline, I scrambled to\u2026",
+        "activity": "Liked by David Bai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/computervision-imageprocessing-activity-7165785110955442178-ubQj",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEP4AnlpPDpbA/feedshare-shrink_800/feedshare-shrink_800/0/1708456302962?e=2147483647&v=beta&t=VhFwy5OMxUoKRlLnEt3TT6FqVrIQlwrVHLMmNxO44CY",
+        "title": "One simple idea got accepted. The algorithm is super fast. Thanks to all the co-authors: Ciar\u00e1n Eising, Martin Glavin, Edward Jones. \n\nAn Efficient\u2026",
+        "activity": "Liked by David Bai"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/cheyenne-river-youth-project?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Volunteer / Course Developer",
+        "company_name": "CHEYENNE RIVER YOUTH PROJECT, INC.",
+        "company_duration": "",
+        "starts_at": "Aug 2021",
+        "ends_at": "Aug 2022"
+      },
+      {
+        "company_url": "https://www.linkedin.com/company/friends-of-children-with-special-needs?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Volunteer / Course Developer",
+        "company_name": "Friends of Children with Special Needs (FCSN)",
+        "company_duration": "",
+        "starts_at": "Jan 2022",
+        "ends_at": "Apr 2023"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/david-bai-a2baaa296?trk=public_profile_samename-profile",
+        "name": "David Bai",
+        "summary": "CE @ Northeastern",
+        "location": "Boston, MA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/david-bai-8785b2237?trk=public_profile_samename-profile",
+        "name": "David Bai",
+        "summary": "Sr Engineering Manager at Twilio",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/david-bai-6747b791?trk=public_profile_samename-profile",
+        "name": "David Bai",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/davidybai?trk=public_profile_samename-profile",
+        "name": "David Bai",
+        "summary": "Software Engineer | Lifelong Learner | Python | Java | Clojure | SaaS | Startups | AWS",
+        "location": "New York, NY"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

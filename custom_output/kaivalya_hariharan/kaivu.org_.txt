@@ -1,0 +1,24 @@
+  [if lt IE 9]><div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]
+              [Kaivu Hariharan](https://kaivu.org/)
+              [Research](https://kaivu.org/publications/)
+              [Teaching](https://kaivu.org/teaching/)
+              [CV](https://kaivu.org/files/resume_mid_oct_24.pdf)
+          Trying to build things I can be proud of. Want to make machines learn, safely
+          Follow
+          About me
+          Hi! I’m a final year undergraduate in courses 18 and 6-4 (Mathematics and AI) at MIT. I’ll be a masters student in the EECS department at MIT next year. I’m interested in building safer, more robust AI systems.
+          My Research
+          I’m interested in characterizing how ML systems behave, particularly in ‘edge cases’, such as on optimized or out-of-distribution inputs. I think this kind of understanding is particularly important for ensuring that models are safe and aligned.
+          I’m currently working on developing better measurements for understanding adversarial examples, particularly in the context of the Features not Bugs theory of adversarial examples, as well as statistical signatures of memorization. I’m also interested in developing better safety evaluations for ML models, though I’m yet to pursue this line of work.
+          In the past, I’ve worked on developing adversarial patches as debugging tools, and on mechanistic interpretability, both on toy models (Transformers trained on finite automata) and on LLMs (understanding competing objectives in Llama models).
+      start custom footer snippets
+      [Sitemap](/sitemap/)
+      end custom footer snippets
+            Follow:
+      © 2024 Kaivu Hariharan. Powered by
+        [Jekyll](http://jekyllrb.com)
+        &
+        [AcademicPages](https://github.com/academicpages/academicpages.github.io)
+        , a fork of
+        [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
+        .

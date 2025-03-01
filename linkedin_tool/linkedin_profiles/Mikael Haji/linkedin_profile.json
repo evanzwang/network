@@ -1,0 +1,251 @@
+[
+  {
+    "fullName": "Mikael Haji",
+    "linkedin_internal_id": "837307334",
+    "first_name": "Mikael",
+    "last_name": "Haji",
+    "public_identifier": "mikael-haji",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C4E16AQHb1vswV5ijog/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1630642350600?e=2147483647&v=beta&t=uuJW5xEjN5v_0wjeS7o2l6eBYWRj9vJtgSgh556sMt8",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C4E03AQGk0A7GaQeQ5Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1651066544962?e=2147483647&v=beta&t=yj-bKioCzwf048DTNb9iFp30XkjLp2qFvZhs9fSii3E",
+    "headline": "fabbing chips @waterloofab | mikaelhaji.com",
+    "location": "2K followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Team Lead",
+        "company_url": "https://ca.linkedin.com/company/waterloo-hacker-fab?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGnG8F1BT6lRg/company-logo_100_100/company-logo_100_100/0/1726165182595?e=2147483647&v=beta&t=1S55SMF9zyn1uCv1A3zyR_sgobPxynYK7y5xn3_muEc",
+        "company_name": "Waterloo Hacker Fab",
+        "location": "Waterloo, Ontario, Canada",
+        "summary": "building a 10\u00b5m open-source diy chip fab in waterloo.",
+        "starts_at": "May 2024",
+        "ends_at": "Present",
+        "duration": "11 months"
+      },
+      {
+        "position": "R&D Intern, Ultrasound",
+        "company_url": "https://www.linkedin.com/company/propheticai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQE6wzy3diPrLg/company-logo_100_100/company-logo_100_100/0/1729908529902?e=2147483647&v=beta&t=Jj-qh9tfaBgDpKV9DB3cl7hyperKtXnQBpmqVXuYNqs",
+        "company_name": "Prophetic",
+        "location": "New York, New York, United States",
+        "summary": "built entire transcranial focused ultrasound infrastructure.(ie. ultrasound simulation sw stack, deployed adv optimization techniques like grad descent & pseudoinverse for better acoustic precision, built $80k hydrophone for <$2k, accelerated transducer protoyping)",
+        "starts_at": "Jan 2024",
+        "ends_at": "May 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Deep Learning & Hardware Research Intern",
+        "company_url": "https://ca.linkedin.com/school/university-of-toronto/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_100_100/company-logo_100_100/0/1639421285702/university_of_toronto_logo?e=2147483647&v=beta&t=cQszsICrRJyKR9NBsim0R-MIobY1gIXbODdD2JOgobY",
+        "company_name": "University of Toronto",
+        "location": "Toronto, Ontario, Canada",
+        "summary": "worked on the digital back-end of a novel neuromorphic chip design, integrating spiking neural networks for advanced neural implants w. intelligent sensory microsystems lab @ uoft.paper is ieee isscc pending.",
+        "starts_at": "Jun 2023",
+        "ends_at": "Sep 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Core Member",
+        "company_url": "https://ca.linkedin.com/company/watolink?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHSvCeVTxRhSw/company-logo_100_100/company-logo_100_100/0/1630650317066?e=2147483647&v=beta&t=GFHbHGRj8poh7P7t0jMrIpzXucj_Wv3u6BVZrFjI-EI",
+        "company_name": "WATOLINK",
+        "location": "Waterloo, Ontario, Canada",
+        "summary": "joined at 15 & worked as system integration eng.helped build a mind-controlled speech interface using ssvep w. gpt-3 integration. team ended up winning first for neurotech x student competition.",
+        "starts_at": "Sep 2022",
+        "ends_at": "Mar 2023",
+        "duration": "7 months"
+      },
+      {
+        "position": "R&D Intern",
+        "company_url": "https://www.linkedin.com/company/blackrock-neurotech?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGwnWu91-SOUQ/company-logo_100_100/company-logo_100_100/0/1681407796386/blackrock_neurotech_logo?e=2147483647&v=beta&t=LC1l5FsnBzEQPNb29fEiX8d9c8x-qW282ZR5RTdP48o",
+        "company_name": "Blackrock Neurotech",
+        "location": "Salt Lake City, Utah, United States",
+        "summary": "hired as the youngest intern @ blackrock neuro in salt lake city, utah -- the inventors of the utah array.engineered custom circuitry enclosures, fabbed high-precision electrode arrays, etc.",
+        "starts_at": "Aug 2022",
+        "ends_at": "Sep 2022",
+        "duration": "2 months"
+      },
+      {
+        "position": "Speaker",
+        "company_url": "https://www.linkedin.com/company/various-boards?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQFEU28_d7gc6w/company-logo_100_100/company-logo_100_100/0/1631357179020/various_boards_logo?e=2147483647&v=beta&t=QiPN1ewgzCRwcNkQvyArjGG81ilpXCSx2X1PLfc8O7U",
+        "company_name": "Various Companies",
+        "location": null,
+        "summary": "flown down to dubai for the global citizen forum conf. - talked about my work in neurotech.",
+        "starts_at": "Sep 2020",
+        "ends_at": "Aug 2022",
+        "duration": "2 years"
+      },
+      {
+        "position": "Villars Fellow",
+        "company_url": "https://ch.linkedin.com/company/the-villars-institute?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGqFGN8HnooRA/company-logo_100_100/company-logo_100_100/0/1649752732141/the_villars_institute_logo?e=2147483647&v=beta&t=E_1Wtf7zC-EClsaVSafwnShUbOsP69MfW7em3Uxdfrs",
+        "company_name": "The Villars Institute",
+        "location": "Geneva, Geneva, Switzerland",
+        "summary": "flown down to geneva as villars fellow to participate in the inaugural villars symposium.",
+        "starts_at": "Mar 2022",
+        "ends_at": "May 2022",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://ca.linkedin.com/school/uwaterloo/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Waterloo",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQE6pj0rV9W9kg/company-logo_100_100/company-logo_100_100/0/1723748867263/uwaterloo_logo?e=2147483647&v=beta&t=FeBzmd9tAH_EkWTq3Z8OOb2TbbCjTS8YrpBdR2heBoc",
+        "college_degree": "Bachelor of Engineering - BE",
+        "college_degree_field": "Electrical Engineering",
+        "college_duration": "2023 - 2023",
+        "college_activity": "$120k schulich leaders scholarship"
+      },
+      {
+        "college_url": "https://ca.linkedin.com/school/bayviewss/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Bayview Secondary School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFtweKPR-3zdg/company-logo_100_100/company-logo_100_100/0/1630638518357/bayview_secondary_school_logo?e=2147483647&v=beta&t=0E3yAYCCp_62BCweFRk_sU4t7FKjBJhpvQIHdMqfjRM",
+        "college_degree": "High School Diploma",
+        "college_degree_field": "",
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Waterloo Hacker Fab",
+      "description1_link": "https://ca.linkedin.com/company/waterloo-hacker-fab?trk=public_profile_topcard-current-company",
+      "description2": "University of Waterloo",
+      "description2_link": "https://ca.linkedin.com/school/uwaterloo/?trk=public_profile_topcard-school",
+      "description3": "Personal Website",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=mikaelhaji%2Ecom&urlhash=hWqF&trk=public_profile_topcard-website"
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/matt-venn_asic-opensource-asic-activity-7280919828054355968-DrD8",
+        "title": "We now have some exclusive, limited edition, open source chips mounted in epoxy resin! Each chip is numbered and comes with a GDS render and details\u2026",
+        "activity": "Liked by Mikael Haji"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/rajansagarwal_were-turning-the-university-of-waterloo-activity-7275580155442466816-1Ij3",
+        "title": "We're turning the University of Waterloo into a supercomputer!\n\nArceus is a distributed compute network for training large Machine Learning models\u2026",
+        "activity": "Liked by Mikael Haji"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aarushsah_internship-got-cut-a-little-short-happy-activity-7235797421056745472-xm4o",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE7rzB63Mm4rA/feedshare-shrink_800/feedshare-shrink_800/0/1725148538095?e=2147483647&v=beta&t=vgyR5lyJAY0_P0NoxYz3XnnCiVT_rF5W5Xj9QAfLVsU",
+        "title": "Internship got cut a little short. Happy to share that I'm now full-time at Groq!\n\nHuge thanks to Gavin Sherry, Jonathan Ross, Jon Tait, Sunny Madra,\u2026",
+        "activity": "Liked by Mikael Haji"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/faculty-of-math_we-are-proud-to-share-that-out-of-371-activity-7234256867294593024-U6_N",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHw1oWukM1QxA/feedshare-shrink_800/feedshare-shrink_800/0/1724781242523?e=2147483647&v=beta&t=eAVBImoTfPd-_GDavL9ngGUjPUCXTodvYtqkO_JZbYU",
+        "title": "\ud83c\udf89 We are proud to share that, out of 371 projects, a team of our undergraduate students placed in the top 8 at University of California, Berkeley\u2019s\u2026",
+        "activity": "Liked by Mikael Haji"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/shanzeh-h-642b0a211_at-the-end-of-june-i-had-the-opportunity-activity-7224112844953305088-_Sj3",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQHeot6jUBdUuQ/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1722362558764?e=2147483647&v=beta&t=mfW01h8o5av0ozwq-E-Yrykf-KJ-kkpTgm8zGgjjfx0",
+        "title": "At the end of June, I had the opportunity to attend the The Villars Institute Symposium in Switzerland! The focus of the conference is to expose\u2026",
+        "activity": "Liked by Mikael Haji"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/eric-wollberg_awesome-card79-really-did-extraordinary-activity-7208928643840913408-QlrF",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Awesome - Card79 really did extraordinary work.",
+        "activity": "Liked by Mikael Haji"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/ivy-deng-025331166?trk=public_profile_browsemap-profile",
+        "name": "Ivy Deng",
+        "summary": "The Wharton school",
+        "location": "Philadelphia, PA"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/krish-chopra?trk=public_profile_browsemap-profile",
+        "name": "Krish Chopra",
+        "summary": "",
+        "location": "Toronto, ON"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/brianna-gopaul-b7a626150?trk=public_profile_browsemap-profile",
+        "name": "Brianna Gopaul",
+        "summary": "Incoming @ Zipline EE | Engineering Physics @ UBC | Emergent Ventures Fellow",
+        "location": "Canada"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/adam-jaffer?trk=public_profile_browsemap-profile",
+        "name": "Adam Jaffer",
+        "summary": "Commerce Student at Queen's University.",
+        "location": "Toronto, ON"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/divyansh-goyal2001?trk=public_profile_browsemap-profile",
+        "name": "Divyansh Goyal",
+        "summary": "Combined Software Engineering and Business Major @ UofC | Prev @ IBM and BMO",
+        "location": "Calgary, AB"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/francesca-bizzarri-1622471b2?trk=public_profile_browsemap-profile",
+        "name": "Francesca Bizzarri",
+        "summary": "Chemical Engineering Queen\u2019s University 2026",
+        "location": "Toronto, ON"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/daganhartmann?trk=public_profile_browsemap-profile",
+        "name": "Dagan Hartmann",
+        "summary": "B.Sc. in Computer Science at Carleton University",
+        "location": "Greater Ottawa Metropolitan Area"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/umadarbha?trk=public_profile_browsemap-profile",
+        "name": "Uma Darbha",
+        "summary": "Human and Molecular Biology @ UofT HBSc | TKS Alum",
+        "location": "Greater Toronto Area, Canada"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/k-haseeb?trk=public_profile_browsemap-profile",
+        "name": "haseeb K.",
+        "summary": "software engineer II @ replicon",
+        "location": "Calgary, AB"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/mikael-haji-baaba02b1?trk=public_profile_samename-profile",
+        "name": "Mikael Haji",
+        "summary": "--",
+        "location": "Brooklyn, NY"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "$120K Schulich Leaders Scholarship",
+        "organization": "Schulich Leader Scholarships",
+        "duration": "Sep 2023",
+        "summary": "Granted the $120K Schulich Leaders Scholarship at the Top 3 Engineering Schools in Canada - uWaterloo, UofT, UBC."
+      },
+      {
+        "name": "$250K Matching Trust Fund",
+        "organization": "Patrick Poirier @Dragon's Vault",
+        "duration": "Nov 2021",
+        "summary": "Granted a $250K matching trust fund to fuel my work in the Neurotech space."
+      },
+      {
+        "name": "Worley Parsons' Engineers of Tomorrow Award",
+        "organization": "Worley Parsons",
+        "duration": "Apr 2019",
+        "summary": "Built a novel Thermoelectric Generator using fluid technology. Granted the Worley Parsons Engineers of Tomorrow award."
+      }
+    ],
+    "score": []
+  }
+]

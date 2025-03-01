@@ -1,0 +1,193 @@
+{
+  "title": "Algorithmic Alignment Group | Researching frameworks for human-aligned AI @ MIT CSAIL.",
+  "meta_description": "Researching frameworks for human-aligned AI @ MIT CSAIL.",
+  "main_content": "Team Principal Investigator Dylan Hadfield-Menell , dhm[at]csail[dot]mit[dot]edu, Website Dylan is an assistant professor on the faculty of Artificial Intelligence and Decision-Making in the EECS Department and Computer Science and Artificial Intelligence Laboratory (CSAIL) at the Massachusetts Institute of Technology (MIT). His research focuses on the problem of agent alignment: the challenge of identifying behaviors that are consistent with the goals of another actor or group of actors. His work aims to identify algorithmic solutions to alignment problems that arise from groups of AI systems, principal-agent pairs (i.e., human-robot teams), and societal oversight of ML systems. Postdoctoral Researchers Rakshit S. Trivedi , rstrivedi[at]csail[dot]mit[dot]edu, Website Rakshit is a Postdoctoral Associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. Prior to that, he was a Postdoctoral Fellow in EconCS at Harvard School of Engineering and Applied Sciences (SEAS) working on multi-agent reinforcement learning and imitation learning for economic design. He obtained his PhD from Georgia Institute of Technology, focusing on machine learning for networked and multi-agent systems. He is broadly interested in the development of AI capable of learning from human experiences, can quickly adapt to evolving human needs, and achieve alignment with human values. Through the lens of multi-agent reinforcement learning, he is interested in studying the effectiveness of such AI in the presence of social, economic and cultural factors. Research Scientists A. Pinar Ozisik , pinaro[at]mit[dot]edu, Website Pinar is a research scientist, broadly interested in ensuring that algorithms and systems behave safely, correctly, and in line with their intended purpose in the real world. Before joining the team, Pinar was a visiting researcher in the MIT Media Lab with the Camera Culture group. She received her Ph.D. from the University of Massachusetts Amherst, where she focused on the analysis and application of concentration inequalities to preserve the desirable properties of systems. Ph.D Students Aruna Sankaranarayanan , arunas[at]mit[dot]edu, Linkedin Aruna is a PhD student interested in using interpretability methods to explain model and human behaviours. Her work utilizes causal interpretability methods to encourage model safety. Her past work has included understanding how humans interface with AI generated content, as well as audits of black box social media algorithms. She loves free and open source software, Tamil Bhakti poetry, and giant trees. Phillip Christoffersen , philljkc[at]mit[dot]edu, Website Phillip is broadly interested in reinforcement learning topics including AI alignment, neurosymbolic AI, and multi-agent RL. Before the Algorithmic Alignment Group, Phillip was an undergraduate researcher at the University of Toronto, advised by Prof. Sheila McIlraith. His main hobbies include reading, playing piano, and composing music. Rachel Ma , rachelm8[at]mit[dot]edu, Website Rachel is interested in decision-making for alignment to human preferences, collaborative teaming and interactions between humans and autonomous agents/systems for personalization while maintaining generalization. She works within a mix of NLP, vision, and robotics. Before her PhD, she double majored in Computer Science and Music at Brown University and did robotics+NLP research advised by George Konidaris and Stefanie Tellex. Her hobbies include playing piano, composing, watching movies, and spending time with friends. Stephen Casper , scasper[at]mit[dot]edu, Website Cas works on a lot of miscellaneous things, but most of his work focuses on red-teaming, robustness, and evaluations/audits. Before his Ph.D, he worked with the Harvard Kreiman Lab and the Center for Human-Compatible AI. Hobbies of his include biking, growing plants, and keeping insects. Stewart Slocum , sslocum3[at]mit[dot]edu, Website Stewart\u2019s research interests center on aligning AI systems \u2014 such as reinforcement learning systems and large language models \u2014 with human goals. He is also interested in the theoretical foundations of alignment and the intersection of machine learning and causality. Outside of work, he enjoys playing piano, backpacking, salsa dancing, and philosophy. Masters Students Adriano Hernandez , adrianoh[at]mit[dot]edu, LinkedIn As a large language model, Adriano is passionate about interpretability and the science of deep learning. His current work focuses on using insights from activation engineering to improve the robustness of language models such as himself to data poisoning attacks. Previously, he was first engineer at Meru, where he built retrieval augmented generation systems for document-based question-answering. Ariba Khan , akhan02[at]mit[dot]edu Ariba is a Master of Engineering (MEng) student who is researching cultural bias and cultural alignment of Large Language Models (LLMs). Her academic interests extend to AI fairness, model debiasing, and interpretability. In her free time, Ariba enjoys listening to music, visiting art museums, and reading historical fiction novels. Timothy Qian , tcqian[at]mit[dot]edu, LinkedIn Timothy is a Master of Engineering (MEng) student focused on red-teaming, robustness, and preference learning for language models. Before joining the Algorithmic Alignment Group, he conducted research in quantum information theory and proximal operators. Former Students Andreas Haupt , haupt[at]csail[dot]mit[dot]edu, Website Andy is a postdoctoral fellow at Stanford University's Institute for Human-Centered AI where he researches Artificial Intelligence and the economic impacts of its deployment. He completed his Ph.D. in Engineering-Economic Systems in 2024, and is the first Ph.D. student of the Algorithmic Alignment group. Deepika Raman , deepikar[at]mit[dot]edu, LinkedIn Deepika is a graduate student in MIT\u2019s Technology and Policy Program. Her research interests lie in the responsible and equitable design of emerging technologies and public digital goods. Currently, she is working on participatory approaches to AI across the development lifecycle and challenges with their governance. Previously, Deepika worked with the University of Chicago Trust, India - leading teams tackling data governance, digital transformation, and AI policy at the Ministry of Electronics and IT, Government of India. Dana Choi , choie[at]mit[dot]edu Dana is broadly interested in understanding how the human normative system works and what enables cooperation. Through reverse-engineering the mechanisms of human collective intelligence, she hopes to contribute to efforts in designing and facilitating desirable interactions in our society. She draws insights from economics, anthropology, cognitive science, reinforcement learning, and social computing. Hendrik Mayer , hmayer[at]mit[dot]edu Hendrik is a Master of Engineering (MEng) student working on theoretical alignment problems in reinforcement learning systems. Before joining the Algorithmic Alignment Group, he researched topics in algebraic complexity theory with Prof. Markus Bl\u00e4ser and worked in the Emergent Quantum Matter Group at MIT. His hobbies include playing soccer and hiking. Julian Manyika , jmanyika[at]mit[dot]edu, LinkedIn Julian is a Masters in Engineering (MEng) student working on alignment for Large Language Models. Julian\u2019s interests include reward-modeling on reasoning, evaluating language model understanding of human conversation and intent, and the possibility for AI research to help inform the way we think about morality. Prajna Soni , prajna[at]mit[dot]edu, LinkedIn Prajna is an S.M. student in the Technology and Policy Program and EECS. Her research interests are broadly in the evaluation of algorithmic systems, both from a technical and regulatory perspective, algorithmic fairness and tools which facilitate the development of safer and more trustworthy AI. Prior to MIT, Prajna graduated from NYU Abu Dhabi in 2020 and was awarded the Post-graduate Research Fellow at NYU Abu Dhabi where she investigated bias propagation in recommender systems. Taylor Lynn Curtis , tlcurtis[at]mit[dot]edu, LinkedIn Taylor Lynn is an S.M. candidate in technology and policy. Prior to her current degree, she obtained a bachelor of software engineering with a minor in political science from McGill University in Montr\u00e9al, Canada. Her research interests include the effectiveness of governance surrounding large, generative models, quantifying the societal impact of AI, and more generally the regulatory frameworks that function in the technology space. Timothy Kostolandky , timkosto[at]mit[dot]edu, Website Tim is a Master of Engineering student interested in improving the safety of AI systems, specifically through the lens of interpretability. Before his MEng, Tim double-majored in computer science and physics at MIT. Outside of work, Tim enjoys playing sports, reading, and meditating. Mehul Damani , mehul42[at]mit[dot]edu, Website Mehul\u2019s research broadly aims to improve multi-agent reinforcement learning systems using techniques and ideas from model-based RL, intrinsic motivation, curriculum learning, and reward design. Prior to joining MIT, he worked on developing general-purpose curriculum learning methods for reinforcement learning agents and on applying reinforcement learning to domains such as multi-agent pathfinding and multi-agent traffic signal control. His hobbies include reading and playing soccer. Olivia Siegel , osiegel[at]mit[dot]edu, LinkedIn Olivia is a masters student interested in AI and robotics who gets most excited seeing algorithms come to life on physical robots. Prior to joining the Algorithmic Alignment group, she did her undergraduate at MIT in EECS and worked on soft robots in the Distributed Robotics Lab. Like any good New Englander, her hobbies include shellfishing, cycling, and maple syrup making. Rui-Jie Yew , rjy[at]mit[dot]edu, Website Rui-Jie is an S.M. student in Technology and Policy. Her research interests are in the human-centered and legal aspects of computation, both in the design of regulation for emerging technologies as well as in the operationalization of legal values for technical systems. In 2021, she received a joint B.A. in computer science and mathematics from Scripps College as an off-campus student at Harvey Mudd College. Jovana Kondic , jkondic[at]mit[dot]edu, LinkedIn Jovana's interests lie broadly at the intersection of probabilistic inference, social cognition, and human-robot interaction. Her research focuses on building interactive AI agents that 1) effectively learn from human input, and 2) understand and act in accordance with human preferences, intentions, and values. Magdalena Price , maprice[at]mit[dot]edu Lena is a first-year M-Eng student whose research focuses on human-computer interfaces and machine learning. Her current project is focused on making effective data preparation scalable and inexpensive, in the hopes of mitigating biased model results commonly seen in big data predictions. Max Langenkamp , maxnz[at]mit[dot]]edu Max is researching AI governance. His current focus is on open source machine learning software and how it shapes AI research. He is especially inspired by the work of economist Elinor Ostrom and draws from fields ranging from the philosophy of science to the economics of innovation. Previously, he has researched computational cognitive science, worked at the White House Office of Science and Technology Policy, and published on AI policy at the Center for Security and Emerging Technology. He has a B.A. from MIT in computer science and loves bossa nova, Tibetan mythology and the history of technology.",
+  "links": [
+    {
+      "url": "http://people.csail.mit.edu/dhm/",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.rtrivedi.me/",
+      "text": "Website"
+    },
+    {
+      "url": "https://pinaro.github.io/",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.linkedin.com/in/arunasank/",
+      "text": "Linkedin"
+    },
+    {
+      "url": "http://people.csail.mit.edu/philljkc/",
+      "text": "Website"
+    },
+    {
+      "url": "https://rachelma80000.github.io/index.html",
+      "text": "Website"
+    },
+    {
+      "url": "https://stephencasper.com",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.stewyslocum.com/",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.linkedin.com/in/adriano-hernandez/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://linkedin.com/in/12tqian",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://www.andyhaupt.com/",
+      "text": "Website"
+    },
+    {
+      "url": "https://hai.stanford.edu/fellows",
+      "text": "Institute for Human-Centered AI"
+    },
+    {
+      "url": "https://www.linkedin.com/in/deepikaraman/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julianmanyika444/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.linkedin.com/in/prajnasoni/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.linkedin.com/in/taylor-lynn-curtis-650746142/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://tim0120.github.io/",
+      "text": "Website"
+    },
+    {
+      "url": "https://damanimehul.github.io/",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.linkedin.com/in/olivia-siegel/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://r-jy.github.io/",
+      "text": "Website"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jovanakondic/",
+      "text": "LinkedIn"
+    }
+  ],
+  "images": [
+    {
+      "src": "/docs/assets/dhm.png",
+      "alt": "Dylan Hadfield-Menell"
+    },
+    {
+      "src": "/docs/assets/rakshit_image.jpg",
+      "alt": "Rakshit S. Trivedi"
+    },
+    {
+      "src": "/docs/assets/pinar.png",
+      "alt": "A. Pinar Ozisik"
+    },
+    {
+      "src": "/docs/assets/aruna.png",
+      "alt": "Aruna Sankaranarayanan"
+    },
+    {
+      "src": "/docs/assets/pjkc.jpg",
+      "alt": "Phillip Christoffersen"
+    },
+    {
+      "src": "/docs/assets/rachelm8.jpeg",
+      "alt": "Rachel Ma"
+    },
+    {
+      "src": "/docs/assets/cas.png",
+      "alt": "Stephen Casper"
+    },
+    {
+      "src": "/docs/assets/stewy_2022.jpeg",
+      "alt": "Stewart Slocum"
+    },
+    {
+      "src": "/docs/assets/adriano.png",
+      "alt": "Adriano Hernandez"
+    },
+    {
+      "src": "/docs/assets/ariba.png",
+      "alt": "Ariba Khan"
+    },
+    {
+      "src": "/docs/assets/timmy.jpg",
+      "alt": "Timothy Qian"
+    },
+    {
+      "src": "/docs/assets/andreas2.png",
+      "alt": "Andreas Haupt"
+    },
+    {
+      "src": "/docs/assets/deepika.jpeg",
+      "alt": "Deepika Raman"
+    },
+    {
+      "src": "/docs/assets/eunseo.jpeg",
+      "alt": "Dana Choi"
+    },
+    {
+      "src": "/docs/assets/hendrik.png",
+      "alt": "Hendrik Mayer"
+    },
+    {
+      "src": "/docs/assets/julian.jpg",
+      "alt": "Julian Manyika"
+    },
+    {
+      "src": "/docs/assets/prajna.png",
+      "alt": "Prajna Soni"
+    },
+    {
+      "src": "/docs/assets/taylor.png",
+      "alt": "Taylor Curtis"
+    },
+    {
+      "src": "/docs/assets/tim.jpeg",
+      "alt": "Timothy Kostolansky"
+    },
+    {
+      "src": "/docs/assets/Mehul.jpeg",
+      "alt": "Mehul Damani"
+    },
+    {
+      "src": "/docs/assets/olivia.jpg",
+      "alt": "Olivia Siegel"
+    },
+    {
+      "src": "/docs/assets/rjy2.jpeg",
+      "alt": "Rui-Jie Yew"
+    },
+    {
+      "src": "/docs/assets/jovana.jpg",
+      "alt": "Jovana Kondic"
+    },
+    {
+      "src": "/docs/assets/lena.png",
+      "alt": "Magdalena Price"
+    },
+    {
+      "src": "/docs/assets/max.png",
+      "alt": "Max Langenkamp"
+    }
+  ]
+}

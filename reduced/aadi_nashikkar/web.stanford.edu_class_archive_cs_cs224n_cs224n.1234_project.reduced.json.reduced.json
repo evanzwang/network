@@ -1,0 +1,1305 @@
+{
+  "title": "Stanford CS 224N | Project Reports",
+  "meta_description": "",
+  "main_content": "CS224N: Natural Language Processing with Deep Learning Stanford / Winter 2023 Final poster session We thank our sponsors (Hudson River Trading, Forethought AI, Huggingface, ServiceNow, Jane Street, Mem, Apple) for co-sponsoring the poster session! The poster session was at the Oak Lounge at Tresidder Union. This event was not open to the general public, only to the Stanford community and invited guests. Click here for a guide on poster printing. The schedule of the event was: 4:30-5pm Session A Check-in 5:00-6:00pm Session A 6:00-6:30pm Break (Session B Check-in) 6:30-7:30pm Session B 7:30-8:00pm Break (Session C Check-in) 8:00pm-9:00pm Session C Prizes Congratulations to the following teams, who produced exceptional, prize-winning projects! Best custom projects GhostWriter: Dynamic Programming and Deep Learning for Lyric Generation . Niveditha Iyer, Tejas Narayanan, Kiran Bhat. Minimum Generative Pre-trained Transformer with Human Feedback . Yanjia Li. Nano Backpack Language Model on Chinese Characters . Hao Sun. Best default projects SerBERTus: A SMART Three-Headed BERT Ensemble . Matthew John Hayes. Walk Less and Only Down Smooth Valleys . Julian Edwin Lovett Cooper, Thomas Brink, Quinn Hollister. Pals for PALs: Exploring Extensions to Projected Attention Layers for Sentence-Level Tasks . Lainey Yifei Wang. TAs choice for best poster GhostWriter: Dynamic Programming and Deep Learning for Lyric Generation . Niveditha Iyer, Tejas Narayanan, Kiran Bhat. Sponsor's prize for best poster VoBERTal: Variant Objective BERT Pretraining Approaches with HyperLinks . Yangyi Shen, Joey Ji Student choice for best poster RAPTOR: Reading, Attending, and Processing Tree-Organized Retrieval for Knowledge-Intensive Tasks . Parth Sarthi, Aditi Tuli, Shubh Khanna. Custom Projects Project name Authors Optimizing Encoder for Retrieval via Multi-Vector Late Interaction Xin Ran Song Using Named Entity Recognition to Supplement The Ocean Cleanup\u2019s Global Beached Plastics Dataset Stephen J Peng, Mitty Yu, Joe Jamison Bert-Powered Book Genre Classification Jessica Xinting Chen, Karen Wang Dynamic Fed Attention Amar Venugopal Automated Basketball Video Captioning Lucas Andrew Pauker, Beri Kohen Behar Few-Shot Causal Distillation Thomas Starshak Data Generation for NLP Classification Dataset Augmentation: Using Existing LLMs to Improve Dataset Quality Elliot Kenneth Dauber, Sahit Dendekuri Automating English Language Proficiency Assessments Ethan Tejas Allavarpu, Spencer Teal Siegel, Duncan Ross Hate Speech Detection Using Natural Language Processing Durga Prasad Malladi, Neha Keshari, Utkarsh Mittal Statistically-augmented Neural Detection of Al-generated text Michael Jarek Yan, Jeffrey Heo, Simon Kim Using Knowledge Graph Embeddings from Biomedical Language Models to Infer Drug Repurposing Candidates for Rare Diseases Yash Sanjay Patil, John N Wang Compositional Generalization Based on Semantic Interpretation: Where can Neural Networks Improve? Carolyn Qu, Rodrigo J Nieto Performing and Analyzing Named Entity Recognition on Foreign English Contexts Alex Zhang Shan Generative Word Embeddings with New Similarity Techniques for Legal Linking Andres Felipe Suarez, Jared William Azevedo Guideline for GPT-2: Investigating Model Variants For Different Computational Budgets Ryan Kang Enlightened Imagery: Multi-modal Image Captioning with Transformer-Based unified architecture Prashan Malintha Somapala Adapting the Contrast-Consistent Search Method to Multiclass Classification Santiago Hernandez, Tomas Pfeffer, Diego Zancaneli Universal Tabular Data Generator with Large Language Models Julian Chu Language Modelling using Latent Diffusion Models Sebastian Charmot, Ryan Lok Him Po Knowing What You Do Not Know: Investigating Large Language Models for Out-of-Domain Intent Classification Claire Tang ASKIT: Search and Ask Model Adam C Klein, Matthew Jordan Villescas DeepLyrics: GPT2 for lyrics generation with finetuning and prompting techniques Xiaoli Yang, Li Tian Novel Data Augmentation for resource constrained Image captioning Parth Nilesh Dodhia, Anirudh Sriram SuperHF: Supervised Finetuning from Human Feedback Gabriel Mugisa Mukobi, Wilder Dwight Abraham Fulford, Peter Samuel Chatain Looking Under the Hood of DetectGPT Max Du, Kaien Yang, Ryan Lian AV-HuBERT with Multi-Resolution Attention Paul Thomas Calamia, Jacob Donley Multi-Modal Model for Speech to Text Entity Xiang Jiang Abstractive Summarization of Legal Text Corpuses Using Transfer Learning Alexander Antonio Alvarado-Barahona, Michael Zhang Haiku Generation with Large Language Models Brennan Emily Megregian, Victoria Larisa DiMelis Nano Backpack Language Model on Chinese Characters Hao Sun Legal-SBERT: Creating a Sentence Tranformer for the Legal Domain and Generating Data Jayendra Singh Chauhan Building a Natural Language Chess Engine with Pretraining and Instruction Fine-Tuning Bowen Jiang ConTAXt Retrieval for Long-Form Question-Answering Winston Shum, Usman Iqbal Hanif, Will Frank Roberts Enabling Interpretable Histopathology Representation Learning via Multimodal Language Guided Self-Supervision Ekin Yokhan Tiu, Tom Thuc Ky Nguyen Question Span Extraction from Chats of Instant Messaging Platforms Abhishek Kumar Paper Trading From Sentiment Analysis on Twitter and Reddit Posts Chinmaya Mohan Andukuri, Eden Y Wang, Shobha Dasari Generating Recipe Ingredients and Instructions with Controlled Text Generation Kerrie Wu, Justine Breuch, Ben Alexander Randoing Are Attention Flows All You Need? Tomas Mika Bosschieter Next-Song Recommendations for Spotify Playlists Using GPT-2 and T5 Janice Yeuhthong Teoh, Carrie Jiayi Chen Semantic Code Search Dinesh Rathinasamy Thangavel, Suhit Anand Pathak Multimodal Patient Evaluation for Depression and Anxiety Ally Nakamura, Roshan Swaroop Classifying Partisan Bias in News Articles: Leveraging an Understanding of Political Language and Article Structure Edoardo Yin, Emily Jin Al Can Look Up StackOverflow too: Retrieval-Augmented Code Generation Shreyas Vinayakumar, Minh Tue Vo Thanh, Swagata Ashwani Deep Learning Approach to Predicting Success of Medical Crowdfunding Campaigns Advait Avinash Patil Semantic Understanding of Genius Music Annotations Wesley Tjangnaka, Brent Ju, Andrew Victor Li Examining Misinformation via Search Directives Amy Dunphy, Michal Maciej Adamkiewicz Making the Most of Your Data: Few Shot Learning for Automated Essay Scoring Abel Philip John Ambiguity Resolution in Conversational Question Answering through Minimal Question Identification Sahil Kulkarni Looking Outside the Context Window: In-Context Learning with Up to Hundreds of Examples Varun Shenoy, Linden Sky Li Few-shot Classification of Disaster-related Tweets Jubayer Ibn Hamid, Jitendra Nath Pandey, Sheikh Rifayet Daiyan Srijon Are Distilled Models Just Deep-Sea Octopi? Probing Linguistic Representations of Distillation-Finetuned Models Christos Polzak, Joy Yun CodeSage: A Generative Approach to Improving Code Quality Shounak Ray, Michael Deb Nath, Joseph Tey RDF Triple-Text-Story: A Integrated Workflow for Controllable Short Story Generation Yuer Zhou, Yifu Han MetaMapper: Interpretable Metaphor Detection Yining Mao BERT Injections: Fine-Tuning BERT Using Tree-Based Word Representations to Address Syntactical Ambiguity Aakriti Lakshmanan, Sathvik Nallamalli, Aditya Srinivas Tadimeti Predicting Associated Comorbidities of Obesity from MIMIC 1V Clinical Notes Ana Delphin Selvaraj, Om Balkrishna Jahagirdar, Peyton Chen Rewriting Stack Overflow Questions to Improve Writing Quality Allison Sandoval Casasola, Maximilien Angelo Munz Cura Won\u2019t You Be My Neighbor? Probing Informational Spread in Contextual Representations of Natural Language Sevahn Kayaneh Vorperian, Hagop Jake Chinchinian, Avi Gupta GPTNo: A Deep Learning LLM to Beat the Turing Test Will Z Li, Sri Jaladi, Abhinav Sinha MetaMapper: Interpretable Metaphor Detection Ziwen Chen Improving Neural Machine Translation of Spanish to Quechua with Transfer Learning Kaiyu Ren Unpacking Social Biases: An Analysis of Sense Embeddings Using the Backpack Model Camron Timothy Sallade, Vedant Garg, Molly Cantillon Human Writing is as Uniform as Machine Writing Ryan Tan, Raghav Mittal Garg, Jacob Eleftherios Stavrianos GhostWriter: Dynamic Programming and Deep Learning for Lyric Generation Kiran Vincent Bhat, Niveditha Subramanyam Iyer, Tejas Narayanan Multimodal Transformer-Based Lyric Generation from MIDI and Text Data Vivek Vajipey, Steven Sun Zhao, Anthony Zhan Investigating Methods of Using Context to Augment pre-trained Language Models for Question Answering Sanjay Nagaraj, Rohan Reddy Davidi, Josh Sanyal Engagement-based response generation for open-domain dialogue Marcelo Pena, Ernesto Sung Woo Nam Song Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump Luke Joseph Mann, Ori Spector STaR-plus: building robust and efficient language model reasoners Kunal Sinha Prompting for Diverse Responses: Making Large Language Models More Truthful Eric YE, Matthew Joseph Kerr Smith Generating Tricky Multiple-Choice QA Pairs from Contexts using Hierarchical Conditional VAEs Davyn Christoper Sudirdjo Learning Word Embedding from Dictionary Definitions Madhurima Mahajan, Keertana Veeramony Chidambaram, Handi Zhao Contrastive Learning for Sentence Embeddings in BERT and its Smaller Variants Vrishab Krishna, Rohan Bansal GAN-BERT for Automated Essay Scoring Theodore Asa Kanell, Griffin Bryan Holt Investigating SoTA Entity-Linking Methods for Dialogue Isaac Dan Zhao, Arpit Arvind Ranasaria, Katherine Yang Yu Bidirectional Transformer with Phonetic Embedding Jiabin Wang Natural Language Generation with Pixels Rajan Pathe Vivek, Gautam Mittal Investigating Disfluency Generation for the Creation of Humanlike Utterances in Conversation Zuyi Liz Zhao, Alice Bai Zhang, Ayushi Gupta VoBERTal: Variant Objective BERT Pretraining Approaches with HyperLinks Yangyi Shen, Joey Ji Deep Q-Learning for Text Generation Felix Meng, Liwen Ouyang, Phee Nimitsurachat DialogDiffAE: Dialogue Generation with Diffusion-Equipped Auto-Encoder Fangzhao Zhang, Xiaohan Song Detoxifying Language Model with Context Distillation Andrew Hyungmin Lee Novel Genre-Based Story Summary Generation Alexis Catherine Echano, Minh Chau Mai Making the Most of Your Data: Few Shot Learning for Automated Essay Scoring Samarth Eshwar Kadaba ADRAGGAN: ADversarial training for RAtionale Generation: a GAN for moral dilemmas Poojan Pandya, Priya Khandelwal, Kavin Anand Reading Between the Lines: Measuring Andy Viet Huynh, David Haikuo Wang, Katherine Whitney Crandell Unsupervised Question Answering Using Custom NLP Library Built for Egyptian Arabic Ahmed Mostafa Sharaf, Michael Samouel Ghatas Souliman Interpretability and Controllability of Backpack LMs Tae Kyu Kim, Sarah Li Chen Activation Sparsity: An Insight into the Interpretability of Trained Transformers Carolyn Akua Asante Dartey, Jaime Eli Mizrachi Eshkenazi, Anushree Aggarwal Interpreting Transformers using Spectral Analysis Tulika Jha, Vishal Mohanty, Rishu Garg Improved Methods for Solving Diverse Winograd Schemas Max Atsunobu Vandervelden, Rohan Kumar Cherivirala PiGGyBacking off of PEGASUS: Pre-training with Gap-sentences for Government Bills Evelyn Hejin Choi, Karsen Lee Wahal, Alice Zhaoyi Chen Constructing a Transformer-Based Architecture for Explainable Conversational Recommendation Brock Grassy ED Radiology Report Label Extraction Serena Zhang, Jenny Shi, Iris Xia Filtering Out Unreliable Language Model Outputs Using Contrast-Consistent Search Michael Byun, Mauricio Baker MEDI-BERPT: A Novel Multitask Approach to Streamlining Chinese Healthcare Sunny Sun, Bi Tian Yuan Semantic-Augment: Augmenting the Semantic Space of Transformers Improves Generalization Emirhan Kurtulus Steering Natural Language Generation by Optimizing Vector-to-Cluster Distance Aniketh Nandakumar Iyengar, Vrushank Yatish Gunjur Adapting to Word Shifts: Teaching LLMs the Urban Dictionary Justin Wu, Sheryl Hsu Adaptation, Sensitivity, and Introspection: Investigating the Capabilities of LLMs as Hypernetworks Joseph Thomas Guman, Joey Coleman O'Brien, Christopher Lawrence Marcelino Pondoc Argue Better: Using Large Language Models to Generate Better Examples for Ineffective Persuasive Essay Arguments Anjali Ragupathi, Ashley Zhang DeepRhymes: Efficient End-to-end Conditional Rap Lyrics Generation Bessie Zhang, Catherine Kung, Ivan Villa-Renteria Applying Natural Language Processing in Answering Multiple-Choice Questions for Assessing Child/Youth and Adults Needs and Strengths (CANS\u00ae/ANSA) Kalikant Ganeshchandra Jha, Bohdan Metchko Junior Leveraging Patient Portal Messages to Predict Emergency Department Visits Jasmine Selin Bilir, Tran Le Leveraging Patient Portal Messages to Predict Emergency Department Visits Julia L Kadie Are GPT-3 Models Pragmatic Reasoners? Ariane Lee Contextual Counterspeech Generation Tanvi Misra Deshpande Automatic Speech Recognition Error Correction on ICU Clinical Narration Dataset Zhuoyi Huang, Han Bai, Adam Sun Summarizing Charts and Graphs with Context Nandita S Naik, Akankshita Dash Longformer-based Automated Writing Assessment for English Language Learners Peiqi Zhang How well can Hippos learn? A Novel Foray into the In-Context Learning Capabilities of H3 Shreyas Kar, Andres Carranza, Dhruv Bhandarkar Pai Multi Distribution Dense Information Retrieval Soumya Chatterjee Data Augmentation for Low-resourced Language Modeling Shubo Yang, Wanyue Zhai MOPS: Memory Occupancy and Performance Surveying when using Late-Stage Hard Parameter Sharing for BERT Multitask Learning Callum Jan Burgess, Mark Peter Bechthold Multi-Task Learning BERT Model with Task-Specific Decoders Zhen Li Exploring the Effect of Semantic Similarity on Model Generalization Dustin Ryan Zubke, Hong Ju Jeon Minimum Generative Pre-trained Transformer with Human Feedback Yanjia Li Calibrated Contrast-Consistent Search Holly McCann, Lucas Tao, Felipe Calero Forero More Informative Relative Position Encoding for Table-to-Text Generation Yuan Wang Efficient Two-stage Approach for Long Document Summarization Fengmin Tang, Jialuo Yuan, Benson Zu Predicting Emergency Department Disposition from Radiology Reports Karen Garcia Mesa, Andy Zhang Audio-Text Cross-Modal Retrieval Vladimir Tourbabin, Zamir Ben-Hur Bias in clinical notes Betty Xiong NEWS2DIAL: News to Dialogue Utterance Rishi Agarwal, Pratyush Agarwal, Ali Rehan Finetuning minBERT Model for Multiple Downstream Tasks Yuan Wang Today Years Old: Adapting Language Models to Word Shifts Jason Jin Chen, Zachary Xi, Olivia Y Lee Rationale Belief Aggregation for Self-Verified Reasoning Vaish Shrivastava Multi-Task Zero-shot modeling with test Domain Shift: an exploration of sampling and fine-tuning techniques on DistilGPT-2 and BIG-bench Lara Malinov Deep Auctions: Using Economics to Improve NMT Decoding Abhy Ravi Devalapura, Logan Mondal Bhamidipaty Does Learning Syntax Help Models Learn Language? Lian Wang TAKG: Importance-augmented Knowledge Graphs Josh Cho Transformer-based solutions using transfer learning and instruction fine-tuning conditional on context input data for downstream NLP tasks in the domain of job application pain points Aris Aristorenas Controlling Toxicity using Backpacks Advaya Gupta, Apoorva Dixit, Aditya Ashwini Agrawal Domain Adaptation to Climate Change with Improved BLEU Evaluation Method Yunan Li BabyLLM Challenge: Encouraging Tree-Structured Calculations in Transformers Vincelot Ravoson, Thomas James Little Embedding Freedom? An NLP Approach to Uncovering Pre- and Post-Abolition Racial Bias in Brazilian Literature Ana Carolina Queiroz Bringing Back Black Boxes: Classification of TV news using neural nets * Jennifer A Wu, Shun Yamaya Reinforcement Learning for Language Models Wanqiao Xu, Paul Dupenloup, Gary Lurui Qian Measuring Mission Deviation in California Non-Profit Hospitals Nova Josephine Bradford, Pranay Agrawal, Cesar Augusto Portocarrero Rodriguez Text Classification with language models and graph structures Jian Xu, Fang Shu Probing Frozen NL Models for Alignment with Human Reasoning Clara Greene MacAvoy, Claire Cheng Contextual Question Answering using variations of BiDAF and QANet Achilleas Martinis DetectChatGPT: Black-Box Zero-Shot Detection of LLM-Generated Text Julia Park DetectChatGPT: Black-Box Zero-Shot Detection of LLM-Generated Text Armaan Rashid Tweet Sentiment Analysis to Predict Stock Market Christian Luther Palomo Interpreting Transformers through Activation Sparsity Quinn Isaiah Smalling, Dmitri Michelangelo Saberi Generating Molecules from Natural Language with Multimodal Contrastive Pre-Training Romain Lacombe, Kateryna Pistunova, David Ludeke Exploring the Logical and Mathematical Capabilities of the BERT Embedding Space using Contrastive Learning Mona Anvari Default Projects Project name Authors Unifying Different NLP Tasks with A Question-answering Model Polycarpos Yiorkadjis, Yiyuan Wang Extending the BERT Model to a Multitask Loss Function Using Gradient Surgery Ali Lasemi Finetuning minBERT for Downstream Tasks Pete Rushton, Tyler Lee Nichols Default Project: minBERT and Downstream Tasks Rachel Yu, Mabel Jiang BERT\u2019s Multitask Learning Adventures Yipeng Liu, Jonathan Richard Larkin Adjusting Dropout in Contrastive Learning of Sentence Embeddings Guillermo Frontera Sanchez, Maurice Andre Georgi minBERT and Downstream Tasks Regina Li Wang, Reva Parag Agashe, Jennie Jaeyoung Chung minBERT and Downstream Tasks Jason Alexander Chan Enhancing Multi-Task Text Classification with Contrastive Learning and Dataset Augmentation in BERT-like Models Phillip Yao-Lakaschus PALs of Alto: Comparing Adapter Modules and Projected Attention Layers for Multitask Learning Jonah Gordon Cader minBERT and Downstream Tasks Ibrahim Gulluk swissBERT: A Ready-to-Use Multitask Transformer Yixin Liu, Tom Shen, Violet Yao Improved BERT embeddings through Negative Rank Loss Aarya Cyril Mecwan, Torstein Orbeck Eliassen, Natalie V Bishay Exploring Strategies for Improved Performance in Multi-Task Learning with Pretrained-BERT Xiaolei Shi Is training all you need? Exploring further pretraining and multi-task finetuning on BERT Richard Liu, Umar Dizon Maniku BERT-MTS: Fine Tuning BERT for Multi-Task Serving Nishant Bharat Kanakia MinBERT and Downstream Tasks Adam Lida Zhao, Rohan Virani, Priyanka Mathikshara Mathialagan Multi-task NLP with BERT Christopher Edward King Implementing Projected Attention Layers (PALs) for Joint Multi-Task Learning TJ Tan Losing to Win: Evaluating the Success of Various Loss Functions Within Multitask Settings Jadon Armon Geathers minBERT and Multi-Task Learning for Downstream Tasks Jonathan Nathaniel Coronado, Michael Song Zhu Multiple Strategies to Improve minBERT Multitask Learning Colin Hall Kalicki Investigating BERT through Fine-Tuned Regularization and Layer-Level Adaptations for Multi-Task Performance. Arjun Pandey, Neel S Narayan Adapting the Contrast-Consistent Search Method to Multiclass Classification Diego Zancaneli Multi-Task Learning With a BERT-y Good Model Nabil Ahmed, David Karamardian Multitask Learning with Pre-trained BERT Yuntao Ma, Kevin Li, Jack Albright Pals and Gradient Vaccine for NLP Multitask Learning Hannah Cussen, Michela Marchini, Kate Madeline Callon Fine-Tuning BERT with Multi-Task Learning, Gradient Surgery, and Masked Language Modeling for Downstream NLP Tasks Gabriela F Aranguiz-Dias, Janelle Cheung Cuts and Stitches: Does Model Merging Produce Better Multitask Learners? Koren Gilbai Koren, Suppakit Waiwitlikhit, Akshana Mario Dassanaike-Perera minBERT for Multi-Task Learning Maoan Wang, Emily Chanel Stanford BERT Multi-Task Cosine Surgery: Applying Cosine Similarity and Gradient Surgery in a BERT Multi-Task Fine-Tuning Setting Graciela Magdalena Maria Smet, Nick Hisaka Aughney Walker Learning Better Together: Exploring Multi-Task Learning for Natural Language Kapil E Iyer BERT\u2019s Mean Teacher and Multitask Fine-Tuning Kevin Tran, Anthony Qin Contrastive Pretraining of minBERT to Improve Performance in Downstream Tasks Nick Phillips Improving MinBERT: Gradient Surgery and Mixed-Precision Training Maxwell Chen Extending BERT for General Task Applicability Ben Jeon Around the BERT model: from a basic implementation to advanced optimizations and Multi-Task Learning Joachim Studnia, Yoni David Gozlan, Ines Dormoy Multitask BERT Caroline Kelsey Zanze, Drew Wadsworth Exploring Methods to Improve Robustness of Downstream Tasks for the BERT Language Model Kenny Dao, Viraj Mehta, Jeremy Tian Exploring Multitask BERT Optimizations for Sentiment Classification, Paraphrase Detection, and Semantic Textual Similarity Gashon Halif Hussein BERT-CF: Contrastive Flows for MultiTask-BERT George Hu Investigate multitask Performance of minBERT Ensemble Cheng Chang Multi-task Fine-tuning with BERT Sanjaye Elayattu BERT With Multitask Fine-Tuning and Loss Construction Prarthna Khemka, Grace Casarez Sentence part-enhanced minBERT: Incorporating sentence parts to improve BERT performance on downstream tasks Aaron Long Wan Improving Multitask MinBERT with Regularized Optimization and Contrastive Learning Zhengdan Li, Weian Yin Multi-task Learning with BERT in NLP Fan Wang Unitary Scalarization or Gradient Surgery? Best Practices for Multitask Fine-Tuning John David McEnany Generalizing BERT through Multi-Task Learning Caroline Wang minBERT and extensions for downstream tasks Shiqi Xia, Yixing Jiang Multitask BERT: Exploration and Extension Aqil Daud Naeem CS 224N: MinBERT and Downstream Tasks Rita Tlemcani, Cole Porter Sohn BERT Fine-Tuning with Contrastive Loss and Smoothness-Inducing Regularization Laura Wu, Frank Zhao BERT Extension Using SMART and Cosine Similarity Methodology Victor Cheruiyot, Donghun Daniel Kim, Xinwei Liu Improving minBERT Performance on Multiple Tasks through In-domain Pretraining, Negatives Ranking Loss Learning, and Hyperparameter Optimization Catherine Huang, Addison Reese Jadwin miniBERT and Multitasking: An Architectural Analysis Jack Francis Michaels Fine-tuning Multi-Task Learning in BERT Model Emily Guo, Cole Hobbs Crichton Failures of Improving minBERT with Similarity-based Triplet Networks JINPU CAO Improving MiniBERT\u2019s Semantic Performance with Semantic-rich Sentence Embeddings Melvin Orichi Socana, Julia Rose Chin, Jay Sahil Chiruvolu Walk Less and Only Down Smooth Valleys Julian Edwin Lovett Cooper, Thomas Brink, Quinn Hollister Use Siamese BERT-Networks to fine-tune minBERT with downstream tasks Zihan Yi Exploring Multi-Task Learning for Robust Language Encoding with BERT Laura Maria Bravo Sanchez, Eduardo Alejandro Lozano Garcia BERT and MNRLLie: Extending minBERT with Deep Metric Learning and Gradient Surgery Jorge Martinez Alba, Henry Alexander Bradley, Ben Auslin Impact of BERT Extensions on Cross-Domain Text Classification Michelle Wa Lok, Arun Karthikeyan Fine-tuning BERT for Sentiment Analysis, Paraphrase Detection and Semantic Textual Similarity Annie Ma, Alexander Peng, Joseph Zhang Optimizing Multi-Task Classification Finetuning in BERT: a Multi-Pronged Approach Bar Weiner, Soham Konar, Aadi Nashikkar Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump Ori Spector Investigating BERT Model\u2019s Abilities in Multi-Task Learning and Methods for Performance Improvement Mac Ya, Tommy Li Investigating Methods of Using Context to Augment pre-trained Language Models for Question Answering Rohan Reddy Davidi Engagement-based response generation for open-domain dialogue Ernesto Sung Woo Nam Song, Marcelo Pena Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump Luke Joseph Mann BERT and Learnie: Multi-task Classification Across Semantics Street Flora Huang, Sonia Hangjie Chu, Kachachan Chotitamnavee Combining Improvements for a Better BERT Diego Mitsutaka Ahmad-Stein, Emily Wesel BERT Goes to College: Exploring additional pretraining and multitask fine-tuning strategies with minBERT Peyton M Lee, Michelle Fu, Eric Zhang Fine-tuning minBERT on Downstream Tasks with Gradient Surgery and Weighted Losses Andrew J Gan, Gareth A Cockroft, Tee Monsereenusorn Efficient Finetuning for Multi-tasking minBERT Tz-Wei Mo, Annie Ho Enhancing BERT with Self-Supervised Attention Joshua Christopher Francis BERT Fine-tuning with Meta Learning Hui Xue Multitask Finetuning on BERT using Gradient Surgery and Linear Probing before Finetuning Arvind Venkat Mahankali Low Rank Adaptation for Multitask BERT Marco Tacke, Johannes Fuest Three Heads Are Better Than One Jesus E Meza Rosales Multi-task Learning using BERT Nina Cruz, Pankhuri Aggarwal Enhancing minBERT for Sentence Similarity with Cosine Similarity and Contrastive Learning Xiaomiao Zhang, Yi-Chin Huang Evaluating fine-tuning methods for robust multi-task sentence embeddings Connor Toups, Ammar A Alinur, Kaleb Berhe Tsegay Fine-tuning minBERT for Various Downstream Tasks Siqi Wang, Longling Tian Pre-training BERT: Swapped Subject Phrase Detection Maggie Wu BERT: A Master of All Trades or Jack of None? Tom Pritsky, Josselin Martin Somerville Roberts, Marie Amale Huynh Fine Tuning Multi Downstream Tasks based on BERT with Gradient Surgery Jiwen Chen Three Heads Are Better Than One Esteban Cambronero Saba Building Robust Adaptation for Multi-Task Learning over minBERT Joyce Pan, Tess Tao, Guhui Zhang minBERT Optimization with the SMART Learning Framework Yihan Shi, Zixuan Xu, Zeyu Sun Multi-task BERT Classification Shen Gao Multitask minBert Emma E Passmore, Sajel Galhotra, Riya Shirish Sankhe BERT Finetuning Analysis Xueying Xie BERT++: Trustworthy MultiTask Learning with BERT Zilu Wang, Yuwei Wu, Anh Hoang Nguyen Multi-Task Learning for Robust Contextualized Sentence Embedding Generation Yash Dalmia, Santino L Ramos PolarBERT: Enhancing Robustness and Generalizability of BERT Sentence Embeddings through Multiple Negatives Ranking Loss and Contrastive Learning Tyler Allan Hanson, Jaisal Kothari, Lucy Zhu Multi-Task Learning with BERT Naveen Kumar Investigating minBERT\u2019s Performance on Negated Sentence Classification Emily Ito Okabe Enhance minBERT\u2019s Performance on Multiple Sentence-Level Tasks using Downstream Techniques Vibhaakar Sharma, Mandy Leung, Chung Ching Cheung minBERT and Downstream Tasks Harvey Cai Data Augmentation with Feedback Control for BERT Multitask Finetuning Kevin Titat Supakkul, Ryan Mason Beauchamp BERT-based Multi-task Learning Sahar Kazemzadeh MultitaskBERT with Contrastive Pretraining and Fine-Grained Feature Learning Rui Deng, Jack Chen, ZHENGJI YANG minBERT and Multi-task Training with Gradient Surgery Yihe Tang, Yunqi Li A Comprehensive Analysis of Fine-Tuning Strategies for BERT Adam Hyungsuk Chun, Emily Angel Hsu, Emily Quynh Nguyen SuperBERT: Multi-task Finetuning with Domain Adaptation Mohamed Ibrahim Osman, Mohamed A Owda SMARTBert: Improving BERT Model Performance on Downstream Tasks Using Smoothness Inducing Adversarial Regularization Roy Yuan, Jennifer He Adversarial Transfer Learning for Continuous Natural Language Representation Jinyoung Kim, Matthew Jonathan Turk, Zhaoqiang Bai SerBERTus: A SMART Three-Headed BERT Ensemble Matthew John Hayes Techniques for Extracting Meaningful BERT Sentence Embeddings for Downstream Tasks Jacob Anwar Mejia, Michael Yuanyi Xue, Matthew Harvill Contrastive Learning for Generalizable Sentence Embeddings Shenghan Chen MT-BERT: Fine-tuning BERT for Downstream Tasks Using Multi-Task Learning Neha Kunjal, Hermann Nyuykonge Kumbong Prototypical Pre-Training for Robust Multi-Task Learning in Natural Language Processing Andre Yu Yeung, Rohan Sikand minBERT and Multiple Downstream Tasks Xianling Zhang Pals for PALs: Exploring Extensions to Projected Attention Layers for Sentence-Level Tasks Lainey Yifei Wang How to Fine-Tune BERT for Multiple Tasks? Jingru Cheng, Bohao He Finetuning a multitask BERT for downstream tasks Chenchen Gu Genre Classifications using Book and Film Descriptions Ari Webb, Mattheus Borges Wolff, Shaunak Bhandarkar Multitask Bert with Task Embedded Attentions (TEA-BERT) Chunjiang Mou, Sally Yao, Zifei Xu Fine-Tuning BERT for Sentiment Analysis, Paraphrase Detection and Semantic Text Similarity NLP Tasks Swathi Gangaraju, Andrew Cheng MOPS: Memory Occupancy and Performance Surveying when using Late-Stage Hard Parameter Sharing for BERT Multitask Learning Callum Jan Burgess, Mark Peter Bechthold, Anthony David Weng Multi-Task Learning BERT Model with Task-Specific Decoders Zhen Li Default Final Project: Improving minBERT with Entailment Learning Saksham Consul, Akash Rajesh Chaurasia, Carlota Pares Morlans Leave It To BERT: Exploring Methods for Robust Multi-Task Performance Abhi Kumar, Finn Alexander Dayton, Christopher Moffitt Extending BERT with Multi-task and Meta-learning Cam Scott Anton Burton, Anna NING Default Final Project: minBERT and Downstream Tasks (Multi-task Learning) Maximilian Sabayev, Samuel Chian Freeze Your Layers Alex Scott Thiesmeyer, Gautham Ryota Gorti Robust Embeddings using Contrastive and Multiple Negatives on BERT Ishan Sabane, Shoaib Mohammed A Sentence-BERT Extension to the minBERT Model Lisa Xuejie Yi, Shruti Sridhar BERTer Multi-task Fine-tuning for Sentence-Level Tasks Danny SungIn Park, Stanley Yang, Andrew S Chen Enhanced generalizable minBERT model for multiple downstream tasks Yi Qi Finetuning minBERT Model for Multiple Downstream Tasks Yuan Wang Adapting BERT for Multi-Task Learning with PALs Kathleen Cheng Beyond BERT: Deepening Natural Language Understanding with Multi-Task Learning and Advanced Embedding Techniques Matt Peng, Varun Madhu Kutirakulam, Mohammed Minhajuddin Majid Extension-BERT: Multitask Learning with BERT Jingwen Wu SBRRT: Investigating Extensions on BERT Diego Adrian Valdez Duran Data Augmentation for Multi-task BERT models Stanford CS224N Default Project Aditya Chandrasekar Multitasking with BERT Jack Jin Hung, Jiacheng Hu minBERT and Extensions over Downstream Tasks Taiqi Zhao, Weimin Wan, Jerry Lin Enhancing miniBERT: Exploring Methods to Improve BERT Performance Shivangi Agarwal, Ben Charles Hora, Yasmin Salehi We do it BERTer: Comparison of Finetuning Methods to Improve Sentence Embeddings Alex Hodges, Ramya Ayyagari Exploring minBERT Performance Optimizations Marie Chu, Emmy Thamakaison Implementing minBERT and Extensions for Multi-Task Learning Yan Wang, Jiani Wang, Qinchen Wang Parameter Efficient Fine-tuning for Multi-task Learning Jeffery Shen, Chih-Ying Liu Comparative Analysis of SimCSE for minBERT Optimization with Multiple Downstream Tasks Runqiu Zhang SimCSE Lessens your Need to Seek BERT\u2019s Attention Andre Klawa Optimizing minBERT for Multiple Classification Tasks Savitha Srinivasan, Edmond John Dilworth, Priyanka Shrestha Multitasking with minBERT JungSuk Lee minBERT for Sentiment Analysis, Paraphrase Detection, and Semantic Textual Similarity Shelly Goel, Haya Hidayatullah, Yoko Nagafuchi minBERT and Downstream Tasks Yvonne Hong, Hodan Farah, Simrin Kalkat Training MinBERT with Contrastive Learning Robert Walter Markham Thompson, Sal Rocco Spina, Patrick John Donohue Improving BERT computational efficiency Julio Alberto Oscanoa Aida Glaucoma Surgery Outcome Prediction Using Progress Notes: A Comparative Study Samuel Barry, Sarvesh R. Babu BERT for Sentiment Analysis, Paraphrase Detection and Semantic Textual Similarity with Cosine Similarity Debolina Paul Multitasking with a single set of BERT embeddings Adrien Lemercier Enhancing minBert Embeddings for Multiple Downstream Tasks Stanford CS224N Default Project Donald Stephens Convolutional Gated Unit for Improved Multi-Task Learning Princess Vongchanh, Daniel Contreras-Esquivel BERT Downstream task training utilizing different pooling methods Kaushik Sampath",
+  "links": [
+    {
+      "url": "http://nlp.stanford.edu/",
+      "text": ""
+    },
+    {
+      "url": "http://stanford.edu/",
+      "text": ""
+    },
+    {
+      "url": "project/poster-printing-guidelines-2023.pdf",
+      "text": "Click\n        here"
+    },
+    {
+      "url": "final-reports/final-report-169935991.pdf",
+      "text": "Minimum Generative Pre-trained Transformer with Human Feedback"
+    },
+    {
+      "url": "final-reports/final-report-169449903.pdf",
+      "text": "Nano Backpack Language Model on Chinese Characters"
+    },
+    {
+      "url": "final-reports/final-report-169729542.pdf",
+      "text": "SerBERTus: A SMART Three-Headed BERT Ensemble"
+    },
+    {
+      "url": "final-reports/final-report-169505895.pdf",
+      "text": "Walk Less and Only Down Smooth Valleys"
+    },
+    {
+      "url": "final-reports/final-report-169739344.pdf",
+      "text": "Pals for PALs: Exploring Extensions to Projected Attention Layers for Sentence-Level Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169640386.pdf",
+      "text": "VoBERTal: Variant Objective BERT Pretraining Approaches with HyperLinks"
+    },
+    {
+      "url": "final-reports/final-report-168833820.pdf",
+      "text": "Optimizing Encoder for Retrieval via Multi-Vector Late Interaction"
+    },
+    {
+      "url": "final-reports/final-report-169142735.pdf",
+      "text": "Using Named Entity Recognition to Supplement The Ocean Cleanup\u2019s Global Beached Plastics Dataset"
+    },
+    {
+      "url": "final-reports/final-report-169280003.pdf",
+      "text": "Bert-Powered Book Genre Classification"
+    },
+    {
+      "url": "final-reports/final-report-169307888.pdf",
+      "text": "Dynamic Fed Attention"
+    },
+    {
+      "url": "final-reports/final-report-169332292.pdf",
+      "text": "Automated Basketball Video Captioning"
+    },
+    {
+      "url": "final-reports/final-report-169343837.pdf",
+      "text": "Few-Shot Causal Distillation"
+    },
+    {
+      "url": "final-reports/final-report-169346062.pdf",
+      "text": "Data Generation for NLP Classification Dataset Augmentation: Using Existing LLMs to Improve Dataset Quality"
+    },
+    {
+      "url": "final-reports/final-report-169354880.pdf",
+      "text": "Automating English Language Proficiency Assessments"
+    },
+    {
+      "url": "final-reports/final-report-169358304.pdf",
+      "text": "Hate Speech Detection Using Natural Language Processing"
+    },
+    {
+      "url": "final-reports/final-report-169358982.pdf",
+      "text": "Statistically-augmented Neural Detection of Al-generated text"
+    },
+    {
+      "url": "final-reports/final-report-169359180.pdf",
+      "text": "Using Knowledge Graph Embeddings from Biomedical Language Models to Infer Drug Repurposing Candidates for Rare Diseases"
+    },
+    {
+      "url": "final-reports/final-report-169361549.pdf",
+      "text": "Compositional Generalization Based on Semantic Interpretation: Where can Neural Networks Improve?"
+    },
+    {
+      "url": "final-reports/final-report-169362676.pdf",
+      "text": "Performing and Analyzing Named Entity Recognition on Foreign English Contexts"
+    },
+    {
+      "url": "final-reports/final-report-169363450.pdf",
+      "text": "Generative Word Embeddings with New Similarity Techniques for Legal Linking"
+    },
+    {
+      "url": "final-reports/final-report-169366918.pdf",
+      "text": "Guideline for GPT-2: Investigating Model Variants For Different Computational Budgets"
+    },
+    {
+      "url": "final-reports/final-report-169368209.pdf",
+      "text": "Enlightened Imagery: Multi-modal Image Captioning with Transformer-Based unified architecture"
+    },
+    {
+      "url": "final-reports/final-report-169368651.pdf",
+      "text": "Adapting the Contrast-Consistent Search Method to Multiclass Classification"
+    },
+    {
+      "url": "final-reports/final-report-169369314.pdf",
+      "text": "Universal Tabular Data Generator with Large Language Models"
+    },
+    {
+      "url": "final-reports/final-report-169374211.pdf",
+      "text": "Language Modelling using Latent Diffusion Models"
+    },
+    {
+      "url": "final-reports/final-report-169374438.pdf",
+      "text": "Knowing What You Do Not Know: Investigating Large Language Models for Out-of-Domain Intent Classification"
+    },
+    {
+      "url": "final-reports/final-report-169374570.pdf",
+      "text": "ASKIT: Search and Ask Model"
+    },
+    {
+      "url": "final-reports/final-report-169374910.pdf",
+      "text": "DeepLyrics: GPT2 for lyrics generation with finetuning and prompting techniques"
+    },
+    {
+      "url": "final-reports/final-report-169375891.pdf",
+      "text": "Novel Data Augmentation for resource constrained Image captioning"
+    },
+    {
+      "url": "final-reports/final-report-169376811.pdf",
+      "text": "SuperHF: Supervised Finetuning from Human Feedback"
+    },
+    {
+      "url": "final-reports/final-report-169403912.pdf",
+      "text": "Looking Under the Hood of DetectGPT"
+    },
+    {
+      "url": "final-reports/final-report-169407002.pdf",
+      "text": "AV-HuBERT with Multi-Resolution Attention"
+    },
+    {
+      "url": "final-reports/final-report-169433359.pdf",
+      "text": "Multi-Modal Model for Speech to Text Entity"
+    },
+    {
+      "url": "final-reports/final-report-169444039.pdf",
+      "text": "Abstractive Summarization of Legal Text Corpuses Using Transfer Learning"
+    },
+    {
+      "url": "final-reports/final-report-169444285.pdf",
+      "text": "Haiku Generation with Large Language Models"
+    },
+    {
+      "url": "final-reports/final-report-169449903.pdf",
+      "text": "Nano Backpack Language Model on Chinese Characters"
+    },
+    {
+      "url": "final-reports/final-report-169451673.pdf",
+      "text": "Legal-SBERT: Creating a Sentence Tranformer for the Legal Domain and Generating Data"
+    },
+    {
+      "url": "final-reports/final-report-169466939.pdf",
+      "text": "Building a Natural Language Chess Engine with Pretraining and Instruction Fine-Tuning"
+    },
+    {
+      "url": "final-reports/final-report-169484333.pdf",
+      "text": "ConTAXt Retrieval for Long-Form Question-Answering"
+    },
+    {
+      "url": "final-reports/final-report-169485103.pdf",
+      "text": "Enabling Interpretable Histopathology Representation Learning via Multimodal Language Guided Self-Supervision"
+    },
+    {
+      "url": "final-reports/final-report-169486048.pdf",
+      "text": "Question Span Extraction from Chats of Instant Messaging Platforms"
+    },
+    {
+      "url": "final-reports/final-report-169488138.pdf",
+      "text": "Paper Trading From Sentiment Analysis on Twitter and Reddit Posts"
+    },
+    {
+      "url": "final-reports/final-report-169488965.pdf",
+      "text": "Generating Recipe Ingredients and Instructions with Controlled Text Generation"
+    },
+    {
+      "url": "final-reports/final-report-169491742.pdf",
+      "text": "Are Attention Flows All You Need?"
+    },
+    {
+      "url": "final-reports/final-report-169493994.pdf",
+      "text": "Next-Song Recommendations for Spotify Playlists Using GPT-2 and T5"
+    },
+    {
+      "url": "final-reports/final-report-169494435.pdf",
+      "text": "Semantic Code Search"
+    },
+    {
+      "url": "final-reports/final-report-169498051.pdf",
+      "text": "Multimodal Patient Evaluation for Depression and Anxiety"
+    },
+    {
+      "url": "final-reports/final-report-169502805.pdf",
+      "text": "Classifying Partisan Bias in News Articles: Leveraging an Understanding of Political Language and Article Structure"
+    },
+    {
+      "url": "final-reports/final-report-169502968.pdf",
+      "text": "Al Can Look Up StackOverflow too: Retrieval-Augmented Code Generation"
+    },
+    {
+      "url": "final-reports/final-report-169503583.pdf",
+      "text": "Deep Learning Approach to Predicting Success of Medical Crowdfunding Campaigns"
+    },
+    {
+      "url": "final-reports/final-report-169503842.pdf",
+      "text": "Semantic Understanding of Genius Music Annotations"
+    },
+    {
+      "url": "final-reports/final-report-169504658.pdf",
+      "text": "Examining Misinformation via Search Directives"
+    },
+    {
+      "url": "final-reports/final-report-169504920.pdf",
+      "text": "Making the Most of Your Data: Few Shot Learning for Automated Essay Scoring"
+    },
+    {
+      "url": "final-reports/final-report-169506096.pdf",
+      "text": "Ambiguity Resolution in Conversational Question Answering through Minimal Question Identification"
+    },
+    {
+      "url": "final-reports/final-report-169506299.pdf",
+      "text": "Looking Outside the Context Window: In-Context Learning with Up to Hundreds of Examples"
+    },
+    {
+      "url": "final-reports/final-report-169506405.pdf",
+      "text": "Few-shot Classification of Disaster-related Tweets"
+    },
+    {
+      "url": "final-reports/final-report-169506869.pdf",
+      "text": "Are Distilled Models Just Deep-Sea Octopi? Probing Linguistic Representations of Distillation-Finetuned Models"
+    },
+    {
+      "url": "final-reports/final-report-169507264.pdf",
+      "text": "CodeSage: A Generative Approach to Improving Code Quality"
+    },
+    {
+      "url": "final-reports/final-report-169507684.pdf",
+      "text": "RDF Triple-Text-Story: A Integrated Workflow for Controllable Short Story Generation"
+    },
+    {
+      "url": "final-reports/final-report-169507838.pdf",
+      "text": "MetaMapper: Interpretable Metaphor Detection"
+    },
+    {
+      "url": "final-reports/final-report-169507938.pdf",
+      "text": "BERT Injections: Fine-Tuning BERT Using Tree-Based Word Representations to Address Syntactical Ambiguity"
+    },
+    {
+      "url": "final-reports/final-report-169508001.pdf",
+      "text": "Predicting Associated Comorbidities of Obesity from MIMIC 1V Clinical Notes"
+    },
+    {
+      "url": "final-reports/final-report-169508002.pdf",
+      "text": "Rewriting Stack Overflow Questions to Improve Writing Quality"
+    },
+    {
+      "url": "final-reports/final-report-169508080.pdf",
+      "text": "Won\u2019t You Be My Neighbor? Probing Informational Spread in Contextual Representations of Natural Language"
+    },
+    {
+      "url": "final-reports/final-report-169508272.pdf",
+      "text": "GPTNo: A Deep Learning LLM to Beat the Turing Test"
+    },
+    {
+      "url": "final-reports/final-report-169508332.pdf",
+      "text": "MetaMapper: Interpretable Metaphor Detection"
+    },
+    {
+      "url": "final-reports/final-report-169508363.pdf",
+      "text": "Improving Neural Machine Translation of Spanish to Quechua with Transfer Learning"
+    },
+    {
+      "url": "final-reports/final-report-169508435.pdf",
+      "text": "Unpacking Social Biases: An Analysis of Sense Embeddings Using the Backpack Model"
+    },
+    {
+      "url": "final-reports/final-report-169508494.pdf",
+      "text": "Human Writing is as Uniform as Machine Writing"
+    },
+    {
+      "url": "final-reports/final-report-169508596.pdf",
+      "text": "Multimodal Transformer-Based Lyric Generation from MIDI and Text Data"
+    },
+    {
+      "url": "final-reports/final-report-169508723.pdf",
+      "text": "Investigating Methods of Using Context to Augment pre-trained Language Models for Question Answering"
+    },
+    {
+      "url": "final-reports/final-report-169508835.pdf",
+      "text": "Engagement-based response generation for open-domain dialogue"
+    },
+    {
+      "url": "final-reports/final-report-169508844.pdf",
+      "text": "Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump"
+    },
+    {
+      "url": "final-reports/final-report-169509426.pdf",
+      "text": "STaR-plus: building robust and efficient language model reasoners"
+    },
+    {
+      "url": "final-reports/final-report-169510459.pdf",
+      "text": "Prompting for Diverse Responses: Making Large Language Models More Truthful"
+    },
+    {
+      "url": "final-reports/final-report-169511103.pdf",
+      "text": "Generating Tricky Multiple-Choice QA Pairs from Contexts using Hierarchical Conditional VAEs"
+    },
+    {
+      "url": "final-reports/final-report-169513019.pdf",
+      "text": "Learning Word Embedding from Dictionary Definitions"
+    },
+    {
+      "url": "final-reports/final-report-169513350.pdf",
+      "text": "Contrastive Learning for Sentence Embeddings in BERT and its Smaller Variants"
+    },
+    {
+      "url": "final-reports/final-report-169537002.pdf",
+      "text": "GAN-BERT for Automated Essay Scoring"
+    },
+    {
+      "url": "final-reports/final-report-169548571.pdf",
+      "text": "Investigating SoTA Entity-Linking Methods for Dialogue"
+    },
+    {
+      "url": "final-reports/final-report-169549688.pdf",
+      "text": "Bidirectional Transformer with Phonetic Embedding"
+    },
+    {
+      "url": "final-reports/final-report-169579793.pdf",
+      "text": "Natural Language Generation with Pixels"
+    },
+    {
+      "url": "final-reports/final-report-169616647.pdf",
+      "text": "Investigating Disfluency Generation for the Creation of Humanlike Utterances in Conversation"
+    },
+    {
+      "url": "final-reports/final-report-169640386.pdf",
+      "text": "VoBERTal: Variant Objective BERT Pretraining Approaches with HyperLinks"
+    },
+    {
+      "url": "final-reports/final-report-169687355.pdf",
+      "text": "Deep Q-Learning for Text Generation"
+    },
+    {
+      "url": "final-reports/final-report-169698519.pdf",
+      "text": "DialogDiffAE: Dialogue Generation with Diffusion-Equipped Auto-Encoder"
+    },
+    {
+      "url": "final-reports/final-report-169707107.pdf",
+      "text": "Detoxifying Language Model with Context Distillation"
+    },
+    {
+      "url": "final-reports/final-report-169707136.pdf",
+      "text": "Novel Genre-Based Story Summary Generation"
+    },
+    {
+      "url": "final-reports/final-report-169708040.pdf",
+      "text": "Making the Most of Your Data: Few Shot Learning for Automated Essay Scoring"
+    },
+    {
+      "url": "final-reports/final-report-169710285.pdf",
+      "text": "ADRAGGAN: ADversarial training for RAtionale Generation: a GAN for moral dilemmas"
+    },
+    {
+      "url": "final-reports/final-report-169711362.pdf",
+      "text": "Reading Between the Lines: Measuring"
+    },
+    {
+      "url": "final-reports/final-report-169713115.pdf",
+      "text": "Unsupervised Question Answering Using Custom NLP Library Built for Egyptian Arabic"
+    },
+    {
+      "url": "final-reports/final-report-169719894.pdf",
+      "text": "Interpretability and Controllability of Backpack LMs"
+    },
+    {
+      "url": "final-reports/final-report-169721612.pdf",
+      "text": "Activation Sparsity: An Insight into the Interpretability of Trained Transformers"
+    },
+    {
+      "url": "final-reports/final-report-169723308.pdf",
+      "text": "Interpreting Transformers using Spectral Analysis"
+    },
+    {
+      "url": "final-reports/final-report-169723857.pdf",
+      "text": "Improved Methods for Solving Diverse Winograd Schemas"
+    },
+    {
+      "url": "final-reports/final-report-169724371.pdf",
+      "text": "PiGGyBacking off of PEGASUS: Pre-training with Gap-sentences for Government Bills"
+    },
+    {
+      "url": "final-reports/final-report-169725035.pdf",
+      "text": "Constructing a Transformer-Based Architecture for Explainable Conversational Recommendation"
+    },
+    {
+      "url": "final-reports/final-report-169725843.pdf",
+      "text": "ED Radiology Report Label Extraction"
+    },
+    {
+      "url": "final-reports/final-report-169726484.pdf",
+      "text": "Filtering Out Unreliable Language Model Outputs Using Contrast-Consistent Search"
+    },
+    {
+      "url": "final-reports/final-report-169727160.pdf",
+      "text": "MEDI-BERPT: A Novel Multitask Approach to Streamlining Chinese Healthcare"
+    },
+    {
+      "url": "final-reports/final-report-169728160.pdf",
+      "text": "Semantic-Augment: Augmenting the Semantic Space of Transformers Improves Generalization"
+    },
+    {
+      "url": "final-reports/final-report-169728239.pdf",
+      "text": "Steering Natural Language Generation by Optimizing Vector-to-Cluster Distance"
+    },
+    {
+      "url": "final-reports/final-report-169729538.pdf",
+      "text": "Adapting to Word Shifts: Teaching LLMs the Urban Dictionary"
+    },
+    {
+      "url": "final-reports/final-report-169729678.pdf",
+      "text": "Adaptation, Sensitivity, and Introspection: Investigating the Capabilities of LLMs as Hypernetworks"
+    },
+    {
+      "url": "final-reports/final-report-169732795.pdf",
+      "text": "Argue Better: Using Large Language Models to Generate Better Examples for Ineffective Persuasive Essay Arguments"
+    },
+    {
+      "url": "final-reports/final-report-169795327.pdf",
+      "text": "DeepRhymes: Efficient End-to-end Conditional Rap Lyrics Generation"
+    },
+    {
+      "url": "final-reports/final-report-169800771.pdf",
+      "text": "Applying Natural Language Processing in Answering Multiple-Choice Questions for Assessing Child/Youth and Adults Needs and Strengths (CANS\u00ae/ANSA)"
+    },
+    {
+      "url": "final-reports/final-report-169817823.pdf",
+      "text": "Leveraging Patient Portal Messages to Predict Emergency Department Visits"
+    },
+    {
+      "url": "final-reports/final-report-169843556.pdf",
+      "text": "Leveraging Patient Portal Messages to Predict Emergency Department Visits"
+    },
+    {
+      "url": "final-reports/final-report-169845842.pdf",
+      "text": "Are GPT-3 Models Pragmatic Reasoners?"
+    },
+    {
+      "url": "final-reports/final-report-169856040.pdf",
+      "text": "Contextual Counterspeech Generation"
+    },
+    {
+      "url": "final-reports/final-report-169874129.pdf",
+      "text": "Automatic Speech Recognition Error Correction on ICU Clinical Narration Dataset"
+    },
+    {
+      "url": "final-reports/final-report-169878560.pdf",
+      "text": "Summarizing Charts and Graphs with Context"
+    },
+    {
+      "url": "final-reports/final-report-169883524.pdf",
+      "text": "Longformer-based Automated Writing Assessment for English Language Learners"
+    },
+    {
+      "url": "final-reports/final-report-169891052.pdf",
+      "text": "How well can Hippos learn? A Novel Foray into the In-Context Learning Capabilities of H3"
+    },
+    {
+      "url": "final-reports/final-report-169896152.pdf",
+      "text": "Multi Distribution Dense Information Retrieval"
+    },
+    {
+      "url": "final-reports/final-report-169899078.pdf",
+      "text": "Data Augmentation for Low-resourced Language Modeling"
+    },
+    {
+      "url": "final-reports/final-report-169901941.pdf",
+      "text": "MOPS: Memory Occupancy and Performance Surveying when using Late-Stage Hard Parameter Sharing for BERT Multitask Learning"
+    },
+    {
+      "url": "final-reports/final-report-169905995.pdf",
+      "text": "Multi-Task Learning BERT Model with Task-Specific Decoders"
+    },
+    {
+      "url": "final-reports/final-report-169930031.pdf",
+      "text": "Exploring the Effect of Semantic Similarity on Model Generalization"
+    },
+    {
+      "url": "final-reports/final-report-169935991.pdf",
+      "text": "Minimum Generative Pre-trained Transformer with Human Feedback"
+    },
+    {
+      "url": "final-reports/final-report-169953466.pdf",
+      "text": "Calibrated Contrast-Consistent Search"
+    },
+    {
+      "url": "final-reports/final-report-169954269.pdf",
+      "text": "More Informative Relative Position Encoding for Table-to-Text Generation"
+    },
+    {
+      "url": "final-reports/final-report-169955245.pdf",
+      "text": "Efficient Two-stage Approach for Long Document Summarization"
+    },
+    {
+      "url": "final-reports/final-report-169962747.pdf",
+      "text": "Predicting Emergency Department Disposition from Radiology Reports"
+    },
+    {
+      "url": "final-reports/final-report-169962799.pdf",
+      "text": "Audio-Text Cross-Modal Retrieval"
+    },
+    {
+      "url": "final-reports/final-report-169964190.pdf",
+      "text": "Bias in clinical notes"
+    },
+    {
+      "url": "final-reports/final-report-169966375.pdf",
+      "text": "NEWS2DIAL: News to Dialogue Utterance"
+    },
+    {
+      "url": "final-reports/final-report-169968274.pdf",
+      "text": "Finetuning minBERT Model for Multiple Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169974300.pdf",
+      "text": "Today Years Old: Adapting Language Models to Word Shifts"
+    },
+    {
+      "url": "final-reports/final-report-169977748.pdf",
+      "text": "Rationale Belief Aggregation for Self-Verified Reasoning"
+    },
+    {
+      "url": "final-reports/final-report-169990431.pdf",
+      "text": "Multi-Task Zero-shot modeling with test Domain Shift: an exploration of sampling and fine-tuning techniques on DistilGPT-2 and BIG-bench"
+    },
+    {
+      "url": "final-reports/final-report-169998560.pdf",
+      "text": "Deep Auctions: Using Economics to Improve NMT Decoding"
+    },
+    {
+      "url": "final-reports/final-report-170018026.pdf",
+      "text": "Does Learning Syntax Help Models Learn Language?"
+    },
+    {
+      "url": "final-reports/final-report-170020170.pdf",
+      "text": "TAKG: Importance-augmented Knowledge Graphs"
+    },
+    {
+      "url": "final-reports/final-report-170026140.pdf",
+      "text": "Transformer-based solutions using transfer learning and instruction fine-tuning conditional on context input data for downstream NLP tasks in the domain of job application pain points"
+    },
+    {
+      "url": "final-reports/final-report-170028699.pdf",
+      "text": "Controlling Toxicity using Backpacks"
+    },
+    {
+      "url": "final-reports/final-report-170033439.pdf",
+      "text": "Domain Adaptation to Climate Change with Improved BLEU Evaluation Method"
+    },
+    {
+      "url": "final-reports/final-report-170033559.pdf",
+      "text": "BabyLLM Challenge: Encouraging Tree-Structured Calculations in Transformers"
+    },
+    {
+      "url": "final-reports/final-report-170035022.pdf",
+      "text": "Embedding Freedom? An NLP Approach to Uncovering Pre- and Post-Abolition Racial Bias in Brazilian Literature"
+    },
+    {
+      "url": "final-reports/final-report-170040070.pdf",
+      "text": "Bringing Back Black Boxes: Classification of TV news using neural nets *"
+    },
+    {
+      "url": "final-reports/final-report-170040536.pdf",
+      "text": "Reinforcement Learning for Language Models"
+    },
+    {
+      "url": "final-reports/final-report-170043982.pdf",
+      "text": "Measuring Mission Deviation in California Non-Profit Hospitals"
+    },
+    {
+      "url": "final-reports/final-report-170044583.pdf",
+      "text": "Text Classification with language models and graph structures"
+    },
+    {
+      "url": "final-reports/final-report-170045941.pdf",
+      "text": "Probing Frozen NL Models for Alignment with Human Reasoning"
+    },
+    {
+      "url": "final-reports/final-report-170047474.pdf",
+      "text": "Contextual Question Answering using variations of BiDAF and QANet"
+    },
+    {
+      "url": "final-reports/final-report-170049587.pdf",
+      "text": "DetectChatGPT: Black-Box Zero-Shot Detection of LLM-Generated Text"
+    },
+    {
+      "url": "final-reports/final-report-170049588.pdf",
+      "text": "DetectChatGPT: Black-Box Zero-Shot Detection of LLM-Generated Text"
+    },
+    {
+      "url": "final-reports/final-report-170049613.pdf",
+      "text": "Tweet Sentiment Analysis to Predict Stock Market"
+    },
+    {
+      "url": "final-reports/final-report-170049755.pdf",
+      "text": "Interpreting Transformers through Activation Sparsity"
+    },
+    {
+      "url": "final-reports/final-report-170049900.pdf",
+      "text": "Generating Molecules from Natural Language with Multimodal Contrastive Pre-Training"
+    },
+    {
+      "url": "final-reports/final-report-170498296.pdf",
+      "text": "Exploring the Logical and Mathematical Capabilities of the BERT Embedding Space using Contrastive Learning"
+    },
+    {
+      "url": "final-reports/final-report-169192000.pdf",
+      "text": "Unifying Different NLP Tasks with A Question-answering Model"
+    },
+    {
+      "url": "final-reports/final-report-169262140.pdf",
+      "text": "Extending the BERT Model to a Multitask Loss Function Using Gradient Surgery"
+    },
+    {
+      "url": "final-reports/final-report-169262874.pdf",
+      "text": "Finetuning minBERT for Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169309301.pdf",
+      "text": "Default Project: minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169311062.pdf",
+      "text": "BERT\u2019s Multitask Learning Adventures"
+    },
+    {
+      "url": "final-reports/final-report-169313796.pdf",
+      "text": "Adjusting Dropout in Contrastive Learning of Sentence Embeddings"
+    },
+    {
+      "url": "final-reports/final-report-169316220.pdf",
+      "text": "minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169319223.pdf",
+      "text": "minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169320493.pdf",
+      "text": "Enhancing Multi-Task Text Classification with Contrastive Learning and Dataset Augmentation in BERT-like Models"
+    },
+    {
+      "url": "final-reports/final-report-169331001.pdf",
+      "text": "PALs of Alto: Comparing Adapter Modules and Projected Attention Layers for Multitask Learning"
+    },
+    {
+      "url": "final-reports/final-report-169332864.pdf",
+      "text": "minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169334568.pdf",
+      "text": "swissBERT: A Ready-to-Use Multitask Transformer"
+    },
+    {
+      "url": "final-reports/final-report-169346237.pdf",
+      "text": "Improved BERT embeddings through Negative Rank Loss"
+    },
+    {
+      "url": "final-reports/final-report-169351230.pdf",
+      "text": "Exploring Strategies for Improved Performance in Multi-Task Learning with Pretrained-BERT"
+    },
+    {
+      "url": "final-reports/final-report-169354456.pdf",
+      "text": "Is training all you need? Exploring further pretraining and multi-task finetuning on BERT"
+    },
+    {
+      "url": "final-reports/final-report-169357817.pdf",
+      "text": "BERT-MTS: Fine Tuning BERT for Multi-Task Serving"
+    },
+    {
+      "url": "final-reports/final-report-169360866.pdf",
+      "text": "MinBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169360903.pdf",
+      "text": "Multi-task NLP with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169362421.pdf",
+      "text": "Implementing Projected Attention Layers (PALs) for Joint Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169362462.pdf",
+      "text": "Losing to Win: Evaluating the Success of Various Loss Functions Within Multitask Settings"
+    },
+    {
+      "url": "final-reports/final-report-169367207.pdf",
+      "text": "minBERT and Multi-Task Learning for Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169367856.pdf",
+      "text": "Multiple Strategies to Improve minBERT Multitask Learning"
+    },
+    {
+      "url": "final-reports/final-report-169368046.pdf",
+      "text": "Investigating BERT through Fine-Tuned Regularization and Layer-Level Adaptations for Multi-Task Performance."
+    },
+    {
+      "url": "final-reports/final-report-169368403.pdf",
+      "text": "Adapting the Contrast-Consistent Search Method to Multiclass Classification"
+    },
+    {
+      "url": "final-reports/final-report-169368723.pdf",
+      "text": "Multi-Task Learning With a BERT-y Good Model"
+    },
+    {
+      "url": "final-reports/final-report-169369468.pdf",
+      "text": "Multitask Learning with Pre-trained BERT"
+    },
+    {
+      "url": "final-reports/final-report-169369506.pdf",
+      "text": "Pals and Gradient Vaccine for NLP Multitask Learning"
+    },
+    {
+      "url": "final-reports/final-report-169370473.pdf",
+      "text": "Fine-Tuning BERT with Multi-Task Learning, Gradient Surgery, and Masked Language Modeling for Downstream NLP Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169372696.pdf",
+      "text": "Cuts and Stitches: Does Model Merging Produce Better Multitask Learners?"
+    },
+    {
+      "url": "final-reports/final-report-169372795.pdf",
+      "text": "minBERT for Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169372839.pdf",
+      "text": "BERT Multi-Task Cosine Surgery: Applying Cosine Similarity and Gradient Surgery in a BERT Multi-Task Fine-Tuning Setting"
+    },
+    {
+      "url": "final-reports/final-report-169372989.pdf",
+      "text": "Learning Better Together: Exploring Multi-Task Learning for Natural Language"
+    },
+    {
+      "url": "final-reports/final-report-169374260.pdf",
+      "text": "BERT\u2019s Mean Teacher and Multitask Fine-Tuning"
+    },
+    {
+      "url": "final-reports/final-report-169374471.pdf",
+      "text": "Contrastive Pretraining of minBERT to Improve Performance in Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169374715.pdf",
+      "text": "Improving MinBERT: Gradient Surgery and Mixed-Precision Training"
+    },
+    {
+      "url": "final-reports/final-report-169374771.pdf",
+      "text": "Extending BERT for General Task Applicability"
+    },
+    {
+      "url": "final-reports/final-report-169376110.pdf",
+      "text": "Around the BERT model: from a basic implementation to advanced optimizations and Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169377228.pdf",
+      "text": "Multitask BERT"
+    },
+    {
+      "url": "final-reports/final-report-169377876.pdf",
+      "text": "Exploring Methods to Improve Robustness of Downstream Tasks for the BERT Language Model"
+    },
+    {
+      "url": "final-reports/final-report-169381517.pdf",
+      "text": "Exploring Multitask BERT Optimizations for Sentiment Classification, Paraphrase Detection, and Semantic Textual Similarity"
+    },
+    {
+      "url": "final-reports/final-report-169387098.pdf",
+      "text": "BERT-CF: Contrastive Flows for MultiTask-BERT"
+    },
+    {
+      "url": "final-reports/final-report-169397219.pdf",
+      "text": "Investigate multitask Performance of minBERT Ensemble"
+    },
+    {
+      "url": "final-reports/final-report-169425270.pdf",
+      "text": "Multi-task Fine-tuning with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169426570.pdf",
+      "text": "BERT With Multitask Fine-Tuning and Loss Construction"
+    },
+    {
+      "url": "final-reports/final-report-169430209.pdf",
+      "text": "Sentence part-enhanced minBERT: Incorporating sentence parts to improve BERT performance on downstream tasks"
+    },
+    {
+      "url": "final-reports/final-report-169460449.pdf",
+      "text": "Improving Multitask MinBERT with Regularized Optimization and Contrastive Learning"
+    },
+    {
+      "url": "final-reports/final-report-169472020.pdf",
+      "text": "Multi-task Learning with BERT in NLP"
+    },
+    {
+      "url": "final-reports/final-report-169473332.pdf",
+      "text": "Unitary Scalarization or Gradient Surgery? Best Practices for Multitask Fine-Tuning"
+    },
+    {
+      "url": "final-reports/final-report-169475398.pdf",
+      "text": "Generalizing BERT through Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169489469.pdf",
+      "text": "minBERT and extensions for downstream tasks"
+    },
+    {
+      "url": "final-reports/final-report-169492472.pdf",
+      "text": "Multitask BERT: Exploration and Extension"
+    },
+    {
+      "url": "final-reports/final-report-169496776.pdf",
+      "text": "CS 224N: MinBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169498574.pdf",
+      "text": "BERT Fine-Tuning with Contrastive Loss and Smoothness-Inducing Regularization"
+    },
+    {
+      "url": "final-reports/final-report-169499186.pdf",
+      "text": "BERT Extension Using SMART and Cosine Similarity Methodology"
+    },
+    {
+      "url": "final-reports/final-report-169500618.pdf",
+      "text": "Improving minBERT Performance on Multiple Tasks through In-domain Pretraining, Negatives Ranking Loss Learning, and Hyperparameter Optimization"
+    },
+    {
+      "url": "final-reports/final-report-169501632.pdf",
+      "text": "miniBERT and Multitasking: An Architectural Analysis"
+    },
+    {
+      "url": "final-reports/final-report-169501726.pdf",
+      "text": "Fine-tuning Multi-Task Learning in BERT Model"
+    },
+    {
+      "url": "final-reports/final-report-169503425.pdf",
+      "text": "Failures of Improving minBERT with Similarity-based Triplet Networks"
+    },
+    {
+      "url": "final-reports/final-report-169503936.pdf",
+      "text": "Improving MiniBERT\u2019s Semantic Performance with Semantic-rich Sentence Embeddings"
+    },
+    {
+      "url": "final-reports/final-report-169505895.pdf",
+      "text": "Walk Less and Only Down Smooth Valleys"
+    },
+    {
+      "url": "final-reports/final-report-169506118.pdf",
+      "text": "Use Siamese BERT-Networks to fine-tune minBERT with downstream tasks"
+    },
+    {
+      "url": "final-reports/final-report-169506594.pdf",
+      "text": "Exploring Multi-Task Learning for Robust Language Encoding with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169506753.pdf",
+      "text": "BERT and MNRLLie: Extending minBERT with Deep Metric Learning and Gradient Surgery"
+    },
+    {
+      "url": "final-reports/final-report-169507190.pdf",
+      "text": "Impact of BERT Extensions on Cross-Domain Text Classification"
+    },
+    {
+      "url": "final-reports/final-report-169507218.pdf",
+      "text": "Fine-tuning BERT for Sentiment Analysis, Paraphrase Detection and Semantic Textual Similarity"
+    },
+    {
+      "url": "final-reports/final-report-169508330.pdf",
+      "text": "Optimizing Multi-Task Classification Finetuning in BERT: a Multi-Pronged Approach"
+    },
+    {
+      "url": "final-reports/final-report-169508409.pdf",
+      "text": "Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump"
+    },
+    {
+      "url": "final-reports/final-report-169508469.pdf",
+      "text": "Investigating BERT Model\u2019s Abilities in Multi-Task Learning and Methods for Performance Improvement"
+    },
+    {
+      "url": "final-reports/final-report-169508547.pdf",
+      "text": "Investigating Methods of Using Context to Augment pre-trained Language Models for Question Answering"
+    },
+    {
+      "url": "final-reports/final-report-169508583.pdf",
+      "text": "Engagement-based response generation for open-domain dialogue"
+    },
+    {
+      "url": "final-reports/final-report-169508601.pdf",
+      "text": "Style EmuLoRAtion in Text Generation: A Case Study with Joe Biden and Donald Trump"
+    },
+    {
+      "url": "final-reports/final-report-169509036.pdf",
+      "text": "BERT and Learnie: Multi-task Classification Across Semantics Street"
+    },
+    {
+      "url": "final-reports/final-report-169510902.pdf",
+      "text": "Combining Improvements for a Better BERT"
+    },
+    {
+      "url": "final-reports/final-report-169511373.pdf",
+      "text": "BERT Goes to College: Exploring additional pretraining and multitask fine-tuning strategies with minBERT"
+    },
+    {
+      "url": "final-reports/final-report-169512769.pdf",
+      "text": "Fine-tuning minBERT on Downstream Tasks with Gradient Surgery and Weighted Losses"
+    },
+    {
+      "url": "final-reports/final-report-169514243.pdf",
+      "text": "Efficient Finetuning for Multi-tasking minBERT"
+    },
+    {
+      "url": "final-reports/final-report-169531125.pdf",
+      "text": "Enhancing BERT with Self-Supervised Attention"
+    },
+    {
+      "url": "final-reports/final-report-169549027.pdf",
+      "text": "BERT Fine-tuning with Meta Learning"
+    },
+    {
+      "url": "final-reports/final-report-169563197.pdf",
+      "text": "Multitask Finetuning on BERT using Gradient Surgery and Linear Probing before Finetuning"
+    },
+    {
+      "url": "final-reports/final-report-169568390.pdf",
+      "text": "Low Rank Adaptation for Multitask BERT"
+    },
+    {
+      "url": "final-reports/final-report-169576388.pdf",
+      "text": "Three Heads Are Better Than One"
+    },
+    {
+      "url": "final-reports/final-report-169590512.pdf",
+      "text": "Multi-task Learning using BERT"
+    },
+    {
+      "url": "final-reports/final-report-169591022.pdf",
+      "text": "Enhancing minBERT for Sentence Similarity with Cosine Similarity and Contrastive Learning"
+    },
+    {
+      "url": "final-reports/final-report-169603383.pdf",
+      "text": "Evaluating fine-tuning methods for robust multi-task sentence embeddings"
+    },
+    {
+      "url": "final-reports/final-report-169611889.pdf",
+      "text": "Fine-tuning minBERT for Various Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169620805.pdf",
+      "text": "Pre-training BERT: Swapped Subject Phrase Detection"
+    },
+    {
+      "url": "final-reports/final-report-169621261.pdf",
+      "text": "BERT: A Master of All Trades or Jack of None?"
+    },
+    {
+      "url": "final-reports/final-report-169626435.pdf",
+      "text": "Fine Tuning Multi Downstream Tasks based on BERT with Gradient Surgery"
+    },
+    {
+      "url": "final-reports/final-report-169659061.pdf",
+      "text": "Three Heads Are Better Than One"
+    },
+    {
+      "url": "final-reports/final-report-169667224.pdf",
+      "text": "Building Robust Adaptation for Multi-Task Learning over minBERT"
+    },
+    {
+      "url": "final-reports/final-report-169672168.pdf",
+      "text": "minBERT Optimization with the SMART Learning Framework"
+    },
+    {
+      "url": "final-reports/final-report-169683991.pdf",
+      "text": "Multi-task BERT Classification"
+    },
+    {
+      "url": "final-reports/final-report-169695581.pdf",
+      "text": "Multitask minBert"
+    },
+    {
+      "url": "final-reports/final-report-169710070.pdf",
+      "text": "BERT Finetuning Analysis"
+    },
+    {
+      "url": "final-reports/final-report-169716561.pdf",
+      "text": "BERT++: Trustworthy MultiTask Learning with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169717602.pdf",
+      "text": "Multi-Task Learning for Robust Contextualized Sentence Embedding Generation"
+    },
+    {
+      "url": "final-reports/final-report-169720334.pdf",
+      "text": "PolarBERT: Enhancing Robustness and Generalizability of BERT Sentence Embeddings through Multiple Negatives Ranking Loss and Contrastive Learning"
+    },
+    {
+      "url": "final-reports/final-report-169722560.pdf",
+      "text": "Multi-Task Learning with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169723470.pdf",
+      "text": "Investigating minBERT\u2019s Performance on Negated Sentence Classification"
+    },
+    {
+      "url": "final-reports/final-report-169724124.pdf",
+      "text": "Enhance minBERT\u2019s Performance on Multiple Sentence-Level Tasks using Downstream Techniques"
+    },
+    {
+      "url": "final-reports/final-report-169724933.pdf",
+      "text": "minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169724968.pdf",
+      "text": "Data Augmentation with Feedback Control for BERT Multitask Finetuning"
+    },
+    {
+      "url": "final-reports/final-report-169725258.pdf",
+      "text": "BERT-based Multi-task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169726902.pdf",
+      "text": "MultitaskBERT with Contrastive Pretraining and Fine-Grained Feature Learning"
+    },
+    {
+      "url": "final-reports/final-report-169727153.pdf",
+      "text": "minBERT and Multi-task Training with Gradient Surgery"
+    },
+    {
+      "url": "final-reports/final-report-169728058.pdf",
+      "text": "A Comprehensive Analysis of Fine-Tuning Strategies for BERT"
+    },
+    {
+      "url": "final-reports/final-report-169728460.pdf",
+      "text": "SuperBERT: Multi-task Finetuning with Domain Adaptation"
+    },
+    {
+      "url": "final-reports/final-report-169729336.pdf",
+      "text": "SMARTBert: Improving BERT Model Performance on Downstream Tasks Using Smoothness Inducing Adversarial Regularization"
+    },
+    {
+      "url": "final-reports/final-report-169729403.pdf",
+      "text": "Adversarial Transfer Learning for Continuous Natural Language Representation"
+    },
+    {
+      "url": "final-reports/final-report-169729542.pdf",
+      "text": "SerBERTus: A SMART Three-Headed BERT Ensemble"
+    },
+    {
+      "url": "final-reports/final-report-169729697.pdf",
+      "text": "Techniques for Extracting Meaningful BERT Sentence Embeddings for Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169729988.pdf",
+      "text": "Contrastive Learning for Generalizable Sentence Embeddings"
+    },
+    {
+      "url": "final-reports/final-report-169730024.pdf",
+      "text": "MT-BERT: Fine-tuning BERT for Downstream Tasks Using Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-169730119.pdf",
+      "text": "Prototypical Pre-Training for Robust Multi-Task Learning in Natural Language Processing"
+    },
+    {
+      "url": "final-reports/final-report-169734788.pdf",
+      "text": "minBERT and Multiple Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169739344.pdf",
+      "text": "Pals for PALs: Exploring Extensions to Projected Attention Layers for Sentence-Level Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169818388.pdf",
+      "text": "How to Fine-Tune BERT for Multiple Tasks?"
+    },
+    {
+      "url": "final-reports/final-report-169838451.pdf",
+      "text": "Finetuning a multitask BERT for downstream tasks"
+    },
+    {
+      "url": "final-reports/final-report-169839493.pdf",
+      "text": "Genre Classifications using Book and Film Descriptions"
+    },
+    {
+      "url": "final-reports/final-report-169852881.pdf",
+      "text": "Multitask Bert with Task Embedded Attentions (TEA-BERT)"
+    },
+    {
+      "url": "final-reports/final-report-169889383.pdf",
+      "text": "Fine-Tuning BERT for Sentiment Analysis, Paraphrase Detection and Semantic Text Similarity NLP Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169902736.pdf",
+      "text": "MOPS: Memory Occupancy and Performance Surveying when using Late-Stage Hard Parameter Sharing for BERT Multitask Learning"
+    },
+    {
+      "url": "final-reports/final-report-169906158.pdf",
+      "text": "Multi-Task Learning BERT Model with Task-Specific Decoders"
+    },
+    {
+      "url": "final-reports/final-report-169916770.pdf",
+      "text": "Default Final Project: Improving minBERT with Entailment Learning"
+    },
+    {
+      "url": "final-reports/final-report-169917752.pdf",
+      "text": "Leave It To BERT: Exploring Methods for Robust Multi-Task Performance"
+    },
+    {
+      "url": "final-reports/final-report-169919951.pdf",
+      "text": "Extending BERT with Multi-task and Meta-learning"
+    },
+    {
+      "url": "final-reports/final-report-169930418.pdf",
+      "text": "Default Final Project: minBERT and Downstream Tasks (Multi-task Learning)"
+    },
+    {
+      "url": "final-reports/final-report-169939523.pdf",
+      "text": "Freeze Your Layers"
+    },
+    {
+      "url": "final-reports/final-report-169939950.pdf",
+      "text": "Robust Embeddings using Contrastive and Multiple Negatives on BERT"
+    },
+    {
+      "url": "final-reports/final-report-169956358.pdf",
+      "text": "A Sentence-BERT Extension to the minBERT Model"
+    },
+    {
+      "url": "final-reports/final-report-169957033.pdf",
+      "text": "BERTer Multi-task Fine-tuning for Sentence-Level Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169961814.pdf",
+      "text": "Enhanced generalizable minBERT model for multiple downstream tasks"
+    },
+    {
+      "url": "final-reports/final-report-169964588.pdf",
+      "text": "Finetuning minBERT Model for Multiple Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-169969295.pdf",
+      "text": "Adapting BERT for Multi-Task Learning with PALs"
+    },
+    {
+      "url": "final-reports/final-report-169969369.pdf",
+      "text": "Beyond BERT: Deepening Natural Language Understanding with Multi-Task Learning and Advanced Embedding Techniques"
+    },
+    {
+      "url": "final-reports/final-report-169971037.pdf",
+      "text": "Extension-BERT: Multitask Learning with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169977570.pdf",
+      "text": "SBRRT: Investigating Extensions on BERT"
+    },
+    {
+      "url": "final-reports/final-report-169981883.pdf",
+      "text": "Data Augmentation for Multi-task BERT models Stanford CS224N Default Project"
+    },
+    {
+      "url": "final-reports/final-report-169989122.pdf",
+      "text": "Multitasking with BERT"
+    },
+    {
+      "url": "final-reports/final-report-169997382.pdf",
+      "text": "minBERT and Extensions over Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-170002492.pdf",
+      "text": "Enhancing miniBERT: Exploring Methods to Improve BERT Performance"
+    },
+    {
+      "url": "final-reports/final-report-170013346.pdf",
+      "text": "We do it BERTer: Comparison of Finetuning Methods to Improve Sentence Embeddings"
+    },
+    {
+      "url": "final-reports/final-report-170016958.pdf",
+      "text": "Exploring minBERT Performance Optimizations"
+    },
+    {
+      "url": "final-reports/final-report-170026307.pdf",
+      "text": "Implementing minBERT and Extensions for Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-170032558.pdf",
+      "text": "Parameter Efficient Fine-tuning for Multi-task Learning"
+    },
+    {
+      "url": "final-reports/final-report-170040673.pdf",
+      "text": "Comparative Analysis of SimCSE for minBERT Optimization with Multiple Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-170044850.pdf",
+      "text": "SimCSE Lessens your Need to Seek BERT\u2019s Attention"
+    },
+    {
+      "url": "final-reports/final-report-170046287.pdf",
+      "text": "Optimizing minBERT for Multiple Classification Tasks"
+    },
+    {
+      "url": "final-reports/final-report-170046527.pdf",
+      "text": "Multitasking with minBERT"
+    },
+    {
+      "url": "final-reports/final-report-170047553.pdf",
+      "text": "minBERT for Sentiment Analysis, Paraphrase Detection, and Semantic Textual Similarity"
+    },
+    {
+      "url": "final-reports/final-report-170047881.pdf",
+      "text": "minBERT and Downstream Tasks"
+    },
+    {
+      "url": "final-reports/final-report-170048780.pdf",
+      "text": "Training MinBERT with Contrastive Learning"
+    },
+    {
+      "url": "final-reports/final-report-170049400.pdf",
+      "text": "Improving BERT computational efficiency"
+    },
+    {
+      "url": "final-reports/final-report-170049507.pdf",
+      "text": "Glaucoma Surgery Outcome Prediction Using Progress Notes: A Comparative Study"
+    },
+    {
+      "url": "final-reports/final-report-170143680.pdf",
+      "text": "BERT for Sentiment Analysis, Paraphrase Detection and Semantic Textual Similarity with Cosine Similarity"
+    },
+    {
+      "url": "final-reports/final-report-170190363.pdf",
+      "text": "Multitasking with a single set of BERT embeddings"
+    },
+    {
+      "url": "final-reports/final-report-170371893.pdf",
+      "text": "Enhancing minBert Embeddings for Multiple Downstream Tasks Stanford CS224N Default Project"
+    },
+    {
+      "url": "final-reports/final-report-170384864.pdf",
+      "text": "Convolutional Gated Unit for Improved Multi-Task Learning"
+    },
+    {
+      "url": "final-reports/final-report-170641802.pdf",
+      "text": "BERT Downstream task training utilizing different pooling methods"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/stanford-nlp-logo-new.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/stanfordlogo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/hudsonrivertrading.png",
+      "alt": ""
+    },
+    {
+      "src": "images/forethought.png",
+      "alt": ""
+    },
+    {
+      "src": "images/huggingface.png",
+      "alt": ""
+    },
+    {
+      "src": "images/servicenow.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/apple.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/janestreet.png",
+      "alt": ""
+    },
+    {
+      "src": "images/memai.png",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+      [About Us](../index.html)
+      [Blog](http://lmfatmit.blogspot.com/)
+      [FAQs](../faq.html)
+      [People](../people.html)
+      [Photos](../gallery.html)
+      [Contact Us](../contact.html)
+    LMF Class of 2027
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Alex Fan">
+            </div>
+          Alex Fan
+          Alex is from the greater Boston Region is planning to major in 6-4 and 18. He enjoys anything food (cooking, baking, fermentation, eating, you named it), anything Broadway, and a bit of the piano on the side. He also recently became a francophile and dreams about returning to Parisian cafes. In his spare time, he also likes to make random programming projects and write blog posts.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Locke Cai">
+            </div>
+          Locke Cai
+          Wassup dawgs, I'm Locke Cai, a freshy froshy member of French House. I'm your stereotypical CS nerd at MIT planning on doing course 6-4 & 18. Besides CS, piano is super dope, I really hope to join Chamber Music Society (CMS) soon-ish. ALSO, I love to ponder about random philosophical stuff when I have too much free time, so feel free to hit me up with philosophical questions.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Tony Jimenez">
+            </div>
+          Tony Jimenez
+          I'm a rather light-hearted person. I casually do a lotta things but am not really good at any of them. Kinda just vibin' if you wanna talk, I'm the funny little dude with the 'stache.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Eleanor Li">
+            </div>
+          Eleanor Li
+          Eleanor is from Beijing, China and has lived in Simi Valley, California for 4 years until coming to Cambridge. She is interested in pretty much everything related (or adjacent) to the environment and is currently considering course 1-12 or 6-4. She enjoys ice skating (synchro!), taking pictures, reading (especially historical fiction and poetry), and listening to music.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Jennifer Espinoza Maldonado">
+            </div>
+          Jennifer Espinoza Maldonado
+          Jennifer is a '27 studying chemical engineering with a minor in environmental engineering. She is from the beautiful city of Los Angeles, California. She loves anything sustainability related. She loves to read, and she is always looking for book recs. On Friday nights, you can always find her dancing bachata and salsa at LDC! She is very open to have a good conversation and have lately been obsessed with making bread :)
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Katherine McEwan">
+            </div>
+          Katherine McEwan
+          Katherine (she/they) is a '27 from New Hampshire interested in linguistics and computer and cognitive sciences. They are on the women's crew team and will try to convince you to join if you talk to them about it! She is also an avid knitter and crocheter and enjoys baking things that are overly complex.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Christian Cassamajor-Paul">
+            </div>
+          Christian Cassamajor-Paul
+          Christian, despite only being a little frosh, is currently the tallest member of French House. He is always excited to learn new things and have conversations about people's interests. He has been known to talk about music for hours on end and has over 4 instruments under his belt. Christian likes playing video games, watching anime, attempting to arrange music, and he has enough books on his desk to make you think he likes reading (he does).
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Emilia Szczepaniak">
+            </div>
+          Emilia Szczepaniak
+          Emilia is a 6-1 from northern NJ with a love for SpongeBob, the color lime green, and dark chocolate. She supports the Oxford comma and writes emoticons with noses (e.g. :-)). She likes staring at the Boston skyline too much to the point where she will forcefully take long routes to places just to maximize her time admiring the view over the Charles.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Theo Gerst">
+            </div>
+          Theo Gerst
+          Theo is from Berkeley, California and is feeling very cold in Boston. He’s interested in computer science and math (probably one of the most unique combination of majors at MIT) and also loves playing the piano. He’s used to playing jazz but is now trying out pop music with MIT Live. Most of the time you can find him at the motorsports shop tinkering with PCBs and whatever else they do over there.

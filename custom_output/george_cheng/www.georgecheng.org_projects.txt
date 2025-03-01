@@ -1,0 +1,121 @@
+            0
+          Background
+            Social
+            Title and nav wrapper
+              Title
+                  [George Cheng](/)
+              Nav
+                      [Home](/)
+                      [Research](https://scholar.google.com/citations?user=nU2wGKIAAAAJ&hl=en)
+                      [Projects](/projects)
+            Actions
+                [Contact Me](mailto:gcheng713@gmail.com?)
+            Burger
+                Open Menu
+                Close Menu
+      (Mobile) Menu Navigation
+                Menu Navigation
+                            HERa
+                            is an
+                            all-in-one tech platform
+                            designed to empower underprivileged women with access to safe and legal abortion services. By integrating resources like
+                            location-based clinic finders
+                            ,
+                            telemedicine consultations
+                            , and
+                            confidential support networks
+                            , HERa ensures that critical healthcare is accessible and discreet.
+                            VocAlarm
+                          VocAlarm is a
+                            Speech-to-Speech (STS)
+                            powered motivational alarm clock that seamlessly integrates with your Google Calendar, helping you wake up with purpose by aligning your wake-up call to your meetings, tasks, and personal goals.
+                          Customize your morning motivation with the voices of iconic figures like Yoda or Muhammad Ali to jumpstart your day.
+                          Our team was selected as a finalist in the
+                              MIT AI Hackathon
+                            . We traveled to NYC to present VocAlarm, where we earned $5,000 in
+                            OpenAI credits
+                            .
+                            Tally.AI
+                            is an AI tool to help researchers identify
+                            emerging studies and competing work
+                            from other researchers. Our team (
+                            Dylan, Yimeng, Ziping, and I
+                            ) will be releasing an MVP for beta testing in early
+                            February
+                            . Sign up on our waitlist
+                              here
+                            Forever
+                            utlizes cutting-edge AI technologies such as API-pulling, MLLMs, AutoGPT, Stable Diffusion, and Generative AI to create an avatar that accurately mimics the likeness of real people.
+                          Our research offers
+                            proof-of-concept
+                            , with simulations demonstrating
+                            lifelike interactions
+                            for applications like virtual companionship and communication with lost loved ones.
+                          Forever was recognized as
+                            “Best Idea”
+                            and
+                            “Best Project”
+                            at the Westlake University AI Open Course Project Showcase.
+                            DiaMiR
+                            uses recent advances in microRNA technology and microneedles to mitigate the adverse effects of Type-2 Diabetes (T2D). My research provides
+                            proof-of-concept, in-vitro, and in-vivo studies
+                            for developing a
+                            cost-effective and accessible product
+                            to treat T2D.
+                          DiaMiR offers the following advantages:
+                            1)
+                            addressing the underlying biological mechanism of insulin insensitivity;
+                            2)
+                            increase in cost-effectiveness of T2D treatments: DiaMiR costs
+                            $3 per day
+                            vs. insulin-based treatments that cost
+                            $40-50 per day
+                            ; and
+                            3)
+                            increasing patient compliance and privacy: DiaMiR can be concealed like a
+                            “bio-tattoo”
+                          My nonprofit,
+                              STEMable
+                            , encouraged children with T2D to use scientific research as a positive outlet.
+                          My work is also being recognized by
+                              my community and school.
+                            FloodGate
+                            is a revolutionary web-based application employing advanced computational models to predict flood patterns. Utilizing geographic elevation data, FloodGate generates
+                            accurate, interactive 3D flood models
+                            . The model uses mathematical models using
+                              Wolfram | Alpha
+                            cellular automatas
+                            that display data for water flow and accumulation of water.
+                          FloodGate helps alert communities in advance, enabling the protection of critical infrastructure, and providing
+                            accessible, accurate
+                            information to aid efficient relief operations. In addition, being recognized as an
+                              Earth Prize Winner
+                            FloodGate hopes to mitigate the environmental impacts of
+                              erosion, pollution, and overall harm to wildlife.
+                            O.M.G.
+                            Oral-fluid Monitoring of Glucose (OMG)
+                            revolutionizes glucose monitoring by offering a noninvasive Bluetooth-enabled alternative using affordable materials to make a
+                            wearable watch
+                          Through extensive testing, including
+                            commercial, ex-vivo, and in-vivo methods
+                            , OMG demonstrated accuracy and reliability compared to traditional monitoring methods. This device's noninvasiveness, portability, and cost-effectiveness highlight its potential to transform diabetes management, providing a
+                            practical and innovative solution for millions.
+                          Recognized by the
+                              Department of Defense
+                            and the
+                              Congressional App Challenge
+                            , OMG hopes to be commercialized and leased to
+                            millions of T2D patients.
+                            PuriScan
+                          The
+                            app
+                            500x cheaper
+                            than commercial options and
+                            750x faster
+                            than laboratory testing.
+                          PuriScan can rapidly assess the contents of water samples in
+                            less than
+                            10 seconds,
+                            costing only
+                            20 cents each.
+                        gjcheng [at] mit [dot] edu

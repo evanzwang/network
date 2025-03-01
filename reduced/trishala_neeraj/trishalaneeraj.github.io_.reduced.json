@@ -1,0 +1,28 @@
+{
+  "title": "Trishala's Blog",
+  "meta_description": "",
+  "main_content": "July 26, 2020 Data Labeling using Weak Supervision: In Action In this blog post, I will share my takeaways and results from using Weak Supervision to label Jigsaw\u2019s Comments data as toxic or non-toxic comments. In my previous July 05, 2020 Weak Supervision for Online Discussions When working on the data I used for my previous blog post, I grew particularly interested in learning how the dataset was labeled for toxicity and identities. I believe that... April 04, 2020 Feature-based Approach with BERT BERT is a language representation model pre-trained on a very large amount of unlabeled text corpus over different pre-training tasks. It was proposed in the paper BERT: Pre-training of... December 22, 2017 Semantic Entailment A key part of our understanding of natural language is the ability to understand sentence semantics. <!-- Essentially, given a piece of text the goal is to understand the additional... </p> August 25, 2017 Summer 2017 @BuzzFeed Data Science This blog post was originally published by me on Medium and can be found here. It describes my project at BuzzFeed during the period of my summer internship.... 1",
+  "links": [
+    {
+      "url": "/2020-07-26/data-labeling-weak-supervision",
+      "text": "July 26, 2020\nData Labeling using Weak Supervision: In Action\n\n\n          In this blog post, I will share my takeaways and results from using Weak Supervision to label Jigsaw\u2019s Comments data as toxic or non-toxic comments. In my previous"
+    },
+    {
+      "url": "/2020-07-05/weak-supervision",
+      "text": "July 05, 2020\nWeak Supervision for Online Discussions\n\n\n          When working on the data I used for my previous blog post, I grew particularly interested in learning how the dataset was labeled for toxicity and identities. I believe that..."
+    },
+    {
+      "url": "/2020-04-04/feature-based-approach-with-bert",
+      "text": "April 04, 2020\nFeature-based Approach with BERT\n\n\n          BERT is a language representation model pre-trained on a very large amount of unlabeled text corpus over different pre-training tasks. It was proposed in the paper BERT: Pre-training of..."
+    },
+    {
+      "url": "/2017-12-22/semantic-entailment",
+      "text": "December 22, 2017\nSemantic Entailment\n\n\n          A key part of our understanding of natural language is the ability to understand sentence semantics. <!-- Essentially, given a piece of text the goal is to understand the additional...\n        </p>"
+    },
+    {
+      "url": "/2017-08-25/buzzfeed-summer-internship",
+      "text": "August 25, 2017\nSummer 2017 @BuzzFeed Data Science\n\n\n           This blog post was originally published by me on Medium and can be found here. It describes my project at BuzzFeed during the period of my summer internship...."
+    }
+  ],
+  "images": []
+}

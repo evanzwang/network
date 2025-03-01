@@ -1,0 +1,101 @@
+{
+  "title": "General Analysis: Automated AI Safety and Red Teaming Tools | Y Combinator",
+  "meta_description": "Automated AI Safety and Red Teaming Tools. Founded in 2024 by Rez Havaei, General Analysis has 2 employees based in San Francisco, CA, USA.",
+  "main_content": "Home \u203a Companies \u203a General Analysis General Analysis Automated AI Safety and Red Teaming Tools Y Combinator Logo S24 Active artificial-intelligence saas trust-&-safety San Francisco https://generalanalysis.com Automated AI Safety and Red Teaming Tools General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks\u2014financial, ethical, and otherwise\u2014where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness. General Analysis Founded: 2024 Team Size: 2 Status: Active Location: San Francisco Group Partner: Jared Friedman Active Founders Rez Havaei , Founder Rez is the Co-Founder and CEO @ General Analysis. Previously he worked at Jane Street as a trader, as well as NVIDIA and Cohere as an AI researcher. He also helped build an LLM evaluation platform and benchmark at vals.ai as the founding engineer. Rez Havaei General Analysis Company Launches General Analysis: Finding Failure Modes for AI Models See original launch post \u203a TL;DR General Analysis provides safety and performance reports for enterprise AI models, offering businesses clear insights into model vulnerabilities. Using a growing repository of automated red-teaming, jailbreaking, and interpretability techniques, we uncover and address critical failure modes. Challenge As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks\u2014financial, ethical, and otherwise\u2014where errors can lead to substantial consequences. We predict that a large percentage of the world\u2019s cognitive tasks will soon be performed by AI systems across industries. However, this shift brings critical challenges: Safety and performance efforts are not keeping pace with AI capabilities: Research and tools to evaluate AI systems have not kept up with the complexity and impact of modern models. The field is fragmented: Approaches to AI safety and evaluation are scattered, lacking a unified framework. Methods lack scalability and automation: Many current techniques are labor-intensive and fail to provide consistent, repeatable insights at scale. Our approach To address these challenges, we offer access to a unified set of tools and methodologies designed to systematically find model failure modes and enhance model robustness. Providing Comprehensive Safety and Performance Reports: We deliver detailed reports to our customers, identifying novel failure modes in their models and providing actionable methods to mitigate them. A Living Knowledge Base: Our repository collects and refines evaluation techniques while keeping pace with emerging exploits and vulnerabilities. This ensures our tools remain effective and relevant across diverse industries and evolving AI applications. An example of our work: Eliciting legal hallucinations in GPT-4o In our recent work, we show how GPT-4o is susceptible to hallucinating when asked about certain legal cases or concepts. The report, data and code are publicly available. We train an attacker model that causes GPT-4o to hallucinate on more than 35% of prompts on a diverse set of legal questions. Learn more at generalanlysis.com or read the full report here . We are looking to connect with: Startups creating LLMs or AI Agents in different sectors (Customer Support, Legal Tech, Medicine, foundation models) for design partnerships. AI Safety, Interpretability, and Evaluation Researchers. If you are interested in working with us or just want to chat please email us at founders@generalanalysis.com . Other Company Launches Kart AI: The AI shopping assistant for all e-commerce brands We build assistants like Amazon Rufus for your catalog. Read Launch \u203a Kart AI \u2013 Your new electronics shopping assistant We help you find and compare electronic products. Read Launch \u203a",
+  "links": [
+    {
+      "url": "/home",
+      "text": "Home"
+    },
+    {
+      "url": "/companies",
+      "text": "Companies"
+    },
+    {
+      "url": "/companies?batch=S24",
+      "text": "Y Combinator LogoS24"
+    },
+    {
+      "url": "/companies/industry/artificial-intelligence",
+      "text": "artificial-intelligence"
+    },
+    {
+      "url": "/companies/industry/saas",
+      "text": "saas"
+    },
+    {
+      "url": "/companies/industry/trust-&-safety",
+      "text": "trust-&-safety"
+    },
+    {
+      "url": "/companies/location/san-francisco-bay-area",
+      "text": "San Francisco"
+    },
+    {
+      "url": "https://generalanalysis.com",
+      "text": "https://generalanalysis.com"
+    },
+    {
+      "url": "https://www.ycombinator.com/people/jared-friedman",
+      "text": "Jared Friedman"
+    },
+    {
+      "url": "https://github.com/General-Analysis/GA",
+      "text": ""
+    },
+    {
+      "url": "/companies/general-analysis",
+      "text": "General Analysis"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rez-havaei",
+      "text": ""
+    },
+    {
+      "url": "/launches/Mey-general-analysis-finding-failure-modes-for-ai-models",
+      "text": "See original launch post \u203a"
+    },
+    {
+      "url": "https://github.com/General-Analysis/GA",
+      "text": "report, data and code are publicly available."
+    },
+    {
+      "url": "http://generalanalysis.com",
+      "text": "generalanlysis.com"
+    },
+    {
+      "url": "https://generalanalysis.com/blog/legal_ai_red_teaming",
+      "text": "here"
+    },
+    {
+      "url": "https://mailto:founders@generalanalysis.com",
+      "text": "founders@generalanalysis.com"
+    },
+    {
+      "url": "/launches/Lkt-kart-ai-the-ai-shopping-assistant-for-all-e-commerce-brands",
+      "text": "Read Launch \u203a"
+    },
+    {
+      "url": "/launches/Lcu-kart-ai-your-new-electronics-shopping-assistant",
+      "text": "Read Launch \u203a"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://bookface-images.s3.amazonaws.com/small_logos/ad4e9323d0b345b07ab2d18cb012014c12ea80e4.png",
+      "alt": ""
+    },
+    {
+      "src": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/9a0ab784f298bd4d38fc0fde49a144e2001b934e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAPEQB5OVP%2F20250301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250301T084201Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJGMEQCIDoerXBssLGv220EH4Au15%2FWl3dFT%2BLbceX%2ButL0E7aHAiATNFN9BoIjQd78Q3kF2lpahwa%2F8xaZiSdxOC5Jmlc55iruAwid%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMJJKngMrCiFRTeZuWKsIDYIlwg2qnh%2BWqqt5F2jE38emOewZwMVy8Nxta8iE5Jp3aCLgCv%2Fr2gR5%2FUDZaXuleXJqUeZPnG57esTvnRalB5FA%2ByHNpMpOceoPCEhMZBGP0OtoV6GCRzAVm%2FtVDQRuZUAGbNcL56G90AQvLwRlJ2ZUZQs83EfhjWXXGjew268CVMmJJAppGM5VUZQjrgEQj%2FKwWo8rp%2B6ytFL9AiqQBK8WjkJrMMGFNjzAyCX5pWz0soAblI94qo08BqrSflSzjIAlt9TAodPZK0K1D8iljDaDVgbOP1aymKGAF2UH99kYc1Jm%2FnqQnO9ygbQZHdgVvWk06F%2FWEQrJQPVbn9zSn2S81p8EwKhnsHhLt%2B8SJh30yb6%2BMp8%2BfiOfovhkNnsWvq5Q6R9yObDueosJ28nN3%2B5GBahUrmA3PuXxa4rDYf%2FjgkMCbVfj4ISKpGMcz%2Bl2rp4%2BnpmdK%2F7Eq8A6kd2A128kK%2BBnLr08grriB3nSteH75pD44pat7fq%2Foh%2Fwe4nCGP8WM932ijhyndZ6hvkjYyNp69LV8Wwsn1YsCXwJrOvoO2uLFlzlkLu1Le25%2FiC7JLCMqlnQFlE7jcDKGCKBSM3BQMIaLir4GOqYBIsC6egHa5sfa%2BBQJIE%2FZWER%2BS5XRaMRc%2FM6638SCc5TV%2FWJo79%2FPuEzvh6O0JggbvM5g1LdNTGqK7c7SVE2pUL3ilk%2BGoG6dKrq%2Fd4L3w9Lm62QG4LUk5XvDCnkAbishQkWKd1El2obFXwwa3qc2FfPAReptsxktuvepjftu2VN2WGzOVlqIj979nHbJWSZZb2GaQq%2BB9EfsIIweeqUsKf4jHPOcRQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d5eb335248a8552cce26b9547538d1bc3498d786712b24517cf57713b83b19b3",
+      "alt": "General Analysis"
+    },
+    {
+      "src": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/4176a8f87fb6fd7cbd66ca1b020109df4c4c7e04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAPEQB5OVP%2F20250301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250301T084201Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGQaCXVzLXdlc3QtMiJGMEQCIDoerXBssLGv220EH4Au15%2FWl3dFT%2BLbceX%2ButL0E7aHAiATNFN9BoIjQd78Q3kF2lpahwa%2F8xaZiSdxOC5Jmlc55iruAwid%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDAwNjIwMTgxMTA3MiIMJJKngMrCiFRTeZuWKsIDYIlwg2qnh%2BWqqt5F2jE38emOewZwMVy8Nxta8iE5Jp3aCLgCv%2Fr2gR5%2FUDZaXuleXJqUeZPnG57esTvnRalB5FA%2ByHNpMpOceoPCEhMZBGP0OtoV6GCRzAVm%2FtVDQRuZUAGbNcL56G90AQvLwRlJ2ZUZQs83EfhjWXXGjew268CVMmJJAppGM5VUZQjrgEQj%2FKwWo8rp%2B6ytFL9AiqQBK8WjkJrMMGFNjzAyCX5pWz0soAblI94qo08BqrSflSzjIAlt9TAodPZK0K1D8iljDaDVgbOP1aymKGAF2UH99kYc1Jm%2FnqQnO9ygbQZHdgVvWk06F%2FWEQrJQPVbn9zSn2S81p8EwKhnsHhLt%2B8SJh30yb6%2BMp8%2BfiOfovhkNnsWvq5Q6R9yObDueosJ28nN3%2B5GBahUrmA3PuXxa4rDYf%2FjgkMCbVfj4ISKpGMcz%2Bl2rp4%2BnpmdK%2F7Eq8A6kd2A128kK%2BBnLr08grriB3nSteH75pD44pat7fq%2Foh%2Fwe4nCGP8WM932ijhyndZ6hvkjYyNp69LV8Wwsn1YsCXwJrOvoO2uLFlzlkLu1Le25%2FiC7JLCMqlnQFlE7jcDKGCKBSM3BQMIaLir4GOqYBIsC6egHa5sfa%2BBQJIE%2FZWER%2BS5XRaMRc%2FM6638SCc5TV%2FWJo79%2FPuEzvh6O0JggbvM5g1LdNTGqK7c7SVE2pUL3ilk%2BGoG6dKrq%2Fd4L3w9Lm62QG4LUk5XvDCnkAbishQkWKd1El2obFXwwa3qc2FfPAReptsxktuvepjftu2VN2WGzOVlqIj979nHbJWSZZb2GaQq%2BB9EfsIIweeqUsKf4jHPOcRQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f94fe5a7fd3b05cfa608fa6ff6d18079f33719ce1b06fd8aa42285c2753ce918",
+      "alt": "Rez Havaei"
+    },
+    {
+      "src": "/media/?type=post&id=87108&key=user_uploads/2009971/aa1f1284-5b69-4ae9-86a2-f460c7d3a7a1",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "title": "dblp: Zhizhuo Zhou",
+  "meta_description": "List of computer science publications by Zhizhuo Zhou",
+  "main_content": "default search action combined dblp search author search venue search publication search Authors: no matches Venues: no matches Publications: no matches ask others Google Google Scholar Semantic Scholar Internet Archive Scholar CiteSeerX ORCID > Home > Persons run query for this person highly cited coauthors co-cited other authors non-coauthors with many coauthors in common highly cited publications co-cited publications authors citing this author number of authors per paper or build your own? showing all ?? records 2024 [c3] Hanzhe Hu , Zhizhuo Zhou , Varun Jampani , Shubham Tulsiani : MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation. CVPR 2024 : 9698-9707 [c2] Zhizhuo Zhou , Jing Zhang , Zhihai Rong : Cooperative Emergence in Structured Populations Mixed with Imitation and Aspiration Learning Dynamics. ISCAS 2024 : 1-5 [i3] Hanzhe Hu , Zhizhuo Zhou , Varun Jampani , Shubham Tulsiani : MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation. CoRR abs/2404.03656 ( 2024 ) 2023 [c1] Zhizhuo Zhou , Shubham Tulsiani : SparseFusion: Distilling View-Conditioned Diffusion for 3D Reconstruction. CVPR 2023 : 12588-12597 2022 [i2] Zhizhuo Zhou , Shubham Tulsiani : SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction. CoRR abs/2212.00792 ( 2022 ) 2020 [i1] Chung Hoon Hong , Yuan Liang , Sagnik Sinha Roy , Arushi Jain , Vihang Agarwal , Ryan Draves , Zhizhuo Zhou , William Chen , Yujian Liu , Martha Miracky , Lily Ge , Nikola Banovic , David Jurgens : Audrey: A Personalized Open-Domain Conversational Bot. CoRR abs/2011.05910 ( 2020 ) 1 Vihang Agarwal [i1] 2 Nikola Banovic 0001 [i1] 3 William Chen [i1] 4 Ryan Draves [i1] 5 Lily Ge [i1] 6 Chung Hoon Hong [i1] 7 Hanzhe Hu [c3] [i3] 8 Arushi Jain [i1] 9 Varun Jampani [c3] [i3] 10 David Jurgens [i1] 11 Yuan Liang [i1] 12 Yujian Liu [i1] 13 Martha Miracky [i1] 14 Zhihai Rong [c2] 15 Sagnik Sinha Roy [i1] 16 Shubham Tulsiani [c3] [i3] [c1] [i2] 17 Jing Zhang [c2] manage site settings To protect your privacy, all features that rely on external API calls from your browser are turned off by default . You need to opt-in for them to become active. All settings here will be stored as cookies with your web browser. For more information see our F.A.Q. Unpaywalled article links Add open access links from to the list of external document links (if available). load links from unpaywall.org Privacy notice: By enabling the option above, your browser will contact the API of unpaywall.org to load hyperlinks to open access articles. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Unpaywall privacy policy . Archived links via Wayback Machine For web page which are no longer available, try to retrieve content from the of the Internet Archive (if available). load content from archive.org Privacy notice: By enabling the option above, your browser will contact the API of archive.org to check for archived content of web pages that are no longer available. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Internet Archive privacy policy . Reference lists Add a list of references from , , and to record detail pages. load references from crossref.org and opencitations.net Privacy notice: By enabling the option above, your browser will contact the APIs of crossref.org , opencitations.net , and semanticscholar.org to load article reference information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the Crossref privacy policy and the OpenCitations privacy policy , as well as the AI2 Privacy Policy covering Semantic Scholar. Citation data Add a list of citing articles from and to record detail pages. load citations from opencitations.net Privacy notice: By enabling the option above, your browser will contact the API of opencitations.net and semanticscholar.org to load citation information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the OpenCitations privacy policy as well as the AI2 Privacy Policy covering Semantic Scholar. OpenAlex data Load additional information about publications from . load data from openalex.org Privacy notice: By enabling the option above, your browser will contact the API of openalex.org to load additional information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the information given by OpenAlex . last updated on 2024-10-04 20:00 CEST by the dblp team all metadata released as open data under CC0 1.0 license see also: Terms of Use | Privacy Policy | Imprint dblp was originally created in 1993 at: since 2018, dblp has been operated and maintained by: the dblp computer science bibliography is funded and supported by:",
+  "links": [
+    {
+      "url": "https://www.dagstuhl.de/en",
+      "text": ""
+    },
+    {
+      "url": "https://sparql.dblp.org",
+      "text": "dblp SPARQL query service"
+    },
+    {
+      "url": "https://blog.dblp.org/2024/09/09/introducing-our-public-sparql-query-service/",
+      "text": "our latest blog post"
+    },
+    {
+      "url": "https://google.com/search?q=",
+      "text": ""
+    },
+    {
+      "url": "https://google.com/search?q=",
+      "text": "Google"
+    },
+    {
+      "url": "https://scholar.google.com/scholar?q=",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://www.semanticscholar.org/search?q=",
+      "text": "Semantic Scholar"
+    },
+    {
+      "url": "https://scholar.archive.org/search?q=",
+      "text": "Internet Archive Scholar"
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/search_result?query=",
+      "text": "CiteSeerX"
+    },
+    {
+      "url": "https://orcid.org/orcid-search/search?searchQuery=",
+      "text": "ORCID"
+    },
+    {
+      "url": "https://dblp.org",
+      "text": "Home"
+    },
+    {
+      "url": "https://dblp.org/pers/",
+      "text": "Persons"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Highly+cited+coauthors+of+Zhizhuo+Zhou%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28DISTINCT+%3Fcite%29+as+%3Fcites%29+%28%3Fcoauthor+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcoauthor+%29+.%0A++%3Fcoauthor+rdfs%3Alabel+%3Fname+.%0A++OPTIONAL+%7B+%3Fcoauthor+dblp%3Aorcid+%3Forcids+.+%7D%0A++OPTIONAL+%7B+%3Fcoauthor+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++%3Fpubl+dblp%3Aomid+%3Fomid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fomid+.%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fcoauthor%0AORDER+BY+DESC%28%3Fcites%29%0ALIMIT+10",
+      "text": "highly cited coauthors"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Papers+that+cite+Zhizhuo+Zhou+do+also+cite+...%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28%3Fother_pers%29+as+%3Ffreq%29+%28%3Fother_pers+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER%28+%3Fother_omid+%21%3D+%3Fthis_omid+%29+.%0A++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++%3Fother_publ+dblp%3AauthoredBy+%3Fother_pers+.%0A++FILTER%28+%3Fother_pers+%21%3D+%3Fthis_pers+%29+.%0A++%3Fother_pers+dblp%3AprimaryCreatorName+%3Fname+.%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fother_pers%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10",
+      "text": "co-cited other authors"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Non-coauthors+of+Zhizhuo+Zhou+with+many+coauthors+in+common%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28DISTINCT+%3Fcoauthor%29+AS+%3Fcount%29+%28%3Fcocoauthor+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fpubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcoauthor+%29+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcoauthor+.%0A++%3Fcopubl+dblp%3AauthoredBy+%3Fcocoauthor+.%0A++FILTER+%28+%3Fauthor+%21%3D+%3Fcocoauthor+%29+.%0A++MINUS+%7B+%3Fcocopubl+dblp%3AauthoredBy+%3Fauthor+.+%3Fcocopubl+dblp%3AauthoredBy+%3Fcocoauthor+%7D%0A++%3Fcocoauthor+rdfs%3Alabel+%3Fname+.%0A++OPTIONAL+%7B+%3Fcocoauthor+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fcocoauthor+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fcocoauthor%0AORDER+BY+DESC%28%3Fcount%29%0ALIMIT+10",
+      "text": "non-coauthors with many coauthors in common"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Highly+cited+publications+by+Zhizhuo+Zhou%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Flabel+%3Fyear+%28COUNT%28DISTINCT+%3Fcite%29+as+%3Fcites%29+%28%3Fpubl+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+WHERE+%7B%0A++VALUES+%3Fauthor+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D%0A++%3Fpubl+dblp%3AauthoredBy+%3Fauthor+.%0A++%3Fpubl+rdfs%3Alabel+%3Flabel+.%0A++%3Fpubl+dblp%3Aomid+%3Fomids+.%0A++OPTIONAL+%7B+%3Fcite+cito%3AhasCitedEntity+%3Fomids+.+%7D%0A++OPTIONAL+%7B+%3Fpubl+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++OPTIONAL+%7B+%3Fpubl+dblp%3Adoi+%3Fdois+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fpubl%0AORDER+BY+DESC%28%3Fcites%29%0ALIMIT+10",
+      "text": "highly cited publications"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Papers+that+cite+Zhizhuo+Zhou+do+also+cite+...%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+schema%3A+%3Chttps%3A%2F%2Fschema.org%2F%3E%0ASELECT+%3Flabel+%3Fyear+%28COUNT%28DISTINCT+%3Fother_cite%29+as+%3Ffreq%29+%28%3Fother_publ+as+%3Fdblp%29+%28SAMPLE%28%3Fdois%29+as+%3Fdoi%29+%3Furl+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fthis_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitingEntity+%3Fsource_omid+.%0A++%3Fother_cite+cito%3AhasCitedEntity+%3Fother_omid+.%0A++FILTER%28+%3Fother_omid+%21%3D+%3Fthis_omid+%29+.%0A++OPTIONAL+%7B%0A++++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++++%3Fother_publ+rdfs%3Alabel+%3Flabel+.%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3AyearOfPublication+%3Fyear+.+%7D%0A++++OPTIONAL+%7B+%3Fother_publ+dblp%3Adoi+%3Fdois+.+%7D%0A++%7D%0A++MINUS+%7B+%3Fother_publ+dblp%3AauthoredBy+%3Fthis_pers+.+%7D%0A++OPTIONAL+%7B+%3Fother_omid+schema%3Aurl+%3Furl+.+%7D%0A%7D%0AGROUP+BY+%3Flabel+%3Fyear+%3Fother_publ+%3Furl%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10",
+      "text": "co-cited publications"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Who+is+citing+Zhizhuo+Zhou%3F%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0APREFIX+cito%3A+%3Chttp%3A%2F%2Fpurl.org%2Fspar%2Fcito%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0ASELECT+%3Fname+%3Faffiliation+%28COUNT%28%3Fother_pers%29+as+%3Ffreq%29+%28%3Fother_pers+as+%3Fdblp%29+%28SAMPLE%28%3Forcids%29+as+%3Forcid%29+WHERE+%7B%0A++VALUES+%3Fthis_pers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D+.%0A++%3Fthis_publ+dblp%3AauthoredBy+%3Fthis_pers+.%0A++%3Fthis_publ+dblp%3Aomid+%3Fthis_omid+.%0A++%3Fcite+cito%3AhasCitedEntity+%3Fthis_omid+.%0A++%3Fcite+cito%3AhasCitingEntity+%3Fother_omid+.%0A++%3Fother_publ+dblp%3Aomid+%3Fother_omid+.%0A++%3Fother_publ+dblp%3AauthoredBy+%3Fother_pers+.%0A++FILTER%28+%3Fother_pers+%21%3D+%3Fthis_pers+%29%0A++%3Fother_pers+dblp%3AprimaryCreatorName+%3Fname+.%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3AprimaryAffiliation+%3Faffiliation+.+%7D%0A++OPTIONAL+%7B+%3Fother_pers+dblp%3Aorcid+%3Forcids+.+%7D%0A%7D%0AGROUP+BY+%3Fname+%3Faffiliation+%3Fother_pers%0AORDER+BY+DESC%28%3Ffreq%29%0ALIMIT+10",
+      "text": "authors citing this author"
+    },
+    {
+      "url": "https://sparql.dblp.org?exec=true&query=%23%23+Number-of-authors+statistic+for+Zhizhuo+Zhou%0APREFIX+dblp%3A+%3Chttps%3A%2F%2Fdblp.org%2Frdf%2Fschema%23%3E%0ASELECT+%3Fnumber_of_authors+%28COUNT%28%3Fnumber_of_authors%29+AS+%3Ffreq%29+WHERE+%7B%0A++VALUES+%3Fpers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D+.%0A++%3Fpubl+dblp%3AauthoredBy+%3Fpers+.%0A++%3Fpubl+dblp%3AnumberOfCreators+%3Fnumber_of_authors+.%0A%7D%0AGROUP+BY+%3Fnumber_of_authors%0AORDER+BY+%3Fnumber_of_authors",
+      "text": "number of authors per paper"
+    },
+    {
+      "url": "https://sparql.dblp.org?query=SELECT+%2A+WHERE+%7B%0A++VALUES+%3Fpers+%7B+%3Chttps%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885%3E+%7D+.%0A%0A%7D",
+      "text": "or build your own?"
+    },
+    {
+      "url": "https://dblp.org/pid/270/8399.html",
+      "text": "Hanzhe Hu"
+    },
+    {
+      "url": "https://dblp.org/pid/124/2785.html",
+      "text": "Varun Jampani"
+    },
+    {
+      "url": "https://dblp.org/pid/135/6623.html",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://dblp.org/db/conf/cvpr/cvpr2024.html#HuZJT24",
+      "text": "CVPR 2024"
+    },
+    {
+      "url": "https://dblp.org/pid/05/3499.html",
+      "text": "Jing Zhang"
+    },
+    {
+      "url": "https://dblp.org/pid/03/7089.html",
+      "text": "Zhihai Rong"
+    },
+    {
+      "url": "https://dblp.org/db/conf/iscas/iscas2024.html#ZhouZR24",
+      "text": "ISCAS 2024"
+    },
+    {
+      "url": "https://dblp.org/pid/270/8399.html",
+      "text": "Hanzhe Hu"
+    },
+    {
+      "url": "https://dblp.org/pid/124/2785.html",
+      "text": "Varun Jampani"
+    },
+    {
+      "url": "https://dblp.org/pid/135/6623.html",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://dblp.org/db/journals/corr/corr2404.html#abs-2404-03656",
+      "text": "CoRR abs/2404.03656"
+    },
+    {
+      "url": "https://dblp.org/pid/135/6623.html",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://dblp.org/db/conf/cvpr/cvpr2023.html#ZhouT23",
+      "text": "CVPR 2023"
+    },
+    {
+      "url": "https://dblp.org/pid/135/6623.html",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://dblp.org/db/journals/corr/corr2212.html#abs-2212-00792",
+      "text": "CoRR abs/2212.00792"
+    },
+    {
+      "url": "https://dblp.org/pid/278/3348.html",
+      "text": "Chung Hoon Hong"
+    },
+    {
+      "url": "https://dblp.org/pid/18/835.html",
+      "text": "Yuan Liang"
+    },
+    {
+      "url": "https://dblp.org/pid/278/3108.html",
+      "text": "Sagnik Sinha Roy"
+    },
+    {
+      "url": "https://dblp.org/pid/180/0969.html",
+      "text": "Arushi Jain"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2625.html",
+      "text": "Vihang Agarwal"
+    },
+    {
+      "url": "https://dblp.org/pid/278/3039.html",
+      "text": "Ryan Draves"
+    },
+    {
+      "url": "https://dblp.org/pid/82/2443.html",
+      "text": "William Chen"
+    },
+    {
+      "url": "https://dblp.org/pid/206/8853.html",
+      "text": "Yujian Liu"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2862.html",
+      "text": "Martha Miracky"
+    },
+    {
+      "url": "https://dblp.org/pid/278/3085.html",
+      "text": "Lily Ge"
+    },
+    {
+      "url": "https://dblp.org/pid/96/10579-1.html",
+      "text": "Nikola Banovic"
+    },
+    {
+      "url": "https://dblp.org/pid/48/4613.html",
+      "text": "David Jurgens"
+    },
+    {
+      "url": "https://dblp.org/db/journals/corr/corr2011.html#abs-2011-05910",
+      "text": "CoRR abs/2011.05910"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=1",
+      "text": "1"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/2625.html",
+      "text": "Vihang Agarwal"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=2",
+      "text": "2"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/96/10579-1.html",
+      "text": "Nikola Banovic 0001"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=3",
+      "text": "3"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/82/2443.html",
+      "text": "William Chen"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=4",
+      "text": "4"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/3039.html",
+      "text": "Ryan Draves"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=5",
+      "text": "5"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/3085.html",
+      "text": "Lily Ge"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=6",
+      "text": "6"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/3348.html",
+      "text": "Chung Hoon Hong"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=7",
+      "text": "7"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=2",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/270/8399.html",
+      "text": "Hanzhe Hu"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=8",
+      "text": "8"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/180/0969.html",
+      "text": "Arushi Jain"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=9",
+      "text": "9"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=2",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/124/2785.html",
+      "text": "Varun Jampani"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=10",
+      "text": "10"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/48/4613.html",
+      "text": "David Jurgens"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=11",
+      "text": "11"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/18/835.html",
+      "text": "Yuan Liang"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=12",
+      "text": "12"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/206/8853.html",
+      "text": "Yujian Liu"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=13",
+      "text": "13"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/2862.html",
+      "text": "Martha Miracky"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=14",
+      "text": "14"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=3",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/03/7089.html",
+      "text": "Zhihai Rong"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=15",
+      "text": "15"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=1",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/278/3108.html",
+      "text": "Sagnik Sinha Roy"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=16",
+      "text": "16"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=2",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/135/6623.html",
+      "text": "Shubham Tulsiani"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=joint\u00b6m=17",
+      "text": "17"
+    },
+    {
+      "url": "https://dblp.org/pid/278/2885.html?view=group\u00b6m=3",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/pid/05/3499.html",
+      "text": "Jing Zhang"
+    },
+    {
+      "url": "https://dblp.org/faq/15696107",
+      "text": "see our F.A.Q."
+    },
+    {
+      "url": "https://unpaywall.org",
+      "text": ""
+    },
+    {
+      "url": "http://unpaywall.org/legal/privacy",
+      "text": "Unpaywall privacy policy"
+    },
+    {
+      "url": "https://web.archive.org",
+      "text": ""
+    },
+    {
+      "url": "https://archive.org/about/terms.php",
+      "text": "Internet Archive privacy policy"
+    },
+    {
+      "url": "https://crossref.org",
+      "text": ""
+    },
+    {
+      "url": "https://opencitations.net",
+      "text": ""
+    },
+    {
+      "url": "https://semanticscholar.org",
+      "text": ""
+    },
+    {
+      "url": "https://www.crossref.org/privacy/",
+      "text": "Crossref privacy policy"
+    },
+    {
+      "url": "https://opencitations.net/about",
+      "text": "OpenCitations privacy policy"
+    },
+    {
+      "url": "https://allenai.org/privacy-policy",
+      "text": "AI2 Privacy Policy"
+    },
+    {
+      "url": "https://opencitations.net",
+      "text": ""
+    },
+    {
+      "url": "https://semanticscholar.org",
+      "text": ""
+    },
+    {
+      "url": "https://opencitations.net/about",
+      "text": "OpenCitations privacy policy"
+    },
+    {
+      "url": "https://allenai.org/privacy-policy",
+      "text": "AI2 Privacy Policy"
+    },
+    {
+      "url": "https://openalex.org",
+      "text": ""
+    },
+    {
+      "url": "https://openalex.org/about",
+      "text": "OpenAlex"
+    },
+    {
+      "url": "https://validator.w3.org/nu/?doc=https%3A%2F%2Fdblp.org%2Fpid%2F278%2F2885.html&showoutline=yes&checkerrorpages=yes",
+      "text": ""
+    },
+    {
+      "url": "https://dblp.org/db/about/team.html",
+      "text": "dblp team"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "text": ""
+    },
+    {
+      "url": "https://opendefinition.org/",
+      "text": "open data"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "text": "CC0 1.0 license"
+    },
+    {
+      "url": "https://dblp.org/db/about/copyright.html",
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://dblp.org/db/about/privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://dblp.org/db/about/imprint.html",
+      "text": "Imprint"
+    },
+    {
+      "url": "https://www.uni-trier.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.dagstuhl.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.bmbf.de/bmbf/en/home/",
+      "text": ""
+    },
+    {
+      "url": "https://mwg.rlp.de/",
+      "text": ""
+    },
+    {
+      "url": "https://www.saarland.de/stk/DE/home/home_node.html",
+      "text": ""
+    },
+    {
+      "url": "https://www.leibniz-gemeinschaft.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.dfg.de/en/",
+      "text": ""
+    },
+    {
+      "url": "https://www.nfdi.de/?lang=en",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://dblp.org/img/lzi-logo.82x57.png",
+      "alt": "Schloss Dagstuhl - Leibniz Center for Informatics"
+    },
+    {
+      "src": "https://dblp.org/img/logo.320x120.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/search.dark.16x16.png",
+      "alt": "search dblp"
+    },
+    {
+      "src": "https://dblp.org/img/search.dark.16x16.png",
+      "alt": "search dblp"
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/waiting.anim.gif",
+      "alt": "waiting..."
+    },
+    {
+      "src": "https://dblp.org/img/clear-mark.medium.16x16.png",
+      "alt": "clear"
+    },
+    {
+      "src": "https://dblp.org/img/search-external.dark.hollow.16x16.png",
+      "alt": "ask others"
+    },
+    {
+      "src": "https://dblp.org/img/google.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/google-scholar.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/semscholar.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/internetarchive.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/citeseer.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/orcid.dark.16x16.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "2"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "2"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "3"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "1"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "2"
+    },
+    {
+      "src": "https://dblp.org/img/n.png",
+      "alt": "3"
+    },
+    {
+      "src": "https://dblp.org/img/cog.dark.24x24.png",
+      "alt": ""
+    },
+    {
+      "src": "https://dblp.org/img/unpaywall-logo.80x16.png",
+      "alt": "unpaywall.org"
+    },
+    {
+      "src": "https://dblp.org/img/wayback-logo.72x14.png",
+      "alt": "web.archive.org"
+    },
+    {
+      "src": "https://dblp.org/img/crossref-logo.60x15.png",
+      "alt": "crossref.org"
+    },
+    {
+      "src": "https://dblp.org/img/opencitations-logo.112x14.png",
+      "alt": "opencitations.net"
+    },
+    {
+      "src": "https://dblp.org/img/semanticscholar-logo.128x16.png",
+      "alt": "semanticscholar.org"
+    },
+    {
+      "src": "https://dblp.org/img/opencitations-logo.112x14.png",
+      "alt": "opencitations.net"
+    },
+    {
+      "src": "https://dblp.org/img/semanticscholar-logo.128x16.png",
+      "alt": "semanticscholar.org"
+    },
+    {
+      "src": "https://dblp.org/img/openalex-logo.69x18.png",
+      "alt": "openalex.org"
+    },
+    {
+      "src": "https://dblp.org/img/w3c-valid-html.80x15.gray.png",
+      "alt": "w3c valid html"
+    },
+    {
+      "src": "https://dblp.org/img/cc0.80x15.black.png",
+      "alt": "cc zero"
+    },
+    {
+      "src": "https://dblp.org/img/utr-logo-bottom.png",
+      "alt": "University of Trier"
+    },
+    {
+      "src": "https://dblp.org/img/lzi-logo-bottom.png",
+      "alt": "Schloss Dagstuhl - Leibniz Center for Informatics"
+    },
+    {
+      "src": "https://dblp.org/img/bmbf-logo-bottom.png",
+      "alt": "BMBF"
+    },
+    {
+      "src": "https://dblp.org/img/rlp-logo-bottom.png",
+      "alt": "RLP"
+    },
+    {
+      "src": "https://dblp.org/img/sl-logo-bottom.png",
+      "alt": "SL"
+    },
+    {
+      "src": "https://dblp.org/img/leibniz-logo-bottom.png",
+      "alt": "Leibniz"
+    },
+    {
+      "src": "https://dblp.org/img/dfg-logo-bottom.png",
+      "alt": "DFG"
+    },
+    {
+      "src": "https://dblp.org/img/nfdi-logo-bottom.png",
+      "alt": "NFDI"
+    }
+  ]
+}

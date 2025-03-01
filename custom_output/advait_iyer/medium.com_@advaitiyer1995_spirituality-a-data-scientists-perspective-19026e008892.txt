@@ -1,0 +1,150 @@
+            [Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F19026e008892&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------)
+                  Sign up
+                    [Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+                      Write
+                              Spirituality: A Data Scientist’s Perspective
+                              Training with the past, and testing on the present
+                                                          [Advait Iyer](/@advaitiyer1995?source=post_page---byline--19026e008892---------------------------------------)
+                                                    ·
+                                                      [Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Ff465bff60ebc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40advaitiyer1995%2Fspirituality-a-data-scientists-perspective-19026e008892&user=Advait+Iyer&userId=f465bff60ebc&source=post_page-f465bff60ebc--byline--19026e008892---------------------post_header------------------)
+                                                  9 min read
+                                                  May 29, 2020
+                                                --
+                                                            Listen
+                                                  Share
+                              Photo by
+                                [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=medium&utm_medium=referral)
+                                on
+                                [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+                              D
+                              ata Science is
+                              Primal
+                              . The intuitive nature of the mathematics and statistics of the Machine Learning algorithms have within them the wisdom of the teachings of
+                              [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts)
+                              , or
+                              [Swami Sarvapriyananda](http://www.vedantany.org/resident-swamis/)
+                              . The objective of this blog post is to channel their teachings, but through the lens of Machine Learning.
+                            Both human beings and algorithms learn by repetition. Through repetition, the observer spans the
+                              [vector space](https://en.wikipedia.org/wiki/Vector_space)
+                              and then converges (finally arrives) at local (or global) optimum.
+                            In humans, due to inherent biases within the design of a language (one language might use “should”, and the other might use “could” to express the same sentiment), the way an Indian thinks would be fundamentally different than the way a Chinese thinks. Just like humans, any algorithm runs on iterations too. Each epoch begins at some random starting point, and it spans the same vector space to search for solutions. Therefore, I believe the comparison of a human experience and a machine learning algorithm’s experience is valid.
+                            Juxtaposition of a Human and an Algorithm
+                            The only space we span in life is our own mental space. Thereby, we limit the definition of what it means to be a human being by looking at things from the perspective of “rationality”. Whenever we try to question rationality, we only use tools of rationality to do so, which is a bias in itself.
+                              Nobody understands anything, ever, because we are victims of biases within our local environment.
+                            In spirituality, I’ve come to realize that it is important to understand how “bias” works, and how one can attempt to lower it in their lives. It is important to realize the “illusion of the self”, because what self is to a human being is what bias is to a Machine Learning algorithm. Nobody truly understands anything, ever, because we are victims of biases within our local environment.
+                            This is why I find Data Science truly spiritual! Just like the spiritual conquest of a human being, the Data Scientist’s job is like a spiritual conquest of the algorithm they are working on.
+                            Bias-Variance tradeoff
+                            The biggest challenge in the day-to-day of any data scientist is deciding the sweet spot for bias and variance which leads to best generalization performance. Let me explain this trade-off in very simple terms with a visualization:
+                              Source:
+                                [ai-pool.com](https://ai-pool.com/a/s/bias-variance-tradeoff-in-machine-learning)
+                            The algorithm must not be too complex, or too simple. Too complex and the variance increases, and too simple, the bias increases. This is the “
+                              [Occam’s Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+                              ”, which can be extended to spirituality too. Let me quote my favourite band,
+                              [TOOL](https://en.wikipedia.org/wiki/Tool_(band))
+                              , here:
+                              Overthinking overanalyzing seperates the body from the mind
+                            How Occam’s Razor helped me?
+                            As an international student in the US, I’ve come to appreciate my roots in India while possessing a desire to explore the culture of America, helping me keep the balance between “
+                              [exploration and exploitation](https://www.manifold.ai/exploration-vs-exploitation-in-reinforcement-learning)
+                              ” just like in
+                              [Reinforcement Learning](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/)
+                              .
+                            I’ve come to terms with what it means to be a human being with this realization:
+                              a solution that is scalable across the universe cannot be too simple or too complex, even though the universe seems to be really complex.
+                            The environment (both inner, and outer) is complex, there’s no doubt about that. But teachings that a human being takes from the environment to explore/exploit in order to experience reality needs to be an optimal point between simplicity and complexity.
+                            Now that we’ve established the necessity of balance , let’s talk about individual areas of data science. Applying Occam’s Razor to this blogpost as well, I’m going to stick only to a couple of algorithms because eventually all interpretations point to the same truth.
+                            Unsupervised Learning Algorithms
+                            This
+                              [branch](https://www.mathworks.com/discovery/unsupervised-learning.html)
+                              of Machine Learning is all about random exploration. There is no objective to do anything specific, but it is crucial to initiate a pattern finding process so that we are able to find similarities between objects, and we start bucketing them together.
+                              When we start learning a new skill, we try to find patterns and then we exploit those patterns again and again as long as we get positive results. If we don’t get positive results, we explore further.
+                            Let’s dive deeper into a couple of algorithms.
+                            1. Dimensionality reduction with Principal Component Analysis (PCA):
+                              [method](https://www.youtube.com/watch?v=g-Hb26agBFg)
+                              uses Principal Components, which are lines passing through the data-points in a way so as to capture maximum possible variations. This way, we remove points within the same behavior-set, and only look at high variations, thus reducing dimensions.
+                                [Blog](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/principal_component_analysis.html)
+                                by Leonardo Santos
+                                Learning:
+                                Sometimes to get clarity, one needs to look at their own habits and predispositions. Imagine each activity in your life’s
+                              . Remove all but two “Principle Components” of your behavior.
+                            You just need to analyze these two components in depth, and you can gain insights. This activity will help you get momentary clarity, however, always remember, introspection is not a one time thing.
+                            2. Similar activities with k-Means Clustering:
+                            Once you capture the two key principle components with highest variance, you will be able to encapsulate the complete essence of your life’s data within them. Bucketing various similar activities together, for e.g., clustering when you felt weak, clustering when you were afraid, and so forth. The principle components depend on what kind of problem in life you want to solve.
+                                [Research paper](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-25-22-27570&id=375887)
+                                on K-means clustering algorithm
+                                Certain activities bring you down, and others take you up. Depending on how you want the outcome of the day to be, joyful or pensive, associate which activities lead to what in your life, and do them!
+                            This method can help you orchestrate and channel your emotions. Don’t let others pull the control from your hand and press those buttons for you. It may require a little bit of “
+                              [Shadow Work](https://www.centreofexcellence.com/what-is-shadow-work/)
+                              ” which would require you to embrace both good and bad parts of yourself, but it is something which is worth pursuing.
+                            3. Identifying activity densities with DBSCAN:
+                            Every individual’s thought process and upbringing is posses inherent unavoidable biases. This means, their thoughts and actions circle around a specific belief-system, and it is really difficult at times. Even though we don’t want to be the center of our universe, reinforcement of “the importance of the self” done by cultural and social norms over thousands of years makes it difficult for us to realize that we don’t matter as much as we think we do.
+                              DBSCAN
+                              (
+                              ensity
+                              B
+                              ased
+                              S
+                              patial
+                              C
+                              lustering of
+                              A
+                              pplications with
+                              N
+                              oise) algorithm helps us visualize data-points spatially, and it centers all the points which are more frequent (with higher density), and segregates points away from the center as it becomes less frequent. Then, it identifies associations between the actions, and identifies whether certain action follows the first action, and how frequent this behavior is.
+                              Evan Lutins on
+                                [Medium](/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818)
+                                Identify associations between individuals/situations and emotions. If someone/something raises positivity in you, accordingly define your feedback. On the contrary, if something incites negativity, define your response to it accordingly. Try to remove noise: superficial, fake individuals who don’t show you the true self.
+                            Now let’s go over another category of Machine Learning algorithms.
+                            Supervised Learning Algorithms
+                            There are certain behaviors within a human, that can be categorized. For example, watching TV/Netflix is, mostly, a pure waste of time for me. This is not the ground truth, because it depends on the way the individual perceives this activity. However, personally, I categorize it as a “waste”.
+                            Instead of deep introspection which is not really required in this case (our brains know what is a waste of time unconsciously too, if we listen to instincts), we can simply categorize it on the basis of the past labeling policy that we have been following, consciously or unconsciously. Such problems, where you look at specific category, and try to predict or fit new data-points into these categories, is called
+                              [Supervised Machine Learning](https://en.wikipedia.org/wiki/Supervised_learning)
+                            In such cases, there is an overarching theme, like “waste”. Individual data-points need not be positioned in the vector space in a quantitative way, and we can just choose to follow this overarching theme.
+                                Provide overarching themes to actions, and then categorize each action of yours into that overarching theme. The theme you decide could be biased, but its okay.
+                            Of course, people can categorize different activities differently, based on their belief system. Some would consider blogging a “waste”, while others can categorize it as “creative thinking time”. Depends on how one’s objective and reward system is calibrated.
+                            Let’s look at individual algorithms.
+                            1. Understanding conditional probability with Naive Bayes Classifier:
+                            When people look at probability, they think, “What is the probability of Y happening?”, which is not the correct way of thinking about probability, in reality. Probability is conditional in nature. Unless the individual knows the situation he/she/they are presently, it is not possible to talk about the probability.
+                            So, any probability question should be asked as “Given X happens, what is the chance that Y could happen? The concept of conditional probability has its roots in
+                              [Bayes’ Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+                            Naive Bayes classifier works on maximum-likelihood estimations, which is, “Given a certain condition, what is the maximum likelihood of a certain happening?”
+                                [Naive Bayes](https://www.saedsayad.com/naive_bayesian.htm)
+                                by Dr. Saed Sayad
+                                You should look at yourself as the outcome of where you have been. Never forget your roots! Define maximum likelihood of outcome by reverting back to who you have been, and accordingly choose to either do or not do that action.
+                            For example, if you feel junk food makes you irritable, identify this maximum likelihood before eating it, and you will find yourself sticking to healthier routines than before.
+                            2. Look at all possibilities with Random Forest Classifiers
+                            Random forest is an
+                              [ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+                              method which uses multiple decision trees. A simple decision tree looks as follows:
+                                [SQLShack](https://www.sqlshack.com/microsoft-decision-trees-in-sql-server/)
+                            Depending on the situation of the environment, the decision is made. The caveat in the case of decision trees is, the parent and children nodes in a decision tree can change depending on where the algorithm began from. Therefore, random forests is nothing but a collection of various decision trees that can be generated out of the same data.
+                            Random forest looks like this:
+                                [TechTour](https://www.youtube.com/watch?v=goPiwckWE9M)
+                            The decision trees are given weights and the final decision is taken on the basis of the votes provided by each tree in the forest.
+                                Try to look at situations from various perspectives so that you reduce the bias with which you are looking at a situation. Take a weighted decision after trying to go over all possible scenarios in your head.
+                            3. Support Vector Machines
+                            Whenever decision making process is defined, there are always constraints associated within the environment. Constraints like demand, geography, costs, etc. in the case of business. As a human being, we are constrained by our social and economic conditions as well.
+                            Support Vector Machine (SVM) is a method of establishing bounds between two different categories, and then iterating the width of the bound to either include or exclude more data-points close to the boundary. The trade-off is, if the decision boundary is too wide there is a likelihood of more misclassifications. On the contrary, if it is too narrow the algorithm cannot generalize.
+                                [Quora](https://www.quora.com/What-are-the-key-trade-offs-between-overfitting-and-underfitting)
+                                You wanna build a thought process for yourself which is not too rigid, and not too fluid. Try to find the sweet spot for yourself (and only for yourself!)
+                            Through this post I want to acknowledge the hardwork and brilliance of all the researchers in the Data Science community who have leveraged nature’s knowledge into their own worlds! I’m amazed by your contribution.
+                            Have a great day!
+                    Spirituality
+                    Data Science
+                    Machine Learning
+                    Self Improvement
+                    Perspective
+                          Written by
+                            [20 Followers](/@advaitiyer1995/followers?source=post_page---post_author_info--19026e008892---------------------------------------)
+                          [31 Following](/@advaitiyer1995/following?source=post_page---post_author_info--19026e008892---------------------------------------)
+                          Data Scientist | Satori Seeker | Sharing thoughts on Vedantic Teachings, Philosophy and Artificial Intelligence
+                  No responses yet
+                        Help
+                        Status
+                        About
+                        Careers
+                        Press
+                        Privacy
+                        Terms
+                        Text to speech
+                        Teams

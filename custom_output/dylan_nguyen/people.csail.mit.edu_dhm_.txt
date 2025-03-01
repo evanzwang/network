@@ -1,0 +1,259 @@
+          Toggle navigation
+            [CV](files/CV.pdf)
+          I am the Bonnie and Marty (1964) Tenenbaum Career Development Assistant
+                Professor of EECS at MIT. I run the
+            [Algorithmic Alignment
+                Group](http://algorithmicalignment.csail.mit.edu)
+            in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and I'm also a
+                Schmidt Sciences AI2050 Early Career Fellow. My research develops
+                methods to ensure that AI systems behavior aligns with the goals and
+                values of their human users and society as a whole, a concept known as
+                'AI alignment'. My group and I work to address alignment challenges in
+                multi-agent systems, human-AI teams, and societal oversight of machine
+                learning. Our goal is to enable the safe, beneficial, and trustworthy
+                deployment of AI in real-world settings.
+          Dylan Hadfield-Menell
+          dhm at csail.mit.edu
+        Bonnie and Marty (1964) Tenenbaum Career Development Assistant Professor
+            of EECS
+        44 Vassar St., 45-701D
+            [Google Scholar](https://scholar.google.com/citations?user=4mVPFQ8AAAAJ)
+            [Twitter](https://twitter.com/dhadfieldmenell)
+            [LinkedIn](https://www.linkedin.com/in/dylan-hadfield-menell-a5055019/)
+    Publications
+      Journal Publications
+          [Spurious
+                  Normativity Enhances Learning of Compliance and
+                  Enforcement Behavior in Artificial Agents.](https://www.pnas.org/content/119/3/e2106028118)
+          Raphael Koster, Dylan Hadfield-Menell, Richard
+                  Everett, Laura Weidinger, Gillian K. Hadfield, and
+                  Joel Z. Leibo. Proceedings of the National Academy
+                  of Sciences of the United States (PNAS). 2022.
+          [When
+		  Curation Becomes Creation: Algorithms, microcontent,
+		  and the vanishing distinction between platforms and
+		  creators.](https://queue.acm.org/detail.cfm?id=3477229)
+          Liu Leqi, Dylan Hadfield-Menell,
+		  Zachary C. Liption. Communications of the
+		  ACM. 2021.
+      Conference Publications
+          [Guided
+                  Imitation of Task and Motion Planning.](https://arxiv.org/abs/2112.03386)
+          Michael
+                  J. McDonald, Dylan Hadfield-Menell. Proceedings of
+                  the 5th Conference on Robot Learning
+                  (CoRL). 2021.
+          [Consequences
+		  of Misaligned AI.](https://arxiv.org/abs/2102.03896)
+          Simon Zhuang, Dylan
+		  Hadfield-Menell. Proceedings of the 34th Conference
+		  on Neural Information Processing Systems
+		  (NeurIPS). 2020.
+          [Conservative
+		  Agency via Attainable Utility Preservation.](https://arxiv.org/abs/1902.09725)
+          Alexander M. Turner, Dylan Hadfield-Menell, Prasad
+		  Tadepalli. Proceedings of the AAAI/ACM Conference on
+		  AI, Ethics, and Society (AIES). 2020.
+          [The
+		  Assistive Multi-Armed Bandit.](https://arxiv.org/abs/1901.08654)
+          Lawrence Chan,
+		  Dylan Hadfield-Menell, Siddartha S. Srinivasa, Anca
+		  D. Dragan. Proceedings of the ACM/IEEE International
+		  Conference on Human-Robot Interaction
+		  (HRI). 2019.
+          [Human-AI
+		  Learning Performance in Multi-Armed Bandits.](https://arxiv.org/abs/1812.09376)
+          Ravi Pandya, Sandy H. Huang, Dylan Hadfield-Menell,
+		  Anca D. Dragan. Proceedings of the AAAI/ACM Conference on
+		    AI, Ethics, and Society (AIES). 2019.
+          [Legible
+		  Normativity for AI Alignment: The Value of Silly
+		  Rules.](https://arxiv.org/abs/1811.01267)
+          Dylan Hadfield-Menell, McKane Andrus,
+		  Gillian K. Hadfield. Proceedings of the AAAI/ACM
+		  Conference on AI, Ethics, and Society
+		  (AIES). 2019.
+          [Incomplete
+		  Contracting and AI Alignment.](https://arxiv.org/abs/1804.04268)
+          Dylan
+		  Hadfield-Menell, Gillian K. Hadfield. Proceedings of
+		  the AAAI/ACM Conference on AI, Ethics, and Society
+		  (AIES). 2019.
+          [An
+		  Efficient, Generalized Bellman Update for
+		  Cooperative Inverse Reinforcement Learning.](https://arxiv.org/abs/1806.03820)
+          Dhruv Malik, Malayandi Palaniappan, Jaime F. Fisac,
+		  Dylan Hadfield-Menell, Stuart J. Russell, Anca
+		  D. Dragan. Proceedings of the International
+		  Conference on Machine Learning Research (ICML).
+		  2018.
+          [Simplifying
+		  Reward Design through Divide-and-Conquer.](https://arxiv.org/abs/1806.02501)
+          Ellis
+		  Ratner, Dylan Hadfield-Menell, Anca
+		  D. Dragan. Proceedings of Robotics: Science and
+		  Systems (RSS). 2018.
+          [Pragmatic-Pedagogic
+		  Value Alignment.](https://arxiv.org/abs/1707.06354)
+          Jaime F. Fisac, Monica
+		  A. Gates, Jessica B. Hamrick, Chang Liu, Dylan
+		  Hadfield-Menell, Malayandi Palaniappan, Dhruv Malik,
+		  S. Shankar Sastry, Thomas L. Griffiths, Anca
+		  D. Dragan. Proceedings of the International
+		  Symposium on Robotics Research (ISRR). 2017.
+          [Inverse
+		  Reward Design.](https://arxiv.org/abs/1711.02827)
+          Dylan Hadfield-Menell, Smitha
+		  Milli, Pieter Abbeel, Stuart J. Russell, Anca
+		  D. Dragan. Proceedings of the 31st Conference on
+		  Neural Information Processing Systems
+		  (NeurIPS). 2017.
+          [The
+		  Off-Switch Game.](https://arxiv.org/abs/1611.08219)
+          Dylan Hadfield-Menell, Anca
+		  D. Dragan, Pieter Abbeel, Stuart J.
+		  Russell. Proceedings of the 26th International Joint
+		  Conference on Artificial Intelligence (IJCAI).
+		  2017.
+          [Should
+		  Robots be Obedient?](https://arxiv.org/abs/1705.09990)
+          Smitha Milli, Dylan
+		  Hadfield-Menell, Anca D. Dragan, Stuart J.
+		  Russell. Proceedings of the 26th International Joint
+		  Conference on Artificial Intelligence (IJCAI), 2017.
+          [Expressive
+		  Robot Motion Timing.](https://arxiv.org/abs/1802.01536)
+          Allan Zhou, Dylan
+		  Hadfield-Menell, and Anca D. Dragan. Proceedings of
+		  the ACM/IEEE International Conference on Human-Robot
+		  Interaction. 2017.
+          [Cooperative
+		  Inverse Reinforcement Learning.](https://arxiv.org/abs/1606.03137)
+          Dylan
+		  Hadfield-Menell, Anca D. Dragan, Pieter Abbeel,
+		  Stuart J. Russell. Proceedings of the 30th
+		  Conference on Neural Information Processing Systems
+		    (NeurIPS), 2016.
+          [Sequential
+		  Quadratic Programming for Task Plan
+		  Optimization.](files/planopt.pdf)
+          Dylan Hadfield-Menell, Chris Lin,
+		  Rohan Chitnis, Pieter Abbeel, Stuart
+		  J. Russell. Proceedings of the IEEE/RSJ Conference
+		  on Intelligent Robots and Systems (IROS). 2016.
+          [Guided
+		  Search for Task and Motion Plans Using Learned
+		  Heuristics.](files/guided_search_tamp.pdf)
+          Rohan Chitnis, Dylan
+		  Hadfield-Menell, Abhishek Gupta, Siddharth
+		  Srivastava, Edward Groshev, Christopher Lin, Pieter
+		  Abbeel. Proceedings of the IEEE Conference on
+		  Robotics and Automation (ICRA). 2016.
+          [Modular
+		  Task and Motion Planning in Belief Space.](files/iros15ibsp.pdf)
+          Dylan
+		  Hadfield-Menell, Edward Groshev, Rohan Chitnis, and
+		  Pieter Abbeel. Proceedings of the IEEE/RSJ
+		  Conference on Intelligent Robots and Systems
+		    (IROS). 2015.
+          [Multitasking:
+		  Efficient Optimal Planning for Bandit
+		  Superprocesses.](files/bsp_bbvi.pdf)
+          Dylan Hadfield-Menell, Stuart
+		  J. Russell. Proceedings of the 31st Conference on
+		  Uncertainty in Artificial Intelligence
+		  (UAI). 2015.
+          [Supplementary
+		  Materials.](files/bsp_bbvi_supplementary.pdf)
+          [Beyond
+		  Lowest-Warping Cost Action Selection in Trajectory
+		  Transfer.](files/icra2015mmqe_final.pdf)
+          Dylan Hadfield-Menell, Alex X. Lee,
+		  Chelsea Finn, Eric Tzeng, Sandy Huang, and Pieter
+		  Abbeel. Proceedings of the IEEE Conference on
+		  Robotics and Automation (ICRA). 2015.
+          [Unifying
+		  Scene Registration and Trajectory Optimization for
+		  Learning from Demonstrations with Application to
+		  Manipulation of Deformable Objects.](files/2014-IROS-jointopt.pdf)
+          Alex X.
+		  Lee, Sandy H. Huang, Dylan Hadfield-Menell, Eric
+		  Tzeng, Pieter Abbeel. Proceedings of the IEEE/RSJ
+		  International Conference on Intelligent Robots and
+		  Systems (IROS). 2014.
+          [Optimization
+		  in the Now: Dynamic Peephole Optimization for
+		  Hierarchical Planning](files/opt_in_the_now_icra13.pdf)
+          Dylan Hadfield-Menell,
+		  Leslie Pack Kaelbling, and Tomás
+		  Lozano-Pérez. Proceedings of the IEEE Conference on
+		  Robotics and Automation (ICRA). 2013.
+      Workshop & arXiv
+          [Estimating
+                  and Penalizing Induced Preference Shifts in
+                  Recommender Systems.](https://arxiv.org/abs/2204.11966)
+          Micah Carroll, Dylan
+                  Hadfield-Menell, Stuart Russell, Anca
+                  Dragan. RecSys LBR Track, FAccTRec Workshop. 2021.
+          [What
+		  are you optimizing for? Aligning Recommender Systems
+		  with Human Values.](https://arxiv.org/abs/2107.10939)
+          Jonathan Stray, Ivan Vendrov,
+		  Jeremy Nixon, Steven Adler, Dylan
+		  Hadfield-Menell. ICML Workshop on Participatory
+		  Approaches to Machine Learning. 2020.
+          [Multi-Principal
+		  Assistance Games: Definition and Collegial
+		  Mechanisms.](https://arxiv.org/abs/2012.14536)
+          Arnaud Fickinger, Simon Zhuang,
+		  Andrew Critch, Dylan Hadfield-Menell, Stuart
+		  Russell. NeurIPS Workshop on Cooperative
+		  AI. 2020.
+          [An
+		  Extensible Interactive Interface for Agent
+		  Design.](https://arxiv.org/abs/1906.02641)
+          Matthew Rahtz, James Fang, Anca
+		  D. Dragan, Dylan Hadfield-Menell. 2019.
+          [Adversarial
+                  Training with Voronoi Constraints.](https://arxiv.org/abs/1905.01019)
+          Marc Khoury,
+                  Dylan Hadfield-Menell. 2019.
+      Technical Reports
+          [The
+                  Principal-Agent Value Alignment Problem in
+                  Artificial Intelligence](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-207.html)
+          . Ph.D. Thesis.
+          [Execution
+		  Cost Optimization for Hierarchical Planning in the
+		  Now](https://dspace.mit.edu/handle/1721.1/85421)
+          . M.Eng. Thesis.
+        Information for Prospective Ph.D. Students
+          How to Express Interest
+          Please do not email me directly. I can't reliably
+                respond in a fair way. Instead, please fill out
+                our
+            [prospective
+                student interest form](https://forms.gle/bpN9pJ8TpbopPe7v9)
+            . This help will help me
+                efficiently review all inquiries and ensure I don't
+                miss anyone during the official application
+                review.
+          Meeting Requests
+          Due to the high volume of inquiries, I typically
+                cannot meet with prospective students outside the
+                standard admissions process.
+          Diversity and Inclusion
+          I am committed to building a diverse and inclusive
+                research group. I strongly encourage applications from
+                students of all backgrounds, particularly those from
+                underrepresented groups in STEM.
+          Application Process
+          For detailed information about the application
+                process, deadlines, and requirements, please visit
+                the
+            [EECS
+                Graduate Admissions page](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
+            .
+          [Plain Academic](https://github.com/mavroudisv/plain-academic)
+  jQuery (necessary for Bootstrap's JavaScript plugins)
+  Include all compiled plugins (below), or include individual files as needed

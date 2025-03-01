@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <title>Members</title>
+
+  <meta name="author" content="SLURM Lab at USC" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="SLURM Lab at USC - SLURM Lab at USC" href="https://slurm-lab-usc.github.io/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/assets/css/main.css" />
+    
+      <link rel="stylesheet" href="/assets/css/custom.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Members" />
+  
+
+   
+  <meta property="og:description" content="{% for big_group in page.members %} {% if big_group.web_url %} {{big_group.name}} {% else %} {{big_group.name}} {% for group in big_group.list %} {% if group.list.size &gt; 0 %} {% if group.name %} {{ group.name }} {% endif %} {% if group.full %} {% for member in group.list %} {{ member.name }}...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="https://slurm-lab-usc.github.io/members/" />
+  <link rel="canonical" href="https://slurm-lab-usc.github.io/members/" />
+  
+
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Members" />
+  
+
+  
+  <meta name="twitter:description" content="{% for big_group in page.members %} {% if big_group.web_url %} {{big_group.name}} {% else %} {{big_group.name}} {% for group in big_group.list %} {% if group.list.size &gt; 0 %} {% if group.name %} {{ group.name }} {% endif %} {% if group.full %} {% for member in group.list %} {{ member.name }}...">
+  
+
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><a class="navbar-brand" href="https://slurm-lab-usc.github.io/">SLURM Lab at USC</a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/">Home</a></li>
+          <li><a href="/members">Members</a></li>
+          <li><a href="/publications">Publications</a></li>
+          <li><a href="/getting_involved">Getting Involved</a></li>
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Other</a>
+            <div class="navlinks-children">
+              <a href="/photos">Lab photos</a>
+            </div>
+          </li>
+        </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>Members</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container-fluid" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div class="row">
+  
+    
+      <h1> PhD Students </h1>
+      
+        
+          
+          
+          <div class="row member-row">
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://mj-hwang.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/MinjuneHwang.png" alt="Minjune Hwang" />
+                </a>
+                <a target="_blank" href="https://mj-hwang.github.io/">
+                  Minjune Hwang
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://zshanggu.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/ZeyuShangguan.jpeg" alt="Zeyu Shangguan" />
+                </a>
+                <a target="_blank" href="https://zshanggu.github.io/">
+                  Zeyu Shangguan
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://li-yunshuang.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Yunshuang.jpeg" alt="Yunshuang Li" />
+                </a>
+                <a target="_blank" href="https://li-yunshuang.github.io/">
+                  Yunshuang Li
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://yiyang0207.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Yiyang.jpg" alt="Yiyang Ling" />
+                </a>
+                <a target="_blank" href="https://yiyang0207.github.io/">
+                  Yiyang Ling
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://misoshiruseijin.github.io">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg" alt="Ayano Hiranaka" />
+                </a>
+                <a target="_blank" href="https://misoshiruseijin.github.io">
+                  Ayano Hiranaka
+                </a>
+              </div>
+            
+          </div>
+          
+        <br />
+        
+      
+    
+  
+    
+      <h1> Master's Students </h1>
+      
+        
+          
+          
+          <div class="row member-row">
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/dhanush-varma/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg" alt="Dhanush Penmetsa" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/dhanush-varma/">
+                  Dhanush Penmetsa
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://vedant2311.github.io">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg" alt="Vedant Raval" />
+                </a>
+                <a target="_blank" href="https://vedant2311.github.io">
+                  Vedant Raval
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://yuhaiw.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Yuhai.jpg" alt="Yuhai Wang" />
+                </a>
+                <a target="_blank" href="https://yuhaiw.github.io/">
+                  Yuhai Wang
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/karan-owalekar/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/karanOwalekar.jpg" alt="Karan Owalekar" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/karan-owalekar/">
+                  Karan Owalekar
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/enyu-zhao-564566250/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Enyu.jpeg" alt="Enyu Zhao" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/enyu-zhao-564566250/">
+                  Enyu Zhao
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://lazerbird.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Charlene.jpg" alt="Charlene Yuen" />
+                </a>
+                <a target="_blank" href="https://lazerbird.github.io/">
+                  Charlene Yuen
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/harshitha-b-r-2ab510190/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/HBR.JPG" alt="Harshitha B R" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/harshitha-b-r-2ab510190/">
+                  Harshitha B R
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://hanyang-zhou.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png" alt="Hanyang Zhou" />
+                </a>
+                <a target="_blank" href="https://hanyang-zhou.github.io/">
+                  Hanyang Zhou
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://hesic73.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/hesicheng.jpg" alt="Sicheng He" />
+                </a>
+                <a target="_blank" href="https://hesic73.github.io/">
+                  Sicheng He
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://jonzamora.dev/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/jonzamora.jpg" alt="Jonathan Zamora" />
+                </a>
+                <a target="_blank" href="https://jonzamora.dev/">
+                  Jonathan Zamora
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://Liu-wenhao-1223.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/WenhaoLiu.jpg" alt="Wenhao Liu" />
+                </a>
+                <a target="_blank" href="https://Liu-wenhao-1223.github.io/">
+                  Wenhao Liu
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/rajas-chitale-rcv/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG" alt="Rajas Chitale" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/rajas-chitale-rcv/">
+                  Rajas Chitale
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/balasubramanian-ashwin/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpeg" alt="Ashwin Balasubramanian" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/balasubramanian-ashwin/">
+                  Ashwin Balasubramanian
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/nikita-sarawgi/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg" alt="Nikita Sarawgi" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/nikita-sarawgi/">
+                  Nikita Sarawgi
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/zinanli02/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Zinan.jpg" alt="Zinan Li" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/zinanli02/">
+                  Zinan Li
+                </a>
+              </div>
+            
+          </div>
+          
+        <br />
+        
+      
+    
+  
+    
+      <h1> Undergraduate Students </h1>
+      
+        
+          
+          
+          <div class="row member-row">
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://haojiang4400.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/HaoJiang.png" alt="Hao Jiang" />
+                </a>
+                <a target="_blank" href="https://haojiang4400.github.io/">
+                  Hao Jiang
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/oluwatobilobaadesanya">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg" alt="Oluwatobiloba Adesanya" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/oluwatobilobaadesanya">
+                  Oluwatobiloba Adesanya
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/ongjonathand">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg" alt="Jonathan Ong" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/ongjonathand">
+                  Jonathan Ong
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/letian-zhang-630b37235/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg" alt="Letian Zhang" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/letian-zhang-630b37235/">
+                  Letian Zhang
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://jasoonchen.com/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg" alt="Jason Chen" />
+                </a>
+                <a target="_blank" href="https://jasoonchen.com/">
+                  Jason Chen
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/rida-faraz/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/ridafaraz.jpg" alt="Rida Faraz" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/rida-faraz/">
+                  Rida Faraz
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/samuel-burns-75702526b/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg" alt="Samuel Burns" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/samuel-burns-75702526b/">
+                  Samuel Burns
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/MariaGC.jpg" alt="Maria Guerrero Cordoba" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333">
+                  Maria Guerrero Cordoba
+                </a>
+              </div>
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://www.linkedin.com/in/david-kim-b50046206/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg" alt="David Kim" />
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/in/david-kim-b50046206/">
+                  David Kim
+                </a>
+              </div>
+            
+          </div>
+          
+        <br />
+        
+      
+    
+  
+    
+      <h1> Faculty </h1>
+      
+        
+          
+          
+          <div class="row member-row">
+            
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href="https://danielseita.github.io/">
+                  <img class="img-responsive" src="https://slurm-lab-usc.github.io/img/people/Daniel_2023_square.png" alt="Daniel Seita" />
+                </a>
+                <a target="_blank" href="https://danielseita.github.io/">
+                  Daniel Seita
+                </a>
+              </div>
+            
+          </div>
+          
+        <br />
+        
+      
+    
+  
+    
+      <h1> Alumni </h1>
+      
+        
+          
+            <h2 style="text-align: left; margin-bottom: 20px;"> Undergraduate Students </h2>
+          
+          
+            <ul>
+              
+                <!-- 
+                  <li><a>  </a></li>
+                 -->
+                <div id="alumni">
+                  <!-- <h2 class="row-label" id="alumni-label">Alumni</h2> -->
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">Name</div>
+                    <div class="alumni-period grid-child" style="font-weight: bold;">Period</div>
+                    <div class="alumni-next_step grid-child" style="font-weight: bold;">Next step (known)</div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://pwang649.github.io/" target="_blank">Qian (Peter) Wang</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2023-2024 (CS &amp; AM)</div>
+                    <div class="alumni-next_step grid-child">PhD in CS, Yale University</div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/emily-k-zhu/" target="_blank">Emily Zhu</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2023-2024 (CS &amp; BA)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/vijay-kumaravelrajan/" target="_blank">Vijay Kumaravelrajan</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2024 (CS &amp; AM)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/zitong-huang/" target="_blank">Zitong Huang</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2024 (CECS)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/anisha-chitta/" target="_blank">Anisha Chitta</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2024 (CSBA)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                </div>
+              
+            </ul>
+          
+        <br />
+        
+      
+        
+          
+            <h2 style="text-align: left; margin-bottom: 20px;"> Master's Students </h2>
+          
+          
+            <ul>
+              
+                <!-- 
+                  <li><a>  </a></li>
+                 -->
+                <div id="alumni">
+                  <!-- <h2 class="row-label" id="alumni-label">Alumni</h2> -->
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">Name</div>
+                    <div class="alumni-period grid-child" style="font-weight: bold;">Period</div>
+                    <div class="alumni-next_step grid-child" style="font-weight: bold;">Next step (known)</div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/anupam-patil-114b841b0/" target="_blank">Anupam Patil</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2023-2024 (CS)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                </div>
+              
+            </ul>
+          
+        <br />
+        
+      
+        
+          
+            <h2 style="text-align: left; margin-bottom: 20px;"> Visitors / Volunteers </h2>
+          
+          
+            <ul>
+              
+                <!-- 
+                  <li><a>  </a></li>
+                 -->
+                <div id="alumni">
+                  <!-- <h2 class="row-label" id="alumni-label">Alumni</h2> -->
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">Name</div>
+                    <div class="alumni-period grid-child" style="font-weight: bold;">Period</div>
+                    <div class="alumni-next_step grid-child" style="font-weight: bold;">Next step (known)</div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/wangce94/" target="_blank">Ce (Chris) Wang</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">2024 (Remote collaborator)</div>
+                    <div class="alumni-next_step grid-child">SWE at Ambarella Inc</div>
+                  </div>
+                  
+                </div>
+              
+            </ul>
+          
+        <br />
+        
+      
+        
+          
+            <h2 style="text-align: left; margin-bottom: 20px;"> Interns </h2>
+          
+          
+            <ul>
+              
+                <!-- 
+                  <li><a>  </a></li>
+                 -->
+                <div id="alumni">
+                  <!-- <h2 class="row-label" id="alumni-label">Alumni</h2> -->
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">Name</div>
+                    <div class="alumni-period grid-child" style="font-weight: bold;">Period</div>
+                    <div class="alumni-next_step grid-child" style="font-weight: bold;">Next step (known)</div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/gayathri-rajesh-b84560228/" target="_blank">Gayathri Rajesh</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/abhinav-pillai-62244b237" target="_blank">Abhinav Pillai</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      
+                      <a href="https://www.linkedin.com/in/eboneetdavis/" target="_blank">Ebonee Davis</a>
+                      
+                    </div>
+                    <div class="alumni-period grid-child">USC SURE 2024 (Undergrad at MIT)</div>
+                    <div class="alumni-next_step grid-child"></div>
+                  </div>
+                  
+                </div>
+              
+            </ul>
+          
+        <br />
+        
+      
+    
+  
+</div>
+
+	    
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="footer-logo col-lg-2">
+      </div>
+      <div class="col-lg-8">
+        <ul class="list-inline text-center footer-links"></ul>
+      <p class="copyright text-muted">
+      SLURM Lab at USC
+      &nbsp;&bull;&nbsp;
+      2025
+
+      
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+      <div class="footer-logo col-lg-2">
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+          document.write('<script src="/assets/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/main.js"></script>
+    
+  
+
+
+
+
+
+
+
+  </body>
+</html>

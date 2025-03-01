@@ -1,0 +1,123 @@
+            [Home](/)
+            [Members](/members/)
+            [Projects](/projects/)
+            [Partners](/partners/)
+              [Lab Tour](/about/tour/)
+              [Playlists](/about/music/)
+              [Resources](/about/resources/)
+        Alumni - Graduation Year: 2024
+                Aditya Sengar
+                [Quantum Holography](/projects/detail/69/)
+              University of Maryland
+                Alec Riso
+                [Implementing Quantum Key Distribution using Photonics](/projects/detail/45/)
+              Cornell University
+                Alina Chen
+                [BlochAR: Developing a Manipulative Bloch Sphere Implemented as an Augmented Reality (AR) Application](/projects/detail/53/)
+                Ananya Pamal
+                [Building a Magneto-Optical Trap](/projects/detail/41/)
+              Carnegie Mellon University
+                Anirudh Mantha
+                [Tracking Microplastics with Quantum Machine Learning and Dynamics](/projects/detail/71/)
+                Arjun Bhat
+                [Chaos Modeling: A Comparison of Classical and Quantum Reservoir Computer Capabilities](/projects/detail/70/)
+              College of William and Mary
+                Benjamin Rubin
+                [Optimization of Traffic Lights Using Quantum Behaving Particles](/projects/detail/46/)
+                Brandon Le
+                [Exploring Geometrical Properties of Chaotic Systems Through an Analysis of the Rulkov Neuron Maps](/projects/detail/48/)
+              University of Virginia
+                Brian Zhou
+                [Using Quantum Agents to Model Simple Economies](/projects/detail/64/)
+                [Constrained Deep Learning Methods for Optimization of Autonomous Systems](/projects/detail/74/)
+              Harvard University
+                Christopher Qian
+                [Exploring a Model of Quantum Cognition](/projects/detail/67/)
+              University of Notre Dame
+                Daniel Sprintson
+              Yale University
+                Danielle Riekse
+                [Transferring Quantum Populations Using STIRAP](/projects/detail/44/)
+              University of Chicago
+                David Cao
+                [On Optimizing Quantum Cosmological Simulations of Self-Gravitating Dark Matter](/projects/detail/57/)
+                David Wei
+                [Generative Modeling with the Yukawa Potential](/projects/detail/50/)
+              Massachusetts Institute of Technology
+                Dhruv Anurag
+                [Simulating Self-Gravitating Dark Matter with Variational Quantum Computing](/projects/detail/35/)
+              University of Illinois Urbana-Champaign
+                Emi Zhang
+                [Using Physics-Informed Neural Networks to Model the 2D Heat Equation](/projects/detail/47/)
+              Georgia Institue of Technology
+                Geoffrey Whiting
+                Ishara Shanmugasundaram
+                Kai Wang
+                [Hydrodynamic Quantum Field Theory Analogs](/projects/detail/56/)
+              Standford University
+                Kanjonavo Sabud
+                Karthik Thyagarajan
+              Purdue University
+                Katherine Jimenez
+              University of Michigan
+                Krish Malik
+                [Teaching Bell's Theorem and Entanglement Through Online Simulations](/projects/detail/66/)
+              Georgetown University
+                Laura Zhang
+                Laura Guo
+              University of California, Berkeley
+                Lindsay Hwang
+                Lucas Marschoun
+                [Building and Entangled Photon Pair Source](/projects/detail/61/)
+                Max Wang
+                Michelle Kang
+                Mihika Dusad
+                Mohib Ahmed
+                [An Exploration into Dynamic Spin Chemistry: Improving NMR Resolution](/projects/detail/42/)
+              George Washington University
+                Naisha Patel
+                [Using Quantum ML and Analyzing Electro-Optical vs SAR Image Classification Through Polarizati](/projects/detail/43/)
+                Nivika Gandhi
+              Barnard College
+                Parth Gupta
+                [Partial Least-Squares Quantum Optimization](/projects/detail/68/)
+                Pranav Velleleth
+                [Development of a Scalable Silicon Photonic On-Chip Memory Architecture](/projects/detail/49/)
+                Pranav Panicker
+                Pranav Kuppa
+                Pranav Vadde
+                Rishabh Prabhu
+                Rishabh Chhabra
+                Ronit Kapur
+              Duke University
+                Ryan Kim
+                [Implementing QKD-Encrypted Hybrid Quantum Machine Learning for Dementia Detection](/projects/detail/62/)
+              Columbia University
+                Sankarshanaram Vempati
+                [Engineering Artificial Muscles](/projects/detail/65/)
+                Sathvik Redrouthu
+                Shashank Cheruvu
+                [Detecting and Identifying Floor Vibrations through Interferometers](/projects/detail/72/)
+                Siddhita Krishnan
+                Siri Duddella
+                Srimaye Peddinti
+                [Exploring Fischer Koch S as a Photonic Crystal](/projects/detail/51/)
+                Steven Lu
+              Johns Hopkins University
+                Taohan Lin
+                [Using Quantum Control to Achieve Spectral Super-resolution](/projects/detail/54/)
+                [Analyzing Complexity in Variational Quantum Algorithms](/projects/detail/73/)
+                Thomas Winston
+                [Exploring Quantum Finance](/projects/detail/60/)
+                Vishal Nandakumar
+                William Kerr
+                Zani Xu
+        Alumni
+      Click on a year to see alumni that graduated in that year.
+          [2022](/members/2022/)
+          [2023](/members/2023/)
+          [2024](/members/2024/)
+        Contact Us!
+        Mr. Mark Hannum, Lab Director
+        Built by
+          [@Laur04](https://github.com/Laur04)

@@ -1,0 +1,49 @@
+{
+  "title": "Dhruv Gautam",
+  "meta_description": "",
+  "main_content": "Dhruv Gautam \ud83e\uddf8 Blogs Google Scholar Hi! I'm an undergrad at UC Berkeley studying Computer Science. My Current Interests Include: Neural Network Intepretability Reinforcement Learning Code Generation Interwar Eastern Europe Fresh Expo Markers I currently spend my time researching at BAIR . I also work on creative ML projects with friends in Launchpad and explore cryptography with friends in Blockchain at Berkeley . Previously, I've worked at Microsoft Research on post-training, code generation, and agents, and in a couple groups within Berkeley's SkyLab on consensus and distributed systems. Feel free to reach out to: dhruvgautam (at) berkeley (dot) edu And you can follow me on Twitter at: @dhrvji Preprints & Publications WebGauntlet: Measuring Instruction Following and Robustness for Web Agents Sasank Aduri, Dhruv Gautam Under Review. SSEAL: Self-Supervised Explorative Agent Learning Evan Frick, Dylan Goetting, Dhruv Gautam Under Review. 1st Place in UC Berkeley LLM Agents Hackathon. RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code Dhruv Gautam* , Spandan Garg, Jinu Jang, Neel Sundaresan, Roshanak Zilouchian Moghaddam ICLR 2025 OWA @ NeurIPS 2024",
+  "links": [
+    {
+      "url": "blogs.html",
+      "text": "Blogs"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=UzDpwXwAAAAJ&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://bair.berkeley.edu/",
+      "text": "BAIR"
+    },
+    {
+      "url": "https://launchpad.berkeley.edu/",
+      "text": "Launchpad"
+    },
+    {
+      "url": "https://blockchain.studentorg.berkeley.edu/",
+      "text": "Blockchain at Berkeley"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/group/dataai/",
+      "text": "Microsoft Research"
+    },
+    {
+      "url": "https://sky.cs.berkeley.edu/",
+      "text": "SkyLab"
+    },
+    {
+      "url": "mailto:dhruvgautam (at) berkeley (dot) edu",
+      "text": "dhruvgautam (at) berkeley (dot) edu"
+    },
+    {
+      "url": "https://twitter.com/dhrvji",
+      "text": "@dhrvji"
+    }
+  ],
+  "images": [
+    {
+      "src": "jnjk.jpeg",
+      "alt": "Dhruv Gautam"
+    }
+  ]
+}

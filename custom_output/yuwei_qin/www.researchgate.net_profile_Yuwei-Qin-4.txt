@@ -1,0 +1,192 @@
+                              [Home](https://www.researchgate.net/)
+                              [Carnegie Mellon University](https://www.researchgate.net/institution/Carnegie-Mellon-University)
+                              Department of Electrical and Computer Engineering
+                              Yuwei Qin
+                                    | CMU
+                                    ·
+                            Contact
+                                  Connect with experts in your field
+                                Join ResearchGate to contact this researcher and connect with your scientific community.
+                                      Join for free
+                                      Log in
+                              [About](profile/Yuwei-Qin-4#about)
+                              [Publications](profile/Yuwei-Qin-4#publications)
+                                20
+                              [Network](profile/Yuwei-Qin-4#network)
+                  1,913
+                  Reads
+                          How we measure 'reads'
+                        A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text.
+                          [Learn more](https://explore.researchgate.net/display/support/Reads)
+                  143
+                  Citations
+              Introduction
+                    Skills and Expertise
+                      [Device Modelling](topic/Device-Modelling)
+                      [Semiconductor Device Physics](topic/Semiconductor-Device-Physics)
+                      [Device Physics](topic/Device-Physics)
+                      [Applied Physics](topic/Applied-Physics)
+                Publications (20)
+                              [Non-Linear CNN-Based Read Channel for Hard Disk Drive With 30% Error Rate Reduction and Sequential 200-Mbits/s Throughput in 28-nm CMOS](https://www.researchgate.net/publication/368435759_Non-Linear_CNN-Based_Read_Channel_for_Hard_Disk_Drive_With_30_Error_Rate_Reduction_and_Sequential_200-Mbitss_Throughput_in_28-nm_CMOS)
+                                Article
+                                    Apr 2023
+                                    Ruben Purdy
+                                    Alec Probst
+                                [...]
+                                    Jian-Gang Zhu
+                            In this work, we present the world first ASIC implementation of a machine learning (ML)-based data detection channel for hard disk drives (HDDs) using a customized convolutional neural network (CNN). The chip demonstrates a 30.3% error rate reduction over the state-of-the-art HDD detection channel with two-dimensional magnetic recording (TDMR) sett...
+                                    View
+                              [Non-linear CNN-based Read Channel for Hard Disk Drive with 30% Error Rate Reduction and Sequential 200Mbits/second Throughput in 28nm CMOS](https://www.researchgate.net/publication/362205544_Non-linear_CNN-based_Read_Channel_for_Hard_Disk_Drive_with_30_Error_Rate_Reduction_and_Sequential_200Mbitssecond_Throughput_in_28nm_CMOS)
+                                Conference Paper
+                                    Jun 2022
+                                    Jian-Gang Jimmy Zhu
+                              [ASIC Implementation of Non-linear CNN-based Data Detector for TDMR System in 28nm CMOS at 200Mbits/s Throughput](https://www.researchgate.net/publication/363879162_ASIC_Implementation_of_Non-linear_CNN-based_Data_Detector_for_TDMR_System_in_28nm_CMOS_at_200Mbitss_Throughput)
+                                    Jan 2022
+                            In this work, we present the first ASIC implementation of a convolutional neural network (CNN)-based data detection channel for the two-dimensional magnetic recording (TDMR) system in HDD. This chip is fabricated in TSMC 28nm CMOS. TDMR signals captured from a real HDD is used to train and test the network, and the chip is designed to make inferenc...
+                              [CNN-Based Machine Learning Channel on TDMR Drive Data](https://www.researchgate.net/publication/356550280_CNN-Based_Machine_Learning_Channel_on_TDMR_Drive_Data)
+                                Full-text available
+                                    Nov 2021
+                                    Pradhan Bellam
+                                    Rick Galbraith
+                            In this paper, we demonstrate a convolutional neural network (CNN) based data detection channel on real data from a commercial hard disk drives employed with TDMR dual-reader technology. The neural network has two sets of input neurons and is trained using 485 4k-byte sectors from the drive. Data detection is performed using the trained network and...
+                              [TDMR Performance Gain with Machine Learning Data Detection Channel](https://www.researchgate.net/publication/356151771_TDMR_Performance_Gain_with_Machine_Learning_Data_Detection_Channel)
+                                    Aug 2021
+                              [TDMR with Machine Learning Data Detection Channel](https://www.researchgate.net/publication/352302342_TDMR_with_Machine_Learning_Data_Detection_Channel)
+                                    Jun 2021
+                            In this paper, we present a systematic study of using a machine learning (ML) data detection channel consisting of a convolutional neural network (CNN) for data recovery in a two-dimensional magnetic recording (TDMR) setting with two displaced readers. To mimic the actual head skew angle change over the entire disk platter, data recovery over a wid...
+                              [Automatically Resolving Inter-Track Interference with Convolution Neural Network Detection Channel in TDMR](https://www.researchgate.net/publication/343707752_Automatically_Resolving_Inter-Track_Interference_with_Convolution_Neural_Network_Detection_Channel_in_TDMR)
+                                    Aug 2020
+                            Convolution neural network (CNN) is used as the data detection channel for two-dimensional magnetic recording (TDMR). We demonstrate that by only feeding interfered multi-reader signals as well as the target binary data at supervised learning, it is possible for CNN to automatically resolve the inter-track interference (ITI) in a noisy environment...
+                              [Deep Neural Network: Data Detection Channel for Hard Disk Drives by Learning](https://www.researchgate.net/publication/338497841_Deep_Neural_Network_Data_Detection_Channel_for_Hard_Disk_Drives_by_Learning)
+                                    Jan 2020
+                            The application of a deep neural network (DNN) as the detection channel for hard disk drive (HDD) data recovery at high user bit density and prominent magnetic transition jitter noise are investigated in this work. Directly trained with the un-equalized readback signals without any prior knowledge of the magnetic recording channel, the DNN can auto...
+                                          +1
+                              [Impact of straightened thermal profiles generated by gapped near field transducers on HAMR SNR](https://www.researchgate.net/publication/338661845_Impact_of_straightened_thermal_profiles_generated_by_gapped_near_field_transducers_on_HAMR_SNR)
+                                    Cheng-Ming Chow
+                                    Mengxue Yin
+                            In this work, heat assisted magnetic recording (HAMR) is simulated to assess the areal density advantages of various realistic thermal profiles. Specifically, finite element simulation and micromagnetic modeling are used to assess the areal density consequences of a straighter thermal profile with an associated wider track. This assessment is done...
+                              [Impact of Magnetic Medium Grain Height in Heat Assisted Magnetic Recording](https://www.researchgate.net/publication/331719630_Impact_of_Magnetic_Medium_Grain_Height_in_Heat_Assisted_Magnetic_Recording)
+                                    Mar 2019
+                            Comparing with conventional perpendicular magnetic recording, heat assisted magnetic recording occurs at temperatures more than twice as high in Kelvin. The ability of head field to align the medium magnetization over the short duration in recording a bit is limited by the ratio of magnetic potential energy over the thermal energy. In this paper, w...
+                              [Micromagnetics of FePt-L1₀ Media With Thermally Insulating Magnetic Grain Boundaries](https://www.researchgate.net/publication/325186504_Micromagnetics_of_FePt-L1_Media_With_Thermally_Insulating_Magnetic_Grain_Boundaries)
+                                    May 2018
+                            The Curie temperature distribution induced from grain size variation in heat-assisted magnetic recording (HAMR) can be alleviated by including the thermally insulating magnetic grain boundaries. In this paper, we present a systematic micromagnetic study on this new type of HAMR media, focusing on the impact to the recording behaviors from the excha...
+                              [Electrically Tunable Polarizer Based on Graphene-loaded Plasmonic Cross Antenna](https://www.researchgate.net/publication/386703363_Electrically_Tunable_Polarizer_Based_on_Graphene-loaded_Plasmonic_Cross_Antenna)
+                                Preprint
+                                    Mar 2018
+                                    Xiaoyan Y.Z. Xiong
+                                    Wei E. I. Sha
+                                    Li Jun Jiang
+                            The unique gate-voltage dependent optical properties of graphene make it a promising electrically-tunable plasmonic material. In this work, we proposed in-situ control of the polarization of nanoantennas by combining plasmonic structures with an electrostatically tunable graphene monolayer. The tunable polarizer is designed based on an asymmetric c...
+                                          +2
+                              [Machine Learning Based Computational Electromagnetic Analysis for Electromagnetic Compatibility](https://www.researchgate.net/publication/328764316_Machine_Learning_Based_Computational_Electromagnetic_Analysis_for_Electromagnetic_Compatibility)
+                                    H.M. Yao
+                                    Huanhuan Zhang
+                              [Machine learning based method of moments (ML-MoM)](https://www.researchgate.net/publication/320650576_Machine_learning_based_method_of_moments_ML-MoM)
+                                    Jul 2017
+                                    He Ming Yao
+                              [Curvature-Eliminating Head Field and Track Edge Characteristics in Heat Assisted Magnetic Recording](https://www.researchgate.net/publication/317161111_Curvature-Eliminating_Head_Field_and_Track_Edge_Characteristics_in_Heat_Assisted_Magnetic_Recording)
+                                    May 2017
+                                    Hai Li
+                            Transition curvature in heat assisted magnetic recording can be eliminated by appropriately varying head field amplitude across recording track width. In this paper, we present a systematic micromagnetic study on the effects of non-vanishing field beyond track edges in practical head designs, focusing on the recording characteristics beyond track e...
+                              [Machine Learning Based MoM (ML-MoM) For Parasitic Capacitance Extractions](https://www.researchgate.net/publication/312023468_Machine_Learning_Based_MoM_ML-MoM_For_Parasitic_Capacitance_Extractions)
+                                    Dec 2016
+                                    Ming He
+                            This paper is a rethinking of the conventional method of moments (MoM) using the modern machine learning (ML) technology. By repositioning the MoM matrix and unknowns in an artificial neural network (ANN), the conventional linear algebra MoM solving is changed into a machine learning training process. The trained result is the solution. As an appli...
+                              [IEEE EDAPS Slides: Machine Learning Based MoM (ML-MoM) For Parasitic Capacitance Extractions](https://www.researchgate.net/publication/312092304_IEEE_EDAPS_Slides_Machine_Learning_Based_MoM_ML-MoM_For_Parasitic_Capacitance_Extractions)
+                                Presentation
+                                    Heming Yao
+                              [Electrically tunable polarizer based on graphene-loaded plasmonic cross antenna](https://www.researchgate.net/publication/310455379_Electrically_tunable_polarizer_based_on_graphene-loaded_plasmonic_cross_antenna)
+                                    Aug 2016
+                            Dynamic manipulation of light at nanoscale is highly important for many applications, including optical security systems, optical tweezers and compact optoelectronic devices. A number of tuning methods using thermal, mechanical, optical, and electrical mechanisms have been reported. Among all, electrical tuning, based on incorporation of phase-chan...
+                              Cited
+                                              [Kavita Burse](profile/Kavita-Burse)
+                                              [Y. Bengio](profile/Y-Bengio)
+                                                Université de Montréal
+                                              [F.E. Talke](profile/Fe-Talke)
+                                                University of California, San Diego
+                                              [Jim John Miles](profile/Jim-Miles)
+                                                The University of Manchester
+                                              [M. Fatih Erden](profile/M-Erden)
+                                                Seagate Technology
+                              Cited By
+                                              [Guangcun Shan](profile/Guangcun-Shan)
+                                                Beihang University
+                                              [Ji Wu](profile/Ji-Wu-6)
+                                                Tsinghua University
+                                              [Wenjian Yu](profile/Wenjian-Yu)
+                                              [Xingang Ren](profile/Xingang-Ren)
+                                                Anhui University/The University of Hong Kong
+                                              [Simon Greaves](profile/Simon-Greaves)
+                                                Tohoku University
+                Current institution
+                                    Pittsburgh, United States
+                            Jian-Gang Zhu's Lab
+                Co-authors
+                      Top co-authors
+                                          Zhejiang University
+                                          The University of Hong Kong
+                          All co-authors (22)
+                                          Department
+                                                School of Electronics
+                                                Department of Electrical and Electronic Engineering
+                                          [James A. Bain](scientific-contributions/James-A-Bain-2111733694)
+                                          [Iouri Oboukhov](scientific-contributions/Iouri-Oboukhov-2206918830)
+                                          [Niranjay Ravindran](scientific-contributions/Niranjay-Ravindran-2206922033)
+                                          [Weldon Hanson](scientific-contributions/Weldon-Hanson-2206934633)
+                                          [Ching-Yi Lin](scientific-contributions/Ching-Yi-Lin-2226615692)
+                  Advertisement
+                          Join ResearchGate to find the people and research you need to help your work
+                              25+ million
+                              members
+                              160+ million
+                              publication pages
+                              2.3+ billion
+                              citations
+                        Loading...
+                    Lab members
+                    Current journal roles
+                        What type of researcher are you?
+                        Only verified researchers can join ResearchGate and send messages to other members.
+                                      Academic or student
+                                      University students and faculty, institute members, and independent researchers
+                                      Corporate, government, or NGO researcher
+                                      Technology or product developers, R&D specialists, and government or NGO employees in scientific roles
+                                      Medical
+                                      Health care professionals, including clinical researchers
+                                      Not a researcher
+                                      Journalists, citizen scientists, or anyone interested in reading and discovering research
+                      You may be eligible for a free account
+                          Sorry, you need to be a researcher to join ResearchGate.
+                          Due to our privacy policy, only current members can send messages to people on ResearchGate.
+                      Already a member?
+                            Back
+                            Close
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=Tl1KOkAjA0oZkNa_2faLig5IBm2L3KO1zMbbwo8ELsL6FT93n9OG31_hJ0gxV9i3zJfmLC6DHQenwTwJphqBlfyZTYk)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

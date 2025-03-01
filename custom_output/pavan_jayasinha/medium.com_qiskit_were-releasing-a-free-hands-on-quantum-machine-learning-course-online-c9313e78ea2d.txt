@@ -1,0 +1,69 @@
+            [Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fc9313e78ea2d&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav-----------------------------------------)
+                  Sign up
+                    [Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fqiskit%2Fwere-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+                      Write
+                              We’re Releasing a Free, Hands-On Quantum Machine Learning Course Online
+                                                          [Qiskit](/@qiskit?source=post_page---byline--c9313e78ea2d---------------------------------------)
+                                                    ·
+                                                      [Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F12b2fb01d834&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fqiskit%2Fwere-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d&user=Qiskit&userId=12b2fb01d834&source=post_page-12b2fb01d834--byline--c9313e78ea2d---------------------post_header------------------)
+                                                  Published in
+                                                  5 min read
+                                                  Jan 31, 2022
+                                                --
+                                                2
+                                                            Listen
+                                                  Share
+                              By Leron Gil, Russell Huffman, Frank Harkins, Anna Phan, Amira Abbas, Pavan Jayasinha, and Robert Davis
+                            It has only taken a few short years for quantum machine learning (QML) to evolve from a niche academic curiosity into one of the hottest topics in quantum computing, and it’s really no surprise that the subject attracts so much interest. Classical machine learning has become an era-defining cultural and economic force, and it’s possible that we’ll one day say the same thing about quantum computing. But despite the fact that today we have easy access to high-quality online learning resources for nearly every computing topic under the sun, there have been few, if any QML courses that are rigorous, interactive, and available free of charge. That is, until now.
+                            Last year, we held
+                              [our second-annual Qiskit Global Summer School](/qiskit/what-you-missed-at-the-2021-qiskit-global-summer-school-a41b8512c3a9)
+                              , inviting more than 5,000 participants to take part in a two-week quantum computing course with a particular focus on QML fundamentals. Now, we’re transforming the 2021 summer school curriculum into
+                              [a self-paced online course](https://qisk.it/3IITTtB)
+                              designed to help curious learners build a deeper understanding of QML. This new course is suitable for anyone who has a firm grasp on quantum computing basics. It is the second course of its kind to debut in
+                              [the recently redesigned Qiskit textbook](/qiskit/weve-redesigned-the-qiskit-textbook-607a41956a70)
+                              , following the launch of our revamped
+                              [Introduction to Quantum Computing course](https://learn.qiskit.org/course/introduction/why-quantum-computing)
+                              last fall.
+                                Click here to view the Qiskit Textbook’s new Quantum Machine Learning course.
+                            We don’t know yet know if quantum machine learning will provide a useful advantage over classical machine learning. However, by providing this new educational material, we hope more people will join this growing area of research and contribute to the body of work that is emerging in the field — and that those interested in the field will have a rigorous, levelheaded base upon which to form their understanding. If you’re interested in QML and weren’t able to attend last year’s summer school, this is the resource for you.
+                            The Qiskit Textbook’s QML course offers a variety of interactive elements designed to facilitate the learning process, many of which first appeared in last year’s updated Introduction to Quantum Computing course. For example, in addition to the main course content, each page of the QML course includes tool tips and a side bar filled with detailed lesson notes that break down key concepts that may still be new or even entirely unfamiliar to some readers.
+                                Example interactive component.
+                            As students encounter new kinds of quantum circuits in the QML course, our “mini composer” tool allows them to practice building those circuits for themselves. Similarly, drag-and-drop exercises invite users to interact with code directly, bringing them one step closer to writing code of their own. We believe this is the very first free, online QML course with embedded interactive code that enables students to test out new concepts as they go.
+                            By the end of the course, students will have learned everything they need to complete one of several optional
+                              [final projects](https://learn.qiskit.org/course/machine-learning/project)
+                              . Students will be able to try their hand at implementing a quantum generative adversarial network to approximate a targeted probability distribution. They will be able to assess the advantages and disadvantages of different encoding and optimization techniques. Those who are comfortable with classical machine learning will even be able to investigate classical ML methods to find areas that might benefit from the use of quantum circuits. We hope that once they’ve mastered the course content, students will be ready to tackle QML projects of their own
+                            The course is not intended to replace the content from last year’s summer school, which has been preserved as
+                              [a separate series of recorded video lectures and lab exercises](https://qiskit.org/textbook-beta/summer-school/quantum-computing-and-quantum-learning-2021/)
+                              on the Qiskit website. There are several differences between the QML course and the summer school series — for example, the QML course includes no video lectures and takes roughly half as long to complete. However, the two are still very much connected, and cover much of the same content. The QML course is a living document that will grow and change as the field progresses, while the summer school material will remain as a snapshot of the state of QML in 2021.
+                            If there’s no guarantee that quantum computing will enhance machine learning, then some may wonder why the Qiskit team devotes so much effort to teaching it. First off,
+                              [researchers have demonstrated](https://arxiv.org/abs/2010.02174)
+                              the existence of theoretical quantum speedups for some machine learning applications. Also, QML can teach students a great deal about classical machine learning that often isn’t covered in traditional computer science curricula. Classical machine learning has come so far since its earliest days that it is now possible to build a neural network in just four lines of code. As a result, educators may skip over some of the fundamentals of classical machine learning in favor of spending time on more practical and advanced topics, especially for engineering students. Qiskit advocate Pavan Jayasinha says he may never have learned the more abstract properties of generative models and how they interplay with general machine learning if not for his work authoring the section on quantum generative adversarial networks in the QML course.
+                            We’ve also found that QML can be a great entry point for people with classical machine learning expertise who want to learn more about quantum computing. Thanks to the ubiquity of classical machine learning applications, the community of people who have that expertise has grown quite large. For those who have a classical background, quantum machine learning may be the easiest and most natural first step to learning more about quantum computing.
+                            Our primary goal in creating this course is to welcome more people into the QML research community, and to invite them to join the ongoing search for quantum advantage. That’s why we’ve structured the course to provide students with a general framework for working with and thinking about QML. Once a student has completed the course, it’s up to them to begin thinking, researching, and brainstorming for themselves. Our goal is to empower anyone to try their hand at determining whether a quantum advantage in machine learning is achievable. That’s what’s so exciting about the field: there is enormous potential for anyone to contribute something meaningful.
+                              Acknowledgements
+                              Many thanks to everyone who contributed to this project, including Russell Huffman, Frank Harkins, Grace Lindsell, Gregorio Iniesta Ovejero, Owen Lockwood, and Setareh Derakhshandeh on our design and development team. And thanks to Anna Phan, Christa Zoufal, Pavan Jayasinha, Alberto Maldonado, Antonio Macaluso, and all of our 2021 Qiskit Global Summer School lecturers for contributing to course content.
+                    Quantum Computing
+                    Quantum Machine Learning
+                    Machine Learning
+                    Open Source
+                    Stem Education
+                              [7.5K Followers](/qiskit/followers?source=post_page---post_publication_info--c9313e78ea2d---------------------------------------)
+                            [Last published](/qiskit/the-qiskit-blog-is-moving-0e7fa442c00c?source=post_page---post_publication_info--c9313e78ea2d---------------------------------------)
+                              Jan 25, 2024
+                            A community  to discuss Qiskit, programming quantum computers, and anything else related to quantum computing.
+                          Written by
+                            [13.3K Followers](/@qiskit/followers?source=post_page---post_author_info--c9313e78ea2d---------------------------------------)
+                          [6 Following](/@qiskit/following?source=post_page---post_author_info--c9313e78ea2d---------------------------------------)
+                          An open source quantum computing framework for writing quantum experiments and applications
+                  Responses (
+                  See all responses
+                        Help
+                        Status
+                        About
+                        Careers
+                        Press
+                        Blog
+                        Privacy
+                        Terms
+                        Text to speech
+                        Teams

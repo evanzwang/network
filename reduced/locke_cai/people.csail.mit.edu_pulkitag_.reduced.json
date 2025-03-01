@@ -1,0 +1,2569 @@
+{
+  "title": "Pulkit Agrawal",
+  "meta_description": "",
+  "main_content": "Pulkit Agrawal I am an Associate Professor in the department of Electrical Engineering and Computer Science (EECS) at MIT . My lab is a part of the Computer Science and Artificial Intelligence Lab ( CSAIL ), is affiliated with the Laboratory for Information and Decision Systems ( LIDS ) and involved with NSF AI Institute for Artificial Intelligence and Fundamental Interactions ( IAIFI ). I completed my Ph.D. at UC Berkeley; undergraduate studies from IIT Kanpur. Co-founded SafelyYou Inc. that builds fall prevention technology. Advisor to Tutor Intelligence , Lab0 Inc., and Common Sense Machines . Follow @pulkitology / LinkedIn / Email / CV / Biography / Google Scholar Research The overarching research interest is to build machines that have similar manipulation and locomotion abilities as humans. These machines will automatically and continuously learn about their environment and exhibit both common sense and physical intuition. I refer to this line of work as \"computational sensorimotor learning\" . It encompasses problems in peception , control , hardware design , robotics , reinforcement learning , and other learning approaches to control. My past work has also drawn inspiration from cognitive science , and neuroscience . Ph.D. Thesis (Computational Sensorimotor Learning) / Thesis Talk / Bibtex TEDxMIT Talk: Why machines can play chess but can't open doors? (i.e., why is robotics hard?) Teaching Courses Computational Sensorimotor Learning Graduate Machine Learning: FA'20, FA'21 Intelligent Robot Manipulation: FA'19 Professional Education These courses are intended for industry professionals and not MIT students. Advanced Reinforcement Learning: Summer'24 Reinforcement Learning: Summer'24 AI in Robotics: Summer'24 Recent Awards to Lab Members Pulkit recieves 2024 IEEE Early Academic Career Award in Robotics and Automation . Meenal Parakh wins the 2024 Charles and Jennifer Johnson MEng Thesis Award. Idan Shenfeld and Zhang-Wei Hong win the 2024 Qualcomm Innvoation Fellowship. Srinath Mahankali wins the 2024 Jeremy Gerstle UROP Award for undergraduate research. Srinath Mahankali wins the 2024 Barry Goldwater Scholarship. Gabe Margolis wins the 2022 Ernst A. Guillemin Thesis Award in Artificial Intelligence and Decision Making. Best Paper Award at Conference on Robot Learning (CoRL) 2021 to our work on in-hand object re-orientation . Research Group The lab is an unsual collection of folks working on something that is unconceivable/unthinkable, but not impossible in our lifetime: General Artificial Intelligence. Life is short, do what you must do :-) I like to call my group: Improbable AI Lab . Post Docs Haoshu Fang Branden Romero Graduate Students Antonia Bronars Gabe Margolis Zhang-wei Hong Nolan Fey Younghyo Park Jyothish Pari Idan Shenfeld Aviv Netanyahu Bipasha Sen Richard Li Seungwook Han Masters of Engineering (MEng. Students) and Undergraduate Researchers (UROPs) Srinath Mahankali, Jagdeep Bhatia, Arthur Hu, Gregory Pylypovych, Kevin Garcia, Yash Prabhu, Locke Cai. Visiting Researchers Sandor Felber, Lars Ankile Openings We have openings for Ph.D. Students, PostDocs, and MIT UROPs/SuperUROPs . If you would like to apply for the Ph.D. program, please apply directly to MIT EECS admissions. For all other positions, send me an e-mail with your resume. Recent Talks Pathway to Robotic Intelligence , MIT Schwarzman College of Computing Talk, 2024. Making Robots as Intelligent as ChatGPT , Forbes, 2023. Robot Learning for the Real World, Forum for Artificial Intelligence, UT Austin, March 2023. Fun with Robots and Machine Learning , Robotics Colloqium, University of Washington, Nov 2022. Navigating Through Contacts , RSS 2022 Workshop in The Science of Bumping into Things. Coming of Age of Robot learning , Technion Robotics Seminar (April 14 2022) / MIT Robotics Seminar (March 2022). Rethinking Robot Learning , Learning to Learn: Robotics Workshop, ICRA'21. Self-Supervised Robot Learning, Robotics Seminar, Robot Learning Seminar, MILA. Challenges in Real-World Reinforcement Learning , IAIFI Seminar, MIT. The Task Specification Problem , Embodied Intelligence Seminar, MIT. Pre-Prints Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation Tao Chen , Eric Cousineau , Naveen Kuppuswamy , Pulkit Agrawal project page / arXiv A robotic system that peels vegetables with a dexterous robot hand. Value Augmented Sampling for Language Model Alignment and Personalization Seungwook Han, Idan Shenfeld, Akash Srivastava,Yoon Kim, Pulkit Agrawal Workshop on Reliable and Responsible Foundation Models , ICLR 2024 ( Oral ) paper / bibtex Algorithm for inference-time augmentation of Large Language Models. Training Neural Networks From Scratch with Parallel Low-Rank Adapters Minyoung Huh, Brian Cheung, Jeremy Bernstein, Phillip Isola, Pulkit Agrawal arXiv , 2024 paper / project page / bibtex A method for parallel training of large models on computers with limited memory. From Imitation to Refinement \u2013 Residual RL for Precise Visual Assembly Lars Ankile, Anthony Simeonov, Idan Shenfeld, Marcel Torne, Pulkit Agrawal arXiv , 2024 paper / project page / code / bibtex Refining behavior-cloned diffusion model policies using RL. Publications Reconciling Reality through Simulation: A Real-To-Sim-to-Real Approach for Robust Manipulation Marcel Torne Villasevil , Anthony Simeonov, Zechu Li, April Chan, Tao Chen, Abhishek Gupta, Pulkit Agrawal RSS , 2024 paper / project page / bibtex A framework to train robots on scans of real-world scenes. Random Latent Exploration for Deep Reinforcement Learning Srinath Mahankali , Zhang-Wei Hong , Ayush Sekhari , Alexander Rakhlin , Pulkit Agrawal ICML , 2024 paper / project page / code / bibtex State-of-the-art exploration by optimizing the agent to achieve randomly sampled latent goals. Lifelong Robot Learning with Human Assisted Language Planners Meenal Parakh*, Alisha Fong*, Anthony Simeonov, Abhishek Gupta, Tao Chen, Pulkit Agrawal (*equal contribution) ICRA , 2024 paper / project page / bibtex An LLM-based task planner that can learn new skills opens doors for continual learning. Learning Force Control for Legged Manipulation Tifanny Portela, Gabriel B. Margolis, Yandong Ji, Pulkit Agrawal ICRA , 2024 paper / project page / bibtex Learning to control the force applied by a legged robot's arm for compliant and forceful manipulation. Curiosity-driven Red-teaming for Large Language Models Zhang-Wei Hong, Idan Shenfeld, Tsun-Hsuan Wang, Yung-Sung Chuang, Aldo Pareja, James R. Glass, Akash Srivastava, Pulkit Agrawal ICLR , 2024 paper / code / bibtex Maximizing Quadruped Velocity by Minimizing Energy Srinath Mahankali* , Chi-Chang Lee* , Gabriel B. Margolis , Zhang-Wei Hong , Pulkit Agrawal ICRA , 2024 paper / project page / bibtex Principled energy minimization increases robot's agility. JUICER: Data-Efficient Imitation Learning for Robotic Assembly Lars Ankile, Anthony Simeonov, Idan Shenfeld, Pulkit Agrawal IROS , 2024 paper / project page / code / bibtex Learning complex assembly skills from few human demonstrations. Rank2Reward: Learning Shaped Reward Functions from Passive Video Daniel Yang, Davin Tjia, Jacob Berg, Dima Damen, Pulkit Agrawal , Abhishek Gupta ICRA , 2024 paper / project page / code / bibtex Learning reward functions from videos of human demonstrations. Everyday finger: a robotic finger that meets the needs of everyday interactive manipulation Rub\u00e9n Castro Ornelas, Tom\u00e1s Cant\u00fa, Isabel Sperandio, Alexander H. Slocum, Pulkit Agrawal ICRA , 2024 paper / project page / bibtex Robotic finger designed to perform every day tasks. Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes Tao Chen , Megha Tippur, Siyang Wu, Vikash Kumar , Edward Adelson , Pulkit Agrawal Science Robotics , 2023 paper / project page / bibtex A real-time controller that dynamically reorients complex and novel objects by any amount using a single depth camera. Compositional Foundation Models for Hierarchical Planning Anurag Ajay*, Seungwook Han*, Yilun Du*, Shuang Li, Abhi Gupta, Tommi Jaakkola, Josh Tenenbaum, Leslie Kaelbling, Akash Srivastava, Pulkit Agrawal (* equal contribution) NeurIPS , 2023 paper / project page / bibtex Composing existing foundation models operating on different modalities to solve long-horizon tasks. Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback Marcel Torne, Max Balsells, Zihan Wang, Samedh Desai, Tao Chen, Pulkit Agrawal , Abhishek Gupta NeurIPS , 2023 paper / project page / code / bibtex Method for guiding goal-directed exploration with asynchronous human feedback. Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets Zhang-Wei Hong, Aviral Kumar, Sathwik Karnik, Abhishek Bhandwaldar, Akash Srivastava, Joni Pajarinen, Romain Laroche, Abhishek Gupta, Pulkit Agrawal NeurIPS , 2023 paper / bibtex / code Optimizing the sampling distribution enables offline RL to learn a good policy in skewed datasets primarily composed of sub-optimal trajectories. Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement Anthony Simeonov, Ankit Goyal*, Lucas Manuelli*, Lin Yen-Chen, Alina Sarmiento, Alberto Rodriguez, Pulkit Agrawal **, Dieter Fox** (*equal contribution, **equal advising) CoRL , 2023 paper / project page / code / bibtex Relational rearrangement with multi-modal placing and generalization over scene layouts via diffusion and local scene conditioning. Learning to See Physical Properties with Active Sensing Motor Policies Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal Conference on Robot Learning (CoRL), 2023 paper / project page / bibtex Learn to perceive physical properties of terrains in front of the robot (i.e., a digital twin). Visual Pre-training for Navigation: What Can We Learn from Noise? Yanwei Wang, Ching-Yun Ko, Pulkit Agrawal IROS 2023 , NeurIPS 2022 Workshop paper / code / project page / bibtex Learning to navigate by moving the camera across random images. Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback Max Balsells*, Marcel Torne*, Zihan Wang, Samedh Desai, Pulkit Agrawal , Abhishek Gupta CoRL , 2023 paper / bibtex Leveraging crowdsourced non-expert human feedback to guide exploration in robot policy learning. TGRL: An Algorithm for Teacher Guided Reinforcement Learning Idan Shenfeld, Zhang-Wei Hong, Aviv Tamar, Pulkit Agrawal ICML , 2023 paper / code / project page / bibtex An algorithm for automatically balancing learning from teacher's guidance and task reward. Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks Minyoung Huh, Brian Cheung, Pulkit Agrawal , Phillip Isola International Conference on Machine Learning ( ICML ) , 2023 paper / website / code / bibtex A set of suggestions that simplifies training of vector quantization layers. Parallel Q-Learning: Scaling Off-policy Reinforcement Learning under Massively Parallel Simulation Zechu Li* , Tao Chen* , Zhang-Wei Hong , Anurag Ajay , Pulkit Agrawal (* indicates equal contribution) ICML , 2023 paper / code / bibtex Scaling Q-learning algorithms to 10K+ workers. Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation Andi Peng, Aviv Netanyahu, Mark Ho, Tianmin Shu, Andreea Bobu, Julie Shah, Pulkit Agrawal ICML , 2023 paper / project page / bibtex A step towards using counterfactuals for improving policy adaptation. Statistical Learning under Heterogenous Distribution Shift Max Simchowitz*, Anurag Ajay*, Pulkit Agrawal , Akshay Krishnamurthy (* equal contribution) ICML , 2023 paper / bibtex In-distribution error for certain features predicts their out-of-distribution sensitivity. DribbleBot: Dynamic Legged Manipulation in the Wild Yandong Ji* , Gabriel B. Margolis* , Pulkit Agrawal (*equal contribution) International Conference on Robotics and Automation ( ICRA ), 2023 paper / project page / bibtex Press: TechCrunch , IEEE Spectrum , NBC Boston , Insider , Yahoo!News , MIT News Dynamic legged object manipulation on diverse terrains with onboard compute and sensing. TactoFind: A Tactile Only System for Object Retrieval Sameer Pai*, Tao Chen*, Megha Tippur*, Edward Adelson , Abhishek Gupta \u2020 , Pulkit Agrawal \u2020 (*equal contribution, \u2020 equal advising) International Conference on Robotics and Automation ( ICRA ) , 2023 paper / project page / bibtex Localize, identify, and fetch a target object in the dark with tactile sensors. Is Conditional Generative Modeling all you need for Decision Making? Anurag Ajay*, Yilun Du*, Abhi Gupta*, Josh Tenenbaum, Tommi Jaakkola, Pulkit Agrawal (*equal contribution) ICLR , 2023 (Oral) paper / project page / bibtex Return conditioned generative models offer a powerful alternative to temporal-difference learning for offline decision making and reasoning with constraints. Learning to Extrapolate: A Transductive Approach Aviv Netanyahu*, Abhishek Gupta*, Max Simchowitz, Kaiqing Zhang, Pulkit Agrawal (*equal contribution) ICLR , 2023 paper / bibtex Transductive reparameterization converts out-of-support generalization problem into out-of-combination generalization which is possible under low-rank style conditions. Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting Zhang-Wei Hong, Pulkit Agrawal , Remi Tachet des Combes, Romain Laroche ICLR , 2023 paper / bibtex Return reweighted sampling of trajectories enables offline RL algorithms to work with skewed datasets. The Low-Rank Simplicity Bias in Deep Networks Minyoung Huh, Hossein Mobahi, Richard Zhang, Brian Cheung, Pulkit Agrawal , Phillip Isola Transactions of Machine Learning Research ( TMLR ) , 2023 paper / website / bibtex Deeper Networks find simpler solutions! Also learn why ResNets overcome the challenges associated with very deep networks. Redeeming Intrinsic Rewards via Constrained Optimization Eric Chen*, Zhang-Wei Hong*, Joni Pajarinen, Pulkit Agrawal (*equal contribution) NeurIPS , 2022 paper / project page / bibtex Press: MIT News Method that automatically balances exploration bonus or curiosity against task rewards leading to consistent performance improvement. SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields Anthony Simeonov* , Yilun Du* , Lin Yen-Chen , Alberto Rodriguez , Leslie P. Kaelbling , Tom\u00e1s Lozano-Per\u00e9z , Pulkit Agrawal (*equal contribution) CoRL , 2022 paper / project page / code / bibtex Learning relational tasks with a few demonstrations in a way that generalizes to new configurations of objects. Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior Gabriel B. Margolis , Pulkit Agrawal CoRL , 2022 (Oral) paper / code / project page / bibtex One learned policy embodies many dynamic behaviors useful for different tasks. Distributionally Adaptive Meta Reinforcement Learning Anurag Ajay* , Abhishek Gupta*, Dibya Ghosh, Sergey Levine, Pulkit Agrawal (*equal contribution) NeurIPS , 2022 paper / project page / bibtex Being adaptive instead of being robust results in faster adaption to out-of-distribution tasks. Efficient Tactile Simulation with Differentiability for Robotic Manipulation Jie Xu , Sangwoon Kim , Tao Chen , Alberto Rodriguez , Pulkit Agrawal , Wojciech Matusik , Shinjiro Sueda CoRL , 2022 paper / Code coming soon / project page / bibtex Tactile Simulator for complex shapes training on which transfers to real-world. Rapid Locomotion via Reinforcement Learning Gabriel Margolis*, Ge Yang*, Kartik Paigwar, Tao Chen, Pulkit Agrawal RSS , 2022 paper / project page / bibtex Press: Wired , Popular Science , TechCrunch , BBC , MIT News High-speed running and spinning on diverse terrains with a RL based controller. Stubborn: A Strong Baseline for Indoor Object Navigation Haokuan Luo, Albert Yue, Zhang-Wei Hong, Pulkit Agrawal IROS , 2022 paper / code / bibtex State-of-the-art Performance on Habitat Navigation Challenge without any machine learning for navigation. Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation Anthony Simeonov*, Yilun Du*, Andrea Tagliasacchi, Joshua B. Tenenbaum, Alberto Rodriguez, Pulkit Agrawal **, Vincent Sitzmann** (*equal contribution, order determined by coin flip. **equal advising) ICRA , 2022 paper / website and code / bibtex An SE(3) Equivariant method for specifiying and finding correspondences which enables data efficient object manipulation. An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators Lara Zlokapa, Yiyue Luo, Jie Xu, Michael Foshey, Kui Wu, Pulkit Agrawal , Wojciech Matusik ICRA , 2022 paper / website / bibtex A method for users to easily design a variety of robotic manipulators with integrated tactile sensors. Stable Object Reorientation using Contact Plane Registration Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal ICRA , 2022 paper / bibtex Predicting contact points with a CVAE and plane segmentation improves object generalization and handles multimodality. Discovering Generalizable Spatial Goal Representations via Graph-based Active Reward Learning Aviv Netanyahu*, Tianmin Shu*, Joshua B. Tenenbaum, Pulkit Agrawal ICML , 2022 paper / bibtex Graph-based one-shot reward learning via active learning for object rearrangement tasks. Offline RL Policies Should be Trained to be Adaptive Dibya Ghosh, Anurag Ajay, Pulkit Agrawal , Sergey Levine ICML , 2022 paper / bibtex Online adaptation of offline RL policies using evaluation data improves performance. Topological Experience Replay Zhang-Wei Hong, Tao Chen, Yen-Chen Lin, Joni Pajarinen, Pulkit Agrawal ICLR , 2022 paper / bibtex Sampling data from the replay buffer informed by topological structure of the state space improves performance. Bilinear Value Networks for Multi-goal Reinforcement Learning Zhang-Wei Hong*, Ge Yang*, Pulkit Agrawal (*equal contribution) ICLR , 2022 paper / bibtex Bilinear decomposition of the Q-value function improves generalization and data efficiency. Equivariant Contrastive Learning Rumen Dangovski, Li Jing, Charlotte Loh, Seungwook Han, Akash Srivastava, Brian Cheung, Pulkit Agrawal , Marin Soljacic ICLR , 2022 paper / bibtex Study revealing complementarity of invariance and equivariance in contrastive learning. Overcoming The Spectral Bias of Neural Value Approximation Ge Yang*, Anurag Ajay*, Pulkit Agrawal (*equal contribution) ICLR , 2022 paper / bibtex Fourier features improve value estimation and consequently data efficiency. A System for General In-Hand Object Re-Orientation Tao Chen , Jie Xu , Pulkit Agrawal CoRL , 2021 (Best Paper Award) paper / bibtex / project page Press: MIT News A framework for general in-hand object reorientation. Learning to Jump from Pixels Gabriel Margolis , Tao Chen , Kartik Paigwar , Xiang Fu , Donghyun Kim , Sangbae Kim , Pulkit Agrawal CoRL , 2021 paper / bibtex / project page Press: MIT News A hierarchical control framework for dynamic vision-aware locomotion. 3D Neural Scene Representations for Visuomotor Control Yunzhu Li*, Shuang Li*, Vincent Sitzmann, Pulkit Agrawal , Antonio Torralba (*equal contribution) CoRL , 2021 (Oral) paper / website / bibtex Extreme viewpoint generalization via 3D representations based on Neural Radiance Fields. An End-to-End Differentiable Framework for Contact-Aware Robot Design Jie Xu, Tao Chen, Lara Zlokapa, Michael Foshey, Wojciech Matusik, Shinjiro Sueda, Pulkit Agrawal RSS , 2021 paper / website / bibtex / video / Press: MIT News Computational method for design task-specific robotic hands. Learning Task Informed Abstractions Xiang Fu, Ge Yang, Pulkit Agrawal , Tommi Jaakkola ICML , 2021 paper / website / bibtex A MDP formulation that dissociates task relevant and irrelevant information. Residual Model Learning for Microrobot Control Joshua Gruenstein, Tao Chen, Neel Doshi, Pulkit Agrawal ICRA , 2021 paper / bibtex Data efficient learning method for controlling microrobots. OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning Anurag Ajay , Aviral Kumar, Pulkit Agrawal , Sergey Levine, Ofir Nachum ICLR , 2021 paper / website / bibtex Learning action primitives for data efficient online and offline RL. A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects Anthony Simeonov , Yilun Du, Beomjoon Kim, Francois Hogan, Joshua Tenenbaum, Pulkit Agrawal , Alberto Rodriguez CoRL , 2020 paper / website / bibtex A framework that achieves the best of TAMP and robot-learning for manipulating rigid objects. Towards Practical Multi-object Manipulation using Relational Reinforcement Learning Richard Li , Allan Jabri , Trevor Darrell , Pulkit Agrawal ICRA , 2020 paper / website / code / bibtex Combining graph neural networks with curriculum learning for solve long horizon multi-object manipulation tasks. Superposition of Many Models into One Brian Cheung , Alex Terekhov , Yubei Chen , Pulkit Agrawal , Bruno Olshausen , NeurIPS , 2019 arxiv / video tutorial / code / bibtex A method for storing multiple neural network models for different tasks into a single neural network. Real-time Video Detection of Falls in Dementia Care Facility and Reduced Emergency Care Glen L Xiong, Eleonore Bayen, Shirley Nickels, Raghav Subramaniam, Pulkit Agrawal , Julien Jacquemot, Alexandre M Bayen, Bruce Miller, George Netscher American Journal of Managed Care , 2019 paper / SafelyYou / bibtex Computer Vision based Fall Detection system reduces number of falls and emergency room visits in people with Dementia. Zero Shot Visual Imitation Deepak Pathak* , Parsa Mahmoudieh* , Michael Luo, Pulkit Agrawal* , Evan Shelhamer , Alexei A. Efros , Trevor Darrell (* equal contribution) ICLR , 2018 (Oral) paper / website / code / slides / bibtex Self-supervised learning of skills helps an agent imitate the task presented as a sequence of images. Forward consistency loss overcomes key challenges of inverse and forward models. Investigating Human Priors for Playing Video Games Rachit Dubey , Pulkit Agrawal , Deepak Pathak , Alexei A. Efros , Tom Griffiths ICML , 2018 paper / website / youtube cover / media / bibtex An empirical study of various kinds of prior information used by humans to solve video games. Such priors make them significantly more sample efficient as compared to Deep Reinforcement Learning algorithms. Learning Instance Segmentation by Interaction Deepak Pathak* , Yide Shentu*, Dian Chen* , Pulkit Agrawal* , Trevor Darrell , Sergey Levine , Jitendra Malik (*equal contribution) CVPR Workshop , 2018 paper / website bibtex A self-supervised method for learning to segment objects by interacting with them. Fully Automated Echocardiogram Interpretation in Clinical Practice: Feasibility and Diagnostic Accuracy Jeffrey Zhang, Sravani Gajjala, Pulkit Agrawal , Geoffrey H Tison, Laura A Hallock, Lauren Beussink-Nelson, Mats H Lassen, Eugene Fan, Mandar A Aras, ChaRandle Jordan, Kirsten E Fleischmann, Michelle Melisko, Atif Qasim, Sanjiv J Shah, Ruzena Bajcsy, Rahul C Deo Circulation , 2018 paper / arxiv / bibtex Computer vision method for building fully automated and scalable analysis pipeline for echocardiogram interpretation. Curiosity Driven Exploration by Self-Supervised Prediction Deepak Pathak , Pulkit Agrawal , Alexei A. Efros , Trevor Darrell ICML , 2017 arxiv / video / talk / code / project website / bibtex Intrinsic curiosity of agents enables them to learn useful and generalizable skills without any rewards from the environment. What Will Happen Next?: Forecasting Player Moves in Sports Videos Panna Felsen , Pulkit Agrawal , Jitendra Malik ICCV , 2017 paper / bibtex Feature learning by making use of an agent's knowledge of its motion. Combining Self-Supervised Learning and Imitation for Vision-based Rope Manipulation Ashvin Nair* , Dian Chen* , Pulkit Agrawal* , Phillip Isola , Pieter Abbeel , Jitendra Malik , Sergey Levine (*equal contribution) ICRA , 2017 arxiv / website / video / bibtex Self-supervised learning of low-level skills enables a robot to follow a high-level plan specified by a single video demonstration. The code for the paper Zero Shot Visual Imitation subsumes this project's code release. Learning to Perform Physics Experiments via Deep Reinforcement Learning Misha Denil , Pulkit Agrawal* , Tejas D Kulkarni , Tom Erez , Peter Battaglia , Nando de Freitas ICLR , 2017 arxiv / media / video / bibtex Deep reinforcement learning can equip an agent with the ability to perform experiments for inferring physical quanities of interest. Reduction in Fall Rate in Dementia Managed Care through Video Incident Review: Pilot Study Eleonore Bayen, Julien Jacquemot, George Netscher, Pulkit Agrawal , Lynn Tabb Noyce, Alexandre Bayen Journal of Medical Internet Research , 2017 paper / bibtex Analysis how continuous video monitoring and review of falls of individuals with dementia can support better quality of care. Human Pose Estimation with Iterative Error Feedback Joao Carreira , Pulkit Agrawal , Katerina Fragkiadaki , Jitendra Malik CVPR , 2016 (Spotlight) arxiv / code / bibtex Iterative Error Feedback (IEF) is a self-correcting model that progressively changes an initial solution by feeding back error predictions. In contrast to feedforward CNNs that only capture structure in inputs, IEF captures structure in both the space of inputs and outputs. Learning to Poke by Poking: Experiential Learning of Intuitive Physics Pulkit Agrawal* , Ashvin Nair* , Pieter Abbeel , Jitendra Malik , Sergey Levine (*equal contribution) NIPS , 2016, (Oral) arxiv / talk / project website / data / bibtex Robot learns how to push objects to target locations by conducting a large number of pushing experiments. The code for the paper Zero Shot Visual Imitation subsumes this project's code release. What makes Imagenet Good for Transfer Learning? Jacob Huh , Pulkit Agrawal , Alexei A. Efros NIPS LSCVS Workshop , 2016, (Oral) arxiv / project website / code / bibtex An empirical investigation into various factors related to the statistics of Imagenet dataset that result in transferrable features. Learning Visual Predictive Models of Physics for Playing Billiards Katerina Fragkiadaki* , Pulkit Agrawal* , Sergey Levine , Jitendra Malik (*equal contribution) ICLR , 2016 arxiv / code / bibtex This work explores how an agent can be equipped with an internal model of the dynamics of the external world, and how it can use this model to plan novel actions by running multiple internal simulations (\u201cvisual imagination\u201d). Generic 3d Representation via Pose Estimation and Matching Amir R. Zamir , Tilman Wekel , Pulkit Agrawal , Colin Weil, Jitendra Malik , Silvio Savarese ECCV , 2016 arxiv / website / dataset / code / bibtex Large-scale study of feature learning using agent's knowledge of its motion. This paper extends our ICCV 2015 paper. Learning to See by Moving Pulkit Agrawal , Joao Carreira , Jitendra Malik ICCV , 2015 arxiv / code / bibtex Feature learning by making use of an agent's knowledge of its motion. Analyzing the Performance of Multilayer Neural Networks for Object Recognition Pulkit Agrawal , Ross Girshick , Jitendra Malik ECCV , 2014 arxiv / bibtex A detailed study of how to finetune neural networks and the nature of the learned representations. Pixels to Voxels: Modeling Visual Representation in the Human Brain Pulkit Agrawal , Dustin Stansbury , Jitendra Malik , Jack Gallant (*equal contribution) arXiv , 2014 arxiv / unpublished results / bibtex Comparing the representations learnt by a Deep Neural Network optimized for object recognition against the human brain. The Automatic Assessment of Knowledge Integration Processes in Project Teams Gahgene Gweon, Pulkit Agrawal , Mikesh Udani, Bhiksha Raj, Carolyn Rose Computer Supported Collaborative Learning , 2011 (Best Student Paper Award) arxiv / bibtex Method for identifying important parts of a group conversation directly from speech data. Patents System and Method for Detecting, Recording and Communicating Events in the Care and Treatment of Cognitively Impaired Persons George Netscher, Julien Jacquemot, Pulkit Agrawal , Alexandre Bayen US Patent: US20190287376A1 , 2019 Invariant Object Representation of Images Using Spiking Neural Networks Pulkit Agrawal , Somdeb Majumdar, Vikram Gupta US Patent: US20150278628A1 , 2015 Invariant Object Representation of Images Using Spiking Neural Networks Pulkit Agrawal , Somdeb Majumdar US Patent: US20150278641A1 , 2015 Service Program Chair, CoRL, 2024 Area Chair, ICML, 2021 Area Chair, ICLR, 2021 Area Chair, NeurIPS, 2020 Area Chair, CoRL, 2020, 2019 Reviewer for CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, RSS, ICRA, IJRR, IJCV, IEEE RA-L, TPAMI etc. Lab Alumni Tao Chen , PhD 2024, co-founded his startup. Anurag Ajay , PhD 2024, now at Google. Ruben Castro , MS 2024. Jacob Huh , PhD 2024, now at OpenAI. Anthony Simeonov , PhD 2024, now at Boston Dynamics. Xiang Fu , PhD 2024. Brian Cheung Andrew Jenkins, MEng, 2024, now at Zoosk . Tifanny Portela , visiting student 2023, now a Ph.D. student at ETH Zurich. Yandong Ji, visiting researcher 2023, now a Ph.D. student at UCSD. Meenal Parakh, MEng 2023, now PhD student at Princeton. Marcel Torne, MS 2023, now PhD student at Stanford. Alisha Fong, MEng, 2023 Alina Sarmiento, Undergraduate, 2023, now PhD student at CMU. Sathwik Karnik, Shreya Kumar, Yaosheng Xu, Bhavya Agrawalla, April Chan, Andrei Spiride, April Chan, Calvin Zhang, Abhaya Ravikumar, Alex Hu, Isabel Sperandino Andi Peng, MS 2023, now PhD student with Julie Shah. Steven Li , visiting researcher 2023, now a PhD student at TU Darmstadt. Abhishek Gupta , PostDoc, now Faculty at University of Washington. Lara Zlokapa , MEng, 2022 Haokuan Luo, MEng, 2022 (now at Hudson River) Albert Yue, MEng, 2022 (now at Hudson River) Matthew Stallone, MEng, 2022 Eric Chen, MEng, 2021 (now at Aurora) Joshua Gruenstein, 2021 (now CEO Tutor Intelligence) Alon Z. Kosowsky-Sachs, 2021 (now CTO Tutor Intelligence) Avery Lamp (now at stealth startup) Sanja Simonkovj, 2021 (Masters Student) Oran Luzon, 2021 (Undergraduate Researcher) Blake Tickell, 2020 (Visiting Researcher) Ishani Thakur, 2020 (Undergraduate Researcher) template / accessibility",
+  "links": [
+    {
+      "url": "www.mit.edu",
+      "text": "MIT"
+    },
+    {
+      "url": "https://www.csail.mit.edu/",
+      "text": "CSAIL"
+    },
+    {
+      "url": "https://lids.mit.edu/",
+      "text": "LIDS"
+    },
+    {
+      "url": "https://iaifi.org/",
+      "text": "IAIFI"
+    },
+    {
+      "url": "https://www.safely-you.com/",
+      "text": "SafelyYou Inc."
+    },
+    {
+      "url": "https://www.tutorintelligence.com/",
+      "text": "Tutor Intelligence"
+    },
+    {
+      "url": "https://csm.ai/",
+      "text": "Common Sense Machines"
+    },
+    {
+      "url": "https://twitter.com/pulkitology?ref_src=twsrc%5Etfw",
+      "text": "Follow @pulkitology"
+    },
+    {
+      "url": "https://www.linkedin.com/in/pulkit-agrawal-967a4218/",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "mailto:pulkitag@mit.edu",
+      "text": "Email"
+    },
+    {
+      "url": "data/pulkit_CV_current.pdf",
+      "text": "CV"
+    },
+    {
+      "url": "data/pulkit-bio.txt",
+      "text": "Biography"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=UpZmJI0AAAAJ&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "images/pulkit.jpg",
+      "text": ""
+    },
+    {
+      "url": "http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-133.pdf",
+      "text": "Ph.D. Thesis (Computational Sensorimotor Learning)"
+    },
+    {
+      "url": "https://youtu.be/opsQndkSw5k",
+      "text": "Thesis Talk"
+    },
+    {
+      "url": "data/agrawal2018computational.bib",
+      "text": "Bibtex"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LPGGIdxOmWI",
+      "text": "TEDxMIT Talk:"
+    },
+    {
+      "url": "https://pulkitag.github.io/6.8200/",
+      "text": "Computational Sensorimotor Learning"
+    },
+    {
+      "url": "http://manipulation.csail.mit.edu/Fall2019/",
+      "text": "FA'19"
+    },
+    {
+      "url": "https://professional.mit.edu/course-catalog/advanced-reinforcement-learning-0",
+      "text": "Summer'24"
+    },
+    {
+      "url": "https://professional.mit.edu/course-catalog/reinforcement-learning",
+      "text": "Summer'24"
+    },
+    {
+      "url": "https://professional.mit.edu/course-catalog/ai-robotics-learning-algorithms-design-and-safety",
+      "text": "Summer'24"
+    },
+    {
+      "url": "https://www.ieee-ras.org/awards-recognition/society-awards/ras-early-career-award-academic",
+      "text": "IEEE Early Academic Career Award in Robotics and Automation"
+    },
+    {
+      "url": "https://sites.google.com/robot-learning.org/corl2021/program/awards_2021?authuser=0",
+      "text": "Best Paper Award"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/in-hand-reorientation#",
+      "text": "in-hand\n                  object re-orientation"
+    },
+    {
+      "url": "https://fang-haoshu.github.io/",
+      "text": "Haoshu Fang"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=0lns2BAAAAAJ&hl=en",
+      "text": "Branden Romero"
+    },
+    {
+      "url": "https://tonibronars.github.io/",
+      "text": "Antonia Bronars"
+    },
+    {
+      "url": "https://gmargo11.github.io/about/",
+      "text": "Gabe Margolis"
+    },
+    {
+      "url": "https://williamd4112.github.io/",
+      "text": "Zhang-wei Hong"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nolan-fey",
+      "text": "Nolan Fey"
+    },
+    {
+      "url": "https://younghyopark.me/",
+      "text": "Younghyo Park"
+    },
+    {
+      "url": "https://jyopari.github.io/aboutMe.html",
+      "text": "Jyothish Pari"
+    },
+    {
+      "url": "https://idanshen.github.io/",
+      "text": "Idan Shenfeld"
+    },
+    {
+      "url": "https://avivne.github.io/",
+      "text": "Aviv Netanyahu"
+    },
+    {
+      "url": "https://bipashasen.github.io/",
+      "text": "Bipasha Sen"
+    },
+    {
+      "url": "https://richardrl.github.io/",
+      "text": "Richard Li"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=B6tpjKkAAAAJ&hl=en",
+      "text": "Seungwook Han"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-ghQJNmStB4",
+      "text": "Pathway to Robotic Intelligence"
+    },
+    {
+      "url": "https://www.forbes.com/video/6335581924112/making-robots-as-intelligent-as-chatgpt/",
+      "text": "Making Robots as Intelligent as ChatGPT"
+    },
+    {
+      "url": "https://www.cs.utexas.edu/~ai-lab/fai/?year=2022-2023#Pulkit%20Agrawal",
+      "text": "Robot Learning for the Real World,"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6NDWSxV7H3o",
+      "text": "Fun with Robots and Machine Learning"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jU7pkiv3x0E&list=PLxHmBiQi0bD34kaBxcO9ENkvL7sWafvGt&index=11",
+      "text": "Navigating Through Contacts"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ym-mrmOqOYg",
+      "text": "Coming of Age of Robot learning"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6LRBs27pG4&t=60s",
+      "text": "Rethinking Robot Learning"
+    },
+    {
+      "url": "https://youtu.be/MDCkBRh0D1U",
+      "text": "Self-Supervised Robot Learning, Robotics Seminar,"
+    },
+    {
+      "url": "https://youtu.be/1OSaTZB3WVY?t=565",
+      "text": "Challenges in Real-World Reinforcement Learning"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2el3GdwS1mg",
+      "text": "The Task Specification Problem"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/veg-peeling",
+      "text": ""
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "https://www.eacousineau.com/",
+      "text": "Eric Cousineau"
+    },
+    {
+      "url": "https://naveenoid.wordpress.com/",
+      "text": "Naveen Kuppuswamy"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/veg-peeling",
+      "text": "project page"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.07884",
+      "text": "arXiv"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.06639",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.06639",
+      "text": "Value Augmented Sampling for Language Model Alignment and Personalization"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.06639",
+      "text": "paper"
+    },
+    {
+      "url": "data/han2024value.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://minyoungg.github.io/LTE/",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2402.16828",
+      "text": "Training Neural Networks From Scratch with Parallel Low-Rank Adapters"
+    },
+    {
+      "url": "https://arxiv.org/abs/2402.16828",
+      "text": "paper"
+    },
+    {
+      "url": "https://minyoungg.github.io/LTE/",
+      "text": "project page"
+    },
+    {
+      "url": "data/huh2024training.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://residual-assembly.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://residual-assembly.github.io/",
+      "text": "From Imitation to Refinement \u2013 Residual RL for Precise Visual Assembly"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.16677",
+      "text": "paper"
+    },
+    {
+      "url": "https://residual-assembly.github.io/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/ankile/robust-rearrangement",
+      "text": "code"
+    },
+    {
+      "url": "data/ankile2024resip.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://arxiv.org/abs/2403.03949",
+      "text": ""
+    },
+    {
+      "url": "http://arxiv.org/abs/2403.03949",
+      "text": "Reconciling Reality through Simulation: A Real-To-Sim-to-Real Approach for Robust Manipulation"
+    },
+    {
+      "url": "http://arxiv.org/abs/2403.03949",
+      "text": "paper"
+    },
+    {
+      "url": "https://real-to-sim-to-real.github.io/RialTo/",
+      "text": "project page"
+    },
+    {
+      "url": "data/torne2024reconciling.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.13755",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.13755",
+      "text": "Random Latent Exploration for Deep Reinforcement Learning"
+    },
+    {
+      "url": "https://srinathm1359.github.io/",
+      "text": "Srinath Mahankali"
+    },
+    {
+      "url": "https://williamd4112.github.io/",
+      "text": "Zhang-Wei Hong"
+    },
+    {
+      "url": "https://ayush.sekhari.com/",
+      "text": "Ayush Sekhari"
+    },
+    {
+      "url": "https://www.mit.edu/~rakhlin/",
+      "text": "Alexander Rakhlin"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.13755",
+      "text": "paper"
+    },
+    {
+      "url": "https://srinathm1359.github.io/random-latent-exploration/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/random-latent-exploration",
+      "text": "code"
+    },
+    {
+      "url": "data/mahankali2024random.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.14321",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.14321",
+      "text": "Lifelong Robot Learning with Human Assisted Language Planners"
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.14321",
+      "text": "paper"
+    },
+    {
+      "url": "https://sites.google.com/mit.edu/halp-robot-learning",
+      "text": "project page"
+    },
+    {
+      "url": "data/parakh2024lifelong.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://arxiv.org/abs/2405.01402.pdf",
+      "text": ""
+    },
+    {
+      "url": "http://arxiv.org/abs/2405.01402",
+      "text": "Learning Force Control for Legged Manipulation"
+    },
+    {
+      "url": "http://arxiv.org/abs/2405.01402.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://tif-twirl-13.github.io/learning-compliance",
+      "text": "project page"
+    },
+    {
+      "url": "data/portela2024learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://arxiv.org/abs/2405.01402.pdf",
+      "text": ""
+    },
+    {
+      "url": "http://arxiv.org/abs/2405.01402",
+      "text": "Curiosity-driven Red-teaming for Large Language Models"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.19464.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/curiosity_redteam",
+      "text": "code"
+    },
+    {
+      "url": "bibtex/hong2024curiosity.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10609983",
+      "text": ""
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10609983",
+      "text": "Maximizing Quadruped Velocity by Minimizing Energy"
+    },
+    {
+      "url": "https://srinathm1359.github.io/",
+      "text": "Srinath Mahankali*"
+    },
+    {
+      "url": "https://dblp.org/pid/258/6861.html",
+      "text": "Chi-Chang Lee*"
+    },
+    {
+      "url": "https://gmargo11.github.io/",
+      "text": "Gabriel B. Margolis"
+    },
+    {
+      "url": "https://williamd4112.github.io/",
+      "text": "Zhang-Wei Hong"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10609983",
+      "text": "paper"
+    },
+    {
+      "url": "https://srinathm1359.github.io/eipo-locomotion/",
+      "text": "project page"
+    },
+    {
+      "url": "data/mahankali2024maximizing.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://imitation-juicer.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://imitation-juicer.github.io/",
+      "text": "JUICER: Data-Efficient Imitation Learning for Robotic Assembly"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.03729",
+      "text": "paper"
+    },
+    {
+      "url": "https://imitation-juicer.github.io/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/ankile/imitation-juicer",
+      "text": "code"
+    },
+    {
+      "url": "data/ankile2024juicer.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://rank2reward.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://rank2reward.github.io/",
+      "text": "Rank2Reward: Learning Shaped Reward Functions from Passive Video"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.14735",
+      "text": "paper"
+    },
+    {
+      "url": "https://rank2reward.github.io/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/ankile/imitation-juicer",
+      "text": "code"
+    },
+    {
+      "url": "data/yang2024rank.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04142",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04142",
+      "text": "Everyday finger: a robotic finger that meets the needs of everyday interactive manipulation"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04142",
+      "text": "paper"
+    },
+    {
+      "url": "https://sites.google.com/view/everydayfinger/",
+      "text": "project page"
+    },
+    {
+      "url": "data/ornelas2024everyday.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/forum?id=7uSBJDoP7tY",
+      "text": ""
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/visual-dexterity",
+      "text": "Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "https://vikashplus.github.io/",
+      "text": "Vikash Kumar"
+    },
+    {
+      "url": "http://persci.mit.edu/people/adelson",
+      "text": "Edward Adelson"
+    },
+    {
+      "url": "https://arxiv.org/abs/2211.11744",
+      "text": "paper"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/visual-dexterity",
+      "text": "project page"
+    },
+    {
+      "url": "data/chen2023visual.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2309.08587.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2309.08587.pdf",
+      "text": "Compositional Foundation Models for Hierarchical Planning"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2309.08587.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://hierarchical-planning-foundation-model.github.io/",
+      "text": "project page"
+    },
+    {
+      "url": "data/ajay2023compositional.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2307.11049.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2307.11049.pdf",
+      "text": "Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2307.11049.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://human-guided-exploration.github.io/HuGE/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/human-guided-exploration",
+      "text": "code"
+    },
+    {
+      "url": "data/torne2023breadcrumbs.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.04413.pdf",
+      "text": ""
+    },
+    {
+      "url": "<https://arxiv.org/pdf/2310.04413.pdf",
+      "text": "Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.04413.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/hong2023beyond.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/dw-offline-rl",
+      "text": "code"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.04751",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.04751",
+      "text": "Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.04751",
+      "text": "paper"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/rpdiff-multi-modal/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/anthonysimeonov/rpdiff",
+      "text": "code"
+    },
+    {
+      "url": "data/simeonov2023shelving.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.01405",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.01405",
+      "text": "Learning to See Physical Properties with Active Sensing Motor Policies"
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.01405",
+      "text": "paper"
+    },
+    {
+      "url": "https://gmargo11.github.io/active-sensing-loco",
+      "text": "project page"
+    },
+    {
+      "url": "https://yanweiw.github.io/noise2ptz/",
+      "text": "Visual Pre-training for Navigation: What Can We Learn from Noise?"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.00052",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/yanweiw/noise2ptz",
+      "text": "code"
+    },
+    {
+      "url": "https://yanweiw.github.io/noise2ptz",
+      "text": "project page"
+    },
+    {
+      "url": "data/wang2023visual.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=z3D__-nc9y",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/pdf?id=z3D__-nc9y",
+      "text": "Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=z3D__-nc9y",
+      "text": "paper"
+    },
+    {
+      "url": "data/pamies2023autonomous.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.03186.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.03186",
+      "text": "TGRL: An Algorithm for Teacher Guided Reinforcement Learning"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.03186",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/idanshen/cleanrl/blob/master/cleanrl/tgrl_continuous_action.py",
+      "text": "code"
+    },
+    {
+      "url": "https://sites.google.com/view/tgrl-paper/",
+      "text": "project page"
+    },
+    {
+      "url": "data/shenfeld2023tgrl.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://minyoungg.github.io/vqtorch/",
+      "text": ""
+    },
+    {
+      "url": "https://minyoungg.github.io/vqtorch/",
+      "text": "Straightening Out the Straight-Through Estimator: Overcoming\n                Optimization Challenges in Vector Quantized Networks"
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.08842",
+      "text": "paper"
+    },
+    {
+      "url": "https://minyoungg.github.io/vqtorch/",
+      "text": "website"
+    },
+    {
+      "url": "https://github.com/minyoungg/vqtorch",
+      "text": "code"
+    },
+    {
+      "url": "data/huh2023straightening.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.12983",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.12983",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.12983",
+      "text": "Parallel Q-Learning: Scaling Off-policy Reinforcement Learning under\n                Massively Parallel Simulation"
+    },
+    {
+      "url": "https://supersglzc.github.io/",
+      "text": "Zechu Li*"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen*"
+    },
+    {
+      "url": "https://williamd4112.github.io/",
+      "text": "Zhang-Wei Hong"
+    },
+    {
+      "url": "https://anuragajay.github.io/",
+      "text": "Anurag Ajay"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.12983",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/pql",
+      "text": "code"
+    },
+    {
+      "url": "data/li2023parallel.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.06333.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.06333.pdf",
+      "text": "Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.06333.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://andipeng.com/counterfactual-adaptation/",
+      "text": "project page"
+    },
+    {
+      "url": "data/peng2023diagnosis.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2302.13934.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2302.13934.pdf",
+      "text": "Statistical Learning under Heterogenous Distribution Shift"
+    },
+    {
+      "url": "https://browse.arxiv.org/pdf/2302.13934.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/simchowitz2023statistical.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://gmargo11.github.io/dribblebot",
+      "text": ""
+    },
+    {
+      "url": "https://gmargo11.github.io/dribblebot",
+      "text": "DribbleBot: Dynamic Legged Manipulation in the Wild"
+    },
+    {
+      "url": "https://yandongji.github.io/",
+      "text": "Yandong Ji*"
+    },
+    {
+      "url": "https://gmargo11.github.io/",
+      "text": "Gabriel B. Margolis*"
+    },
+    {
+      "url": "https://arxiv.org/abs/2304.01159",
+      "text": "paper"
+    },
+    {
+      "url": "https://gmargo11.github.io/dribblebot",
+      "text": "project page"
+    },
+    {
+      "url": "data/ji2023dribblebot.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/",
+      "text": "TechCrunch"
+    },
+    {
+      "url": "https://spectrum.ieee.org/quadrupedal-robot",
+      "text": "IEEE Spectrum"
+    },
+    {
+      "url": "https://archive.tveyes.com/7313/meltwater/3fa732c9-740b-4602-a9e6-f9b44988c02b/WBTS_04-04-2023_04.55.00.mp4",
+      "text": "NBC Boston"
+    },
+    {
+      "url": "https://www.businessinsider.com/mit-robot-that-can-play-soccer-dribble-ball-video-2023-4",
+      "text": "Insider"
+    },
+    {
+      "url": "https://www.yahoo.com/lifestyle/robots-getting-good-dribbling-soccer-163646616.html",
+      "text": "Yahoo!News"
+    },
+    {
+      "url": "https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/tactofind",
+      "text": ""
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/tactofind",
+      "text": "TactoFind: A Tactile Only System for Object Retrieval"
+    },
+    {
+      "url": "http://persci.mit.edu/people/adelson",
+      "text": "Edward Adelson"
+    },
+    {
+      "url": "https://homes.cs.washington.edu/~abhgupta/",
+      "text": "Abhishek Gupta\u2020"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.13482",
+      "text": "paper"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/tactofind",
+      "text": "project page"
+    },
+    {
+      "url": "data/pai2023tactofind.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.15657.pdf",
+      "text": "Is Conditional Generative Modeling all you need for Decision Making?"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.15657.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://anuragajay.github.io/decision-diffuser/",
+      "text": "project page"
+    },
+    {
+      "url": "data/ajay2023is.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2304.14329",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2304.14329",
+      "text": "Learning to Extrapolate: A Transductive Approach"
+    },
+    {
+      "url": "https://arxiv.org/abs/2304.14329",
+      "text": "paper"
+    },
+    {
+      "url": "data/netanyahu2023learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/forum?id=OhUAblg27z",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/forum?id=OhUAblg27z",
+      "text": "Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting"
+    },
+    {
+      "url": "https://openreview.net/forum?id=OhUAblg27z",
+      "text": "paper"
+    },
+    {
+      "url": "data/hong2023harness.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://minyoungg.github.io/overparam/",
+      "text": ""
+    },
+    {
+      "url": "https://minyoungg.github.io/overparam/",
+      "text": "The Low-Rank Simplicity Bias in Deep Networks"
+    },
+    {
+      "url": "https://minyoungg.github.io/overparam/resources/overparam-v3.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://minyoungg.github.io/overparam/",
+      "text": "website"
+    },
+    {
+      "url": "data/huh2023low.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://sites.google.com/view/neurips22-eipo/",
+      "text": ""
+    },
+    {
+      "url": "https://sites.google.com/view/neurips22-eipo/",
+      "text": "Redeeming Intrinsic Rewards via Constrained Optimization"
+    },
+    {
+      "url": "https://arxiv.org/abs/2211.07627",
+      "text": "paper"
+    },
+    {
+      "url": "https://sites.google.com/view/neurips22-eipo/",
+      "text": "project page"
+    },
+    {
+      "url": "data/chen2022redeeming.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://news.mit.edu/2022/ensuring-ai-works-with-right-dose-curiosity-1110",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://arxiv.org/abs/2211.09786",
+      "text": "SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/",
+      "text": "Anthony Simeonov*"
+    },
+    {
+      "url": "https://yilundu.github.io/",
+      "text": "Yilun Du*"
+    },
+    {
+      "url": "https://yenchenlin.me/",
+      "text": "Lin Yen-Chen"
+    },
+    {
+      "url": "http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU",
+      "text": "Alberto Rodriguez"
+    },
+    {
+      "url": "https://people.csail.mit.edu/lpk/",
+      "text": "Leslie P. Kaelbling"
+    },
+    {
+      "url": "https://people.csail.mit.edu/tlp/",
+      "text": "Tom\u00e1s Lozano-Per\u00e9z"
+    },
+    {
+      "url": "https://arxiv.org/abs/2211.09786",
+      "text": "paper"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/r-ndf/",
+      "text": "project page"
+    },
+    {
+      "url": "https://github.com/anthonysimeonov/relational_ndf",
+      "text": "code"
+    },
+    {
+      "url": "data/simeonov2022se.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://sites.google.com/view/gait-conditioned-rl/",
+      "text": ""
+    },
+    {
+      "url": "https://sites.google.com/view/gait-conditioned-rl/",
+      "text": "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior"
+    },
+    {
+      "url": "https://gmargo11.github.io/about/",
+      "text": "Gabriel B. Margolis"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=52c5e73SlS2",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/walk-these-ways",
+      "text": "code"
+    },
+    {
+      "url": "https://sites.google.com/view/gait-conditioned-rl/",
+      "text": "project page"
+    },
+    {
+      "url": "data/margolis2022walk.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=2ovFjGGDFjc",
+      "text": "Distributionally Adaptive Meta Reinforcement Learning"
+    },
+    {
+      "url": "https://openreview.net/forum?id=2ovFjGGDFjc",
+      "text": "paper"
+    },
+    {
+      "url": "https://anuragajay.github.io/diametr/",
+      "text": "project page"
+    },
+    {
+      "url": "data/ajay2022distributionally.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://tactilesim.csail.mit.edu/",
+      "text": ""
+    },
+    {
+      "url": "http://tactilesim.csail.mit.edu/",
+      "text": "Efficient Tactile Simulation with Differentiability for Robotic Manipulation"
+    },
+    {
+      "url": "https://people.csail.mit.edu/jiex",
+      "text": "Jie Xu"
+    },
+    {
+      "url": "https://sangwkim.github.io/",
+      "text": "Sangwoon Kim"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU",
+      "text": "Alberto Rodriguez"
+    },
+    {
+      "url": "https://people.csail.mit.edu/wojciech/",
+      "text": "Wojciech Matusik"
+    },
+    {
+      "url": "http://faculty.cs.tamu.edu/sueda/",
+      "text": "Shinjiro Sueda"
+    },
+    {
+      "url": "https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://tactilesim.csail.mit.edu/",
+      "text": "project page"
+    },
+    {
+      "url": "data/xu2022efficient.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://agility.csail.mit.edu",
+      "text": ""
+    },
+    {
+      "url": "https://agility.csail.mit.edu",
+      "text": "Rapid Locomotion via Reinforcement Learning"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2205.02824.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://agility.csail.mit.edu",
+      "text": "project page"
+    },
+    {
+      "url": "https://agility.csail.mit.edu",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
+      "text": "Wired"
+    },
+    {
+      "url": "https://www.popsci.com/technology/machine-learning-robot-runs-its-fastest/",
+      "text": "Popular Science"
+    },
+    {
+      "url": "https://techcrunch.com/2022/03/17/to-servi-man/",
+      "text": "TechCrunch"
+    },
+    {
+      "url": "https://www.bbc.com/news/av/technology-60795221",
+      "text": "BBC"
+    },
+    {
+      "url": "https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2203.07359.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2203.07359.pdf",
+      "text": "Stubborn: A Strong Baseline for Indoor Object Navigation"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2203.07359.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://github.com/Improbable-AI/Stubborn",
+      "text": "code"
+    },
+    {
+      "url": "data/luo2022stubborn.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2112.05124",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2112.05124",
+      "text": "Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation"
+    },
+    {
+      "url": "https://arxiv.org/abs/2112.05124",
+      "text": "paper"
+    },
+    {
+      "url": "https://yilundu.github.io/ndf/",
+      "text": "website and code"
+    },
+    {
+      "url": "data/simeonov2021neural.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2204.07149.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2204.07149.pdf",
+      "text": "An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2204.07149.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://robohands.csail.mit.edu/",
+      "text": "website"
+    },
+    {
+      "url": "data/zlokapa2022integrated.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://richardrl.github.io/stable-reorientation/resources/ICRA_2022__Stable_Object_Reorientation_using_Contact_Plane_Registration.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://richardrl.github.io/stable-reorientation/resources/ICRA_2022__Stable_Object_Reorientation_using_Contact_Plane_Registration.pdf",
+      "text": "Stable Object Reorientation using Contact Plane Registration"
+    },
+    {
+      "url": "https://arxiv.org/abs/2208.08962",
+      "text": "paper"
+    },
+    {
+      "url": "data/li2022stable.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v162/netanyahu22a.html",
+      "text": ""
+    },
+    {
+      "url": "https://proceedings.mlr.press/v162/netanyahu22a.html",
+      "text": "Discovering Generalizable Spatial Goal Representations via Graph-based Active Reward Learning"
+    },
+    {
+      "url": "<https://proceedings.mlr.press/v162/netanyahu22a.html>",
+      "text": "paper"
+    },
+    {
+      "url": "data/netanyahu2022discovering.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2207.02200.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2207.02200.pdf",
+      "text": "Offline RL Policies Should be Trained to be Adaptive"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2207.02200.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/ghosh2022offline.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/forum?id=OXRZeMmOI7a",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/forum?id=OXRZeMmOI7a",
+      "text": "Topological Experience Replay"
+    },
+    {
+      "url": "https://openreview.net/forum?id=OXRZeMmOI7a",
+      "text": "paper"
+    },
+    {
+      "url": "data/hong2022topological.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/forum?id=LedObtLmCjS",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/forum?id=LedObtLmCjS",
+      "text": "Bilinear Value Networks for Multi-goal Reinforcement Learning"
+    },
+    {
+      "url": "https://openreview.net/forum?id=LedObtLmCjS",
+      "text": "paper"
+    },
+    {
+      "url": "data/hong2022bilinear.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2111.00899.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2111.00899.pdf",
+      "text": "Equivariant Contrastive Learning"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2111.00899.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/dangovski2021equivariant.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://people.csail.mit.edu/pulkitag/",
+      "text": ""
+    },
+    {
+      "url": "https://people.csail.mit.edu/pulkitag/",
+      "text": "Overcoming The Spectral Bias of Neural Value Approximation"
+    },
+    {
+      "url": "https://arxiv.org/abs/2206.04672",
+      "text": "paper"
+    },
+    {
+      "url": "data/yang2022overcoming.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/forum?id=7uSBJDoP7tY",
+      "text": ""
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/in-hand-reorientation",
+      "text": "A System for General In-Hand Object Re-Orientation"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "http://people.csail.mit.edu/jiex",
+      "text": "Jie Xu"
+    },
+    {
+      "url": "https://openreview.net/forum?id=7uSBJDoP7tY",
+      "text": "paper"
+    },
+    {
+      "url": "data/chen2021system.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://taochenshh.github.io/projects/in-hand-reorientation",
+      "text": "project page"
+    },
+    {
+      "url": "https://news.mit.edu/2021/dexterous-robotic-hands-manipulate-thousands-objects-1112",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=R4E8wTUtxdl",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/pdf?id=R4E8wTUtxdl",
+      "text": "Learning to Jump from Pixels"
+    },
+    {
+      "url": "http://people.csail.mit.edu/gmargo/",
+      "text": "Gabriel Margolis"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "https://kartikpaigwar.github.io/",
+      "text": "Kartik Paigwar"
+    },
+    {
+      "url": "https://xiangfu.co/",
+      "text": "Xiang Fu"
+    },
+    {
+      "url": "https://dhkim0821.github.io/",
+      "text": "Donghyun Kim"
+    },
+    {
+      "url": "http://meche.mit.edu/people/faculty/sangbae@mit.edu",
+      "text": "Sangbae Kim"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=R4E8wTUtxdl",
+      "text": "paper"
+    },
+    {
+      "url": "data/margolis2021jumping.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://sites.google.com/view/jumpingfrompixels",
+      "text": "project page"
+    },
+    {
+      "url": "https://news.mit.edu/2021/one-giant-leap-mini-cheetah-1020",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://3d-representation-learning.github.io/nerf-dy/",
+      "text": ""
+    },
+    {
+      "url": "https://3d-representation-learning.github.io/nerf-dy/",
+      "text": "3D Neural Scene Representations for Visuomotor Control"
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.04004",
+      "text": "paper"
+    },
+    {
+      "url": "https://3d-representation-learning.github.io/nerf-dy/",
+      "text": "website"
+    },
+    {
+      "url": "data/li20213d.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.07501",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.07501.pdf",
+      "text": "An End-to-End Differentiable Framework for Contact-Aware Robot Design"
+    },
+    {
+      "url": "https://arxiv.org/abs/2107.07501.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "http://diffhand.csail.mit.edu/",
+      "text": "website"
+    },
+    {
+      "url": "data/xu2021end.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://youtu.be/0CQoFaRaz7U",
+      "text": "video"
+    },
+    {
+      "url": "https://news.mit.edu/2021/contact-aware-robot-design-0719",
+      "text": "MIT News"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2106.15612.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2106.15612.pdf",
+      "text": "Learning Task Informed Abstractions"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2106.15612.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://xiangfu.co/tia",
+      "text": "website"
+    },
+    {
+      "url": "data/fu2021learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2104.00631.pdf",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2104.00631.pdf",
+      "text": "Residual Model Learning for Microrobot Control"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2104.00631.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/gruenstein2021residual.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "href=\"https://sites.google.com/view/opal-iclr\"",
+      "text": ""
+    },
+    {
+      "url": "https://sites.google.com/view/opal-iclr",
+      "text": "OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning"
+    },
+    {
+      "url": "https://anuragajay.github.io/",
+      "text": "Anurag Ajay"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2010.13611.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://sites.google.com/view/opal-iclr",
+      "text": "website"
+    },
+    {
+      "url": "data/ajay2021opal.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "href=\"https://anthonysimeonov.github.io/rpo-planning-framework/\"",
+      "text": ""
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/rpo-planning-framework/",
+      "text": "A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/",
+      "text": "Anthony Simeonov"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2011.08177.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/rpo-planning-framework/",
+      "text": "website"
+    },
+    {
+      "url": "data/simeonov2020learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://richardrl.github.io/relational-rl/",
+      "text": ""
+    },
+    {
+      "url": "https://richardrl.github.io/relational-rl/",
+      "text": "Towards Practical Multi-object Manipulation using\nRelational Reinforcement Learning"
+    },
+    {
+      "url": "https://richardrl.github.io/",
+      "text": "Richard Li"
+    },
+    {
+      "url": "https://ajabri.github.io/",
+      "text": "Allan Jabri"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~trevor/",
+      "text": "Trevor Darrell"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1912.11032.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://richardrl.github.io/relational-rl/",
+      "text": "website"
+    },
+    {
+      "url": "https://github.com/richardrl/rlkit-relational",
+      "text": "code"
+    },
+    {
+      "url": "data/li2019towards.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/1902.05522",
+      "text": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/1902.05522",
+      "text": "Superposition of Many Models into One"
+    },
+    {
+      "url": "https://redwood.berkeley.edu/people/brian-cheung/",
+      "text": "Brian Cheung"
+    },
+    {
+      "url": "https://redwood.berkeley.edu/people/alex-terekhov/",
+      "text": "Alex Terekhov"
+    },
+    {
+      "url": "https://redwood.berkeley.edu/people/yubei-chen/",
+      "text": "Yubei Chen"
+    },
+    {
+      "url": "http://www.rctn.org/bruno/",
+      "text": "Bruno Olshausen"
+    },
+    {
+      "url": "https://arxiv.org/abs/1902.05522",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1WopZJ4WrX0",
+      "text": "video tutorial"
+    },
+    {
+      "url": "https://github.com/briancheung/superposition",
+      "text": "code"
+    },
+    {
+      "url": "data/cheung2019superposition.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31318502",
+      "text": ""
+    },
+    {
+      "url": "https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_07_2019_Xiong%20final.pdf",
+      "text": "Real-time Video Detection of Falls in Dementia Care\n                  Facility and Reduced Emergency Care"
+    },
+    {
+      "url": "https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_07_2019_Xiong%20final.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://www.safely-you.com/",
+      "text": "SafelyYou"
+    },
+    {
+      "url": "data/xiong2019real.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=BkisuzWRW",
+      "text": ""
+    },
+    {
+      "url": "https://openreview.net/pdf?id=BkisuzWRW",
+      "text": "Zero Shot Visual Imitation"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pathak/",
+      "text": "Deepak Pathak*"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~parsa.m/",
+      "text": "Parsa Mahmoudieh*"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~shelhamer/",
+      "text": "Evan Shelhamer"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~efros/",
+      "text": "Alexei A. Efros"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~trevor/",
+      "text": "Trevor Darrell"
+    },
+    {
+      "url": "https://openreview.net/forum?id=BkisuzWRW",
+      "text": "paper"
+    },
+    {
+      "url": "https://pathak22.github.io/zeroshot-imitation/",
+      "text": "website"
+    },
+    {
+      "url": "https://github.com/pathak22/zeroshot-imitation",
+      "text": "code"
+    },
+    {
+      "url": "https://www.dropbox.com/s/36efg1t3qn6i495/2018_04_ZeroShotImitation.pptx",
+      "text": "slides"
+    },
+    {
+      "url": "data/pathak2018zero.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://rach0012.github.io/humanRL_website/",
+      "text": ""
+    },
+    {
+      "url": "https://rach0012.github.io/humanRL_website/",
+      "text": "Investigating Human Priors for Playing Video Games"
+    },
+    {
+      "url": "http://cocosci.princeton.edu/rachit/",
+      "text": "Rachit Dubey"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pathak/",
+      "text": "Deepak Pathak"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~efros/",
+      "text": "Alexei A. Efros"
+    },
+    {
+      "url": "http://cocosci.princeton.edu/tom/",
+      "text": "Tom Griffiths"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1802.10217.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://rach0012.github.io/humanRL_website/",
+      "text": "website"
+    },
+    {
+      "url": "https://youtu.be/Ol0-c9OE3VQ",
+      "text": "youtube cover"
+    },
+    {
+      "url": "https://rach0012.github.io/humanRL_website/#media",
+      "text": "media"
+    },
+    {
+      "url": "data/dubey2018investigating.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://pathak22.github.io/seg-by-interaction/",
+      "text": ""
+    },
+    {
+      "url": "https://pathak22.github.io/seg-by-interaction/",
+      "text": "Learning Instance Segmentation by Interaction"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pathak/",
+      "text": "Deepak Pathak*"
+    },
+    {
+      "url": "http://www.cs.utexas.edu/~dchen/",
+      "text": "Dian Chen*"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~trevor/",
+      "text": "Trevor Darrell"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~svlevine/",
+      "text": "Sergey Levine"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.08354.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "https://pathak22.github.io/seg-by-interaction/",
+      "text": "website"
+    },
+    {
+      "url": "data/pathak2018learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338",
+      "text": ""
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338",
+      "text": "Fully Automated Echocardiogram Interpretation in Clinical Practice:\n                  Feasibility and Diagnostic Accuracy"
+    },
+    {
+      "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338",
+      "text": "paper"
+    },
+    {
+      "url": "https://arxiv.org/abs/1706.07342",
+      "text": "arxiv"
+    },
+    {
+      "url": "data/zhang2018fully.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://pathak22.github.io/noreward-rl/",
+      "text": ""
+    },
+    {
+      "url": "TODO",
+      "text": "Curiosity Driven Exploration by Self-Supervised Prediction"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pathak/",
+      "text": "Deepak Pathak"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~efros/",
+      "text": "Alexei A. Efros"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~trevor/",
+      "text": "Trevor Darrell"
+    },
+    {
+      "url": "https://arxiv.org/abs/1705.05363",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J3FHOyhUn3A",
+      "text": "video"
+    },
+    {
+      "url": "https://vimeo.com/237270588",
+      "text": "talk"
+    },
+    {
+      "url": "https://github.com/pathak22/noreward-rl",
+      "text": "code"
+    },
+    {
+      "url": "https://pathak22.github.io/noreward-rl/",
+      "text": "project website"
+    },
+    {
+      "url": "data/pathak2017curiosity.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://openaccess.thecvf.com/content_iccv_2017/html/Felsen_What_Will_Happen_ICCV_2017_paper.html",
+      "text": ""
+    },
+    {
+      "url": "http://openaccess.thecvf.com/content_iccv_2017/html/Felsen_What_Will_Happen_ICCV_2017_paper.html",
+      "text": "What Will Happen Next?: Forecasting Player Moves in Sports Videos"
+    },
+    {
+      "url": "https://www.linkedin.com/in/panna-felsen-030a3964",
+      "text": "Panna Felsen"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/felsen2017iccv.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://ropemanipulation.github.io/",
+      "text": "Combining Self-Supervised Learning and Imitation for Vision-based Rope Manipulation"
+    },
+    {
+      "url": "http://ashvin.me/",
+      "text": "Ashvin Nair*"
+    },
+    {
+      "url": "http://www.cs.utexas.edu/~dchen/",
+      "text": "Dian Chen*"
+    },
+    {
+      "url": "http://web.mit.edu/phillipi/",
+      "text": "Phillip Isola"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pabbeel/",
+      "text": "Pieter Abbeel"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~svlevine/",
+      "text": "Sergey Levine"
+    },
+    {
+      "url": "https://arxiv.org/abs/1703.02018",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://ropemanipulation.github.io/",
+      "text": "website"
+    },
+    {
+      "url": "https://youtu.be/ofNQh5ELrOw",
+      "text": "video"
+    },
+    {
+      "url": "data/nair2017combining.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/1611.01843",
+      "text": "Learning to Perform Physics Experiments via Deep Reinforcement Learning"
+    },
+    {
+      "url": "http://mdenil.com/",
+      "text": "Misha Denil"
+    },
+    {
+      "url": "https://tejasdkulkarni.github.io/",
+      "text": "Tejas D Kulkarni"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=gVFnjOcAAAAJ&hl=en",
+      "text": "Tom Erez"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en",
+      "text": "Peter Battaglia"
+    },
+    {
+      "url": "https://www.cs.ubc.ca/~nando/",
+      "text": "Nando de Freitas"
+    },
+    {
+      "url": "https://arxiv.org/abs/1611.01843",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://www.newscientist.com/article/2112455-google-deepminds-ai-learns-to-play-with-physical-objects/",
+      "text": "media"
+    },
+    {
+      "url": "https://www.youtube.com/watch?time_continue=1&v=gs7mWG2sjUU&feature=emb_logo",
+      "text": "video"
+    },
+    {
+      "url": "data/denil2017learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29042342",
+      "text": ""
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29042342",
+      "text": "Reduction in Fall Rate in Dementia Managed Care through\n                 Video Incident Review: Pilot Study"
+    },
+    {
+      "url": "https://www.jmir.org/2017/10/e339/pdf",
+      "text": "paper"
+    },
+    {
+      "url": "data/bayen2017reduction.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1507.06550",
+      "text": "Human Pose Estimation with Iterative Error Feedback"
+    },
+    {
+      "url": "https://uk.linkedin.com/in/jo%C3%A3o-carreira-56238a7",
+      "text": "Joao Carreira"
+    },
+    {
+      "url": "https://www.cs.cmu.edu/~katef/",
+      "text": "Katerina Fragkiadaki"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1507.06550",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://github.com/pulkitag/ief",
+      "text": "code"
+    },
+    {
+      "url": "data/carreira2016human.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://ashvin.me/pokebot-website/",
+      "text": "Learning to Poke by Poking: Experiential Learning of Intuitive Physics"
+    },
+    {
+      "url": "http://ashvin.me/",
+      "text": "Ashvin Nair*"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~pabbeel/",
+      "text": "Pieter Abbeel"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~svlevine/",
+      "text": "Sergey Levine"
+    },
+    {
+      "url": "https://arxiv.org/abs/1505.01596",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Learning-to-Poke-by-Poking-Experiential-Learning-of-Intuitive-Physics",
+      "text": "talk"
+    },
+    {
+      "url": "http://ashvin.me/pokebot-website/",
+      "text": "project website"
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B3xZefNMOTwuTUwtU0ZnaDhGVUE/view?usp=sharing",
+      "text": "data"
+    },
+    {
+      "url": "data/agrawal2016learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1608.08614v2.pdf",
+      "text": "What makes Imagenet Good for Transfer Learning?"
+    },
+    {
+      "url": "http://minyounghuh.com/",
+      "text": "Jacob Huh"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~efros/",
+      "text": "Alexei A. Efros"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1608.08614",
+      "text": "arxiv"
+    },
+    {
+      "url": "http://minyounghuh.com/papers/analysis/",
+      "text": "project website"
+    },
+    {
+      "url": "https://github.com/minyoungg/WMIGFT",
+      "text": "code"
+    },
+    {
+      "url": "data/huh2016what.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/abs/1511.07404",
+      "text": "Learning Visual Predictive Models of Physics for Playing Billiards"
+    },
+    {
+      "url": "https://www.cs.cmu.edu/~katef/",
+      "text": "Katerina Fragkiadaki*"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~svlevine/",
+      "text": "Sergey Levine"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://arxiv.org/abs/1511.07404",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://github.com/pulkitag/pyphy-engine",
+      "text": "code"
+    },
+    {
+      "url": "data/fragkiadaki2016learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "http://3drepresentation.stanford.edu/",
+      "text": "Generic 3d Representation via Pose Estimation and Matching"
+    },
+    {
+      "url": "https://cs.stanford.edu/~amirz/",
+      "text": "Amir R. Zamir"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Tilman_Wekel",
+      "text": "Tilman Wekel"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "http://cvgl.stanford.edu/silvio/",
+      "text": "Silvio Savarese"
+    },
+    {
+      "url": "https://arxiv.org/abs/1710.08247",
+      "text": "arxiv"
+    },
+    {
+      "url": "http://3drepresentation.stanford.edu/",
+      "text": "website"
+    },
+    {
+      "url": "https://github.com/amir32002/3D_Street_View",
+      "text": "dataset"
+    },
+    {
+      "url": "https://github.com/pulkitag/learning-to-see-by-moving",
+      "text": "code"
+    },
+    {
+      "url": "data/zamir2016generic.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Agrawal_Learning_to_See_ICCV_2015_paper.pdf",
+      "text": "Learning to See by Moving"
+    },
+    {
+      "url": "https://uk.linkedin.com/in/jo%C3%A3o-carreira-56238a7",
+      "text": "Joao Carreira"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://arxiv.org/abs/1505.01596",
+      "text": "arxiv"
+    },
+    {
+      "url": "https://github.com/pulkitag/learning-to-see-by-moving",
+      "text": "code"
+    },
+    {
+      "url": "data/agrawal2015learning.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/PulkitECCV2014.pdf",
+      "text": "Analyzing the Performance of Multilayer Neural Networks for Object Recognition"
+    },
+    {
+      "url": "https://www.rossgirshick.info/",
+      "text": "Ross Girshick"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://arxiv.org/abs/1407.1610",
+      "text": "arxiv"
+    },
+    {
+      "url": "data/carreira2016human.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1407.5104",
+      "text": "Pixels to Voxels: Modeling Visual Representation in the Human Brain"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Dustin Stansbury"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jitendra Malik"
+    },
+    {
+      "url": "https://people.eecs.berkeley.edu/~malik/",
+      "text": "Jack Gallant"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1407.5104",
+      "text": "arxiv"
+    },
+    {
+      "url": "data/cnn_mimics_brain.pdf",
+      "text": "unpublished results"
+    },
+    {
+      "url": "data/agrawal2014pixels.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://pdfs.semanticscholar.org/0242/a90f7a269ef2d185ca59ada28e4160b638a6.pdf",
+      "text": "The Automatic Assessment of Knowledge Integration Processes in Project Teams"
+    },
+    {
+      "url": "https://pdfs.semanticscholar.org/0242/a90f7a269ef2d185ca59ada28e4160b638a6.pdf",
+      "text": "arxiv"
+    },
+    {
+      "url": "data/gweon2011automatic.bib",
+      "text": "bibtex"
+    },
+    {
+      "url": "https://patentimages.storage.googleapis.com/5d/98/08/56f1af274703b6/US20190287376A1.pdf",
+      "text": "System and Method for Detecting, Recording and Communicating\n                Events in the Care and Treatment of Cognitively Impaired Persons"
+    },
+    {
+      "url": "https://patentimages.storage.googleapis.com/51/c6/fa/ce05ea8879dd68/US20150278628A1.pdf",
+      "text": "Invariant Object Representation of Images Using Spiking Neural Networks"
+    },
+    {
+      "url": "https://patentimages.storage.googleapis.com/cb/1f/cf/5d728862f69828/US20150278641A1.pdf",
+      "text": "Invariant Object Representation of Images Using Spiking Neural Networks"
+    },
+    {
+      "url": "https://taochenshh.github.io/",
+      "text": "Tao Chen"
+    },
+    {
+      "url": "https://anuragajay.github.io/",
+      "text": "Anurag Ajay"
+    },
+    {
+      "url": "https://rcastro.mit.edu/",
+      "text": "Ruben Castro"
+    },
+    {
+      "url": "http://minyounghuh.com/",
+      "text": "Jacob Huh"
+    },
+    {
+      "url": "https://anthonysimeonov.github.io/",
+      "text": "Anthony Simeonov"
+    },
+    {
+      "url": "http://xiangfu.co/",
+      "text": "Xiang Fu"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=7N-ethYAAAAJ&hl=en",
+      "text": "Brian Cheung"
+    },
+    {
+      "url": "https://ch.linkedin.com/in/tifanny-pereira-portela-97868521a",
+      "text": "Tifanny Portela"
+    },
+    {
+      "url": "https://supersglzc.github.io/",
+      "text": "Steven Li"
+    },
+    {
+      "url": "https://abhishekunique.github.io/",
+      "text": "Abhishek Gupta"
+    },
+    {
+      "url": "https://lara-z.github.io/",
+      "text": "Lara Zlokapa"
+    },
+    {
+      "url": "https://averylamp.me/",
+      "text": "Avery Lamp"
+    },
+    {
+      "url": "https://github.com/jonbarron/jonbarron_website",
+      "text": "template"
+    },
+    {
+      "url": "https://accessibility.mit.edu/",
+      "text": "accessibility"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/pulkit.jpg",
+      "alt": "profile photo"
+    },
+    {
+      "src": "images/vas_image.png",
+      "alt": "sym"
+    },
+    {
+      "src": "https://minyoungg.github.io/LTE/assets/teaser.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/ankile2024resip.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rle_conceptualization.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/halp.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/learning_force_control.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/avatar_curisoity_redteam.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/eipo_spin.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/juicer.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rank2reward.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/everyday_finger.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/hip.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/huge2023.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/dw_teaser.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rpdiff.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/asmp_miniclip_small.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/noise2ptz.png",
+      "alt": ""
+    },
+    {
+      "src": "images/noise2ptz.png",
+      "alt": ""
+    },
+    {
+      "src": "images/gear2023.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/tgrl.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/vq2023.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/pql.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/counterfactual.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/distshift.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/dribblebot_field.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/decisiondiff.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/transduction.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/avatar_harness.png",
+      "alt": "\u201charness\u201d"
+    },
+    {
+      "src": "images/low-rank-bias.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/eipo.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rndf_bowl_bottle.gif",
+      "alt": ""
+    },
+    {
+      "src": "images/walk-these-ways.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/diametr_web.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/touch_sim_2022.jpeg",
+      "alt": "sym"
+    },
+    {
+      "src": "images/cheetah-spin-2022.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/stubborn_cropped_iros22.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/mug_cut.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/robohand_teaser.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/icra2022_stacking.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/GEM.jpg",
+      "alt": "sym"
+    },
+    {
+      "src": "images/icml_2022_pic.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/ter.png",
+      "alt": "\u201cter\u201d"
+    },
+    {
+      "src": "images/bvn.png",
+      "alt": "\u201cter\u201d"
+    },
+    {
+      "src": "images/construction.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rff.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/hand_reori.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/cheetah-jump.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/nerf3d.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/handdesign2021.jpeg",
+      "alt": "sym"
+    },
+    {
+      "src": "images/tia2021.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/hamr-rml.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/opal.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/multistep_intro.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/block-stacking-2019.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/superposition_nutshell.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/emt_2019.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/iclr18_1.gif ",
+      "alt": "sym"
+    },
+    {
+      "src": "images/icml18.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/instance_segmentation.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/circulation18_2.png ",
+      "alt": "sym"
+    },
+    {
+      "src": "images/icml17_1.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/waterpolo.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/rope-manipulation.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/physics_exp.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/safely_cameras.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/ief.gif",
+      "alt": "sym"
+    },
+    {
+      "src": "images/poking.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/imagenet_thumb.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/billiards.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/3D_rep.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/lsm_3.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/analyzing_2014.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/brain.png",
+      "alt": "sym"
+    },
+    {
+      "src": "images/automatic_assesment.png",
+      "alt": "sym"
+    }
+  ]
+}

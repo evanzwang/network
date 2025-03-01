@@ -1,0 +1,77 @@
+{
+  "title": "Samir Menon",
+  "meta_description": "",
+  "main_content": "Samir Menon menon.samir@gmail.com SWE at Apple , working in SEAR Previously: co-founder of Blyss , SWE at Yubico , research in the Stanford Applied Cryptography group I work in the Security Engineering and Architecture (SEAR) group at Apple , on TLS and related internet technologies. I previously co-founded Blyss with Neil Movva . We worked on running LLMs in hardware enclaves, and on an SDK for private information retrieval. Before that, I was a software engineer at Yubico , where I worked on secure device manufacturing and programming. I've also done research in homomorphic encryption and private information retrieval. Publications Respire: High-Rate PIR for Databases with Small Records Alexander Burton, Samir Jordan Menon, and David J. Wu ACM CCS 2024 YPIR: High-Throughput Single-Server PIR with Silent Preprocessing Samir Jordan Menon and David J. Wu USENIX Security 2024 Spiral: Fast, High-Rate Single-Server PIR via FHE Composition Samir Jordan Menon and David J. Wu Oakland (IEEE S&P) 2022 Background I got my B.S. and M.S. in Computer Science in 2019 from Stanford University; my tracks were Systems and Computer & Network Security. While there, I was a TA for Prof. Dan Boneh's CS 255 (cryptography) and CS 251 (blockchain) classes. I also did research in the Applied Cryptography group on speeding up lattice-based SNARKs .",
+  "links": [
+    {
+      "url": "mailto:menon.samir@gmail.com",
+      "text": "menon.samir@gmail.com"
+    },
+    {
+      "url": "https://security.apple.com",
+      "text": "Apple"
+    },
+    {
+      "url": "https://blyss.dev",
+      "text": "Blyss"
+    },
+    {
+      "url": "https://www.yubico.com/",
+      "text": "Yubico"
+    },
+    {
+      "url": "https://crypto.stanford.edu/",
+      "text": "Stanford Applied Cryptography group"
+    },
+    {
+      "url": "https://security.apple.com",
+      "text": "Apple"
+    },
+    {
+      "url": "https://blyss.dev",
+      "text": "Blyss"
+    },
+    {
+      "url": "https://www.neilmovva.com/",
+      "text": "Neil\n            Movva"
+    },
+    {
+      "url": "https://github.com/blyssprivacy/sdk",
+      "text": "SDK"
+    },
+    {
+      "url": "https://www.yubico.com/",
+      "text": "Yubico"
+    },
+    {
+      "url": "https://eprint.iacr.org/2024/1165",
+      "text": "Respire: High-Rate PIR for Databases with Small Records"
+    },
+    {
+      "url": "https://eprint.iacr.org/2024/270",
+      "text": "YPIR: High-Throughput Single-Server PIR with Silent Preprocessing"
+    },
+    {
+      "url": "https://eprint.iacr.org/2022/368",
+      "text": "Spiral: Fast, High-Rate Single-Server PIR via FHE Composition"
+    },
+    {
+      "url": "https://crypto.stanford.edu/~dabo/courses/cs255_winter19/",
+      "text": "CS 255 (cryptography)"
+    },
+    {
+      "url": "http://cs251crypto.stanford.edu/18au-cs251/",
+      "text": "CS 251 (blockchain)"
+    },
+    {
+      "url": "https://github.com/dwu4/lattice-snarg",
+      "text": "speeding up lattice-based\n            SNARKs"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/samirmenon.jpeg",
+      "alt": "Samir Menon"
+    }
+  ]
+}

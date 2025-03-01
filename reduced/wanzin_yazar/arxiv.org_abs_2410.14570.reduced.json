@@ -1,0 +1,213 @@
+{
+  "title": "[2410.14570] Understanding the difficulty of low-precision post-training quantization of large language models",
+  "meta_description": "Abstract page for arXiv paper 2410.14570: Understanding the difficulty of low-precision post-training quantization of large language models",
+  "main_content": "Computer Science > Machine Learning arXiv:2410.14570 (cs) [Submitted on 18 Oct 2024] Title: Understanding the difficulty of low-precision post-training quantization of large language models Authors: Zifei Xu , Sayeh Sharify , Wanzin Yazar , Tristan Webb , Xin Wang View a PDF of the paper titled Understanding the difficulty of low-precision post-training quantization of large language models, by Zifei Xu and 4 other authors View PDF HTML (experimental) Abstract: Large language models of high parameter counts are computationally expensive, yet can be made much more efficient by compressing their weights to very low numerical precision. This can be achieved either through post-training quantization by minimizing local, layer-wise quantization errors, or through quantization-aware fine-tuning by minimizing the global loss function. In this study, we discovered that, under the same data constraint, the former approach nearly always fared worse than the latter, a phenomenon particularly prominent when the numerical precision is very low. We further showed that this difficulty of post-training quantization arose from stark misalignment between optimization of the local and global objective functions. Our findings explains limited utility in minimization of local quantization error and the importance of direct quantization-aware fine-tuning, in the regime of large models at very low precision. Subjects: Machine Learning (cs.LG) Cite as: arXiv:2410.14570 [cs.LG] (or arXiv:2410.14570v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2410.14570 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Zifei Xu [ view email ] [v1] Fri, 18 Oct 2024 16:16:52 UTC (3,629 KB) Full-text links: Access Paper: View a PDF of the paper titled Understanding the difficulty of low-precision post-training quantization of large language models, by Zifei Xu and 4 other authors View PDF HTML (experimental) TeX Source Other Formats view license Current browse context: cs.LG < prev | next > new | recent | 2024-10 Change to browse by: cs References & Citations NASA ADS Google Scholar Semantic Scholar a export BibTeX citation Loading... BibTeX formatted citation \u00d7 loading... Data provided by: Bookmark Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) Links to Code Toggle Papers with Code ( What is Papers with Code? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Demos Demos Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )",
+  "links": [
+    {
+      "url": "https://arxiv.org/search/cs?searchtype=author&query=Xu,+Z",
+      "text": "Zifei Xu"
+    },
+    {
+      "url": "https://arxiv.org/search/cs?searchtype=author&query=Sharify,+S",
+      "text": "Sayeh Sharify"
+    },
+    {
+      "url": "https://arxiv.org/search/cs?searchtype=author&query=Yazar,+W",
+      "text": "Wanzin Yazar"
+    },
+    {
+      "url": "https://arxiv.org/search/cs?searchtype=author&query=Webb,+T",
+      "text": "Tristan Webb"
+    },
+    {
+      "url": "https://arxiv.org/search/cs?searchtype=author&query=Wang,+X",
+      "text": "Xin Wang"
+    },
+    {
+      "url": "/pdf/2410.14570",
+      "text": "View PDF"
+    },
+    {
+      "url": "https://arxiv.org/html/2410.14570v1",
+      "text": "HTML (experimental)"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.14570",
+      "text": "arXiv:2410.14570"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.14570v1",
+      "text": "arXiv:2410.14570v1"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2410.14570",
+      "text": "https://doi.org/10.48550/arXiv.2410.14570"
+    },
+    {
+      "url": "/show-email/cd2b9eea/2410.14570",
+      "text": "view email"
+    },
+    {
+      "url": "/pdf/2410.14570",
+      "text": "View PDF"
+    },
+    {
+      "url": "https://arxiv.org/html/2410.14570v1",
+      "text": "HTML (experimental)"
+    },
+    {
+      "url": "/src/2410.14570",
+      "text": "TeX Source"
+    },
+    {
+      "url": "/format/2410.14570",
+      "text": "Other Formats"
+    },
+    {
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "text": "view license"
+    },
+    {
+      "url": "/prevnext?id=2410.14570&function=prev&context=cs.LG",
+      "text": "<\u00a0prev"
+    },
+    {
+      "url": "/prevnext?id=2410.14570&function=next&context=cs.LG",
+      "text": "next\u00a0>"
+    },
+    {
+      "url": "/list/cs.LG/new",
+      "text": "new"
+    },
+    {
+      "url": "/list/cs.LG/recent",
+      "text": "recent"
+    },
+    {
+      "url": "/list/cs.LG/2024-10",
+      "text": "2024-10"
+    },
+    {
+      "url": "/abs/2410.14570?context=cs",
+      "text": "cs"
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/arXiv:2410.14570",
+      "text": "NASA ADS"
+    },
+    {
+      "url": "https://scholar.google.com/scholar_lookup?arxiv_id=2410.14570",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://api.semanticscholar.org/arXiv:2410.14570",
+      "text": "Semantic Scholar"
+    },
+    {
+      "url": "/static/browse/0.3.4/css/cite.css",
+      "text": "a"
+    },
+    {
+      "url": "http://www.bibsonomy.org/BibtexHandler?requTask=upload&url=https://arxiv.org/abs/2410.14570&description=Understanding the difficulty of low-precision post-training quantization of large language models",
+      "text": ""
+    },
+    {
+      "url": "https://reddit.com/submit?url=https://arxiv.org/abs/2410.14570&title=Understanding the difficulty of low-precision post-training quantization of large language models",
+      "text": ""
+    },
+    {
+      "url": "https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer",
+      "text": "What is the Explorer?"
+    },
+    {
+      "url": "https://www.connectedpapers.com/about",
+      "text": "What is Connected Papers?"
+    },
+    {
+      "url": "https://www.litmaps.co/",
+      "text": "What is Litmaps?"
+    },
+    {
+      "url": "https://www.scite.ai/",
+      "text": "What are Smart Citations?"
+    },
+    {
+      "url": "https://alphaxiv.org/",
+      "text": "What is alphaXiv?"
+    },
+    {
+      "url": "https://www.catalyzex.com",
+      "text": "What is CatalyzeX?"
+    },
+    {
+      "url": "https://dagshub.com/",
+      "text": "What is DagsHub?"
+    },
+    {
+      "url": "http://gotit.pub/faq",
+      "text": "What is GotitPub?"
+    },
+    {
+      "url": "https://huggingface.co/huggingface",
+      "text": "What is Huggingface?"
+    },
+    {
+      "url": "https://paperswithcode.com/",
+      "text": "What is Papers with Code?"
+    },
+    {
+      "url": "https://sciencecast.org/welcome",
+      "text": "What is ScienceCast?"
+    },
+    {
+      "url": "https://replicate.com/docs/arxiv/about",
+      "text": "What is Replicate?"
+    },
+    {
+      "url": "https://huggingface.co/docs/hub/spaces",
+      "text": "What is Spaces?"
+    },
+    {
+      "url": "https://txyz.ai",
+      "text": "What is TXYZ.AI?"
+    },
+    {
+      "url": "https://influencemap.cmlab.dev/",
+      "text": "What are Influence Flowers?"
+    },
+    {
+      "url": "https://core.ac.uk/services/recommender",
+      "text": "What is CORE?"
+    },
+    {
+      "url": "https://iarxiv.org/about",
+      "text": "What is IArxiv?"
+    },
+    {
+      "url": "https://info.arxiv.org/labs/index.html",
+      "text": "Learn more about arXivLabs"
+    },
+    {
+      "url": "/auth/show-endorsers/2410.14570",
+      "text": "Which authors of this paper are endorsers?"
+    },
+    {
+      "url": "https://info.arxiv.org/help/mathjax.html",
+      "text": "What is MathJax?"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://arxiv.org/icons/licenses/by-nc-sa-4.0.png",
+      "alt": "license icon"
+    },
+    {
+      "src": "/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "alt": "BibSonomy logo"
+    },
+    {
+      "src": "/static/browse/0.3.4/images/icons/social/reddit.png",
+      "alt": "Reddit logo"
+    }
+  ]
+}

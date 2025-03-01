@@ -1,0 +1,162 @@
+                Semantic Scholar
+                Semantic Scholar's Logo
+                  Search 224,661,380 papers from all fields of science
+                      Search
+                    Sign In
+                    Create Free Account
+                      [Trishala Neeraj](/author/Trishala-Neeraj/10729963)
+                    Publications
+                    14
+                    6
+                    Citations
+                    5,390
+                    Highly Influential Citations
+                    475
+                        Follow Author...
+                        Claim Author Page
+                  Author pages are created from data sourced from our academic…
+                    show more
+                  Citing Authors
+                  Referenced Authors
+                  Co-Authors
+                                  Co-Author
+                              Has PDF
+                                More Filters
+                                Filters
+                                Sort by Most Influential Papers
+                                Sort by Citation Count
+                                Sort by Recency
+                              BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
+                                  Teven Le Scao
+                                  Angela Fan
+                                  +388 authors
+                                  Thomas Wolf
+                            Computer Science, Linguistics
+                                arXiv.org
+                                9 November 2022
+                                TLDR
+                            BLOOM is a 176B-parameter open-access language model designed and built thanks to a collaboration of hundreds of researchers and achieves competitive performance on a wide variety of benchmarks, with stronger results after undergoing multitask prompted finetuning.
+                            Expand
+                                      2,146
+                                      PDF
+                                    (opens in a new tab)
+                                  Save
+                                  Alert
+                                  Cite
+                              Multitask Prompted Training Enables Zero-Shot Task Generalization
+                                  Victor Sanh
+                                  Albert Webson
+                                  +38 authors
+                                  Alexander M. Rush
+                            Computer Science
+                                15 October 2021
+                            A system for easily mapping any natural language tasks into a human-readable prompted form and fine-tune a pretrained encoder-decoder model on this multitask mixture covering a wide variety of tasks.
+                                      1,599
+                              Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
+                                  Aarohi Srivastava
+                                  Abhinav Rastogi
+                                  +447 authors
+                                  Ziyi Wu
+                                9 June 2022
+                            Evaluation of OpenAI's GPT models, Google-internal dense transformer architectures, and Switch-style sparse transformers on BIG-bench, across model sizes spanning millions to hundreds of billions of parameters finds that model performance and calibration both improve with scale, but are poor in absolute terms.
+                                      1,549
+                              BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing
+                                  Jason Alan Fries
+                                  Leon Weber
+                                  +40 authors
+                                  Benjamin Beilharz
+                            Computer Science, Medicine
+                                Neural Information Processing Systems
+                                30 June 2022
+                            BigBIO is introduced, a community library of 126+ biomedical NLP datasets, currently covering 12 task categories and 10+ languages that facilitates reproducible meta-dataset curation via programmatic access to datasets and their metadata, and is compatible with current platforms for prompt engineering and end-to-end few/zero shot language model evaluation.
+                                      41
+                              ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization
+                                  David Wan
+                                  Koustuv Sinha
+                                  +106 authors
+                                  Kalyan Saladi
+                                  Annual Meeting of the Association for…
+                                2024
+                            This work presents ACUE-VAL, a metric that leverages the power of LLMs to perform two sub-tasks: decomposing summaries into atomic content units (ACUs) and validating them against the source document, and shows reduced preference bias towards LLM-generated sum-mary.
+                                      4
+                              Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners
+                                  Qihuang Zhong
+                                  Kang Wang
+                                  +140 authors
+                                  Le Hou
+                            A novel prompt strategy called Deeply Understanding the Problems (DUP) prompting is proposed, inspired by how humans solve complex reasoning problems, designed to enhance the comprehensive understanding of problems by LLMs.
+                                    11
+                                  +37 authors
+                                  International Conference on Learning…
+                                2022
+                                    15
+                            Linguistics, Computer Science
+                              Trans. Mach. Learn. Res.
+                                2023
+                              A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles
+                                  Xiao Ma
+                                  Mor Naaman
+                                International Conference on Web and Social Media
+                                3 May 2017
+                            A novel computational framework to predict the perceived trustworthiness of host profile texts in the context of online lodging marketplaces and insights into the linguistic factors that contribute to higher and lower perceived trustworthy for profiles of different lengths are provided.
+                                      21
+                              FINALE : Finance Domain Instruction-Tuning Dataset with High-Quality Rationales via Chain-of-Thought Prompting
+                                  Sangmin Lee
+                                  Suzie Oh
+                                  +1,049 authors
+                                  Kaza
+                            Computer Science, Business
+                            FINALE is proposed, a financial instruction tuning dataset that includes high-quality rationales generated through the use of a Chain-of-Thought (CoT) prompting and quality filtering that demonstrates the effectiveness of FINALE and emphasizes the importance of training models to generate high-quality rationales.
+                          ...
+                          1
+                          2
+                        Jos Rozen
+                      21 Publications • 5,414 Citations
+                        Ryan Teehan
+                      18 Publications • 5,372 Citations
+                      38 Publications • 6,047 Citations
+                        Harshit Pandey
+                      24 Publications • 3,783 Citations
+                  View All Co-Authors
+              Stay Connected With Semantic Scholar
+                  Sign Up
+                What Is Semantic Scholar?
+                Semantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.
+                [Learn More](/about)
+                  About
+                  [About Us](/about)
+                  [Publishers](/about/publishers)
+                  [Blog](https://medium.com/ai2-blog/semantic-scholar/home)
+                  [Ai2 Careers](https://allenai.org/careers?team=semantic+scholar#current-openings)
+                  Product
+                  [Product Overview](/product)
+                  [Semantic Reader](/product/semantic-reader)
+                  [Scholar's Hub](/product/scholars-hub)
+                  [Beta Program](/product/beta-program)
+                  [Release Notes](/product/release-notes)
+                  API
+                  [API Overview](/product/api)
+                  [API Tutorials](/product/api%2Ftutorial)
+                  [API Documentation](https://api.semanticscholar.org/api-docs/)
+                  [API Gallery](/product/api%2Fgallery)
+                  Research
+                  [Research Careers](https://allenai.org/careers)
+                  [Resources](https://allenai.org/ai-for-science)
+                  Help
+                  [FAQ](/faq)
+                  [Librarians](/about/librarians)
+                  [Tutorials](/product/tutorials)
+                  Contact
+                Proudly built by
+                  [Ai2](http://allenai.org)
+                    Collaborators & Attributions
+                  •
+                  [Terms of Service](https://allenai.org/terms)
+                  [Privacy Policy](https://allenai.org/privacy-policy.html)
+                  [API License Agreement](/product/api/license)
+              [The Allen Institute for AI](http://allenai.org)
+          By clicking accept or continuing to use the site, you agree to the terms outlined in our
+            ,
+            , and
+            [Dataset License](http://api.semanticscholar.org/corpus/legal)
+          ACCEPT & CONTINUE

@@ -1,0 +1,352 @@
+                              [Home](https://www.researchgate.net/)
+                              [University of Central Florida](https://www.researchgate.net/institution/University_of_Central_Florida)
+                              Department of Civil, Environmental & Construction Engineering
+                              Shaurya Agarwal
+                                    | UCF
+                                    ·
+                                Doctor of Philosophy
+                            Contact
+                                  Connect with experts in your field
+                                Join ResearchGate to contact this researcher and connect with your scientific community.
+                                      Join for free
+                                      Log in
+                              [About](profile/Shaurya-Agarwal#about)
+                              [Publications](profile/Shaurya-Agarwal#publications)
+                                72
+                              [Network](profile/Shaurya-Agarwal#network)
+                  18,001
+                  Reads
+                          How we measure 'reads'
+                        A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text.
+                          [Learn more](https://explore.researchgate.net/display/support/Reads)
+                  987
+                  Citations
+              Introduction
+                    Shaurya Agarwal currently works at the Department of Civil Construction and Environmental Engineering, at the University of Central Florida (UCF). Shaurya does research in Cyber-physical Systems, Mean Field Games, Smart Cities, Information Modeling etc.
+                    Skills and Expertise
+                      [Control Theory](topic/Control-Theory)
+                      [System Dynamics Modeling](topic/System-Dynamics-Modeling)
+                      [Statistical Data Analysis](topic/Statistical-Data-Analysis)
+                      [Smart Cities](topic/Smart-Cities)
+                      [Transportation](topic/Transportation)
+                      [Intelligent Transportation Systems](topic/Intelligent-Transportation-Systems)
+              Additional affiliations
+                                January 2011 -
+                                September 2015
+                                      University of Nevada, Las Vegas
+                                          Transportation Research Center (TRC)
+                                    Position
+                                          Research Assistant
+                Publications (72)
+                              [Incorporating Nonlocal Traffic Flow Model in Physics-Informed Neural Networks](https://www.researchgate.net/publication/383448916_Incorporating_Nonlocal_Traffic_Flow_Model_in_Physics-Informed_Neural_Networks)
+                                Article
+                                    Nov 2024
+                                    Archie J. Huang
+                                    Animesh Biswas
+                            This research contributes to the advancement of traffic state estimation and prediction methodologies by leveraging the benefits of the nonlocal LWR model within a physics-informed deep learning (PIDL) framework. The classical LWR model, while useful, falls short of accurately representing real-world traffic flows due to the assumption that traffic...
+                                    View
+                              [An Extreme Value Theory Approach for Understanding Queue Length Dynamics in Adaptive Corridors](https://www.researchgate.net/publication/382867463_An_Extreme_Value_Theory_Approach_for_Understanding_Queue_Length_Dynamics_in_Adaptive_Corridors)
+                                Preprint
+                                Full-text available
+                                    Aug 2024
+                                    Shakib Mustavee
+                                    Pushkin Kachroo
+                            This paper introduces a novel approach employing extreme value theory to analyze queue lengths within a corridor controlled by adaptive controllers. We consider the maximum queue lengths of a signalized corridor consisting of nine intersections every two minutes, roughly equivalent to the cycle length. Our research shows that maximum queue lengths...
+                              [Self-Similar Characteristics in Queue Length Dynamics: Insights from Adaptive Signalized Corridor](https://www.researchgate.net/publication/382867764_Self-Similar_Characteristics_in_Queue_Length_Dynamics_Insights_from_Adaptive_Signalized_Corridor)
+                            Self-similarity, a fractal characteristic of traffic flow dynamics, is widely recognized in transportation engineering and physics. However, its practical application in real-world traffic scenarios remains limited. Conversely, the traffic flow dynamics at adaptive signalized intersections still need to be fully understood. This paper addresses thi...
+                                          +12
+                              [Data-driven discovery of quasiperiodically driven dynamics](https://www.researchgate.net/publication/382653412_Data-driven_discovery_of_quasiperiodically_driven_dynamics)
+                                    Jul 2024
+                                    Suddhasattwa Das
+                            The analysis of a timeseries can provide many new perspectives if it is accompanied by the assumption that the timeseries is generated from an underlying dynamical system. For example, statistical properties of the data can be related to measure theoretic aspects of the dynamics, and one can try to recreate the dynamics itself. The underlying dynam...
+                              [Fuzzy Logic Based Automation of the Extraction of Surrogate Safety Measures and the Creation of Severity Classification Using Video Data](https://www.researchgate.net/publication/380891891_Fuzzy_Logic_Based_Automation_of_the_Extraction_of_Surrogate_Safety_Measures_and_the_Creation_of_Severity_Classification_Using_Video_Data)
+                                Chapter
+                                    May 2024
+                                    Anamika Yadav
+                                    Md Mahmudul Islam
+                                [...]
+                              [Dimensionality Reduction and Machine Learning-Based Crash Severity Prediction Using Surrogate Safety Measures](https://www.researchgate.net/publication/380891986_Dimensionality_Reduction_and_Machine_Learning-Based_Crash_Severity_Prediction_Using_Surrogate_Safety_Measures)
+                                    Ankit Kathuria
+                              [Development and Field Validation of Nonlocal Velocity based Macroscopic Traffic Model](https://www.researchgate.net/publication/380892606_Development_and_Field_Validation_of_Nonlocal_Velocity_based_Macroscopic_Traffic_Model)
+                                    Jiheng Huang
+                              [Machine Learning Categorization Algorithms for Traffic Conflict Ratings](https://www.researchgate.net/publication/377051867_Machine_Learning_Categorization_Algorithms_for_Traffic_Conflict_Ratings)
+                                Conference Paper
+                                    Jan 2024
+                                    Mahmudul Islam
+                            This paper provides a review of unsupervised and unsupervised categorization algorithms using safety surrogate data to predict the severity of traffic conflicts using processed traffic video data at conflict sites as well as human ratings of the conflicts.
+                              [Exploring PageRank Algorithm and Voronoi Diagrams for Dynamic Network Partitions Facilitating Feedback Linearization-Based Control](https://www.researchgate.net/publication/377051966_Exploring_PageRank_Algorithm_and_Voronoi_Diagrams_for_Dynamic_Network_Partitions_Facilitating_Feedback_Linearization-Based_Control)
+                                    Saumya Gupta
+                                    Kaan Ozbay
+                            This paper explores a novel approach to dividing a traffic region (network) into sub-regions for efficient traffic control among the areas. The macroscopic flow diagram (MFD) in each of these sub-regions, referred to as sub-MFD, can then be used to determine the macro-state of that sub-region and subsequently design controllers. The region division...
+                              [Macroscopic Fundamental Diagram: Alternative Theoretical Analysis and Implications for Traffic Control](https://www.researchgate.net/publication/386583796_Macroscopic_Fundamental_Diagram_Alternative_Theoretical_Analysis_and_Implications_for_Traffic_Control)
+                            This paper presents the theory and analysis related to the aggregated macroscopic fundamental diagram and presents specific implications for traffic control. The paper presents the aggregation results for the three fundamental variables, traffic density, speed, and traffic flow, and the relationship among the aggregated versions of these for the Gr...
+                              [Koopman-Theoretic Modeling of Quasiperiodically Driven Systems: Example of Signalized Traffic Corridor](https://www.researchgate.net/publication/369278237_Koopman-Theoretic_Modeling_of_Quasiperiodically_Driven_Systems_Example_of_Signalized_Traffic_Corridor)
+                                    Jul 2023
+                                    Samiul Hasan
+                            This article presents a novel approach to analyzing quasiperiodically driven dynamical systems. It presents a holistic data-driven framework for reconstructing such a system and gaining insights into its dynamical behavior. A quasiperiodically driven dynamics has two components: 1) the quasiperiodic driving source with generating frequencies and 2)...
+                                          +4
+                              [Journal of Intelligent Transportation Systems Technology, Planning, and Operations ISSN: (Print) ( Dynamic mode decomposition type algorithms for modeling and predicting queue lengths at signalized intersections with short lookback Dynamic mode decomposition type algorithms for modeling and predicting queue lengths at signalized intersections with short lookback](https://www.researchgate.net/publication/370442100_Journal_of_Intelligent_Transportation_Systems_Technology_Planning_and_Operations_ISSN_Print_Dynamic_mode_decomposition_type_algorithms_for_modeling_and_predicting_queue_lengths_at_signalized_intersect)
+                                    May 2023
+                                    Redwan Kazi
+                                    Shakib Shabab
+                                    Shaurya Mustavee
+                                    Sajal K Das
+                            This article explores a novel data-driven approach based on recent developments in Koopman operator theory and dynamic mode decomposition (DMD) for modeling signalized intersections. On signalized intersections, vehicular flow and queue formation have complex nonlinear dynamics, making system identification, modeling, and controller design challeng...
+                              [Affective commitment recipes for wine clubs: Value goes beyond the vine](https://www.researchgate.net/publication/368885937_Affective_commitment_recipes_for_wine_clubs_Value_goes_beyond_the_vine)
+                                    Mar 2023
+                                    Anjala Krishen
+                                    Orie Berezan
+                                    Sheen Kachen
+                                    Jan 2023
+                            Quasiperiodically driven dynamical systems are nonlinear systems which are driven by some periodic source with multiple base-frequencies. Such systems abound in nature, and are present in data collected from sources such as astronomy and traffic data. We present a completely data-driven procedure which reconstructs the dynamics into two components...
+                              [Nonlocal Calculus-Based Macroscopic Traffic Model: Development, Analysis, and Validation](https://www.researchgate.net/publication/376008792_Nonlocal_Calculus-Based_Macroscopic_Traffic_Model_Development_Analysis_and_Validation)
+                            Nonlocal calculus-based macroscopic traffic models overcome the limitations of classical local models in accurately capturing traffic flow dynamics. These models incorporate “nonlocal” elements by considering the speed as a weighted mean of downstream traffic density, aligning it more closely with realistic driving behaviors. The primary contributi...
+                              [A linear dynamical perspective on epidemiology: interplay between early COVID-19 outbreak and human mobility](https://www.researchgate.net/publication/360406422_A_linear_dynamical_perspective_on_epidemiology_interplay_between_early_COVID-19_outbreak_and_human_mobility)
+                                    Jul 2022
+                                    Chinwendu Enyioha
+                            This paper investigates the impact of human activity and mobility (HAM) in the spreading dynamics of an epidemic. Specifically, it explores the interconnections between HAM and its effect on the early spread of the COVID-19 virus. During the early stages of the pandemic, effective reproduction numbers exhibited a high correlation with human mobilit...
+                              [Sensing and monitoring of smart transportation systems](https://www.researchgate.net/publication/359991845_Sensing_and_monitoring_of_smart_transportation_systems)
+                                    Jan 2022
+                                    Juan Contreras Castillo
+                                    Juan Guerrero-Ibañez
+                            One of the main components of the city infrastructure is its transportation system that often battles with problems such as road congestion, delays, crashes, and emissions. The rapid advances in sensing and communication technology over the last couple of decades have made real-time monitoring and control of large-scale transportation systems feasi...
+                              [Physics Informed Deep Learning for Traffic State Estimation: Illustrations with LWR and CTM Models](https://www.researchgate.net/publication/361309075_Physics_Informed_Deep_Learning_for_Traffic_State_Estimation_Illustrations_with_LWR_and_CTM_Models)
+                            We present a physics-informed deep learning (PIDL) approach to tackle the challenge of data sparsity and sensor noise in traffic state estimation (TSE). PIDL strengthens a deep learning (DL) neural network with the knowledge of traffic flow theory to accurately estimate traffic conditions. The ‘physics’—a priori information of the system—acts as a...
+                              [Uncovering Quasi-periodic Nature of Physical Systems: A Case Study of Signalized Intersections](https://www.researchgate.net/publication/354695842_Uncovering_Quasi-periodic_Nature_of_Physical_Systems_A_Case_Study_of_Signalized_Intersections)
+                                    Sep 2021
+                            This paper presents a novel approach to analyze quasiperiodically driven dynamical systems. It aims to develop a complete data-driven framework for modeling such unknown dynamics. To achieve this, we characterize Koopman eigenfrequencies as generating frequencies of the quasiperiodic driver of the system. We compute true eigenfrequencies of Koopman...
+                              [Exploring DMD-type Algorithms for Modeling Signalised Intersections](https://www.researchgate.net/publication/353258446_Exploring_DMD-type_Algorithms_for_Modeling_Signalised_Intersections)
+                                    Jul 2021
+                                    Kazi Redwan Shabab
+                                    Sajal Das
+                            This paper explores a novel data-driven approach based on recent developments in Koopman operator theory and dynamic mode decomposition (DMD) for modeling signalized intersections. Vehicular flow and queue formation on signalized intersections have complex nonlinear dynamics, making system identification, modeling, and controller design tasks chall...
+                                          +3
+                              [A Linear Dynamical Perspective on Epidemiology: Interplay Between Early COVID-19 Outbreak and Human Mobility](https://www.researchgate.net/publication/353284404_A_Linear_Dynamical_Perspective_on_Epidemiology_Interplay_Between_Early_COVID-19_Outbreak_and_Human_Mobility)
+                              [Modeling Basics](https://www.researchgate.net/publication/350024838_Modeling_Basics)
+                                    Mar 2021
+                                    Michael Muhlmeyer
+                              [Social Marketing-Based Models for Information Spread](https://www.researchgate.net/publication/350024843_Social_Marketing-Based_Models_for_Information_Spread)
+                              [Control Basics](https://www.researchgate.net/publication/350024850_Control_Basics)
+                              [Social Media in Popular Culture](https://www.researchgate.net/publication/350024951_Social_Media_in_Popular_Culture)
+                              [Social Theory and Networks](https://www.researchgate.net/publication/350025055_Social_Theory_and_Networks)
+                              [Stochastic Modeling of Information Spread](https://www.researchgate.net/publication/350027910_Stochastic_Modeling_of_Information_Spread)
+                              [Information Spread and Control](https://www.researchgate.net/publication/350027911_Information_Spread_and_Control)
+                              [Case Studies](https://www.researchgate.net/publication/350028324_Case_Studies)
+                              [Control Methods](https://www.researchgate.net/publication/350028416_Control_Methods)
+                              [Concluding Thoughts](https://www.researchgate.net/publication/350028492_Concluding_Thoughts)
+                              [Social Network Analysis](https://www.researchgate.net/publication/350028514_Social_Network_Analysis)
+                              [Epidemiology-Based Models for Information Spread](https://www.researchgate.net/publication/350028515_Epidemiology-Based_Models_for_Information_Spread)
+                              [Social Network Relationships and Structures](https://www.researchgate.net/publication/350028551_Social_Network_Relationships_and_Structures)
+                              [Information Spread in a Social Media Age: Modeling and Control](https://www.researchgate.net/publication/350031374_Information_Spread_in_a_Social_Media_Age_Modeling_and_Control)
+                                Book
+                              [Control Application 1: Advertisements and Social Crazes](https://www.researchgate.net/publication/350031921_Control_Application_1_Advertisements_and_Social_Crazes)
+                              [Control Application 2: Stopping a Fake News Outbreak](https://www.researchgate.net/publication/350031970_Control_Application_2_Stopping_a_Fake_News_Outbreak)
+                              [Physics Informed Deep Learning: Applications to Traffic State Estimation in Connected Vehicle Environment - Transportation Research Board 100th Annual Meeting](https://www.researchgate.net/publication/349255716_Physics_Informed_Deep_Learning_Applications_to_Traffic_State_Estimation_in_Connected_Vehicle_Environment_-_Transportation_Research_Board_100th_Annual_Meeting)
+                                Presentation
+                                    Jan 2021
+                            Presentation of "Physics Informed Deep Learning: Applications to Traffic State Estimation in Connected Vehicle Environment" at Transportation Research Board 100th Annual Meeting
+                              [Exploring Dynamic Mode Decomposition for Robust System Identification: Applications to Adaptive Signalised Intersections (TRBAM-21-03451)](https://www.researchgate.net/publication/349256136_Exploring_Dynamic_Mode_Decomposition_for_Robust_System_Identification_Applications_to_Adaptive_Signalised_Intersections_TRBAM-21-03451)
+                                Poster
+                                    redwan
+                              [Physics Informed Deep Learning: Applications to Traffic State Estimation in Connected Vehicle Environment](https://www.researchgate.net/publication/349255408_Physics_Informed_Deep_Learning_Applications_to_Traffic_State_Estimation_in_Connected_Vehicle_Environment)
+                            Intelligent vehicles have the potential to unlock a plethora of road congestion management and safety applications. This paper presents a novel framework that utilizes a physics informed deep learning approach suitable for time-sensitive intelligent vehicle applications. The framework is capable of training with low amounts of data and is computati...
+                              [The digital self and virtual satisfaction: A cross-cultural perspective](https://www.researchgate.net/publication/347977135_The_digital_self_and_virtual_satisfaction_A_cross-cultural_perspective)
+                                    Robyn L. Raschke
+                            This interdisciplinary cross-cultural research explores antecedents for social media networking satisfaction for Spanish and American consumers. Conceptually rooted in a sense of community, self-determination theory, and Hofstede’s cultural dimensions, our descriptive study samples consist of n = 367 Americans and n = 161 Spaniards. Analysis with f...
+                              [Physics Informed Deep Learning for Traffic State Estimation](https://www.researchgate.net/publication/346012303_Physics_Informed_Deep_Learning_for_Traffic_State_Estimation)
+                                    Nov 2020
+                            The challenge of traffic state estimation (TSE) lies in the sparsity of observed traffic data and the sensor noise present in the data. This paper presents a new approach-physics informed deep learning (PIDL) method-to tackle this problem. PIDL equips a deep learning neural network with the strength of the physical law governing traffic flow to bet...
+                              [Physics Informed Traffic State Estimation The 23rd IEEE International Conference on Intelligent Transportation Systems September 2020](https://www.researchgate.net/publication/346012443_Physics_Informed_Traffic_State_Estimation_The_23rd_IEEE_International_Conference_on_Intelligent_Transportation_Systems_September_2020)
+                            Physics Informed Deep Learning for Traffic State Estimation
+
+Intelligent Transportation Systems
+                                          +1
+                              [A New Language and Input-Output Hidden Markov Model for Automated Audit Inquiry](https://www.researchgate.net/publication/338332243_A_New_Language_and_Input-Output_Hidden_Markov_Model_for_Automated_Audit_Inquiry)
+                                    Aaron Saiewitz
+                            This paper presents a mathematical coding language to express dynamic interactions between auditors and client personnel. Then an Input-Output Hidden Markov Model (IOHMM) is presented that represents clients as well as auditors, and models the coupled system. The calibrated model can be used to design optimal automated auditors, and can also be use...
+                              [Exploring loneliness and social networking: Recipes for hedonic well-being on Facebook](https://www.researchgate.net/publication/337688343_Exploring_loneliness_and_social_networking_Recipes_for_hedonic_well-being_on_Facebook)
+                                    Jul 2020
+                            Every day, billions of people participate on social networking sites such as Facebook. We are now more virtually “connected” than ever before, yet for many individuals, the world is a very lonely place, both physically and virtually. This study takes a self-determination theory (SDT) perspective to explore the recipes for hedonic well-being derived...
+                              [Harnessing the waiting experience: anticipation, expectations and WOM](https://www.researchgate.net/publication/341789947_Harnessing_the_waiting_experience_anticipation_expectations_and_WOM)
+                                    May 2020
+                                    Brian Robison
+                            Purpose
+This study aims to explore the anticipated emotions of consumers and their anticipated perceived quality (PQ) of an exhibit, event or service that they are waiting to attend.
+
+Design/methodology/approach
+The study consists of a quantitative survey-based descriptive study of n = 470 real-world consumers from a waiting line at the Shark Reef...
+                              [Modeling Social Contagion and Information Diffusion in Complex Socio-Technical Systems](https://www.researchgate.net/publication/341665340_Modeling_Social_Contagion_and_Information_Diffusion_in_Complex_Socio-Technical_Systems)
+                            The rise of technology and social media has altered the human cognition, and we must rethink our approach toward information dissemination systems when dealing with topics such as social campaigns, advertising, false news outbreak, and more. In this article, we start by providing an overview of classical information spread dynamics using various ma...
+                              [Social media networking satisfaction in the US and Vietnam: Content versus connection ☆](https://www.researchgate.net/publication/332543496_Social_media_networking_satisfaction_in_the_US_and_Vietnam_Content_versus_connection)
+                                    Apr 2019
+                              [Event Triggered Social Media Chatter: A New Modeling Framework](https://www.researchgate.net/publication/331428172_Event_Triggered_Social_Media_Chatter_A_New_Modeling_Framework)
+                            In this paper, we develop a new modeling framework for the event-triggered social media chatter. The new framework is inspired by the two well-established modeling frameworks--the ignorant-spreader-recovered model for information spread and the Sethi model for marketing. This paper discusses various microscopic and macroscopic approaches and the ne...
+                                          +9
+                              [Controllability and Observability Analysis for Intelligent Transportation Systems](https://www.researchgate.net/publication/329716833_Controllability_and_Observability_Analysis_for_Intelligent_Transportation_Systems)
+                                    Dec 2018
+                            In this paper, we present a novel methodology for analyzing the controllability problem on a freeway traffic network. The new framework investigates controllability in terms of flow information on arcs and the routing information. Macroscopic ODE-based traffic model is used to develop \((\rho )\) dynamics on a network arc which is then combined wit...
+                              [Declining transportation funding and need for analytical solutions: dynamics and control of VMT tax](https://www.researchgate.net/publication/321074241_Declining_transportation_funding_and_need_for_analytical_solutions_dynamics_and_control_of_VMT_tax)
+                                    Dec 2017
+                                    Pratik Verma
+                            There is a growing concern among policy makers and analysts regarding the mismatch between demand and supply of the revenue for improving and maintaining highway infrastructure. One possible solution is to link actual vehicle miles traveled (VMT) to the fee structure. The main objective of this paper is to model VMT dynamics and establish a methodo...
+                              [The pursuit of virtual happiness: Exploring the social media experience across generations](https://www.researchgate.net/publication/321629146_The_pursuit_of_virtual_happiness_Exploring_the_social_media_experience_across_generations)
+                            Social media environments can transform and reinforce life experiences, influencing self-concept and providing happiness. The goal of this research is to examine social media networking as an experiential phenomenon, wherein consumers pursue virtual happiness by satisfying the self-determination theory (SDT) needs of relatedness, competence, and au...
+                              [Fuzzy logic programming based knowledge analysis for qualitative comparative analysis](https://www.researchgate.net/publication/310756994_Fuzzy_logic_programming_based_knowledge_analysis_for_qualitative_comparative_analysis)
+                                    Sep 2017
+                            This paper presents a way to combine outcomes of various studies in a meta analysis framework that can use the results of mixed methods and also provide query based output for intelligent decision making. We enhance the Qualitative Comparative Analysis by utilizing fuzzy logic programming to provide effective ways of combining output of various stu...
+                              [On the Economic Control of Cyber-physical Systems](https://www.researchgate.net/publication/327525282_On_the_Economic_Control_of_Cyber-physical_Systems)
+                                    Jul 2017
+                              [Quality of Traffic Observability on Highways With Lagrangian Sensors](https://www.researchgate.net/publication/316701644_Quality_of_Traffic_Observability_on_Highways_With_Lagrangian_Sensors)
+                                    May 2017
+                                    Sergio Contreras
+                            Observability is essential to estimate the states of a system from sensor measurements. Observability indicates the sufficiency of the sensors for state estimation. In a highway traffic setting, using global positioning system-enabled smartphones as sensors sets this observability problem in the Lagrangian dynamics framework, in which the moving ve...
+                              [Multi-scale Modeling and Control Architecture for V2X Enabled Traffic Streams](https://www.researchgate.net/publication/316079934_Multi-scale_Modeling_and_Control_Architecture_for_V2X_Enabled_Traffic_Streams)
+                                    Apr 2017
+                                    Benedetto Piccoli
+                            In this paper, we propose a multi-scale modeling framework which is appropriate for analyzing the heterogeneous traffic streams involving connected vehicles as well as normal vehicles. In this framework connected vehicles are treated as discreet entities, which can be controlled microscopically so that they can then influence and control overall tr...
+                              [The generation of virtual needs: Recipes for satisfaction in social media networking](https://www.researchgate.net/publication/303187540_The_generation_of_virtual_needs_Recipes_for_satisfaction_in_social_media_networking)
+                                    Nov 2016
+                            Successful social media networks motivate people to engage in behaviors that speak to their most basic psychological needs through citizenship in a virtual society. These environments provide individuals with the ability to build relationships (relatedness), exercise competence, and express autonomy. Recipes for satisfying these basic needs are vit...
+                              [Inverse Problem for Non-Viscous Mean Field Control: Example From Traffic](https://www.researchgate.net/publication/309413665_Inverse_Problem_for_Non-Viscous_Mean_Field_Control_Example_From_Traffic)
+                                    Shankar Sastry
+                            This paper presents an inverse problem for mean field games where we find the mean field problem statement for which the given dynamics is the solution. We use distributed traffic as an example and derive the classic Lighthill Whitham Richards (LWR) model as a solution of the non-viscous mean field game. We also derive the same model by choosing a...
+                              [Multidimensional Compression of ITS Data Using Wavelet-Based Compression Techniques](https://www.researchgate.net/publication/309372518_Multidimensional_Compression_of_ITS_Data_Using_Wavelet-Based_Compression_Techniques)
+                                    Oct 2016
+                                    Emma Regentova
+                                    Himanshu Verma
+                            This paper explores the use of wavelet transform-based methods for ITS data compression. A methodology for structuring data and applying wavelet transform-based algorithms is proposed. The methodology provides the option of controlling the compression ratio at the cost of an acceptable distortion, visualizing data at different detail levels. With p...
+                              [Framing the value and valuing the frame? Algorithms for child safety seat use](https://www.researchgate.net/publication/298500773_Framing_the_value_and_valuing_the_frame_Algorithms_for_child_safety_seat_use)
+                              [Optimal Control for Congestion Pricing: Theory, Simulation, and Evaluation](https://www.researchgate.net/publication/307868358_Optimal_Control_for_Congestion_Pricing_Theory_Simulation_and_Evaluation)
+                                    Aug 2016
+                            This paper presents a mathematical framework for dynamic congestion pricing. The objective is to calculate an optimal toll using optimal control theory. The problem consists of tolled lanes or routes and alternate non-tolled lanes or routes. The model is developed using traffic conservation law, queuing theory and fundamental macroscopic relationsh...
+                              [A hybrid model using logistic regression and wavelet transformation to detect traffic incidents](https://www.researchgate.net/publication/304107008_A_hybrid_model_using_logistic_regression_and_wavelet_transformation_to_detect_traffic_incidents)
+                                    Jun 2016
+                            This research paper investigates a hybrid model using logistic regression with a wavelet-based feature extraction for detecting traffic incidents. A logistic regression model is suitable when the outcome can take only a limited number of values. For traffic incident detection, the outcome is limited to only two values, the presence or absence of an...
+                              [Is having accurate knowledge necessary for implementing safe practices?: A consumer folk theories-of-mind perspective on the impact of price](https://www.researchgate.net/publication/304607542_Is_having_accurate_knowledge_necessary_for_implementing_safe_practices_A_consumer_folk_theories-of-mind_perspective_on_the_impact_of_price)
+                                    May 2016
+                            Purpose
+The purpose of this research is to increase consumer safety by providing insights about the linkage between consumer knowledge, price perception and safety intentions. Drawing from the expanded societal view of marketing, this model aims to further understanding of the connection between consumer education and safety from a folk theories-of...
+                                          +2
+                              [Observability and Sensor Placement Problem on Highway Segments: A Traffic Dynamics-Based Approach](https://www.researchgate.net/publication/283828724_Observability_and_Sensor_Placement_Problem_on_Highway_Segments_A_Traffic_Dynamics-Based_Approach)
+                                    Mar 2016
+                            Traffic congestion is a major problem on highways. To analyze this problem and then design different ways of reducing congestion, researchers need to observe traffic conditions on highways. Sensors are used to record and collect traffic data on highways. However, sensors must be placed efficiently to maximize the information collected and minimize...
+                              [A Dynamic Network Modeling-Based Approach for Traffic Observability Problem](https://www.researchgate.net/publication/285599036_A_Dynamic_Network_Modeling-Based_Approach_for_Traffic_Observability_Problem)
+                                    Dec 2015
+                            This paper presents a novel approach for studying the observability problem on a general topology of a traffic freeway network. We develop a new framework, which investigates observability in terms of flow and routing information on the network arcs. We utilize lumped-parameter-based ordinary differential equation (ODE) setting to model traffic (ρ)...
+                              [Impact of V2X Diffusion to Traffic Flow Efficiency and Control](https://www.researchgate.net/publication/285599027_Impact_of_V2X_Diffusion_to_Traffic_Flow_Efficiency_and_Control)
+                              [Feedback-Coordinated Ramp Control of Consecutive On-Ramps Using Distributed Modeling and Godunov-Based Satisfiable Allocation](https://www.researchgate.net/publication/276382022_Feedback-Coordinated_Ramp_Control_of_Consecutive_On-Ramps_Using_Distributed_Modeling_and_Godunov-Based_Satisfiable_Allocation)
+                                    Oct 2015
+                            This paper presents a feedback control design for a coordinated ramp metering problem for two consecutive on-ramps. We design a traffic allocation scheme for ramps based on Godunov's numerical method and using a distributive model. Most of the previous work for designing feedback control for ramp metering is based on either the discretized linear m...
+                              [Safety Culture from an Interdisciplinary Perspective: Conceptualizing a Hierarchical Feedback-based Transportation Framework](https://www.researchgate.net/publication/284217258_Safety_Culture_from_an_Interdisciplinary_Perspective_Conceptualizing_a_Hierarchical_Feedback-based_Transportation_Framework)
+                                    Masha Wilson
+                            Given the colossal issue of traffic accidents causing serious injuries, fatalities, and traffic congestion in the United States, the current article introduces a feedback safety model that utilizes and combines disparate data sources and allows for model-based action to alleviate the problems. This feedback model will serve two purposes: (1) it wil...
+                              [Inverse Problem for Non-viscous Mean Field Control: Example from Traffic: (Preprint)](https://www.researchgate.net/publication/279531313_Inverse_Problem_for_Non-viscous_Mean_Field_Control_Example_from_Traffic_Preprint)
+                                Research
+                                    Jul 2015
+                            Mean field games for Traffic Modeling. This is a preprint of a paper under review for IEEE Trans on Aut. Control.
+                                    Mar 2015
+                            After six consecutive years of declining motor vehicle crash-related fatalities, their number increased by 3.3 % in 2012, from 32,479 fatalities in 2011 to 33,561 in 2012 (USDOT NHTSA 2013). The number of traffic-related injuries saw a similar increase from 2.22 million in 2011 to 2.36 million in 2012; additionally, there was a 3.1 % increase in th...
+                              [Modeling and Estimation of the Vehicle-Miles Traveled Tax Rate Using Stochastic Differential Equations](https://www.researchgate.net/publication/283195304_Modeling_and_Estimation_of_the_Vehicle-Miles_Traveled_Tax_Rate_Using_Stochastic_Differential_Equations)
+                                    Jan 2015
+                                    Hongtao Yang
+                              [Geospatial Framework for Integration of Transportation Data Using Voronoi Diagrams](https://www.researchgate.net/publication/285599045_Geospatial_Framework_for_Integration_of_Transportation_Data_Using_Voronoi_Diagrams)
+                                    Jan 2013
+                                    Atul Sancheti
+                                    Romesh Khaddar
+                            This research aims at developing a framework for integration of transportation data using Voronoi diagrams. This data integration approach uses Voronoi diagram, for decomposition of the dataset spatially, into smaller Voronoi cells. This decomposition of the given space uses the spatial characteristics of the datasets and their correlation. A case...
+                              Cited
+                                              [Carlos Castillo-Chávez](profile/Carlos-Castillo-Chavez)
+                                                Arizona State University
+                                              [Alessandro Vespignani](profile/Alessandro-Vespignani)
+                                                Northeastern University
+                                              [Richard M Ryan](profile/Richard-Ryan-6)
+                                                Australian Catholic University
+                                              [Arch G. Woodside](profile/Arch-Woodside)
+                                                Boston College
+                                              [Arch George Woodside](profile/Arch-Woodside-2)
+                              Cited By
+                                              [Yangzhou Chen](profile/Yangzhou-Chen)
+                                                Beijing University of Technology
+                                              [Maria Petrescu](profile/Maria-Petrescu)
+                                                Embry–Riddle Aeronautical University
+                                              [Stanley Osher](profile/Stanley-Osher)
+                                                University of California, Los Angeles
+                                              [Alexandre M. Bayen](profile/Alexandre-Bayen)
+                                                University of California, Berkeley
+                                              [Yogesh Kumar Dwivedi](profile/Yogesh-Dwivedi-2)
+                                                Swansea University
+                Current institution
+                                    Orlando, United States
+                              Current position
+                                    Professor (Assistant)
+                            Urbanity Lab
+                Co-authors
+                      Top co-authors
+                                          Rutgers, The State University of New Jersey
+                                          California State University Los Angeles
+                          All co-authors (41)
+                                          Department
+                                                Department of Civil and Urban Engineering
+                                                Department of Electrical and Computer Engineering
+                                                Department of Management and Marketing
+                                                Department of Marketing and International Business
+                                                Department of Accounting
+                                                Department of Mathematics
+                                                Civil Engineering
+                                                School of Telematics
+                                                Department of Electrical Engineering and Computer Sciences
+                  Advertisement
+                          Join ResearchGate to find the people and research you need to help your work
+                              25+ million
+                              members
+                              160+ million
+                              publication pages
+                              2.3+ billion
+                              citations
+                        Loading...
+                    Lab members
+                    Current journal roles
+                        What type of researcher are you?
+                        Only verified researchers can join ResearchGate and send messages to other members.
+                                      Academic or student
+                                      University students and faculty, institute members, and independent researchers
+                                      Corporate, government, or NGO researcher
+                                      Technology or product developers, R&D specialists, and government or NGO employees in scientific roles
+                                      Medical
+                                      Health care professionals, including clinical researchers
+                                      Not a researcher
+                                      Journalists, citizen scientists, or anyone interested in reading and discovering research
+                      You may be eligible for a free account
+                          Sorry, you need to be a researcher to join ResearchGate.
+                          Due to our privacy policy, only current members can send messages to people on ResearchGate.
+                      Already a member?
+                            Back
+                            Close
+              or
+                Discover by subject area
+              [Recruit researchers](scientific-recruitment/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=indextop)
+                      Email
+                              Tip:
+                              Most researchers use their institutional email address as their ResearchGate login
+                      Password
+                      [Forgot password?](application.LostPassword.html)
+                      Keep me logged in
+                                Continue with Google
+                                  Welcome back! Please log in.
+                                          · Hint
+                                        No account?
+                                          [Sign up](signup.SignUp.html?hdrsu=1&_sg%5B0%5D=2rgZ3fg5zEVZOiYzegrTJP6ahofQfSxlX9bs3lz-kj_cV34aHd7EfC5XjMizczcJ7RWyUOyXktN7zZH_SFiR2okfOno)
+                Company
+                    [About us](about)
+                    [News](blog)
+                    [Careers](careers)
+                Support
+                    [Help Center](https://explore.researchgate.net/?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=helpcenter)
+                Business solutions
+                    [Advertising](https://www.researchgate.net/marketing-solutions?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=advertising)
+                    [Recruiting](scientific-recruitment?utm_source=researchgate&utm_medium=community-loggedout&utm_campaign=new-footer&utm_content=recruiting)
+            © 2008-2025 ResearchGate GmbH. All rights reserved.
+                [Terms](terms-of-service)
+                [Privacy](privacy-policy)
+                [Copyright](ip-policy)
+                [Imprint](imprint)

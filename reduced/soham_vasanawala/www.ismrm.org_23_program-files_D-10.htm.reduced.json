@@ -1,0 +1,445 @@
+{
+  "title": "ISMRM23 - Artefacts",
+  "meta_description": "",
+  "main_content": "ISMRM & ISMRT Annual Meeting & Exhibition \u2022 03-08 June 2023 \u2022 Toronto, ON, Canada Digital Poster Artefacts Back to Meeting Home Back to the Program-at-a-Glance Artefacts Digital Poster Acquisition & Analysis Tuesday, 06 June 2023 Exhibition Halls D/E 16:45 - 17:45 Session Number: D-10 No CME/CE Credit Computer # 3409. 1 Slice-by-slice Dynamic Shimming Based on a Chemical Shift-Encoded Acquisition to Improve Fat Suppression in DWI View Presentation Video Aidan Tollefson 1,2 , Gaohong Wu 3 , Patricia Lan 4 , Arnaud Guidon 5 , Rianne A Van Der Heijden 2 , Daiki Tamada 2 , Ali Pirasteh 1,2 , and Diego Hernando 1,2 1 Medical Physics, University of Wisconsin-Madison, Madison, WI, United States, 2 Radiology, University of Wisconsin-Madison, Madison, WI, United States, 3 GE Healthcare, Waukesha, WI, United States, 4 GE Healthcare, Menlo Park, CA, United States, 5 GE Healthcare, Boston, MA, United States Keywords: Artifacts, Fat B0 inhomogeneities can lead to failures in chemical shift-based fat suppression, particularly in complex susceptibility environments. Conventional volumetric shimming methods are frequently unable to compensate for these B0 inhomogeneities, which leads to residual fat signal and artifacts in various applications. We propose a slice-by-slice shimming method that relies on information (water-only image, fat-only image, B0 fieldmap) derived from a rapid chemical shift-encoded acquisition. This method demonstrated improved fat suppression in diffusion weighted imaging (DWI) of the upper leg and may lead to improved reliability in other applications. 3410. 2 Investigating the Impact of Motion and Associated B0 Changes on Oxygenation Sensitive MRI through Realistic Simulations View Presentation Video Hannah Eichhorn 1,2 , Kerstin Hammernik 3,4 , Samira M. Epp 5,6 , Dimitrios C. Karampinos 7 , Julia A. Schnabel 1,2,8 , and Christine Preibisch 9 1 Institute of Machine Learning in Biomedical Imaging, Helmholtz Center Munich, Munich, Germany, 2 TUM School of Computation, Information and Technology; and TUM Institute for Advanced Study, Technical University of Munich, Munich, Germany, 3 Lab for Artificial Intelligence in Healthcare and Medicine, Technical University of Munich, Munich, Germany, 4 Department of Computing, Imperial College London, London, United Kingdom, 5 Department of Neuroradiology, Neuroimaging Center, Technical University of Munich, Munich, Germany, 6 Graduate School of Systemic Neurosciences, Ludwig-Maximilians-University, Munich, Germany, 7 Department of Diagnostic and Interventional Radiology, School of Medicine, Technical University of Munich, Munich, Germany, 8 School of Biomedical Imaging and Imaging Sciences, King\u2019s College London, London, United Kingdom, 9 Department of Neuroradiology, School of Medicine, Technical University of Munich, Munich, Germany Keywords: Artifacts, Oxygenation, Motion Simulation T2*-weighted gradient echo imaging is strongly impacted by subject head motion, amongst others due to motion-related changes in B0 inhomogeneities. Within the oxygenation-sensitive mqBOLD protocol, motion artifacts in T2*-weighted images lead to errors in derived parameter maps. To quantify these errors, we performed realistic motion simulations incorporating rigid body transformations and motion-related field inhomogeneity changes. Our results demonstrate the importance of including B0 inhomogeneities for realistic motion artifact patterns. Even small amounts of simulated motion resulted in substantial errors in derived T2* and R2\u2019 parameter maps, which highlights the relevance of T2* motion correction within the mqBOLD technique. 3411. 3 Independent Component Analysis for Noise Removal in MR Fingerprinting View Presentation Video Emma L Thomson 1,2 , Claudia A M Gandini Wheeler-Kingshott 3,4,5 , and Geoff J M Parker 1,6,7 1 Centre for Medical Image Computing, Department of Medical Physics and Biomedical Engineering, University College London, London, United Kingdom, 2 UCL Queen Square Institute of Neurology, Faculty of Brain Sciences, London, United Kingdom, 3 NMR Research Unit, Queen Square MS Centre, Department of Neuroinflammation, London, United Kingdom, 4 Department of Brain & Behavioural Sciences, University of Pavia, Pavia, Italy, 5 Brain Connectivity Centre Research Department, IRCCS Mondino Foundation, Pavia, Italy, 6 NMR Research Unit, Queen Square MS Centre, Department of Neuroinflammation, UCL Queen Square Institute of Neurology, Faculty of Brain Sciences, London, United Kingdom, 7 Bioxydyn Limited, Manchester, United Kingdom Keywords: Artifacts, MR Fingerprinting We propose the use of independent component analysis for the removal of coherent noise sources prior to matching for magnetic resonance fingerprinting (MRF). We tested this technique for the removal of reconstruction artefacts on images acquired with a spiral k-space acquisition to quantify intravascular T 1 , extravascular T 1 , B 1 + , cerebral blood volume (\u03bd b ) and inter-vascular water exchange (1/\u03c4 b ). We demonstrate that removal of coherent noise sources in this way can improve the precision of measurements of parameters. 3412. 4 Signal gain by reduction of the concomitant phase in double diffusion encoding by means of added oscillating gradients View Presentation Video Julian Rauch 1,2 , Frederik B. Laun 3 , Dominik Ludwig 1 , Maxim Zaitsev 4 , Mark E. Ladd 1,2,5 , Peter Bachert 1,2 , and Tristan A. Kuder 1,2 1 Division of Medical Physics in Radiology, German Cancer Research Center (DKFZ), Heidelberg, Germany, 2 Faculty of Physics and Astronomy, Heidelberg University, Heidelberg, Germany, 3 University Hospital Erlangen, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany, 4 Medical Physics, Department of Radiology, Faculty of Medicine, Medical Center University of Freiburg, Freiburg, Germany, 5 Faculty of Medicine, Heidelberg University, Heidelberg, Germany Keywords: Artifacts, Artifacts Intravoxel dephasing generated by Maxwell or concomitant fields can cause image artifacts like signal voids or falsify the quantification. In this study, an optimization scheme to reduce concomitant field effects in diffusion sequences with single pairs of bipolar gradients on each axis is presented. Oscillating gradients are added onto the original gradient pulses with the aim of reducing the concomitant phase without significant changes in the sequence properties. The proposed method is evaluated in both measurements and simulations, and gives rise to a positive effect on the signal for arbitrary diffusion wave vector pairs. 3413. 5 Optimised navigator correction of physiological field fluctuations in multi-echo GRE of the lumbar spinal cord at 3T View Presentation Video Laura Beghini 1 , Gergely David 2,3 , Martina D. Liechti 3 , Silvan B\u00fceler 3 , and S. Johanna Vannesjo 1 1 Department of Physics, Norwegian University of Science and Technology, Trondheim, Norway, 2 Spinal Cord Injury Center, Balgrist University Hospital, University of Zurich, Zurich, Switzerland, 3 Dept. of Neuro-Urology, Balgrist University Hospital, University of Zurich, Zurich, Switzerland Keywords: Artifacts, Spinal Cord Multi-echo GRE sequences acquired in the spinal cord are sensitive to breathing-related field variations, leading to ghosting artifacts. While navigator-based corrections are often used in the brain to account for field variations, standard implementations often fail in the spinal cord due to the close proximity to the lungs. Here, we investigated optimised navigator corrections including a fast Fourier transform combined with region selection encompassing the spinal canal. Besides a visual improvement of image quality, the optimised navigator correction yielded statistically significant improvements in the CNR between WM and CSF and the SNR in the WM. 3414. 6 RF Interference Manifested Zipper Detection And Removal Using Channel Compression View Presentation Video Megha Goel 1 , Preetham Shankpal 1 , Suresh Emmanuel Joel 1 , Rajagopalan Sundareshan 1 , and Harsh Agarwal 1 1 GE Healthcare, Bengaluru, India Keywords: Artifacts, Image Reconstruction, Zipper-removal Zipper artifacts are commonly seen in MR images due to spurious radio-frequency signals or improper RF-shielding. Zipper-riddled images lose diagnostic value and are usually sent for rescan. Here, we attempt to mitigate zipper artifacts in the post-processing pipeline after scan has been acquired. We do this after channel combination technique has limited zipper appearance to 1-2 pseudo-channels, which we detect and remove from channel-combination process. We evaluated this on various brain contrasts and confirm reduction of zipper presence visually in the images. Given that zippers manifest as bright/dark discontinuous lines irrespective of the anatomy/contrast, the method should be generalizable. 3415. 7 Denoising of 7T MP2RAGE MRI with Preserving the Brain Signal View Presentation Video Kwan-Jin Jung 1 1 Biomedical Imaging Center, Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL, United States Keywords: Artifacts, High-Field MRI, MP2RAGE, 7T MP2RAGE requires denoising of the synthesized T1-weighted image. The conventional denoising method is to add a constant in the synthesis that alters the brain signal. This affects brain segmentation. A new denoising method has been developed to denoise it with preserving the brain signal. The new method estimates the bias field from two inversion images and sets the noise floors at the low and high noise levels in proportion to the bias field. The denoise weight is calculated at each voxel using the two noise floors. The proposed denoising method worked reliably with preserving the brain signal. 3416. 8 Effect of chemical shift displacement on Lipid Composition determination in localized 1H NMR Spectroscopy View Presentation Video Julian Mevenkamp 1,2 , Mijke Buitinga 1,2 , Pandichelvam Veeraiah 3,4 , and Vera B. Schrauwen-Hinderling 1,2,5 1 Nutrition & Movement Sciences, Maastricht University, Maastricht, Netherlands, 2 Radiology & Nuclear Medicine, Maastricht University Medical Center, Maastricht, Netherlands, 3 Scannexus, Maastricht, Netherlands, 4 Faculty of Health Medicine & Life Sciences, Maastricht University, Maastricht, Netherlands, 5 German Diabetes Center, D\u00fcsseldorf, Germany Keywords: Artifacts, Spectroscopy, Chemical Shift Displacement We showed that implementing prior knowledge about Chemical Shift Displacement Artifacts (CSDA) in localized MR-spectroscopy improves fit quality in the context of hepatic lipid composition measurements (LICO) performed with PRESS. Residuals of fitting PRESS spectra of peanut oil with CSDA prior knowledge show smaller residuals compared to assuming a purely Spin Echo based J-coupling evolution during the echo time. Furthermore, peanut oil LICO measured by PRESS and fitted with CSDA prior knowledge almost matched reference values determined by HR-NMR (PUFA HR-NMR = 23.5%, MUFA HR-NMR = 52.9%, SFA HR-NMR = 23.6% vs. PUFA CSDA = 21.57%, MUFA CSDA = 54.4%, SFA CSDA = 24.0%). 3417. 9 Isotropic sub-mm bSSFP imaging near metal at 0.55T View Presentation Video K\u00fcbra Keskin 1 , Nam G. Lee 2 , Jay Acharya 3 , and Krishna S. Nayak 1,2 1 Electrical and Computer Engineering, University of Southern California, Los Angeles, CA, United States, 2 Biomedical Engineering, University of Southern California, Los Angeles, CA, United States, 3 Radiology, University of Southern California, Los Angeles, CA, United States Keywords: Artifacts, Artifacts, Metal At conventional field strengths, the large magnetic susceptibility difference between metallic implants and surrounding tissues causes severe artifacts often requiring multi-spectral imaging. Recent low-field MRI systems offers new opportunities for imaging adjacent to metallic implants, including balanced SSFP. Here, we utilize phase-cycled bSTAR, a short-TR 3D dual-echo radial bSSFP sequence, for isotropic 3D banding artifact free imaging near metallic implants at 0.55T. We demonstrate diagnostic quality images in volunteers with wrist and spinal hardware with high SNR efficiency compared to TSE-based sequences. 3418. 10 Demonstration of motion-dependent magnetic field inhomogeneity in the kidneys and its retrospective correction for renal DWI View Presentation Video Nima Gilani 1 , Artem Mikheev 1 , Inge Manuela Brinkmann 2 , Dibash Basukala 1 , Thomas Benkert 3 , Malika Kumbella 1 , James S. Babb 1 , Hersh Chandarana 1 , and Eric E. Sigmund 1 1 Department of Radiology, NYU Langone Health, New York, NY, United States, 2 Siemens Medical Solutions USA Inc., New York, NY, United States, 3 Siemens Healthcare GmbH, Erlangen, Germany Keywords: Artifacts, Kidney, TOPUP, Field Inhomogeneity Echo planar imaging is highly affected by field map inhomogeneity distortion artifact. Field map inhomogeneity has shown to be motion dependent in the kidneys. In the present work, we propose an alternative method for correction of magnetic field inhomogeneity for renal DWI in respiratory-resolved fashion. Specifically, we collect a series of forward and reverse phase encoded b=0 images to sample kidney motion caused by breathing, map the spatial and respiratory phase dependence of the magnetic field inhomogeneity, and correct each image of free-breathing DWI series according to their respiratory phase. 3419. 11 Investigation of Susceptibility Gradient Artifacts in EPI at 7T View Presentation Video Chan Hong Moon 1 , Hoby Hetherington 2,3 , and Jullie W. Pan 2,4 1 MRRC, Department of Radiology, University of Pittsburgh, Pittsburgh, PA, United States, 2 NEXTGEN, Department of Radiology, University of Missouri, Columbia, MO, United States, 3 Resonance Research, Inc., Billerica, MA, United States, 4 University of Missouri, Columbia, MO, United States Keywords: Artifacts, High-Field MRI, EPI, 7T, Susceptibility, GRAPPA, Aliasing With the development of high-field 7T scanners, interest in high resolution neuroimaging for EPI-based functional and diffusion MRI has increased. However, EPI artifacts at 7T (spatial distortion and signal loss) increase compared to that seen at 3T due to increased B0 inhomogeneity. Furthermore, EPI artifacts become more significant and complicated when parallel imaging is used. As a result, 7T fMRI and DWI suffers from B0 inhomogeneity-induced aliasing as well as the more common EPI artifacts. In this study, the source of B0 inhomogeneity artifact in parallel imaging was investigated and methods to reduce these artifacts are proposed/tested at 7T. 3420. 12 Spatiotemporal B0 correction in Oscillating Steady State Imaging (OSSI) fMRI using Free Induction Decay Navigators (FIDnavs) View Presentation Video Mariama Salifu 1 , Douglas Noll 1 , and Melissa Haskell 2,3 1 Biomedical Engineering, University of Michigan, Ann Arbor, MI, United States, 2 Electrical Engineering, University of Michigan, Ann Arbor, MI, United States, 3 Hyperfine Research, Guilford, CT, United States Keywords: Artifacts, Shims, B0 correction Temporal field variations (e.g., physiological noise) in oscillating steady state imaging (OSSI) not only increases signal fluctuations as seen in GRE, but also alters signal characteristics that lead to inconsistent k-space acquisitions from TR to TR. This effectively reduces the overall functional contrast and temporal signal to noise ratio (tSNR). Here, we utilized free induction decay (FID) signal phase to estimate up to the first-order field inhomogeneity coefficients for prospective spatiotemporal B 0 field correction in OSSI. 3421. 13 EPI Nyquist Ghost Correction by Iteratively Enforcing Structural Low Rankness View Presentation Video Yilong Liu 1 , Mengye Lyu 2 , Yunlin Zhao 1 , Linfang Xiao 3 , and Ed X. Wu 4,5 1 Guangdong-Hongkong-Macau Institute of CNS Regeneration, Key Laboratory of CNS Regeneration (Ministry of Education), Jinan University, Guangzhou, China, 2 College of Health Science and Environmental Engineering, Shenzhen Technology University, Shenzhen, China, 3 Hangzhou Weiying Medical Technology Co., Ltd, Hangzhou, China, 4 Laboratory of Biomedical Imaging and Signal Processing, The University of Hong Kong, Hong Kong, China, 5 Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong, China Keywords: Artifacts, Artifacts, EPI, Nyquist ghost correction This study presents a Nyquist ghost correction method by iteratively enforcing low rankness of the block-wise Hankel matrix and updating the 1D linear model for phase correction. The proposed method was evaluated with multi-shot EPI data at both ultra-high field (7T) and low field (0.3T). Compared with existing SVD-based method, the proposed method requires much fewer iterations to achieve similar performance, provides a computationally efficient and robust solution to EPI Nyquist ghost correction. 3422. 14 Preclinical spiral imaging with a high-performance gradient insert: a comparison of trajectory correction methods View Presentation Video Hannah Scholten 1 , Tobias Wech 1 , Sascha K\u00f6hler 2 , and J\u00fcrgen E. Schneider 3 1 Department of Diagnostic and Interventional Radiology, University Hospital W\u00fcrzburg, W\u00fcrzburg, Germany, 2 Bruker BioSpin MRI GmbH, Ettlingen, Germany, 3 Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds, United Kingdom Keywords: Artifacts, System Imperfections: Measurement & Correction, GIRF, GSTF, LTI We compared three different trajectory correction methods in spiral phantom images on a preclinical 7T scanner with a high-performance gradient insert. The first was an isotropic delay-correction, the second a gradient correction based on the gradient system transfer function (GSTF), and the third employed measured trajectories. In both an axial and a double-oblique slice, the measured trajectory resulted in the best image quality, while the delay-corrected images suffered from halo effects and signal bleeding. The GSTF-corrected images only had minor remaining artifacts, stemming from trajectory deviations due to non-linearities in the gradient chain. 3423. 15 Cardiac T1 and T2 Mapping: The Importance of Rest Periods in Quantitative Tissue Property Mapping View Presentation Video Seth Garrett, B.S. 1 , Jesse Hamilton, Ph.D. 1 , and Nicole Seiberlich, Ph.D. 1 1 Michigan Medicine- Department of Radiology, University of Michigan, Ann Arbor, MI, United States Keywords: Artifacts, Cardiovascular The aim of this study is to assess whether the presence of rest periods in the form of breathhold commands affects T1 and T2 values measured in the myocardium using both clinically standard pulse sequences and cardiac Magnetic Resonance Fingerprinting (MRF). When mapping data are collected immediately following cine acquisitions, T1 maps from both MOLLI and MRF show significant errors, although T2 maps from both T2-prepared bSSFP and MRF are unaffected by the absence of a pause between sequences. 3424. 16 Predicting MR Image Quality from Breathing Patterns View Presentation Video Soham S Vasanawala 1 and John M Pauly 1 1 Electrical Engineering, Stanford University, Stanford, CA, United States Keywords: Artifacts, Motion Correction, abdomen, respiration Motion, particularly from breathing, compromises the quality of magnetic resonance images. In this work, we hypothesize that detected breathing patterns can be utilized to predict whether adequate MR image quality will be obtained. With a K-means clustering algorithm, 9 in 10 forty-second breathing waveforms were correctly predicted as either resulting in a high or low image quality image; this finding can save time from unnecessary scans. Other models achieved similar results as K-means clusterings. 3425. 17 Clinical evaluation of k-space correlation informed motion artifact detection in segmented multi-slice MRI View Presentation Video Ikbeom Jang 1,2 , Malte Hoffmann 1,2 , Nalini Singh 3,4 , Yael Balbastre 1 , Lina Chen 5 , Marcio Aloisio Bezerra Cavalcanti Rockenbach 5 , Adrian Dalca 1,2,3 , Iman Aganj 1,2 , Jayashree Kalpathy-Cramer 1,2 , Bruce Fischl 1,2,3,4 , and Robert Frost 1,2 1 Department of Radiology, Massachusetts General Hospital, Boston, MA, United States, 2 Department of Radiology, Harvard Medical School, Boston, MA, United States, 3 Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA, United States, 4 Harvard-MIT Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA, United States, 5 Data Science Office, Mass General Brigham, Boston, MA, United States Keywords: Artifacts, Artifacts, Motion artifact, Image Quality, Neuroimaging Motion artifacts can negatively impact diagnosis, patient experience, and radiology workflow especially when a patient recall is required. Detecting motion artifacts while the patient is still in the scanner could potentially improve workflow and reduce costs by enabling immediate corrective action. We demonstrate in a clinical k-space dataset that using cross-correlation between adjacent phase-encoding lines can detect motion artifacts directly from raw k-space in multi-shot multi-slice scans. We train a split-attention residual network to examine the performance in predicting motion artifact severity. The network is trained on simulated data and tested on real clinical data. 3426. 18 Large-scale simulation of rigid head motion artifacts in whole brain MRI data and the impact on automatic cortical segmentation View Presentation Video Hampus Olsson 1 , Jason Michael Millward 1,2 , Ludger Starke 1 , Tobias Klein 1 , Wenli Xu 1 , Sabrina Klix 1 , Christoph Lippert 3,4 , Thoralf Niendorf 1,2 , and Sonia Waiczies 1,2 1 Berlin Ultrahigh Field Facility (B.U.F.F.), Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association, Berlin, Germany, 2 Experimental and Clinical Research Center, a joint cooperation between the Charit\u00eb Medical Faculty and the Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association, Berlin, Germany, 3 Digital Health & Machine Learning Research Group, Hasso Plattnet Institut for Digital Engineering, Potsdam, Germany, 4 Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States Keywords: Artifacts, Artifacts MRI datasets from epidemiological studies such as the German National Cohort (GNC) are increasingly used in machine learning. These datasets show a lower prevalence of motion artifacts than encountered in clinical practice. We simulated realistic motion artifacts caused by rigid head motion on the GNC MR data (50 subjects) by modifying the TorchIO data augmentation framework. Five levels of artifact severity were simulated. We benchmarked our results to empirical measurements using the standard GNC MPRAGE imaging protocol. The robustness to motion of FreeSurfer and SynthSeg for cortical segmentation was investigated, indicating an improved performance using SynthSeg. 3427. 19 Streak Artifact Reduction using Convolutional Neural Network: Clinical Feasibility Study in Liver MR Imaging View Presentation Video Satoshi Funayama 1 , Shintaro Ichikawa 1 , Yukichi Tanahashi 1 , Takanobu Ikeda 1 , Koh Kubota 1 , Masaya Kutsuna 1 , and Satoshi Goshima 1 1 Hamamatsu University School of Medicine, Hamamatsu, Japan Keywords: Artifacts, Machine Learning/Artificial Intelligence, Liver, Motion Correction Radial sampling enables free free-breathing abdominal MR imaging. Meanwhile, while it suffers from streak artifacts. We propose streak artifact reduction using convolutional neural network (SARC) which utilize Hough domain. In Hough domain, a streak becomes like a dot which is more localized compared with image domain. The network was trained in end-to-end manner. The SARC was show better image quality in objective image quality metrics and visual evaluation by a radiologist. SARC showed feasibility for clinical MR imaging. 3428. 20 GDCNet: deep learning model for self-consistent geometric distortion correction of EPI images without a field map View Presentation Video Marina Manso Jimeno 1,2 , John Thomas Vaughan 1,2 , and Sairam Geethanath 2,3 1 Department of Biomedical Engineering, Columbia University, New York, NY, United States, 2 Columbia Magnetic Resonance Research Center, Columbia University, New York, NY, United States, 3 The Biomedical Engineering Institute (Department of Diagnostic, Molecular and Interventional Radiology), Icahn School of Medicine at Mount Sinai, New York, NY, United States Keywords: Artifacts, fMRI, Geometrid Distortion, B0 inhomogeneity GDCNet is a \u201cself-consistent\u201d deep learning (DL) model for distortion correction of EPI fMRI images and field map estimation. It only requires the EPI images for correction, saving acquisition time and avoiding motion-related correction errors. The two supervised U-Nets for forward modelling and distortion correction have been tested in silico and in vivo on a publicly-available and a prospectively-acquired dataset. The in silico models demonstrated generalization capabilities and achieved a mean RMSE of 2.56 x10 -2 as self-conistency metric. Inference in vivo showed modest correction in the prefrontal cortex and similar estimated field map compared to the acquired ground truth. Back to Meeting Home Back to the Program-at-a-Glance The International Society for Magnetic Resonance in Medicine is accredited by the Accreditation Council for Continuing Medical Education to provide continuing medical education for physicians.",
+  "links": [
+    {
+      "url": "https://www.ismrm.org/23m/",
+      "text": "Back to Meeting Home"
+    },
+    {
+      "url": "../23program.htm",
+      "text": "Back to the Program-at-a-Glance"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3409.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3409.html",
+      "text": "Slice-by-slice Dynamic Shimming Based on a Chemical \n\t\t\t\tShift-Encoded Acquisition to Improve Fat Suppression in DWI"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3409.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3410.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3410.html",
+      "text": "Investigating the Impact of Motion and Associated B0 Changes on \n\t\t\t\tOxygenation Sensitive MRI through Realistic Simulations"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3410.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3411.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3411.html",
+      "text": "Independent Component Analysis for Noise Removal in MR \n\t\t\t\tFingerprinting"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3411.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3412.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3412.html",
+      "text": "Signal gain by reduction of the concomitant phase in double \n\t\t\t\tdiffusion encoding by means of added oscillating gradients"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3412.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3413.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3413.html",
+      "text": "Optimised navigator correction of physiological field \n\t\t\t\tfluctuations in multi-echo GRE of the lumbar spinal cord at 3T"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3413.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3414.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3414.html",
+      "text": "RF Interference Manifested Zipper Detection And Removal Using \n\t\t\t\tChannel Compression"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3414.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3415.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3415.html",
+      "text": "Denoising of 7T MP2RAGE MRI with Preserving the Brain Signal"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3415.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3416.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3416.html",
+      "text": "Effect of chemical shift displacement on Lipid Composition \n\t\t\t\tdetermination in localized 1H NMR Spectroscopy"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3416.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3417.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3417.html",
+      "text": "Isotropic sub-mm bSSFP imaging near metal at 0.55T"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3417.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3418.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3418.html",
+      "text": "Demonstration of motion-dependent magnetic field inhomogeneity \n\t\t\t\tin the kidneys and its retrospective correction for renal DWI"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3418.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3419.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3419.html",
+      "text": "Investigation of Susceptibility Gradient Artifacts in EPI at 7T"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3419.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3420.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3420.html",
+      "text": "Spatiotemporal B0 correction in Oscillating Steady State Imaging \n\t\t\t\t(OSSI) fMRI using Free Induction Decay Navigators (FIDnavs)"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3420.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3421.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3421.html",
+      "text": "EPI Nyquist Ghost Correction by Iteratively Enforcing Structural \n\t\t\t\tLow Rankness"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3421.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3422.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3422.html",
+      "text": "Preclinical spiral imaging with a high-performance gradient \n\t\t\t\tinsert: a comparison of trajectory correction methods"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3422.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3423.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3423.html",
+      "text": "Cardiac T1 and T2 Mapping: The Importance of Rest Periods in \n\t\t\t\tQuantitative Tissue Property Mapping"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3423.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3424.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3424.html",
+      "text": "Predicting MR Image Quality from Breathing Patterns"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3424.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3425.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3425.html",
+      "text": "Clinical evaluation of k-space correlation informed motion \n\t\t\t\tartifact detection in segmented multi-slice MRI"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3425.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3426.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3426.html",
+      "text": "Large-scale simulation of rigid head motion artifacts in whole \n\t\t\t\tbrain MRI data and the impact on automatic cortical segmentation"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3426.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3427.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3427.html",
+      "text": "Streak Artifact Reduction using Convolutional Neural Network: \n\t\t\t\tClinical Feasibility Study in Liver MR Imaging"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3427.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3428.html",
+      "text": ""
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/abstracts/3428.html",
+      "text": "GDCNet: deep learning model for self-consistent geometric \n\t\t\t\tdistortion correction of EPI images without a field map"
+    },
+    {
+      "url": "https://cds.ismrm.org/protected/23MPresentations/videos/ISMRM2023_Video-3428.htm",
+      "text": "View Presentation Video"
+    },
+    {
+      "url": "https://www.ismrm.org/23m/",
+      "text": "Back to Meeting Home"
+    },
+    {
+      "url": "https://www.ismrm.org/23/23program.htm",
+      "text": "Back to the Program-at-a-Glance"
+    }
+  ],
+  "images": [
+    {
+      "src": "23m-Skinny-Banner.jpg",
+      "alt": "ISMRM & ISMRT Annual Meeting & Exhibition"
+    },
+    {
+      "src": "nav-2up.svg",
+      "alt": "Navigation: Back to Meeting Home"
+    },
+    {
+      "src": "nav-left.svg",
+      "alt": "Navigation: Back to Program-at-a-Glance"
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-000036_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-002545_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-003161_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-005462_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-005691_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-006242_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-002955_Fig4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-006853_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-007832_Fig2.gif",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-000180_Fig1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-004148_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-005892_Fig4.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-003126_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-003585_Fig4.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-000430_Fig2.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-002147_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-002960_Fig2.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-003110_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-005365_Fig1.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/program-files/images/ISMRM2023-007340_Fig3.png",
+      "alt": ""
+    },
+    {
+      "src": "play21.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ismrm.org/23/nav-back.svg",
+      "alt": "Navigation: Back to Meeting Home"
+    },
+    {
+      "src": "https://www.ismrm.org/23/nav-left.svg",
+      "alt": "Navigation: Back to Program-at-a-Glance"
+    }
+  ]
+}

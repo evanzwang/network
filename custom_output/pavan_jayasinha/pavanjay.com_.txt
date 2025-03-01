@@ -1,0 +1,87 @@
+          [Home](index.html)
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="newsletter.html">Newsletter</a></li>
+            </ul>
+      Comp eng @UWaterloo, invested in ML+QC
+      <div>
+                <h1>Me</h1>
+                <ul>
+                    <li><strong>Who I am: </strong>In a nutshell, I’m an abstract systems thinker with a powerful optimization engine.</li>
+                    <li><strong>What I value: </strong>I value truth above all and strive to best align to it across all domains of life.</li>
+                    <li><strong>Why I do what I do: </strong>I’m driven to develop an indelible skillset at the intersection of quantum computing and machine learning to increase the probability of making a meaningful contribution to push this field forwards!</li>
+                </ul>
+            </div>
+        Now
+          Robotics research under Prof Zelek @UWaterloo - implementing real-time SOTA visual SLAM algorithms
+          <li><b>New: </b> Was selected as a member of <a href="https://masason-foundation.org/en/">The Masason Foundation</a></li>
+                </ul>
+        Where I've worked
+            [Extropic AI](https://www.extropic.ai/)
+            (Jan - Dec, 2023)
+          -
+          Research Engineer Intern
+          Built the core codebase for the simulation of our analog thermodynamic-based AI hardware, laying the groundwork for subsequent R&D modelling and analysis initiatives.
+          Enhanced the training pipeline efficiency, achieving a 2-fold increase in speed through meticulous memory optimization and bottleneck profiling across 100+ GPU training runs
+          Created an internal state-of-the-art JAX library for tensor network simulation of quantum circuits on CUDA GPUs
+            [Untether AI](https://www.untether.ai/)
+            (Sept - Dec, 2022)
+          Compute Kernel Engineer Intern
+          Developed 3 custom kernels in C++ specialized for rapid neural network inference on the UntetherAI chip architecture.
+            [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/)
+            (Jan - Apr, 2022)
+          Research Intern
+          Researched a method to effectively realize Bose Hubbard Hamiltonian dynamics through Rydberg atom arrays.
+          Built infrastructure to run 100+ theoretical simulations under various experimental conditions and constraints.
+          Developed a python package for efficiently calculating sparse matrix exponentials using the Krylov Method.
+            [Zapata Computing](https://www.zapatacomputing.com/)
+            (Jun - Aug, 2021)
+          Quantum AI Intern
+          Researched more efficient training methods for quantum generative models.
+          Developed Orquestra codebase to enable effortless development of QGANs (quantum generative adversarial networks).
+        What I've done
+          May 2023 - Integrated Nvidia GPU compatibility into
+            [TensorFlow Quantum](https://www.tensorflow.org/quantum)
+            for large-scale speedups
+          Became the largest non-google open source contributor to TensorFlow Quantum
+          Implemented Bazel build infrastructure and cuQuantum SDK GPU kernels for quantum circuit simulation on heterogenous devices.
+          April 2022 - Authored article on quantum graph neural networks
+            [[article]](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425)
+          Wrote a deep dive into classical graph neural networks, graph convolutions & attention-based graph learning, and QML applied to high energy physics
+          Feb 2022 - Top 5 QHack 2022 Project
+            [[github]](https://github.com/Sinestro38/QHack-2022-Hackathon)
+          Improved a hybrid quantum graph neural network that was used to solve the particle trajectory reconstruction problem
+            [[link]](https://github.com/QTrkX/qtrkx-gnn-tracking/pull/3)
+            [Dec 2021 - Authored closing chapter in the Qiskit QML course [link]](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks)
+            [[blog]](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
+          As part of the Qiskit Advocate Mentorship Program, authored the chapter on QGANs for the newly released quantum machine learning course by IBM's Qiskit team
+            [June 2021 - Built a project applying
+                            quantum generative adverserial networks to learn sequential data [link]](https://github.com/Sinestro38/qosf-qgan)
+          Under the guidance of a research scientist from AWS
+                        Braket, built a hybrid quantum-classical version of the Wasserstein generative
+                        adversarial network.
+          Evaluated learnability of conditional QGANs for sequential data prediction
+          Investigated heuristics for optimal training of QGANs
+            [Feb 2021 - Quantum portfolio optimization project with QHack 2021 [link]](https://github.com/Sinestro38/quantum-portfolio-optimisation)
+          Used quantum generative adversarial networks for portfolio optimisation
+          We built an exploratory project applying qGANs and VQE to solve the mean-variance portfolio
+                        problem. This placed our team in the 95th percentile of participants in the
+            [QHack](https://qhack.ai/)
+            quantum machine learning hackathon winning over $4000 in
+                        AWS credits.
+            [Apr 2021 - Authored an overview of quantum generative adversarial networks
+                            [link]](https://pavanjayasinha.medium.com/quantum-generative-adversarial-networks-76243d1c6888)
+          Explained QGANs for quantum computing enthusiasts.
+          Derived the cost function and other mathematical properties stated in the original paper
+            [Feb 2021 - Generalized QAOA to solve the Max-Cut problem [link]](https://github.com/Sinestro38/Generalized-QAOA-to-solve-the-weighted-max-cut-problem)
+          Built a general quantum approximate optimization algorithm for solving weighted cases of the
+                        Max-Cut problem
+            [Mar 2021 - Developed an AI SMS-based text engine in a project partnered with UN Women
+                            [link]](https://docs.google.com/presentation/d/19dpdddZNXM4Hd5U0zMb3z0hoYEZAACy4JcrAsxok48w/edit?usp=sharing)
+          An alternative search engine that we’ve developed & trialed, allowing rural South Africans with
+                        a mobile phone to be able to send internet search queries & receive back summarized results all
+                        through SMS
+          Placed top 3 in challenge out of 150+ teams — project built as part of a TKS challenge w/ United Nations.
+            [Dec 2020 - Challenge project for Instacart [link]](https://drive.google.com/file/d/14-yUeLJIJjONIwyyZReTKoz33tANOPdU/view?usp=sharing)
+          Addressed customer experience holdbacks by providing an easy-to-implement solution filling data
+                        gaps in the Instacart to retailer to CGP pipeline.
+          Won first place in consulting challenge out of 30+ teams.

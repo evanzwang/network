@@ -1,0 +1,325 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+    Pause All Rotators
+  Begin comScore Tag
+  End comScore Tag
+      University of Pennsylvania Athletics
+            Main
+            ko if: false
+              [Baseball](/sports/baseball)
+              [Baseball: Facebook](https://www.facebook.com/pennathletics/)
+              [Baseball: Twitter](//twitter.com/PennBaseball)
+              [Baseball: Instagram](//instagram.com/penn_baseball)
+              [Baseball: Schedule](/sports/baseball/schedule)
+              [Baseball: Roster](/sports/baseball/roster)
+              [Baseball: News](/sports/baseball/archives)
+              [Basketball](/sports/mens-basketball)
+              [Basketball: Facebook](https://www.facebook.com/pennathletics/)
+              [Basketball: Twitter](//twitter.com/PennMBB)
+              [Basketball: Instagram](//instagram.com/PennMBB)
+              [Basketball: Schedule](/sports/mens-basketball/schedule)
+              [Basketball: Roster](/sports/mens-basketball/roster)
+              [Basketball: News](/sports/mens-basketball/archives)
+              [Cross Country](/sports/mens-cross-country)
+              [Cross Country: Facebook](https://www.facebook.com/PennTrackAndField/)
+              [Cross Country: Twitter](//twitter.com/PennTrack)
+              [Cross Country: Instagram](//instagram.com/PennTrack)
+              [Cross Country: Schedule](/sports/mens-cross-country/schedule)
+              [Cross Country: Roster](/sports/mens-cross-country/roster)
+              [Cross Country: News](/sports/mens-cross-country/archives)
+              [Fencing](/sports/mens-fencing)
+              [Fencing: Facebook](https://www.facebook.com/pennathletics/)
+              [Fencing: Twitter](//twitter.com/Penn_Fencing)
+              [Fencing: Instagram](//instagram.com/pennathletics)
+              [Fencing: Schedule](/sports/mens-fencing/schedule)
+              [Fencing: Roster](/sports/mens-fencing/roster)
+              [Fencing: News](/sports/mens-fencing/archives)
+              [Football](/sports/football)
+              [Football: Facebook](https://www.facebook.com/pennfootball)
+              [Football: Twitter](//twitter.com/PENNfb)
+              [Football: Instagram](//instagram.com/pennfootball)
+              [Football: Schedule](/sports/football/schedule)
+              [Football: Roster](/sports/football/roster)
+              [Football: News](/sports/football/archives)
+              [Sprint Football](/sports/sprint-football)
+              [Sprint Football: Facebook](https://www.facebook.com/pennathletics/)
+              [Sprint Football: Twitter](//twitter.com/PennSprintFB)
+              [Sprint Football: Instagram](//instagram.com/pennathletics)
+              [Sprint Football: Schedule](/sports/sprint-football/schedule)
+              [Sprint Football: Roster](/sports/sprint-football/roster)
+              [Sprint Football: News](/sports/sprint-football/archives)
+              [Golf](/sports/mens-golf)
+              [Golf: Facebook](https://www.facebook.com/Penn-Golf-160527033961845/)
+              [Golf: Twitter](//twitter.com/PennMensGolf)
+              [Golf: Instagram](//instagram.com/pennmensgolf)
+              [Golf: Schedule](/sports/mens-golf/schedule)
+              [Golf: Roster](/sports/mens-golf/roster)
+              [Golf: News](/sports/mens-golf/archives)
+              [Lacrosse](/sports/mens-lacrosse)
+              [Lacrosse: Facebook](https://www.facebook.com/PennMensLacrosse/)
+              [Lacrosse: Twitter](//twitter.com/PennMensLax)
+              [Lacrosse: Instagram](//instagram.com/PennMensLax)
+              [Lacrosse: Schedule](/sports/mens-lacrosse/schedule)
+              [Lacrosse: Roster](/sports/mens-lacrosse/roster)
+              [Lacrosse: News](/sports/mens-lacrosse/archives)
+              [Rowing (Heavy)](/sports/mens-rowing)
+              [Rowing (Heavy): Facebook](https://www.facebook.com/PennRowing/)
+              [Rowing (Heavy): Twitter](//twitter.com/pennhwtrowing)
+              [Rowing (Heavy): Instagram](//instagram.com/pennrowing)
+              [Rowing (Heavy): Schedule](/sports/mens-rowing/schedule)
+              [Rowing (Heavy): Roster](/sports/mens-rowing/roster)
+              [Rowing (Heavy): News](/sports/mens-rowing/archives)
+              [Rowing (Light)](/sports/mens-crew)
+              [Rowing (Light): Facebook](https://www.facebook.com/PennRowing/)
+              [Rowing (Light): Twitter](//twitter.com/Pennlwt)
+              [Rowing (Light): Instagram](//instagram.com/Penn_Lwt_Rowing)
+              [Rowing (Light): Schedule](/sports/mens-crew/schedule)
+              [Rowing (Light): Roster](/sports/mens-crew/roster)
+              [Rowing (Light): News](/sports/mens-crew/archives)
+              [Soccer](/sports/mens-soccer)
+              [Soccer: Facebook](https://www.facebook.com/PennSoccer/)
+              [Soccer: Twitter](//twitter.com/PennMSoccer)
+              [Soccer: Instagram](//instagram.com/pennmsoccer)
+              [Soccer: Schedule](/sports/mens-soccer/schedule)
+              [Soccer: Roster](/sports/mens-soccer/roster)
+              [Soccer: News](/sports/mens-soccer/archives)
+              [Squash](/sports/mens-squash)
+              [Squash: Facebook](https://www.facebook.com/groups/pennsquash/)
+              [Squash: Twitter](//twitter.com/PennSquash)
+              [Squash: Instagram](//instagram.com/PennSquash)
+              [Squash: Schedule](/sports/mens-squash/schedule)
+              [Squash: Roster](/sports/mens-squash/roster)
+              [Squash: News](/sports/mens-squash/archives)
+              [Swimming & Diving](/sports/mens-swimming-and-diving)
+              [Swimming & Diving: Facebook](https://www.facebook.com/pennathletics/)
+              [Swimming & Diving: Twitter](//twitter.com/PennSwimDive)
+              [Swimming & Diving: Instagram](//instagram.com/PennSwimDive)
+              [Swimming & Diving: Schedule](/sports/mens-swimming-and-diving/schedule)
+              [Swimming & Diving: Roster](/sports/mens-swimming-and-diving/roster)
+              [Swimming & Diving: News](/sports/mens-swimming-and-diving/archives)
+              [Tennis](/sports/mens-tennis)
+              [Tennis: Facebook](https://www.facebook.com/Pennmenstennis/)
+              [Tennis: Twitter](//twitter.com/PennMensTennis)
+              [Tennis: Instagram](//instagram.com/PennMensTennis)
+              [Tennis: Schedule](/sports/mens-tennis/schedule)
+              [Tennis: Roster](/sports/mens-tennis/roster)
+              [Tennis: News](/sports/mens-tennis/archives)
+              [Track & Field](/sports/mens-track-and-field)
+              [Track & Field: Facebook](https://www.facebook.com/PennTrackAndField/)
+              [Track & Field: Twitter](//twitter.com/PennTrack)
+              [Track & Field: Instagram](//instagram.com/PennTrack)
+              [Track & Field: Schedule](/sports/mens-track-and-field/schedule)
+              [Track & Field: Roster](/sports/mens-track-and-field/roster)
+              [Track & Field: News](/sports/mens-track-and-field/archives)
+              [Wrestling](/sports/wrestling)
+              [Wrestling: Facebook](https://www.facebook.com/PennWrestling/)
+              [Wrestling: Twitter](//twitter.com/PennWrestling)
+              [Wrestling: Instagram](//instagram.com/PennWrestling)
+              [Wrestling: Schedule](/sports/wrestling/schedule)
+              [Wrestling: Roster](/sports/wrestling/roster)
+              [Wrestling: News](/sports/wrestling/archives)
+              [Field Hockey](/sports/field-hockey)
+              [Field Hockey: Facebook](https://www.facebook.com/PennFieldHockey/)
+              [Field Hockey: Twitter](//twitter.com/PennFieldHockey)
+              [Field Hockey: Instagram](//instagram.com/PennFieldHockey)
+              [Field Hockey: Schedule](/sports/field-hockey/schedule)
+              [Field Hockey: Roster](/sports/field-hockey/roster)
+              [Field Hockey: News](/sports/field-hockey/archives)
+              [Gymnastics](/sports/womens-gymnastics)
+              [Gymnastics: Facebook](https://www.facebook.com/PennGymnastics/)
+              [Gymnastics: Twitter](//twitter.com/PennGym)
+              [Gymnastics: Instagram](//instagram.com/PennGym)
+              [Gymnastics: Schedule](/sports/womens-gymnastics/schedule)
+              [Gymnastics: Roster](/sports/womens-gymnastics/roster)
+              [Gymnastics: News](/sports/womens-gymnastics/archives)
+              [Rowing](/sports/womens-rowing)
+              [Rowing: Facebook](https://www.facebook.com/pennwomensrowing/)
+              [Rowing: Twitter](//twitter.com/PennWRowing)
+              [Rowing: Instagram](//instagram.com/pennwomensrowing)
+              [Rowing: Schedule](/sports/womens-rowing/schedule)
+              [Rowing: Roster](/sports/womens-rowing/roster)
+              [Rowing: News](/sports/womens-rowing/archives)
+              [Softball](/sports/softball)
+              [Softball: Facebook](https://www.facebook.com/pennsoftball/)
+              [Softball: Twitter](//twitter.com/Penn_Softball)
+              [Softball: Instagram](//instagram.com/penn_softball)
+              [Softball: Schedule](/sports/softball/schedule)
+              [Softball: Roster](/sports/softball/roster)
+              [Softball: News](/sports/softball/archives)
+              [Volleyball](/sports/womens-volleyball)
+              [Volleyball: Facebook](https://www.facebook.com/PennVolleyball/)
+              [Volleyball: Twitter](//twitter.com/PennVolleyball)
+              [Volleyball: Instagram](//instagram.com/PennVolleyball)
+              [Volleyball: Schedule](/sports/womens-volleyball/schedule)
+              [Volleyball: Roster](/sports/womens-volleyball/roster)
+              [Volleyball: News](/sports/womens-volleyball/archives)
+              [Buy Now](https://pennathletics.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=GS&linkID=upenn&shopperContext=&caller=&appCode=)
+              [<img src="/images/2023/8/8/SeatGeek_Black_Stacked_zSEoj.png" alt="SeatGeek_Stacked" style="height: 30px;"/>   SeatGeek: Buy or Sell Football Tickets](https://seatgeek.com/penn-quakers-football-1-tickets?aid=16110&pid=integration&rid=3&utm_medium=partnership&utm_source=upenn_sponsorship&utm_campaign=integration)
+              [Sign In To My Account](https://pennathletics.evenue.net/signin)
+              [Student & Student Guest Tickets](https://pennathletics.evenue.net/signin?uf=ST&continue=%2fcgi-bin%2fncommerce3%2fSEGetGroupList%3flinkID%3dupenn&groupCode=&RSRC=&shopperContext=ST&RDAT=_roster_Wrestling)
+              [Promotions & Theme Days](/sports/2024/9/15/promotions-theme-days.aspx)
+              [Subscribe to Emails](http://x.paciolanmail.com/ats/show.aspx?cr=973&fm=19&tp=)
+              [Men's Basketball](https://pennathletics.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=MB&linkID=upenn&shopperContext=&caller=&appCode=&path=mbball)
+              [Women's Basketball](https://pennathletics.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=WB&linkID=upenn&shopperContext=&caller=&appCode=&path=wbball)
+              [Men's Lacrosse](https://pennathletics.evenue.net/events/MLH?path=mlax)
+              [The Penn Relays](https://pennathletics.evenue.net/events/PRS)
+              [Other Events](/sports/2018/7/31/other-events.aspx)
+              [Facility Information](/sports/2019/5/8/penn-athletics-facilities.aspx)
+              [Franklin Field Stadium Policies](/sports/2019/5/10/penn-athletics-facilities-ff-policies-2.aspx)
+              [The Palestra Arena Policies](/sports/2020/3/16/penn-athletics-facilities-palestra-policies.aspx)
+              [Parking](https://cms.business-services.upenn.edu/transportation/live-maps/parking-map.html)
+              [Cathedral Classic](https://pennathletics.com/feature/cathedral-classic)
+              [Title IX Information](/sports/2018/4/18/title-ix-information)
+              [All-Sport Calendar](/calendar)
+              [Athletic Facility Schedules](/sports/2017/8/31/calendar-schedules.aspx)
+              [Athletics Staff Directory](/staff-directory)
+              [Internship Opportunities](https://pennathletics.com/sports/2023/3/27/penn-internships.aspx)
+              [Licensing & Merchandise](/sports/2016/7/1/_131485205260074156.aspx)
+              [Mission Statement](/sports/2016/7/1/_131485205269149153.aspx)
+              [Special Events and Facility Rentals](/sports/2018/12/7/pennathevents.aspx)
+              [Penn Campus Recreation](http://www.upenn.edu/recreation/)
+              [Penn Racquet Sports](https://pennracquetsports.com/)
+              [Sponsorship Information](/sports/2019/12/2/_131485204338080841.aspx)
+              [University of Pennsylvania](http://www.upenn.edu/)
+              [Virtual Tour](https://www.youvisit.com/tour/upenn/142408?loc=tour1:13:1:1)
+              [Community Service](/sports/2016/6/25/_131485206501990173.aspx)
+              [Young Quakers Community Athletics](https://www.nettercenter.upenn.edu/programs/young-quakers-community-athletics)
+              [Request a Mascot Appearance](/sb_output.aspx?form=6)
+              [Penn Champions Club](http://www.pennchampionsclub.com)
+              [Hall of Fame](/sports/2016/6/24/_131485207640405998.aspx)
+              [Power the Next 100](https://powerthenext100.pennathletics.com/)
+              [Camps & Clinics](/sports/2016/6/24/camps-and-clinics.aspx)
+              [Digital Fan Guide](/sports/2017/9/14/digital-fan-guide.aspx)
+              [E-Newsletter](http://x.paciolanmail.com/ats/show.aspx?cr=973&fm=19&tp=)
+              [Facilities](/sports/2019/5/8/penn-athletics-facilities.aspx)
+              [History & Traditions](/sports/2016/6/24/_131485207643959939.aspx)
+              [Penn Band](http://www.dolphin.upenn.edu/pennband/)
+              [Penn Cheer](/sports/cheerleading/roster/2022-23)
+              [Penn Rewards](/sports/2016/7/1/_131485205233938487.aspx)
+              [Photo Galleries](/galleries/)
+              [Podcasts](http://www.pennathletics.com/podcasts)
+              [QuakeZone](https://pennquakezone.com/)
+              [Visit Philadelphia](http://www.discoverphl.com/)
+              [Official Online Store](https://upenn.spirit.bncollege.com/?utm_campaign=bm-athletics_top_nav&utm_source=client_push&utm_medium=referral)
+              [Authentic Team Auction](/auctions/)
+              [ESPN+](http://www.espn.com/watch/espnplus/?om-navmethod=topnav)
+              [Penn Sports Network](https://www.youtube.com/user/PennSportsNetwork)
+              [Quaker Audio Network](https://portal.stretchinternet.com/pennaudio/)
+              [Compliance](/sports/2019/10/25/compliance.aspx)
+              [Pottruck Center For Student-Athlete Success](https://pennathletics.com/news/2024/10/17/welcome-to-the-center-for-student-athlete-success.aspx)
+              [Penn Athletics Wharton Leadership Academy](https://pennathletics.com/sports/2019/8/12/penn-athletics-wharton-leadership-academy.aspx)
+              [Penn Sports Performance](/sports/sportsperformance)
+              [Recruit Central](/sports/2016/6/25/_131485206386995163.aspx)
+              [Senior Student-Athlete Awards](/sports/2019/5/14/dria-senior-student-athlete-awards)
+              [Student-Athlete Grievance Policy](/documents/2024/8/27/DRIA_SA_Grievance_Policy___Procedures__8.1.24__1.pdf)
+              [What is NIL?](https://pennathletics.com/sports/2024/1/5/Penn%20Athletics%20NIL%20.aspx)
+              [How To Support](https://pennathletics.com/sports/2024/1/5/how-to-support-penn-student-athletes-through-nil.aspx)
+              [Penn-I-L Exchange](https://dash.inflcr.com/exchange/university-of-pennsylvania)
+              [Penn Athletics NIL Policy](https://pennathletics.com/documents/2023/1/24/Penn_-_NIL_Policy_2023.pdf)
+            /ko
+          ko ifnot: ko.observable().matchMedia("(min-width: 767px)")
+        Sport
+          [News](/sports/wrestling/archives)
+          [Schedule](/sports/wrestling/schedule)
+          [Roster](/sports/wrestling/roster)
+          [Statistics](/documents/2025/2/26/2024-25_Penn_Wrestling_Stats.pdf?path=wrestling)
+          [Mentor Program](/sports/2016/6/30/_131485205773254937)
+          2024-25 Wrestling Roster
+            Choose a Player:
+              Almeyda, Alex
+              Argueta, Aiden
+              Barak, Omer
+              Barnhart, Spencer
+              Bennett, Evan
+              Cofsky, Dana
+              Composto, CJ
+              Connolly, Andrew
+              Cosgrove, Martin
+              Cruise, Matthew
+              Dean, Jackson
+              Delsanter, Richard
+              Delsanter, Zach
+              Dunnigan, Kelly
+              Fullmer, Reed
+              Gallagher, Max
+              Gandy, Hunter
+              Hale, Maximus
+              Hauserman, Kyle
+              Incontrera, Nick
+              Karamanides, Petros
+              Kuokkanen, Xander
+              Labarbera, Josh
+              Mannella, Vincent
+              Mesaros, Lorelai
+              Miller, Ryan
+              Morales, Stefany
+              Mougalian, Evan
+              Nardone, Nico
+              Ognissanti , Paul
+              Pardo, John
+              Perez, Denzel
+              Pruett, Brady
+              Sement , Kaya
+              Shastri, Om
+              Spencer, Cole
+              Swisher, Jude
+              Taylor, Nate
+              Thomson, Adam
+              Troczynski, Andy
+              Vinciguerra, John
+              Wasilewski, Cross
+              Zimmerman, Jackson
+            Go
+                  Om
+                  Shastri
+                    Class
+                    Sophomore
+                    Hometown
+                    Los Gatos, Calif.
+                    Highschool
+                    Los Gatos
+            Biography
+              2023-24:
+              Posted a 0-6 overall record … Competed at the Keystone Classic (11/19), Patriot Open 12/3), and F&M Open (1/5).
+              High School
+              : Four-year member and captain for the varsity wrestling team at Los Gatos High School in Los Gatos, Calif … California State Qualifier … MidCals Bronze Medalist … CA World Challenge Champion, League, and District champion … Bay Area Student Athlete of the Year … Four-year high academic honors … former intern at NASA … US Army, CLA, and Ripple Ventures.
+              Personal
+              : Son of Medha and Parthesh Shastri … Enrolled in the Management and Technology Program at The Wharton School and The School of Engineering and Applied Sciences … Majoring in Computer Science, Finance, and Entrepreneurship.
+            Related Content
+              ko if: isLoading
+              ko ifnot: isLoading
+              ko if: stories().length === 0 && videos().length === 0 && photos().length === 0
+                There is no related content available.
+              ko if: stories().length > 0
+                Related Headlines
+                      ko if: image
+              ko if: pressclips().length > 0
+                Related Press Clips
+              ko if: videos().length > 0
+                Related Videos
+              ko if: photos().length > 0
+                Related Photos
+            Historical Player Information
+                        2023-24
+                        Freshman
+                    197/184
+                        2024-25
+                    Student Manager
+      Footer
+        © 2023 Penn Athletics
+          Report Accessability Issues & Get Help
+              [Terms of Service](http://sidearmsports.com/terms-of-service)
+                , opens in new window
+              [Privacy Policy](http://sidearmsports.com/privacypolicy)
+              [Accessibility](https://sidearmsports.com/accessibility-statement)
+                  Sidearm Sports, opens a new window
+    Polite Index Pop-up
+    Polite Index Pop-up Script
+          Ad Blocker Detected
+          Thanks for visiting
+          The use of software that blocks ads hinders our ability to serve you the content you came here to enjoy.
+          We ask that you consider turning off your ad blocker so we can deliver you the best experience possible while you are here.
+          Thank you for your support!
+      Close
+  BEGIN ControlTag for "Sidearm"
+  END ControlTag

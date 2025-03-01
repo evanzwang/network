@@ -1,0 +1,54 @@
+                  The Bake King
+                .entry-header
+                  Contact:
+                    [jade@bold-management.com](mailto:jade@bold-management.com)
+                  Ben Cullen aka ‘The Bake King’ is renowned as the UK’s most creative cake maker. He began his career as a graphic designer after studying Art & Design at Chester University, and then ventured into the world of tattooing before falling in love with baking and developing into a truly extraordinary artistic baker. Ben’s love of cake making came after being inspired by a design shown to him by a client he was tattooing. The Bake King was established in 2014 after Ben made his very first cake for his father. Since then The Bake King has won multiple awards including Gold at Cake International in 2015, 2016, 2017, 2018 & 2019. Ben was named one of the UK’s Top 10 Cake Artists at Cakemasters in 2019.
+                  Ben specialises in creating complicated and unbelievably life-like cakes for a myriad of brands, charities and celebrity clients. Ben’s career is growing from strength to strength as his work continues to stun millions on social media. Ben was one of the resident bakers on Channel 4’s hit show, Extreme Cake Makers.
+                  A young man covered from head to toe in tattoos is probably as far away from Mary Berry as it gets, but Ben’s work is making baking cool with a whole new generation.
+                .entry-content
+              #post-##
+            #main
+          #primary
+        .row
+      .container
+    #content
+        close .site-info
+    #colophon
+  #page
+  BEGIN PREVENT TOUCHSTART MISHAPS
+  END PREVENT TOUCHSTART MISHAPS
+  BEGIN JUMBO BUTTONS
+    BEGIN MAIN MENU BUTTON
+    END MAIN MENU BUTTON
+    BEGIN SECONDARY MENU BUTTON
+    END SECONDARY MENU BUTTON
+    BEGIN AUTHOR GRAVATAR
+    END AUTHOR GRAVATAR
+    BEGIN SECONDARY MENU
+    END SECONDARY MENU
+  END BEGIN JUMBO BUTTONS
+  BEGIN MAIN MENU BACKGROUND
+    BEGIN DOT OVERLAY
+    END DOT OVERLAY
+    BEGIN BACKGROUND IMAGE
+    END BACKGROUND IMAGE
+    BEGIN BACKGROUND COLOR
+    END BACKGROUND COLOR
+  END MAIN MENU BACKGROUND
+  BEGIN LOGO + MAIN MENU
+          BEGIN LOGO
+            BEGIN LOGO IMAGE
+            END LOGO IMAGE
+          END LOGO
+          BEGIN MENU
+                  TALENT
+                  ABOUT
+                  CONTACT
+          END MENU
+  END LOGO + MAIN MENU
+  BEGIN CUSTOM COLORS (WP THEME CUSTOMIZER)
+  END CUSTOM COLORS (WP THEME CUSTOMIZER)
+  Cookie Notice plugin v2.5.5 by Hu-manity.co https://hu-manity.co/
+      We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+        [Privacy policy](https://www.bold-management.com/home/privacy-policy/)
+  / Cookie Notice plugin

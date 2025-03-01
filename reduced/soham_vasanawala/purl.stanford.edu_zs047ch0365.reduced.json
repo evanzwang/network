@@ -1,0 +1,36 @@
+{
+  "title": "Convex neural networks | Stanford Digital Repository",
+  "meta_description": "Neural networks have made tremendous advancements in a variety of machine learning tasks across different fields. Typically, neural networks have relied on heuristically optimizing a non-convex obj...",
+  "main_content": "Convex neural networks Placeholder Show Content Show Content Abstract/Contents Abstract Neural networks have made tremendous advancements in a variety of machine learning tasks across different fields. Typically, neural networks have relied on heuristically optimizing a non-convex objective, raising doubts into their transparency, efficiency, and empirical performance. In this thesis, we show that a wide variety of neural network architectures are amenable to convex optimization, meaning that their non-convex objectives can be reformulated as convex optimization problems using semi-infinite dual formulations. We first show that for two-layer fully connected neural networks with ReLU activations, the optimization problem is convex and demonstrates a unique link to copositive programming, with a regularizer which promotes both sparsity in the number of activation patterns used in the network, and sparsity in the number of neurons that are active for each activation pattern. We show that this formulation admits closed-form solutions in certain data regimes, and use copositive programming to relax the problem into one that is polynomial-time in the problem dimensions for data matrices of a fixed rank. We show that solving the convex reformulation results in a better solution than that found by heuristic algorithms such as gradient descent applied to the original non-convex objective. In the rest of this thesis, we explore different neural network architectures and training regimes which pose new challenges to the convex optimization formulation. We show that for convolutional neural networks and transformer architectures, the optimization problem also admits a convex reformulation. We also show that for neural networks with batch normalization and generative adversarial networks, the same convex reformulation techniques can disentangle uninterpretable aspects of non-convex optimization and admit faster and more robust solutions to practical problems in the field. Finally, we show that these approaches can be scaled to deeper networks using a Burer-Monteiro factorization of the convex objective which maintains convex guarantees but allows for layerwise stacking convex sub-networks in a scalable fashion. Description Type of resource text Form electronic resource; remote; computer; online resource Extent 1 online resource. Place California Place [Stanford, California] Publisher [Stanford University] Copyright date 2023; \u00a92023 Publication date 2023; 2023 Issuance monographic Language English Creators/Contributors Author Sahiner, Arda Ege Degree supervisor Pauly, John Thesis advisor Pauly, John Thesis advisor Pilanci, Mert Thesis advisor Vasanawala, Shreyas Degree committee member Pilanci, Mert Degree committee member Vasanawala, Shreyas Associated with Stanford University, School of Engineering Associated with Stanford University, Department of Electrical Engineering Subjects Genre Theses Genre Text Bibliographic information Statement of responsibility Arda Sahiner. Note Submitted to the Department of Electrical Engineering. Thesis Thesis Ph.D. Stanford University 2023. Location https://purl.stanford.edu/zs047ch0365 Access conditions Copyright \u00a9 2023 by Arda Ege Sahiner License This work is licensed under a Creative Commons Attribution 3.0 Unported license (CC BY) . Versions Version 1 Oct 18, 2024 You are viewing this version | Copy URL Each version has a distinct URL, but you can use this PURL to access the latest version. https://purl.stanford.edu/zs047ch0365 Also listed in View in SearchWorks Loading usage metrics...",
+  "links": [
+    {
+      "url": "https://purl.stanford.edu/zs047ch0365",
+      "text": "Show Content"
+    },
+    {
+      "url": "https://embed.stanford.edu/iframe/?url=https%3A%2F%2Fpurl.stanford.edu%2Fzs047ch0365",
+      "text": "Show Content"
+    },
+    {
+      "url": "https://purl.stanford.edu/zs047ch0365",
+      "text": "https://purl.stanford.edu/zs047ch0365"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/3.0/legalcode",
+      "text": "Creative Commons Attribution 3.0 Unported license (CC BY)"
+    },
+    {
+      "url": "https://purl.stanford.edu/zs047ch0365/version/1",
+      "text": "Copy URL"
+    },
+    {
+      "url": "https://purl.stanford.edu/zs047ch0365",
+      "text": "https://purl.stanford.edu/zs047ch0365"
+    },
+    {
+      "url": "https://searchworks.stanford.edu/view/in00000001672",
+      "text": "View in SearchWorks"
+    }
+  ],
+  "images": []
+}

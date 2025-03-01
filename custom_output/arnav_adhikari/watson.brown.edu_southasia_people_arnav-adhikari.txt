@@ -1,0 +1,125 @@
+  skip link
+  outer shell
+    primary nav location for narrow screens
+    header area
+      branding
+      divbranding
+      tools
+        social media icons
+        search form
+        divsearch
+      divtools
+    divheader
+    primary nav location for wide screens
+      primary navigation
+            [About](/southasia/about)
+                [Director's Message](/southasia/about/message)
+                [Contact & Directions](/southasia/about/contact)
+                [Annual Reports](/southasia/about/annual-reports)
+            [People](/southasia/people)
+                [Steering Committee](/southasia/people/steering-committee)
+                [Faculty Associates](/southasia/people/faculty)
+                [Visiting Scholars](/southasia/people/visiting-faculty)
+                [Fellows](/southasia/people/fellows)
+                    [Meera & Vikram Gandhi Fellows](/southasia/people/gandhi-fellows)
+                    [Summer Fellows](/southasia/people/fellows/summer)
+                    [Visiting Fellows](/southasia/people/fellows/visiting)
+                [Postdoctoral Associates](/southasia/people/postdocs)
+                [Graduate Students](/southasia/people/graduate-students)
+                [Affiliates](/southasia/node/1241)
+                [Jindal Distinguished Lecturers](/southasia/people/jindal-distinguished-lecturers)
+                [Staff](/southasia/people/staff)
+                [Artists in Residence](/southasia/people/artists-in-residence)
+            [Research](/southasia/research)
+                [Edited Series](/southasia/research/edited-series)
+                [Partners](/southasia/research/partners)
+                [Working Papers](/southasia/research/papers)
+            [For Students](/southasia/students)
+                [Concentration](/southasia/students)
+                    [Previous SAS Thesis](/southasia/node/876)
+                [Course Listing](/southasia/students/course-listing)
+                [Languages](/southasia/students/languages)
+                [Study Abroad](/southasia/students/study-abroad)
+                [Opportunities](https://watson.brown.edu/southasia/opportunities)
+                [Student Groups](/southasia/students/groups)
+                [Fellowship](/southasia/students/fellowship)
+                    [Fellowship Recipients](/southasia/students/fellowship/fellowship-recipients)
+                        [2024](/southasia/students/fellowship/fellowship-recipients/2024)
+                [Prizes](/southasia/students/prizes)
+                    [Prize Recipients](/southasia/students/prizes/prize-recipients)
+                        [2018](/southasia/students/prizes/prize-recipients/2018)
+                        [2019](/southasia/students/prizes/prize-recipients/2019)
+                        [2020](/southasia/students/prizes/prize-recipients/2020)
+                        [2021](/southasia/students/prizes/prize-recipients/2021)
+                        [2022](/southasia/students/prizes/prize-recipients/2022)
+                        [2023](/southasia/students/prizes/prize-recipients/2023)
+            [News](/southasia/news)
+                    [2017](/southasia/news/2017)
+                    [2016](/southasia/news/2016)
+                    [2015](/southasia/news/2015)
+                    [2014](/southasia/news/2014)
+                    [2013](/southasia/news/2013)
+                    [2012](/southasia/news/2012)
+                [Podcasts](/southasia/news/podcasts)
+                [Faculty Spotlight](/southasia/news/faculty-spotlight)
+            [Events](/southasia/events)
+                [Upcoming Events](/southasia/events)
+                [Seminar Series](/southasia/events/series)
+                [Event Archive](/southasia/node/1299)
+                [Webcasts](/southasia/events/webcasts)
+                [Co-sponsorship Requests (Undergraduate Hosted)](/southasia/node/852)
+                [Saxena Center Fellowship](/southasia/opportunities/fellowship)
+                    [Partner Organizations](/southasia/opportunities/ccsa-fellowship/partners)
+                    [Past Fellows](http://watson.brown.edu/southasia/people/fellows/summer)
+                [Winter Research Funding](/southasia/opportunities/winterfunding)
+                [Funding@Brown](/southasia/opportunities/funding-at-brown)
+                [External Funding](/southasia/opportunities/external-funding)
+            [Resources](/southasia/resources)
+                [Digital Collections](/southasia/resources/digital-collections)
+            [Home](/southasia/home)
+      divprimarynav
+    divprimarynavarea_wide
+    body area
+      pre-content area
+      divprecontent
+      column container
+        left sidebar column
+          default block template
+          secondary navigation
+          divsecondarynav
+        divleftsidebar
+        content column
+          page content
+                divpersonphoto
+                  Arnav Adhikari
+                  PhD Candidate in English
+                divpersoncontact
+              divphotobar
+              long information
+                Arnav's research interests lie at the intersections of postcolonial theory, global anglophone literature, and the relationship between image and text, with a particular emphasis on photography. In examining these connections, he also considers how first-person narratives might inform questions of authenticity and citizenship across the contemporary novel.
+              divmaincontent
+            node-868
+          divcontent
+        divcontentcolumn
+      divcolumns
+    divbody
+    footer area
+      footer navigation
+            [Share](http://www.addthis.com/bookmark.php?v=300&pubid=xa-51e87a8401290c09)
+            [Contact](/southasia/about/contact)
+      divfooternav
+      contact info
+          [SAXENA CENTER FOR CONTEMPORARY SOUTH ASIA](/clacs)
+          ,
+          [Watson Institute for International and Public Affairs](http://watson.brown.edu/)
+        111 Thayer Street
+        P +1 401 863 5059
+          [southasia@brown.edu](mailto:southasia@brown.edu)
+      divcontactinfo
+      © 2025 Watson Institute
+    divfooter
+  divoutershell
+  Google Code for Remarketing Tag
+  ------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-------------------------------------------------

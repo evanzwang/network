@@ -1,0 +1,112 @@
+{
+  "title": "Radostin Cholakov - ACL Anthology",
+  "meta_description": "",
+  "main_content": "Radostin Cholakov 2024 pdf bib abs Fast Matrix Multiplications for Lookup Table-Quantized LLM s Han Guo | William Brandon | Radostin Cholakov | Jonathan Ragan-Kelley | Eric P. Xing | Yoon Kim Findings of the Association for Computational Linguistics: EMNLP 2024 The deployment of large language models (LLMs) is often constrained by memory bandwidth, where the primary bottleneck is the cost of transferring model parameters from the GPU\u2019s global memory to its registers. When coupled with custom kernels that fuse the dequantization and matmul operations, weight-only quantization can thus enable faster inference by reducing the amount of memory movement. However, developing high-performance kernels for weight-quantized LLMs presents substantial challenges, especially when the weights are compressed to non-evenly-divisible bit widths (e.g., 3 bits) with non-uniform, lookup table (LUT) quantization. This paper describes FLUTE, a flexible lookup table engine for LUT-quantized LLMs, which uses offline restructuring of the quantized weight matrix to minimize bit manipulations associated with unpacking, and vectorization and duplication of the lookup table to mitigate shared memory bandwidth constraints. At batch sizes < 32 and quantization group size of 128 (typical in LLM inference), the FLUTE kernel can be 2-4x faster than existing GEMM kernels. As an application of FLUTE, we explore a simple extension to lookup table-based NormalFloat quantization and apply it to quantize LLaMA3 to various configurations, obtaining competitive quantization performance against strong baselines while obtaining an end-to-end throughput increase of 1.5 to 2 times. 2022 pdf bib Efficient Task-Oriented Dialogue Systems with Response Selection as an Auxiliary Task Radostin Cholakov | Todor Kolev Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022) Search Co-authors William Brandon 1 Han Guo 1 Yoon Kim 1 Todor Kolev 1 Jonathan Ragan-Kelley 1 show all... Eric Xing 1 Venues findings 1 icnlsp 1 Fix data",
+  "links": [
+    {
+      "url": "https://aclanthology.org/2024.findings-emnlp.724.pdf",
+      "text": "pdf"
+    },
+    {
+      "url": "/2024.findings-emnlp.724.bib",
+      "text": "bib"
+    },
+    {
+      "url": "/2024.findings-emnlp.724/",
+      "text": "Fast Matrix Multiplications for Lookup Table-Quantized LLMs"
+    },
+    {
+      "url": "/people/h/han-guo/",
+      "text": "Han Guo"
+    },
+    {
+      "url": "/people/w/william-brandon/",
+      "text": "William Brandon"
+    },
+    {
+      "url": "/people/r/radostin-cholakov/",
+      "text": "Radostin Cholakov"
+    },
+    {
+      "url": "/people/j/jonathan-ragan-kelley/",
+      "text": "Jonathan Ragan-Kelley"
+    },
+    {
+      "url": "/people/e/eric-xing/",
+      "text": "Eric P. Xing"
+    },
+    {
+      "url": "/people/y/yoon-kim/",
+      "text": "Yoon Kim"
+    },
+    {
+      "url": "/volumes/2024.findings-emnlp/",
+      "text": "Findings of the Association for Computational Linguistics: EMNLP 2024"
+    },
+    {
+      "url": "https://aclanthology.org/2022.icnlsp-1.2.pdf",
+      "text": "pdf"
+    },
+    {
+      "url": "/2022.icnlsp-1.2.bib",
+      "text": "bib"
+    },
+    {
+      "url": "/2022.icnlsp-1.2/",
+      "text": "Efficient Task-Oriented Dialogue Systems with Response Selection as an Auxiliary Task"
+    },
+    {
+      "url": "/people/r/radostin-cholakov/",
+      "text": "Radostin Cholakov"
+    },
+    {
+      "url": "/people/t/todor-kolev/",
+      "text": "Todor Kolev"
+    },
+    {
+      "url": "/volumes/2022.icnlsp-1/",
+      "text": "Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022)"
+    },
+    {
+      "url": "https://www.semanticscholar.org/search?q=Radostin+Cholakov",
+      "text": "Search"
+    },
+    {
+      "url": "/people/w/william-brandon/",
+      "text": "William Brandon"
+    },
+    {
+      "url": "/people/h/han-guo/",
+      "text": "Han Guo"
+    },
+    {
+      "url": "/people/y/yoon-kim/",
+      "text": "Yoon Kim"
+    },
+    {
+      "url": "/people/t/todor-kolev/",
+      "text": "Todor Kolev"
+    },
+    {
+      "url": "/people/j/jonathan-ragan-kelley/",
+      "text": "Jonathan Ragan-Kelley"
+    },
+    {
+      "url": "/people/e/eric-xing/",
+      "text": "Eric Xing"
+    },
+    {
+      "url": "/venues/findings/",
+      "text": "findings"
+    },
+    {
+      "url": "/venues/icnlsp/",
+      "text": "icnlsp"
+    },
+    {
+      "url": "https://github.com/acl-org/acl-anthology/issues/new?assignees=anthology-assist&labels=correction%2Cmetadata&projects=&template=02-name-correction.yml&title=Author+Page%3A+radostin-cholakov",
+      "text": "Fix data"
+    }
+  ],
+  "images": []
+}

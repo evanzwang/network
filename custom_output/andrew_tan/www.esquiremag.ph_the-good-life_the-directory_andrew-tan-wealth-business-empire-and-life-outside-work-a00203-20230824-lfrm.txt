@@ -1,0 +1,266 @@
+  End comScore Tag
+  endbuild
+  file includes and scripts required to be placed before the closing head tag
+  css file includes required to be placed before the closing head tag
+  javascript file includes required to be placed before the closing head tag
+  limit ads height
+  CHARTBEAT
+  Chartbeat POC
+  end of chartbeat poc
+  Branch.io SDK
+  survey script
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+  facebook initialization
+  GA HERE
+  cx HERE
+      esquire logo
+  from ncatfish includes.svg
+  [if lt IE 10]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]
+      SKINNING ADS
+                      [News](https://www.esquiremag.ph/politics/news?ref=nav_v2)
+                      [Movies & TV](https://www.esquiremag.ph/culture/movies-and-tv?ref=nav_v2)
+                      [Finance](https://www.esquiremag.ph/money?ref=nav_v2)
+                      [Videos](https://www.esquiremag.ph/tag/esquire-videos?ref=nav_v2)
+                      [Podcasts](https://www.esquiremag.ph/tag/esquire-podcast?ref=nav_v2)
+                      [Style](https://www.esquiremag.ph/style?ref=nav_v2)
+                      [Tech](https://www.esquiremag.ph/culture/tech?ref=nav_v2)
+                      [Longreads](https://www.esquiremag.ph/long-reads?ref=nav_v2)
+                      [History](https://www.esquiremag.ph/tag/history?ref=nav_v2)
+                        [CORNER OFFICE](https://www.esquiremag.ph/corner-office?ref=nav_primary)
+                  Search
+                  Menu
+                  Close
+                    [Explore](https://www.esquiremag.ph/explore?ref=nav_v2)
+          Standard Registration
+              Custom laststep content here
+                      [Fashion](https://www.esquiremag.ph/style/fashion?ref=nav_link)
+                      [Grooming](https://www.esquiremag.ph/style/grooming?ref=nav_link)
+                      [Watches](https://www.esquiremag.ph/style/watches?ref=nav_link)
+                    [The Good Life](https://www.esquiremag.ph/the-good-life?ref=nav_link)
+                      [Pursuits](https://www.esquiremag.ph/the-good-life/pursuits?ref=nav_link)
+                      [What She Wants](https://www.esquiremag.ph/the-good-life/what-she-wants?ref=nav_link)
+                      [Mavericks](https://www.esquiremag.ph/the-good-life/mavericks?ref=nav_link)
+                      [The Directory](https://www.esquiremag.ph/the-good-life/the-directory?ref=nav_link)
+                      [The Noble Man](https://www.esquiremag.ph/the-good-life/the-noble-man?ref=nav_link)
+                    [Culture](https://www.esquiremag.ph/culture?ref=nav_link)
+                      [Food & Drink](https://www.esquiremag.ph/culture/food-and-drink?ref=nav_link)
+                      [Arts & Entertainment](https://www.esquiremag.ph/culture/arts-and-entertainment?ref=nav_link)
+                      [Lifestyle](https://www.esquiremag.ph/culture/lifestyle?ref=nav_link)
+                      [Music](https://www.esquiremag.ph/culture/music?ref=nav_link)
+                      [Books & Art](https://www.esquiremag.ph/culture/books-and-art?ref=nav_link)
+                      [Design](https://www.esquiremag.ph/culture/design?ref=nav_link)
+                <li class="c-menu__item">
+                <div class="c-menu__main"> 
+                    <a href="https://www.esquiremag.ph/food-and-drink?ref=nav_link" title="Food &amp; Drink">Food &amp; Drink</a>
+                    <div class="b-icon is-md" js-subc="">
+                        <svg>
+                            <use xlink:href="#site-arrowdown"></use>
+                        </svg>
+                    </div>
+                </div>
+                <ul class="c-menu__subch">
+                    <li class="c-menu__item">
+                        <a href="https://www.esquiremag.ph/food-and-drink/food?ref=nav_link" title="Food">Food</a>
+                    </li>
+                    <li class="c-menu__item">
+                        <a href="https://www.esquiremag.ph/food-and-drink/drink?ref=nav_link" title="Drink">Drink</a>
+                    </li>
+                </ul>
+            </li>
+                    [Wheels](https://www.esquiremag.ph/wheels?ref=nav_link)
+                      [Cars](https://www.esquiremag.ph/wheels/cars?ref=nav_link)
+                      [Motorcycles](https://www.esquiremag.ph/wheels/motorcycles?ref=nav_link)
+                      [Drive](https://www.esquiremag.ph/wheels/drive?ref=nav_link)
+                    [Money](https://www.esquiremag.ph/money?ref=nav_link)
+                      [Industry](https://www.esquiremag.ph/money/industry?ref=nav_link)
+                      [Wealth](https://www.esquiremag.ph/money/wealth?ref=nav_link)
+                      [Capital](https://www.esquiremag.ph/money/capital?ref=nav_link)
+                      [Movers](https://www.esquiremag.ph/money/movers?ref=nav_link)
+                    [Long Reads](https://www.esquiremag.ph/long-reads?ref=nav_link)
+                      [Notes & Essays](https://www.esquiremag.ph/long-reads/notes-and-essays?ref=nav_link)
+                      [ESQ&A](https://www.esquiremag.ph/long-reads/esqa?ref=nav_link)
+                      [What I've Learned](https://www.esquiremag.ph/long-reads/what-ive-learned?ref=nav_link)
+                      [Fiction](https://www.esquiremag.ph/long-reads/fiction?ref=nav_link)
+                      [Features](https://www.esquiremag.ph/long-reads/features?ref=nav_link)
+                    [Life](https://www.esquiremag.ph/life?ref=nav_link)
+                      [Sports](https://www.esquiremag.ph/life/sports?ref=nav_link)
+                      [Health & Fitness](https://www.esquiremag.ph/life/health-and-fitness?ref=nav_link)
+                      [Women](https://www.esquiremag.ph/life/women?ref=nav_link)
+                      [Sex & Relationships](https://www.esquiremag.ph/life/sex-and-relationships?ref=nav_link)
+                      [Travel](https://www.esquiremag.ph/life/travel?ref=nav_link)
+                    [Politics](https://www.esquiremag.ph/politics?ref=nav_link)
+                      [Opinion](https://www.esquiremag.ph/politics/opinion?ref=nav_link)
+                    [COUPONS](https://coupons.esquiremag.ph?ref=nav_link)
+                    [MAHB 2021](https://www.esquiremag.ph/explore?ref=nav_link)
+                      [About Us](https://www.esquiremag.ph/about?ref=nav_link)
+                      [Terms of Use](https://www.esquiremag.ph/terms-of-use?ref=nav_link)
+                      [Privacy Policy](https://www.esquiremag.ph/privacy-policy?ref=nav_link)
+                    <li class="c-foot__lnks">
+                        <a href="https://www.esquiremag.ph/?ref=nav_link" title="Advertise">Advertise</a>
+                    </li>
+                    <li class="c-foot__lnks">
+                        <a href="https://www.esquiremag.ph/?ref=nav_link" title="Newsletter">Newsletter</a>
+                    </li>
+                    <li class="c-foot__lnks">
+                        <a href="https://www.esquiremag.ph/?ref=nav_link" title="Sitemap">Sitemap</a>
+                    </li>
+                    NPC Seal of Registration
+                    Esquire has been granted the NPC Seal of Registration in recognition of the successful registration of its DPO and DPS
+                  © 2025 EsquireMag.ph, All Rights Reserved
+          highlight
+        header
+          on click, remove this component, show results component
+              SUBMIT MY ANSWER
+              Total Votes:
+                12,184
+                  Share
+                  Tweet
+                  Retake this Poll
+              50%
+            Yes
+              20
+              Votes
+                88%
+            Results:
+            SHARE YOUR RESULTS
+            TAKE THIS POLL AGAIN
+        add survey-marker if lalagyan ng svg either correct or wrong
+        for when image is the choice add widget--quiz__trivia--image
+                  Retake this Quiz
+                  TAKE THIS QUIZ AGAIN
+                  Andrew Tan: Wealth, Business Empire, and Life Outside Work
+              The Chairman of the Alliance Global Group, Inc. and Megaworld Corporation, Tan has a rags-to-riches story unlike any other. Here's everything we know about Andrew Tan.
+                      By
+                        [Esquire Philippines](https://www.esquiremag.ph/author/esquire-philippines?ref=article_author)
+                        |
+                      Aug 24, 2023
+              IMAGE PHOTO: Louis Miguel A. Talao
+                Hubs Disclaimer
+                  Andrew Tan's success story is something straight out of a movie. As the son of Chinese immigrants, he has climbed all the way up the billionaire leaderboard to become what reports indicate the fifth richest person in the Philippines. He's one of the most admired entrepreneurs, too, and for good reason: his diligence and his vision.
+                  Tan was said to have only dreamed of opening his own grocery store. Suffice it to say, he's done so much more. Today, he's taken Megaworld Corporation from being a modest start-up to one of the leading residential and commercial real estate companies around, among its other achievements. Tan also chairs Alliance Global, a holding company whose interests expanded to food and beverage and gaming, most notably featuring the world's largest brandy company Emperador.
+                      Net worth: $2.5 billion (P142 billion)
+                      Age: 71
+                    Also read:
+                        The 14 Richest Billionaires in the Philippines in 2023
+                        Ramon Ang: Wealth, Business Empire, and Life Outside Work
+                    In His Youth
+                  Born in Quanzhou, Fujian Province back in 1952, Andrew Lim Tan's family moved from China to Hong Kong when he was just a kid. They were in search of greener pastures elsewhere. In Hong Kong, however, the family's life wasn't that much better because of the high cost of living. At the age of 16, Tan, together with his father and mother, moved to the Philippines. His dad worked at a transistor radio factory while his mother spent her days as a vendor at the time, and they wound up renting a small apartment in Sta. Cruz Manila.
+                  While attending the University of the East in Recto, he would work in the same factory as his father on a part-time basis. Those were difficult days for the future billionaire. The family struggled with money and Tan resorted to saving as much as he could outside the home. He walked to and from his school, ate bananacue for lunch, sold items, and even offered tutorial services to other students.
+                      ADVERTISEMENT - CONTINUE READING BELOW
+                  Tan would graduate with a Bachelor of Science in Business Administration degree, leaving the school as a cum laude in 1974. He would end up working for the late Taipan industrialist and banker Leonardo Ty. By 1977, he became a partner in a small home appliance business, and just two years later, he acquired a liquor factory. From there, he started to build his business empire.
+                  Andrew Tan's Business Empire
+                  In the aftermath of the EDSA People Power Revolution, Tan decided that he wanted to venture into real estate. In 1989, he established Megaworld Corporation, starting out with condominium projects. The '90s were a somewhat turbulent time for the nation and as with Tan's business. Nevertheless, Megaworld became a leading residential and commercial developer in the country.
+                  As CEO and Chairman of Megaworld, he would start introducing master-planned townships by the mid-'90s, with the arrival of Eastwood City in Quezon City. It was a game-changer for real estate, one where Tan's "live, work, play, learn" concept came to fruition. Eastwood City would be widely recognized as the first cyberpark in the country and would become the de facto birthplace of the business process outsourcing industry, as we now know it.
+                  Megaworld, too, was smooth sailing from there. Soon enough, Megaworld's townships would expand to the rest of the Philippines, integrating schools, commercial hubs, offices, and homes in close proximity to each other, spanning more than 4,000 hectares nationwide. The company was even voted Best-Managed Philippine Company by Finance Asia in 1999, 2001, 2004, and 2007.
+                  It was also in the mid-'90s that Tan founded Alliance Global Group, Inc. The conglomerate has its fingerprints in food and beverage, real estate, gaming, and quick-service restaurant businesses. Some of the businesses that are part of its portfolio include Resorts World Manila, Emperador Distillers, Inc., Megaworld, Empire East Land Holdings, Inc., Golden Arches Development Corp., Travelers International Hotel Group, Inc., and Suntrust Properties, Inc. Hotels like Richmond, Marriott, and Sheraton are under the Alliance Global umbrella, too.
+                      CONTINUE READING BELOW
+                  Tan has been honored with the Global Excellence Award by the International Chamber of Commerce Philippines and was also conferred the degree of Doctor of Humanities, Honoris Causa by UE. The self-made billionaire is even a recipient of the Order of Lakandula, rank of Bayani.
+                  Tan's Impact on Philippine Economy and Society
+                  As it stands, Megaworld's focus on the BPO sector has proved instrumental to the local industry's growth, generating more than a fifth of the 1.3 million jobs in the country. It has also invested about P350 billion to build townships across the Philippines over the next few years, adding to its already robust residential index. Numbers estimate that there are more than 1,000,000 people living in Megaworld townships across the nation.
+                  Tan has had a particular focus on tourism development, as well, noting that it is one of the Philippines and the region's biggest drivers. Megaworld International, for instance, is present in more than 60 countries, encompassing Europe, the Middle East, North America, and Asia Pacific.
+                  The tycoon established the non-profit arm of the Megaworld Group, Megaworld Foundation, in 1997. The foundation has provided scholarships and financial assistance to underprivileged students. Through its various initiatives, it has served more than 500 scholars across more than 20 universities.
+                  During the pandemic, Tan's conglomerate donated more than P600 million to front liners in the form of food, groceries, and more to workers in the healthcare, construction, and security industries.
+                  Outside the Boardroom
+                  The tycoon isn't a big hobbies guy, it seems. But he has said that he swims and goes to the gym in his spare time. It's mostly about creating value for stockholders for him.
+                  Tan is married to Katherine Tan, a philanthropist in her own right. She has always had an active role in the family's businesses, sitting as a board member for several of them. The couple have four kids together. Kevin, their eldest, currently sits as the CEO of Alliance Global Group, Inc. and Chief Strategy Officer of Megaworld. Meanwhile, their other son, Kendrick, serves as executive director of Emperador, Inc.
+                    MORE FROM ESQUIREMAG.PH
+                  -For GTM scroll article script trigger end article--
+                  sns widget + fb like
+                            (($shareParams['fbTotalCount'] != 0)?:'')
+                        <div class="fb-comment-anchor sns-item gtm-articleCommentB">
+                <div class="sns comment">
+                    <i class="icon icon-comment gtm-articleCommentB"></i>
+                    <span class="text">Comments</span>
+                </div>
+            </div>
+                    FB like bottom
+                    View More Articles About:
+                      [billionaires](https://www.esquiremag.ph/tag/billionaires?ref=article_tag)
+                      [profiles](https://www.esquiremag.ph/tag/profiles?ref=article_tag)
+                      [movers](https://www.esquiremag.ph/tag/movers?ref=article_tag)
+                      [the good life](https://www.esquiremag.ph/tag/the-good-life?ref=article_tag)
+                      [Andrew Tan](https://www.esquiremag.ph/tag/andrew-tan?ref=article_tag)
+                      [The Standard](https://www.esquiremag.ph/tag/the-standard?ref=article_tag)
+                      [team-00007](https://www.esquiremag.ph/tag/team-00007?ref=article_tag)
+                      [sc23](https://www.esquiremag.ph/tag/sc23?ref=article_tag)
+                      [philippines richest](https://www.esquiremag.ph/tag/philippines-richest?ref=article_tag)
+                      [the directory](https://www.esquiremag.ph/tag/the-directory?ref=article_tag)
+                      [core](https://www.esquiremag.ph/tag/core?ref=article_tag)
+                        About The Author
+                      View Other Articles From Esquire Philippines
+                    Get The Latest Updates From Esquire!
+                      Most
+                      Shared
+                            by
+                            author
+              sidebar
+                most money
+                    Esquire Money
+                most popular widget
+                    Most Popular
+                    Latest Feed
+                        [Robert Pattinson Talks](https://www.esquiremag.ph/culture/movies-and-tv/mickey-17-robbert-pattinson-a1057-20250301-lfrm)
+                          Mickey 17
+                          , and His Unique Sci-Fi Role
+                        [Maurice Lacroix’s New Aikon Chronograph is Inspired by an Icon from the ‘90s](https://www.esquiremag.ph/style/watches/maurice-lacroix-aikon-chronograph-a4703-20250301)
+                        [The Air Max DN8: Come and Go by Pink Bubbles](https://www.esquiremag.ph/style/fashion/the-air-max-dn8-come-and-go-by-pink-bubbles-src-esquireuk-a7787-20250301)
+                        [Suits for Every Occasion: Which One Should You Wear?](https://www.esquiremag.ph/style/fashion/suits-for-every-occasion-a7994-20250228-lfrm)
+                        [Miss Piggy is the Star in This Oris ProPilot X Timepiece](https://www.esquiremag.ph/style/watches/oris-miss-piggy-edition-a4703-20250228)
+                        [Fil-Am Billionaire Loida Nicolas-Lewis: ‘I’m Almost Giving Up on the Philippines’](https://www.esquiremag.ph/politics/news/loida-nicolas-lewis-philippine-politics-a2556-20250228)
+                from our partners
+                        [#InTheLoop](/fop?ref=fop_feed)
+                end from our partners
+                all elements inside this div are sticky
+                  Connect With Us
+          Read Next Widget
+          OMT Widget
+          Load Gallery
+          Root element of PhotoSwipe. Must have class pswp.
+              <button class="pswp__button pswp__button--close" onClick="closeMe();" title="Close (Esc)">
+              <div class="pswp__button pswp__button--thumbs" data-text="Back to Photos" data-defaulttext="All Photos" onclick="ajaxPhotos();">
+                  All Photos
+              <div class="pswp__button pswp__button--comments" data-text="Comments" data-defaulttext="Comments" onclick="ajaxComments();">
+                  Comments
+                  View As List
+            Background of PhotoSwipe.
+             It's a separate element, as animating opacity is faster than rgba().
+            Slides wrapper with overflow:hidden.
+              Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory.
+                don't modify these 3 pswp__item elements, data is added later on
+              Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.
+                  Controls are self-explanatory. Order can be changed.
+                  Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR
+                  element will get class pswp__preloader--active when preloader is running
+                <span class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+                    <svg class="icon-arrow-gallery">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#left-arrow"></use>
+                    </svg>
+                </span>
+                <span class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                    <svg class="icon-arrow-gallery">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#right-arrow"></use>
+                    </svg>
+                </span>
+          end gallery plugin
+                [MONEY](https://www.esquiremag.ph/money?ref=footer_sitemap)
+          © EsquireMag.ph, All Rights Reserved.
+              [Contact Us](https://www.esquiremag.ph/about?ref=footer_sitemap)
+              [Sitemap](https://www.esquiremag.ph/sitemap.html?ref=footer_sitemap)
+            <li>
+            <a href="http://www.summitnewsstand.com.ph/esquire-philippines" target="_blank">Subscribe</a>
+        </li>
+  from ncatfish ads.ncatfish
+  file includes and scripts required to be placed before the closing body tag
+  javascript file includes required to be placed before the closing body tag
+  from ncatfish includes.body.close.javascripts
+  OAID Replace
+  Start of notice banner
+      We use cookies to ensure you get the best experience on Esquiremag.ph. By continued use, you agree to our privacy policy and accept our use of such cookies. Find out more
+        [here](/privacy-policy)
+        .
+        I Agree
+        I Disagree
+  end of notice banner

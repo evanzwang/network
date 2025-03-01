@@ -1,0 +1,29 @@
+{
+  "title": "About me - Kaivu Hariharan",
+  "meta_description": "",
+  "main_content": "Kaivu Hariharan Trying to build things I can be proud of. Want to make machines learn, safely Follow Cambridge, Massachussetts Twitter Github Google Scholar ORCID Hi! I\u2019m a final year undergraduate in courses 18 and 6-4 (Mathematics and AI) at MIT. I\u2019ll be a masters student in the EECS department at MIT next year. I\u2019m interested in building safer, more robust AI systems. My Research I\u2019m interested in characterizing how ML systems behave, particularly in \u2018edge cases\u2019, such as on optimized or out-of-distribution inputs. I think this kind of understanding is particularly important for ensuring that models are safe and aligned. I\u2019m currently working on developing better measurements for understanding adversarial examples, particularly in the context of the Features not Bugs theory of adversarial examples, as well as statistical signatures of memorization. I\u2019m also interested in developing better safety evaluations for ML models, though I\u2019m yet to pursue this line of work. In the past, I\u2019ve worked on developing adversarial patches as debugging tools, and on mechanistic interpretability, both on toy models (Transformers trained on finite automata) and on LLMs (understanding competing objectives in Llama models).",
+  "links": [
+    {
+      "url": "https://twitter.com/kaivuhariharan",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://github.com/KaivuH",
+      "text": "Github"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=JXNx9pQAAAAJ&hl=en",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://orcid.org/0009-0007-9428-3716",
+      "text": "ORCID"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://kaivu.org/images/Profilepic.jpeg",
+      "alt": "Kaivu Hariharan"
+    }
+  ]
+}

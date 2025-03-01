@@ -1,0 +1,112 @@
+  Google Tag Manager (noscript)
+  End Google Tag Manager (noscript)
+  googleoff: anchor
+  [if lte IE 9 ]>
+  <div id="unsupported_browser_version" class="persistent_message alert-box alert">
+    <p>
+      We've detected that you are using an unsupported browser.  Please
+      <a href="http://browsehappy.com/">upgrade your browser</a>
+      to Internet Explorer 10 or higher.
+    </p>
+  </div>
+<![endif]
+  googleon: anchor
+                [Log in](https://secure.devpost.com/users/login?ref=top-nav-login)
+                  Sign up
+                Join a hackathon
+                        Devpost
+                        Participate in our public hackathons
+                      [Hackathons](https://devpost.com/hackathons)
+                      [Projects](https://devpost.com/software)
+                        Devpost for Teams
+                        Access your company's private hackathons
+                      [Login](https://devpost.team)
+                        Grow your developer ecosystem and promote your platform
+                      [Host a public hackathon](https://info.devpost.com/product/public-hackathons)
+                        Drive innovation, collaboration, and retention within your organization
+                      [Host an internal hackathon](https://info.devpost.com/product/devpost-for-teams)
+                      By use case
+                      [AI hackathons](https://info.devpost.com/product/ai-hackathons)
+                      [Customer hackathons](https://info.devpost.com/product/customer-hackathons)
+                      [Employee hackathons](https://info.devpost.com/product/devpost-for-teams)
+                      [Public hackathons](https://info.devpost.com/product/public-hackathons)
+                          Blog
+                          Insights into hackathon planning and participation
+                          Customer stories
+                          Inspiration from peers and other industry leaders
+                          Planning guides
+                          Best practices for planning online and in-person hackathons
+                          Webinars & events
+                          Upcoming events and on-demand recordings
+                          Help desk
+                          Common questions and support documentation
+              Timofey Obraztsov
+                (TimTimich6)
+                      [Website](https://github.com/TimTimich6)
+                      [GitHub](https://github.com/TimTimich6)
+                      Skills
+                          [react](https://devpost.com/software/built-with/react)
+                          [mongodb](https://devpost.com/software/built-with/mongodb)
+                          [rust](https://devpost.com/software/built-with/rust)
+                          [go](https://devpost.com/software/built-with/go)
+                          [typescript](https://devpost.com/software/built-with/typescript)
+                          [python](https://devpost.com/software/built-with/python)
+                          [machine-learning](https://devpost.com/software/built-with/machine-learning)
+                          [react-native](https://devpost.com/software/built-with/react-native)
+                          [swift](https://devpost.com/software/built-with/swift)
+                      Interests
+                        Design
+                        Education
+                        Enterprise
+                        Fintech
+                        Gaming
+                        Health
+                          [Machine Learning/AI](https://devpost.com/c/artificial-intelligence)
+                        Mobile
+                        Web
+                      7
+                      8
+                      6
+                    Achievements
+                    Followers
+                    Following
+                      15
+                    Likes
+                                Laila
+                                automating the web, so you can focus on what matters
+                          cache end
+                                Earthlytics
+                                Corporate sustainability made easy
+                                compatible.ai
+                                Building authentic connections through AI-enabled personality matching.
+                                CleanASF
+                                Clean and Rebeautify SF one piece of litter at a time
+                                Geoflare
+                                Empowering collaborative wildfire response with real-time strategy and action
+                                Mammo
+                                A comprehensive AI-driven application to give women more agency around their healthcare and wellbeing.
+                                EasyPC
+                                Your first stop when PC building, featuring a state-of-the-art PC-Parts AI refined and trained over valuable data.
+              [About](https://info.devpost.com/about)
+              [Careers](https://info.devpost.com/careers)
+              [Contact](https://info.devpost.com/contact)
+              [Help](https://help.devpost.com/)
+              [Browse hackathons](https://devpost.com/hackathons)
+              [Explore projects](https://devpost.com/software)
+              [Host a hackathon](https://info.devpost.com)
+              [Hackathon guides](https://info.devpost.com/guides)
+          Portfolio
+              [Your projects](https://devpost.com/portfolio/redirect?page=projects)
+              [Your hackathons](https://devpost.com/portfolio/redirect?page=hackathons)
+              [Settings](https://devpost.com/settings)
+          Connect
+                Twitter
+                Discord
+                Facebook
+                LinkedIn
+            © 2025 Devpost, Inc. All rights reserved.
+                [Community guidelines](https://info.devpost.com/legal/community-guidelines)
+                [Security](https://info.devpost.com/legal/security)
+                [CA notice](https://info.devpost.com/legal/california-consumer-privacy-act)
+                [Privacy policy](https://info.devpost.com/legal/privacy-policy)
+                [Terms of service](https://info.devpost.com/legal/terms-of-service)

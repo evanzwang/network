@@ -1,0 +1,36 @@
+{
+  "title": "Verilog",
+  "meta_description": "Verilog",
+  "main_content": "Table of contents Verilog Introduction Basics Syntax Modelsim Debugging Design Additional",
+  "links": [
+    {
+      "url": "/verilog/intro",
+      "text": "Introduction"
+    },
+    {
+      "url": "/verilog/basics",
+      "text": "Basics"
+    },
+    {
+      "url": "/verilog/syntax",
+      "text": "Syntax"
+    },
+    {
+      "url": "/verilog/modelsim",
+      "text": "Modelsim"
+    },
+    {
+      "url": "/verilog/debugging",
+      "text": "Debugging"
+    },
+    {
+      "url": "/verilog/design",
+      "text": "Design"
+    },
+    {
+      "url": "/verilog/additional",
+      "text": "Additional"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,77 @@
+{
+  "title": "MAIA - Initiatives",
+  "meta_description": "MIT AI Alignment (MAIA) initiatives page.",
+  "main_content": "Initiatives Current Projects Research by MAIA Members Current Projects Congressional Exhibition on Advanced AI (Feb 2025) MAIA members traveled to DC to showcase critical AI safety concerns at the Congressional Exhibition on Advanced AI, hosted by the Center for AI Policy (CAIP) and supported by Congressman Bill Foster. Our team demonstrated two key risks: automated phone-line attacks capable of mass social engineering, and strategic deception capabilities in advanced AI systems that pose significant alignment challenges. The exhibition provided congressional staffers with hands-on demonstrations of potential AI misuse scenarios. Learn more \u2192 Research by MAIA Members Robust Feature-Level Adversaries are Interpretability Tools Stephen Casper NeurIPS 2022 Adversarial Attacks Open Problems and Fundamental Limitations of RLHF Stephen Casper Tony Wang Eric J. Michaud RLHF Adversarial Policies Beat Superhuman Go AIs Tony Wang Adversarial Attacks The Quantization Model of Neural Scaling Eric J. Michaud Uzay Girit NeurIPS 2023 Scaling Laws Forbidden Facts: An Investigation of Competing Objectives in Llama-2 Tony Wang Kaivu Hariharan NeurIPS 2023 Mech Interp Red Teaming Deep Neural Networks with Feature Synthesis Tools Stephen Casper Kaivu Hariharan NeurIPS 2023 Adversarial Attacks Show more papers Back to Top In partnership with AISST maia-exec@mit.edu Accessibility",
+  "links": [
+    {
+      "url": "/initiatives/caip-exhibition",
+      "text": "Congressional Exhibition on Advanced AI (Feb 2025) MAIA members traveled to DC to showcase critical AI safety concerns at the Congressional Exhibition on Advanced AI, hosted by the Center for AI Policy (CAIP) and supported by Congressman Bill Foster. Our team demonstrated two key risks: automated phone-line attacks capable of mass social engineering, and strategic deception capabilities in advanced AI systems that pose significant alignment challenges. The exhibition provided congressional staffers with hands-on demonstrations of potential AI misuse scenarios. Learn more \u2192"
+    },
+    {
+      "url": "https://arxiv.org/abs/2110.03605",
+      "text": "Robust Feature-Level Adversaries are Interpretability Tools Stephen Casper NeurIPS 2022Adversarial Attacks"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.15217",
+      "text": "Open Problems and Fundamental Limitations of RLHF Stephen CasperTony WangEric J. Michaud RLHF"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.00241.pdf",
+      "text": "Adversarial Policies Beat Superhuman Go AIs Tony Wang Adversarial Attacks"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.13506",
+      "text": "The Quantization Model of Neural Scaling Eric J. MichaudUzay Girit NeurIPS 2023Scaling Laws"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2312.08793.pdf",
+      "text": "Forbidden Facts: An Investigation of Competing Objectives in Llama-2 Tony WangKaivu Hariharan NeurIPS 2023Mech Interp"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2302.10894.pdf",
+      "text": "Red Teaming Deep Neural Networks with Feature Synthesis Tools Stephen CasperKaivu Hariharan NeurIPS 2023Adversarial Attacks"
+    },
+    {
+      "url": "http://haist.ai",
+      "text": "AISST"
+    },
+    {
+      "url": "mailto:maia-exec@mit.edu",
+      "text": "maia-exec@mit.edu"
+    },
+    {
+      "url": "https://accessibility.mit.edu/",
+      "text": "Accessibility"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/initiatives/caip-exhibition/intro-panorama.jpeg",
+      "alt": "Congressional Exhibition on Advanced AI (Feb 2025)"
+    },
+    {
+      "src": "/images/papers/robust-feature-level-adv.png",
+      "alt": "Research Paper 1"
+    },
+    {
+      "src": "/images/papers/fundamental-limits-of-rlhf.png",
+      "alt": "Research Paper 2"
+    },
+    {
+      "src": "/images/papers/adversarial-policies-go.png",
+      "alt": "Research Paper 3"
+    },
+    {
+      "src": "/images/papers/quantization-model.png",
+      "alt": "Research Paper 4"
+    },
+    {
+      "src": "/images/papers/forbidden-facts.png",
+      "alt": "Research Paper 5"
+    },
+    {
+      "src": "/images/papers/red-teaming-feature-synth.png",
+      "alt": "Research Paper 6"
+    }
+  ]
+}

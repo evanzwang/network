@@ -1,0 +1,315 @@
+        Navigation Menu
+          Toggle navigation
+              [Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2FMITIBMxGraph%2FRevTrack)
+                    Product
+                                  GitHub Copilot
+                                  Write better code with AI
+                                  Security
+                                  Find and fix vulnerabilities
+                                  Actions
+                                  Automate any workflow
+                                  Codespaces
+                                  Instant dev environments
+                                  Issues
+                                  Plan and track work
+                                  Code Review
+                                  Manage code changes
+                                  Discussions
+                                  Collaborate outside of code
+                                  Code Search
+                                  Find more, search less
+                          Explore
+                              [All features](https://github.com/features)
+                              [Documentation](https://docs.github.com)
+                              [GitHub Skills](https://skills.github.com)
+                              [Blog](https://github.blog)
+                    Solutions
+                          By company size
+                              [Enterprises](https://github.com/enterprise)
+                              [Small and medium teams](https://github.com/team)
+                              [Startups](https://github.com/enterprise/startups)
+                              [Nonprofits](/solutions/industry/nonprofits)
+                          By use case
+                              [DevSecOps](/solutions/use-case/devsecops)
+                              [DevOps](/solutions/use-case/devops)
+                              [CI/CD](/solutions/use-case/ci-cd)
+                              [View all use cases](/solutions/use-case)
+                          By industry
+                              [Healthcare](/solutions/industry/healthcare)
+                              [Financial services](/solutions/industry/financial-services)
+                              [Manufacturing](/solutions/industry/manufacturing)
+                              [Government](/solutions/industry/government)
+                              [View all industries](/solutions/industry)
+                        [View all solutions](/solutions)
+                    Resources
+                          Topics
+                              [AI](/resources/articles/ai)
+                              [Software Development](/resources/articles/software-development)
+                              [View all](/resources/articles)
+                              [Learning Pathways](https://resources.github.com/learn/pathways)
+                              [Events & Webinars](https://resources.github.com)
+                              [Ebooks & Whitepapers](https://github.com/resources/whitepapers)
+                              [Customer Stories](https://github.com/customer-stories)
+                              [Partners](https://partner.github.com)
+                              [Executive Insights](https://github.com/solutions/executive-insights)
+                    Open Source
+                                  GitHub Sponsors
+                                  Fund open source developers
+                                  The ReadME Project
+                                  GitHub community articles
+                          Repositories
+                              [Trending](https://github.com/trending)
+                              [Collections](https://github.com/collections)
+                    Enterprise
+                                  Enterprise platform
+                                  AI-powered developer platform
+                          Available add-ons
+                                  Advanced Security
+                                  Enterprise-grade security features
+                                  Enterprise-grade AI features
+                                  Premium Support
+                                  Enterprise-grade 24/7 support
+                    [Pricing](https://github.com/pricing)
+                      Search or jump to...
+                        Search code, repositories, users, issues, pull requests...
+                              '"`
+                              </textarea></xmp>
+                                    Search
+                                      Clear
+                                [Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                              Provide feedback
+                              We read every piece of feedback, and take your input very seriously.
+                              Include my email address so I can be contacted
+                          Cancel
+                          Submit feedback
+                                Saved searches
+                                Use saved searches to filter your results more quickly
+                                    Name
+                                    Query
+                                  To see all available qualifiers, see our
+                                    [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+                                    .
+                            Create saved search
+                [Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MITIBMxGraph%2FRevTrack)
+                Reseting focus
+        You signed in with another tab or window.
+          to refresh your session.
+        You signed out in another tab or window.
+        You switched accounts on another tab or window.
+        Dismiss alert
+                    [MITIBMxGraph](/MITIBMxGraph)
+                  /
+                    [RevTrack](/MITIBMxGraph/RevTrack)
+                  Public
+                    You must be signed in to change notification settings
+                      1
+                        Star
+                        4
+                [ICAIF 2024 Oral] Official PyTorch Implementation of "Identifying Money Laundering Subgraphs on the Blockchain"
+                License
+                    stars
+                    fork
+                    Branches
+                    Tags
+                    Activity
+                    Code
+                    0
+                    Pull requests
+                    Projects
+                    Insights
+                    Additional navigation options
+              MITIBMxGraph/RevTrack
+                                    $
+                                    /$
+                                        Go to file
+                                Folders and files
+                                          Last commit message
+                                          Last commit date
+                                          Latest commit
+                                              History
+                                                    5 Commits
+                                                [.vscode](/MITIBMxGraph/RevTrack/tree/main/.vscode)
+                                                [algorithms](/MITIBMxGraph/RevTrack/tree/main/algorithms)
+                                                [checkpoints](/MITIBMxGraph/RevTrack/tree/main/checkpoints)
+                                                [configurations](/MITIBMxGraph/RevTrack/tree/main/configurations)
+                                                  data/
+                                                  elliptic/
+                                                  raw
+                                                [datasets](/MITIBMxGraph/RevTrack/tree/main/datasets)
+                                                [debug](/MITIBMxGraph/RevTrack/tree/main/debug)
+                                                [experiments](/MITIBMxGraph/RevTrack/tree/main/experiments)
+                                                [figures](/MITIBMxGraph/RevTrack/tree/main/figures)
+                                                [scripts](/MITIBMxGraph/RevTrack/tree/main/scripts)
+                                                [utils](/MITIBMxGraph/RevTrack/tree/main/utils)
+                                                [.gitignore](/MITIBMxGraph/RevTrack/blob/main/.gitignore)
+                                                [LICENSE](/MITIBMxGraph/RevTrack/blob/main/LICENSE)
+                                                [README.md](/MITIBMxGraph/RevTrack/blob/main/README.md)
+                                                [main.py](/MITIBMxGraph/RevTrack/blob/main/main.py)
+                                                [requirements.txt](/MITIBMxGraph/RevTrack/blob/main/requirements.txt)
+                                          View all files
+                                    Repository files navigation
+                                            README
+                                          : Identifying Money Laundering Subgraphs on the Blockchain
+                                      Kiwhan Song
+                                        *
+                                        · 
+    Mohamed Ali Dhraief
+                                        · 
+    Muhua Xu
+                                        ICAIF 2024 Oral
+                                          [Paper](https://arxiv.org/abs/2410.08394)
+                                          |
+                                          [Pretrained Models](https://github.com/MITIBMxGraph/RevTrack/tree/main/checkpoints/RevTrack)
+                                      This is the official repository for the paper
+                                            Identifying Money Laundering Subgraphs on the Blockchain
+                                        . We provide the code for
+                                        ,
+                                        RevClassify
+                                        , and
+                                        RevFilter
+                                        , together with the code for the experiments in the paper and model checkpoints. See the instructions below.
+                                        Setup
+                                        Requirements
+                                        Create a new conda environment and install the required packages
+                                        :
+                                        conda create python=3.10 -n revtrack
+conda activate revtrack
+pip install -r requirements.txt
+                                        Wandb
+                                      We use
+                                          [Weights & Biases](https://wandb.ai/site)
+                                        for logging and checkpointing. Sign up for a wandb account, run
+                                        wandb login
+                                        to login, and modify the wandb entity and project in
+                                        configurations/config.yaml
+                                        to your wandb account and desired project name.
+                                        Dataset
+                                      The original
+                                        [Elliptic2](https://arxiv.org/abs/2404.19109)
+                                        dataset is available
+                                        [here](https://www.kaggle.com/datasets/ellipticco/elliptic2-data-set)
+                                        . For the convenience of the users,
+                                        we provide a preprocessed version of the dataset placed in the
+                                          data/elliptic/raw
+                                          directory
+                                        . However, we serve node embeddings separately on
+                                        [Google Drive](https://drive.google.com/file/d/1UBLRxiEg0SK_sWoOWe-55nLOniV9I4HX/view?usp=sharing)
+                                        due to its large size.
+                                        Please download the node embedding file (
+                                          raw_emb.pt
+                                          ) and place it in the
+                                        Pre-trained Model Checkpoints
+                                        All model checkpoints are located in the
+                                        . For RevTrack (DS variant), we provide three models each for both finetuned and non-finetuned versions. We also provide three models for each baseline (MLP, NGCF, LightGCN) in the subgraph recommendation task.
+                                        Reproducing Experiments
+                                      For running all the experiments in the paper, we use
+                                        [wandb sweeps](https://docs.wandb.ai/guides/sweeps/)
+                                        , which allows us to search over hyperparameters, or run a set of experiments with different seeds or settings. We used a single V100 GPU for all experiments in the paper.
+                                        For all the experiments, we provide a yaml configuration file in the
+                                          configurations/sweep
+                                          directory. You can run it using the following command
+                                            #
+                                            Initialize your sweep:
+                                          wandb sweep --project
+                                          <
+                                          project
+                                          >
+                                          --entity
+                                          entity
+                                          path_to_yaml_file
+                                            Your terminal will output a sweep ID.
+                                            Run the sweep by launching the sweep agent:
+                                          wandb agent
+                                          sweep_id
+                                            (Launch on multiple terminals to parallelize, if you want)
+                                        Note that the YAML files reference our pre-trained model checkpoints in the
+                                          directory. If you want to evaluate your own checkpoints, you can modify the
+                                          parameters.load.values
+                                          field in the YAML files.
+                                        is an algorithm that identifies potential senders and receivers of each subgraph. The provided dataset is already preprocessed using
+                                        , as mentioned above. We will also share the RevTrack preprocessing code soon.
+                                        RevClassify (Subgraph Classification)
+                                      We have two variants of
+                                          BP
+                                        and
+                                          DS
+                                        . Test metrics are logged as
+                                        final_test/f1
+                                        final_test/prauc
+                                              Task
+                                              variant
+                                              Sweep YAML File
+                                              Hyperparameter Tuning
+                                                configurations/sweep/subgraph_classification/tuning/BP.yaml
+                                                configurations/sweep/subgraph_classification/tuning/DS.yaml
+                                              Subgraph Classification (Full-shot)
+                                                configurations/sweep/subgraph_classification/full_shot/BP.yaml
+                                                configurations/sweep/subgraph_classification/full_shot/DS.yaml
+                                              Subgraph Classification (Few-shot)
+                                                configurations/sweep/subgraph_classification/few_shot/BP.yaml
+                                                configurations/sweep/subgraph_classification/few_shot/DS.yaml
+                                        RevFilter (Subgraph Recommendation)
+                                      We have four experiments for evaluating
+                                        . Each experiment has a corresponding folder with sweep yaml files. The test metrics are logged as
+                                        final_test/HR
+                                        final_test/NDCG
+                                              Sweep YAML Files
+                                              Baseline comparison on multiple settings
+                                              Studying the impact of sparsity
+                                              Studying the impact of
+                                                $k$
+                                              Ablation study
+                                        RevFilter: Quick Commands for Training and Evaluation
+                                        Pre-training
+                                        python -m main +name=RevFilter_pretrain dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation
+                                            '
+                                            experiment.tasks=[training]
+                                          experiment.validation.test_during_training=False
+                                        Fine-tuning
+                                        python -m main +name=RevFilter_finetune dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation
+                                          experiment.training.early_stopping.enabled=False experiment.validation.test_during_training=False experiment.training.max_epochs=300 dataset.augment.enabled=True seed=0 load=
+                                          your_pretrained_wandb_id or checkpoints/RevTrack/0.ckpt
+                                        Evaluation
+                                        python -m main +name=RevFilter_eval dataset=elliptic_recommendation algorithm=iterative_filtering experiment=exp_edge_recommendation
+                                            experiment.tasks=[test]
+                                          experiment.test.batch_size=16 seed=0 load=
+                                          your_finetuned_wandb_id or checkpoints/RevTrack/0_tuned.ckpt
+                                          +shortcut=
+                                          your_setting
+                                            your_setting should be formatted as: a+b@k e.g., 10+1000@100
+                                        Acknowledgements
+                                        This research was sponsored by
+                                          [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
+                                        This repo is forked from
+                                          [Boyuan Chen](https://boyuan.space/)
+                                          's research template
+                                          [repo](https://github.com/buoyancy99/research-template)
+                                        By its MIT license, you must keep the above sentence in
+                                          and the
+                                          file to credit the author. By directly reading the template repo's
+                                          , you can learn how this repo is structured and how to use it.
+                              About
+                                  Custom properties
+                              Stars
+                              Watchers
+                                  2
+                                  watching
+                              Forks
+                                [Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FMITIBMxGraph%2FRevTrack&report=MITIBMxGraph+%28user%29)
+                              [Releases](/MITIBMxGraph/RevTrack/releases)
+                            No releases published
+                              [Packages](/orgs/MITIBMxGraph/packages?repo_name=RevTrack)
+                            No packages published
+                            Languages
+                                  Python
+                                  100.0%
+      Footer
+          © 2025 GitHub, Inc.
+          Footer navigation
+              [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+              [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+              [Status](https://www.githubstatus.com/)
+              [Docs](https://docs.github.com/)
+              [Contact](https://support.github.com?tags=dotcom-footer)
+                Manage cookies
+                Do not share my personal information

@@ -1,0 +1,36 @@
+{
+  "title": "HOPE Spring '22 Final Project Showcase - CalSol Sensors Board",
+  "meta_description": "",
+  "main_content": "Search this site Embedded Files Skip to main content Skip to navigation CalSol Sensors Board Sean Yang, Michael Jia, Parth Behani We've designed a board to take inputs from multiple sensors over and communicate them with a main vehicle computer via CAN. The data transmitted will be used by CalSol's 10th generation solar power vehicle, Excalibur, to make strategy decisions at race time. Onboard are sensors for humidity, temperature, pressure, an accelerometer, a thermopile sensor and a thermistor. MCU and Peripherals CAN interface (Left), Voltage Regulators (Right) Passives soldered by reflow ICs / Connectors hand soldered Report abuse Page details Page updated Report abuse",
+  "links": [],
+  "images": [
+    {
+      "src": "https://lh4.googleusercontent.com/CDI8Q6dYnqxrUfMiVFyQyi8__RXCvjr5MxyTngmVESxBLlSqMjYmo1cymA35ZEd7Hhe88BG7Ojo4C5NQo6MxO8HkGoVg6_20Pvjw8B-uhjfM5jmWvSUmltCIteQFoGDFvg=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/Znmjwq7abHl1amg4VPvE5yVW6suMtmn_MgvTWm-Fr6gQt_9jUaCoD_oznXXDxPzga1gngAR73Oj6mWa2CLBWkOb0GoHJzz6i79uPInw1xmQoPCz3V_j54kl4YoIRTfTLqw=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/bR9vAnB9mTjBG-y7h8u9hEBXF669L1FfEpz5lfVqvCM9yaQYMGNMxuWqx3YCJqiQF-TZvmZmdJMZkTx9uIDs7bawA6rY2UgrIpYPEeWABp4ous37iIz3nB4pzUOeChARuQ=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/5mYBDgQEQs5Uxdi7lXQGN7VXI3rF_2POG15Cq1FYqOu3LeLgG-8WL2RWEXg6x8PUQyzQiQnXNpCm5pfDuisTSZUiAkFWnFNQ12u-u27r3xLfds_RV4qIC60veljRVFj3=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh5.googleusercontent.com/vzvZhqrGaIvVrXXA6lBpvkTmif_50BxmfVOhffzHtyZM-9l5Th9_dT72ksD9Lsszx9A0YANZgxrePIHZPLLQ_o_JeL-_O4KFdEbAtgwiYcDrVJqB7NRXKVMQBGZyDFDpWw=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/GeI60BjnONLoq3Fi35N_PJKV_6AxsKra0rLb7SclT6pVvoFxXABLZ5LzJh3e0fSmD9_V004Bj5dcAd6KV49lmX1CHclzjdh3m6gLk2Lj1oG9hM21JNS7gt72wh6Sn188Gg=w1280",
+      "alt": ""
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/jMaJEKiV1BVe9_-WdB-zXAcWVt2YXCxI6OVdWTUcLJvU0JOPjRhliBGceRLRiAyFoDXu6RJ5XfAmx-2myUDP7wI=w1280",
+      "alt": ""
+    }
+  ]
+}

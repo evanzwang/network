@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leo Nagel</title>
+    <link rel="icon" href="/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon-apple.png">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Fira Code', monospace;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #e0e0e0;
+        }
+        header {
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: #72baff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+            border-radius: 5px;
+        }
+        section h2 {
+            color: #72baff;
+            padding-bottom: 5px;
+        }
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+        .project {
+            flex: 1 1 calc(30% - 2rem);
+        }
+        .education {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 1rem;
+            border: 1px solid #3e3e3e;
+            padding: 1rem;
+            border-radius: 5px;
+            background-color: #1e1e1e;
+        }
+        .education p {
+            margin: 0;
+        }
+        .achievements {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .achievement-item {
+            border: 1px solid #3e3e3e;
+            padding: 1rem;
+            border-radius: 5px;
+            background-color: #1e1e1e;
+        }
+        a {
+            color: #72baff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Leo Nagel</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#education">Education</a>
+            <a href="#achievements">Achievements</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi, I'm Leo Nagel. My current focus is on GPU kernels, but I am equally fascinated by quantitative finance, computing theory, mathematics, and physics. I'm German and I live in Berkeley, California. I've spent about 8 years of my life in Germany, 10 years in China, and coming up on 2 years in the United States.</p>
+        <p>I enjoy playing chess and hiking up the Berkeley Hills (at night, especially).</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="projects">
+            <div class="project">
+                <h3>cuBogo</h3>
+                <p>Collaborated with <a href="https://bradleyhsu.com/">Bradley Hsu</a> to develop the fastest <a href="https://en.wikipedia.org/wiki/Bogosort">bogosort</a> implementation (measured by permutations per second) ever run on a single device. This involved optimizing a custom CUDA (C++) kernel for the Nvidia H100, and an article detailing the work is coming soon!</p>
+            </div>
+            <div class="project">
+                <h3>cuDream</h3>
+                <p>Rewriting <a href="https://arxiv.org/abs/2006.08381">DreamCoder</a> to leverage GPU optimizations using CUDA (C++) and PTX. This project aims to make the system significantly faster and more efficient.</p>
+            </div>
+            <div class="project">
+                <h3>cuPrimes</h3>
+                <p>Developing a custom kernel to perform the <a href="https://en.wikipedia.org/wiki/Fermat_pseudoprime">Fermat test of pseudo-primality</a>. This implementation incorporates the <a href="https://link.springer.com/article/10.1007/BF02242355">Schönhage-Strassen algorithm</a> for long integer multiplication and a highly optimized <a href="https://arxiv.org/abs/2104.11471">Fast Fourier Transform using Nvidia H100 tensor cores</a>.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="education">
+            <p><strong>University of California, Berkeley</strong></p>
+            <p>B. Sc. in Electrical Engineering & Computer Sciences</p>
+            <p><em>Class of 2025</em></p>
+        </div>
+    </section>
+
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <div class="achievements">
+            <div class="achievement-item">
+                <p><strong>Berkeley Trading Invitational 2024:</strong> Placed first out of 130+ participants in this quantitative finance competition.</p>
+            </div>
+            <div class="achievement-item">
+                <p><strong><a href="https://www.livetheresidency.com/">The Residency</a>:</strong> Participated in Chapter 3 during the summer of 2024.</p>
+            </div>
+            <div class="achievement-item">
+                <p><strong><a href="https://www.gsyp.xyz">Global Society of Young Physicists</a>:</strong> Founded a physics nonprofit that organizes a summer program and publishes a journal in 2022.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you're interested in collaborating or have any questions (or want to challenge me in chess), feel free to reach out! Always happy to bring more people on for my projects!</p>
+        <p>Email: leo (at) lnagel (dot) net</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/leonhardn/" target="_blank">linkedin.com/in/leonhardn</a></p>
+        <p>X (formerly Twitter): <a href="https://x.com/leo_nagel_" target="_blank">x.com/leo_nagel_</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Leo Nagel. All rights reserved.</p>
+    </footer>
+</body>
+</html>

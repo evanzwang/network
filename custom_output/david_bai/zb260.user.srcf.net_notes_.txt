@@ -1,0 +1,138 @@
+  Cambridge Lecture Notes
+  I would like to thank everyone who has helped the perfection of these notes by way of correcting and giving feedbacks.
+            If you think any of these notes can be improved in some direction, or have spotted any mistakes or typos, you are most welcome to
+    [let me know](/contact/)
+    .
+    All materials listed here are actively maintained.
+  For obvious reasons, notes that were taken more recently are usually better written.
+  TeX codes of the documents are available upon request.
+  Part IA
+  Michaelmas
+    [Differential Equations](IA/diffeqn.pdf)
+    by Dr. J. R. Taylor (Michaelmas 2019)
+    [Groups](IA/groups.pdf)
+    by Dr. O. Randal-Williams (Michaelmas 2019)
+    [Numbers and Sets](IA/numsets.pdf)
+    by Prof. I. B. Leader (Michaelmas 2019)
+    [Vectors and Matrices](IA/matrices.pdf)
+    by Dr. J. M. Evans (Michaelmas 2019)
+  Lent
+    [Analysis I](IA/ana1.pdf)
+    by Prof. J. Rassmussen (Lent 2020)
+    [Dynamics and Relativity](IA/dynrel.pdf)
+    by Prof. P. H. Haynes (Lent 2020)
+    [Probability](IA/prob.pdf)
+    by Dr. P. Sousi (Lent 2020)
+    [Vector Calculus](IA/vectcal.pdf)
+    by Dr. A. Ashton (Lent 2020)
+  Part IB
+    [Analysis and Topology](IB/anatop.pdf)
+    by Dr. A. Zsák (Michaelmas 2019)
+    [Linear Algebra](IB/linear.pdf)
+    by Prof. P. Raphael (Michaelmas 2020)
+    [Markov Chains](IB/markov.pdf)
+    by Dr. R. Bauerschmidt (Michaelmas 2020)
+    [Methods](IB/methods.pdf)
+    by Prof. E. P. S. Shellard (Michaelmas 2020)
+    [Quantum Mechanics](IB/qm.pdf)
+    by Dr. M. Ubiali (Michaelmas 2020)
+    [Complex Analysis](IB/comana.pdf)
+    by Prof. N. Wickramasekera (Lent 2020)
+    [Complex Methods](IB/commet.pdf)
+    by Dr. U. Sperhake (Lent 2021)
+    [Geometry](IB/geom.pdf)
+    by Prof. I. Smith (Lent 2021)
+    [Groups, Rings and Modules](IB/grm.pdf)
+    by Dr. T. A. Fisher (Lent 2020)
+    [Numerical Analysis](IB/numana.pdf)
+    by Prof. C. B. Schönlieb (Lent 2021)
+    [Statistics](IB/stats.pdf)
+    by Dr. S. Bacallado (Lent 2021)
+  Easter
+    [Optimisation](IB/optim.pdf)
+    by Dr. M. R. Tehranchi (Easter 2020)
+    [Variational Principles](IB/varpri.pdf)
+    by Dr. M. Dunajski (Easter 2020)
+  Part II
+    [Algebraic Topology](II/algtop.pdf)
+    by Prof. M. Gross (Michaelmas 2020)
+    [Galois Theory](II/gal.pdf)
+    by Prof. I. Grojnowski (Michaelmas 2021)
+    [Linear Analysis](II/linan.pdf)
+    by Prof. C. Mouhot (Michaelmas 2021)
+    [Number Theory](II/nt.pdf)
+    by Dr. J. Wolf (Michaelmas 2020)
+    [Probability and Measure](II/pm.pdf)
+    by Prof. R. Nickl (Michaelmas 2020)
+    [Representation Theory](II/rep.pdf)
+    by Dr. S. Wadsley (Michaelmas 2021)
+    [Riemann Surfaces](II/rsurf.pdf)
+    by Dr. H. Wilton (Michaelmas 2020)
+    [Stochastic Financial Models](II/sfm.pdf)
+    by Dr. M. Tehranchi (Michaelmas 2021)
+  The following notes are taken by
+    [Nicky Wong](https://www.lookup.cam.ac.uk/person/crsid/tcw54)
+    by Prof. I. Grojnowski (Michaelmas 2020)
+    by Prof. C. Mouhot (Michaelmas 2020)
+    [Algebraic Geometry](II/alggeom.pdf)
+    by Dr. D. Ranganathan (Lent 2021)
+    [Differential Geometry](II/dg.pdf)
+    by Dr. A. Keating (Lent 2021)
+    [Quantum Information and Computation](II/qic.pdf)
+    by Prof. R. Jozsa (Lent 2021)
+    [Number Fields](II/nf.pdf)
+    by Prof. A. Scholl (Lent 2022)
+    [Analysis of Functions](II/anafun.pdf)
+    by Dr. C. Warnick (Lent 2022)
+    by Prof. A. J. Scholl (Lent 2021)
+  Part III
+    by Dr. D. Ranganathan (Michaelmas 2022)
+    by Prof. J. Rasmussen (Michaelmas 2022)
+  <p><a href="III/cat.pdf">Category Theory</a> by Prof. P. T. Johnstone (Michaelmas 2022)</p>
+    [Commutative Algebra](III/commalg.pdf)
+    by Dr. O. Becker (Michaelmas 2022)
+    by Dr. J. Smith (Michaelmas 2022)
+    [Local Fields](III/local.pdf)
+    by Dr. R. Zhou (Michaelmas 2022)
+    [Modular Forms](III/modform22.pdf)
+    by Prof. J. Thorne (Michaelmas 2022)
+    [Introduction to Modular Representation Theory](III/modrep.pdf)
+    by Prof. S. Martin (Michaelmas 2022)
+    [Artie](https://www.lookup.cam.ac.uk/person/crsid/aik31)
+    [Category Theory](https://aik31.user.srcf.net/lecture_notes/cat_theory.pdf)
+    by Prof. P. T. Johnstone (Michaelmas 2022)
+    [Logic and Computability](https://aik31.user.srcf.net/lecture_notes/logic_comp.pdf)
+    by Dr. J. V. Siqueira (Michaelmas 2022)
+    [Abelian Varieties](III/abel.pdf)
+    by Prof. A. J. Scholl (Lent 2023)
+    [Algebraic Number Theory](III/algnt.pdf)
+    by Dr. H. Wiersema (Lent 2023)
+    [Complex Manifolds](III/complex.pdf)
+    by Dr. A. Kovalev (Lent 2023)
+  <p><a href="III/lie.pdf">Lie Algebras and their Representations</a> by Prof. I. Grojnowski (Lent 2023)</p>
+  [You heard I have Lie algebra notes? Lies.]
+    [Group Cohomology](III/group.pdf)
+    by Dr. C. J. B. Brookes (Lent 2023)
+    by Prof. O. Randal-Williams (Lent 2023) [Currently in maintenance. Official notes are
+    [here](https://www.dpmms.cam.ac.uk/~or257/teaching/notes/Kthy_long.pdf)
+    ]
+    [Toric Geometry](III/toric.pdf)
+    by Dr. T. Gräfnitz (Lent 2023)
+    by Prof. J. A. Thorne (Lent 2021)
+    [Elliptic Curves](III/elliptic.pdf)
+    by Dr. T. Fisher (Lent 2022)
+    [Topics in Algebraic Groups](III/alggrp.pdf)
+    [Introduction to Geometric Representation Theory](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+    by Prof. I. Grojnowski (Lent 2022) (my best set of notes so far!)
+  The following notes taken by
+    by Prof. J. A. Thorne (Lent 2022)
+  <h3>Access to Source Code</h3>
+        <p>
+            The source codes of these notes can be found <a href="https://github.com/david-bai-notes">here</a>.
+        </p>
+        <p>
+            These are not expected to be updated as frequently as the pdf version of the notes hosted here (e.g. no source code for notes of ongoing courses will be uploaded) due to various reasons, but if you really need some of them you can try to <a href="/contact/">contact me</a>.
+        </p>
+        <p>
+            Also <a href="/contact/">notify me</a> if any of the codes do not compile correctly.
+        </p>

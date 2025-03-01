@@ -1,0 +1,50 @@
+  start preloader
+  / end preloader
+                Toggle navigation
+                  [Home](https://www.cecs.ucf.edu/sagarwal/)
+                  [Events](https://www.cecs.ucf.edu/sagarwal/blog/)
+                  [Research](https://www.cecs.ucf.edu/sagarwal/research/)
+                  [Publications](https://www.cecs.ucf.edu/sagarwal/publications/)
+                  [Team](https://www.cecs.ucf.edu/sagarwal/team/)
+                  [Join Us!](https://www.cecs.ucf.edu/sagarwal/future-member/)
+        /.navbar
+      #masthead
+                              Lab Director
+                                  Contact Information
+                                      Call:
+                                      +1 (407) 823-6205
+                                      Email:
+                                      Shaurya.Agarwal [at] ucf.edu
+                              Dr. Shaurya Agarwal
+                                  Dr. Agarwal
+                                  is currently (2024–present) an Associate Professor (with tenure) in the Civil, Environmental, and Construction Engineering Department at the University of Central Florida. He is the founding director of Urban Intelligence and Smart City (URBANITY) Lab and a key member of the
+                                  [read more](https://www.cecs.ucf.edu/sagarwal/team/dr-shaurya-agarwal/)
+                              Current Members
+                                    Associate Professor,
+                                    Jiheng Huang
+                                    PHD Student,
+                                        JihengHuang@knights.ucf.edu
+                                    Muhammad Shahbaz
+                                    Ph.D. Student,
+                                        +1 (689) 837-7580
+                                        MShahbaz@knights.ucf.edu
+                                    Shakib Mustavee
+                                    PhD Student,
+                                        +1 (407) 729-7494
+                                        SMustavee@knights.ucf.edu
+                                    Xinyi
+                                    Undergraduate Researcher
+                              Past Members
+                                    Payton Fisher
+                                    Undergrad Research Intern,
+                                    Fernando Nisiama Zaki
+                                    M.Sc. Student,
+                .entry-content
+              #post-2901
+                  Copyright© 2021 -
+                    [URBan intelligence & smart cITY Laboratory](https://www.cecs.ucf.edu/sagarwal/)
+                Developed and Managed by:
+                  [URBANITY Team](https://www.cecs.ucf.edu/sagarwal/team/)
+      #colophon
+    #page
+  end site main

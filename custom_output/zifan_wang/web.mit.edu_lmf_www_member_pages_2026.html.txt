@@ -1,0 +1,52 @@
+      [About Us](../index.html)
+      [Blog](http://lmfatmit.blogspot.com/)
+      [FAQs](../faq.html)
+      [People](../people.html)
+      [Photos](../gallery.html)
+      [Contact Us](../contact.html)
+    LMF Class of 2026
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Teo Lara">
+            </div>
+          Teo Lara
+          From Decatur, Georgia, Teo is a physics and math major who is attempted to get through their time at MIT without taking a single computer science course (a plan they expect will backfire in a few years). Teo enjoys rock climbing, playing the clarinet with the MIT Wind Ensemble, and cooking. In the free time they definitely don't have, they enjoy playing long, complicated board games.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Zifan Wang">
+            </div>
+          Zifan Wang
+          I'm an innocent frosh possibly majoring in pure math. I like metabolizing, destabilizing, photosynthesizing, immaterializing and splenectomizing in my free time. I also play the guitar and consume various kinds of media. For work-related inquiries, contact me at atticusw at mit dot edu.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Tobi Hendon">
+            </div>
+          Tobi Hendon
+          Tobi is a Toby but a Tobi spelled with an I, and not a y, which is very important because she refers to herself as I, even though she constantly asks herself why. Tobi enjoys sriracha, specifically when it is on food, but she isn't a very fussy person. In fact, Tobi is a very quiet loud person, just as she is also a very tall short person, a very smart dumb person, and a very alive dead person, with emphasis on the alive part, because... optimism :)
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Lowell Torola">
+            </div>
+          Lowell Torola
+          Lowell is a freshman from Upper Michigan currently planning on majoring in 6-3 here at MIT. He enjoys talking about the Midwest to anyone, regardless of whether they want to hear about how much snow his hometown gets (>350 inches!) or how he grew up on a farm. He likes to refer to himself as the 'Number One Sellout' but does actually enjoy programming. In his free time, Lowell enjoys mountain biking, golfing, reading, and fighting boredom at all costs.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Kailyn Gustafson">
+            </div>
+          Kailyn Gustafson
+          Kailyn is a freshman from small-town southeastern Minnesota. She is one of the birthday chairs even if she is not the best at baking (a work in progress). She enjoys inflicting pain upon herself by running, lifting, and attending MIT.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Eileen Zu">
+            </div>
+          Eileen Zu
+          peach lover. pickle hater. ordained minister. glassblower. trinket collector and an avid “pspspsps”-er. big fork and spoon wielder.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Karen Guo">
+            </div>
+          Karen Guo
+          Karen is from the Bay Area, CA interested in studying 6-3 or 6-4 with a double major in 18 or 15. She enjoys watching Youtube (educational/video games/food), eating, listening to music, etc. Some of her hobbies are art, tennis, and piano. She's waiting for Debussy's next hit album.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Anna Dong">
+            </div>
+          Anna Dong
+          Anna is a 6-9 (and maybe 7) from Oregon. In her free time, she enjoys painting, reading, and trying out new foods.
+          <div class="baby-container">
+                <img real-src="baby-image" alt="Baby Image of Alissa Kopylova">
+            </div>
+          Alissa Kopylova
+          Alissa is from Southern California and wants to major in Course 18. In her free time, she likes baking and playing with cats.

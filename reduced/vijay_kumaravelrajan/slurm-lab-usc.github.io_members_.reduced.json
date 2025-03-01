@@ -1,0 +1,409 @@
+{
+  "title": "Members",
+  "meta_description": "",
+  "main_content": "PhD Students Minjune Hwang Zeyu Shangguan Yunshuang Li Yiyang Ling Ayano Hiranaka Master's Students Dhanush Penmetsa Vedant Raval Yuhai Wang Karan Owalekar Enyu Zhao Charlene Yuen Harshitha B R Hanyang Zhou Sicheng He Jonathan Zamora Wenhao Liu Rajas Chitale Ashwin Balasubramanian Nikita Sarawgi Zinan Li Undergraduate Students Hao Jiang Oluwatobiloba Adesanya Jonathan Ong Letian Zhang Jason Chen Rida Faraz Samuel Burns Maria Guerrero Cordoba David Kim Faculty Daniel Seita Alumni Undergraduate Students Name Period Next step (known) Qian (Peter) Wang 2023-2024 (CS & AM) PhD in CS, Yale University Emily Zhu 2023-2024 (CS & BA) Vijay Kumaravelrajan 2024 (CS & AM) Zitong Huang 2024 (CECS) Anisha Chitta 2024 (CSBA) Master's Students Name Period Next step (known) Anupam Patil 2023-2024 (CS) Visitors / Volunteers Name Period Next step (known) Ce (Chris) Wang 2024 (Remote collaborator) SWE at Ambarella Inc Interns Name Period Next step (known) Gayathri Rajesh IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli) Abhinav Pillai USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur) Ebonee Davis USC SURE 2024 (Undergrad at MIT)",
+  "links": [
+    {
+      "url": "https://mj-hwang.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://mj-hwang.github.io/",
+      "text": "Minjune Hwang"
+    },
+    {
+      "url": "https://zshanggu.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://zshanggu.github.io/",
+      "text": "Zeyu Shangguan"
+    },
+    {
+      "url": "https://li-yunshuang.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://li-yunshuang.github.io/",
+      "text": "Yunshuang Li"
+    },
+    {
+      "url": "https://yiyang0207.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://yiyang0207.github.io/",
+      "text": "Yiyang Ling"
+    },
+    {
+      "url": "https://misoshiruseijin.github.io",
+      "text": ""
+    },
+    {
+      "url": "https://misoshiruseijin.github.io",
+      "text": "Ayano Hiranaka"
+    },
+    {
+      "url": "https://www.linkedin.com/in/dhanush-varma/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/dhanush-varma/",
+      "text": "Dhanush Penmetsa"
+    },
+    {
+      "url": "https://vedant2311.github.io",
+      "text": ""
+    },
+    {
+      "url": "https://vedant2311.github.io",
+      "text": "Vedant Raval"
+    },
+    {
+      "url": "https://yuhaiw.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://yuhaiw.github.io/",
+      "text": "Yuhai Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/karan-owalekar/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/karan-owalekar/",
+      "text": "Karan Owalekar"
+    },
+    {
+      "url": "https://www.linkedin.com/in/enyu-zhao-564566250/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/enyu-zhao-564566250/",
+      "text": "Enyu Zhao"
+    },
+    {
+      "url": "https://lazerbird.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://lazerbird.github.io/",
+      "text": "Charlene Yuen"
+    },
+    {
+      "url": "https://www.linkedin.com/in/harshitha-b-r-2ab510190/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/harshitha-b-r-2ab510190/",
+      "text": "Harshitha B R"
+    },
+    {
+      "url": "https://hanyang-zhou.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://hanyang-zhou.github.io/",
+      "text": "Hanyang Zhou"
+    },
+    {
+      "url": "https://hesic73.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://hesic73.github.io/",
+      "text": "Sicheng He"
+    },
+    {
+      "url": "https://jonzamora.dev/",
+      "text": ""
+    },
+    {
+      "url": "https://jonzamora.dev/",
+      "text": "Jonathan Zamora"
+    },
+    {
+      "url": "https://Liu-wenhao-1223.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://Liu-wenhao-1223.github.io/",
+      "text": "Wenhao Liu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rajas-chitale-rcv/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/rajas-chitale-rcv/",
+      "text": "Rajas Chitale"
+    },
+    {
+      "url": "https://www.linkedin.com/in/balasubramanian-ashwin/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/balasubramanian-ashwin/",
+      "text": "Ashwin Balasubramanian"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nikita-sarawgi/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/nikita-sarawgi/",
+      "text": "Nikita Sarawgi"
+    },
+    {
+      "url": "https://www.linkedin.com/in/zinanli02/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/zinanli02/",
+      "text": "Zinan Li"
+    },
+    {
+      "url": "https://haojiang4400.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://haojiang4400.github.io/",
+      "text": "Hao Jiang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/oluwatobilobaadesanya",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/oluwatobilobaadesanya",
+      "text": "Oluwatobiloba Adesanya"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ongjonathand",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/ongjonathand",
+      "text": "Jonathan Ong"
+    },
+    {
+      "url": "https://www.linkedin.com/in/letian-zhang-630b37235/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/letian-zhang-630b37235/",
+      "text": "Letian Zhang"
+    },
+    {
+      "url": "https://jasoonchen.com/",
+      "text": ""
+    },
+    {
+      "url": "https://jasoonchen.com/",
+      "text": "Jason Chen"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rida-faraz/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/rida-faraz/",
+      "text": "Rida Faraz"
+    },
+    {
+      "url": "https://www.linkedin.com/in/samuel-burns-75702526b/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/samuel-burns-75702526b/",
+      "text": "Samuel Burns"
+    },
+    {
+      "url": "https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333",
+      "text": "Maria Guerrero Cordoba"
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-kim-b50046206/",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-kim-b50046206/",
+      "text": "David Kim"
+    },
+    {
+      "url": "https://danielseita.github.io/",
+      "text": ""
+    },
+    {
+      "url": "https://danielseita.github.io/",
+      "text": "Daniel Seita"
+    },
+    {
+      "url": "https://pwang649.github.io/",
+      "text": "Qian (Peter) Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/emily-k-zhu/",
+      "text": "Emily Zhu"
+    },
+    {
+      "url": "https://www.linkedin.com/in/vijay-kumaravelrajan/",
+      "text": "Vijay Kumaravelrajan"
+    },
+    {
+      "url": "https://www.linkedin.com/in/zitong-huang/",
+      "text": "Zitong Huang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anisha-chitta/",
+      "text": "Anisha Chitta"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anupam-patil-114b841b0/",
+      "text": "Anupam Patil"
+    },
+    {
+      "url": "https://www.linkedin.com/in/wangce94/",
+      "text": "Ce (Chris) Wang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/gayathri-rajesh-b84560228/",
+      "text": "Gayathri Rajesh"
+    },
+    {
+      "url": "https://www.linkedin.com/in/abhinav-pillai-62244b237",
+      "text": "Abhinav Pillai"
+    },
+    {
+      "url": "https://www.linkedin.com/in/eboneetdavis/",
+      "text": "Ebonee Davis"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/MinjuneHwang.png",
+      "alt": "Minjune Hwang"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/ZeyuShangguan.jpeg",
+      "alt": "Zeyu Shangguan"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Yunshuang.jpeg",
+      "alt": "Yunshuang Li"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Yiyang.jpg",
+      "alt": "Yiyang Ling"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg",
+      "alt": "Ayano Hiranaka"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg",
+      "alt": "Dhanush Penmetsa"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg",
+      "alt": "Vedant Raval"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Yuhai.jpg",
+      "alt": "Yuhai Wang"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/karanOwalekar.jpg",
+      "alt": "Karan Owalekar"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Enyu.jpeg",
+      "alt": "Enyu Zhao"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Charlene.jpg",
+      "alt": "Charlene Yuen"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/HBR.JPG",
+      "alt": "Harshitha B R"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png",
+      "alt": "Hanyang Zhou"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/hesicheng.jpg",
+      "alt": "Sicheng He"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/jonzamora.jpg",
+      "alt": "Jonathan Zamora"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/WenhaoLiu.jpg",
+      "alt": "Wenhao Liu"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG",
+      "alt": "Rajas Chitale"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpeg",
+      "alt": "Ashwin Balasubramanian"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg",
+      "alt": "Nikita Sarawgi"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Zinan.jpg",
+      "alt": "Zinan Li"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/HaoJiang.png",
+      "alt": "Hao Jiang"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg",
+      "alt": "Oluwatobiloba Adesanya"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg",
+      "alt": "Jonathan Ong"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg",
+      "alt": "Letian Zhang"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg",
+      "alt": "Jason Chen"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/ridafaraz.jpg",
+      "alt": "Rida Faraz"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg",
+      "alt": "Samuel Burns"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/MariaGC.jpg",
+      "alt": "Maria Guerrero Cordoba"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg",
+      "alt": "David Kim"
+    },
+    {
+      "src": "https://slurm-lab-usc.github.io/img/people/Daniel_2023_square.png",
+      "alt": "Daniel Seita"
+    }
+  ]
+}

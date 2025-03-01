@@ -1,0 +1,29 @@
+{
+  "title": "Kaivalya Hariharan - MIT SuperUROP \u2013 Advanced Undergraduate Research Opportunities Program",
+  "meta_description": "",
+  "main_content": "Kaivalya Hariharan kaivu@mit.edu Scholar Title MIT Tang Family FinTech Undergraduate Research and Innovation Scholar Research Title Investigating Internal Signatures of Neural Network Failure Modes Cohort 2023-2024 Department Electrical Engineering and Computer Science Research Areas Artificial Intelligence & Machine Learning Supervisor Nir N. Shavit Previous Next Abstract Neural Nets are often easy to trick, whether through restricted perturbations of the input (Lp Adversarial Examples), or through prompt injections (LLM jailbreaks). These failures are often studied while treating models as a black boxes; this has yielded some results, but we remain far from using these insights to build robust models. Instead, we study Neural Network failures by investigating model internal computation. By using mechanistic interpretability techniques (e.g path patching, dictionary learning), and examining model internal statistics, we aim to produce theories of Neural Network failures that are grounded in phenomena that can be observed in the internal computations of DNNS. We hope that such theories can inspire novel approaches for building robust models. Quote Through this SuperUROP, I want to gain experience understanding Neural Networks failures by opening up model black boxes and studying their internals. I am looking forward to applying both my prior experience researching Adversarial Examples in CNNs, and my math background to this project. I am most excited about treating studying Deep Learning as a systematic science, and figuring out the techniques best suited for understanding these models. Back to Scholars",
+  "links": [
+    {
+      "url": "mailto:kaivu@mit.edu",
+      "text": "kaivu@mit.edu"
+    },
+    {
+      "url": "https://superurop.mit.edu/scholars/jesika-haria/?scholar-cohort=&scholar-page=1",
+      "text": "Previous"
+    },
+    {
+      "url": "https://superurop.mit.edu/scholars/adib-hasan/?scholar-cohort=&scholar-page=1",
+      "text": "Next"
+    },
+    {
+      "url": "https://superurop.mit.edu/scholars/",
+      "text": "Back to Scholars"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://superurop.mit.edu/wp-content/uploads/2023/09/kaivu@mit.edu_-300x300.jpg",
+      "alt": "Kaivalya  Hariharan"
+    }
+  ]
+}

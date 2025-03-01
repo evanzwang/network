@@ -1,0 +1,825 @@
+{
+  "title": "People \u2013 ASSET",
+  "meta_description": "",
+  "main_content": "Skip to content asset-info@seas.upenn.edu (215) 898-8543 HOME People Executive Committee Rajeev Alur Computer and Information Science Chris Callison-Burch Computer and Information Science Kostas Daniilidis Computer and Information Science Insup Lee Computer and Information Science Mayur Naik Computer and Information Science George Pappas Electrical and Systems Engineering Aaron Roth Computer and Information Science Ren\u00e9 Vidal Electrical and Systems Engineering and Radiology Faculty Shivani Agarwal Computer and Information Science Hamsa Sridhar Bastani Operations Information and Decisions Osbert Bastani Computer and Information Science Pratik Chaudhuri Electrical and Systems Engineering Christos Davatzikos Radiology; Electrical and Systems Engineering; Biostatistics, Epidemiology and Informatics Susan Davidson Computer and Information Science Edgar Dobriban Statistics and Data Science, Computer and Information Science Eric Eaton Computer and Information Science Jake Gardner Computer and Information Science Jim Gee Radiology Surbhi Goel Computer and Information Science Jiatao Gu Computer and Information Science Sharath Chandra Guntuku Computer and Information Science Hamed Hassani Electrical and Systems Engineering Zack Ives Computer and Information Science Dinesh Jayaraman Computer and Information Science Kevin Johnson Biomedical Informatics Charles E. Kahn, Jr. Radiology and Orthopaedic Surgery Sampath Kannan Computer and Information Science Michael Kearns Computer and Information Science Konrad Kording Computer and Information Science Vijay Kumar Computer and Information Science Benjamin C. Lee Computer and Information Science Qi Long Biostatistics in Biostatistics and Epidemiology Rahul Mangharam Electrical and Systems Engineering Nikolai Matni Computer and Information Science Dana\u00eb Metaxa Computer and Information Science Manfred Morari Electrical and Systems Engineering Michael Posa Mechanical Engineering and Applied Mechanics Chamith S. Rajapakse Radiology and Orthopaedic Surgery Dan Roth Computer and Information Science Li Shen Biostatistics, Epidemiology and Informatics Dana Silverbush Cancer Biology Oleg Sokolsky Computer and Information Science Weijie Su Computer and Information Science CJ Taylor Computer and Information Science Lyle Ungar Computer and Information Science Rakesh Vohra Economics & Electrical and Systems Engineering Erik Waingarten Computer and Information Science Duncan Watts Computer and Information Science Mark Whiting Computer and Information Science & Operations Informations and Decisions Eric Wong Computer and Information Science Mark Yatskar Computer and Information Science Mingmin Zhao Computer and Information Science Ph.D. Students & Postdocs Sagnik Anupam Eshwar Arunachaleswaran Patrick Chao Sihao Chen Inyoung Choi Natalie Collina Zongyu Dai Ekaterina Fedora Ashley Francisco Ira Globus-Harris Varun Gupta Laura Hallock Phillip Hilliard Jiani Huang Xinmeng Huang Yidi Huang Edward Hu Xiang Li Siyi Liu Jinqi Luo Jason Ma Stephen Mell Marcus Min Aaditya Naik Georgy Noarov Artemis Panagopoulou Jean Park Sydney Pugh Jianing Qian Ramya Ramalingam Joey Rudoler Princess Sampson Sikata Sengupta Guru Shabadi Emma Shedden Junyao Shi Kaustubh Sridhar Adam Stein Davoud Ataee Tarzanagh Tim Tsz-Kit Lau Neelay Velingker Rongguan Wang Christopher Watson Jiancong Xiao Jiayi Xin Anton Xue Shiyun Xu Yahan Yang Fanyang Yu Yi Zhang",
+  "links": [
+    {
+      "url": "mailto:asset-info@seas.upenn.edu",
+      "text": "asset-info@seas.upenn.edu"
+    },
+    {
+      "url": "tel:(215) 898-8543",
+      "text": "(215) 898-8543"
+    },
+    {
+      "url": "https://asset.seas.upenn.edu/",
+      "text": "HOME"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~alur/",
+      "text": "Rajeev Alur"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~ccb/",
+      "text": "Chris Callison-Burch"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~kostas/",
+      "text": "Kostas Daniilidis"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~lee/home/index.shtml",
+      "text": "Insup Lee"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~mhnaik/",
+      "text": "Mayur Naik"
+    },
+    {
+      "url": "https://www.georgejpappas.org/",
+      "text": "George Pappas"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~aaroth/",
+      "text": "Aaron Roth"
+    },
+    {
+      "url": "https://directory.seas.upenn.edu/rene-vidal/",
+      "text": "Ren\u00e9 Vidal"
+    },
+    {
+      "url": "https://hamsabastani.github.io/",
+      "text": "Hamsa Sridhar Bastani"
+    },
+    {
+      "url": "https://obastani.github.io/",
+      "text": "Osbert Bastani"
+    },
+    {
+      "url": "https://pratikac.github.io/",
+      "text": "Pratik Chaudhuri"
+    },
+    {
+      "url": "https://www.med.upenn.edu/cbica/christos/",
+      "text": "Christos Davatzikos"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~susan/",
+      "text": "Susan Davidson"
+    },
+    {
+      "url": "https://statistics.wharton.upenn.edu/profile/dobriban/",
+      "text": "Edgar Dobriban"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~eeaton/",
+      "text": "Eric Eaton"
+    },
+    {
+      "url": "https://jacobrgardner.github.io/",
+      "text": "Jake Gardner"
+    },
+    {
+      "url": "https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p10656",
+      "text": "Jim Gee"
+    },
+    {
+      "url": "https://www.surbhigoel.com/",
+      "text": "Surbhi Goel"
+    },
+    {
+      "url": "https://jiataogu.me/",
+      "text": "Jiatao Gu"
+    },
+    {
+      "url": "https://sharathg.cis.upenn.edu/",
+      "text": "Sharath Chandra Guntuku"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~hassani/",
+      "text": "Hamed Hassani"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~zives/",
+      "text": "Zack Ives"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~dineshj/",
+      "text": "Dinesh Jayaraman"
+    },
+    {
+      "url": "https://www.kevinbjohnsonmd.net/",
+      "text": "Kevin Johnson"
+    },
+    {
+      "url": "https://www.pennmedicine.org/providers/profile/charles-kahn?fadf=PennMedicine",
+      "text": "Charles E. Kahn, Jr."
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~kannan/",
+      "text": "Sampath Kannan"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~mkearns/",
+      "text": "Michael Kearns"
+    },
+    {
+      "url": "http://kordinglab.com/",
+      "text": "Konrad Kording"
+    },
+    {
+      "url": "https://directory.seas.upenn.edu/vijay-kumar/",
+      "text": "Vijay Kumar"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~leebcc/",
+      "text": "Benjamin C. Lee"
+    },
+    {
+      "url": "https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931",
+      "text": "Qi Long"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~rahulm/",
+      "text": "Rahul Mangharam"
+    },
+    {
+      "url": "https://nikolaimatni.github.io/",
+      "text": "Nikolai Matni"
+    },
+    {
+      "url": "https://metaxa.net/",
+      "text": "Dana\u00eb Metaxa"
+    },
+    {
+      "url": "https://directory.seas.upenn.edu/manfred-morari/",
+      "text": "Manfred Morari"
+    },
+    {
+      "url": "https://directory.seas.upenn.edu/michael-posa/",
+      "text": "Michael Posa"
+    },
+    {
+      "url": "https://www.med.upenn.edu/apps/faculty/index.php/g275/p8109239",
+      "text": "Chamith S. Rajapakse"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~danroth/",
+      "text": "Dan Roth"
+    },
+    {
+      "url": "https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258",
+      "text": "Li Shen"
+    },
+    {
+      "url": "https://silverbushlab.com/",
+      "text": "Dana Silverbush"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~sokolsky/",
+      "text": "Oleg Sokolsky"
+    },
+    {
+      "url": "http://www-stat.wharton.upenn.edu/~suw/",
+      "text": "Weijie Su"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~cjtaylor/",
+      "text": "CJ Taylor"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~ungar/",
+      "text": "Lyle Ungar"
+    },
+    {
+      "url": "https://sites.google.com/site/quaerereverum9/",
+      "text": "Rakesh Vohra"
+    },
+    {
+      "url": "https://directory.seas.upenn.edu/erik-waingarten/",
+      "text": "Erik Waingarten"
+    },
+    {
+      "url": "https://duncanjwatts.com/%20",
+      "text": "Duncan Watts"
+    },
+    {
+      "url": "https://whiting.me/",
+      "text": "Mark Whiting"
+    },
+    {
+      "url": "https://riceric22.github.io/",
+      "text": "Eric Wong"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~myatskar/",
+      "text": "Mark Yatskar"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~mingminz/",
+      "text": "Mingmin Zhao"
+    },
+    {
+      "url": "https://sagnikanupam.com/",
+      "text": "Sagnik Anupam"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~eshwar/",
+      "text": "Eshwar Arunachaleswaran"
+    },
+    {
+      "url": "https://patrickrchao.github.io/",
+      "text": "Patrick Chao"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~sihaoc/",
+      "text": "Sihao Chen"
+    },
+    {
+      "url": "https://www.linkedin.com/in/inyoung-choi-77105221b/",
+      "text": "Inyoung Choi"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~ncollina/",
+      "text": "Natalie Collina"
+    },
+    {
+      "url": "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=tzQFmRoAAAAJ",
+      "text": "Zongyu Dai"
+    },
+    {
+      "url": "https://ek8terina.github.io/opossum_girlie/",
+      "text": "Ekaterina Fedora"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ashley-francisco-8625001b7/",
+      "text": "Ashley Francisco"
+    },
+    {
+      "url": "https://globusharris.github.io/",
+      "text": "Ira Globus-Harris"
+    },
+    {
+      "url": "https://guptavarun.com/",
+      "text": "Varun Gupta"
+    },
+    {
+      "url": "https://laurahallock.org/",
+      "text": "Laura Hallock"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~pdh/",
+      "text": "Phillip Hilliard"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~jianih/",
+      "text": "Jiani Huang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/xinmeng-huang-8032221b3/",
+      "text": "Xinmeng Huang"
+    },
+    {
+      "url": "https://www.linkedin.com/in/huangy6/",
+      "text": "Yidi Huang"
+    },
+    {
+      "url": "https://edwardshu.com/",
+      "text": "Edward Hu"
+    },
+    {
+      "url": "https://lx10077.github.io/",
+      "text": "Xiang Li"
+    },
+    {
+      "url": "https://liusiyi641.github.io/",
+      "text": "Siyi Liu"
+    },
+    {
+      "url": "https://peterljq.github.io/",
+      "text": "Jinqi Luo"
+    },
+    {
+      "url": "https://jasonma2016.github.io/",
+      "text": "Jason Ma"
+    },
+    {
+      "url": "https://mell.io/",
+      "text": "Stephen Mell"
+    },
+    {
+      "url": "https://www.linkedin.com/in/marcus-min/",
+      "text": "Marcus Min"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~asnaik/",
+      "text": "Aaditya Naik"
+    },
+    {
+      "url": "https://noarov.com/",
+      "text": "Georgy Noarov"
+    },
+    {
+      "url": "https://artemisp.github.io/",
+      "text": "Artemis Panagopoulou"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jeanpark96/",
+      "text": "Jean Park"
+    },
+    {
+      "url": "https://www.linkedin.com/in/sydney-pugh-a86541158/",
+      "text": "Sydney Pugh"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jianing-qian-105782a3/",
+      "text": "Jianing Qian"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~ramya23/",
+      "text": "Ramya Ramalingam"
+    },
+    {
+      "url": "https://jrudoler.com/",
+      "text": "Joey Rudoler"
+    },
+    {
+      "url": "https://www.linkedin.com/in/pdotsamp/",
+      "text": "Princess Sampson"
+    },
+    {
+      "url": "https://psamathe50.github.io/sikatasengupta/",
+      "text": "Sikata Sengupta"
+    },
+    {
+      "url": "https://guruprerana.github.io/",
+      "text": "Guru Shabadi"
+    },
+    {
+      "url": "https://emmashedden.github.io/",
+      "text": "Emma Shedden"
+    },
+    {
+      "url": "https://www.grasp.upenn.edu/people/junyao-shi/",
+      "text": "Junyao Shi"
+    },
+    {
+      "url": "https://kaustubhsridhar.github.io/",
+      "text": "Kaustubh Sridhar"
+    },
+    {
+      "url": "https://www.seas.upenn.edu/~steinad/",
+      "text": "Adam Stein"
+    },
+    {
+      "url": "https://tarzanagh.github.io/",
+      "text": "Davoud Ataee Tarzanagh"
+    },
+    {
+      "url": "https://timlautk.github.io/",
+      "text": "Tim Tsz-Kit Lau"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nvelingker/",
+      "text": "Neelay Velingker"
+    },
+    {
+      "url": "https://www.med.upenn.edu/cbica/rongguang-wang.html",
+      "text": "Rongguan Wang"
+    },
+    {
+      "url": "https://www.cis.upenn.edu/~ccwatson/",
+      "text": "Christopher Watson"
+    },
+    {
+      "url": "https://jiancongxiao.github.io/",
+      "text": "Jiancong Xiao"
+    },
+    {
+      "url": "https://antonxue.github.io/",
+      "text": "Anton Xue"
+    },
+    {
+      "url": "https://sites.google.com/view/shiyunxu/home",
+      "text": "Shiyun Xu"
+    },
+    {
+      "url": "https://aibil.med.upenn.edu/people/fanyang-yu/",
+      "text": "Fanyang Yu"
+    },
+    {
+      "url": "https://yizhang.io/",
+      "text": "Yi Zhang"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Alur-954.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Callison-Burch_062.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Daniilidis-7241-e1664570350215.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Lee-Insup-158.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/mayur_naik.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Pappas-George-2021.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Roth-Aaron.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/vidal-rene.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/agarwal-shivani.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/02/Hamsa-Sridhar-Bastani.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/bastani-osbert.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Chaudhari-Pratik.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/davatzikos_christos.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/davidson-susan-scaled.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/dobriban-edgar.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/Eric-Eaton.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/Gardner-Jacob.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/gee-james.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/goel-surbhi.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/12/jiatao.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Guntuku-Sharath-Chandra.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/hassani-hamed.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/ives-zack.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Jayaraman-Dinesh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/johnson-kevin.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/kahn_charles.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/Kannan-sampath.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Kearns-2004.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/kording-konrad.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/Kumar-vijay.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/lee-photo.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Qi-Long-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/mangharam-rahul.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/Matni-Nikolai.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/07/metaxa_head-square.png",
+      "alt": "metaxa_head square"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/morari-manfred.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/posa-michael.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/rajapakse-chamith.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/06/Roth-Dan.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/shen-li-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/unnamed-2-e1723483093987-qsidpqd8atjue9fcfbfy3yyx3c6y8zg2q4u5uvtprs.png",
+      "alt": "unnamed"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Sokolosky-029.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/WeijieSu.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Taylor-Camillo-Jose.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/07/Lyle-Ungar-square-scaled.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/vohra-rakesh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/02/Erik-Waingarten.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/DuncanWatts_Headshot.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/whiting-mark.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/06/wong-eric.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Yatskar-Mark.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/01/mingmin_levine.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/headshot_zoomed-qtkj1i4hf9crow4x4d5yvl36as641ymhpkahmqsje0.jpg",
+      "alt": "headshot_zoomed"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/arunachaleswaran-eshwar-1-q97v5jmybhoqsya7ugayb61njkbvd7kjiq15btai3s.jpg",
+      "alt": "arunachaleswaran-eshwar-1"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/chao-patrick-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/chen-sihao-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/inyoung_asset-qniucizc1aite3ux8l4hn9gvz08in56vd3geeakfqw.png",
+      "alt": "inyoung_asset"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/collina-natalie-q97uzvnzlzg3grrzp2hdmj1z1vxvfld2reaunbvtmg.png",
+      "alt": "collina-natalie"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/dai-zongyu.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/id_photo-1-scaled-qc9mjrhi3p1011638ygt5r3972snxxd0gne053o0c8.jpg",
+      "alt": "id_photo"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/francisco-ashley.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/Ira-Globus-Harris-e1659697170968.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/07/blank-profile-picture-coming-soon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/hallock-laura.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/hilliard-phillip.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/huang-jiani.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/huang-xinmeng.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/09/Yidi_Huang.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/hu-edward.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/q008-scaled-r1wefw35sq1rx49o0s6zozecxmf9j6honwn3igwipk.jpg",
+      "alt": "q008"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/liu-siyi.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/09/avatar_for_asset.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/ma-jason.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/mell-stephen.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/photo18-qtkj70gfyueudtebpt8pu4ks20p7mss55js0cotcxk.jpg",
+      "alt": "photo18"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/naik-aaditya-scaled.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/Screenshot-2024-06-25-at-1.58.14\u202fPM-qq6vlgebwu5f6jezu0a2ghbs9e5vmjg5hhu7k53wzc.png",
+      "alt": "Screenshot 2024-06-25 at 1.58.14\u202fPM"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/panagopoulou-artemis.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/Jean-Park-e1659697043875.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/pugh-sydney.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/qian_jianing.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/blank.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/Screenshot-2025-02-17-at-12.05.35\u202fPM-r1ncop651aenxso3l518rss0eq9espcnbp0e1yxepk.png",
+      "alt": "Screenshot 2025-02-17 at 12.05.35\u202fPM"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/sampson-princess.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/07/unnamed-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/08/mugshot.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/08/headshot.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/shi-junyao.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/sridhar-kaustubh.png",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/stein-adam.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/tarzanagh-davoud-ataee.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/elementor/thumbs/tim_2024-scaled-e1740144126737-r1u1lvmui3c3vie4b63kw5hy9l9hab9try4f2f4988.jpg",
+      "alt": "tim_2024"
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/velingker-neelay.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/wang-rongguang.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/watson-christopher.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2025/02/image001-2-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2024/08/headshot_Jiayi-Xin.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/xue-anton.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/xu-shiyun.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/yang-yahan-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2022/08/Fanyang-Yu-e1659697250759.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://asset.seas.upenn.edu/wp-content/uploads/2023/07/zhang-yi-scaled.jpg",
+      "alt": ""
+    }
+  ]
+}

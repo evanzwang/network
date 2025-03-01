@@ -1,0 +1,71 @@
+            [DSpace@MIT](/)
+                [DSpace@MIT Home](/)
+                [MIT Open Access Articles](/handle/1721.1/49432)
+            View Item
+      JavaScript is disabled for your browser. Some features of this site may not work without it.
+        Toggle navigation
+              External Metadata URL: cocoon://metadata/handle/1721.1/157760/mets.xml
+                Identifying Money Laundering Subgraphs on the Blockchain
+                  Author(s)
+                    Song, Kiwhan
+                  ;
+                    Dhraief, Mohamed Ali
+                    Xu, Muhua
+                    Cai, Locke
+                    Chen, Xuhao
+                    Mithal, Arvind
+                    Chen, Jie
+                  ; ...
+                            [Download](/bitstream/handle/1721.1/157760/3677052.3698635.pdf?sequence=1&isAllowed=y)
+                            3677052.3698635.pdf (1.671Mb)
+                              Publisher with Creative Commons License
+                              Creative Commons Attribution
+                      Terms of use
+                          https://creativecommons.org/licenses/by/4.0/
+                      Metadata
+                      [Show full item record](/handle/1721.1/157760?show=full)
+                      Abstract
+                      Anti-Money Laundering (AML) involves the identification of money laundering crimes in financial activities, such as cryptocurrency transactions. Recent studies advanced AML through the lens of graph-based machine learning, modeling the web of financial transactions as a graph and developing graph methods to identify suspicious activities. For instance, a recent effort on opensourcing datasets and benchmarks, Elliptic2, treats a set of Bitcoin addresses, considered to be controlled by the same entity, as a graph node and transactions among entities as graph edges. This modeling reveals the “shape” of a money laundering scheme—a subgraph on the blockchain, such as a peeling chain or a nested service. Despite the attractive subgraph classification results benchmarked by the paper, competitive methods remain expensive to apply due to the massive size of the graph; moreover, existing methods require candidate subgraphs as inputs which may not be available in practice.
+In this work, we introduce RevTrack, a graph-based framework that enables large-scale AML analysis with a lower cost and a higher accuracy. The key idea is to track the initial senders and the final receivers of funds; these entities offer a strong indication of the nature (licit vs. suspicious) of their respective subgraph. Based on this framework, we propose RevClassify, which is a neural network model for subgraph classification. Additionally, we address the practical problem where subgraph candidates are not given, by proposing RevFilter. This method identifies new suspicious subgraphs by iteratively filtering licit transactions, using RevClassify. Benchmarking these methods on Elliptic2, a new standard for AML, we show that RevClassify outperforms state-of-the-art subgraph classification techniques in both cost and accuracy. Furthermore, we demonstrate the effectiveness of RevFilter in discovering new suspicious subgraphs, confirming its utility for practical AML.
+                      Description
+                      ICAIF ’24, November 14–17, 2024, Brooklyn, NY, USA
+                      Date issued
+                      2024-11-14
+                      URI
+                        [https://hdl.handle.net/1721.1/157760](https://hdl.handle.net/1721.1/157760)
+                      Department
+                      Massachusetts Institute of Technology. Department of Electrical Engineering and Computer Science
+                      Publisher
+                      ACM|5th ACM International Conference on AI in Finance
+                      Citation
+                      Song, Kiwhan, Dhraief, Mohamed Ali, Xu, Muhua, Cai, Locke, Chen, Xuhao et al. 2024. "Identifying Money Laundering Subgraphs on the Blockchain."
+                      Version:
+                        Final published version
+                      ISBN
+                      979-8-4007-1081-0
+                      Collections
+                        External Metadata URL: cocoon://metadata/handle/1721.1/49433/mets.xml
+                The following license files are associated with this item:
+            Browse
+                All of DSpace
+              [Communities & Collections](/community-list)
+              [By Issue Date](/browse?type=dateissued)
+              [Authors](/browse?type=author)
+              [Titles](/browse?type=title)
+              [Subjects](/browse?type=subject)
+                This Collection
+            My Account
+              [Login](/login)
+            Statistics
+              [OA Statistics](/oastats)
+              [Statistics by Country](/handle/1721.1/49433/most-popular/country)
+              [Statistics by Department](/handle/1721.1/49433/most-popular/department)
+                    [Privacy](https://libraries.mit.edu/privacy)
+                    [Permissions](https://libraries.mit.edu/permissions)
+                    [Accessibility](https://libraries.mit.edu/accessibility)
+                    [Contact us](https://libraries.mit.edu/contact)
+          Content created by the MIT Libraries,
+            [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+            unless otherwise noted.
+            [Notify us about copyright concerns](https://libraries.mit.edu/research-support/notices/copyright-notify/)
+            .

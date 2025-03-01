@@ -1,0 +1,396 @@
+{
+  "title": "Proceedings of Machine Learning Research | Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop Held in Vancouver, British Columbia, Canada on 14 December 2024 Published as Volume 262 by the Proceedings of Machine Learning Research on 10 December 2024. Volume Edited by: Mehdi Rezagholizadeh Peyman Passban Soheila Samiee Vahid Partovi Nia Yu Cheng Yue Deng Qun Liu Boxing Chen Series Editors: Neil D. Lawrence",
+  "meta_description": "Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop Held in Vancouver, British Columbia, Canada on 14 December 2024 Published as Volume 262 by the Proceedings of Machine Learning Research on 10 December 2024. Volume Edited by: Mehdi Rezagholizadeh Peyman Passban Soheila Samiee Vahid Partovi Nia Yu Cheng Yue Deng Qun Liu Boxing Chen Series Editors: Neil D. Lawrence",
+  "main_content": "[ edit ] Volume 262: NeurIPS Efficient Natural Language and Speech Processing Workshop, 14 December 2024, Vancouver, British Columbia, Canada [ edit ] Editors: Mehdi Rezagholizadeh, Peyman Passban, Soheila Samiee, Vahid Partovi Nia, Yu Cheng, Yue Deng, Qun Liu, Boxing Chen [ bib ][ citeproc ] Contents: Training Model Design \\& Architecture Model Efficiency \\& Compression Inference Benchmark \\& Evaluation Applications Filter Authors: Filter Titles: Training Scaling Smart: Accelerating Large Language Model Pre-Training with Small Model Initialization Mohammad Samragh, Seyed Iman Mirzadeh, Keivan Alizadeh-Vahid, Fartash Faghri, Minsik Cho, Moin Nabi, Devang Naik, Mehrdad Farajtabar ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:1-13 [ abs ][ Download PDF ] Computational Bottlenecks of Training Small-scale Large Language Models Saleh Ashkboos, Seyed Iman Mirzadeh, Keivan Alizadeh-Vahid, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar, Fartash Faghri ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:14-21 [ abs ][ Download PDF ] QuAILoRA: Quantization-Aware Initialization for LoRA Neal G Lawton, Aishwarya Padmakumar, Judith Gaspers, Jack FitzGerald, Anoop Kumar, Greg Ver Steeg, Aram Galstyan ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:22-33 [ abs ][ Download PDF ] SuperPos-Prompt: Enhancing Soft Prompt Tuning of Language Models with Superposition of Multi Token Embeddings Mohammad Ali Sadraei Javaheri, Ehsaneddin Asgari, Alice C. McHardy, Hamid R. Rabiee ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:34-46 [ abs ][ Download PDF ] RGP: Achieving Memory-Efficient Model Fine-tuning Via Randomized Gradient Projection Ali Saheb Pasand, Pouya Bashivan ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:47-54 [ abs ][ Download PDF ] Efficient Alignment of Large Language Models via Data Sampling Amrit Khera, Rajat Ghosh, Debojyoti Dutta ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:55-72 [ abs ][ Download PDF ] KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation Rambod Azimi, Rishav Rishav, Marek Teichmann, Samira Ebrahimi Kahou ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:73-80 [ abs ][ Download PDF ] Model Design \\& Architecture Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts Ashwinee Panda, Vatsal Baherwani, Zain Sarwar, Benjamin Therien, Sambit Sahu, Stephen Rawls, Supriyo Chakraborty, Tom Goldstein ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:81-101 [ abs ][ Download PDF ] VL-Mamba: Exploring State Space Models for Multimodal Learning Yanyuan Qiao, Zheng Yu, Zijia Zhao, Sihan Chen, Mingzhen Sun, Longteng Guo, Qi Wu, Jing Liu ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:102-113 [ abs ][ Download PDF ] MisD-MoE: A Multimodal Misinformation Detection Framework with Adaptive Feature Selection Moyang Liu, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:114-122 [ abs ][ Download PDF ] Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities Vicky Zayats, Peter Chen, Melissa Ferrari, Dirk Padfield ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:123-135 [ abs ][ Download PDF ] Is 3D Convolution with 5D Tensors Really Necessary for Video Analysis? Habib Hajimolahoseini, Walid Ahmed, Shuangyue Wen, Yang Liu ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:136-144 [ abs ][ Download PDF ] Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts Youngseog Chung, Dhruv Malik, Jeff Schneider, Yuanzhi Li, Aarti Singh ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:145-164 [ abs ][ Download PDF ] Revisiting SMoE Language Models by Evaluating Inefficiencies with Task Specific Expert Pruning Soumajyoti Sarkar, Leonard Lausen, Volkan Cevher, Thomas Brox, Sheng Zha, George Karypis ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:165-181 [ abs ][ Download PDF ] StructMoE: Structured Mixture of Experts Using Low Rank Experts Zain Sarwar, Ashwinee Panda, Benjamin Th\u00e9rien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:182-193 [ abs ][ Download PDF ] Sparse Upcycling: Inference Inefficient Finetuning Sasha Doubov, Nikhil Sardana, Vitaliy Chiley ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:194-205 [ abs ][ Download PDF ] Model Efficiency \\& Compression Post-Training Statistical Calibration for Higher Activation Sparsity Vui Seng Chua, Yujie Pan, Nilesh Jain ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:206-221 [ abs ][ Download PDF ] Accelerating the Low-Rank Decomposed Models Habib Hajimolahoseini, Walid Ahmed, Shuangyue Wen, Yang Liu ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:222-231 [ abs ][ Download PDF ] The EarlyBird Gets the WORM: Heuristically Accelerating EarlyBird Convergence Adithya G Vasudev ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:232-240 [ abs ][ Download PDF ] Post Training Quantization of Large Language Models with Microscaling Formats Sayeh Sharify, Utkarsh Saxena, Zifei Xu, Wanzin Yazar, Ilya Soloveychik, Xin Wang ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:241-258 [ abs ][ Download PDF ] EchoAtt: Attend, Copy, then Adjust for More Efficient Large Language Models Hossein Rajabzadeh, Aref Jafari, Aman Sharma, Benyamin Jami, Hyock Ju Hj Kwon, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:259-269 [ abs ][ Download PDF ] Scaling laws for post-training quantized large language models Zifei Xu, Alexander Y Lan, Wanzin Yazar, Tristan Webb, Sayeh Sharify, Xin Wang ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:270-285 [ abs ][ Download PDF ] Partially Shared Query-Key for Lightweight Language Models Kai Yang, Vahid Partovi Nia, Boxing Chen, Masoud Asgharian ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:286-291 [ abs ][ Download PDF ] Inference Snakes and Ladders: Accelerating SSM Inference with Speculative Decoding Yangchao Wu, Yonatan Dukler, Matthew Trager, Alessandro Achille, Wei Xia, Stefano Soatto ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:292-304 [ abs ][ Download PDF ] GEAR: An Efficient Error Reduction Framework for KV Cache Compression in LLM Inference Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:305-321 [ abs ][ Download PDF ] The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation Lawrence Stewart, Matthew Trager, Sujan Gonugondla, Stefano Soatto ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:322-335 [ abs ][ Download PDF ] Distributed Speculative Inference of Large Language Models is Provably Faster Nadav Timor, Jonathan Mamou, Oren Pereg, Moshe Berchansky, Daniel Korat, Moshe Wasserblat, Tomer Galanti, Michal Gordon, David Harel ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:336-354 [ abs ][ Download PDF ] AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:355-369 [ abs ][ Download PDF ] Inference-Friendly Models With MixAttention Shashank Rajput, Ying Sheng, Sean Owen, Vitaliy Chiley ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:370-381 [ abs ][ Download PDF ] Improving Multi-candidate Speculative Decoding XiaoFan Lu, Yixiao Zeng, Marco Levorato, FeiYang Ma, ZiXu Yu ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:382-394 [ abs ][ Download PDF ] Speculative Streaming: Fast LLM Inference without Auxiliary Models Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:395-413 [ abs ][ Download PDF ] Hysteresis Activation Function for Efficient Inference Moshe Kimhi, Idan Kashani, Chaim Baskin, Avi Mendelson ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:414-422 [ abs ][ Download PDF ] Efficiently Dispatching Flash Attention For Partially Filled Attention Masks Agniv Sharma, Jonas A. Geiping ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:423-442 [ abs ][ Download PDF ] Duo-LLM: A Framework for Studying Adaptive Computation in Large Language Models Keivan Alizadeh-Vahid, Seyed Iman Mirzadeh, Hooman Shahrkokhi, Dmitry Belenko, Frank Sun, Minsik Cho, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:443-455 [ abs ][ Download PDF ] Dynamic Speculation Lookahead Accelerates Speculative Decoding of Large Language Models Jonathan Mamou, Oren Pereg, Daniel Korat, Moshe Berchansky, Nadav Timor, Moshe Wasserblat, Roy Schwartz ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:456-467 [ abs ][ Download PDF ] CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios Luning Wang, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:468-484 [ abs ][ Download PDF ] Residual vector quantization for KV cache compression in large language model Ankur Kumar ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:485-490 [ abs ][ Download PDF ] Benchmark \\& Evaluation Rephrasing natural text data with different languages and quality levels for Large Language Model pre-training Michael Pieler, Marco Bellagente, Hannah Teufel, Duy Phung, Nathan Cooper, Jonathan Tow, Paulo Rocha, Reshinth Adithyan, Zaid Alyafeai, Nikhil Pinnaparaju, Maksym Zhuravinskyi, Carlos Riquelme ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:491-511 [ abs ][ Download PDF ] ChemTEB: Chemical Text Embedding Benchmark, an Overview of Embedding Models Performance & Efficiency on a Specific Domain Ali Shiraee Kasmaee, Mohammad Khodadad, Mohammad Arshi Saloot, Nick Sherck, Stephen Dokas, Hamidreza Mahyar, Soheila Samiee ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:512-531 [ abs ][ Download PDF ] On the Efficiency of NLP-Inspired Methods for Tabular Deep Learning Anton F Thielmann, Soheila Samiee ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:532-539 [ abs ][ Download PDF ] Applications Text Summarization With Graph Attention Networks Mohammadreza Ardestani, Yllias Chali ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:540-553 [ abs ][ Download PDF ] Less is Enough: Adapting Pre-trained Vision Transformers for Audio-Visual Speaker Verification Gnana Praveen Rajasekhar, Jahangir Alam ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:554-563 [ abs ][ Download PDF ] Enhanced label noise robustness through early adaptive filtering for the self-supervised speaker verification task Abderrahim Fathan, Xiaolin Zhu, Jahangir Alam ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:564-575 [ abs ][ Download PDF ] Mai Ho\u2018om\u0101una i ka \u2018Ai: Language Models Improve Automatic Speech Recognition in Hawaiian Kaavya D Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:576-583 [ abs ][ Download PDF ] Lightweight Neural Networks for Speech Emotion Recognition using Layer-wise Adaptive Quantization Tushar Shinde, Ritika Jain, Avinash Kumar Sharma ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:584-595 [ abs ][ Download PDF ] OnlySportsLM: Optimizing Sports-Domain Language Models with SOTA Performance under Billion Parameters Zexin Chen, Chengxi Li, Xiangyu Xie, Parijat Dube ; Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop , PMLR 262:596-610 [ abs ][ Download PDF ] subscribe via RSS",
+  "links": [
+    {
+      "url": "https://github.com/mlresearch/v262/edit/gh-pages/index.html",
+      "text": "edit"
+    },
+    {
+      "url": "https://github.com/mlresearch/v262/edit/gh-pages/_config.yml",
+      "text": "edit"
+    },
+    {
+      "url": "./assets/bib/bibliography.bib",
+      "text": "bib"
+    },
+    {
+      "url": "./assets/bib/citeproc.yaml",
+      "text": "citeproc"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/samragh24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/samragh24a/samragh24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/ashkboos24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/ashkboos24a/ashkboos24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/g-lawton24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/g-lawton24a/g-lawton24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/ali-sadraei-javaheri24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/ali-sadraei-javaheri24a/ali-sadraei-javaheri24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/saheb-pasand24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/saheb-pasand24a/saheb-pasand24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/khera24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/khera24a/khera24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/azimi24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/azimi24a/azimi24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/panda24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/panda24a/panda24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/qiao24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/qiao24a/qiao24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/liu24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/liu24a/liu24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/zayats24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/zayats24a/zayats24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/hajimolahoseini24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/hajimolahoseini24a/hajimolahoseini24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/chung24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/chung24a/chung24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/sarkar24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/sarkar24a/sarkar24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/sarwar24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/sarwar24a/sarwar24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/doubov24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/doubov24a/doubov24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/seng-chua24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/seng-chua24a/seng-chua24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/hajimolahoseini24b.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/hajimolahoseini24b/hajimolahoseini24b.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/g-vasudev24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/g-vasudev24a/g-vasudev24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/sharify24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/sharify24a/sharify24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/rajabzadeh24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/rajabzadeh24a/rajabzadeh24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/xu24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/xu24a/xu24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/yang24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/yang24a/yang24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/wu24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/wu24a/wu24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/kang24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/kang24a/kang24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/stewart24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/stewart24a/stewart24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/timor24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/timor24a/timor24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/agrawal24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/agrawal24a/agrawal24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/rajput24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/rajput24a/rajput24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/lu24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/lu24a/lu24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/bhendawade24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/bhendawade24a/bhendawade24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/kimhi24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/kimhi24a/kimhi24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/sharma24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/sharma24a/sharma24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/alizadeh-vahid24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/alizadeh-vahid24a/alizadeh-vahid24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/mamou24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/mamou24a/mamou24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/wang24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/wang24a/wang24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/kumar24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/kumar24a/kumar24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/pieler24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/pieler24a/pieler24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/shiraee-kasmaee24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/shiraee-kasmaee24a/shiraee-kasmaee24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/f-thielmann24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/f-thielmann24a/f-thielmann24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/ardestani24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/ardestani24a/ardestani24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/praveen-rajasekhar24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/praveen-rajasekhar24a/praveen-rajasekhar24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/fathan24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/fathan24a/fathan24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/d-chaparala24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/d-chaparala24a/d-chaparala24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/shinde24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/shinde24a/shinde24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v262/chen24a.html",
+      "text": "abs"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v262/main/assets/chen24a/chen24a.pdf",
+      "text": "Download PDF"
+    },
+    {
+      "url": "/v262/assets/rss/feed.xml",
+      "text": "via RSS"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Neil Movva",
+  "meta_description": "",
+  "main_content": "Software-Defined Power Jun 2, 2021 Over the last decade, consumer electronics became excellent at handling electric power - converting it, moving it, storing it. Mobile computers, electric vehicles, and micro-scale solar installations all demanded these improvements, so the industry delivered. Let's investigate some of the core advances here, and try bringing them to hobbyist applications. Smartfet Mar 5, 2018 Smartfet is a small, self-contained module designed to abstract away the complexity of high-power switching. It's designed as a simple answer to the question, \u201chow can I modulate power to this beefy load?\u201d Cricket Jan 20, 2018 Cricket is a hobbyist-grade solution for 360\u00ba planar rangefinding and mapping. Intended to be a rudimentary imitation of LiDAR, we trade the precision optoelectronics for hardware that's dirt-cheap and readily accessible.",
+  "links": [
+    {
+      "url": "https://www.neilmovva.com/",
+      "text": "Neil Movva"
+    },
+    {
+      "url": "https://www.neilmovva.com/",
+      "text": "Home"
+    },
+    {
+      "url": "/about/",
+      "text": "About"
+    },
+    {
+      "url": "https://www.neilmovva.com/posts/sdp/",
+      "text": "Software-Defined Power"
+    },
+    {
+      "url": "https://www.neilmovva.com/posts/smartfet/",
+      "text": "Smartfet"
+    },
+    {
+      "url": "https://www.neilmovva.com/posts/cricket/",
+      "text": "Cricket"
+    }
+  ],
+  "images": [
+    {
+      "src": "/posts/smartfet/smartfet-b1-profile_hu5c41159be1cb39dfcb1b588b4ea03738_650813_400x400_fill_q75_box_center.jpg",
+      "alt": ""
+    }
+  ]
+}

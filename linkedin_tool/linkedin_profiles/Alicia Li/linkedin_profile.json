@@ -1,0 +1,265 @@
+[
+  {
+    "fullName": "Alicia L.",
+    "linkedin_internal_id": "911915762",
+    "first_name": "Alicia",
+    "last_name": "L.",
+    "public_identifier": "alicia-l",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "MIT CS/AI & Math Double Major. Incoming ML Research intern @ Genesis Therapeutics",
+    "location": "563 followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/mit-csail?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEGRPOLADdMtg/company-logo_100_100/company-logo_100_100/0/1640006078259/mit_csail_logo?e=2147483647&v=beta&t=3P0gPpC8J_9YLt8qthg0mLajFjwmPS_sw7nvkwnmJtk",
+        "company_name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+        "location": null,
+        "summary": "Robot learning and planning @ Learning & Intelligent Systems GroupFirst author on NeurIPS 2024 Open-World Agents Workshop paper",
+        "starts_at": "Feb 2024",
+        "ends_at": "Present",
+        "duration": "1 year 2 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/mit/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "company_name": "Massachusetts Institute of Technology",
+        "location": null,
+        "summary": "Safe RL for power grid optimization @ Donti Lab",
+        "starts_at": "Jun 2024",
+        "ends_at": "Oct 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Program on AI and Reasoning",
+        "company_url": "https://www.linkedin.com/company/espr-camp?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQEJo60B2SzT-w/company-logo_100_100/company-logo_100_100/0/1631339205234?e=2147483647&v=beta&t=oM2jN96JDmcNfrmEYfHwu_G4qDgl7h7CiJskERQQ0ik",
+        "company_name": "European Summer Program on Rationality",
+        "location": "United Kingdom",
+        "summary": "",
+        "starts_at": "Aug 2024",
+        "ends_at": "Aug 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "Discover Citadel",
+        "company_url": "https://www.linkedin.com/company/citadel-llc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQEr0zQ5jE04zA/company-logo_100_100/company-logo_100_100/0/1688575029322/citadel_llc_logo?e=2147483647&v=beta&t=SAzpEYo7q9cxI8kDihz2zi8xADWhkwPMpTNyBjVuPrE",
+        "company_name": "Citadel",
+        "location": null,
+        "summary": "",
+        "starts_at": "Apr 2024",
+        "ends_at": "Apr 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "Optiver Insight Days Program Invitee",
+        "company_url": "https://nl.linkedin.com/company/optiver?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQE5InV7BZ_Wjg/company-logo_100_100/company-logo_100_100/0/1659345131981/optiver_logo?e=2147483647&v=beta&t=wBHu2Ix8G2WhYM1TmqFx50iCc4fv8HUsqQQxn9a-srQ",
+        "company_name": "Optiver",
+        "location": null,
+        "summary": "",
+        "starts_at": "Apr 2024",
+        "ends_at": "Apr 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "WiSE Program",
+        "company_url": "https://www.linkedin.com/company/jane-street-global?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGDwkF0pxTSjg/company-logo_100_100/company-logo_100_100/0/1700507376786/jane_street_global_logo?e=2147483647&v=beta&t=eyFaBH-a-t5Vq833fZdXpmwlgy-c5614-tH0NvnA19c",
+        "company_name": "Jane Street",
+        "location": "New York, New York, United States",
+        "summary": "",
+        "starts_at": "Jul 2023",
+        "ends_at": "Aug 2023",
+        "duration": "2 months"
+      },
+      {
+        "position": "Researcher at MIT PRIMES",
+        "company_url": "https://www.linkedin.com/school/mit/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "company_name": "Massachusetts Institute of Technology",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Developed and analyzed adversarial strategies against epsilon-greedy online learning agents.",
+        "starts_at": "Jan 2022",
+        "ends_at": "Aug 2023",
+        "duration": "1 year 8 months"
+      },
+      {
+        "position": "Founder and CEO",
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "Watch To Donate",
+        "location": null,
+        "summary": "International student organization that donates revenue from social media videos, mobile apps, and collaborations with artists and businesses. Lead a team of 10. Raised over $6,000 for 27 causes, reached over 6 million people, and developed apps Play To Donate and Memorize To Donate (9,000+ downloads). Created the Family Fund to help our online community of 50,000 in need. Hosted workshops teaching students about video editing and social media to fundraise.",
+        "starts_at": "Jun 2020",
+        "ends_at": "Aug 2023",
+        "duration": "3 years 3 months"
+      },
+      {
+        "position": "Researcher",
+        "company_url": "https://at.linkedin.com/school/university-of-applied-arts-vienna/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHIHnDmlS7QEA/company-logo_100_100/company-logo_100_100/0/1631316248083?e=2147483647&v=beta&t=VEa9DvIodY836i-VRuxAp3snfALjZAsz4oDAe3Yub8o",
+        "company_name": "University of Applied Arts Vienna",
+        "location": null,
+        "summary": "Developing a more effective model of harnessing the attention economy for sustainability. Spoke at the university.",
+        "starts_at": "Nov 2022",
+        "ends_at": "Apr 2023",
+        "duration": "6 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/mit/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Massachusetts Institute of Technology",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/lexington-high-school-mass/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Lexington High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/D4E0BAQFv1I4dWQkfog/company-logo_100_100/company-logo_100_100/0/1684429023902?e=2147483647&v=beta&t=365K-_-zi7nU9J1ps7wA4y4LNt2nn0RuYM91yqYCAhU",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/harvard-extension-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Harvard Extension School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHz0c7P2kw7TA/company-logo_100_100/company-logo_100_100/0/1677174940836/harvard_extension_school_logo?e=2147483647&v=beta&t=8MOQQCQo9yxqasqsGSCddQGpOyNU0TEaVMDLF2JM6Sg",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2021 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "description1_link": "https://www.linkedin.com/company/mit-csail?trk=public_profile_topcard-current-company",
+      "description2": "Massachusetts Institute of Technology",
+      "description2_link": "https://www.linkedin.com/school/mit/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/alicialundy?trk=public_profile_samename-profile",
+        "name": "Alicia L.",
+        "summary": "",
+        "location": "Greater Phoenix Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alicia-wright-310a75217?trk=public_profile_samename-profile",
+        "name": "Alicia Wright",
+        "summary": "Ed.S Teacher Leadership",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alicia-l-604666320?trk=public_profile_samename-profile",
+        "name": "Alicia L",
+        "summary": "--",
+        "location": "Jacksonville, FL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alicia-l-477bb3242?trk=public_profile_samename-profile",
+        "name": "Alicia L",
+        "summary": "Learning Experience Designer",
+        "location": "Wyandotte, MI"
+      },
+      {
+        "link": "https://www.linkedin.com/in/aliciakolacki?trk=public_profile_samename-profile",
+        "name": "Alicia Kolacki L.",
+        "summary": "STEM MBA | FP&A | IT Finance",
+        "location": "Rochester, NY"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Learning to Bridge the Gap: Efficient Novelty Recovery with Planning and Reinforcement Learning",
+        "sub_title": "September 28, 2024",
+        "summary": "First author. Accepted to NeurIPS 2024 Open World Agents Workshop",
+        "date": "September 28, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fabs%2F2409%2E19226&urlhash=PJZD&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Adversarial Attacks Against Online Reinforcement Learning Agents in MDPs",
+        "sub_title": "MIT PRIMES",
+        "summary": "",
+        "date": "January 15, 2023",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmath%2Emit%2Eedu%2Fresearch%2Fhighschool%2Fprimes%2Fmaterials%2F2022%2FLi-Yablon%2Epdf&urlhash=SQuk&trk=public_profile_publication-title"
+      },
+      {
+        "name": "The Classification of Magic SET Squares",
+        "sub_title": "Recreational Mathematics Magazine",
+        "summary": "",
+        "date": "September 17, 2020",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fsciendo%2Ecom%2Farticle%2F10%2E2478%2Frmm-2020-0005&urlhash=l3Gp&trk=public_profile_publication-title"
+      },
+      {
+        "name": "Confirming the Labels of Coins in One Weighing",
+        "sub_title": "Arxiv",
+        "summary": "",
+        "date": "June 30, 2020",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fabs%2F2006%2E16797&urlhash=v4eP&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [
+      {
+        "name": "Graduate Advanced Algorithms"
+      },
+      {
+        "name": "Graduate Inference and Information"
+      },
+      {
+        "name": "Graduate Sensorimotor Learning"
+      },
+      {
+        "name": "Natural Language Processing"
+      },
+      {
+        "name": "Probability"
+      },
+      {
+        "name": "Real Analysis"
+      },
+      {
+        "name": "Statistics"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "National Merit Finalist",
+        "organization": "National Merit Scholarship Corporation",
+        "duration": "Feb 2023",
+        "summary": ""
+      },
+      {
+        "name": "AIME Qualifier (5x)",
+        "organization": "Mathematical Association of America",
+        "duration": "",
+        "summary": "Qualified for AIME 2019, 2020, 2021, 2022, and 2023"
+      },
+      {
+        "name": "Math Prize For Girls Qualifier (3x)",
+        "organization": "Advantage Testing Foundation",
+        "duration": "",
+        "summary": "Math Prize For Girls 2019, 2021, 2022"
+      }
+    ],
+    "score": []
+  }
+]

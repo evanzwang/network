@@ -1,0 +1,541 @@
+{
+  "title": "Rex LIU | Senior Engineer | Doctor of Philosophy | Research profile",
+  "meta_description": "Rex LIU, Senior Engineer | Cited by 43 | | Read 7 publications | Contact Rex LIU",
+  "main_content": "Home Rex Liu Rex Liu CoreTech System Co. Ltd. (Moldex3D) Doctor of Philosophy Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in About 7 Publications 436 Reads How we measure 'reads' A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text. Learn more 43 Citations Introduction Skills and Expertise Computational Fluid Dynamics Fortran Direct Numerical Simulation C++ Discrete Element Method Smoothed Particle Hydrodynamics Additional affiliations October 2019 - present CoreTech System Co. Ltd. Research and Development Division Hsinchu, Taiwan Position Engineer February 2019 - September 2019 CR Classification Society Research Department Taiwan Position Surveyor Publications Publications (7) A volume of solid implicit forcing immersed boundary method for solving incompressible Navier-Stokes equations in complex domain Article Jan 2021 Rex Liu Khai Ching Ng Tony Wen-Hann Sheu In this study, a new implicit forcing immersed boundary (IFIB) method is proposed to solve incompressible viscous fluid flow problems involving complex domains. In the conventional immersed boundary (IB) method, a forcing term computed from the volume of solid (VOS) is added to the incompressible Navier-Stokes equations in order to satisfy the velo... View Analytical Solution for Froude\u2013Krylov Force of Triangulated Geometry in Linear Waves Article Dec 2020 Rex Liu Tsung-Yueh Lin For wave exciting load on offshore structures, Froude-Kyrlov (FK) force is easier to evaluate than diffracting force. But current nonlinear FK models suffer low computational speed. Conventionally, FK force is calculated by performing Gaussian quadrature (GQ) on each surface mesh and the choice of the mesh size is important in order to resolve wave... View Acceleration of high-order combined compact finite difference scheme for simulating three-dimensional flow and heat transfer problems in GPUs Article Jul 2020 Neo Shih-Chao Kao Rex Liu Tony Wen-Hann Sheu In this article, the high-order upwinding combined compact difference scheme developed in a three-point grid stencil is applied to solve the incompressible Navier-Stokes (NS) and energy equations in three dimensions. The time integrator with symplectic property is employed to approximate the temporal derivative term in inviscid Euler equation so as... View An improved mixed Lagrangian-Eulerian (IMLE) method for modelling incompressible Navier-Stokes flows with CUDA programming on multi-GPUs Article Mar 2019 Rex Liu Cheng-Tao Wu Neo Shih-Chao Kao Tony Wen-Hann Sheu In this study, a GPU-accelerated improved mixed Lagrangian\u2013Eulerian (IMLE) method is proposed to solve the three-dimensional incompressible Navier\u2013Stokes equations. To improve the prediction accuracy, the proposed IMLE method approximates the total derivative term in Lagragian sense, and the spatial derivative terms are approximated on Eulerian coo... View A new high-order particle method for solving high Reynolds number incompressible flows Article Dec 2018 Rex Liu Khai Ching Ng Tony Wen-Hann Sheu In this study, a new high-order particle method is proposed to solve the incompressible Navier\u2013Stokes equations. The proposed method combines the advantages of particle and mesh methods to approximate the total and the spatial derivative terms under the Lagrangian and the Eulerian frameworks. Our aim is to avoid convective instability and increase... View A time marching strategy for solving parabolic and elliptic equations with Neumann boundary conditions Article Oct 2018 Rex Liu Tony Wen-Hann Sheu In the community of computational fluid dynamics, pressure Poisson equation with Neumann boundary condition is usually encountered when solving the incompressible Navier\u2013Stokes equations in a segregated approach such as SIMPLE, PISO, and projection methods. To deal with Neumann boundary conditions more naturally and to retain high order spatial acc... View High-order particle method for solving incompressible Navier-Stokes equations within a mixed Lagrangian-Eulerian framework Article Jul 2017 Rex Liu Tony W. H. Sheu Yao-Hsin Hwang Khai Ching Ng Owing to the fact that the Poisson equation of pressure for incompressible fluid flow is purely elliptic, it is therefore computationally improper to compute pressure on irregularly distributed moving particles as addressed in the recent Moving Particle with embedded Pressure Mesh (MPPM) method. In the current work, a modified MPPM method known as... View Network Cited View All Xiangyu Hu Technical University of Munich Sofiane KHELLADI \u00c9cole nationale sup\u00e9rieure d'arts et m\u00e9tiers Xes\u00fas Nogueira Universidade da Coru\u00f1a John Ringwood Maynooth University G. Fairweather University of Kentucky Cited By View All Julien Reveillon Universit\u00e9 de Rouen Normandie Mahdi Nili-Ahmadabadi Isfahan University of Technology Kyung Chun Kim Pusan National University Vincent Moureau Complexe de Recherche Interprofessionnel en A\u00e9rothermochimie, French National Centre for Scientific Research Li Xuhui Harbin Engineering University Current institution CoreTech System Co. Ltd. (Moldex3D) Current position Engineer Tony W. H. Sheu's Lab Co-authors Top co-authors Khai Ching Ng University of Nottingham Malaysia Campus Tony W. H. Sheu National Taiwan University Tsung-Yueh Lin National Taiwan University Yao-Hsin Hwang Neo Shih-Chao Kao All co-authors (7) View All Tony Wen-Hann Sheu Cheng-Tao Wu Advertisement Join ResearchGate to find the people and research you need to help your work 25+ million members 160+ million publication pages 2.3+ billion citations Join for free",
+  "links": [
+    {
+      "url": "https://www.researchgate.net/",
+      "text": "Home"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=HueZ8KipYfTMJ6KJehDQm4E3hqfuVkrukkx9RtYoIdw8pFy7lfJqyplz4sLQzNNPt_Qm9_zZZPn_Gg",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=HueZ8KipYfTMJ6KJehDQm4E3hqfuVkrukkx9RtYoIdw8pFy7lfJqyplz4sLQzNNPt_Qm9_zZZPn_Gg",
+      "text": "Log in"
+    },
+    {
+      "url": "https://explore.researchgate.net/display/support/Reads",
+      "text": "Learn more"
+    },
+    {
+      "url": "topic/Computational-Fluid-Dynamics",
+      "text": "Computational Fluid Dynamics"
+    },
+    {
+      "url": "topic/Fortran",
+      "text": "Fortran"
+    },
+    {
+      "url": "topic/Direct-Numerical-Simulation",
+      "text": "Direct Numerical Simulation"
+    },
+    {
+      "url": "topic/f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "text": "C++"
+    },
+    {
+      "url": "topic/Discrete-Element-Method",
+      "text": "Discrete Element Method"
+    },
+    {
+      "url": "topic/Smoothed-Particle-Hydrodynamics",
+      "text": "Smoothed Particle Hydrodynamics"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/348827726_A_volume_of_solid_implicit_forcing_immersed_boundary_method_for_solving_incompressible_Navier-Stokes_equations_in_complex_domain",
+      "text": "A volume of solid implicit forcing immersed boundary method for solving incompressible Navier-Stokes equations in complex domain"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Khai-Ching-Ng",
+      "text": "Khai Ching Ng"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/348827726_A_volume_of_solid_implicit_forcing_immersed_boundary_method_for_solving_incompressible_Navier-Stokes_equations_in_complex_domain",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/347368053_Analytical_Solution_for_Froude-Krylov_Force_of_Triangulated_Geometry_in_Linear_Waves",
+      "text": "Analytical Solution for Froude\u2013Krylov Force of Triangulated Geometry in Linear Waves"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Tsung-Yueh-Lin-3",
+      "text": "Tsung-Yueh Lin"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/347368053_Analytical_Solution_for_Froude-Krylov_Force_of_Triangulated_Geometry_in_Linear_Waves",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342749745_Acceleration_of_high-order_combined_compact_finite_difference_scheme_for_simulating_three-dimensional_flow_and_heat_transfer_problems_in_GPUs",
+      "text": "Acceleration of high-order combined compact finite difference scheme for simulating three-dimensional flow and heat transfer problems in GPUs"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Neo-Shih-Chao-Kao-2139927086",
+      "text": "Neo Shih-Chao Kao"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/342749745_Acceleration_of_high-order_combined_compact_finite_difference_scheme_for_simulating_three-dimensional_flow_and_heat_transfer_problems_in_GPUs",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/332043023_An_improved_mixed_Lagrangian-Eulerian_IMLE_method_for_modelling_incompressible_Navier-Stokes_flows_with_CUDA_programming_on_multi-GPUs",
+      "text": "An improved mixed Lagrangian-Eulerian (IMLE) method for modelling incompressible Navier-Stokes flows with CUDA programming on multi-GPUs"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Cheng-Tao-Wu-2155315294",
+      "text": "Cheng-Tao Wu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Neo-Shih-Chao-Kao-2139927086",
+      "text": "Neo Shih-Chao Kao"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/332043023_An_improved_mixed_Lagrangian-Eulerian_IMLE_method_for_modelling_incompressible_Navier-Stokes_flows_with_CUDA_programming_on_multi-GPUs",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/329694946_A_new_high-order_particle_method_for_solving_high_Reynolds_number_incompressible_flows",
+      "text": "A new high-order particle method for solving high Reynolds number incompressible flows"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Khai-Ching-Ng",
+      "text": "Khai Ching Ng"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/329694946_A_new_high-order_particle_method_for_solving_high_Reynolds_number_incompressible_flows",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/328548735_A_time_marching_strategy_for_solving_parabolic_and_elliptic_equations_with_Neumann_boundary_conditions",
+      "text": "A time marching strategy for solving parabolic and elliptic equations with Neumann boundary conditions"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/328548735_A_time_marching_strategy_for_solving_parabolic_and_elliptic_equations_with_Neumann_boundary_conditions",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/318445345_High-order_particle_method_for_solving_incompressible_Navier-Stokes_equations_within_a_mixed_Lagrangian-Eulerian_framework",
+      "text": "High-order particle method for solving incompressible Navier-Stokes equations within a mixed Lagrangian-Eulerian framework"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Rex-Liu",
+      "text": "Rex Liu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Tony-Sheu",
+      "text": "Tony W. H. Sheu"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Yao-Hsin-Hwang-2045328937",
+      "text": "Yao-Hsin Hwang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Khai-Ching-Ng",
+      "text": "Khai Ching Ng"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/318445345_High-order_particle_method_for_solving_incompressible_Navier-Stokes_equations_within_a_mixed_Lagrangian-Eulerian_framework",
+      "text": "View"
+    },
+    {
+      "url": "profile/Xiangyu-Hu-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Xiangyu-Hu-2",
+      "text": "Xiangyu Hu"
+    },
+    {
+      "url": "profile/Sofiane-Khelladi",
+      "text": ""
+    },
+    {
+      "url": "profile/Sofiane-Khelladi",
+      "text": "Sofiane KHELLADI"
+    },
+    {
+      "url": "profile/Xesus-Nogueira",
+      "text": ""
+    },
+    {
+      "url": "profile/Xesus-Nogueira",
+      "text": "Xes\u00fas Nogueira"
+    },
+    {
+      "url": "profile/John-Ringwood",
+      "text": ""
+    },
+    {
+      "url": "profile/John-Ringwood",
+      "text": "John Ringwood"
+    },
+    {
+      "url": "profile/G-Fairweather",
+      "text": ""
+    },
+    {
+      "url": "profile/G-Fairweather",
+      "text": "G. Fairweather"
+    },
+    {
+      "url": "profile/Julien-Reveillon",
+      "text": ""
+    },
+    {
+      "url": "profile/Julien-Reveillon",
+      "text": "Julien Reveillon"
+    },
+    {
+      "url": "profile/Mahdi-Nili-Ahmadabadi",
+      "text": ""
+    },
+    {
+      "url": "profile/Mahdi-Nili-Ahmadabadi",
+      "text": "Mahdi Nili-Ahmadabadi"
+    },
+    {
+      "url": "profile/Kyung-Kim-25",
+      "text": ""
+    },
+    {
+      "url": "profile/Kyung-Kim-25",
+      "text": "Kyung Chun Kim"
+    },
+    {
+      "url": "profile/Vincent-Moureau",
+      "text": ""
+    },
+    {
+      "url": "profile/Vincent-Moureau",
+      "text": "Vincent Moureau"
+    },
+    {
+      "url": "profile/Li-Xuhui-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Li-Xuhui-2",
+      "text": "Li Xuhui"
+    },
+    {
+      "url": "lab/Tony-W-H-Sheu-Lab-2",
+      "text": "Tony W. H. Sheu's Lab"
+    },
+    {
+      "url": "profile/Khai-Ching-Ng",
+      "text": ""
+    },
+    {
+      "url": "profile/Khai-Ching-Ng",
+      "text": "Khai Ching Ng"
+    },
+    {
+      "url": "profile/Tony-Sheu",
+      "text": ""
+    },
+    {
+      "url": "profile/Tony-Sheu",
+      "text": "Tony W. H. Sheu"
+    },
+    {
+      "url": "profile/Tsung-Yueh-Lin-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Tsung-Yueh-Lin-3",
+      "text": "Tsung-Yueh Lin"
+    },
+    {
+      "url": "scientific-contributions/Yao-Hsin-Hwang-2045328937",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Yao-Hsin-Hwang-2045328937",
+      "text": "Yao-Hsin Hwang"
+    },
+    {
+      "url": "scientific-contributions/Neo-Shih-Chao-Kao-2139927086",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Neo-Shih-Chao-Kao-2139927086",
+      "text": "Neo Shih-Chao Kao"
+    },
+    {
+      "url": "scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Tony-Wen-Hann-Sheu-2140120674",
+      "text": "Tony Wen-Hann Sheu"
+    },
+    {
+      "url": "scientific-contributions/Cheng-Tao-Wu-2155315294",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Cheng-Tao-Wu-2155315294",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Cheng-Tao-Wu-2155315294",
+      "text": "Cheng-Tao Wu"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FRex-Liu%3FsendMessage%3D1&_sg=p6S01Ma55RXBI0e1JZZ34zZGSKuyk6PH7asYLUByAGg51OI2MkvCxis9uMkMPGPjutmaLQHsJuCgKQ",
+      "text": "Log in"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FRex-Liu%3FsendMessage%3D1&_sg=p6S01Ma55RXBI0e1JZZ34zZGSKuyk6PH7asYLUByAGg51OI2MkvCxis9uMkMPGPjutmaLQHsJuCgKQ",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html?ev=su_profileMessage&_sg=nrkaWy0UBmaMyaQPG8-UlaApxuMS75fJmnwKD4gNx1AbEfpKBVhN1PfE5JCw9Nk_H1P9jzcOYobGtMHrB3Rr2kt5M88",
+      "text": "Join for free"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/514829036920832-1499756215695_Q128/Rex-Liu.jpg",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Khai Ching Ng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tsung-Yueh Lin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Neo Shih-Chao Kao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Cheng-Tao Wu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Neo Shih-Chao Kao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Khai Ching Ng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Rex Liu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony W. H. Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yao-Hsin Hwang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Khai Ching Ng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xiangyu Hu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sofiane KHELLADI"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Xes\u00fas Nogueira"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "John Ringwood"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "G. Fairweather"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Julien Reveillon"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Mahdi Nili-Ahmadabadi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kyung Chun Kim"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Vincent Moureau"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Li Xuhui"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Khai Ching Ng"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tony W. H. Sheu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Tsung-Yueh Lin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yao-Hsin Hwang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Neo Shih-Chao Kao"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Tony Wen-Hann Sheu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Cheng-Tao Wu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Cheng-Tao Wu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/420699284191573/images/symbols/svg/classification-academic.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/415447567661256/images/symbols/svg/classification-corporate.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/44240833271040/images/symbols/svg/classification-medical.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/41625716582999/images/symbols/svg/classification-notresearcher.svg",
+      "alt": ""
+    }
+  ]
+}

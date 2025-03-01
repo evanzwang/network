@@ -1,0 +1,289 @@
+[
+  {
+    "fullName": "Locke Cai",
+    "linkedin_internal_id": "744864731",
+    "first_name": "Locke",
+    "last_name": "Cai",
+    "public_identifier": "lockecai",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D4E03AQEbfLifK1nnwg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698543672573?e=2147483647&v=beta&t=VPQ-gR50V2tJVlHg5IoZ_usA-WhEFFjKROc1Z-dFMig",
+    "headline": "CS & Math @ MIT | Incoming ML Research Intern @ Together.AI | USACO Finalist '21 & '22 | MOP '22",
+    "location": "589 followers\n          \n          \n              500+ connections",
+    "about": "",
+    "experience": [
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/mit/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "Massachusetts Institute of Technology",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Leading research on Reinforcement Learning (RL) methods to transform Large Language Models (LLMs) into powerful sequential decision makers in complex reasoning tasks. Developing scalable RL algorithms to train specialized LLM agents for end-to-end software development.",
+        "starts_at": "Jun 2024",
+        "ends_at": "Present",
+        "duration": "10 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/mit/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "Massachusetts Institute of Technology",
+        "location": "Cambridge, Massachusetts, United States",
+        "summary": "Researched Graph Neural Networks (GNNs) and their capabilities on subgraph-level tasks. Developed novel pre-training and transfer learning frameworks to efficiently adapt pre-trained GNNs to subgraph-level tasks.",
+        "starts_at": "Oct 2023",
+        "ends_at": "Jun 2024",
+        "duration": "9 months"
+      },
+      {
+        "position": "Research Engineering Intern (Cursor)",
+        "company_url": "https://www.linkedin.com/company/anysphereinc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQF_FK22GQlprQ/company-logo_100_100/company-logo_100_100/0/1737270624873/anysphereinc_logo?e=2147483647&v=beta&t=-5BEJORiO_YtsgBvfF_LSNJZAipmE2wgQi0nN5cG0LI",
+        "company_name": "Anysphere",
+        "location": "San Francisco Bay Area",
+        "summary": "Designed and built a new production-ready context retrieval system for LLM prompt generationSignificantly enhances LLM\u2019s code-generation capabilities by providing relevant snippets of symbol definitions and references in user\u2019s codebaseDesigned advanced preloading and asynchronous caching mechanisms to achieve low-latency retrieval",
+        "starts_at": "Jan 2024",
+        "ends_at": "Jan 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "Research Analyst",
+        "company_url": "https://www.linkedin.com/school/stonybrookuniversity/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_100_100/company-logo_100_100/0/1630647027307/stony_brook_university_logo?e=2147483647&v=beta&t=ugcw8ZgUsjEHY_Nyg68U_WAfcbYYLLRnbIuDqaAI_a0",
+        "company_name": "Stony Brook University",
+        "location": "Stony Brook, New York, United States",
+        "summary": "Redesigned and optimized Argus, an end-to-end framework that accelerates Convolutional NNs (CNNs) on specialized hardwares (FPGAs). Researched how to generate highly optimized circuit designs for various novel NNs for particle accelerators. Augmented and tuned Argus to create a highly efficient circuit design for a NN deployed in the ATLAS particle detector (expecting publication in ICS 2024).",
+        "starts_at": "Jul 2022",
+        "ends_at": "Oct 2023",
+        "duration": "1 year 4 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/mit/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Massachusetts Institute of Technology",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "college_degree": "Computer Science",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2026",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/west-windsor-plainsboro-high-school-south/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "West Windsor-Plainsboro High School South",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQG-1Is9v-Y51Q/company-logo_100_100/company-logo_100_100/0/1631375597255?e=2147483647&v=beta&t=KIX9a47oE71Nv4fbpkBSQqxlSufZRV0MRaf_1Uu6B1c",
+        "college_degree": "High School",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": "GPA: 4.00 (UW) / 4.86 (W)"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/princeton-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Princeton University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_100_100/company-logo_100_100/0/1630648147093/princeton_university_logo?e=2147483647&v=beta&t=YQ3rA8riytOAQh41Kdpy_9jquNqQaa6KtJU1K6PVBeU",
+        "college_degree": "Dual Enrollment",
+        "college_degree_field": "4.0",
+        "college_duration": "2022 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "Massachusetts Institute of Technology",
+      "description1_link": "https://www.linkedin.com/school/mit/?trk=public_profile_topcard-current-company",
+      "description2": "Massachusetts Institute of Technology",
+      "description2_link": "https://www.linkedin.com/school/mit/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/viraj-ala-30390a154_recruitment-internshipseason-activity-7266313379747643394-ypHy",
+        "title": "When you have 6 coffee chats in a day, 275 internship rejections, 17 Workday assessments, and 8 interviews to prep for but it doesn\u2019t phase you\u2026",
+        "activity": "Liked by Locke Cai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/drjimfan_llmc-1000-lines-of-pure-c-code-that-implements-activity-7183480601230913537-JCoO",
+        "title": "llm.c: 1,000 lines of pure C code that implements a GPT-2 and training pipeline from scratch. No python, no frameworks, no dependencies. Just math\u2026",
+        "activity": "Liked by Locke Cai"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nathan-chen-65a25516b_i-am-enthused-to-announce-that-i-have-earned-activity-7146984276834623488-YehY",
+        "title": "I am enthused to announce that I have earned the status of Signature patron at Chick-fil-A for the new year! Over the last several years I have had\u2026",
+        "activity": "Liked by Locke Cai"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/company/vermont-immunofoundry?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "UVM Immunofoundry\n        \n              \n          Senior Hannah Carroll in BME applied several machine learning models to images of retinas in order to score severity of diabetic retinopathy. To do this, she rapidly leveraged Pytorch and several computer vision deep learning neural net architectures this term in Deep Learning for Biomedical Engineering in UVM College of Engineering and Mathematical Sciences. \n\nGitHub:\u00a0https://lnkd.in/gnrZkDY8",
+        "location": "12"
+      },
+      {
+        "link": "https://br.linkedin.com/company/compilers-lab?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Compilers Lab\n        \n              \n          The parameters of compiler optimizations interact in complex and non-trivial ways, and finding optimal combinations remains an open research challenge.\n\nThere are several approaches to discovering effective combinations of these optimization parameters. Recently, Michael Canesche (Cadence Design Systems) and Gaurav Verma (Stony Brook University) have had promising results using auto-tuning with coordinate descent.\n\nTo visualize this process, imagine that each optimization represents a 'dimension' in a search space. The combination of all optimizations and their respective parameters forms a vector in this space. Now, consider that each point in this space is mapped to a real number representing the performance of a kernel (assuming a fixed input). Coordinate descent is a search technique that assumes the performance curve is convex. Based on this assumption, it aims to find the optimal point by varying one optimization parameter at a time.\n\nExplore as a Storm, Exploit as a Raindrop: On the Benefit of Fine-Tuning Kernel Schedulers with Coordinate Descent: https://lnkd.in/dgxxfdYR\n\nThe Droplet Search Algorithm for Kernel Scheduling: https://lnkd.in/dBfQid9z",
+        "location": "77"
+      },
+      {
+        "link": "https://www.linkedin.com/showcase/amazonscience/?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Amazon Science\n        \n              \n          At EMNLP, Amazon researchers showed how to \u201cdetoxify\u201d an LLM's output by using an auxiliary model to estimate the distribution closest to the LLM's current distribution that satisfies toxicity constraints and penalizing the gap between the two.\n\n#EMNLP2024 #LLM #LargeLanguageModels",
+        "location": "30"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cristiannino?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cristian N.\n        \n              \n          Excited to share that our research paper, \"Collaborative Spacecraft Servicing under Partial Feedback using Lyapunov-based Deep Neural Networks\", is now available on arXiv (https://lnkd.in/eS_TJsvN)!\nThis work is the result of a collaborative effort with Dr. Omkar Patil, Dr. Christopher D. Petersen, Dr. Sean Phillips and Dr. Warren Dixon, and we\u2019re thrilled to contribute to the field of autonomous space systems.\n\nAbstract:\nMulti-agent systems are increasingly applied in space missions, including distributed space systems, resilient constellations, and autonomous rendezvous and docking operations. A critical emerging application is collaborative spacecraft servicing, which encompasses on-orbit maintenance, space debris removal, and swarm-based satellite repositioning. These missions involve servicing spacecraft interacting with malfunctioning or defunct spacecraft under challenging conditions, such as limited state information, measurement inaccuracies, and erratic target behaviors. Existing approaches often rely on assumptions of full state knowledge or single-integrator dynamics, which are impractical for real-world applications involving second-order spacecraft dynamics.\nThis work addresses these challenges by developing a distributed state estimation and tracking framework that requires only relative position measurements and operates under partial state information. A novel \u03c1-filter is introduced to reconstruct unknown states using locally available information, and a Lyapunov-based deep neural network adaptive controller is developed that adaptively compensates for uncertainties stemming from unknown spacecraft dynamics. To ensure the collaborative spacecraft regulation problem is well-posed, a trackability condition is defined. A Lyapunov-based stability analysis is provided to ensure exponential convergence of errors in state estimation and spacecraft regulation to a neighborhood of the origin under the trackability condition. The developed method eliminates the need for expensive velocity sensors or extensive pre-training, offering a practical and robust solution for spacecraft servicing in complex, dynamic environments.",
+        "location": "45\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nicholasdavidson01?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Nicholas Davidson\n        \n              \n          I'm excited to say that my two latest publications are now live on TD Commons! These papers introduce advancements in Large Language Model (LLM) fine-tuning and deployment methodologies.\n\nThe first focuses on a new QLoRA-Blend methodology, which enables small LLMs to outperform larger state-of-the-art models in target domains with minimal financial investment. By integrating multiple domain-specific QLoRA adaptations using Spherical Linear Interpolation (SLERP), this technique significantly enhances accuracy and efficiency in Retrieval-Augmented Generation (RAG) systems. This work can be used to extend other full SFT, DPO, and RLHF training methods. QLoRA-Blend lowers the barrier to fine-tuning LLMs effectively by making high-performance AI more accessible and cost-effective\u2014especially for those who are GPU-poor.\n\nThe second publication proposes LLM deployment approaches that facilitate the use of LLMs on mobile, edge, and low-resource hardware. By leveraging techniques such as selective pruning, QLoRA-Blend fine-tuning, and our new approach called SynthRAG, which increases both the speed and accuracy of retrieved sources compared to traditional RAG pipelines, these methodologies achieve impressive accuracy and speed in real-time applications on consumer-grade hardware for local CPU-only inference. This work is important as it democratizes access to cutting-edge AI technology, allowing for high-level performance on widely available devices.\n\nWe are excited to use these advancements in upcoming projects that will push the boundaries of what's possible with AI/ML technology. Stay tuned for the official archived version of our paper to be released soon, showcasing how we used these breakthroughs to develop an LLM that can work in enterprise networking hardware to help diagnose, analyze, and remediate problems within networks.\n\nCheck out the full publications here: \nhttps://lnkd.in/g2qANSdc\nhttps://lnkd.in/g-HvKk_m",
+        "location": "25\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sam-farid-0b87219a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Sam Farid\n        \n              \n          This is a fascinating paper evaluating DeepMind\u2019s AlphaFold 3 and its approach to predicting ligand docking: https://lnkd.in/gieM2nW5\n\nThe authors used a clever method to evaluate AlphaFold, finding that it can make glaring mistakes when placing molecules in binding sites because its model is likely only fitted to the protein\u2019s backbone geometry instead of actually learning the underlying physical interactions.\n\nNot that AlphaFold isn\u2019t a breakthrough technology for drug discovery, but this paper highlights that even the most cutting-edge applications of AI are perhaps still best used to generate candidates, but humans still need to perform robust tests to validate them.\n\nWe\u2019ve been hearing a similar sentiment from nearly all of our users when bringing AI into cloud infrastructure management. Flightcrew has been read-only from the start, using AI to generate insights but requiring a human to sign off before any changes are applied to their infrastructure. The goal is to speed up existing workflows, not create a new point of failure.\n\nDrug discovery and managing Kubernetes are completely different applications but we\u2019re all similarly wary of trusting full AI automation and at this rate, likely will be for some time.",
+        "location": "19"
+      },
+      {
+        "link": "https://www.linkedin.com/company/llamaindex?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "LlamaIndex\n        \n              \n          Mixture-of-Agents as an Event-Driven System \ud83e\udd16\u260e\ufe0f\n\nThis paper by Wang et al. shows you how to ensemble smaller LLMs to create a system that can outperform state-of-the-art larger models.\n\nWe\u2019ve implemented this paper in a fully async, event-driven workflow system thanks to Ravi Theja Desetty - treat each \u201csmall LLM\u201d as an event-driven step that can process incoming events and respond to it, independently and in parallel. \n\n\u2705 Take full advantage of processing an entire batch of requests\u00a0\n\u2705 Cleaner, readable code \n\nLlamaPack: https://lnkd.in/gRuqQGk2\nLearn more about workflows: https://lnkd.in/gqWwz7Xs",
+        "location": "311\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                9 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/company/pytorch?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "PyTorch\n        \n              \n          Great to see the newly announced Bamba-9B, an inference-efficient Hybrid Mamba2 model \ud83d\udc0d trained by IBM, Princeton, CMU, and UIUC on\u00a0completely open data used PyTorch FSDP to train these novel architecture models and they are integrating inference with vLLM, which recently joined the PyTorch Ecosystem.",
+        "location": "167"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ajayso?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ajay S.\n        \n              \n          Implementing Reinforcement Learning (RL) in the context of Large Language Models (LLMs) posed challenges, particularly in designing reward engineering and penalization components. In traditional RL, reward engineering is straightforward, often defined through a scalar reward function. However, implementing the same concept in RL with LLMs required a critic model that evaluates the questions and answers, critiquing them in a manner that simulates the reward function.\n\nA recent research paper on Natural Language Reinforcement Learning (NLRL) provides an intriguing perspective on the reward problem in RL by translating traditional RL concepts into natural language constructs. Here's a summary of how it addresses the reward problem:\nLanguage-Based Value Functions:\nUnlike traditional RL, which uses scalar rewards, NLRL employs language-based value functions. These functions articulate the effectiveness of policies and actions in a more interpretable, natural language format. This approach addresses the need for richer, more informative feedback than simple numerical scores.\n\nIterative Refinement of Language Policies and Critics:\nNLRL incorporates a structured training pipeline where language-based policies and critics are iteratively refined using textual feedback. This method allows the system to handle the complexities of defining rewards in natural language, improving its understanding and evaluation of actions over time through textual feedback loops.\n\nUse of Large Language Models (LLMs):\nThe framework leverages the advanced capabilities of LLMs to interpret, generate, and evaluate complex language-based information. This is essential for implementing language-based value functions and policies, enabling the system to generate and refine responses that align closely with desired outcomes.\n\nDistilling Enhanced Actions and Evaluations:\nNLRL employs a process where enhanced evaluations from the language-based value function approximator and improved actions from the language policy improvement operator are distilled. This allows for continuous refinement and learning.\n\nCompatibility with Existing LLMs:\nThe framework is designed to be compatible with current LLMs, enabling it to leverage pre-existing language models to process and generate linguistic data effectively. This compatibility is crucial for translating the traditional reward engineering process into a language-based framework.\n\nThe NLRL framework's introduction of natural language as a medium for representing and evaluating policies and rewards offers a novel solution to the reward problem in RL. By shifting from numerical reward systems to a more flexible, expressive, and intuitive system based on language, NLRL enhances interpretability and adaptability, paving the way for more diverse RL applications.\nInnovation Hacks AI Inc.\n#llm #refincorcementlearning #ai",
+        "location": "4"
+      },
+      {
+        "link": "https://hk.linkedin.com/company/getvm?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "GetVM\n        \n              \n          Unlock the secrets of distributed computing with free courses from top-tier universities! Carnegie Mellon, IIT Kanpur, and ETH Zurich reveal the cutting-edge techniques powering modern tech infrastructure. Learn how parallel algorithms, cloud computing, and advanced system design are reshaping our digital world. From theoretical foundations to practical implementations, these resources offer an unparalleled deep dive into the complex networks that drive technological innovation. Whether you're a student, professional, or tech enthusiast, these courses provide the insider knowledge to understand how distributed systems are revolutionizing computing at global scale. The future of technology is distributed\u2014are you ready to master its intricate landscape? #Programming #Tutorials #DistributedSystems #GetVM",
+        "location": ""
+      },
+      {
+        "link": "https://fr.linkedin.com/in/josephchakar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Joseph Chakar\n        \n              \n          Very excited to share SCORE, the approach I have developed to break Bayesian Optimization\u2019s curse of dimensionality. \n\nFor those familiar with my work, Bayesian inference has been our go-to technique to study multi-solution degradation problems at the PV module and perovskite solar cell levels. While effective, this method requires extensive simulations to thoroughly sample the parameter space, which becomes impractical for applications where the simulation model is computationally expensive and/or high-dimensional.\n\nIn an attempt to overcome this limitation, we considered switching to Bayesian Optimization (BO), which is designed to intelligently navigate the parameter space and reduce the number of simulations needed. However, we encountered a surprising issue: the iterative BO process started taking longer than the simulations themselves, defeating its intended purpose. This issue, commonly referred to as the curse of dimensionality, causes BO\u2019s computing time to increase exponentially with each iteration. \n\nFrustrated by this problem and the lack of flexibility in available alternatives, I came up with SCORE, a technique to reparametrize BO in 1D and effectively break this curse. Today, I am thrilled to share that we have been successfully using SCORE to beat BO in tackling solar energy optimization problems ranging up to 14 dimensions, in collaboration with local and international partners. \n\nEncouraged by these promising results, I've decided to document this technique in a brief working paper and demonstrate its effectiveness on more general benchmark problems. As my PhD is rapidly nearing its end, I have sought the help of Hi! PARIS Center - AI for Science, Business & Society and Pierre-Antoine Amiand-Leroy to build an open-access Python package for SCORE, which is available here: github.com/hi-paris/SCORE\n\nWhile we still need to rigorously assess SCORE, understand its limitations, and compare it with state-of-the-art techniques, I'm excited to share this ongoing project with everyone, and look forward to discussing its applications and potential.\n\nStay tuned for more updates, and feel free to reach out if you'd like to know more or collaborate!\n\nhttps://lnkd.in/eEPv98BX",
+        "location": "36\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/lukercoffman?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Luke Coffman\n        \n              \n          New pre-print on arXiv! https://lnkd.in/gWMja-Ff\n\nQuantum computers have been receiving increasingly more attention in the news lately, however, the question on everyone's mind is \"What can they do?\". A prerequisite to performing interesting quantum computations is classically hard-to-simulate states since if it's easy for a classical computer it's not as interesting. Over the past few decades, classically simulable states have become synonymous with Gaussian states or states generated by a quadratic Hamiltonian or form (e.g. stabilizers, free fermions, matchgates, and free bosons). Thus, the \"magic\" powering quantum computation is often non-Gaussian which we call non-Gaussian magic. Inspired by the fact that Gaussians are uniquely invariant under convolution in classical probability, we define an analogous quantum convolution and use it as a starting point to explore new measures of non-Gaussian magic in fermionic systems. If that sounds interesting, please go check out the paper and if you have any questions please feel free to reach out!\n\nFinally, it would be remiss of me to not thank Xun Gao and Graeme Smith for their guidance and insights while working on this project. I couldn't have done it without them!",
+        "location": "59\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/dr-bilyana-lilly-983b8119?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Dr. Bilyana Lilly\n        \n              \n          In his latest post from #TheBatch, Andrew Ng offers his argument on why #California's proposed law\u00a0SB-1047 is likely to stifle #AI builders and impose unnecessary guardrails on #AI innovation. The law established a \u201chazardous capability\u201d designation that makes *builders* of AI models liable if someone uses their models to do harm. Andrew argues that laws should not regulate the technology (the tool itself) but its application (how it is implemented). \u00a0 \n\nIt's a thoughtful read --> \nDeepLearning.AI #AIgovernance #AIregulation\nhttps://lnkd.in/eBD-9rja",
+        "location": "3"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/leoatar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Leo Atar\n        \n              \n          Tonight I had the pleasure of meeting Astrophysics Professor and Chair of the Physics Department at Carnegie Mellon University, Dr. Scott Dodelson  in a lecture entitled \u201cChallenges in Modern Cosmology\u201d, arranged by UChicago Ryerson Astronomical Society. \n\nDodelson is a leading expert in cosmology, focusing on the large-scale structure of the universe and the physics of dark matter and dark energy. Author of \u2018Modern Cosmology\u2019 and\u2014one of my favourites\u2014\u2018Gravitational Lensing\u2019, his work bridges theory and observation, using tools like lensing and the cosmic microwave background to unlock the mysteries of our universe\u2019s origins and evolution.\n\nIn this talk, Dodelson discussed how the standard cosmological model, while successfully fitting all current data, relies on phenomena like dark matter, a cosmological constant, and inflation\u2014none of which are observed in the lab\u2014and posed the critical question of how to advance as we prepare for the most ambitious astronomical data sets in history\u2026 not to mention (as he bluntly put it) to disprove the \u039bCDM model!",
+        "location": "31"
+      },
+      {
+        "link": "https://www.linkedin.com/in/virajsingh4?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Viraj Singh\n        \n              \n          Ever wondered why LLMs struggle with math? \n\nIn this piece, I take a look under the hood of LLMs and math-related AI study tools, to uncover the reasons LLMs are not well-suited for math, what innovators are doing to get ahead of the problem, and some exciting companies in the space. \n\nI explore several approaches to improve LLM math performance: process supervision, integration with symbolic computing systems (i.e. ChatGPT + Wolfram|Alpha LLC), and novel ways of capturing unique and structured data ( Thinkverse (formerly Learnie AI), Photomath, Thetawise, among many others). One startup in Korea \u2014 QANDA(Mathpresso) \u2014 has built its own math-specific LLM that can outperform many of the incumbents.\n\nIf you are building AI to promote math learning and understanding, please reach out!\n\nVery grateful for the opportunity to go deeper in the EdTech space at Reach Capital this summer before kicking off my MBA/MA in Education at Stanford in the fall! Shoutout to Tony Wan and James Kim for the support on this piece!\n\nhttps://lnkd.in/g8xk_hqJ",
+        "location": "49"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/robert-mcmenemy-%F0%9F%91%BE-70a0709b?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Robert McMenemy \ud83d\udc7e\n        \n              \n          \ud83d\ude80 Excited to share my latest in-depth blog post exploring a cutting-edge AI framework that combines Hyperdimensional Memory Matching (HDMM), Neuro-Symbolic Context Mapping (NSCM), Evolutionary Reinforcement Scoring (ERS) powered by Genetic Algorithms (GAs) and Linear Regression for advanced feature prioritization and decision-making.\n\nThis framework isn\u2019t just another iteration of AI \u2014 it\u2019s a paradigm shift. \n\nBy leveraging hyperdimensional computing for high-capacity memory representation, symbolic reasoning for human-like interpretation and evolutionary algorithms for dynamic optimization it creates a system that\u2019s scalable, interpretable, and robust.\n\nKey highlights:\n\n\ud83d\udcc8 HDMM enables unmatched scalability for high-dimensional data encoding and matching.\n\n\ud83e\udde0 NSCM bridges symbolic reasoning with data-driven models for enhanced decision-making.\n\n\u2699\ufe0f ERS with GAs optimizes features in a way that\u2019s both adaptive and efficient.\n\n\ud83e\uddee Linear Regression integrates seamlessly for actionable insights and predictions.\n\nThis isn\u2019t just about better AI \u2014 it\u2019s about creating systems that mimic cognitive processes, adapt dynamically, and deliver transparent and interpretable results.\n\nLet\u2019s push the boundaries of what\u2019s possible in AI! \ud83d\udca1\n\nRead the full article here\n\n#ArtificialIntelligence #MachineLearning #HyperdimensionalComputing #NeuroSymbolicAI #GeneticAlgorithms #Innovation #FutureOfAI",
+        "location": "1"
+      },
+      {
+        "link": "https://fr.linkedin.com/company/cohorte-inc?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cohorte\n        \n              \n          Memory in Reinforcement Learning has been a black box\u2014until now.\n\nA new framework from AIRI, MIPT, and Mila redefines how we classify and evaluate memory in RL agents, addressing long-standing inconsistencies in the field.\n\nKey contributions:\n\nFormalizing memory types in RL: Long-term memory (LTM): Retains information across extended timeframes.\nShort-term memory (STM): Focused on transient, task-specific data.\n\nInspired by cognitive science, the framework also distinguishes between: Declarative memory and knowledge of facts/events.\nProcedural memory: Skills and action-based knowledge.\n\n\nMemory Decision-Making (Memory DM): Evaluates memory use within a single environment.\nThis contrasts with Meta-RL, which focuses on learning across environments.\n\nMemory-Intensive Environments: Designed to rigorously test agents' memory capabilities.\nEliminates noise from poorly constructed or mismatched evaluation setups.\n\nWhy this matters:\nConsistency in research:\nMisaligned definitions and testing methods have made it hard to assess true memory capabilities.\nThis framework provides a standardized methodology.\nImproved experimental design:\nEnsures memory-related challenges in RL environments are intentional and meaningful.\nAdvancing RL capabilities:\nMemory is critical for decision-making in real-world scenarios like autonomous systems, robotics, and AI assistants. This research creates a foundation for developing more memory-competent agents.\n\nTakeaways for RL researchers:\nUse robust memory evaluations to avoid misleading conclusions about agent performance.\nLeverage the framework to explore task-specific memory strategies (e.g., STM for reactive tasks, LTM for planning).\n\nFocus on memory-intensive environments for benchmarking and fine-tuning.\nThis work bridges the gap between cognitive science and reinforcement learning, setting the stage for smarter, more adaptive AI.\n\nRead more: arXiv:2412.06531\n\n#ReinforcementLearning #MemoryInAI #DeepLearning #RLInnovation\n\n\n\n_____________  \n\n\u2714\ufe0f Click \"Follow\" on the Cohorte page for daily AI engineering news.  \n\nCredits:\u00a0Egor Cherepanov, Nikita Kachaev, Artem Zholus, Alexey K. Kovalev, Aleksandr I. Panov",
+        "location": "1"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aryanng?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Aryan Gupta\n        \n              \n          It\u2019s been a while since I last posted, so I thought I\u2019d share a few things I\u2019ve been working/worked on over the past 6-7 months:\n\n1)Building a Custom Compiler \nAfter getting really interested in Compiler Design last semester, I took it upon myself to learn how to implement a custom compiler. Spent my summer vacation building different stages of compilation. Honestly, it was challenging but super rewarding.(will be posting about in depth)\n\n2) Exploring Vision Transformers\nAs part of an academic project on diabetic retinopathy. I dived deep into these models and learned a lot about computer vision. \n\n3)Web Scrapers for Placement Forums\nBuilt a few web scrapers for scraping placement-related forums. Unfortunately, I lost the code because I forgot to push it to GitHub before formatting my laptop (tough lesson learned here).\n\n4)YouTube Watch Party App\nI\u2019ve been working on a YouTube Watch Party app to learn WebSockets and WebRTC. It\u2019s nearly finished\u2014just needs a few final touches and some code cleanup before I host it. This project has been a great way to test out some ideas.\n\n5)DSA Practice\nSolved 400+ problems(Leetcode,GFG,Codeforces)\u2014not something to brag about, given the market conditions, but it\u2019s part of staying sharp in DSA.\n\n6)Static Site Generator in Python\nCurrently working on a Static Site Generator in Python as part of Boot.dev\u2019s course. It\u2019s been fun to build, and I\u2019m learning more about how static sites work under the hood.\n\nA couple of things I couldn't finish (but plan to get back to):\n\n1)Redis Clone (C++ - Codecrafters)\nGot through 22/40 tasks but hit a nasty bug that I couldn\u2019t figure out(skills issues!!). Will take it up again when I have more time (or when I level up my debugging skills!).\n\n2)Next.js Application Tracker\nStarted building an app to track all my applications in one place. Definitely want to pick this back up when I have a bit more bandwidth.\n\nRepositories for all the above projects:\nCompiler : https://lnkd.in/gu-ZX6YF\nYoutubeWatchParty : https://lnkd.in/gbQhsafD (Don\u2019t mind the unstructured code\u2014I was testing out ideas!)\nNext.js Application Tracker : https://lnkd.in/gemYMGnu\nRedis-clone : \u00a0https://lnkd.in/gUkXq6tx)\nStatic Site Generator Repo : \u00a0https://lnkd.in/g8Np4Ada\nSwinTransformers : https://lnkd.in/gAHptM2e\nLeetcode Profile : https://lnkd.in/gwer2GNH",
+        "location": "52\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://np.linkedin.com/in/basabjha?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Basab Jha\n        \n              \n          The Babel Effect: Multilingual Performance Discrepancies in LLMs\n\nExcited to share my research, \"The Babel Effect,\" which explores performance gaps in Large Language Models (LLMs) between high-resource languages like English and low-resource ones like Nepali.\n\nThe paper dives into tokenization challenges, data scarcity, and training inefficiencies. We propose solutions like data augmentation and improved tokenization to address these issues.\n\nRead more here:\n\nhttps://lnkd.in/deWwJ4uN\n\n\n#AI #NLP #Tokenization #ML",
+        "location": "13\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                4 Comments"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://cn.linkedin.com/in/locke-cai-4328ab231?trk=public_profile_samename-profile",
+        "name": "locke cai",
+        "summary": "Rainbow Eco Packaging Co.,Ltd - Area Manager",
+        "location": "Shenzhen"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Identifying Money Laundering Subgraphs on the Blockchain",
+        "sub_title": "International Conference on AI in Finance (ICAIF) 2024",
+        "summary": "",
+        "date": "October 10, 2024",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fabs%2F2410%2E08394&urlhash=N5FS&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [
+      {
+        "name": "Algebra I"
+      },
+      {
+        "name": "Fundamentals of Programming"
+      },
+      {
+        "name": "Introduction to Inference"
+      },
+      {
+        "name": "Linear Algebra"
+      },
+      {
+        "name": "Real Analysis"
+      }
+    ],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Mathematical Olympiad Program (MOP) Blue Group Participant",
+        "organization": "-",
+        "duration": "May 2022",
+        "summary": "Top ~30 USA Math Olympiad (USAMO) competitors were invited to MOP. Expertise in algebra, probability, geometry, advanced combinatorics. Experienced with abstract proof techniques."
+      },
+      {
+        "name": "2x USA Computing Olympiad (USACO) Finalist",
+        "organization": "-",
+        "duration": "Apr 2022",
+        "summary": "Top 26 USACO competitors who were invited to USACO\u2019s national training camp. Written 120k+ lines of code in C++, familiar with optimization tricks, such as O2 and SIMD. Expertise in advanced algorithms & data structures, such as Segment Trees and FFT."
+      },
+      {
+        "name": "Codeforces Grandmaster",
+        "organization": "-",
+        "duration": "Dec 2021",
+        "summary": "Top 0.8% of 100k+ active participants on Codeforces, the largest international community of competitive programmers"
+      }
+    ],
+    "score": []
+  }
+]

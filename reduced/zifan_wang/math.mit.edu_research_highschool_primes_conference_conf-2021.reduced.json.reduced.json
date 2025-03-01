@@ -1,0 +1,389 @@
+{
+  "title": "Eleventh Annual Fall Term PRIMES Conference",
+  "meta_description": "",
+  "main_content": "Eleventh Annual Fall Term PRIMES Conference, October 16-17, 2021 See also 2021 Spring Term conference and 2021 Reading Group mini-conference October conference abstracts booklet Saturday, October 16 Mathematics 9:00 am: Welcoming Remarks Prof. Michel Goemans, Head of the MIT Mathematics Department Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director 9:15-10:15 am: Session 1: Applied Mathematics Yi (Alex) Liang, \u201cPredicting pandemics with stock market indicators\u201d (mentor Prof. James Unwin, University of Illinois at Chicago) ( slides ) Linda He, \u201cA topological centrality measure for directed networks\u201d (mentor Lucy Yang, Harvard University) ( slides ) Jeremy Yu, \u201cGradient-enhanced physics-informed neural networks for forward and inverse PDE problems\u201d (mentor Dr. Lu Lu) ( slides ) Garrett Heller, \u201cStrichartz estimates and well-posedness for the one-dimensional periodic Dysthe equation\u201d (mentor Chengyang Shao) ( slides ) 10:25-11:15 am: Session 2: Algebra Andrew Gu, \u201cCounting LU matrices with fixed eigenvalues\u201d (mentor Dr. Jonathan Wang) ( slides ) Zifan Wang, \u201cRepresentation stability and orthogonal groups\u201d (mentor Arun Kannan) ( slides ) Karthik Seetharaman, William Yue, and Isaac Zhu, \u201cRegularities in the lattice homology of Seifert homology spheres\u201d ( slides )(mentor Dr. Irving Dai) 11:25 am - 12:25 pm: Session 3: Algebra Ilaria Seidel, \u201cBounds on symmetric numerical semigroups\u201d (mentor Jeffery Yu) ( slides ) Yanan (Nancy) Jiang, Benjamin Li, and Sophie Zhu, \u201cFactorization invariants of algebraic valuations of positive cyclic semirings\u201d (mentor Dr. Felix Gotti) ( slides ) Sophie Zhu, \u201cFactorizations in evaluation monoids of Laurent semirings\u201d (mentor Dr. Felix Gotti) ( slides ) Benjamin Li, \u201cA new class of atomic monoid algebras without the ascending chain condition on principal ideals\u201d (mentor Dr. Felix Gotti) ( slides ) 12:30-1:00 pm: Virtual Chat with PRIMES Chief Research Advisor Prof. Pavel Etingof and Head Mentor Dr. Tanya Khovanova (for students and parents) 1:30-2:35 pm: Session 4: Applied Mathematics Sheryl Hsu, \u201cThe Power of Many: A Physarum Swarm Steiner Tree Algorithm\u201d (mentor Prof. Laura Schaposnik, University of Illinois at Chicago) ( slides ) Alex Hu, \u201cImproved graph formalism for quantum circuit simulation\u201d (mentor Andrey Khesin) ( slides ) Yash Agarwal, \u201cConvolutional encoder decoder network for the removal of coherent seismic noise\u201d (mentor Sarah Greer) ( slides ) Raymond Feng, Andrew Lee, and Espen Slettnes, \u201cResults on various models of mistake-bounded online learning\u201d (mentor Dr. Jesse Geneson, San Jose State University) ( slides ) 2:45-3:40 pm: Session 5: Combinatorics Atharva Pathak, \u201cCombinatorial aspects of the card game War\u201d (mentor Dr. Tanya Khovanova) ( slides ) Sophia Benjamin, Arushi Mantri, and Quinn Perian, \u201cOn the Wasserstein distance between $k$-step probability measures on finite graphs\u201d (mentor Pakawut Jiradilok) ( slides ) Anuj Sakarda, Jerry Tan, and Armaan Tipirneni, \u201cOn the distance spectra of extended double stars\u201d (mentor Feng Gui) ( slides ) 3:50-4:50 pm: Session 6: Geometry Andrew Du, \u201cQuaternion-based analytical inverse dynamics for the human body\u201d (mentor David Darrow) ( slides ) Kevin Cong, \u201cSquare tilings of translation surfaces\u201d (mentor Prof. Sergiy Merenkov, CCNY \u2013 CUNY) ( slides ) Daniel Xia, \u201cA Minkowski-type inequality in AdS-Melvin space\u201d (mentor Prof. Pei-Ken Hung, University of Minnesota) ( slides ) Luke Robitaille, \u201cTopological entropy of simple braids\u201d (mentor Dr. Minh-Tam Trinh) ( slides ) 5:00-5:45 pm: Session 7: Algebra Sushanth Sathish Kumar, \u201cExtending the restricted Lie algebra structure on the homology of a double loop space\u201d (mentor Adela Zhang) ( slides ) Joshua Guo, \u201cOn the Gauss-Epple homomorphism of B n , and generalizations to Artin groups of finite type\u201d (mentor Kevin Chang) ( slides ) Ram Goel, \u201cProducts of reflections in smooth Bruhat intervals\u201d (mentor Christian Gaetz) ( slides ) Sunday, October 17 Computer Science and Computational Biology 9:00 am: Welcoming Remarks Dr. Slava Gerovitch, PRIMES Program Director Prof. Srini Devadas, PRIMES Computer Science Section Coordinator 9:10-10:15 am: Session 8: Computer Science Rachel Chen, \u201cCryptoCuties: A new family of non-fungible virtual assets\u201d (mentor Jules Drean) ( slides ) Yavor Litchev, \u201cDistributed signature scheme with monotonic access pattern\u201d (mentor Yu Xia) ( slides ) Abigail Thomas, \u201cThe implementation of model pruning to optimize zk-SNARKs\u201d (mentor Yu Xia) ( slides ) Simon Beyzerov and Eliyahu Yablon, \u201cVersatile anonymous authentication with Cloak\u201d (mentor Sacha Servan-Schreiber) ( slides ) 10:25-11:25 am: Session 9: Computer Science Kunal Kapoor, \u201cConsensus under a dynamic synchronous model\u201d (mentors Jun Wan and Hanshen Xiao) ( slides ) Tanisha Saxena \u201cA compromise between synchronous and asynchronous systems\u201d (mentor Jun Wan) ( slides ) Akhil Kammila, \u201cAn analysis of the Tor Handshake\u201d (mentor Kyle Hogan) ( slides ) Carl (Zifan) Guo, \u201cStudying the effectiveness of transformer models for analyzing low-level programs\u201d (mentor William Moses) ( slides ) 11:35 am - 12:45 pm: Session 10: Computer Science Abhinav Mummaneni, \u201cUnsupervised contrastive learning with hard positive samples\u201d (mentors Prof. Suvrit Sra and Joshua Robinson) Jack (Qi Hao) Wang, \u201cGeneralization of X-fields image interpolation model to higher dimensions\u201d (mentor Guillaume Leclerc) ( slides ) Michael (Yihao) Huang and Claire Wang, \u201cEfficient algorithm for parallel Bi-core decomposition\u201d (mentors Prof. Julian Shun and Jessica Shi) ( slides ) Tanmay Gupta and Anshul Rastogi, \u201cEnhancing distributed tracing to order events\u201d (mentor Prof. Raja Sambasivan, Tufts University) ( slides ) 12:50-1:20 pm: Virtual Chat with PRIMES Computer Science Section Coordinator Prof. Srini Devadas and mentors (for students and parents) 1:50-2:35 pm: Session 11: Computer Science and Computational Biology Kevin Edward Zhao, \u201cMore than BERT: oLMpics on diverse language models\u201d (mentors Prof. Anna Rumshisky, Namrata Shivagunde, and Vladislav Lialin, UMass Lowell) ( slides ) Christine (Ali) Yang, \u201cLinear classifiers and t-SNE for understanding relationships across cancer types\u201d (mentors Prof. Stefanie Jegelka and Alkis Gotovos) ( slides ) Anish Mudide, \u201cPredicting mammalian conservation status from genome summary statistics\u201d (mentor Dr. Ayshwarya Subramanian, Broad Institute) 2:45-3:55 pm: Session 12: Computational Biology and Bioinformatics Neil Chowdhury, \u201cInterplay between loop extrusion and compartmentalization during mitosis\u201d (mentor Sameer Abraham) Vishnu Emani, \u201cComputational fluid modelling for surgical planning of single ventricle congenital heart defects\u201d (mentors Dr. David Hoganson and Dr. Vijay Govindarajan, Boston Children\u2019s Hospital) ( slides ) Arthur Hu and Powell Zhang, \u201cRemote interactions and effects on mental and physical health\u201d (mentor Prof. Gil Alterovitz) Sruthi Kurada and Victoria Yuan, \u201cCharacterizing ergothioneine pathways and potential drug targets via intrinsically disordered protein analysis\u201d (mentor Prof. Gil Alterovitz) ( slides ) 4:05-4:35 pm: Session 13: Mathematics Nathan Xiong, \u201cThe master field and free Brownian motions\u201d (mentor Pu Yu) ( slides ) Rishabh Das, \u201cThermocapillary modulation of fluidic lenses in microgravity\u201d (mentor Dr. Valeri Frumkin) ( slides ) Eleventh Annual Spring Term PRIMES Conference, May 22-23, 2021 May conference abstracts Saturday, May 22 Mathematics 9:00 am: Welcoming Remarks Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director 9:15-10:15 am: Session 1: PRIMES Circle Gloria Chun & Alicia Li, \u201cThe Post Correspondence Problem\u201d (mentor Alexandra Hoey) ( slides ) Isha Agarwal & Minseo Kim, \u201cDP-3T: Ensuring Cryptographic Safety and Security In COVID-19 Contact Tracing\u201d (mentor Talia Blum) ( slides ) Kien Lau & Andrew Zeng, \u201cModels from Introductory Probability\" (mentor Jordan Benson) 10:20-11:20 am: Session 2: PRIMES Circle Lisa Liu & Tanvi Ganapathy, \u201cA Brief Review of Special Topics in Group Theory\u201d (mentor Gabrielle Kaili-May Liu) ( slides ) Xavier Choe & Garima Rastogi, \u201cNumber Fields and Galois Theory\u201d (mentor Merrick Cai) ( slides ) Dimitar Dimitrov & Isaac Patterson, \u201cInvariants in Knot Theory\u201d (mentor Preston Cranford) 11:25 am - 12:20 pm: Session 3: PRIMES Circle Neil Jin & Apurva Varigonda, \u201cGraph Theory and the Optimization of City Infrastructure\u201d (mentor Rachana Madhukara) Anusha Senapati & Iris Heikkinen, \u201cBranches of Graph Theory: On Spanning Trees\u201d (mentor Rebecca Nelson) Ephram Chun, \u201cApplications of Combinatorial Algorithms for Graph Traversal and Efficiency\u201d (mentor Jung Soo Chu) ( slides ) 12:30-1:00 pm: Virtual Chat with PRIMES Chief Research Advisor Prof. Pavel Etingof, Head Mentor Dr. Tanya Khovanova, Circle coordinator Peter Haine, and assistant Circle coordinator Marisa Gaetz (for students and parents) 1:15-2:10 pm: Session 4: PRIMES Circle Christian Nichols & Duy Pham, \u201cCombinatorics\u201d (mentor Eli Garcia) ( slides ) Shreya Sinha & Jennifer Yuan, \u201cWell, that's just a theory.... a GAME theory\u201d (mentor Katie Gravel) Saniya Srivastava & Heidi Zhang, \u201cModeling Altruism in Evolutionary Biology Using Game Theory\u201d (mentor Ariana Park) 2:15-3:10 pm: Session 5: PRIMES Reading and PRIMES STEP Jason Tang (PRIMES Reading), \u201cThe Sperner Property and Quotients of Boolean Algebras\u201d (mentor Luis Kumanduri) ( slides ) Michael Han, Ella Kim, Evin Liang, Mira Lubashev, Oleg Polin, Vaibhav Rastogi, Benjamin Taycher, Ada Tsui, Cindy Wei (PRIMES STEP Junior group), \u201cFun with Latin Squares\u201d (mentor Dr. Tanya Khovanova) ( slides ) Matvey Borodin, Eric Chen, Aidan Duncan, Boyan Litchev, Jiahe Liu, Veronika Moroz, Matthew Qian, Rohith Raghavan, Garima Rastogi, and Michael Voigt (PRIMES STEP Senior group), \u201cStable Marriage Problem\u201d (mentor Dr. Tanya Khovanova) ( slides ) Sunday, May 23 Computer Science and Computational Biology 9:00am Welcoming Remarks Dr. Slava Gerovitch, PRIMES Program Director Prof. Srini Devadas, PRIMES Computer Science Section Coordinator 9:10-10:10 am: Session 6: Computer Science Benjamin Chen, \u201cPractical Anonymity Sets in Pseudonymous Forums\u201d (mentor Kyle Hogan) ( slides ) Linda Chen, \u201cCommunication Complexity of Byzantine Broadcast\u201d (mentor Jun Wan) ( slides ) Matthew Ding, \u201cSigned-Message Relay Version of Iterative Approximate Byzantine Consensus for Directed Graphs\u201d (mentor Hanshen Xiao) ( slides ) 10:20-11:20 am: Session 7: Computer Science and PRIMES Reading Beining (Cathy) Zhou, \u201cA High-Order Cumulant-Based Sparse Ruler for Improved Lag Generation\u201d (mentor Hanshen Xiao) ( slides ) Jason Yang, \u201cDecentralized Gradient Descent: How Network Structure Affects Convergence\u201d (mentors Jun Wan and Hanshen Xiao ( slides ) Ishita Goluguri and Toyesh Jayaswal (PRIMES Reading), \u201cJumping into Markov Chains\u201d (mentor Dr. Benjamin Landon) ( slides ) 11:30 am - 12:10 pm: Session 8: Computational Biology Sarah Chen, \u201cIn Silico Prediction of Retained Intron-Derived Neoantigens in Leukemia\u201d (mentors Dr. Nicoletta Cieri, Dana-Farber Cancer Institute, and Kari Stromhaug) ( slides ) Mikhail Alperovich, \u201cData Driven Quality Control for Single-Cell RNA Sequencing\u201d (mentor Dr. Ayshwarya Subramanian, Broad Institute) Mathematics Reading Groups Tuesday, December 7 Zoom webinar 7:00 pm Welcoming Remarks Prof. Pavel Etingof, PRIMES Chief Research Advisor Dr. Slava Gerovitch, PRIMES Program Director 7:05 pm Matvey Borodin, Kaylee Ji, and Yifan Kang, \u201cBidding Games\u201d (mentor Chun Hong Lo) ( slides ) Jessica He, Annie Wang, and Max Xu, \u201cPoints on Elliptic Curves\u201d (mentor Dr. Konstantin Jakob) ( slides ) Derek Chen and Advay Goel, \u201cSpectral Graph Theory\u201d (mentor Luis Kumanduri) ( slides ) Andrew Wen, \u201cApplications of Homology\u201d (mentor Lucy Yang, Harvard University) ( slides ) Contact With questions, contact PRIMES Program Director Slava Gerovitch at",
+  "links": [
+    {
+      "url": "../materials/2021/PRIMES-2021-October-abstracts.pdf",
+      "text": "October conference abstracts booklet"
+    },
+    {
+      "url": "../materials/2021/October/1-1-Liang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/1-2-He.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/1-3-Yu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/1-4-Heller.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/2-1-Gu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/2-2-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/2-3-Seetharaman-Yue-Zhu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/3-1-Seidel.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/3-2-Jiang-Li-Zhu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/3-3-Zhu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/3-4-Li.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/4-1-Hsu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/4-2-Hu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/4-3-Agarwal.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/4-4-Feng-Lee-Slettnes.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/5-1-Pathak.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/5-2-Benjamin-Mantri-Perian.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/5-3-Sakarda-Tan-Tipirneni.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/6-1-Du.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/6-2-Cong.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/6-3-Xia.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/6-4-Robitaille.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/7-1-Kumar.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/7-2-Guo.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/7-3-Goel.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/8-1-Chen.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/8-2-Litchev.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/8-3-Thomas.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/8-4-Beyzerov-Yablon.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/9-1-Kapoor.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/9-2-Saxena.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/9-3-Kammila.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/9-4-Guo.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/10-2-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/10-3-Huang-Wang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/10-4-Gupta-Rastogi.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/11-1-Zhao.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/11-2-Yang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/12-2-Emani.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/12-4-Kurada-Yuan.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/13-1-Xiong.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/October/13-2-Das.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/PRIMES-2021-May-abstracts.pdf",
+      "text": "May conference abstracts"
+    },
+    {
+      "url": "../materials/2021/May/1-1-Chun-Li.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/1-2-Agarwal-Kim.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/2-1-Liu-Ganapathy.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/2-2-Choe-Rastogi.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/3-3-Chun.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/4-1-Pham.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/5-1-Tang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/5-2-STEP-Junior.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/5-3-STEP-Senior.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/6-1-ChenB.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/6-2-ChenL.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/6-3-Ding.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/7-1-Zhou.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/7-2-Yang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/7-3-Goluguri-Jayaswal.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/May/8-1-ChenS.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/December/Borodin-Ji-Kang.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/December/He-Wang-Xu.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/December/Chen-Goel.pdf",
+      "text": "slides"
+    },
+    {
+      "url": "../materials/2021/December/Wen.pdf",
+      "text": "slides"
+    }
+  ],
+  "images": [
+    {
+      "src": "/research/highschool/primes/images/primesLogo100.jpg",
+      "alt": "Primes Logo"
+    },
+    {
+      "src": "../images/2021/October/23-group.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/October/1-He.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/5-Heller.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/11-Seidel.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/21-Li.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/32-Hsu.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/48-Mantri.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/53-Cong.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/65-Goel.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/59-group.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/October/101-group.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/October/72-Chen.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/October/81-Kapoor.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/October/93-Huang-Wang.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/October/113-Yang.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/October/123-Kurada.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/October/124-group.png",
+      "alt": "Zoom Screenshot"
+    },
+    {
+      "src": "../images/2021/October/130-group.png",
+      "alt": "Zoom Screenshot"
+    },
+    {
+      "src": "../images/2021/May/Picture45.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture50.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture57.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture63.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture65.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/May/Picture75.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture100.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/May/Picture2.png",
+      "alt": "Zoom Slide"
+    },
+    {
+      "src": "../images/2021/May/Picture6.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/May/Picture23.png",
+      "alt": "Zoom slide"
+    },
+    {
+      "src": "../images/2021/May/Picture32.png",
+      "alt": "Zoom screenshot"
+    },
+    {
+      "src": "../images/2021/reading624.png",
+      "alt": "Slide screenshot"
+    }
+  ]
+}

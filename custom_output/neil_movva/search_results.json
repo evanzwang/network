@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.neilmovva.com/about/",
+    "title": "About \u00b7 Neil Movva",
+    "snippet": "Neil Movva. deep learning + silicon Home; About ; About updated June 2021 Resume (PDF) I work at the intersection of deep learning and computer architecture. I think ML algorithms should inspire silicon architectures, and vice-versa. To that end, I currently work at Apple on the Neural Engine project."
+  },
+  {
+    "url": "https://www.neilmovva.com/",
+    "title": "Neil Movva",
+    "snippet": "Neil Movva. deep learning + silicon Home; About ; Software-Defined Power Jun 2, 2021. Over the last decade, consumer electronics became excellent at handling electric power - converting it, moving it, storing it. Mobile computers, electric vehicles, and micro-scale solar installations all demanded these improvements, so the industry delivered."
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/blyss",
+    "title": "Blyss: End-to-end encrypted AI. - Y Combinator",
+    "snippet": "Neil Movva. Blyss . Company Launches. Blyss - the SDK for privacy. TLDR: Homomorphic encryption offers much stronger privacy guarantees than anyone thought possible. Blyss is the future of privacy, available today as a developer-focused API. We are Samir and Neil, the founders of Blyss."
+  },
+  {
+    "url": "https://www.neilmovva.com/about/nmovva-resume.pdf",
+    "title": "PDF",
+    "snippet": "Neil Movva nmovva@alumni.stanford.edu Computer Vision / Deep Learning, from a systems perspective neilmovva.com Education Stanford University Palo Alto, CA BS and MS in Electrical Engineering, MS GPA: 3.9 Sep 2015 { Jun 2019 Experience Apple Cupertino, CA Deep arningLe Engineer Aug 2019 -"
+  },
+  {
+    "url": "https://samirmenon.com/",
+    "title": "Samir Menon",
+    "snippet": "I work in the Security Engineering and Architecture (SEAR) group at Apple, on TLS and related internet technologies.. I previously co-founded Blyss with Neil Movva.We worked on running LLMs in hardware enclaves, and on an SDK for private information retrieval.. Before that, I was a software engineer at Yubico, where I worked on secure device manufacturing and programming."
+  },
+  {
+    "url": "https://scholar.google.com/citations?user=IWm0M1oAAAAJ&hl=en",
+    "title": "\u202aNeil Movva\u202c - \u202aGoogle Scholar\u202c",
+    "snippet": "Neil Movva. Stanford University, Department of Electrical Engineering. Verified email at stanford.edu. Computational imaging computer vision deep learning computer architecture."
+  },
+  {
+    "url": "https://harkeraquila.com/16782/features/junior-places-2nd-at-regional-jshs-symposium/",
+    "title": "Junior places 2nd at regional JSHS symposium - Harker Aquila",
+    "snippet": "After spending a weekend in Reno packed with competition, discussion, and labwork, junior Neil Movva placed 2nd out of 16 contestants at the Northern California/Western Nevada Junior Science and Humanities Symposium (JSHS), earning the chance to compete at the national symposium at Washington D.C. in late April. Neil's project, titled \"A Novel Use of IR..."
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/author/37088303272",
+    "title": "Neil Movva | IEEE Xplore Author Details",
+    "snippet": "Neil Movva is a senior at Stanford University, where he is majoring in electrical engineering. He studies computer architecture with a focus on accelerated visual computing. His current research interests include computational imaging and deep networks for visual recognition\u2014his goal is to experiment with the imaging pipeline to enable ..."
+  },
+  {
+    "url": "https://web.stanford.edu/class/ee267/Spring2018/report_movva.pdf",
+    "title": "PDF",
+    "snippet": "Neil Movva Stanford University Department of Electrical Engineering nmovva@stanford.edu Abstract VR head-mounted displays (HMDs) currently depend on high-bandwidth physical datalinks to transmit high-\ufb01delity images at fast frame rates. These display streams are cur-rently too bandwidth intensive to be served by wireless in-"
+  }
+]

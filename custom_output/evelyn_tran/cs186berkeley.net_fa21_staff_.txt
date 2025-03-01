@@ -1,0 +1,118 @@
+      CS W186
+      Menu
+              [Home](https://cs186berkeley.net/fa21/)
+              [Syllabus](https://cs186berkeley.net/fa21/syllabus/)
+              [Calendar](https://cs186berkeley.net/fa21/calendar/)
+              [Resources](https://cs186berkeley.net/fa21/resources/)
+              [Staff](https://cs186berkeley.net/fa21/staff/)
+          Links
+              [OH Queue](https://oh.cs186berkeley.net/)
+              [Projects](https://cs186.gitbook.io/project/)
+      Powered by
+        [Just the Class](https://github.com/kevinlin1/just-the-class)
+          Instructors
+                Lakshya Jain
+                  [lakshya.jain@berkeley.edu](mailto:lakshya.jain@berkeley.edu)
+                  Pronouns:
+                  he/him/his
+                  OH:
+                  Friday 4PM - 5PM (Soda 283H)
+                Hello everyone! I’m super excited to be your instructor this semester. I did my undergrad and Masters’ at Berkeley and taught 186 for four semesters as a TA, including a couple as head TA, before graduating and coming back as a lecturer. In my free time, I love to play and watch sports and do political analysis, and I play on the Cal Cricket team. Go bears!
+          Head Teaching Assistants
+                Kaitlyn Lee
+                  [klee376@berkeley.edu](mailto:klee376@berkeley.edu)
+                  she/her/hers
+                  Thursday 7PM - 8PM (Admin)
+                Hello, I’m Kaitlyn! I’m a 4th year EECS major from the Bay Area. I like to experiment with cooking and find new boba places to try. Looking forward to a great semester!
+                  [Dylan Tran](https://dtran16.github.io/)
+                  [dylantran@berkeley.edu](mailto:dylantran@berkeley.edu)
+                  Friday 1PM - 3PM
+                Hi - I’m Dylan! I’m a 4th year CS major from San Jose. In my free time, I like speedcubing, learning new piano songs without ever finishing, and camping. Super excited to meet you all this semester :D
+                Sabrina Zhao
+                  [yifanzhao0210@berkeley.edu](mailto:yifanzhao0210@berkeley.edu)
+                  Section:
+                  Friday 10AM - 11AM Wheeler 200
+                  Thursday 6PM – 8PM
+                hihi! I’m a senior studying CS+ORMS. I like traveling, thrifting, and trying out new restaurants in my free time. Can’t wait to start this semester with you all :D
+          Teaching Assistants
+                Sarthak Arora
+                  [sarthakarora@berkeley.edu](mailto:sarthakarora@berkeley.edu)
+                  TBD (Online)
+                  Tuesday 12PM - 2:30PM
+                Hello! I am a rising senior studying CS and DS. Let’s have a great semester!
+                Jen Buja
+                  [jlbuja@berkeley.edu](mailto:jlbuja@berkeley.edu)
+                  Thursday 4PM - 5PM Evans 3
+                  Thursday 10AM - 11:30AM
+                Hi there! I’m a rising senior studying CS. My favorite activities are hiking, cooking, and playing volleyball! Excited to meet everyone this semester!
+                  [David Chu](https://u.nu/davidchu)
+                  [thedavidchu@berkeley.edu](mailto:thedavidchu@berkeley.edu)
+                  Friday 2PM - 3PM Wheeler 220
+                  Thursday 1PM - 3PM
+                Hello. I’m a 2nd year PhD doing research in distributed systems. I will be eager to converse if the topic of discussion is Beethoven or the two generals problem. Thank you.
+                Rithvik Chuppala
+                  [rithvik.chuppala@berkeley.edu](mailto:rithvik.chuppala@berkeley.edu)
+                  Friday 4PM - 5PM Wheeler 220
+                  Friday, 9AM -10AM
+                Hi! I’m a 3rd year majoring EECS from the Bay Area. My recent pastime activities include watching soccer and basketball, playing video games and watching movies with friends. Looking forward to a great semester back!
+                Sai Gantla
+                  [sgantla@berkeley.edu](mailto:sgantla@berkeley.edu)
+                  Wednesday 8AM -9AM Soda 405
+                  Thursday 3PM - 4:30PM
+                Welcome to 186! Currently trying to learn how to cook and read.
+                  [Ada Hu](https://ada-hu.github.io/)
+                  [adahu@berkeley.edu](mailto:adahu@berkeley.edu)
+                  Friday 1PM - 2PM Wheeler 204
+                  Monday 4PM - 6PM
+                Hi everyone! I’m a senior from Los Angeles, CA. I like playing League, tennis, and Stardew Valley. I also love cats! During the semester, you can probably find me at Asha tea house or Moffitt first floor.
+                  [Raymond Ji](https://raymondji.com/)
+                  [raymondji@berkeley.edu](mailto:raymondji@berkeley.edu)
+                  Wednesday 2PM - 4PM
+                Let’s have a great semester!
+                Kayli Jiang
+                  [kaylijiang@berkeley.edu](mailto:kaylijiang@berkeley.edu)
+                  Wednesday 2PM - 3PM Wheeler 220
+                  Wednesday 3PM - 4:30PM
+                Hey everyone! I’m Kayli, a 4th year studying CS from the Bay Area. I enjoy baking pastries, calisthenics, and watching comedy TV shows. Let’s have a fun time in-person this semester!
+                Shreyas Krishnaswamy
+                  [shrekris@berkeley.edu](mailto:shrekris@berkeley.edu)
+                  Monday 5:30PM - 7PM
+                Hi there! I’m a fourth year, and I enjoy reading books, playing video games (if only I could play Civ V at 2x speed :), and chilling with friends. Welcome to 186, and let’s have a great semester!
+                Sharon Lee
+                  [sharonleesharon@berkeley.edu](mailto:sharonleesharon@berkeley.edu)
+                  Friday 3PM - 4PM Wheeler 200
+                  Friday 9AM - 10:30AM
+                Hi everyone! My name is Sharon, and I am an EECS senior from Malaysia. Outside of CS, I currently like singing, watching Merlin, playing Dota, and playing with my dog, Bella. Hope you like 186, and feel free to talk to me about anything!
+                Sarah Liu
+                  [sarahliu911@berkeley.edu](mailto:sarahliu911@berkeley.edu)
+                  Wednesday 9AM - 10AM Wheeler 220
+                  Tuesday 1:30PM - 2PM, Tuesday 2:30PM - 3:30PM
+                Hi! I’m a 4th year EECS major from SoCal. In my free time I enjoy playing spikeball, hiking, playing board games, and cooking. Looking forward to meeting everyone!
+                Aditi Mahajan
+                  [aditi.mahajan@berkeley.edu](mailto:aditi.mahajan@berkeley.edu)
+                  Friday 5PM - 6PM Soda 320
+                  Thursday 3PM - 5PM
+                Hi! I’m a 4th year Math and CS major from the Bay Area. I love to bake (and eat the results) and spent my time the last year hiking the major peaks in the Bay Area. I love this class and am excited for a fun semester :)
+                Gautam Mittal
+                  [gbm@berkeley.edu](mailto:gbm@berkeley.edu)
+                  Thursday 10AM - 11AM Wheeler 204
+                  Thursday 11AM - 12:30PM
+                Hello! I’m a fourth year EECS major from the Bay Area. I like jazz, running, and coconut water. Welcome to 186!
+                Mantej Panesar
+                  [mantejpanesar@berkeley.edu](mailto:mantejpanesar@berkeley.edu)
+                  TBA (Online)
+                Hi everyone! I’m a 4th year CS major from the Bay Area. In my free time, I enjoy exploring new music (feel free to send recommendations my way), hiking, and rewatching episodes of Psych. Looking forward to meeting you all this semester!
+                Aditya Ramkumar
+                  [aditya.ramkumar@berkeley.edu](mailto:aditya.ramkumar@berkeley.edu)
+                  Thursday 6PM - 9PM
+                Hey folks, I’m a 5th year MSCS from Cupertino. Outside of databases, I enjoy trading stocks, baking cookies, and eating Mexican food. Here’s to a great semester!
+                Evelyn Wu
+                  [evelynpwu@berkeley.edu](mailto:evelynpwu@berkeley.edu)
+                  Wednesday 10AM - 11AM Wheeler 130
+                  Wednesday 1:30PM - 3PM
+                Hello! I’m Evelyn, a third year CS major from Irvine. Really looking forward to meeting you all!!
+                  [Micah Yong](https://micahyong.me/)
+                  [micahtyong@berkeley.edu](mailto:micahtyong@berkeley.edu)
+                  Friday 12PM - 1PM Wheeler 20
+                  Monday 4PM - 5:30PM
+                Hi, I’m Micah! I’m a senior studying computer science from Los Angeles, CA. My interests lie in backend engineering, exploring new cities, reading memoirs, and cooking breakfast! Can’t wait to teach databases with you all :D

@@ -1,0 +1,29 @@
+{
+  "title": "CAP Network - Internal",
+  "meta_description": "",
+  "main_content": "Stanford Profiles Page Not Found Please check the URL used in your browser. If you believe the URL is correct, please use the Feedback button on the right to report the problem. Error Details URL: https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=301499 Original URI: /profiles/frdActionServlet \u00a9 Stanford University. 450 Serra Mall, Stanford, CA 94305. (650) 723-2300 Terms Of Use Copyright Complaints Show Feedback Feedback This change will take effect only when you click on the 'Save' button below. Make my profile visible to Public Stanford only You must make your overall profile publicly visible if you want to display any other content publicly. Your profile is currently not visible to anyone but you. Would you like to make your profile visible? Don't ask me again You can change your visibility anytime by clicking on the My Profile tab or \"edit my profile\" and selecting \"Profile visibility settings\".",
+  "links": [
+    {
+      "url": "http://www.stanford.edu/",
+      "text": "Stanford"
+    },
+    {
+      "url": "https://profiles.stanford.edu/",
+      "text": "Profiles"
+    },
+    {
+      "url": "http://stanford.edu/site/terms.html",
+      "text": "Terms Of Use"
+    },
+    {
+      "url": "http://stanford.edu/site/copyright.html",
+      "text": "Copyright Complaints"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cap.stanford.edu/profiles/auth/viewImage?profileId=-1&type=small&showNoImage=true&lastModified=",
+      "alt": "Portrait of "
+    }
+  ]
+}

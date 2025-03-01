@@ -1,0 +1,33 @@
+{
+  "title": "Chandra Suda's Profile | Stanford Profiles",
+  "meta_description": "Chandra Suda is part of Stanford Profiles, official site for faculty, postdocs, students and staff information (Expertise, Bio, Research, Publications, and more). The site facilitates research and collaboration in academic endeavors.",
+  "main_content": "Chandra Suda Undergraduate, Computer Science Print Profile Email Profile View Stanford-only Profile Tab Menu Bio Contact Work csuda@stanford.edu University - Student Department:&nbspComputer Science Position: Undergraduate",
+  "links": [
+    {
+      "url": "https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=340512",
+      "text": "Print Profile"
+    },
+    {
+      "url": "mailto:?subject=Chandra Suda's Profile&body=I would like to share the profile of Chandra Suda with you. https://profiles.stanford.edu/chandra-suda",
+      "text": "Email Profile"
+    },
+    {
+      "url": "/intranet/chandra-suda",
+      "text": "View Stanford-only Profile"
+    },
+    {
+      "url": "/chandra-suda?tab=bio",
+      "text": "Bio"
+    },
+    {
+      "url": "mailto:csuda@stanford.edu",
+      "text": "csuda@stanford.edu"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://profiles.stanford.edu/proxy/api/cap/profiles/340512/resources/profilephoto/350x350.1715725681045.jpg",
+      "alt": "Chandra Suda"
+    }
+  ]
+}

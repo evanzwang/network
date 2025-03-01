@@ -1,0 +1,182 @@
+  Primary Navigation
+          LIS Logo
+          Mobile Nav Menu Icon
+        end LIS Logo
+        Nav Links
+              [Research](https://lis.csail.mit.edu/research/)
+              [Publications](https://lis.csail.mit.edu/publications/)
+              [People](https://lis.csail.mit.edu/people/)
+              [Opportunities](https://lis.csail.mit.edu/opportunities/)
+              [Blog](https://lis.csail.mit.edu/blog/)
+        end Nav Links
+  end Primary Navigation
+  Page First Section
+        Meet the Team
+        The people behind the LIS Group.
+        Members of LIS work in a broad set of research areas. Our research brings together ideas from motion and task planning, machine learning, reinforcement learning, and computer vision to synthesize robot systems that are capable of behaving intelligently across a wide range of problem domains.
+  end Page First Section
+  People Section
+      People Special Container
+            //
+            Principal Investigators
+                  [Tomás Lozano-Pérez](http://people.csail.mit.edu/tlp/)
+                Professor of Computer Science & Engineering, MIT
+                  [Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/)
+        end people-special-row
+      end people-special-container
+      PHD Student Container
+            PhD Students
+              Aditya Agarwal
+              Sahit Chintalapudi
+              Aiden Curtis
+              Katie Everett
+              Xiaolin Fang
+              Nishanth Kumar
+              Jiayuan Mao
+              Willie McClinton
+              William Shen
+              Zhutian Yang
+              Ben Zandonati
+        end student-section
+      end phd-student-container
+      MEng Student Container
+            MEng Students
+              Eugenia Feng
+              Quincy Johnson
+              Tarang Lunawat
+              Ryan Yang
+              Ethan Yang
+      end MEng Student Container
+      UROP Student Container
+            UROP Students
+              Jing Cao
+              Abe Ejilemele
+              Alicia Li
+              Katherine Lin
+              Yajvan Ravan
+              Benjamin Soria
+              Thiago Veloso
+      end UROP Student Container
+      Visiting Student Container
+      Pets Container
+            Furry Friends of the Lab
+              Nomsy Silver
+              Jebbie
+              Beasley
+              Rey
+              Niko
+              Ben Gehring
+              Marble
+      end Visiting Student Container
+      Alumni Container
+            Alumni
+          Postdoctoral Alumni
+          [Chris Amato](http://people.csail.mit.edu/camato/)
+          [Kristian Kersting](https://scholar.google.com/citations?hl=en&user=QY-earAAAAAJ)
+          [George Konidaris](http://cs.brown.edu/people/gdk/)
+          [Terran Lane](https://scholar.google.com/citations?user=1hfdDW4AAAAJ&hl=en)
+          [Bhaskara Marthi](https://www.linkedin.com/in/bhaskara-marthi-6a197513)
+          [Zvika Marx](https://people.csail.mit.edu/zvim/)
+          [Jorge Mendez Mendez](https://jorge-a-mendez.github.io/)
+          [Brian Milch](http://people.csail.mit.edu/milch)
+          [Kevin Murphy](http://www.cs.ubc.ca/~murphyk/)
+          [Tim Oates](https://www.csee.umbc.edu/people/faculty/tim-oates/)
+          [Frans Oliehoek](http://people.csail.mit.edu/fao/)
+          [Luis Ortiz](http://www-personal.umd.umich.edu/~leortiz/)
+          [Hanna Pasula](http://people.csail.mit.edu/pasula/)
+          [Robert Platt](https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en)
+          [Michael Rosenstein](http://lis.csail.mit.edu/)
+          [Yoonchang Sung](https://yoonchangsung.com)
+          PhD Alumni
+          [Ferran Alet](http://web.mit.edu/alet/www/)
+          [Ariel Anders](http://people.csail.mit.edu/aanders/)
+          [Meg Aycinena](http://people.csail.mit.edu/aycinena/)
+          [Patrick Barragan](http://lis.csail.mit.edu/)
+          [Jennifer Barry](http://people.csail.mit.edu/jbarry/)
+          [Yu-Han Chang](http://www.ai.mit.edu/~ychang)
+          [Rohan Chitnis](http://rohanchitnis.com/)
+          [Han-Pang “Bon Bon” Chiu](http://people.csail.mit.edu/chiu/)
+          [Sam Davies](http://lis.csail.mit.edu/)
+          [Ashwin Deshpande](http://lis.csail.mit.edu/)
+          [Yilun Du](http://yilundu.github.io/)
+          [Sarah Finney](http://people.csail.mit.edu/sjf)
+          [Natalia Hernandez Gardiol](http://people.csail.mit.edu/nhg)
+          [Caelan Garrett](http://web.mit.edu/caelan)
+          [Clement Gehring](http://people.csail.mit.edu/gehring/)
+          [Jared Glover](https://scholar.google.com/citations?user=ZBJCUM8AAAAJ&hl=en)
+          [Gustavo Goretkin](http://lis.csail.mit.edu/)
+          [Rachel Holladay](http://people.csail.mit.edu/rholladay/)
+          [Ben Hong](http://lis.csail.mit.edu/)
+          [Kaijen Hsiao](https://scholar.google.com/citations?user=S1jUhokAAAAJ&hl=en)
+          [Kenji Kawaguchi](http://people.csail.mit.edu/kawaguch/)
+          [Beomjoon Kim](http://people.csail.mit.edu/beomjoon/)
+          [Owen MacIndoe](http://people.csail.mit.edu/owenm/)
+          [Nick Matsakis](http://nick.matsakis.net/)
+          [James McLurkin](http://people.csail.mit.edu/jamesm)
+          [Caris Moses](http://people.csail.mit.edu/cmm386/)
+          [Leonid Peshkin](http://people.csail.mit.edu/pesha/)
+          [Michael Ross](http://people.csail.mit.edu/mgross)
+          [Dan Roy](http://danroy.org/)
+          [Tom Silver](https://tomsilver.github.io/)
+          [Kurt Steinkraus](http://lis.csail.mit.edu/)
+          [Selim Temizer](http://web.mit.edu/temizer/www/selim/)
+          [Zi Wang](http://zi-wang.com/)
+          [Lawson L.S. Wong](http://people.csail.mit.edu/lsw/)
+          [Luke Zettlemoyer](https://scholar.google.com/citations?hl=en&user=UjpbO6IAAAAJ)
+          MEng Alumni
+          [Ashay Athalye](https://www.ashay.io)
+          [Brian Axelrod](http://lis.csail.mit.edu/)
+          [Brandon Baraban](http://lis.csail.mit.edu/)
+          [Ignacio Perez Bedoya](http://lis.csail.mit.edu/)
+          [Anika Cheerla](https://www.linkedin.com/in/anika-cheerla/)
+          [Bartłomiej Cieślar](https://www.linkedin.com/in/bcieslar/)
+          [Shiloh Curtis](https://shilohc.github.io/portfolio)
+          [Dylan Doblar](https://www.linkedin.com/in/dylan-doblar/)
+          [Annie Feng](https://www.linkedin.com/in/annie-f-a21bb516b/)
+          [Rodrigo Gomes](http://lis.csail.mit.edu/)
+          [Jose Muguira Iturralde](https://lis.csail.mit.edu/)
+          [Adarsh Jeewajee](https://sites.google.com/view/adarsh-jeewajee/)
+          [Ciara Kamahele](http://lis.csail.mit.edu/)
+          [Alex LaGrassa](http://lis.csail.mit.edu/)
+          [Gilwoo Lee](http://lis.csail.mit.edu/)
+          [Amber Li](https://www.mit.edu/~amli/)
+          [Zhezheng Luo](http://lis.csail.mit.edu/)
+          [Lilian Luong](http://lis.csail.mit.edu/)
+          [Luke Shimanuki](http://lis.csail.mit.edu/)
+          [Jongu Shin](http://lis.csail.mit.edu/)
+          [Amruth Venkatraman](http://lis.csail.mit.edu/)
+          [Christina Wettersten](http://lis.csail.mit.edu/)
+          [Dani White](https://daniwhite.github.io/)
+          Other Alumni
+          [Anurag Ajay](http://lis.csail.mit.edu/)
+          [Qingquan (Bob) Bao](https://lis.csail.mit.edu/)
+          [Jagdeep Bhatia](https://www.linkedin.com/in/jagdeep-bhatia/)
+          [Ethan Elchun](https://lis.csail.mit.edu/)
+          [Kathryn Le](https://www.linkedin.com/in/kathrynle/)
+          [Rachel Lu](https://www.linkedin.com/in/rachel-lu-144585204/)
+          [Prince Patel](https://ppatel22.github.io/)
+          [Reece Shuttleworth](https://lis.csail.mit.edu/)
+          [Parul Singh](https://lis.csail.mit.edu/)
+          [Anirudh Valiveru](https://www.linkedin.com/in/avaliveru/)
+          [Warren Wang](http://lis.csail.mit.edu/)
+          [Jansen Wong](https://www.linkedin.com/in/jansenwong/)
+          [Zachary Zhang](https://lis.csail.mit.edu/)
+          [Mike Benjamin](http://oceanai.mit.edu/mikerb/cover/home.html)
+          [Gabriel Cruz](http://lis.csail.mit.edu/)
+          [Paolo Gentili](http://lis.csail.mit.edu/)
+          [Shreyas Kapur](https://shreyaskapur.com/)
+          [Jiwon Kim](http://lis.csail.mit.edu/)
+          [Zelda Mariet](http://people.csail.mit.edu/zelda/)
+          [Bruno Scherrer](http://webloria.loria.fr/~scherrer/)
+          [Yo Shavit](http://lis.csail.mit.edu/)
+          [Skye Thompson](http://lis.csail.mit.edu/)
+          [Erica Weng](https://www.linkedin.com/in/ericaweng/)
+          [Victoria Xia](https://www.linkedin.com/in/victoriafxia/)
+          [Charlotte Zhu](http://lis.csail.mit.edu/)
+      end Alumni Container
+  end People Section
+  Primary Footer
+              Learning and Intelligent Systems Group
+                [Accessibility](https://accessibility.mit.edu/)
+        Copyright © 2025 Learning and Intelligent Systems Group  //  Design by Laura Weiss
+  end Primary Footer

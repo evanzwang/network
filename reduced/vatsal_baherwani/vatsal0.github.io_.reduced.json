@@ -1,0 +1,81 @@
+{
+  "title": "Vatsal Baherwani",
+  "meta_description": "",
+  "main_content": "Vatsal Baherwani I'm an undergrad student at the University of Maryland, graduating in 2025. This summer I will join the Center for Human-Compatible AI as a research fellow. Email / CV / Google Scholar / Twitter / Github / LinkedIn / Blog Research I am interested in making AI more accessible, interpretable, and trustworthy. This includes: Exploring computationally efficient architectures and training methods for LLMs Understanding how and where knowledge is represented in neural networks Ensuring AI models adhere to specific rules and act toward human-aligned interests Video Diffusion Models Encode Motion in Early Timesteps Vatsal Baherwani , Yixuan Ren, Abhinav Shrivastava Under Review We show that motion information is independently learned in early timesteps of the diffusion process, prior to the materialization of spatial attributes. We use this insight to present a simple and efficient method for targeted video motion customization. Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts Ashwinee Panda*, Vatsal Baherwani* , Zain Sarwar, Benjamin Therien, Supriyo Chakraborty, Tom Goldstein NeurIPS 2024 OPT, ENLSP, Neural Compression Workshops We approximate the dense backward pass of a sparse mixture-of-experts model, leading to improved training stability and performance with negligible overhead. Racial and Gender Stereotypes Encoded Into CLIP Representations Vatsal Baherwani , Joseph Vincent ICLR 2024 Tiny Paper We demonstrate that image and text embeddings in CLIP exhibit strong biases corresponding to prevalent racial and gender stereotypes. Thanks to Jon Barron for his website template .",
+  "links": [
+    {
+      "url": "https://humancompatible.ai/",
+      "text": "Center for Human-Compatible AI"
+    },
+    {
+      "url": "mailto:vatsalbaherwani@gmail.com",
+      "text": "Email"
+    },
+    {
+      "url": "data/VatsalBaherwaniCV.pdf",
+      "text": "CV"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=sAV3TUoAAAAJ",
+      "text": "Google Scholar"
+    },
+    {
+      "url": "https://twitter.com/vatsalbaherwani",
+      "text": "Twitter"
+    },
+    {
+      "url": "https://github.com/vatsal0/",
+      "text": "Github"
+    },
+    {
+      "url": "https://linkedin.com/in/vatsal-baherwani",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://medium.com/@vatsalbaherwani",
+      "text": "Blog"
+    },
+    {
+      "url": "images/headshot.jpeg",
+      "text": ""
+    },
+    {
+      "url": "/data/MotionDisentanglement.pdf",
+      "text": "Video Diffusion Models Encode Motion in Early Timesteps"
+    },
+    {
+      "url": "/data/DenseBackpropagation.pdf",
+      "text": "Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=hQb6ts30wv",
+      "text": "Racial and Gender Stereotypes Encoded Into CLIP Representations"
+    },
+    {
+      "url": "https://jonbarron.info/",
+      "text": "Jon Barron"
+    },
+    {
+      "url": "https://github.com/jonbarron/jonbarron_website",
+      "text": "website template"
+    }
+  ],
+  "images": [
+    {
+      "src": "images/headshot.jpeg",
+      "alt": "profile photo"
+    },
+    {
+      "src": "images/timesteps.png",
+      "alt": ""
+    },
+    {
+      "src": "images/expertapprox.png",
+      "alt": ""
+    },
+    {
+      "src": "images/gradcam.png",
+      "alt": ""
+    }
+  ]
+}

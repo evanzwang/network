@@ -1,0 +1,48 @@
+  BEGIN: Header
+            ChEM-H W127
+              [Email](mailto:nicolemm@stanford.edu)
+  END: Header
+  BEGIN: Navigation
+        Menu
+            [Home](https://martinez.stanford.edu)
+            [Research](https://martinez.stanford.edu/research/)
+            [Team](https://martinez.stanford.edu/team/)
+            [News](https://martinez.stanford.edu/news/)
+            [Publications](https://martinez.stanford.edu/publications/)
+            [Lab Life](https://martinez.stanford.edu/lab-life/)
+            [Resources](https://martinez.stanford.edu/resources/)
+            [Join](https://martinez.stanford.edu/join/)
+            [Contact](https://martinez.stanford.edu/contact/)
+  END: Navigation
+  BEGIN: Hero
+  END: Hero
+          What We Do
+          The Martinez lab studies RNA regulatory mechanisms that control gene expression. We focus on mRNA processing, RNA modifications and their roles in development and disease.
+          [Our Research](https://martinez.stanford.edu/research/)
+  BEGIN: Modules
+          Join The Lab
+          We are enthusiastic about training and working with the next generation of scientists. We welcome colleagues with diverse experiences, backgrounds, and skill sets. If you are curious about RNA and want to engage in stimulating research in a supportive and inclusive environment, join us. We are currently hiring at all levels.
+            Undergraduate students
+            Graduate students
+            Postdoctoral fellows
+          [Learn More](https://martinez.stanford.edu/join/)
+          Lab News
+              [Congratulations to Ronit on winning a poster prize!](https://martinez.stanford.edu/congratulations-to-ronit-on-winning-a-poster-prize/)
+              [Labsgiving 2024](https://martinez.stanford.edu/labsgiving-2024/)
+              [The Complex Life of RNA Symposium](https://martinez.stanford.edu/the-complex-life-of-rna-symposium/)
+              [Fall Happy Hour](https://martinez.stanford.edu/fall-happy-hour/)
+  END: Modules
+  END: Home Bio
+          Nicole Martinez
+          Nicole is an Assistant Professor in the Departments of Chemical and Systems Biology and of Developmental Biology and a Stanford ChEM-H Institute Scholar. She was a postdoctoral fellow at Yale University and earned her PhD at the University of Pennsylvania. Nicole is excited about all things RNA. Current interests include RNA modifications, splicing, 3’ end processing and co-transcriptional processing. Welcome!
+          [Meet The Team](https://martinez.stanford.edu/team/)
+  BEGIN: Footer
+                [Stanford Home](https://www.stanford.edu/)
+                [Maps & Directions](http://visit.stanford.edu/plan/)
+                [Search Stanford](https://www.stanford.edu/search/)
+                [Terms of Use](https://www.stanford.edu/site/terms/)
+                [Privacy Policy](https://www.stanford.edu/site/privacy)
+                [Emergency Info](http://emergency.stanford.edu/)
+            © Stanford University, Stanford, California 94305.
+              [Copyright Complaints](https://uit.stanford.edu/security/copyright-infringement)
+  END: Footer

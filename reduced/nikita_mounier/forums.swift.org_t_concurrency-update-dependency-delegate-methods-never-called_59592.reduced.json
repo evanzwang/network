@@ -1,0 +1,141 @@
+{
+  "title": "Concurrency update: dependency delegate methods never called - Swift Composable Architecture - Swift Forums",
+  "meta_description": "I&#39;m building out a new feature using the new Grand Concurrency Update (as I like to call it). It&#39;s made modelling dependency clients much, much nicer. As confirmed by your VoiceMemos case study, it felt natural to push t&hellip;",
+  "main_content": "nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38 identifier: Bundle.main.bundleIdentifier! ) let advertisingRegion = CLBeaconRegion( uuid: UUID(uuidString: \"3281D6D1-F2E7-4436-80C0-4EF265331538\")!, major: major, minor: minor, identifier: Bundle.main.bundleIdentifier! ) self.delegate = Delegate( detectorAuthorizationChanged: { [locationManager = UncheckedSendable($locationManager)] auth in print(\"Detector authorization changed: \\(auth)\") switch auth { case .authorizedAlways, .authorizedWhenInUse: guard CLLocationManager.isMonitoringAvailable(for: CLBeaconRegion.self), CLLocationManager.isRangingAvailable() else { continuation.finish(throwing: BeaconError.deniedAuthorization)",
+  "links": [
+    {
+      "url": "/t/concurrency-update-dependency-delegate-methods-never-called/59592",
+      "text": "Concurrency update: dependency delegate methods never called"
+    },
+    {
+      "url": "/c/related-projects/swift-composable-architecture/61",
+      "text": "Related Projects"
+    },
+    {
+      "url": "/c/related-projects/swift-composable-architecture/61",
+      "text": "Swift Composable Architecture"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-composable-architecture/blob/main/Examples/VoiceMemos/VoiceMemos/AudioRecorderClient/LiveAudioRecorderClient.swift",
+      "text": "VoiceMemos"
+    },
+    {
+      "url": "https://forums.swift.org/u/stephencelis",
+      "text": "stephencelis"
+    },
+    {
+      "url": "/u/nikitamounier",
+      "text": "@nikitamounier"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift",
+      "text": "BeaconLive.swift"
+    },
+    {
+      "url": "https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/ContentView.swift#L35-L59",
+      "text": "ContentView.swift"
+    },
+    {
+      "url": "https://forums.swift.org/u/stephencelis",
+      "text": "stephencelis"
+    },
+    {
+      "url": "/u/nikitamounier",
+      "text": "@nikitamounier"
+    },
+    {
+      "url": "https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38",
+      "text": "nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L38"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://github.com/nikitamounier/P2PTest/blob/main/P2PTest/BeaconClient/BeaconLive.swift#L17-L39",
+      "text": "P2PTest/BeaconLive.swift at main \u00b7 nikitamounier/P2PTest \u00b7 GitHub"
+    },
+    {
+      "url": "https://forums.swift.org/u/rog",
+      "text": "rog"
+    },
+    {
+      "url": "/u/nikitamounier",
+      "text": "@nikitamounier"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/corelocation/cllocationmanager",
+      "text": "CLLocationManager | Apple Developer Documentation"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/foundation/runloop",
+      "text": "RunLoop"
+    },
+    {
+      "url": "https://forums.swift.org/u/rog",
+      "text": "rog"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://forums.swift.org/u/stephencelis",
+      "text": "stephencelis"
+    },
+    {
+      "url": "/u/rog",
+      "text": "@rog"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://github.com/rustle/AccessibilityElement/blob/main/Sources/AccessibilityElement/Observer/ObserverRunLoopActor.swift",
+      "text": "https://github.com/rustle/AccessibilityElement/blob/main/Sources/AccessibilityElement/Observer/ObserverRunLoopActor.swift"
+    },
+    {
+      "url": "https://forums.swift.org/u/nikitamounier",
+      "text": "nikitamounier"
+    },
+    {
+      "url": "https://github.com/nikitamounier/tapit-app/blob/main/Sources/BeaconClient/Live.swift",
+      "text": "tapit-app/Live.swift at main \u00b7 nikitamounier/tapit-app \u00b7 GitHub"
+    },
+    {
+      "url": "https://forums.swift.org/u/rzulkoski",
+      "text": "rzulkoski"
+    },
+    {
+      "url": "/u/stephencelis",
+      "text": "@stephencelis"
+    },
+    {
+      "url": "/u/nikitamounier",
+      "text": "@nikitamounier"
+    },
+    {
+      "url": "https://forums.swift.org/u/rzulkoski",
+      "text": "rzulkoski"
+    },
+    {
+      "url": "https://forums.swift.org/u/LeonRedfield",
+      "text": "LeonRedfield"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://sea2.discourse-cdn.com/swift/user_avatar/forums.swift.org/stephencelis/48/2675_2.png",
+      "alt": ""
+    }
+  ]
+}

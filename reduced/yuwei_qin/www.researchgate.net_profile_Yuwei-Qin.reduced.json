@@ -1,0 +1,1421 @@
+{
+  "title": "Yuwei QIN | Postdoc | PhD of Environmental Science and Management | University of California, Berkeley, Berkeley | UCB | Department of Civil and Environmental Engineering | Research profile",
+  "meta_description": "Yuwei QIN, Postdoc | Cited by 370 | of University of California, Berkeley, Berkeley (UCB) | Read 16 publications | Contact Yuwei QIN",
+  "main_content": "Home University of California, Berkeley Department of Civil and Environmental Engineering Yuwei Qin Yuwei Qin University of California, Berkeley | UCB \u00b7 Department of Civil and Environmental Engineering PhD of Environmental Science and Management Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in Contact Connect with experts in your field Join ResearchGate to contact this researcher and connect with your scientific community. Join for free Log in About 16 Publications 3,419 Reads How we measure 'reads' A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text. Learn more 370 Citations Introduction Skills and Expertise Environment Environmental Impact Assessment Sustainability Environmental Management Environmental Analysis Environmental Planning Life-Cycle Assessment LCA Life Cycle Thinking Publications Publications (16) Optimal allocation of tomato supply to minimize greenhouse gas emissions in major U.S. metropolitan markets Article Jan 2023 Eric Bell Yuwei Qin Arpad Horvath Our food system is very resource and emissions intensive and contributes to a broad range of environmental impacts. We have developed cradle-to-market greenhouse gas emissions estimates of supplying fresh tomatoes to 10 of the largest metropolitan areas in the United States and applied a linear optimization algorithm to determine the optimal tomato... View What contributes more to life-cycle greenhouse gas emissions of farm produce: Production, transportation, packaging, or food loss? Article Jan 2022 Yuwei Qin Arpad Horvath The food production and supply systems are some of the biggest contributors to climate change, and food loss from the entire food chain aggravates the problem. We developed a model to estimate the GHG emissions from the entire food cycle (production, packaging, transportation, refrigeration, and waste management), and applied it to cherries, onions... View Accelerating the pace of ecotoxicological assessment using artificial intelligence Article Full-text available Aug 2021 Runsheng Song Dingsheng Li Alexander Chang [...] Sangwon Suh Species Sensitivity Distribution (SSD) is a key metric for understanding the potential ecotoxicological impacts of chemicals. However, SSDs have been developed to estimate for only handful of chemicals due to the scarcity of experimental toxicity data. Here we present a novel approach to expand the chemical coverage of SSDs using Artificial Neural... View +1 Method to decompose uncertainties in LCA results into contributing factors Article Full-text available Apr 2021 Yuwei Qin Sangwon Suh Purpose Understanding uncertainty is essential in using life cycle assessment (LCA) to support decisions. Monte Carlo simulation (MCS) is widely used to characterize the variability in LCA results, be them life cycle inventory (LCI), category indicator results, normalized results, or weighted results. In this study, we present a new method to decom... View Non-linearity in Marginal LCA: Application of a Spatial Optimization Model Article Full-text available May 2021 Yuwei Qin Yi Yang Stefano Cucurachi Sangwon Suh Typical applications of LCA assume that the magnitude of life-cycle impact grows proportionally to the volume of demand, while in reality the additional impact due to marginal increase in demand may differ from the average impact. In the literature, the calculation of marginal life-cycle impacts often involves the use of optimization models, where... View Perceived uncertainties of characterization in LCA: a survey Article Full-text available Sep 2020 Yuwei Qin Stefano Cucurachi Sangwon Suh Purpose Uncertainty analyses in life cycle assessment (LCA) literature have focused primarily on the life cycle inventory (LCI) phase, but LCA experts generally agree that the life cycle impact assessment (LCIA) phase is likely to contribute even more to the overall uncertainty of an LCA result. The magnitude of perceived uncertainties in character... View Life Cycle Assessment of the US Beef Processing through Integrated Hybrid Approach Article Aug 2020 Shaobin Li Yuwei Qin Jeyamkondan Subbiah Bruce Dvorak Hybrid life cycle assessment (LCA) incorporating process-based and economic input-output (EIO)-based inventory data has been applied in various industries (e.g., wind energy, biofuel). Few hybrid LCA studies have been found in the food industry. This work analyzes the life cycle environmental impacts of the U.S. beef processing industry using proce... View Use of alternative water sources in irrigation: Potential scales, costs, and environmental impacts in California Article Full-text available May 2020 Yuwei Qin Arpad Horvath Under the risk of drought, unreliable water supplies, and growing water demand, there is a growing need worldwide to explore alternative water sources to meet the demand for irrigation in agriculture and other outdoor activities. This paper estimates stocks, production capacities, economic costs, energy implications, and greenhouse gas (GHG) emissi... View Single Particle ICP-MS and GC-MS Provide New Insight into the Forming Mechanisms for AgNPs Green Synthesis Article Jan 2019 Huiling Zhang Yuxiong Huang Jianqiang Gu [...] Lijuan Zhao Green synthesis of metallic nanoparticles (NPs) using plant extracts has received considerable attention due to its environmentally and economically friendly nature. Various metabolites in plants such as amino acids, organic acids, sugars, phenolics have been speculated to be responsible for the synthesis of metallic NPs in previous studies. Howeve... View +5 Does the use of pre-calculated uncertainty values change the conclusions of comparative life cycle assessments? \u2013 An empirical analysis Article Full-text available Dec 2018 Yuwei Qin Sangwon Suh In life cycle assessment (LCA), performing Monte Carlo simulation (MCS) using fully dependent sampling typically involves repeated inversion of a technology matrix for a sufficiently large number of times. As the dimension of technology matrices for life cycle inventory (LCI) databases grows, MCS using fully dependent sampling is becoming a computa... View S1 Table Data Dec 2018 Yuwei Qin Sangwon Suh Results of 10,000 random pairs of elementary flows and 10,000 random pairs of elementary flows within the processes that produce electricity from ecoinvent. (XLSX) View Linking Exposure and Kinetic Bioaccumulation Models for Metallic Engineered Nanomaterials in Freshwater Ecosystems Article Sep 2018 Kendra L Garner Yuwei Qin Stefano Cucurachi [...] Arturo A. Keller We developed a model (nanoBio) to simulate long-term kinetic bioaccumulation of metallic engineered nanomaterials (ENMs) across trophic levels within a freshwater aquatic ecosystem based on current understanding of environmental and biological fate. Seven species were chosen to understand exposure pathways, accumulation through trophic levels, and... View Dynamic Model for the Stocks and Release Flows of Engineered Nanomaterials Article Oct 2017 Runsheng Song Yuwei Qin Sangwon Suh Arturo A. Keller Most existing life-cycle release models for engineered nanomaterials (ENM) are static, ignoring the dynamics of stock and flows of ENMs. Our model, nanoRelease, estimates the annual releases of ENMs from manufacturing, use, and disposal of a product explicitly taking stock and flow dynamics into account. Given the variabilities in key parameters (e... View What distribution function do life cycle inventories follow? Article Full-text available Jul 2017 Yuwei Qin Sangwon Suh PurposeLife cycle inventory (LCI) results are often assumed to follow a lognormal distribution, while a systematic study that identifies the distribution function that best describes LCIs has been lacking. This paper aims to find the distribution function that best describes LCIs using Ecoinvent v3.1 database using a statistical approach, called ov... View Pre-calculated LCIs with uncertainties revisited Article Feb 2017 Sangwon Suh Yuwei Qin Heijungs et al. (Int J Life Cycle Assess 22(3):461, 2017) argued that (1) dependent sampling is required when analyzing uncertainties using Monte Carlo simulation in a comparative life cycle assessment (LCA) and that (2) using pre-calculated geometric standard deviations (GSDs) will lead to a \u201clarge overestimation\u201d of the uncertainty of the results... View Challenges in assessing the environmental consequences of dietary changes Article Apr 2016 Stefano Cucurachi Yi Yang Joseph David Bergesen [...] Sangwon Suh Tom et al. (Environ Syst Decis 1\u201312, 2015) compared the energy requirements, water footprint, and greenhouse gas emissions of diet regimens recently recommended by the US Department of Agriculture. This editorial comments on a number of challenges related to the use of the results of life-cycle assessment studies to quantify the environmental impac... View Network Cited View All Annette Koehler ETH Zurich Mark A J Huijbregts Radboud University Marta Schuhmacher Universidad Rovira i Virgili Roland Hischier Swiss Federal Laboratories for Materials Science and Technology Michael Zwicky Hauschild Technical University of Denmark Cited By View All Qian Guangren Shanghai University Jeroen Guin\u00e9e Leiden University Arnaud H\u00e9lias French National Institute for Agriculture, Food, and Environment (INRAE) U. Sahin Atat\u00fcrk University Arturo A. Keller University of California, Santa Barbara Current institution University of California, Berkeley Department of Civil and Environmental Engineering Berkeley, United States Current position PostDoc Position Sangwon Suh's Lab Co-authors Top co-authors Bian Yue Nanjing University Stefano Cucurachi Leiden University Dingsheng Li University of Nevada, Reno Jeyamkondan Subbiah University of Arkansas Division of Agriculture Huiling Zhang All co-authors (24) View All Bruce Dvorak Department Department of Civil Engineering Yi Yang Department Department of Environmental and Ecological Engineering Joseph David Bergesen Department Bren School of Environmental Science and Management Arturo A. Keller Department Bren School of Environmental Science and Management Mengya Tao Department Bren School of Environmental Science and Management Lijuan Zhao Department Department of Chemistry Sangwon Suh Department Bren School of Environmental Science and Management Rong Ji Department School of Environment Runsheng Song Department Bren School of Environmental Science and Management Yuxiong Huang Department Shenzhen Environmental Science and New Energy Technology Engineering Laboratory Kendra L Garner Department Bren School of Environmental Science and Management Shaobin Li Department College of Environment and Ecology Jianqiang Gu Xiaolei Qu Eric Bell Arpad Horvath Advertisement Join ResearchGate to find the people and research you need to help your work 25+ million members 160+ million publication pages 2.3+ billion citations Join for free",
+  "links": [
+    {
+      "url": "https://www.researchgate.net/",
+      "text": "Home"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University-of-California-Berkeley",
+      "text": "University of California, Berkeley"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University-of-California-Berkeley",
+      "text": "University of California, Berkeley | UCB\u00a0\u00b7\u00a0Department of Civil and Environmental Engineering"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=fEUhYEZowhq6Y2PSle_UqdFa1eMWCo2vNWRIIbUZFRJi8CO6r3-4W61YL4Isr7ggu_kO-_wyXX3SRQ",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "https://www.researchgate.net/login?_sg=fEUhYEZowhq6Y2PSle_UqdFa1eMWCo2vNWRIIbUZFRJi8CO6r3-4W61YL4Isr7ggu_kO-_wyXX3SRQ",
+      "text": "Log in"
+    },
+    {
+      "url": "https://explore.researchgate.net/display/support/Reads",
+      "text": "Learn more"
+    },
+    {
+      "url": "topic/Environment",
+      "text": "Environment"
+    },
+    {
+      "url": "topic/Environmental-Impact-Assessment",
+      "text": "Environmental Impact Assessment"
+    },
+    {
+      "url": "topic/Sustainability",
+      "text": "Sustainability"
+    },
+    {
+      "url": "topic/Environmental-Management",
+      "text": "Environmental Management"
+    },
+    {
+      "url": "topic/Environmental-Analysis",
+      "text": "Environmental Analysis"
+    },
+    {
+      "url": "topic/Environmental-Planning",
+      "text": "Environmental Planning"
+    },
+    {
+      "url": "topic/Life-Cycle-Assessment",
+      "text": "Life-Cycle Assessment"
+    },
+    {
+      "url": "topic/LCA",
+      "text": "LCA"
+    },
+    {
+      "url": "topic/Life-Cycle-Thinking",
+      "text": "Life Cycle Thinking"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363692381_Optimal_allocation_of_tomato_supply_to_minimize_greenhouse_gas_emissions_in_major_US_metropolitan_markets",
+      "text": "Optimal allocation of tomato supply to minimize greenhouse gas emissions in major U.S. metropolitan markets"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Eric-Bell-2169281211",
+      "text": "Eric Bell"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Arpad-Horvath-2174528193",
+      "text": "Arpad Horvath"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363692381_Optimal_allocation_of_tomato_supply_to_minimize_greenhouse_gas_emissions_in_major_US_metropolitan_markets",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355349184_What_contributes_more_to_life-cycle_greenhouse_gas_emissions_of_farm_produce_Production_transportation_packaging_or_food_loss",
+      "text": "What contributes more to life-cycle greenhouse gas emissions of farm produce: Production, transportation, packaging, or food loss?"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Arpad-Horvath-2174528193",
+      "text": "Arpad Horvath"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/355349184_What_contributes_more_to_life-cycle_greenhouse_gas_emissions_of_farm_produce_Production_transportation_packaging_or_food_loss",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-mean-solid-blue-line-upper-975-and-lower-25-bounds-dash-blue-lines-of_fig1_354106869",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-HC50-values-of-10-chemicals-in-the-ECOTOX-database-along-with-the-mean-HC50-values_tbl1_354106869",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-top-chemicals-with-the-highest-threatening-among-the-registered-chemicals-in-the-ECHA_tbl2_354106869",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/354106869_Accelerating_the_pace_of_ecotoxicological_assessment_using_artificial_intelligence",
+      "text": "Accelerating the pace of ecotoxicological assessment using artificial intelligence"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Runsheng-Song",
+      "text": "Runsheng Song"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Dingsheng-Li",
+      "text": "Dingsheng Li"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Alexander-Chang-2200111529",
+      "text": "Alexander Chang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/354106869_Accelerating_the_pace_of_ecotoxicological_assessment_using_artificial_intelligence",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Flow-diagram-of-the-use-of-the-LMDI-method-in-decomposing-the-uncertainty-in-the-LCA_fig1_351007308",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Graphic-presentation-of-the-uncertainty-decomposition-method-using-the-LMDI-decomposition_fig2_351007308",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Process-flow-diagram-of-natural-gas-production-in-the-USA_fig3_351007308",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Distributions-of-the-characterized-results-of-1m-of-natural-gas-in-the-USA-in-a-global_fig4_351007308",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/a-The-distributions-of-the-uncertainty-contributions-of-the-most-influential-factors-in_fig5_351007308",
+      "text": "+1"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/351007308_Method_to_decompose_uncertainties_in_LCA_results_into_contributing_factors",
+      "text": "Method to decompose uncertainties in LCA results into contributing factors"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/351007308_Method_to_decompose_uncertainties_in_LCA_results_into_contributing_factors",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Maps-of-additional-potato-production-under-average-production-marginal-production_fig1_351347260",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Weighted-average-water-use-for-additional-potato-production-under-average-production_fig2_351347260",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Water-use-for-the-current-and-the-future-potato-production_fig3_351347260",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/351347260_Non-linearity_in_Marginal_LCA_Application_of_a_Spatial_Optimization_Model",
+      "text": "Non-linearity in Marginal LCA: Application of a Spatial Optimization Model"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yi-Yang-211",
+      "text": "Yi Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Stefano-Cucurachi-2188119746",
+      "text": "Stefano Cucurachi"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/351347260_Non-linearity_in_Marginal_LCA_Application_of_a_Spatial_Optimization_Model",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Flow-chart-of-expert-elicitation-procedures_fig1_343405942",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Survey-results-for-the-question-of-the-use-of-the-pedigree-approach-for-uncertainty_fig2_343405942",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-of-the-average-GSDs-in-the-pedigree-matrix-for-LCI-in-the-response-and-the_fig3_343405942",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-of-the-average-GSDs-in-the-pedigree-matrix-for-LCI-in-the-response-and-the_fig4_343405942",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparison-between-uncalibrated-GSDs-in-the-LCI-and-characterization-factor-pedigree_fig5_343405942",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/343405942_Perceived_uncertainties_of_characterization_in_LCA_a_survey",
+      "text": "Perceived uncertainties of characterization in LCA: a survey"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Stefano-Cucurachi",
+      "text": "Stefano Cucurachi"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/343405942_Perceived_uncertainties_of_characterization_in_LCA_a_survey",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/System-boundary-and-methodology-framework-The-red-solid-line-represents-the-whole-system_fig1_340882051",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Structure-of-the-integrated-hybrid-LCA-model-for-beef-processing_fig2_340882051",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/olin-plot-of-environmental-categories-representing-the-sampling-distribution-from-Monte_fig10_340882051",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Contribution-to-output-variance-for-Sobols-total-sensitivity-index-of-the-selected_fig11_340882051",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/340882051_Life_Cycle_Assessment_of_the_US_Beef_Processing_through_Integrated_Hybrid_Approach",
+      "text": "Life Cycle Assessment of the US Beef Processing through Integrated Hybrid Approach"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Shaobin-Li",
+      "text": "Shaobin Li"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Jeyamkondan-Subbiah",
+      "text": "Jeyamkondan Subbiah"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Bruce-Dvorak",
+      "text": "Bruce Dvorak"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/340882051_Life_Cycle_Assessment_of_the_US_Beef_Processing_through_Integrated_Hybrid_Approach",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/GHG-emissions-of-avocado-celery-lemon-and-strawberry-production-under-different-water_fig1_341220901",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/341220901_Use_of_alternative_water_sources_in_irrigation_Potential_scales_costs_and_environmental_impacts_in_California",
+      "text": "Use of alternative water sources in irrigation: Potential scales, costs, and environmental impacts in California"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Arpad-Horvath-2174528193",
+      "text": "Arpad Horvath"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/341220901_Use_of_alternative_water_sources_in_irrigation_Potential_scales_costs_and_environmental_impacts_in_California",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330710198_Single_Particle_ICP-MS_and_GC-MS_Provide_New_Insight_into_the_Forming_Mechanisms_for_AgNPs_Green_Synthesis",
+      "text": "Single Particle ICP-MS and GC-MS Provide New Insight into the Forming Mechanisms for AgNPs Green Synthesis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Huiling-Zhang-10",
+      "text": "Huiling Zhang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuxiong-Huang-3",
+      "text": "Yuxiong Huang"
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Jianqiang-Gu-2152796552",
+      "text": "Jianqiang Gu"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Lijuan-Zhao",
+      "text": "Lijuan Zhao"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330710198_Single_Particle_ICP-MS_and_GC-MS_Provide_New_Insight_into_the_Forming_Mechanisms_for_AgNPs_Green_Synthesis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Illustrative-example-of-a-comparative-LCA-between-A-and-B-involving-a-common-input-C_fig1_329788922",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/An-example-of-overlapped-histograms-of-one-pair-of-elementary-flows-of-LCIs-ai-bi-using_fig2_329788922",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Comparative-results-of-LCI-results-for-two-processes-A-and-B-in-the-same-elementary-flow_fig3_329788922",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Identical-conclusions-of-the-comparison-of-A-and-B-using-FDS-and-PIS-a-A-is-better_fig4_329788922",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Moderated-conclusions-of-the-comparison-of-A-and-B-using-FDS-and-PIS-a-One-method_fig5_329788922",
+      "text": "+5"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/329788922_Does_the_use_of_pre-calculated_uncertainty_values_change_the_conclusions_of_comparative_life_cycle_assessments_-_An_empirical_analysis",
+      "text": "Does the use of pre-calculated uncertainty values change the conclusions of comparative life cycle assessments? \u2013 An empirical analysis"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/329788922_Does_the_use_of_pre-calculated_uncertainty_values_change_the_conclusions_of_comparative_life_cycle_assessments_-_An_empirical_analysis",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330032381_S1_Table",
+      "text": "S1 Table"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/330032381_S1_Table",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/327523366_Linking_Exposure_and_Kinetic_Bioaccumulation_Models_for_Metallic_Engineered_Nanomaterials_in_Freshwater_Ecosystems",
+      "text": "Linking Exposure and Kinetic Bioaccumulation Models for Metallic Engineered Nanomaterials in Freshwater Ecosystems"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Kendra-Garner-2",
+      "text": "Kendra L Garner"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Stefano-Cucurachi",
+      "text": "Stefano Cucurachi"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Arturo-Keller",
+      "text": "Arturo A. Keller"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/327523366_Linking_Exposure_and_Kinetic_Bioaccumulation_Models_for_Metallic_Engineered_Nanomaterials_in_Freshwater_Ecosystems",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/320361115_Dynamic_Model_for_the_Stocks_and_Release_Flows_of_Engineered_Nanomaterials",
+      "text": "Dynamic Model for the Stocks and Release Flows of Engineered Nanomaterials"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Runsheng-Song",
+      "text": "Runsheng Song"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Arturo-Keller",
+      "text": "Arturo A. Keller"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/320361115_Dynamic_Model_for_the_Stocks_and_Release_Flows_of_Engineered_Nanomaterials",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Histograms-of-nine-random-points-in-1000-iterations-of-LCI-results_fig1_310572686",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Density-plots-of-LCI-data-lognormal-gamma-and-Weibull-distribution-estimates_fig2_310572686",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/The-coefficients-of-overlapping-OVL-of-1000-samples-of-LCI-results-and-lognormal_fig3_310572686",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Monte-Carlo-procedure-for-uncertainty-assessment-of-aggregate-LCI_fig4_310572686",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/publication/310572686_What_distribution_function_do_life_cycle_inventories_follow",
+      "text": "What distribution function do life cycle inventories follow?"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/310572686_What_distribution_function_do_life_cycle_inventories_follow",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/314132368_Pre-calculated_LCIs_with_uncertainties_revisited",
+      "text": "Pre-calculated LCIs with uncertainties revisited"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yuwei-Qin",
+      "text": "Yuwei Qin"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/314132368_Pre-calculated_LCIs_with_uncertainties_revisited",
+      "text": "View"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/300003562_Challenges_in_assessing_the_environmental_consequences_of_dietary_changes",
+      "text": "Challenges in assessing the environmental consequences of dietary changes"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Stefano-Cucurachi",
+      "text": "Stefano Cucurachi"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Yi-Yang-211",
+      "text": "Yi Yang"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Joseph-Bergesen",
+      "text": "Joseph David Bergesen"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/300003562_Challenges_in_assessing_the_environmental_consequences_of_dietary_changes",
+      "text": "View"
+    },
+    {
+      "url": "profile/Annette-Koehler-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Annette-Koehler-2",
+      "text": "Annette Koehler"
+    },
+    {
+      "url": "profile/Mark-Huijbregts",
+      "text": ""
+    },
+    {
+      "url": "profile/Mark-Huijbregts",
+      "text": "Mark A J Huijbregts"
+    },
+    {
+      "url": "profile/Marta-Schuhmacher",
+      "text": ""
+    },
+    {
+      "url": "profile/Marta-Schuhmacher",
+      "text": "Marta Schuhmacher"
+    },
+    {
+      "url": "profile/Roland-Hischier",
+      "text": ""
+    },
+    {
+      "url": "profile/Roland-Hischier",
+      "text": "Roland Hischier"
+    },
+    {
+      "url": "profile/Michael-Hauschild-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Michael-Hauschild-2",
+      "text": "Michael Zwicky Hauschild"
+    },
+    {
+      "url": "profile/Qian-Guangren",
+      "text": ""
+    },
+    {
+      "url": "profile/Qian-Guangren",
+      "text": "Qian Guangren"
+    },
+    {
+      "url": "profile/Jeroen-Guinee",
+      "text": ""
+    },
+    {
+      "url": "profile/Jeroen-Guinee",
+      "text": "Jeroen Guin\u00e9e"
+    },
+    {
+      "url": "profile/Arnaud-Helias",
+      "text": ""
+    },
+    {
+      "url": "profile/Arnaud-Helias",
+      "text": "Arnaud H\u00e9lias"
+    },
+    {
+      "url": "profile/U-Sahin",
+      "text": ""
+    },
+    {
+      "url": "profile/U-Sahin",
+      "text": "U. Sahin"
+    },
+    {
+      "url": "profile/Arturo-Keller",
+      "text": ""
+    },
+    {
+      "url": "profile/Arturo-Keller",
+      "text": "Arturo A. Keller"
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University-of-California-Berkeley",
+      "text": ""
+    },
+    {
+      "url": "https://www.researchgate.net/institution/University-of-California-Berkeley",
+      "text": "University of California, Berkeley"
+    },
+    {
+      "url": "lab/Sangwon-Suh-Lab",
+      "text": "Sangwon Suh's Lab"
+    },
+    {
+      "url": "profile/Bian-Yue",
+      "text": ""
+    },
+    {
+      "url": "profile/Bian-Yue",
+      "text": "Bian Yue"
+    },
+    {
+      "url": "profile/Stefano-Cucurachi",
+      "text": ""
+    },
+    {
+      "url": "profile/Stefano-Cucurachi",
+      "text": "Stefano Cucurachi"
+    },
+    {
+      "url": "profile/Dingsheng-Li",
+      "text": ""
+    },
+    {
+      "url": "profile/Dingsheng-Li",
+      "text": "Dingsheng Li"
+    },
+    {
+      "url": "profile/Jeyamkondan-Subbiah",
+      "text": ""
+    },
+    {
+      "url": "profile/Jeyamkondan-Subbiah",
+      "text": "Jeyamkondan Subbiah"
+    },
+    {
+      "url": "profile/Huiling-Zhang-10",
+      "text": ""
+    },
+    {
+      "url": "profile/Huiling-Zhang-10",
+      "text": "Huiling Zhang"
+    },
+    {
+      "url": "profile/Bruce-Dvorak",
+      "text": ""
+    },
+    {
+      "url": "profile/Bruce-Dvorak",
+      "text": ""
+    },
+    {
+      "url": "profile/Bruce-Dvorak",
+      "text": "Bruce Dvorak"
+    },
+    {
+      "url": "profile/Yi-Yang-211",
+      "text": ""
+    },
+    {
+      "url": "profile/Yi-Yang-211",
+      "text": ""
+    },
+    {
+      "url": "profile/Yi-Yang-211",
+      "text": "Yi Yang"
+    },
+    {
+      "url": "profile/Joseph-Bergesen",
+      "text": ""
+    },
+    {
+      "url": "profile/Joseph-Bergesen",
+      "text": ""
+    },
+    {
+      "url": "profile/Joseph-Bergesen",
+      "text": "Joseph David Bergesen"
+    },
+    {
+      "url": "profile/Arturo-Keller",
+      "text": ""
+    },
+    {
+      "url": "profile/Arturo-Keller",
+      "text": ""
+    },
+    {
+      "url": "profile/Arturo-Keller",
+      "text": "Arturo A. Keller"
+    },
+    {
+      "url": "profile/Mengya-Tao",
+      "text": ""
+    },
+    {
+      "url": "profile/Mengya-Tao",
+      "text": ""
+    },
+    {
+      "url": "profile/Mengya-Tao",
+      "text": "Mengya Tao"
+    },
+    {
+      "url": "profile/Lijuan-Zhao",
+      "text": ""
+    },
+    {
+      "url": "profile/Lijuan-Zhao",
+      "text": ""
+    },
+    {
+      "url": "profile/Lijuan-Zhao",
+      "text": "Lijuan Zhao"
+    },
+    {
+      "url": "profile/Sangwon-Suh-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Sangwon-Suh-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Sangwon-Suh-2",
+      "text": "Sangwon Suh"
+    },
+    {
+      "url": "profile/Rong-Ji-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Rong-Ji-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Rong-Ji-2",
+      "text": "Rong Ji"
+    },
+    {
+      "url": "profile/Runsheng-Song",
+      "text": ""
+    },
+    {
+      "url": "profile/Runsheng-Song",
+      "text": ""
+    },
+    {
+      "url": "profile/Runsheng-Song",
+      "text": "Runsheng Song"
+    },
+    {
+      "url": "profile/Yuxiong-Huang-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Yuxiong-Huang-3",
+      "text": ""
+    },
+    {
+      "url": "profile/Yuxiong-Huang-3",
+      "text": "Yuxiong Huang"
+    },
+    {
+      "url": "profile/Kendra-Garner-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Kendra-Garner-2",
+      "text": ""
+    },
+    {
+      "url": "profile/Kendra-Garner-2",
+      "text": "Kendra L Garner"
+    },
+    {
+      "url": "profile/Shaobin-Li",
+      "text": ""
+    },
+    {
+      "url": "profile/Shaobin-Li",
+      "text": ""
+    },
+    {
+      "url": "profile/Shaobin-Li",
+      "text": "Shaobin Li"
+    },
+    {
+      "url": "scientific-contributions/Jianqiang-Gu-2152796552",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jianqiang-Gu-2152796552",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Jianqiang-Gu-2152796552",
+      "text": "Jianqiang Gu"
+    },
+    {
+      "url": "scientific-contributions/Xiaolei-Qu-2152814773",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Xiaolei-Qu-2152814773",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Xiaolei-Qu-2152814773",
+      "text": "Xiaolei Qu"
+    },
+    {
+      "url": "scientific-contributions/Eric-Bell-2169281211",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Eric-Bell-2169281211",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Eric-Bell-2169281211",
+      "text": "Eric Bell"
+    },
+    {
+      "url": "scientific-contributions/Arpad-Horvath-2174528193",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Arpad-Horvath-2174528193",
+      "text": ""
+    },
+    {
+      "url": "scientific-contributions/Arpad-Horvath-2174528193",
+      "text": "Arpad Horvath"
+    },
+    {
+      "url": "signup.SignUp.html",
+      "text": "Join for free"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FYuwei-Qin%3FsendMessage%3D1&_sg=1LHKktR1PrRJ9Gg-0k7d-zio9ATiS_P-Ho-7Wb5IKl4JZp8axoFjMTQCCYRITlBBZ3CudGovZkUxIQ",
+      "text": "Log in"
+    },
+    {
+      "url": "login?urlAfterLogin=profile%2FYuwei-Qin%3FsendMessage%3D1&_sg=1LHKktR1PrRJ9Gg-0k7d-zio9ATiS_P-Ho-7Wb5IKl4JZp8axoFjMTQCCYRITlBBZ3CudGovZkUxIQ",
+      "text": "Log in"
+    },
+    {
+      "url": "signup.SignUp.html?ev=su_profileMessage&_sg=xWRIi5CeKVs1MbCMY9pFopd5ErSc4AHGd86nK8ra5IpFO7iV1WKfmvOdwvUekmJvLf0loROTrXUs6U55cLaZNH4MW_U",
+      "text": "Join for free"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/363221606256641-1463610187976_Q128/Yuwei-Qin.jpg",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Eric Bell"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arpad Horvath"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arpad Horvath"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 3 The mean (solid blue line), upper (97.5%), and lower (2.5%)..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "The HC50 values of 10 chemicals in the ECOTOX database, along with the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "The top chemicals with the highest threatening among the registered..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Runsheng Song"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Dingsheng Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Alexander Chang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Flow diagram of the use of the LMDI method in decomposing the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Graphic presentation of the uncertainty decomposition method using the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Process flow diagram of natural gas production in the USA"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Distributions of the characterized results of 1\u00a0m\u00b3 of natural gas in..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "(a) The distributions of the uncertainty contributions of the most..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "FIGURE 1 | Maps of additional potato production under average..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "FIGURE 2 | Weighted average water use for additional potato production..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "FIGURE 3 | Water use for the current and the future potato production."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yi Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Stefano Cucurachi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Flow chart of expert elicitation procedures"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Survey results for the question of the use of the pedigree approach for..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Comparison of the average GSDs in the pedigree matrix for LCI in the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Comparison of the average GSDs in the pedigree matrix for LCI in the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Comparison between uncalibrated GSDs in the LCI and characterization..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Stefano Cucurachi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 1. System boundary and methodology framework. The red solid line..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 2. Structure of the integrated hybrid LCA model for beef processing."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 7. Violin plot of environmental categories representing the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Figure 8. Contribution to output variance for Sobol\u2019s total sensitivity..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Shaobin Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jeyamkondan Subbiah"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Bruce Dvorak"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "GHG emissions of avocado, celery, lemon, and strawberry production..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arpad Horvath"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Huiling Zhang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuxiong Huang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jianqiang Gu"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Lijuan Zhao"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Illustrative example of a comparative LCA between A and B involving a..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "An example of overlapped histograms of one pair of elementary flows of..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Comparative results of LCI results for two processes A and B in the..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Identical conclusions of the comparison of A and B using FDS and PIS...."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Moderated conclusions of the comparison of A and B using FDS and PIS...."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Kendra L Garner"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Stefano Cucurachi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arturo A. Keller"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Runsheng Song"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arturo A. Keller"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 2 Histograms of nine random points in 1000 iterations of LCI results\u00a0"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 3 Density plots of LCI data, lognormal, gamma, and Weibull..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Fig. 4 The coefficients of overlapping (OVL) of 1000 samples of LCI..."
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Monte Carlo procedure for uncertainty assessment of aggregate LCI"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": ""
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yuwei Qin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Stefano Cucurachi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Yi Yang"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Joseph David Bergesen"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Annette Koehler"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Mark A J Huijbregts"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Marta Schuhmacher"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Roland Hischier"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Michael Zwicky Hauschild"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Qian Guangren"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jeroen Guin\u00e9e"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arnaud H\u00e9lias"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "U. Sahin"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Arturo A. Keller"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/institution.image/AS%3A267461537009684%401440779207532_m",
+      "alt": "University of California, Berkeley"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Bian Yue"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Stefano Cucurachi"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Dingsheng Li"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Jeyamkondan Subbiah"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==",
+      "alt": "Huiling Zhang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/703470172647424-1544731767054_Q64/Bruce-Dvorak.jpg",
+      "alt": "Bruce Dvorak"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/703470172647424-1544731767054_Q64/Bruce-Dvorak.jpg",
+      "alt": "Bruce Dvorak"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281182079152-1692301022672_Q64/Yi-Yang-211.jpg",
+      "alt": "Yi Yang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/11431281182079152-1692301022672_Q64/Yi-Yang-211.jpg",
+      "alt": "Yi Yang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/273673730916370-1442260310368_Q64/Joseph-Bergesen.jpg",
+      "alt": "Joseph David Bergesen"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/273673730916370-1442260310368_Q64/Joseph-Bergesen.jpg",
+      "alt": "Joseph David Bergesen"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/272736752762910-1442036917760_Q64/Arturo-Keller.jpg",
+      "alt": "Arturo A. Keller"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/272736752762910-1442036917760_Q64/Arturo-Keller.jpg",
+      "alt": "Arturo A. Keller"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/690088266702850-1541541272403_Q64/Mengya-Tao.jpg",
+      "alt": "Mengya Tao"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/690088266702850-1541541272403_Q64/Mengya-Tao.jpg",
+      "alt": "Mengya Tao"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/277698069975047-1443219787497_Q64/Lijuan-Zhao.jpg",
+      "alt": "Lijuan Zhao"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/277698069975047-1443219787497_Q64/Lijuan-Zhao.jpg",
+      "alt": "Lijuan Zhao"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/277842450501645-1443254210862_Q64/Sangwon-Suh-2.jpg",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/277842450501645-1443254210862_Q64/Sangwon-Suh-2.jpg",
+      "alt": "Sangwon Suh"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/278474435645450-1443404887350_Q64/Rong-Ji-2.jpg",
+      "alt": "Rong Ji"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/278474435645450-1443404887350_Q64/Rong-Ji-2.jpg",
+      "alt": "Rong Ji"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/279381512605725-1443621151699_Q64/Runsheng-Song.jpg",
+      "alt": "Runsheng Song"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/279381512605725-1443621151699_Q64/Runsheng-Song.jpg",
+      "alt": "Runsheng Song"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/279590896455691-1443671073109_Q64/Yuxiong-Huang-3.jpg",
+      "alt": "Yuxiong Huang"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/279590896455691-1443671073109_Q64/Yuxiong-Huang-3.jpg",
+      "alt": "Yuxiong Huang"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Kendra L Garner"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "alt": "Kendra L Garner"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/664974095548417-1535553587451_Q64/Shaobin-Li.jpg",
+      "alt": "Shaobin Li"
+    },
+    {
+      "src": "https://i1.rgstatic.net/ii/profile.image/664974095548417-1535553587451_Q64/Shaobin-Li.jpg",
+      "alt": "Shaobin Li"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jianqiang Gu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Jianqiang Gu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Xiaolei Qu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Xiaolei Qu"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Eric Bell"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Eric Bell"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Arpad Horvath"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+      "alt": "Arpad Horvath"
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/420699284191573/images/symbols/svg/classification-academic.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/415447567661256/images/symbols/svg/classification-corporate.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/44240833271040/images/symbols/svg/classification-medical.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://c5.rgstatic.net/m/41625716582999/images/symbols/svg/classification-notresearcher.svg",
+      "alt": ""
+    }
+  ]
+}

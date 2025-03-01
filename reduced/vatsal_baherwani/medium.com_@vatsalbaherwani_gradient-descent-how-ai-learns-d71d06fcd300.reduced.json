@@ -1,0 +1,149 @@
+{
+  "title": "Gradient Descent: How AI \u201clearns\u201d | by Vatsal Baherwani | Medium",
+  "meta_description": "This is my attempt at explaining a not yet fully understood concept to a general audience. I will probably oversimplify or misrepresent some details. How would you teach a computer to speak English\u2026",
+  "main_content": "Gradient Descent: How AI \u201clearns\u201d Vatsal Baherwani \u00b7 Follow 7 min read \u00b7 Nov 20, 2024 -- Listen Share This is my attempt at explaining a not yet fully understood concept to a general audience. I will probably oversimplify or misrepresent some details. How do humans learn? How would you teach a computer to speak English? Perhaps a good starting point for this problem is to look at how humans learn to speak. For us, this process starts during infancy when we observe the people closest to us (e.g. parents) speaking. We learn to mimic their words at first before we actually understand what they mean. Then we begin to form our own sentences and express our own thoughts. Generally, the more exposure we get to a certain language, the better we can comprehend and articulate conversations in that language. There\u2019s a few fundamental caveats in translating this process into something a computer can perform. The most obvious one is translating human language into computer language. Computers only process numbers. Everything that\u2019s not a number is secretly abstracted by numbers under the hood. For example, when I upload this article, the raw uploaded data will be literal numbers corresponding to the letters in this text (like 0 for \u2018a\u2019, 1 for \u2018b\u2019, and so on). But for the sake of simplicity, I won\u2019t go into how language is converted into a format that an AI model can learn from. Let\u2019s just assume we have a means of turning real human text into a numerical representation, and vice versa. How could an AI learn? So how do we get the AI to learn to speak like a human? It sounds like a good idea to get an AI model that can mimic existing human language, similar to how infants start. Assume we have access to all the publicly available text on Internet \u2014 modern AI models are in fact trained over this entire set. And let\u2019s also assume that someone has magically cleaned all the junk out of this data: no URLs, no gibberish, no spam, just plain old English (in reality, this is a painstakingly tedious process). We want the AI model to spit out text that mimics this human text from the Internet. How do we explicitly define this goal? Let\u2019s break this down into parts: the model should spit out text, the text should be in English, and the English should resemble the way humans speak. The first step is trivial; we can just define our model to output one of many possible letters, numbers, punctuation etc. But a dumb model that just makes random decisions will give you a garbled pile of text that either doesn\u2019t qualify as English at all, or doesn\u2019t sound like a human. We want to avoid this. We want the AI model\u2019s text to look as much like English as possible, and sound as convincingly human as possible. But as previously mentioned, computers really only understand numbers. So whatever method we employ has to be strictly numerical. We can do this by thinking about English as a probability distribution. Human language is a constantly evolving distribution. For example, before the 1900s the word \u201cvirus\u201d was only used in the context of a pathogen. The adoption of computers led the word to also take on the definition of malware. Now, you are several times more likely to see this word in a book (and to use it in conversation). Source: Google Books Ngram Viewer If it\u2019s about to rain, what are you more likely to tell a friend? \u201cIt feels like it\u2019s about to rain\u201d, or \u201cI smell petrichor\u201d? One of these responses is much more common than the other. And there are some other responses that would just not fit the context at all, like \u201cI sure do love the taste of turmeric\u201d. We want to instill this concept into an AI model as well. Talking like a human means using language that is common given the context. For an AI model that thinks numerically, let\u2019s assume our real distribution of human conversations has something like a 90% chance of responding with \u201cIt feels like it\u2019s about to rain\u201d, a 10% chance of saying \u201cI smell petrichor\u201d, and a 0% chance of saying \u201cI sure do love the taste of turmeric\u201d. We want the AI model to match this as closely as possible. In numerical terms, this means minimizing the difference between the distribution of human language and the distribution of the AI model\u2019s responses. Learning the Objective with Gradient Descent Now that we have an objective, we need to get our AI to learn from it. Assume our AI model takes in some text as numbers, does a bunch of math, and responds with its own text. How can we minimize the difference between its distribution of possible responses and the distribution of human responses? Let\u2019s start with an analogous example. Imagine you\u2019re blindfolded at the summit of a mountain, and your goal is to get back to the bottom. In other words, you are at some really high elevation, and you want to lower it as much as possible. How would you do this? For starters, you could at least get off the peak by taking a step in any direction. Now, you\u2019re still blindfolded, but your feet are slanted since you\u2019re on the slope of the mountain. How do you know where to step next? Notice how when your feet are slanted on this mountain, you have a sense of which direction moves you downwards. When you\u2019re walking forwards down a hill, the front of your feet step lower than your heels. If you instead shuffle rightwards down this hill, the right side of each foot will strike the ground lower than the left. When blindfolded, you can apply this knowledge to conclude the direction that will bring you downward. If the right side of your foot feels like it\u2019s slanting lower than the left side, you know that the direction to your right is the way down. If every step is bringing you slightly downward each time, you can be sure that eventually you will reach the lowest point on the mountain. So, what\u2019s with the blindfolding? The motivation behind this example is to avoid using our high-level human senses and break down the problem of minimizing a value into the concept of slopes. We wanted to minimize our elevation on this mountain, so we used the slopes of our feet to guide this descent. Training an AI model is (at a very high level) a similar concept. AI models process information with parameters , which is just a fancy word for numbers that define the model. A simple example: if you want to make an AI model that multiplies every number by 2, it will just have one parameter \u2014 the number 2. When you give the model a number, it will multiply this parameter with that number to give you the result. Language is a much more difficult concept. Let\u2019s say you give the model some text, in a numerical format. Current AI language models have on the order of 100 billion parameters. So this model will take the text, and use each of its parameters to do some math with it: addition, multiplication, exponentiation, etc. Let\u2019s say we asked our model about the weather, and it came up with this distribution: 27% chance of \u201cIt feels like it\u2019s about to rain\u201d, 16% chance of \u201cI smell petrichor\u201d, and a 57% chance of \u201cI sure do love the taste of turmeric\u201d. This is way different from the actual human distribution, and we can calculate a single solitary number that describes this difference (see cross entropy for more details). We want to minimize this difference. Since all we did was math, we can look back on the AI model\u2019s parameters and say, for example, that adjusting some parameters would decrease the chance of the third response and bring us closer to the human distribution. This is similar to being on the mountain, where we could look at the slope of our feet and move in the according direction to take us downward. When going down the mountain blindfolded, we really only had to think about two dimensions: forward/backward, and left/right. Now, we can increase or decrease each of these parameters, which gives us 100 billion possible dimensions to consider. The word \u201cslope\u201d isn\u2019t really applicable here, so mathematicians refer to this concept as gradients . Let\u2019s summarize how we\u2019re getting this AI model to learn: we\u2019re looking at its current output and seeing how far we are from the distribution of human English language. Then, we\u2019re computing the gradient of this distance, with respect to the model parameters. Technically, the gradient gives us the direction of upward ascent \u2014 moving forward in the direction of the gradient will increase our distance from the human distribution. We want to minimize the distance, so we do the opposite i.e. move in the opposite direction of the gradient. Computing the gradient + descending in the opposite direction = gradient descent . Real Applications Creating an AI model with a couple hundred billion parameters and minimizing this objective of mimicking human English as closely as possible is how models like ChatGPT are trained. This is a huge oversimplification, but the process involves the same high-level concept of defining a goal, computing the proximity of the current AI model to that goal, and applying gradient descent to get closer to the goal. There\u2019s some extra bells and whistles for language models that do not involve gradient descent, like ensuring the model is not toxic or rude (concepts that are difficult to define numerically). Moreover, image and video generation models follow the similar pattern of looking to minimize the chance that a generated output looks as realistic and human as possible. But this method is not foolproof. Stepping around a 100 billion dimensional mountain leads to all sorts of convoluted problems like falling off a cliff, running into a wall, or simply just getting stuck. AI practitioners deal with this by very carefully adjusting the model to take miniscule steps to maintain a stable trajectory. But researchers still don\u2019t fully understand the details of how gradient descent works in these high dimensions or why it\u2019s so complicated. So far, however, it\u2019s the most viable method for training large AI models. And it\u2019s gotten us pretty far.",
+  "links": [
+    {
+      "url": "https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fd71d06fcd300&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav-----------------------------------------",
+      "text": "Open in app"
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalbaherwani%2Fgradient-descent-how-ai-learns-d71d06fcd300&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------",
+      "text": "Write"
+    },
+    {
+      "url": "/search?source=---top_nav_layout_nav-----------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalbaherwani%2Fgradient-descent-how-ai-learns-d71d06fcd300&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in"
+    },
+    {
+      "url": "/@vatsalbaherwani?source=post_page---byline--d71d06fcd300---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@vatsalbaherwani?source=post_page---byline--d71d06fcd300---------------------------------------",
+      "text": "Vatsal Baherwani"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7f56add12bef&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalbaherwani%2Fgradient-descent-how-ai-learns-d71d06fcd300&user=Vatsal+Baherwani&userId=7f56add12bef&source=post_page-7f56add12bef--byline--d71d06fcd300---------------------post_header------------------",
+      "text": "Follow"
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fd71d06fcd300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalbaherwani%2Fgradient-descent-how-ai-learns-d71d06fcd300&user=Vatsal+Baherwani&userId=7f56add12bef&source=---header_actions--d71d06fcd300---------------------clap_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd71d06fcd300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalbaherwani%2Fgradient-descent-how-ai-learns-d71d06fcd300&source=---header_actions--d71d06fcd300---------------------bookmark_footer------------------",
+      "text": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cross-entropy",
+      "text": "cross entropy"
+    },
+    {
+      "url": "/tag/ai?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "AI"
+    },
+    {
+      "url": "/tag/language?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Language"
+    },
+    {
+      "url": "/@vatsalbaherwani?source=post_page---post_author_info--d71d06fcd300---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@vatsalbaherwani?source=post_page---post_author_info--d71d06fcd300---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "/@vatsalbaherwani?source=post_page---post_author_info--d71d06fcd300---------------------------------------",
+      "text": "Written by Vatsal Baherwani"
+    },
+    {
+      "url": "/@vatsalbaherwani/followers?source=post_page---post_author_info--d71d06fcd300---------------------------------------",
+      "text": "2 Followers"
+    },
+    {
+      "url": "/@vatsalbaherwani/following?source=post_page---post_author_info--d71d06fcd300---------------------------------------",
+      "text": "1 Following"
+    },
+    {
+      "url": "https://vatsal0.github.io/",
+      "text": "https://vatsal0.github.io/"
+    },
+    {
+      "url": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--d71d06fcd300---------------------------------------",
+      "text": ""
+    },
+    {
+      "url": "https://help.medium.com/hc/en-us?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Help"
+    },
+    {
+      "url": "https://medium.statuspage.io/?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Status"
+    },
+    {
+      "url": "/about?autoplay=1&source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "About"
+    },
+    {
+      "url": "/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Careers"
+    },
+    {
+      "url": "mailto:pressinquiries@medium.com",
+      "text": "Press"
+    },
+    {
+      "url": "https://blog.medium.com/?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Blog"
+    },
+    {
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Terms"
+    },
+    {
+      "url": "https://speechify.com/medium?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Text to speech"
+    },
+    {
+      "url": "/business?source=post_page-----d71d06fcd300---------------------------------------",
+      "text": "Teams"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png",
+      "alt": ""
+    },
+    {
+      "src": "https://miro.medium.com/v2/da:true/resize:fill:88:88/0*Jzj-yeMqOQZQAlFw",
+      "alt": "Vatsal Baherwani"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:96:96/0*Jzj-yeMqOQZQAlFw",
+      "alt": "Vatsal Baherwani"
+    },
+    {
+      "src": "https://miro.medium.com/v2/resize:fill:128:128/0*Jzj-yeMqOQZQAlFw",
+      "alt": "Vatsal Baherwani"
+    }
+  ]
+}

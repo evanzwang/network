@@ -1,0 +1,414 @@
+[
+  {
+    "fullName": "Yohannes Aklilu",
+    "linkedin_internal_id": "859636135",
+    "first_name": "Yohannes",
+    "last_name": "Aklilu",
+    "public_identifier": "yohannes-aklilu",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQFtLQHs_kQPwg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719348533841?e=2147483647&v=beta&t=0x4wHTl70lx82tRCqKS6fpcG0hRbULBkoGAc1vVfRDk",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "Engineering @ Stanford",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "get in contact: yaklilu@stanford.edu",
+    "experience": [
+      {
+        "position": "General Catalyst Venture Fellow",
+        "company_url": "https://www.linkedin.com/company/gc-fellows?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGMmWp_9FZk3Q/company-logo_100_100/company-logo_100_100/0/1706268803221/rough_draft_ventures_logo?e=2147483647&v=beta&t=HPEGjO17l5zj5tvj4uqAjdhwnLQNuyHXLu6_6PkCRXM",
+        "company_name": "GC Venture Fellows",
+        "location": null,
+        "summary": "yaklilu@gc-fellow.com",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "Avionics Intern",
+        "company_url": "https://www.linkedin.com/company/astranis?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGYV-mX_af3vw/company-logo_100_100/company-logo_100_100/0/1730434410032/astranis_logo?e=2147483647&v=beta&t=tRQfUlSH2dENZaIQxJK7FuoJ_FB6II8ED1YIWATwgvc",
+        "company_name": "Astranis Space Technologies",
+        "location": "San Francisco, California, United States",
+        "summary": "",
+        "starts_at": "Sep 2024",
+        "ends_at": "Dec 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Hardware Engineer & ML",
+        "company_url": "https://www.linkedin.com/company/amazon?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=2147483647&v=beta&t=QsC16wgE3EBriPFDlAgtToh2xndFwQWKmR2WcyMG1nk",
+        "company_name": "Amazon",
+        "location": "Sunnyvale, California, United States",
+        "summary": "ml quantization for embedded hardware",
+        "starts_at": "Jun 2024",
+        "ends_at": "Sep 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Researcher",
+        "company_url": "https://www.linkedin.com/school/stanford-university-department-of-computer-science/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGrCVs1ojx3oA/company-logo_100_100/company-logo_100_100/0/1691024285196/stanford_university_department_of_computer_science_logo?e=2147483647&v=beta&t=5ysGRzftIYOfPlRX6htu1KVr27qp5r7aMg5ky0jeRu4",
+        "company_name": "Stanford University Department of Computer Science",
+        "location": "Stanford University",
+        "summary": "building drones with Chris Gregg in PinCS Lab (Pedagogy in Computer Science Lab)",
+        "starts_at": "Feb 2024",
+        "ends_at": "Jun 2024",
+        "duration": "5 months"
+      },
+      {
+        "position": "Jane Street Focus Fellow",
+        "company_url": "https://www.linkedin.com/company/jane-street-global?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQGDwkF0pxTSjg/company-logo_100_100/company-logo_100_100/0/1700507376786/jane_street_global_logo?e=2147483647&v=beta&t=eyFaBH-a-t5Vq833fZdXpmwlgy-c5614-tH0NvnA19c",
+        "company_name": "Jane Street",
+        "location": "New York, United States",
+        "summary": "learned high order OCaml, and met cool streeters",
+        "starts_at": "May 2024",
+        "ends_at": "May 2024",
+        "duration": "1 month"
+      },
+      {
+        "position": "SWE",
+        "company_url": "https://www.linkedin.com/company/regional-transportation-commission-of-southern-nevada?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQH5sQoxABxLqA/company-logo_100_100/company-logo_100_100/0/1630632997133/regional_transportation_commission_of_southern_nevada_logo?e=2147483647&v=beta&t=5vhG-d6LL_RyiTFkHXcM8LhrRJ-b0m6NCFbCqOMZn3M",
+        "company_name": "Regional Transportation Commission of Southern Nevada",
+        "location": "Las Vegas, Nevada, United States",
+        "summary": "quantitative predictive modeling for city car crash data",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "General Catalyst Venture Capital Extern",
+        "company_url": "https://www.linkedin.com/company/general-catalyst?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQERYnF8X59-HA/company-logo_100_100/company-logo_100_100/0/1729764250620/general_catalyst_logo?e=2147483647&v=beta&t=aT8rDVfsm7PvG1Qwe4RPHQ93b68PLeIsfrknaL-g5gU",
+        "company_name": "General Catalyst",
+        "location": "New York, United States",
+        "summary": "",
+        "starts_at": "Jun 2023",
+        "ends_at": "Jun 2023",
+        "duration": "1 month"
+      },
+      {
+        "position": "Student Researcher",
+        "company_url": "https://www.linkedin.com/company/nasa?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGRBHWCcaAqGg/company-logo_100_100/company-logo_100_100/0/1630507197379/nasa_logo?e=2147483647&v=beta&t=fo-Q6QobUq8rf0LAPLMALv3sxvdNUSa2U_m8Vg8cYk8",
+        "company_name": "NASA - National Aeronautics and Space Administration",
+        "location": null,
+        "summary": "tested Aerogel insulation against radiation at 70k feet using weather balloon capsule",
+        "starts_at": "Oct 2021",
+        "ends_at": "Jul 2022",
+        "duration": "10 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2023 - 2027",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/advanced-technologies-academy/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Advanced Technologies Academy",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGPZjfRVZr1yw/company-logo_100_100/company-logo_100_100/0/1630563625417?e=2147483647&v=beta&t=ACAiaUknJsDLjXj9fdfqLLwXLkNKAcw6ks_JQmgL3qQ",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2019 - 2023",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "GC Venture Fellows",
+      "description1_link": "https://www.linkedin.com/company/gc-fellows?trk=public_profile_topcard-current-company",
+      "description2": "Stanford University",
+      "description2_link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/julienchaumond_at-hfwe-load-test-our-768x-h100-gpu-cluster-activity-7300965277372932098-jg5F",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQE-pFE3d3LODQ/feedshare-shrink_800/B4EZVI9OzvG0Ag-/0/1740685766347?e=2147483647&v=beta&t=Lvb2CMZ6liUZU-Hu76JupBeH9OrWnqy-Nzohc94uFyQ",
+        "title": "At HF\u00a0we load-test our 768x H100 GPU cluster using a piece of software called GPU-fryer \ud83c\udf73. \n\nIt runs matrix multiplications and monitors TFLOPs\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/drewpeterson64_thats-a-wrap-on-our-third-venture-in-the-activity-7301316288050520064-YeFH",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQHtSZpB61noXw/feedshare-shrink_800/B4EZVN7fySGgAg-/0/1740769452258?e=2147483647&v=beta&t=815DQvFAdh-rC72eW7LaMRHOokgVGaYNaGw9UlK2WRw",
+        "title": "That\u2019s a wrap on our third Venture in the Capital Summit at Georgetown University! Reflecting on this year\u2019s event, I\u2019m overwhelmed with gratitude\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/andrew-paulmeno_got-to-interview-palmer-luckey-and-david-activity-7300948607908614144-IxA3",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQGM9PX5s062Hg/feedshare-shrink_800/B4DZVIt9tNHIAg-/0/1740681788979?e=2147483647&v=beta&t=rUoKAx8WWALZ4zvCf37Ggj0CJIF88lZ4cBGDhQUu7tk",
+        "title": "Got to Interview Palmer Luckey and David Limp this week. Here's what I learned:\n\n\ud83d\ude80 Palmer Luckey (Founder of Anduril Industries)\n- \"We don't need AI\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sonithsunku_recently-sat-down-with-alec-reiss-to-interview-activity-7299322778158026752-5Aps",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQG-Dz_LzcRkDA/feedshare-shrink_1280/B4EZUxnYxeGYAk-/0/1740294164516?e=2147483647&v=beta&t=lbE3ZsDIg5aNi5VzaDuoriiE2Ra_ilF__ugN9Hy2SEM",
+        "title": "Recently sat down with Alec Reiss to interview Niko Bonatsos, one of the earliest investors in Snapchat and now Managing Partner at General Catalyst.\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/krishmaniar4_treehacks2025-innovation-technology-activity-7298866582338813953-uf6E",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF8vlG-TZSsEQ/feedshare-shrink_2048_1536/B56ZUrISMSGQAo-/0/1740185390989?e=2147483647&v=beta&t=eAS8noxBt_JIO_wef2qjGdbl_hZ2l4hxfT5EWV3ifrc",
+        "title": "36 hours. 1,000 brilliant minds. $240,000 in prizes. The innovation that we saw this weekend was beyond anything we could have imagined. I had the\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameshab_slack-salesforce-rewritingthecode-activity-7295856778183852032-3tmO",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHfv_IwMmjbHg/feedshare-shrink_800/B56ZUAXEKJGoAg-/0/1739467803460?e=2147483647&v=beta&t=HVQjY2KpptoPokD52limet_hF7tDhzzdKxgiOPslNlE",
+        "title": "Beyond excited to announce that I will be joining Slack, a Salesforce company, as a Software Engineering Intern at their headquarters in San\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/anjney_jensen-huang-came-by-last-week-with-surprise-activity-7297369337923805184-7fmX",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHn8JVJVi1Xwg/feedshare-shrink_800/B56ZUV2uWzHoAg-/0/1739828427302?e=2147483647&v=beta&t=HVh8u4oAYo7-H2PhLXOb5Xq06_BO53L1DgA78xB-0pw",
+        "title": "Jensen Huang came by last week with surprise signed 5090s for the students in Stanford CS153 \n\nA lecture the students will remember for life",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/estellecharveriat_i-will-be-spending-my-summer-here-alongside-activity-7289910538136899584-jrb1",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEhYbFKe-3UiQ/feedshare-shrink_800/B4EZSr3AEqHgAk-/0/1738050111470?e=2147483647&v=beta&t=a25qPGKDay4xk1m0WidcFHRGM5DCef01HYmv30XykLQ",
+        "title": "I will be spending my summer here.\n\n\nAlongside 35 cracked engineers.\n\nI am excited to announce The Bridge: a 2-month hacker house in the middle of\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sarahxguo_in-the-spirit-of-learning-in-public-and-transparency-activity-7296320849857454081-OLaw",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF3-bsoKCuyhw/feedshare-shrink_800/B56ZUG9JQyGoAg-/0/1739578447946?e=2147483647&v=beta&t=oaqKYJKYU6QRBntSAWyJ1xika2VOSi3cwnx_0uHOIW0",
+        "title": "In the spirit of learning-in-public and transparency to founders, we're sharing the 4 LP letters we've published since launching Conviction\n\nHere's\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/giovannihernandez10_appleintern-googleintern-amazonintern-activity-7295589310903291905-27t7",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFgshJPp0pGiw/feedshare-shrink_2048_1536/B56ZT8j0DeHsAs-/0/1739404035765?e=2147483647&v=beta&t=-6XwtR5yysLFk1nVY1yK52TCAzywHu3lSS1hepOSq1w",
+        "title": "First stop: Apple. Next up: Google. The finale: Amazon\n\nAs I wrap up this recruiting cycle, I want to give a special thank you to my family\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/y-combinator_candor-yc-w25-helps-defense-energy-and-activity-7294851803240611840-br3k",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGhRgXaVvQINg/videocover-high/B56ZTyEWJfHsBw-/0/1739228164926?e=2147483647&v=beta&t=PtfHBSXDgoFgZONDMGi_YTCCNI8WnGHXDsQz832BIyQ",
+        "title": "Candor (YC W25) helps defense, energy, and biotech startups win tens of billions of dollars in US government funding. Their AI software auto-drafts\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameyajadhav_im-happy-to-share-that-im-starting-a-new-activity-7294067475984318465-T4Jt",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFblObl48C05g/feedshare-shrink_800/B4EZTk_F7uGwAg-/0/1739008533409?e=2147483647&v=beta&t=-y_Md8-T3ZW-i9Y5wcCnjJ1VYp6WflICCfDy7676DKg",
+        "title": "I\u2019m happy to share that I\u2019m starting a new position as Investment Intern at Neo! I'll be working on investments/admissions for the Neo Accelerator\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/joshua-yee1_im-thrilled-to-announce-that-ive-accepted-activity-7293371942131142656-lVon",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFAt_s7AfSB-A/feedshare-shrink_800/B56ZTdDIbzGUAk-/0/1738875373719?e=2147483647&v=beta&t=Csjn5fVYpOeWvV8k2ciqcCCdsNUXcPyvMG46z-BuTTg",
+        "title": "I'm thrilled to announce that I've accepted an internship at American Honda Motor Company, Inc. for this summer! I'm super excited for this\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sazzad14_icra2025-activity-7292965531618287616-5yja",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE26lFlstd8QQ/feedshare-shrink_800/B56ZTXRgGbHEAs-/0/1738778478126?e=2147483647&v=beta&t=TTZFPNiEewveg-qZnRafc7bxlZR8fwh8xrhcfN5VDGg",
+        "title": "Our paper, \"RoboCrowd: Scaling Robot Data Collection through Crowdsourcing,\" has been accepted to\u00a0IEEE RAS ICRA\u00a02025!\n\u00a0\nWe explored how to\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/drjimfan_we-rled-humanoid-robots-to-cristiano-ronaldo-activity-7292593282629439489-tQ4x",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQGuybAu2zbngQ/videocover-high/B56ZTR.5buHsB0-/0/1738689717641?e=2147483647&v=beta&t=YaZ-i6OxcyWHHzyRbe5utkBGfMstILQsvSBIVHLYBJc",
+        "title": "We RL'ed humanoid robots to Cristiano Ronaldo, LeBron James, and Kobe Byrant! These are neural nets running on real hardware at our GEAR lab. Most\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/y-combinator_adam-yc-w25-is-building-an-ai-co-pilot-activity-7291123133569261568-BDm1",
+        "image": "https://media.licdn.com/dms/image/v2/D4D05AQHfgxyx50gCeA/videocover-high/B4DZS871jYGkBs-/0/1738336630354?e=2147483647&v=beta&t=WuyKqXJimmICGNSKRTE4YQ_6D1MuKF_kvMvkxVyDLf8",
+        "title": "Adam (YC W25) is building an AI Co-pilot for CAD Design.\n\nCAD tools have barely evolved in decades. Years of incremental updates have made them buggy\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sazzad14_i-am-thrilled-to-announce-that-i-have-joined-activity-7290036453940547587-V7Wh",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "I am thrilled to announce that I have joined Delve as the Founding AI Engineer, where we are building the future of AI compliance. After two\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sarahxguo_apps-are-open-for-embed-v4-due-214-embed-activity-7287606703003418625-RcXv",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFH9gyqhjps7w/feedshare-shrink_800/B56ZSLHrYoHoAg-/0/1737500834237?e=2147483647&v=beta&t=lMmX7VrCZdxvW4hiurt2rcFCFjbpHD0R08XsfE5Tw7k",
+        "title": "apps are open for Embed v4, due 2/14!\n\nEmbed is a Schelling Point for the highest quality early-stage founders in AI: offering cash, compute\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sazzad14_how-can-we-scale-up-robot-data-collection-activity-7282963972167815168-AB_9",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEgRb5sgVN-8Q/feedshare-shrink_800/B56ZRJJJFPGQAg-/0/1736393921212?e=2147483647&v=beta&t=I9aTaI7TsbOJm5bEZyeKrJGwODR-N9EKaNYZ61tHy1Q",
+        "title": "How can we scale up robot data collection while minimizing human effort? One might hope for *autonomous data collection*\u2014but scaling autonomous\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/astranis_great-news-we-have-acquired-and-established-activity-7279057571372572672-pxmg",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHhqeZwAalCVA/feedshare-shrink_1280/B56ZQRoSdKH0Ao-/0/1735462562502?e=2147483647&v=beta&t=IAzUl2SY_5PMUbcBlRXsYWphL1fyOSjb4lzTh3KsK7Y",
+        "title": "Great news-- we have acquired and established command authority over all four spacecraft.\n\nWe'll keep you all posted as these missions continue to\u2026",
+        "activity": "Liked by Yohannes Aklilu"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/daniellubetzky?trk=public_profile_browsemap-profile",
+        "name": "Daniel Lubetzky",
+        "summary": "Founder of KIND Snacks & Camino Partners | Husband, Father, Shark on Shark Tank\ud83e\udd88 | Let's replace \u201cus vs. them\u201d with solving problems together \ud83e\udd1d| The Builders Movement |",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/brandonrigoni?trk=public_profile_browsemap-profile",
+        "name": "Brandon Rigoni, Ph.D.",
+        "summary": "",
+        "location": "Lincoln, NE"
+      },
+      {
+        "link": "https://www.linkedin.com/in/james-deluca1?trk=public_profile_browsemap-profile",
+        "name": "James DeLuca",
+        "summary": "",
+        "location": "Gallipolis, OH"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kevin-scales-56b2a9120?trk=public_profile_browsemap-profile",
+        "name": "Kevin Scales",
+        "summary": "",
+        "location": "Raleigh, NC"
+      },
+      {
+        "link": "https://www.linkedin.com/in/christineortiz1?trk=public_profile_browsemap-profile",
+        "name": "Christine Ortiz, Ph.D.",
+        "summary": "",
+        "location": "Cambridge, MA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/lucy-chepizhenko-37b1b981?trk=public_profile_browsemap-profile",
+        "name": "Lucy Chepizhenko",
+        "summary": "Laskava bakery",
+        "location": "Los Angeles Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/marksuzman?trk=public_profile_browsemap-profile",
+        "name": "Mark Suzman",
+        "summary": "CEO of the Gates Foundation. Working to ensure everyone can live a healthy life & reach their full potential. Father, husband, optimist.",
+        "location": "Greater Seattle Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sylviajohnson2?trk=public_profile_browsemap-profile",
+        "name": "SYLVIA MUI LING JOHNSON",
+        "summary": "Bealls FL Dept/Publix Production/FTI Financial Processor/USPS/Inspiring Motivator",
+        "location": "Greater Tampa Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/eddie-majeste-65727267?trk=public_profile_browsemap-profile",
+        "name": "Eddie Majeste",
+        "summary": "",
+        "location": "Sherwood, AR"
+      },
+      {
+        "link": "https://www.linkedin.com/in/michaeltcoleman?trk=public_profile_browsemap-profile",
+        "name": "Michael Coleman",
+        "summary": "",
+        "location": "Alexandria, VA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/paavas?trk=public_profile_browsemap-profile",
+        "name": "Paavas Bhasin",
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/lytleleadership?trk=public_profile_browsemap-profile",
+        "name": "Robert Lytle M.A. Organizational Leadership Professional",
+        "summary": "Chief Executive Officer at Lytle Leadership LLC",
+        "location": "Frisco, TX"
+      },
+      {
+        "link": "https://www.linkedin.com/in/navin-manjooran-phd-mba-fasm-facers-fiim-fimmm-faem-36920b2?trk=public_profile_browsemap-profile",
+        "name": "Navin Manjooran, PhD, MBA, FASM, FACerS, FIIM, FIMMM, FAEM",
+        "summary": "Harvard | Chicago Booth | University of Florida | Virginia Tech | NIT | Chairman @Solve",
+        "location": "Windermere, FL"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ibreynolds?trk=public_profile_browsemap-profile",
+        "name": "Brian Reynolds",
+        "summary": "",
+        "location": "New York, NY"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mattdancho?trk=public_profile_browsemap-profile",
+        "name": "\ud83d\udd25 Matt Dancho \ud83d\udd25",
+        "summary": "",
+        "location": "United States"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jarvis-sam-06646646?trk=public_profile_browsemap-profile",
+        "name": "Jarvis Sam",
+        "summary": "",
+        "location": "Portland, OR"
+      },
+      {
+        "link": "https://www.linkedin.com/in/erikschlacter?trk=public_profile_browsemap-profile",
+        "name": "Erik Schlacter",
+        "summary": "",
+        "location": "Charlotte, NC"
+      },
+      {
+        "link": "https://www.linkedin.com/in/abaranwal?trk=public_profile_browsemap-profile",
+        "name": "Amit Baranwal",
+        "summary": "",
+        "location": "Mountain View, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/christopherthomasedwards?trk=public_profile_browsemap-profile",
+        "name": "Chris Edwards",
+        "summary": "",
+        "location": "Charlotte Metro"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://et.linkedin.com/in/yohannes-aklilu-42a16a316?trk=public_profile_samename-profile",
+        "name": "yohannes aklilu",
+        "summary": "Information Technology Manager at Jinka blood bank",
+        "location": "Ethiopia"
+      },
+      {
+        "link": "https://www.linkedin.com/in/yohannes-aklilu-9297a2195?trk=public_profile_samename-profile",
+        "name": "Yohannes Aklilu",
+        "summary": "Student at California State University-San Bernardino",
+        "location": "Los Angeles Metropolitan Area"
+      },
+      {
+        "link": "https://www.linkedin.com/in/yohannes-aklilu-433241296?trk=public_profile_samename-profile",
+        "name": "Yohannes Aklilu",
+        "summary": "--",
+        "location": "Rancho Cucamonga, CA"
+      },
+      {
+        "link": "https://et.linkedin.com/in/yohannes-aklilu-0a40b1316?trk=public_profile_samename-profile",
+        "name": "YOHANNES AKLILU",
+        "summary": "Horticulturist",
+        "location": "Ethiopia"
+      }
+    ],
+    "recommendations": [],
+    "publications": [
+      {
+        "name": "Analysis of Supersonic Parachutes On ReEntry",
+        "sub_title": "University Of Las Vegas, Nevada",
+        "summary": "Supersonic parachutes are crucial for slowing down rocket capsules during reentry, with their effectiveness vital for ensuring safe landings, especially when capsules travel at speeds exceeding Mach 2 within a short distance. The paper looks at parachutes materials like nylon and fiber, with research needed to assess their efficacy. Various factors, such as load capacity, material selection, stability, and sustainability, influence parachute design effectiveness. Researchers are utilizing CFD\u2026\n            \n\n    \n    \n\n    \n        Show more",
+        "date": "",
+        "link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Foursymposium%2Esites%2Eunlv%2Eedu%2Fprogram%2Fanalysis-of-supersonic-parachutes%2F&urlhash=cvBq&trk=public_profile_publication-title"
+      }
+    ],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]
