@@ -8,28 +8,30 @@ from rich.progress import track
 
 
 class Profile(BaseModel):
+    id: str
     name: str
     profile_pic: str
     contacts: list[str]
-    links: list[HttpUrl]
-    description: str
+    links: list[str]
+    short_description: str
+    long_description: str
 
-def make_request(raw_html: str):
+def make_request(raw_info: str):
     request = {
-        "model": "claude-3-5-haiku-latest",
+        "model": "claude-3-7-sonnet-latest",
         "temperature": 0,
-        "max_tokens": 1024,
-        "system": "You are summarizing the scraped raw html info about a person. Use tool calls to output the expected json schema.",
+        "max_tokens": 2048,
+        "system": "You are summarizing the scraped raw linkedin info about a person. Use tool calls to output the expected json schema.",
         "messages": [
             {
                 "role": "user",
-                "content": raw_html,
+                "content": raw_info,
             }
         ],
         "tools": [
             {
                 "name": "create_profile",
-                "description": "Output a profile summarized from the raw data.",
+                "description": "Output a profile object from the raw linkedin data. The `id` field is the linkedin public id. Make two versions of descriptions: short one should be a few sentences. The long one can be as long as needed to incorporate all relevant information about the person. `links` should include a list of links to personal websites, social accounts, etc. For contacts and links, make sure to output a list even with one element. You are looking at a participant in an AI hackathon. Most people are students or recent graduates with some experience in AI. You response should highlight their uniqueness (e.g. subfields, experiences) rather just stating their interests in AI.",
                 "input_schema": Profile.model_json_schema()
             }
         ],
@@ -37,9 +39,8 @@ def make_request(raw_html: str):
     }
     return request
 
-def parse(client: Anthropic, raw_html: str) -> Profile:
-    # return Profile(name='1', profile_pic='1', contacts=[], links=[], description="")
-    response = client.messages.create(**make_request(raw_html=raw_html))
+def parse(client: Anthropic, raw_info: str) -> Profile:
+    response = client.messages.create(**make_request(raw_info=raw_info))
     profile: Profile
     for content in response.content:
         if content.type == "tool_use" and content.name == "create_profile":
@@ -49,27 +50,26 @@ def parse(client: Anthropic, raw_html: str) -> Profile:
 
 
 @click.command()
-def parse_html():
-    data_dir = Path("data/raw")
+def parse_info():
+    data_dir = Path("data/linkedin_profiles")
     people_dirs = list(data_dir.iterdir())
-    print(os.getenv("ANTHROPIC_API_KEY"))
     client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     requests = []
     for i, dir in enumerate(track(people_dirs)):
         if dir.is_file():
             continue
-        raw_htmls = []
+        raw_infos = []
         for file in dir.iterdir():
             with open(file, 'r') as f:
                 s = f.read()
-                if len(s) > 50000:
+                if len(s) > 100000:
                     print(f"skipping {file}")
                     continue
-                raw_htmls.append(s)
-        raw_html = "\n".join(raw_htmls)
+                raw_infos.append(s)
+        raw_info = "\n".join(raw_infos)
         requests.append({
             "custom_id": str(i),
-            "params": make_request(raw_html)
+            "params": make_request(raw_info)
         })
 
     response = client.messages.batches.create(requests=requests) # type: ignore
@@ -77,4 +77,4 @@ def parse_html():
 
 if __name__ == "__main__":
     load_dotenv()
-    parse_html()
+    parse_info()

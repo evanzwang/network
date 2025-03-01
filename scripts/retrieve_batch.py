@@ -8,17 +8,19 @@ from rich.progress import track
 
 
 class Profile(BaseModel):
+    id: str
     name: str
     profile_pic: str
     contacts: list[str]
     links: list[str]
-    description: str
+    short_description: str
+    long_description: str
 
 
 if __name__ == "__main__":
     load_dotenv()
     client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
-    batch_id = "msgbatch_01BExAetjkEWgs6ga6TKw5vu"
+    batch_id = "msgbatch_01JMRYJuuiAjsLPGXbVJ3KSY"
     message_batch = client.messages.batches.retrieve(batch_id)
     profiles = []
 
@@ -32,7 +34,6 @@ if __name__ == "__main__":
                     if content.type == "tool_use" and content.name == "create_profile":
                         profile = content.input
                         profiles.append(Profile(**profile))
-                        # breakpoint()
                         break
             case "errored":
                 if result.result.error.type == "invalid_request":
@@ -47,5 +48,5 @@ if __name__ == "__main__":
     save_dir = Path("data/processed")
     for profile in profiles:
         print(profile)
-        with open(save_dir / f"{profile.name}.json", 'w') as f:
+        with open(save_dir / f"{profile.id}.json", 'w') as f:
             f.write(profile.model_dump_json(indent=4))
