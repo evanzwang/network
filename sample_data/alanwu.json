@@ -1,0 +1,10 @@
+{
+    "name": "Alan Wu",
+    "links": [
+        "https://github.com/alan",
+        "https://www.linkedin.com/in/alan/"
+    ],
+    "contacts": ["alan@caltech"],
+    "profile_pic": "alan.png",
+    "description": "Machine Learning at UC Berkeley. Interested in machine learning, computer vision, and robotics. Previously interned at Meta and Jane Street."
+}
