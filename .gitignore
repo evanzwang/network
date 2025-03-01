@@ -1,8 +1,11 @@
-**/__pycache__/
-.venv/
+*.pyc
+__pycache__/
 .env
-data/
-logs/
+.venv
+env/
+venv/
+ENV/
+staticfiles/
+.DS_Store
 matching_cache.json
-__pycache__
-*.zip
+logs/
