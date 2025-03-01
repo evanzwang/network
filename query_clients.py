@@ -227,7 +227,7 @@ class OpenAIClient(LLMClient):
         batch_size: Optional[int] = None,
         num_workers: Optional[int] = None,
         price_per_input_output: tuple[float, float] = (0.0, 0.0),
-        start_backoff: float = 45.0,
+        start_backoff: float = 15.0,
         max_backoff: float = 3.0 * 60,
     ) -> None:
         super().__init__(
