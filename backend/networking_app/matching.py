@@ -90,10 +90,10 @@ class Matcher:
     def get_everyone(self) -> list[Person]:
         return list(self.people.values())
 
-    def get_specific_reason(self, query: str, name: str) -> str:
-        name = name.strip().lower()
-        prompt = get_reason_prompt(query, self.people[name])
-        return self.generate([prompt])[0]
+    def get_specific_reason(self, query: str, names: list[str]) -> list[str]:
+        names = [name.strip().lower() for name in names]
+        prompts = [get_reason_prompt(query, self.people[name]) for name in names]
+        return self.generate(prompts)
 
 
 def main():
@@ -119,7 +119,7 @@ def main():
     print(
         m.get_specific_reason(
             "I am Rex Liu. I want to meet with someone who is interested in AI safety and has done cybersecurity/pentesting.",
-            "aaquib syed",
+            ["aaquib syed", "david bai"],
         )
     )
 
