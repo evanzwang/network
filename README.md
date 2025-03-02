@@ -18,8 +18,10 @@ To test matching algorithms, use files found in `backend/networking_app`.
 
 `backend/networking_app/dialogue.py` contains the simluation of conversations.
 
+## System Overview
+[![image.png](https://i.postimg.cc/xCFjVKzh/image.png)](https://postimg.cc/sQ7CpGK4)
 
-### System Architecture Diagram
+## Webapp
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
@@ -37,4 +39,4 @@ To test matching algorithms, use files found in `backend/networking_app`.
                     │             │◀────│             │
                     └─────────────┘     └─────────────┘
 ```
-
+To self-host the webapp, use standard Next.js commands.
