@@ -1,8 +1,0 @@
-{
-    "client_type": "OpenAI",
-    "model_name": "gpt-4o-mini",
-    "is_chat": true,
-    "is_batched": false,
-    "num_workers": 1024,
-    "price_per_input_output": [0.15e-6, 0.60e-6]
-}

@@ -7,10 +7,10 @@ import SearchablePeopleTable from "../components/SearchablePeopleTable";
 
 // Define the Person type
 type Person = {
-  id: number;
   name: string;
   imageUrl: string;
   description: string;
+  contacts: string[];
 };
 
 export default function Home() {
@@ -23,13 +23,14 @@ export default function Home() {
     const fetchPeople = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch('http://127.0.0.1:8000/api/people/');
+        const response = await fetch('https://3.145.209.248/api/people/');
         
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
         
         const data = await response.json();
+        console.log(data);
         setPeople(data.people);
         setIsLoading(false);
       } catch (err) {
@@ -47,7 +48,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center w-full max-w-6xl">
         <h1 className="text-3xl font-bold mb-4 text-center">People Directory</h1>
         <p className="text-gray-600 dark:text-gray-300 mb-8 text-center">
-          A table of people with their pictures and descriptions
+          These are the people in our database. Ask a question!
         </p>
         
         {isLoading && (
