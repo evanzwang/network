@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from .matching import Matcher
 import re
+import json
 
 
 # URL validation function
@@ -69,6 +70,14 @@ def get_all_people(request):
         }
         for p in people
     ]
+    if request.method == "GET":
+        return JsonResponse({"people": people})
+
+
+def get_suggested_relationships(request):
+    with open("backend/networking_app/matches.json", "r") as f:
+        people = json.load(f)
+
     if request.method == "GET":
         return JsonResponse({"people": people})
 
