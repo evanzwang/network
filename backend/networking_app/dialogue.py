@@ -1,4 +1,11 @@
 # %%
+
+import json
+
+with open('matches.json', 'r') as f:
+    matches = json.load(f)
+
+# %%
 import os
 import json
 from person import Person
@@ -9,6 +16,7 @@ from dotenv import load_dotenv
 from litellm import batch_completion, ModelResponse
 from tqdm import tqdm
 import math
+from dataclasses import replace
 
 load_dotenv('.env')
 
@@ -37,7 +45,7 @@ class Matcher:
                         long_description=data.get("long_description", ""),
                     )
 
-                    self.people[person.name.lower().strip()] = person
+                    self.people[person.name] = person
 
 model_params = {
     # 'model': "claude-3-5-sonnet-20240620",
@@ -46,17 +54,28 @@ model_params = {
 }
 
 m = Matcher("../../data")
-m.people = {
-    person.name: person for person in m.people.values()
+
+# %%
+
+match_dict = {
+    p['name'].title(): [
+        p2['name']
+        for p2 in p['suggested_people']
+    ]
+    for p in matches 
+}
+match_dict = {
+    k: [x for x in v if x in m.people] for k, v in match_dict.items() if k in m.people
 }
 
 # %%
-keys = sorted(m.people.keys())
-person1_list = keys[1:3]
-candidates = {
-    person1: [keys[j] for j in np.random.permutation(len(m.people))[:4]]
-    for person1 in person1_list
-}
+# keys = sorted(m.people.keys())
+person1_list = list(match_dict.keys())#keys[1:3]
+candidates = match_dict
+# candidates = {
+#     person1: [keys[j] for j in np.random.permutation(len(m.people))[:4]]
+#     for person1 in person1_list
+# }
 
 def format_convo(person, messages):
     extra_user_msg = []
@@ -256,6 +275,8 @@ def rate_conversations(convos, num_pairs):
     return convos, num_as
 
 # %%
+
+# person1_list = person1_list[:10]
 
 for i in tqdm(range(10)):
     if i >= 3:
