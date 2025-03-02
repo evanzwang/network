@@ -1,0 +1,13 @@
+{
+    "id": "evanzwang",
+    "name": "Evan Wang",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFVAxOQhtsY8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684578215944?e=2147483647&v=beta&t=FPg4dCSz65Pg5idxvGWiOKRiH3YdItFmQnLcXw2gXH0",
+    "contacts": [
+        "LinkedIn: https://www.linkedin.com/in/evanzwang"
+    ],
+    "links": [
+        "https://arxiv.org/abs/2409.03733"
+    ],
+    "short_description": "Researcher at Scale AI and Caltech graduate with expertise in machine learning, particularly in LLMs, federated learning, and graph neural networks. Award-winning competitive programmer and data scientist with publications at top ML conferences including ICLR and NeurIPS.",
+    "long_description": "Evan Wang is a researcher at Scale AI with a strong academic background from Caltech. His research focuses on machine learning, with particular expertise in large language models (LLMs), federated learning, and graph neural networks. \n\nHis recent work includes research on \"Planning In Natural Language Improves LLM Search For Code Generation\" which received a Spotlight at ICLR 2025 and was featured at the System 2 Reasoning workshop at NeurIPS 2024. He has published multiple papers at prestigious conferences including ICLR and NeurIPS, with topics covering rapid decentralized federated learning and scalable graph neural networks.\n\nEvan is also an accomplished competitive programmer and data scientist, having won 2nd place at the Citadel Global Data Open and 1st place at the Citadel West Coast Data Open. He qualified for the ICPC North America Championship representing Caltech and placed in the top 500 in the Putnam competition. During his high school years, he reached the Platinum Division in the USA Computing Olympiad, placing him among the top 300 high school students in competitive programming in the US.\n\nHe is multilingual, with native or bilingual proficiency in both English and Chinese, and limited working proficiency in Spanish. Evan has a significant following on LinkedIn with 921 followers and over 500 connections, indicating his professional influence in the tech and research communities."
+}

@@ -1,9 +1,6 @@
 # %%
 import os
 import json
-from queriers import LLMQuerier
-from matching import Matcher
-import prompts
 from person import Person
 import random
 import elo
@@ -16,21 +13,50 @@ import math
 load_dotenv('.env')
 
 # %%
+class Matcher:
+    ALLOWED_METHODS = {"simple", "elo"}
+
+    def __init__(self, data_dir: str) -> None:
+        # load data
+        self.people: dict[str, Person] = {}
+
+        # Iterate through all json files in data directory
+        for filename in os.listdir(data_dir):
+            if filename.endswith(".json"):
+                filepath = os.path.join(data_dir, filename)
+                with open(filepath, "r") as f:
+                    data = json.load(f)
+
+                    # Create new Person and populate fields
+                    person = Person(
+                        name=data.get("name", ""),
+                        profile_pic=data.get("profile_pic", ""),
+                        contacts=data.get("contacts", []),
+                        links=data.get("links", []),
+                        short_description=data.get("short_description", ""),
+                        long_description=data.get("long_description", ""),
+                    )
+
+                    self.people[person.name.lower().strip()] = person
+
 model_params = {
     # 'model': "claude-3-5-sonnet-20240620",
     'model': "gpt-4o-mini",
     "temperature": 1
 }
 
-m = Matcher("data", "model_configs/haiku-3-5.json")
+m = Matcher("../../data")
 m.people = {
     person.name: person for person in m.people.values()
 }
 
 # %%
 keys = sorted(m.people.keys())
-person1 = keys[np.random.randint(len(m.people))]
-candidates = [keys[j] for j in np.random.permutation(len(m.people))[:5]]
+person1_list = keys[1:3]
+candidates = {
+    person1: [keys[j] for j in np.random.permutation(len(m.people))[:4]]
+    for person1 in person1_list
+}
 
 def format_convo(person, messages):
     extra_user_msg = []
@@ -51,7 +77,7 @@ def format_convo(person, messages):
     return [
         {
             "role": "system",
-            "content": f"You are {person.name}. Here is a description of your persona: {person.short_description}. You are having a friendly networking conversation with another participant at an AI hackathon. Keep your answers concise and do not ramble on for many sentences."
+            "content": f"You are {person.name}. Here is a description of your persona: {person.short_description}. You are having a friendly networking conversation with another participant at an AI hackathon. Keep your answers concise and do not ramble on for many sentences, but don't just talk about your hackathon project. Try to learn about the other person's experiences and interests and how they align with yours."
         },
         {
             "role": "user",
@@ -71,8 +97,9 @@ init_elo_score = 1000
 
 convos = [
     # opposing party, person_to_speak
-    (p, person1, [], init_elo_score) 
-    for p in candidates
+    ((person1, p), person1, [], init_elo_score) 
+    for person1 in person1_list
+    for p in candidates[person1]
     for _ in range(init_num_convos_per_person)
 ]
 
@@ -91,13 +118,13 @@ def update_convos(convos, n_samples):
         **model_params,
     )
     new_convos = []
-    for (counterparty, person_speaking, orig_convo, elo_score), resp in zip(convos, completions):
+    for ((person1, counterparty), person_speaking, orig_convo, elo_score), resp in zip(convos, completions):
         if not isinstance(resp, ModelResponse):
             print(resp)
         else:
             for choice in resp['choices']:
                 new_convos.append((
-                    counterparty,
+                    (person1, counterparty),
                     person1 if person_speaking == counterparty else counterparty,
                     orig_convo + [(
                         person_speaking,
@@ -235,18 +262,42 @@ for i in tqdm(range(10)):
         convos = update_convos(convos, 2)
         convos, num_as = rate_conversations(convos, len(convos))
         print("Num as", num_as)
-        elo_cutoff = np.quantile([c[-1] for c in convos], q=0.5)
-        convos = [c for c in convos if c[-1] > elo_cutoff]
+
+        # best_elos = {
+        #     person1: (None, 0)
+        #     for person1 in person1_list
+        # }
+        # for i, convo in enumerate(convos):
+        #     person1 = convo[0][0]
+        #     if convo[-1] > best_elos[person1][1]:
+        #         best_elos[person1] = i, convo[-1]
+        elo_cutoffs = {}
+        for person1 in person1_list:
+            elo_cutoffs[person1] = np.quantile([
+                c[-1] 
+                for c in convos
+                if c[0][0] == person1
+            ], q=0.5)
+        
+        convos = [
+            c
+            for i, c in enumerate(convos) 
+            if c[-1] > elo_cutoffs[c[0][0]]
+            # or i in all_best_elos
+        ]
     else:
         convos = update_convos(convos, 1)
     # convos = [convos[i] for i in np.random.permutation(len(convos))[:20]]
 
 # %%
-
 max_elos = {
-    cand: (None, 0) for cand in candidates
+    person1: {
+        cand: (None, 0) for cand in candidates[person1]
+    }
+    for person1 in candidates
 }
 for convo in convos:
-    if convo[-1] > max_elos[convo[0]][-1]:
-        max_elos[convo[0]] = (convo[2], convo[-1])
+    if convo[-1] > max_elos[convo[0][0]][convo[0][1]][-1]:
+        max_elos[convo[0][0]][convo[0][1]] = (convo[2], convo[-1])
+max_elos
 # %%

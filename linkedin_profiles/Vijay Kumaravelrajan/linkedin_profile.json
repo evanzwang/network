@@ -1,0 +1,288 @@
+[
+  {
+    "fullName": "Vijay Kumaravelrajan",
+    "linkedin_internal_id": "1017879075",
+    "first_name": "Vijay",
+    "last_name": "Kumaravelrajan",
+    "public_identifier": "vijay-kumaravelrajan",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D5616AQGcvymqUrMqig/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1665615066838?e=2147483647&v=beta&t=fSoktLTV177w6M4aOg2I7G-Ijhvbm2un8IWfK9TPHqM",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGOskBhJsGiCg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1664345545420?e=2147483647&v=beta&t=IH-HfyXAy2sCni8_6YGnXWvXM7zhM0clc6_neaa8B0s",
+    "headline": "Trustee Scholar and Viterbi Fellow at University of Southern California",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "Junior at U.S.C. studying Math and Computer Science. Passionate about discovering and building new things. Find my projects and writing at https://jaykr.dev",
+    "experience": [
+      {
+        "position": "Project Lead",
+        "company_url": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Center for AI in Society's Student Branch (CAIS++)",
+        "location": "Los Angeles, California, United States",
+        "summary": "- Leading a team of 5 to research inference-time compute scaling for LLM language translation, achieving superior pass@k performance under a tighter inference budget compared to large models - Implementing, analyzing various inference-time scaling strategies (best-of-n, tree search with PRMs, CoT with RL)",
+        "starts_at": "Dec 2024",
+        "ends_at": "Present",
+        "duration": "4 months"
+      },
+      {
+        "position": "Curriculum Lead",
+        "company_url": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Center for AI in Society's Student Branch (CAIS++)",
+        "location": "Los Angeles, California, United States",
+        "summary": "- Mentored 3 underclassmen through practical ML projects and implementations through weekly curriculum meetings- Taught comprehensive ML curriculum covering AI, neural networks, classical ML, NLP, CV, transformers, and generative modeling",
+        "starts_at": "Sep 2024",
+        "ends_at": "Dec 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Machine Learning Researcher",
+        "company_url": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_name": "USC Center for AI in Society's Student Branch (CAIS++)",
+        "location": null,
+        "summary": "- Conducted research in robotic manipulation through collaboration with SLURM lab at USC- Implemented environment simulation using MuJoCo and ManiSkill with Gymnasium for RL training",
+        "starts_at": "Jan 2024",
+        "ends_at": "Aug 2024",
+        "duration": "8 months"
+      },
+      {
+        "position": "Co-Founder",
+        "company_url": "https://www.linkedin.com/company/jargonlearn?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGFNGj7rQ7DFg/company-logo_100_100/company-logo_100_100/0/1712900762017/jargonlearn_logo?e=2147483647&v=beta&t=Ss1fb9H4Um9YGDDx2pdBakz0DnM5E6EFutP_gJEpzRc",
+        "company_name": "Jargon",
+        "location": "Los Angeles County, California, United States",
+        "summary": "Building a chrome extension to turn your browsing into language learning, powered by LLMs. -> https://www.jargonlearn.com/",
+        "starts_at": "Sep 2023",
+        "ends_at": "Jan 2025",
+        "duration": "1 year 5 months"
+      },
+      {
+        "position": "Directed Researcher at WiDES Lab",
+        "company_url": "https://www.linkedin.com/school/usc-viterbi-school-of-engineering/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGLQ7K896s4aA/company-logo_100_100/company-logo_100_100/0/1631322941738?e=2147483647&v=beta&t=bm9LJoe2vvKEu8B1ZkbPefUa9MzPiHow5WGWb6rR9-U",
+        "company_name": "USC Viterbi School of Engineering",
+        "location": "Los Angeles, California, United States",
+        "summary": "- Collaborate with PhD lead and a team of 4 Graduate and Undergraduate researchers- Design and optimize Ray Tracer for use in 6G wireless installations- Use Convolutional Neural Networks as well as traditional algorithms to detect edges in Point Cloud data- Implement C++ libraries in Python as well as Matlab",
+        "starts_at": "Aug 2022",
+        "ends_at": "Sep 2024",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Research Assistant",
+        "company_url": "https://www.linkedin.com/company/scholar-launch?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHkAgpt7LdiZg/company-logo_100_100/company-logo_100_100/0/1630605794369?e=2147483647&v=beta&t=8rACaYXWcn3hBX3hpzQ2VayD3p8lMDLZknuZLU7jfj8",
+        "company_name": "Scholar Launch",
+        "location": "San Ramon, California, United States",
+        "summary": "- Conducted research on open star clusters using data analysis under a professor from UT Austin- Created generalizable algorithm for any star cluster of interest to determine age using Python",
+        "starts_at": "May 2021",
+        "ends_at": "Jan 2022",
+        "duration": "9 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Southern California",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_100_100/company-logo_100_100/0/1631312619853?e=2147483647&v=beta&t=uv2J12HEewxyizWMwIblg7CO1XROk-nsuuljqXSZdb0",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Junior",
+        "college_duration": "2022 - 2026",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Southern California",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_100_100/company-logo_100_100/0/1631312619853?e=2147483647&v=beta&t=uv2J12HEewxyizWMwIblg7CO1XROk-nsuuljqXSZdb0",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "Junior",
+        "college_duration": "2022 - 2026",
+        "college_activity": ""
+      },
+      {
+        "college_name": "The Quarry Lane School",
+        "college_image": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw",
+        "college_degree": "High School Diploma, IB Diploma",
+        "college_degree_field": "4.86",
+        "college_duration": "2018 - 2022",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "USC Center for AI in Society's Student Branch (CAIS++)",
+      "description1_link": "https://www.linkedin.com/company/usc-center-for-ai-in-society-student-branch?trk=public_profile_topcard-current-company",
+      "description2": "University of Southern California",
+      "description2_link": "https://www.linkedin.com/school/university-of-southern-california/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hey-all-i-had-a-blast-presenting-on-my-activity-7300635754265755649-IO4W",
+        "title": "Hey all - I had a blast presenting on my StratoSOL design in last week's LA-LV Mini-Conference! The event was incredible: a tour of Impulse Space\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/alea-motwane-54925525b_i-am-so-happy-to-share-that-i-will-be-joining-activity-7290823768149532673-Q8kc",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQElsdAiX_KtWw/feedshare-shrink_800/B4DZS41lNEHAAg-/0/1738267841671?e=2147483647&v=beta&t=719t4EpSdMxFAI4M2MvlSWbja5qOBPYVj_Gpo4p928g",
+        "title": "I am so happy to share that I will be joining TMZ as a news intern this spring! A special thank you to Christina Bellantoni for your guidance and\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jackgclark_i-am-excited-to-share-that-i-have-accepted-activity-7289703696001642497-TZtw",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF33ZdZGpPzfg/feedshare-shrink_1280/B56ZRiTYZzHoAk-/0/1736816036138?e=2147483647&v=beta&t=UsEarGOnXwLaePeDrPkmtMkCCUizHQFpXyYfC_A8YQE",
+        "title": "I am excited to share that I have accepted my offer to work at Northrop Grumman as a Mechanical Engineering Intern for Summer 2025!\n\nThank you to\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jessica-wang-357a331b0_excited-to-share-that-ill-be-joining-meta-activity-7286133432902995969-NLKm",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFdEet-9zwlMw/feedshare-shrink_800/B56ZR2LvnWHoAg-/0/1737149579351?e=2147483647&v=beta&t=EDs0FwJNCZriUOQO3HqayJdcbg88dfdaXaf61adaycY",
+        "title": "Excited to share that I'll be joining Meta at their NYC office this upcoming summer as a Software Engineer Intern! A huge thank you to my recruiters\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/jena-bhandari_ill-be-joining-google-this-summer-as-a-software-activity-7287884250710773760-HXWB",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQHtZvs1ZpNBlw/feedshare-shrink_800/B4DZSL9U_WHIAg-/0/1737514898217?e=2147483647&v=beta&t=5yIO6aag7zjZQf2_5UufF2lRZde7H0sNQRRhYlbxt3o",
+        "title": "I\u2019ll be joining Google this summer as a Software Engineering Intern! It\u2019s surreal to be working on the team at YouTube, especially since I spent my\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hello-all-below-are-some-reflections-on-activity-7275585693895065601-R-tx",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFd8TGuZBIs0Q/feedshare-shrink_800/B4EZPgQBabGYAk-/0/1734634117183?e=2147483647&v=beta&t=So2soVA4lq8_mCiw6AJGK_r5FJJIZ7UrYiqojKjZ-HI",
+        "title": "Hello all - below are some reflections on my recent talk to the AIAA Los Angeles Section about my SRM design, StratoSOL.\n\nI had the pleasure of being\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/usc-department-of-computer-science_could-machine-learning-revolutionize-early-activity-7264737854000422915-y_HF",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEOs6ohESsN_w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732048475141?e=2147483647&v=beta&t=TbLtujal4La7bBXXDlQhKsXwjFOB8JNx6MJ2_VNtwtM",
+        "title": "Could machine learning revolutionize early detection of middle ear diseases? \ud83d\udd2c\n\nA team of interdisciplinary USC students is developing an AI-powered\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_a-fibonacci-fact-for-fibonacci-day-1d-search-activity-7266163613642506241-Ca4P",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQETYhDJYVE-Hw/articleshare-shrink_800/articleshare-shrink_800/0/1732386786892?e=2147483647&v=beta&t=Ojrg4ZJgTotNrcYf9UZ2T35mA38W8VnYjADA5UAlf4g",
+        "title": "Hello all - in honor of Fibonacci Day, a new blog post is now live on my website: \"A Fibonacci Fact for Fibonacci Day: 1D Search Methods.\"\n\nI have\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hey-all-happy-to-announce-that-on-december-activity-7265061356033261571-EYIB",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Hey all - happy to announce that on December 7th, I will be giving a talk to the AIAA Los Angeles Section about my first place entry into the 2024\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/armonga_excited-to-share-that-ill-be-joining-akuna-activity-7264753363588698113-G_Ep",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQFjMuhaMY0BDw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732052173315?e=2147483647&v=beta&t=I73GCdiRJJYztC_lAYf_1IA5JvKn2FzD5wN8smBu9Vg",
+        "title": "Excited to share that I'll be joining Akuna Capital as a Quantitative Research Intern for the upcoming summer! I'll be working on the pricing team\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kewei-sui_just-had-an-amazing-sunday-with-over-1000-activity-7254379850407321602-J_7p",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEPOfSw0inrMg/feedshare-shrink_800/feedshare-shrink_800/0/1729578934852?e=2147483647&v=beta&t=ADv8T9uIjwltU8rrLYTq5UpLJ83_BywwnaI-Tx1ihy4",
+        "title": "Just had an amazing Sunday with over 1,000 brilliant hackers at Cal Hacks 11.0. Judging has become very challenging in these days. All of their\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_quadratic-forms-local-minimizers-and-a-activity-7252392872577003520-8Zt_",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGvG1M5N5F4DA/articleshare-shrink_800/articleshare-shrink_800/0/1729103333966?e=2147483647&v=beta&t=40gGgMIE7NKNgEmNu_IZPdBlDdpXPbbpMkJ_-3qh0aA",
+        "title": "Hello all - new blog post now live on my website: \"Quadratic forms, local minimizers, and a cool relationship between the two.\"\n\nThis one's a bit\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/minseokim04_im-very-happy-to-announce-that-i-will-be-activity-7247009101929422848-2nq_",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFDtMpUuLYybQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727821611914?e=2147483647&v=beta&t=nOA6HuYri5ILSum7mFsRd_eKZ9Xsw0IFw5dbcM4A8hc",
+        "title": "I\u2019m very happy to announce that I will be joining Flow Traders as a Trading Intern in their New York office next summer. This opportunity marks a\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hello-all-happy-to-announce-that-my-entry-activity-7246526748501118978-5DM-",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQF1mSZ-k_TpXA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727632393987?e=2147483647&v=beta&t=xTDqi4xIGY02Ybp7PK1J5SNEIL5ev_-YFo3LcOtQQBs",
+        "title": "Hello all - happy to announce that my entry into the 2024 AIAA Undergraduate Individual Aircraft Design Competition was awarded first place!\n\nThe\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/karan-baishkiyar-604ab21b3_after-an-amazing-and-fulfilling-summer-at-activity-7242597551118413826-tjSt",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGKUDZaVA3UjQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726769816614?e=2147483647&v=beta&t=qM9Y7Ob7YbjDXEIn0Kn4vQUH8kIx_iMrVANrq-RRA4s",
+        "title": "After an amazing and fulfilling summer at SpaceX, I am so excited to announce that I will return next summer to intern on the Falcon Structures team.\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_first-gm-done-thanks-to-all-who-showed-activity-7240422742838190080-wM-D",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "First GM done - thanks to all who showed up! Open projects, workshops, and more coming soon!",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hello-all-below-are-some-reflections-from-activity-7232038814674743296-VZaL",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQH-SPr4b-jCRg/feedshare-shrink_800/feedshare-shrink_800/0/1724222165841?e=2147483647&v=beta&t=p8e0V5WVbIESi0gflaUNZJmOxoxugsdP3bQrsxK7vyk",
+        "title": "Hello all - below are some reflections from my recent time at REGENT!\n\nNot long ago, I completed my summer internship at REGENT. I first heard of\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/davidsztajnbok_hello-all-i-have-some-exciting-summer-plans-activity-7208166474853535745-KQDj",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQH7mmseoc6onA/feedshare-shrink_800/feedshare-shrink_800/0/1718560806156?e=2147483647&v=beta&t=SftXsARICaSySwJmL_5EhfBBSlrwcdWNDyePWNVRn18",
+        "title": "Hello all. I have some exciting Summer plans to announce but, before that - for my first post! - I'd like to share a bit of a recap of my last two\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/will-dolan_after-a-great-first-two-weeks-i-have-started-activity-7205413381690847232-gtuT",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGT_x960MOpUg/feedshare-shrink_800/feedshare-shrink_800/0/1719121722629?e=2147483647&v=beta&t=L0pJEJcdA4pRJFY5QmNCUpch0qO8l5e-mC62P2ho5w8",
+        "title": "After a great first two weeks, I have started working at sentiar as a Software Engineer Intern this summer. It has been so amazing both getting to\u2026",
+        "activity": "Liked by Vijay Kumaravelrajan"
+      }
+    ],
+    "volunteering": [
+      {
+        "company_url": "https://www.linkedin.com/company/scouting-america?trk=public_profile_volunteering-position_profile-section-card_image-click",
+        "company_position": "Eagle Scout Project",
+        "company_name": "Boy Scouts of America",
+        "company_duration": "",
+        "starts_at": "Aug 2021",
+        "ends_at": "Mar 2022"
+      }
+    ],
+    "certification": [],
+    "people_also_viewed": [],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [
+      {
+        "name": "Rocket Propulsion Lab",
+        "position": "General Member - Simulations"
+      }
+    ],
+    "projects": [],
+    "awards": [
+      {
+        "name": "Eagle Scout",
+        "organization": "Boy Scout Troop 1776",
+        "duration": "Aug 2022",
+        "summary": ""
+      },
+      {
+        "name": "IB Diploma Graduate",
+        "organization": "International Baccalaureate",
+        "duration": "Aug 2022",
+        "summary": "IB Score : 39IB Math HL (6), IB Physics HL (7), IB Biology HL (6), IB History HL (6)"
+      },
+      {
+        "name": "AP Scholar",
+        "organization": "Collegeboard",
+        "duration": "Jun 2022",
+        "summary": "AP Calculus AB (5), AP Computer Science Principles (5), AP Computer Science A (5)"
+      },
+      {
+        "name": "National Merit Scholar",
+        "organization": "NMSC",
+        "duration": "May 2022",
+        "summary": ""
+      }
+    ],
+    "score": [
+      {
+        "name": "SAT",
+        "score": "Score: 1590",
+        "duration": "Mar 2021",
+        "summary": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "fullName": "Jalen Xing",
+    "linkedin_internal_id": "941368840",
+    "first_name": "Jalen",
+    "last_name": "Xing",
+    "public_identifier": "jalen-xing",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C4E03AQGDpoykXDyWrA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1647472809677?e=2147483647&v=beta&t=4kflAfC1jjeJ9ssyI2UVZXKZZipGkZDWkaIC1thHyeo",
+    "headline": "Fellow @ General Catalyst | EECS @ UC Berkeley",
+    "location": "1K followers\n          \n          \n              500+ connections",
+    "about": "Feel free to reach out at xing.jalen@gmail.com",
+    "experience": [
+      {
+        "position": "Venture Fellow",
+        "company_url": "https://www.linkedin.com/company/general-catalyst?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQERYnF8X59-HA/company-logo_100_100/company-logo_100_100/0/1729764250620/general_catalyst_logo?e=2147483647&v=beta&t=aT8rDVfsm7PvG1Qwe4RPHQ93b68PLeIsfrknaL-g5gU",
+        "company_name": "General Catalyst",
+        "location": null,
+        "summary": "Scouting and investing in student startups for General CatalystReach out to jxing@gc-fellows.com if you're interested in building or want to chat",
+        "starts_at": "Oct 2024",
+        "ends_at": "Present",
+        "duration": "6 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/meta?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_100_100/company-logo_100_100/0/1636138754252/facebook_logo?e=2147483647&v=beta&t=yQdLB8_bCnLl5CaiAOcOMFm39fvGboZVNBYTqgRVKWg",
+        "company_name": "Meta",
+        "location": "Menlo Park, California, United States",
+        "summary": "Facebook Search - Vertical Ranking",
+        "starts_at": "May 2024",
+        "ends_at": "Aug 2024",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/capital-one?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_100_100/company-logo_100_100/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=3vOvEagCN6Oz8iNwzA1s1AyoVUy5mbl-0M0gQjeiKvs",
+        "company_name": "Capital One",
+        "location": "Champaign, Illinois, United States",
+        "summary": "Semantic Search and Large Language Models",
+        "starts_at": "Sep 2023",
+        "ends_at": "Apr 2024",
+        "duration": "8 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_100_100/company-logo_100_100/0/1738855736997/amazon_web_services_logo?e=2147483647&v=beta&t=OZG6TFGHaiu0-IazkwLYMxAfZ4u_LGMAYSSlnyQp8bY",
+        "company_name": "Amazon Web Services (AWS)",
+        "location": "Seattle, Washington, United States",
+        "summary": "Machine Learning Image Classification and Search",
+        "starts_at": "May 2023",
+        "ends_at": "Aug 2023",
+        "duration": "4 months"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/balyasny-asset-management-l.p.?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHhyIKbmuRidQ/company-logo_100_100/company-logo_100_100/0/1631387660608?e=2147483647&v=beta&t=CuNAaQyjuJ7HoKhrLof2hB6-cqvZiyPB_-5IB2Z1kdA",
+        "company_name": "Balyasny Asset Management L.P.",
+        "location": "New York, New York, United States",
+        "summary": "Compliance and Equity Technology",
+        "starts_at": "Jun 2022",
+        "ends_at": "Aug 2022",
+        "duration": "3 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Master's degree",
+        "college_degree_field": "3.95/4.00",
+        "college_duration": " - ",
+        "college_activity": "Codebase, IM Basketball, Fung Excellence Scholarship Recipient"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of Illinois Urbana-Champaign",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_100_100/company-logo_100_100/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=2147483647&v=beta&t=TrFZBxAmbqYOYfdIFq5Zq_OlfV_xHrxA3oNZGy05CEU",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "3.98/4.00",
+        "college_duration": " - ",
+        "college_activity": "Research Assistant - Professor Bao"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/monta-vista-high-school-28/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Monta Vista High School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4E0BAQHDk5V7PB484Q/company-logo_100_100/company-logo_100_100/0/1630600412469?e=2147483647&v=beta&t=Sg1sLgbGr9fkDC2oVx7UYdJLmRqH9BRB4cV-vUDik10",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": " - ",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "General Catalyst",
+      "description1_link": "https://www.linkedin.com/company/general-catalyst?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": "",
+      "description3_link": null
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/astranis_tomorrow-we-launch-four-geostationary-satellites-activity-7275617359292182528-n7CK",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQERwSvLgQzzPQ/feedshare-thumbnail_720_1280/B56ZPgvWn4G4A8-/0/1734642330753?e=2147483647&v=beta&t=r-dwSdb6DKTXfFIeFvu-9hbjVd4dCj1FSkdm9iWLEig",
+        "title": "Tomorrow, we launch.",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/michellebkwok_consumer-vc-startups-activity-7300192700593491969-sHXm",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFPCzlgmWSj4A/feedshare-shrink_2048_1536/B56ZU9.ku5GoAo-/0/1740501569251?e=2147483647&v=beta&t=bgePeLY-95RicoXz6J9jHcHwW_R5nqXDM9dZU-VsPWQ",
+        "title": "Consumer VC/Startups are alive and well, but the real winners are playing the long game. Thoughts from Vincent Zhu (Investor @ General Catalyst) and\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kshitij-teotia_super-excited-to-share-that-our-team-won-activity-7297404675744481280-AZjv",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEfleWa6woF4A/feedshare-shrink_800/B56ZUWW36gGsAo-/0/1739836851407?e=2147483647&v=beta&t=THsa9wsD20JMXvPVdilHUujrka6vPsI46w2q-4sVFAU",
+        "title": "Super excited to share that our team won Delve's \"Most Intuitive UX\" prize at Stanford TreeHacks 2025\u2014earning a pair of AirPods and an on-site with\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aayushbandopadhyay_30-minute-meeting-aayush-bandopadhyay-activity-7295200105115070464-q6Ih",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQFy2MCTLmdxaQ/articleshare-shrink_800/articleshare-shrink_800/0/1739311037321?e=2147483647&v=beta&t=5A0aALWv4tU4cNcTh3rO3oD-E6G0bynI0noE7zaW458",
+        "title": "The Mock Interviews with a Google APM!\n\nAfter doing a couple dozen coffee chats, the most common thing brought up is the lack of resources available\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameyajadhav_im-happy-to-share-that-im-starting-a-new-activity-7294067475984318465-T4Jt",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFblObl48C05g/feedshare-shrink_800/B4EZTk_F7uGwAg-/0/1739008533409?e=2147483647&v=beta&t=-y_Md8-T3ZW-i9Y5wcCnjJ1VYp6WflICCfDy7676DKg",
+        "title": "I\u2019m happy to share that I\u2019m starting a new position as Investment Intern at Neo! I'll be working on investments/admissions for the Neo Accelerator\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/drewpeterson64_niko-bonatsos-managing-director-at-general-activity-7293369153208344579-C_q-",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFjcSuA_Mb6iA/feedshare-shrink_1280/B4EZTdAl9rGwAk-/0/1738874709079?e=2147483647&v=beta&t=dXrkDPgcq0DaIJRyT_nCZlKG2FUQelzpcJfOeZn1yf8",
+        "title": "Niko Bonatsos, Managing Director at General Catalyst, is one of the most established early-stage consumer investors in the game! \n\nHe has backed\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aayushbandopadhyay_20-minute-meeting-aayush-bandopadhyay-activity-7293005771481522176-y5Sk",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQEtCxlsV5-GPw/articleshare-shrink_800/articleshare-shrink_800/0/1738787825799?e=2147483647&v=beta&t=0BIwfu9VpMSBkg13cb0xr3jBRC5CpXfUxW3EMjHrvH8",
+        "title": "1-on-1 Coffee Chats about APM Recruiting with a Google APM!\n\nI've been getting a lot of DMs from students asking for advice and mentorship about\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/kshitij-teotia_excited-to-launch-morphic-with-krish-iyengar-activity-7292244005243756545-OqPM",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Excited to launch Morphic with Krish Iyengar \ud83d\ude80 \n\nJoin the waitlist at morphic-app.com",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brandonwu32_activity-7287999667420770304-2Czr",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFKhYT5Ge72QQ/feedshare-shrink_1280/B56ZSQtFI3GoAo-/0/1737594524538?e=2147483647&v=beta&t=HC_U2Q7flF5vpb0MezN5aqfpfupdcTwhMSLZanScs4o",
+        "title": "Liked by Jalen Xing",
+        "activity": ""
+      },
+      {
+        "link": "https://www.linkedin.com/posts/anthony-wang-4b0783220_appreciate-activity-7287553891880062977-lK_U",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQH8p3ybBZgSjw/feedshare-shrink_2048_1536/B4EZSKXpXzGgAo-/0/1737488242763?e=2147483647&v=beta&t=mNn5c500Xz9SKiN3b5_bRMmuasNefst9qqw7pIzzd7s",
+        "title": "Proud to share I'll be joining Coinbase as a Software Engineer Intern this summer in San Francisco, California! \ud83d\ude80\n\nA huge thank you to my recruiter,\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maciej-szymczyk_nelson-ray-is-the-man-when-it-comes-to-defense-activity-7285861350717743104-JT_3",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEkdQsMqebInA/feedshare-shrink_800/B56ZRx9Y1FHwAk-/0/1737078706455?e=2147483647&v=beta&t=-o9Eo8KD8EHu5ZxQ00wiebeRI_XVhPMHrMymLlTr2NM",
+        "title": "Nelson Ray is the man when it comes to defense contracting.\n\nHe worked at a defense manufacturer for a year and saw the terrible inefficiencies\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nelson-ray_caring-about-your-customers-means-being-there-activity-7285077492116209667-fl8X",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFz4Jif1BnN3w/feedshare-shrink_2048_1536/B56ZRnLQj5GoAs-/0/1736897822019?e=2147483647&v=beta&t=QkGsRgF7EzzGjpdy_Qq7jzCGyMGIRTPzbeEman_7Xf8",
+        "title": "Caring about your customers means being there in celebrating their wins! \ud83c\udf89\n\nCongratulations WPA team on winning a large defense contract with\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/nelson-ray_incredible-start-to-y-combinator-w25-thanks-activity-7283871521125605376-WJJx",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Incredible start to Y Combinator W25!\n\nThanks YC for bringing in top speakers such as Greg Brockman, creator of ChatGPT, and Aravind Srinivas\u2026",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/ameyajadhav_happy-to-share-that-ive-accepted-an-internship-activity-7273018829205647363-M-mU",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQEFqbKhR3ZXKA/feedshare-shrink_800/feedshare-shrink_800/0/1733983089121?e=2147483647&v=beta&t=xQCXN4GlYeKbdFT9ubvJN_CXmcnr-0-NV0BvE6Dwd0Q",
+        "title": "Happy to share that I've accepted an internship offer to join OpenAI as a Member of Technical Staff this summer in the San Francisco HQ \ud83c\udf89",
+        "activity": "Liked by Jalen Xing"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/maciej-szymczyk_thanks-jalen-xing-and-jonny-z-for-making-activity-7272837070346166273-poSc",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQFSpNVTNDYMSQ/feedshare-shrink_800/B4EZO5NeiwHwAg-/0/1733979139282?e=2147483647&v=beta&t=U8F8ELg5fAMe-N7G0APEvb9drtDern5Hyz5f_9X0RS4",
+        "title": "Thanks Jalen Xing and Jonny Z. for making this possible!\n\nExcited to make the most out of General Catalyst\u2019s defense expertise!",
+        "activity": "Liked by Jalen Xing"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/neal-ghosh?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Neal Ghosh\n        \n              \n          \ud83d\udea8\ud83d\udea8 \ud83d\udea8  Unlocking Innovation: The Power of the Adjacent Possible \n\nInnovation programs can stall when the team tries to ideate way beyond their collective perspective and frame of reference. Like a software engineer brainstorming genetic modification of mycelia, or a senior executive ideating process improvements which they haven't been participated in for decades.\n\nIt's challenging, exhausting, and ultimately self-defeating. \n\nEnter the concept of the \"Adjacent Possible\" - a game-changer for innovation. What is it?\n\nThe Adjacent Possible, coined by Stuart Kauffman, represents the realm of new ideas within reach based on our current knowledge, resources, and capabilities.\n\nWhy it matters:\n\n\u27a1\ufe0f Realistic Innovation: it focuses on achievable advancements, not far-fetched concepts.\n\n\u27a1\ufe0f Incremental Progress: each innovation opens doors to new possibilities.\n\nHow to leverage it:\n\u2022 Constantly explore the boundaries of your adjacent possible. What's in your line of sight is what you know best.\n\n\u2022 Combine existing ideas in novel ways. Even small perturbations from status quo can generate large innovation leaps.\n\n\u2022 Stay curious about developments in adjacent industries. Cross-domain patterns create fresh sources of ideas, while also expanding the adjacent possible.\n\nMost of all, it takes the 'genius' pressure off the team. No one knows everything, but each one of us knows a lot about something, and we can all drive plenty of innovation potential by focusing on the spaces we know best.\n\nAre you exploring your Adjacent Possible? Share your thoughts below! \ud83d\udc47\n\n#Innovation #innovationsystems #AdjacentPossible",
+        "location": "8\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/sujaysriv?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Sujay Srivastava\n        \n              \n          Ilya Sutskever confirmed at NeurIPS '24 pre-training scaling law will not be the same. Internet data, the AI fossil fuel, is running out.\nIt is not the end of the AI hype, the rapid rise of foundational AI has outpaced our ability to fully grasp their long-term societal impact. AI agents and applications are poised to transform every facet of our lives, and we will see it happening in coming few years.\nThere will still be improvements in model architecture, and synthetic data creation, so models will improve, just not at the lightning speed they did till now. \nLooking forward, the single most important milestone in AI is creating systems capable of advancing themselves\u2014AI researchers that can innovate and improve foundational models autonomously. We need to assess how far are we from this stage.",
+        "location": "9"
+      },
+      {
+        "link": "https://www.linkedin.com/in/henry22?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Henry Diep\n        \n              \n          Today, I found a fascinating way to think about \u201cTokens\u201d in LLMs. It came from a conversation between Jensen Huang and Patrick Collison at a recent Stripe event.\n\nWhen asked about the future of compute capacity in five years, Jensen smartly dodged that question a bit, but then gave an excellent explanation and analogy about why tokens are the new forces that will power the next decades of humanity.\n\nHe explained that we're now producing something unprecedented (and at scale): floating point numbers that possess \u201cvalue\u201d, which we now call tokens. These tokens are valuable because they encapsulate \u201cintelligence\u201d.\n\nPeople are now taking these tokens and transforming them into English, French, images, videos, chemicals, proteins, robotic movements, etc. And many are working hard to expand the range of concepts and ideas we can create with these tokens.\n\nHe then goes on to made a compelling comparison between tokens and electricity.\n\nIn the past industrial revolution, we successfully found a way to convert \u201catoms\u201d into \u201celectrons\u201d (by boiling water to power electricity turbines). And now, we've discovered a way to convert \"electrons\" into \"tokens\" (by using energy to power data centers that train and run LLMs).\n\nWhen electricity was first introduced, few people understood its value. Today, paying for kilowatts is routine. The same will happen with tokens. Right now, only early adopters and builders are paying tokens. Soon, everyone will be paying for tokens on a daily basis to supercharge productivity and power new products and services. Many new industries will be born from and built on top of tokens.\n\nWhen I first heard about this way of thinking, I got goosebumps. Perhaps it\u2019s because Jensen has a good storytelling skill that helps him sell what he builds, but I have to admit this way of thinking gave me a brief surge of pride. I'm proud of humanity's collective effort and creativity, which have taken us from living under rocks to building machines that can \"think.\" That's nothing short but a miracle.",
+        "location": "18\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                5 Comments"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/arahul?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Rahul Agrawal\n        \n              \n          Over last few months, I am increasingly leveraging LLMs to write code. From 10% to nearly 78% currently (based on lines of code) of my code is from LLMs. I have my own pipeline to fine tuned LLMs to augment my needs.\n\nObservations - \n\n1. I am producing more code --> MORE IMPACT (approx 2.3X)\n2. I am reading more code --> MORE MAINTAINABLE CODE\n3. I am learning more as now I can start from concept and expand out ---> MORE LEARNING\n4. I am incorporating best practices --> BETTER CODE\n5. Lesser typing --> LOWER REPETITIVE STRAIN INJURY\n\n#AIBUDDY",
+        "location": "76\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                8 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/selin-kocalar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Selin Kocalar\n        \n              \n          Since the YC deadline to hear back for W25 is coming up next week, here\u2019s the story of how we went from 2 students coding in an MIT dorm room to being full-time YC founders building Delve in SF.\n\nFor all you founders anxiously waiting to hear back, just keep building \u2014 you\u2019ll be successful regardless of the decision.\n\n--\n\nIn Fall 2023, my co-founder Karun Kaushik and I were studying AI at MIT and spending all of our free time building an AI medical scribe to help doctors. We had vaguely heard about YC from a friend who had just gotten accepted but had no plans of applying whatsoever.\n\nHowever when the YC deadline rolled around, we spontaneously decided to put in an application on the very last day. We spent that whole day in Karun\u2019s dorm room typing up the application and filming all the required videos. We finally hit submit the minute of the deadline!\n\nBy the next day we had already moved on. We went back to the usual rhythm of coding in the dorm room, calling with doctors, attending conferences, etc. If anything, we were even more motivated now to get more traction and be successful regardless.\n\nLater that week, while we were eating in the dorm kitchen, I noticed I got an email saying we had a YC interview scheduled. My heart rate spiked. I jumped up out of my seat and immediately told Karun. I never seriously considered YC, but for the first time it hit me that it might actually be a possibility.\n\nWhen the day of the interview rolled around, we did mock interviews with former YC founders and focused mostly on calming our nerves. More important than the actual content of the interview, we wanted to show our excitement for building and hacking together as co-founders.\n\nUnfortunately the interview caught us by surprise. The group partners didn't seem to care as much about our actual AI medical scribe. Instead, they seemed more curious about a side idea we had listed in our application that we wrote up in a day. The idea was about streamlining HIPAA compliance (since we had to go through HIPAA for our AI medical scribe).\n\nBy this point, we were already seriously considering pivoting into this and had made a lot of progress on the idea. The YC interview was our tipping point\n\nNot too long after, we got an ominous email titled \u201cYC.\u201d We were freaked out. I could not sleep the entire night. Then, in the middle of class the next day, I got a phone call from Karun with Surbhi on the other end of the line. My heart rate spiked. I ran outside of the classroom.\n\nThat turned out to be our acceptance call:)\n\n--\n\nFor everyone out there still waiting to hear back, just keep grinding. Build as if you\u2019ve been rejected and you might just be pleasantly surprised.\n\nI\u2019m also always here to help with mock interviews/give advice! We\u2019ve helped a handful of friends through the YC app process and are always here to support other founders!",
+        "location": "190\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                20 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/frieaberg?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Friea Berg\n        \n              \n          \ud83c\udfafData was, is, and will be the only fuel. Analogy with the fossil fuel is a good one, since the data we have today is as dirty as oil and coal. What big tech companies tried is to put a lot of \"garbage\" data, and what they did get was fantastic. Yet, we are at the point of diminishing returns. Data is the beginning and the end of this cycle.\u201d\n\nGreat thread, particularly this comment \ud83d\udc46from Ilija Lazarevic",
+        "location": "20\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sean-grossman?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Sean Grossman\n        \n              \n          In March, I left Strac (YC W22) to build something new (more on this soon). Here are my key takeaways from taking Strac from zero to one:\n\n\nWhile at Strac, my favorite part of the role was always taking an engineering-first approach to our go-to-market motion. I loved tinkering, and frankly there's never been a more exciting time to do so as AI rapidly changes how effective sales teams function. Some of my favorite projects at Strac included writing a script to set up emails optimized for outbound deliverability, building a web scraper to check if a company was SOC2 compliant, and integrating our sales tech stack for seamless retargeting and outreach.\n\nThe most impactful lessons:\n1. Sales is a Numbers Game:\nFive years ago, sales teams relied heavily on traditional methods like cold calling and emailing purchased conference lists. However, nowadays, mass calling and emailing without the prospect showing any intent is ineffective. Today, with the explosion of data available online, intent signals\u2014such as web activity, social media interactions, and content engagement\u2014are critical for identifying leads. The challenge now is not just gathering this data but integrating and analyzing it to make your outbound effective at scale with the right messaging.\n\n2. Get Hacky with Finding Leads & Continuously Experiment:\nYou should run dozens of experiments on different lead lists and iterate until you find message-market fit. During the first month at Strac, we ran over 50 distribution experiments to find where our product had the most obvious signs of product-market fit and iterated on our outreach approach until we found message-market fit. \n\nWhen building out your ETL for sales, it\u2019s important to build a framework that\u2019s conducive to this. If you build a slow-moving, rigid outreach framework, you will limit how many experiments you can run, and your business will die. With startups, every single day you are just slowly dying\u2014iterate fast.\n\n3. Show Immediate Value to Your Customers:\nStrac was one of the most customer-obsessed companies I\u2019ve ever seen. The most important thing is to fundamentally understand what problem your customer is trying to solve, as there is likely someone else also trying to solve that problem if it's a real problem.\n\nTranslating this to structuring outreach: if you just make an ask, it's unlikely you'll get a response\u2014you\u2019re not solving any problem your customer faces and instead creating a problem for them. However, if you show someone how easily they can gain something from talking with you, you'll have a prospect excited to have a conversation. \n\nAs I transition back to the founder role, I'm excited to build tools that address these challenges and help companies accelerate their go-to-market. I will continue to work closely with Strac as they go from one to ten, and I'm excited to have them use our solutions to get there faster \ud83d\ude80",
+        "location": "132\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                72 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/varungoyal23?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Varun Goyal\n        \n              \n          \ud83c\udf1f \ud835\udc03\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20, \ud835\udc01\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc20\ud835\udc1e\ud835\udc2b \ud83c\udf1f\n\nLast May, I embarked on an incredible journey with WisdomAI right after graduating from UIUC, and it has been nothing short of a dream run! Starting my career with a passionate, dynamic team like this one has been an amazing experience. \ud83d\ude80\n\nHere\u2019s what I\u2019ve absolutely loved about my time at WisdomAI so far:\n\n1\ufe0f\u20e3 Ownership Sparks Passion\nWhen you\u2019re empowered with the right motivation and a sense of ownership, the task transforms into a pursuit. I\u2019ve cherished the freedom to take charge of my projects, driven by curiosity for achieving results rather than just deadlines.\n\n2\ufe0f\u20e3 Culture of Growth & Impact\nI\u2019m deeply grateful to the founders and my team for cultivating an environment of insane growth while delivering great value to our customers every single day. Huge thanks to the founders - Soham, Sharvanath, Kapil, and Guilherme for fostering this environment.\n\n3\ufe0f\u20e3 The Power of Team Energy\nThe motivation and drive of the people around you can make all the difference. Being surrounded by such an energetic, supportive team has truly set the trajectory for my career. \n\nAs we step into this new year, we\u2019re doubling down with more energy, sharper focus, and even bigger goals for our startup. Here\u2019s to a year of innovation, impact, and scaling new heights together! \ud83d\udca1\ud83c\udf0d\n\n\n\n#StartupJourney #GrowthMindset #WisdomAI #Teamwork #Innovation #NewYearGoals #CareerJourney",
+        "location": "136\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jimblomo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jim Blomo\n        \n              \n          \"Why did Santa's AI-driven sleigh keep running into trees?\"\n\nSo much \ud83d\udd25 from Julie Wang and John Allard in today\u2019s OpenAI live stream! They covered Reinforcement Fine-Tuning, medical research, and shared some truly punny jokes. Moments like these remind me why I love my team: brilliant people solving fascinating problems\u2014and having fun along the way! https://lnkd.in/gJnNiTXc\n\nIf you'd like to participate in the Research Program by sharing data, check out https://lnkd.in/gZYehx9T or ping me.\n\nReinforcement Fine-Tuning is a new technique for teaching the new models how to reason. It's kinda like how AlphaGo taught a model how to play by \"grading\" games, then learning what \"good\" moves are by comparing moves in winning vs losing games. This opens up a whole new paradigm for models, where you're not just teaching them the answer, but teaching them how to arrive at the right answer.\n\nWhat is Reinforcement Fine-Tuning (RFT)?\nIt\u2019s a groundbreaking technique for teaching models how to reason. Think of it like AlphaGo: the model learns by being \u201cgraded\u201d on games and understanding what makes moves in winning games better than losing ones.\n\nWith RFT, prompts are like the \u201cgames\u201d and chain-of-thought reasoning is like the \u201cmoves.\u201d By evaluating the \"winning\" reasoning steps, the model learns which ones lead to better answers. This means we\u2019re not just teaching models the answers\u2014we\u2019re teaching them how to think through problems and consistently arrive at the right solutions.\n\nMy team\u2019s mission is simple: give you the world\u2019s best model for your domain. If you\u2019re finding it hard to get API responses to work for your business\u2014whether it\u2019s a performance issue, cost concern, or accuracy challenge\u2014let me know. We have tools to improve outcomes, and I love working with customers to see how we can do even more.\n\nOh, and Santa\u2019s sleigh? Julie gave us the answer: \u201cBecause he hadn\u2019t \u2018pine\u2019-tuned yet!\u201d \ud83e\udd41",
+        "location": "26\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/virajsingh4?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Viraj Singh\n        \n              \n          Ever wondered why LLMs struggle with math? \n\nIn this piece, I take a look under the hood of LLMs and math-related AI study tools, to uncover the reasons LLMs are not well-suited for math, what innovators are doing to get ahead of the problem, and some exciting companies in the space. \n\nI explore several approaches to improve LLM math performance: process supervision, integration with symbolic computing systems (i.e. ChatGPT + Wolfram|Alpha LLC), and novel ways of capturing unique and structured data ( Thinkverse (formerly Learnie AI), Photomath, Thetawise, among many others). One startup in Korea \u2014 QANDA(Mathpresso) \u2014 has built its own math-specific LLM that can outperform many of the incumbents.\n\nIf you are building AI to promote math learning and understanding, please reach out!\n\nVery grateful for the opportunity to go deeper in the EdTech space at Reach Capital this summer before kicking off my MBA/MA in Education at Stanford in the fall! Shoutout to Tony Wan and James Kim for the support on this piece!\n\nhttps://lnkd.in/g8xk_hqJ",
+        "location": "49"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/harrystebbings?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Harry Stebbings\n        \n              \n          I\u2019ve been fortunate enough to do AI shows with Sam Altman, Yann LeCun & Arthur Mensch.\n\nBut this show today with David Cahn at Sequoia Capital is the best of all of them:\n\n\ud83e\udde0 AI\u2019s $600BN question\n\n\ud83c\udfc3 Why no one will never train a frontier model on the same data center twice\n\n\ud83c\udfd7\ufe0f Servers, steel & power: The 3 pillars of the future of AI\n\nNot one to be missed, my 8 key takeaways \ud83d\udc47\n\n1. The Oligopoly That is Blowing Billions on AI \n\n- Microsoft, Azure, & Google now represent $7T market cap.\n- Of course they will spend billions to protect their oligopoly\n- What is most interesting is Meta is the only incumbent that is financing this not with cloud being their cash cow.\n\n2. How Startups Could Win with the Cost of Compute Coming Down\n\n- Big tech companies are producers of compute & startups are consumers of compute.\n- Overproduction of compute = lower prices.\u00a0\n- This gives startups higher margins & makes them more valuable. \n\n3. Is Compute the Currency of the Future or Do the Costs Come Down and It Is Commoditised?\n\n- We are forgetting \u201ccompute\u201d is a euphemism for a $2BN data center in the middle of nowhere.\n- They have GPUs & liquid cooling systems that need to be constantly optimized & upgraded.\n- We cannot simply build 15 years worth of compute all at once. \u200aNo one's ever going to train a frontier model on the same data center twice.\n\n4. Data Centre Teams and Model Teams Need to Be Coupled\n\n- You cannot have separate teams running data centers & building models.\n- Elon & Zuck control all their data centres.\n- It will not work as these models get better & better.\n\n5. Why the Data Center Is the Most Important Asset\n\n- There is not much difference between these models today.\n- AI researchers are jumping from one lab to another.\n- Scaling laws will become more dominant as these models get bigger.\n\n6. Servers Steel and Power: The Three Bottlenecks of AI\n\nThree things:\n1. Servers: NVIDIA, AMD, Broadcom\u2026\n2. Steel: Construction & real estate developers for data centers.\n3. Power: All the energy required for AI.\n- More factories will be built in 12 months for AI and w",
+        "location": ""
+      }
+    ],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

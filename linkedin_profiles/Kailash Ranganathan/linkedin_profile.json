@@ -1,0 +1,384 @@
+[
+  {
+    "fullName": "Kailash Ranganathan",
+    "linkedin_internal_id": "845785727",
+    "first_name": "Kailash",
+    "last_name": "Ranganathan",
+    "public_identifier": "kailash-ranganathan-3bb3031b7",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/C5616AQEEytQkiwKfLA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1648844082056?e=2147483647&v=beta&t=q97eGHHU_zGaXJwjuxEyID68BaIGNYUAcX3otvlT0vQ",
+    "profile_photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "headline": "EECS @ UC Berkeley",
+    "location": "581 followers\n          \n          \n              500+ connections",
+    "about": "interested in ML systems & hardware acceleration, statistical physics, quantum computing, and reinforcement learning.",
+    "experience": [
+      {
+        "position": "GPU Architecture Intern",
+        "company_url": "https://www.linkedin.com/company/nvidia?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_100_100/company-logo_100_100/0/1724881581208/nvidia_logo?e=2147483647&v=beta&t=oCxt8kGhi0AfLuVDY7D_jzkUIEe-fAV5Q5eLaRxXzOE",
+        "company_name": "NVIDIA",
+        "location": null,
+        "summary": "",
+        "starts_at": "May 2024",
+        "ends_at": "Present",
+        "duration": "11 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/bair-lab?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQFr7WkPbEyg8g/company-logo_100_100/company-logo_100_100/0/1630609127403?e=2147483647&v=beta&t=L8jXfFrYMQnbM3pNIv-nRcHUnBe882f0tDl7-JTmz2I",
+        "company_name": "Berkeley Artificial Intelligence Research",
+        "location": null,
+        "summary": "generalizable methods in reinforcement learning @ RAIL lab in BAIR",
+        "starts_at": "Jan 2024",
+        "ends_at": "Present",
+        "duration": "1 year 3 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQET4WuLdTzDPQ/company-logo_100_100/company-logo_100_100/0/1731605469670/uc_berkeley_eecs_logo?e=2147483647&v=beta&t=GRkMfuxk3y8GhtCBxc1nvSKYysRH1Ss7Qf-4JqQM3IM",
+        "company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+        "location": null,
+        "summary": "superconducting qubits, surface piezoelectricity, & microwave engineering @ Quantum Devices Group",
+        "starts_at": "Sep 2023",
+        "ends_at": "Present",
+        "duration": "1 year 7 months"
+      },
+      {
+        "position": "uModule Research Intern",
+        "company_url": "https://www.linkedin.com/company/analog-devices?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFIPofjzp1AXA/company-logo_100_100/company-logo_100_100/0/1639584615887/analog_devices_logo?e=2147483647&v=beta&t=bZQxkGOzeJS9pxUXfTNodZxtiX1mfW0JP5NP_60ixZQ",
+        "company_name": "Analog Devices",
+        "location": "San Jose, California, United States",
+        "summary": "increasing power efficiency for ml hardware accelerators",
+        "starts_at": "May 2023",
+        "ends_at": "Sep 2023",
+        "duration": "5 months"
+      },
+      {
+        "position": "Undergraduate Researcher",
+        "company_url": "https://www.linkedin.com/company/lawrence-berkeley-national-laboratory?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQFfc1NOEp9DgA/company-logo_100_100/company-logo_100_100/0/1640018826417/lawrence_berkeley_national_laboratory_logo?e=2147483647&v=beta&t=HbkuFfUKyNsJIiAZeKgekRjqd_3JA_Ev7AVliAFD-44",
+        "company_name": "Berkeley Lab",
+        "location": null,
+        "summary": "FPGA programming for laser cavity stabilization @ Muller Group",
+        "starts_at": "Sep 2022",
+        "ends_at": "Sep 2023",
+        "duration": "1 year 1 month"
+      },
+      {
+        "position": "Software Engineer",
+        "company_url": "https://www.linkedin.com/company/beacon-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQENnUZGaDTs9Q/company-logo_100_100/company-logo_100_100/0/1635203689996/beacon_ai_logo?e=2147483647&v=beta&t=CTYpp1ChkSbi8RuUAqhgxA5Asht0B1jiF4RxOH8k0Cg",
+        "company_name": "Beacon AI",
+        "location": "San Francisco, California, United States",
+        "summary": "Aircraft performance modeling and more efficient route planning",
+        "starts_at": "Jun 2022",
+        "ends_at": "Aug 2022",
+        "duration": "3 months"
+      },
+      {
+        "position": "Research Intern",
+        "company_url": "https://www.linkedin.com/school/ucsc/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C4E0BAQEEdPQHFbiGrg/company-logo_100_100/company-logo_100_100/0/1656436364797?e=2147483647&v=beta&t=UzrehX5nM1CBPPT9nuyrxMofYGhJQT8LiwOaIQDPCKM",
+        "company_name": "University of California, Santa Cruz",
+        "location": "Santa Cruz, California, United States",
+        "summary": "Determination of RR Lyrae detection completeness using mock light curve generation",
+        "starts_at": "Jun 2020",
+        "ends_at": "Jan 2022",
+        "duration": "1 year 8 months"
+      },
+      {
+        "position": "Software Engineer Intern",
+        "company_url": "https://www.linkedin.com/company/beacon-ai?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQENnUZGaDTs9Q/company-logo_100_100/company-logo_100_100/0/1635203689996/beacon_ai_logo?e=2147483647&v=beta&t=CTYpp1ChkSbi8RuUAqhgxA5Asht0B1jiF4RxOH8k0Cg",
+        "company_name": "Beacon AI",
+        "location": "San Francisco, California, United States",
+        "summary": "Automated aircraft route planning",
+        "starts_at": "Jun 2021",
+        "ends_at": "Sep 2021",
+        "duration": "4 months"
+      },
+      {
+        "position": "Volunteer Tutor",
+        "company_url": "https://www.linkedin.com/company/peninsula-bridge?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/C560BAQHDcmuSG6bglw/company-logo_100_100/company-logo_100_100/0/1630670514622/peninsula_bridge_logo?e=2147483647&v=beta&t=g18sAUrGWA9Chqlv99I-6hRKbNzgDRkoIeWMeCSlcxs",
+        "company_name": "Peninsula Bridge",
+        "location": "San Jose, California, United States",
+        "summary": "",
+        "starts_at": "Aug 2020",
+        "ends_at": "Jun 2021",
+        "duration": "11 months"
+      },
+      {
+        "position": "Teacher",
+        "company_url": null,
+        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "company_name": "YOKE Society",
+        "location": "Tirunelveli, Tamil Nadu, India",
+        "summary": "2-week STEM program in Youth of Kodaganallur Endeavour",
+        "starts_at": "2020",
+        "ends_at": "2021",
+        "duration": "1 year"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "University of California, Berkeley",
+        "college_image": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=2147483647&v=beta&t=7XwNqDpzm3ORttlebBpryt59e62a2tAk2Xf7mIuoOlY",
+        "college_degree": "Bachelor of Science - BS",
+        "college_degree_field": "4.0",
+        "college_duration": "2022 - 2025",
+        "college_activity": "Relevant coursework:CS61A,B,C, CS70, CS170, CS189CS285 (Deep RL) - audit EECS 16A/B, EECS126, EE143, EE198 (PCB Design)Physics 5A, Physics 137A & 137B, Physics 141A, Math 275 (quantum algorithms for scientific computing)"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/the-harker-school/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "The Harker School",
+        "college_image": "https://media.licdn.com/dms/image/v2/C4D0BAQGDGDcTiJNqVA/company-logo_100_100/company-logo_100_100/0/1631303891593?e=2147483647&v=beta&t=qwYEp67IES98wqsQu2x1rMUfdn6GOzKVG18THlJQtIw",
+        "college_degree": "",
+        "college_degree_field": null,
+        "college_duration": "2018 - 2022",
+        "college_activity": "Electives/other coursework: Multivariable Calculus, Differential Equations, Nonlinear Dynamics/Chaos Theory, Signals and Systems, Compilers & Interpreters, Numerical Methods, Neural Networks, Computer Architecture, Nanoscience, Game Theory"
+      },
+      {
+        "college_url": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Stanford University",
+        "college_image": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=2147483647&v=beta&t=ZvB25L95o9w4q9drvsWxGcM49tX66Cf5LsLAxYp8rSs",
+        "college_degree": "Reischauer Scholars Program",
+        "college_degree_field": null,
+        "college_duration": "2021 - 2021",
+        "college_activity": "Admission given to the top 25-30 students in the nation for this program on US-Japan relationsFinal paper on the historiography of the rise of ultranationalism in pre-WW2 Japan"
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "NVIDIA",
+      "description1_link": "https://www.linkedin.com/company/nvidia?trk=public_profile_topcard-current-company",
+      "description2": "University of California, Berkeley",
+      "description2_link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-school",
+      "description3": "",
+      "description3_link": null
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/nvidia-data-center_next-generation-of-flashattention-nvidia-activity-7217256386986958848-6GAL",
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQEZNqmeov_3Wg/image-shrink_1280/image-shrink_1280/0/1720728001914?e=2147483647&v=beta&t=UbWficbf1Hxuv0i9yH6KCFUyJQiGn3rRJG4_T0_aI9Y",
+        "title": "\ud83d\udce2 Announcing the release of FlashAttention-3.\n\n\u2705 1.5-2x faster on FP16\n\u2705 Up to 740 TFLOPS on NVIDIA H100 GPUs\n\u2705 FP8 close to 1.2 PFLOPS \n\nRead our\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/songhanmit_the-enrollment-of-my-mit-course-efficientmlai-activity-7209632019184533504-R8jj",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQGv7kkow7oTvg/feedshare-shrink_800/feedshare-shrink_800/0/1718910221332?e=2147483647&v=beta&t=j99XMYybpCuvGqE9W5CkyT4oETy6XbK4Iq1GzhMKybw",
+        "title": "The enrollment of my MIT course EfficientML.ai is projected to double again this year. Today's AI is too big and too expensive. We teach how to make\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/vasanthraj-kirubhakaran_hookem-cockrellgrad-utgrad24-activity-7200714761448136705-ihGk",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQF5h5Ap3f10aA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716784180013?e=2147483647&v=beta&t=cj7-QDz22H6BAuNijq6coMl6XSV6fdI2bsSG9tBBGXg",
+        "title": "\ud83c\udf93 Excited to announce a new milestone in my journey! \ud83c\udf93\n\nI am thrilled to share that I have graduated from the University of Texas at Austin with a\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/sanchay-gadia_semiconductor-fabrication-cleanroom-activity-7200261857792667649-wrYG",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQGVXWfU1dcFcA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716672151290?e=2147483647&v=beta&t=jHAP9epDct-rPkZgWul9rSCGBAVAqMYYAq6B7iKqrJI",
+        "title": "Microfabrication at UC Berkeley College of Engineering!\ud83d\udca1 \n\nThrilled to share that I've successfully completed EE 143, Microfabrication Technology at\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/devangjhabakh_augment-code-raises-227-million-to-empower-activity-7189071998680023041-r7yX",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQEZ0QppKOgeWQ/articleshare-shrink_800/articleshare-shrink_800/0/1713988887138?e=2147483647&v=beta&t=Su0v3T7HTXr7JcbIwYh57pD71E11GeB4WB-RZdmFkbk",
+        "title": "Today, I conducted the last discussion section I\u2019ll ever run, and it\u2019s the last week of classes. But today\u2019s bittersweet \u2014 because today is also when\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/vinaysudarsanam_thrivetogethernc-journalismproject-unc-activity-7188311145370267648-L8Uz",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "Exciting news, UNC and Duke University students! We at Thrive Together NC are in the process of crafting our very first article for our Journalism\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/brian-copley-3705a4194_yesterday-i-had-the-honor-of-welcoming-and-activity-7080312651964182528-tKNL",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQE7mDZApPU_PA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1688078079979?e=2147483647&v=beta&t=fECfUuDoBQ4mAgAo_Ko5pDbd0U7S8KCRLCxMPVtEKcQ",
+        "title": "Yesterday I had the honor of welcoming and moderating a panel of three of our ADI Fellows (Bob Reay JoAnn Close Leonard Shtargot) for our intern\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/aientrepreneurs_google-forms-sign-in-activity-7081351739982893056-dIJZ",
+        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "title": "\ud83c\udf1f Join the AIEB' Marketing Team! \ud83c\udf1f\n\nLooking to make a difference and be part of an exciting community of AI-driven innovators? Join AI\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/xander-naumenko_i-made-a-32-bit-computer-inside-terraria-activity-7078577034729304064-S3lp",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQHdaZgTV7sTsQ/articleshare-shrink_800/articleshare-shrink_800/0/1712044891731?e=2147483647&v=beta&t=nPZaWrfjWBmwaS_qw744D51kUlnZzwy0ikrbmuFgaWA",
+        "title": "Over the last 6 months i have built, from scratch, a 32 bit RISC-V computer inside the video game terraria: https://lnkd.in/gNW4wCiV\n\nIt's a bit\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/vinaysudarsanam_university-journalism-healthcare-activity-7071186632669859840-7RbZ",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFZYD4WQW_5_w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1685902268787?e=2147483647&v=beta&t=6lk4c0HDN8JM6IYcAxo-sQ17jc6kZmTeYqS-3IK26zQ",
+        "title": "Over the last few years, I have developed an interest in the field of health policy. For a while now, I have thought about publishing my thoughts in\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/dhruv-kulkarni_entrepreneurship-artificialgeneralintelligence-activity-7044742061123616769-W8Fg",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQEoKWZ-OKJKrA/feedshare-shrink_800/feedshare-shrink_800/0/1679597391101?e=2147483647&v=beta&t=PPPxP9FnFNpL9bRj0UJBHkNMtflrGzz_TH7QvK6mwxI",
+        "title": "Happy to share a successful end to AI Entrepreneurs at Berkeley's Generative AI Summit yesterday night! With over 300 RSVPs from students\u2026",
+        "activity": "Liked by Kailash Ranganathan"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/mattbcox_cameron-and-i-had-a-great-time-at-ata-air-activity-6991577189242589184-hDbV",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFbuoVpi8iGlg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1666921898239?e=2147483647&v=beta&t=RQt1a6bJcmeODcGKwHv-KYqzxhU9zETul9SF0Ed-xso",
+        "title": "Cameron and I had a great time at A/TA\n\nAir Mobility Command is a super welcoming group and it was awesome meeting Gen Mike Minihan\n\nBeacon AI",
+        "activity": "Liked by Kailash Ranganathan"
+      }
+    ],
+    "volunteering": [],
+    "certification": [],
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/prakhar-sinha-57a412201?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Prakhar Sinha\n        \n              \n          A few short days ago, I wrapped up my research position at UC Davis Health with Professor Farzad Fereidouni. My role at the lab entailed a specialization in machine learning and computer vision and I'm excited to share what I was able to accomplish with everyone. \n\nI worked on two projects during my time at the lab. The first one was something I called \"Kernel Generation for Image Similarity\" (https://lnkd.in/ghsY73ts). It was to process an image such that it would look like it was H&E stained. I learned a lot about the basics of histology and digital histology through this process. The most novel part of this approach was using Wiener deconvolution to generate a kernel that would be used to enhance image similarity (typically using SSIM, MSE or a combination of both). \n\nA big part of this process was optimization. I learned how to use Python libraries such as Cupy and other tools to GPU accelerate a lot of these image-processing optimization problems.\n\nMy second project and my most meaningful contribution was called \"FastSAM-needle-biopsy\" (https://lnkd.in/gXXydq-X). The objective of this project was to use the FastSAM image segmentation network to accurately generate image segmentation masks of live tissue such that a microscope would only scan the relevant parts of an image. Here is step by step walkthrough of the image processing pipeline:\n\n1) VB.NET (Darius) application calls a DLL (compiled from csharp.NET)\n2) DLL calls FastSAM image segmentation code using Python.NET\n3) FastSAM segments image and returns image segmentation bitmask and as well as the fastest path to visit every bit (Traveling Salesman Problem)\n4) Python returns values are returned to DLL using JSON as a reliable data transfer solution\u00a0\n5) DLL returns an object that can be parsed by VB.NET\n\nFastSAM is a faster version of Meta Research's Segment Anything Model and I used it to greatly speed up development time on this project. It was a big challenge to integrate such cutting-edge, machine-learning driven, image processing pipelines into a legacy codebase that was written in Visual Basic .NET but thanks to tools such as DLLs, JSON, and C#, I was able to figure it out!\n\nI am very grateful for the time I spent in the lab. I feel like I developed some great programming skills, especially in computer vision, that will prove useful for the rest of my career. I'd like to give special thanks to Professor Fereidouni, Ruby Mascareno, Willy Ju, Dena Sayrafi, Ruben Gnanaruban, Inyola, Antara Mallick, and Jayla. \n\nThe link is here if you'd like to see my lab report going over everything I did in more technical detail and with a few pictures!\n\nhttps://lnkd.in/gRpZVmjG\n\n#computervision #machinelearning #AI #histology",
+        "location": "67\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                10 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aryanng?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Aryan Gupta\n        \n              \n          It\u2019s been a while since I last posted, so I thought I\u2019d share a few things I\u2019ve been working/worked on over the past 6-7 months:\n\n1)Building a Custom Compiler \nAfter getting really interested in Compiler Design last semester, I took it upon myself to learn how to implement a custom compiler. Spent my summer vacation building different stages of compilation. Honestly, it was challenging but super rewarding.(will be posting about in depth)\n\n2) Exploring Vision Transformers\nAs part of an academic project on diabetic retinopathy. I dived deep into these models and learned a lot about computer vision. \n\n3)Web Scrapers for Placement Forums\nBuilt a few web scrapers for scraping placement-related forums. Unfortunately, I lost the code because I forgot to push it to GitHub before formatting my laptop (tough lesson learned here).\n\n4)YouTube Watch Party App\nI\u2019ve been working on a YouTube Watch Party app to learn WebSockets and WebRTC. It\u2019s nearly finished\u2014just needs a few final touches and some code cleanup before I host it. This project has been a great way to test out some ideas.\n\n5)DSA Practice\nSolved 400+ problems(Leetcode,GFG,Codeforces)\u2014not something to brag about, given the market conditions, but it\u2019s part of staying sharp in DSA.\n\n6)Static Site Generator in Python\nCurrently working on a Static Site Generator in Python as part of Boot.dev\u2019s course. It\u2019s been fun to build, and I\u2019m learning more about how static sites work under the hood.\n\nA couple of things I couldn't finish (but plan to get back to):\n\n1)Redis Clone (C++ - Codecrafters)\nGot through 22/40 tasks but hit a nasty bug that I couldn\u2019t figure out(skills issues!!). Will take it up again when I have more time (or when I level up my debugging skills!).\n\n2)Next.js Application Tracker\nStarted building an app to track all my applications in one place. Definitely want to pick this back up when I have a bit more bandwidth.\n\nRepositories for all the above projects:\nCompiler : https://lnkd.in/gu-ZX6YF\nYoutubeWatchParty : https://lnkd.in/gbQhsafD (Don\u2019t mind the unstructured code\u2014I was testing out ideas!)\nNext.js Application Tracker : https://lnkd.in/gemYMGnu\nRedis-clone : \u00a0https://lnkd.in/gUkXq6tx)\nStatic Site Generator Repo : \u00a0https://lnkd.in/g8Np4Ada\nSwinTransformers : https://lnkd.in/gAHptM2e\nLeetcode Profile : https://lnkd.in/gwer2GNH",
+        "location": "52\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/alaina-kolling-64155b252?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Alaina Kolling\n        \n              \n          My team and I were proud to present our research at UC Berkeley College of Computing, Data Science, and Society\u2019s Discovery Symposium.\n\nThrough the Data Discovery Program, I had the opportunity to conduct machine learning research with BART (Bay Area Rapid Transit). Our project focused on developing neural network-based models to forecast overheat events in train control rooms. By analyzing complex temperature trends, along with their velocities and accelerations, we aimed to enhance operational reliability for one of the Bay Area's most vital transit systems. I am proud to share that our Gated Recurrent Unit (GRU) neural network outperformed the previously deployed predictive model.\n\nThis has been such a fulfilling opportunity to dive deeper into machine learning and explore different areas within data science. It's an exciting time in my life as I continue to discover my passions and expand my technical skills!\n\nA huge thank you to our mentor, Dr. Yu (Aaron) Shen, for guiding us, and to my teammates Ayumu Ueda, Luca Butera, Yuwei Chen, and Tiange Chen for their hard work and intellectual contributions.\n\nI'm incredibly grateful for this experience and for the chance to showcase our work alongside so many talented Berkeley students! \ud83d\ude89\ud83d\udcca",
+        "location": "87\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                14 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/batu-demirtas-ba83812ba?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Batu Demirtas\n        \n              \n          Starting off my academic year with a relatively small project, for CS335 at California State University, Fullerton. With my team (Vladyslav Korenevskyi and Vishakha Sanger) we developed an algorithm visualizer using Python, focusing on 4 implementations of Bubble, Merge, Quick and Radix sort, along with a Linear Searching Algorithm. We utilized the 'tkinter' library for the UI, as well as 'matplotlib' to visualize the algorithms into side-by-side graphs. We also used 'time' to measure time and 'multiprocessing' to make more efficient use of the CPUs, creating parallel processes.\nThe GitHub repository:\nhttps://lnkd.in/epGxNYS6",
+        "location": "2"
+      },
+      {
+        "link": "https://www.linkedin.com/in/amritabh?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Amrita Bhattacharjee\n        \n              \n          \ud83d\udce2\ud83d\udce2 Excited to share that my summer internship work at NVIDIA NeMo Guardrails: \"Towards Inference-time Category-wise Safety Steering for Large Language Models\"\u00a0has been accepted at the Safe Generative AI workshop at NeurIPS 2024 (https://lnkd.in/gjr5buvA)!\n\nHuge thanks to my amazing mentor Shaona Ghosh, manager Christopher Parisien and collaborator Traian Rebedea. What an amazing team to be a part of and contribute to!\n\nCheck out our paper at: https://lnkd.in/ganX9u3X\nAbstract: While large language models (LLMs) have seen unprecedented advancements in capabilities and applications across a variety of use-cases, safety alignment of these models is still an area of active research. The fragile nature of LLMs, even models that have undergone extensive alignment and safety training regimes, warrants additional safety steering steps via training-free, inference-time methods. While recent work in the area of mechanistic interpretability has investigated how activations in latent representation spaces may encode concepts, and thereafter performed representation engineering to induce such concepts in LLM outputs, the applicability of such for safety is relatively under-explored. Unlike recent inference-time safety steering works, in this paper we explore safety steering of LLM outputs using: (i) category-specific steering vectors, thereby enabling fine-grained control over the steering, and (ii) sophisticated methods for extracting informative steering vectors for more effective safety steering while retaining quality of the generated text. We demonstrate our exploration on multiple LLMs and datasets, and showcase the effectiveness of the proposed steering method, along with a discussion on the implications and best practices.\n\n\n#Neurips #Neurips2024 #SafeGenAI #LLMSafety #AISafety",
+        "location": "96\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                5 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ethanwangco?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ethan Wang\n        \n              \n          \ud83d\ude80 First Ever Hackathon Win\nLast weekend, I had the pleasure of attending my first-ever hackathon at UC Berkeley's Cal Hacks 11.0, the world's largest collegiate hackathon. Working with Aaditya Pore, Rami Maalouf, and Ethan Jagoda, we created Text to Dot.\n\nText to dot is a tool that attempts to help those who are visually impaired convert physical texts into tactile braille for ease of access. The inspiration for this project came from our research into current text-to-braille systems, which were very clunky and expensive, making them relatively inaccessible to the general public. As such, we sought to create a convenient, straightforward, and economically efficient gadget that visually impaired individuals could utilize to access different forms of information. Our team hopes to spark positive change within the realm of assistive technology, and we hope to make a long-lasting impact on those who can use our products. \n\nUsing Deepgram, Cartesia, Groq, Hyperbolic, and Vapi, we were able to create a scanner that could take images of text and output a comprehensive written transcript. This transcript would then be passed on to one of three separate implementations, a text-to-braille, text-to-speech, and speech-to-speech model, which allowed users to choose how they wanted to experience information. This software was then combined with a complex hardware component that was made up of a 3D housing, Microcontrollers, Solenoids, and Camera Sensors to make up our final product. \n\nOur project didn't come without its challenges. From difficulties with 3D printing, troubles scanning text, and even a burnt out microcontroller, we were constantly pushed to our limits. However, at the end of the day, we created an impactful product all while improving our technical skills and having an amazing time. Winning the Voice Agent Quest Prize for our utilization of Deepgram's AI TTS technology was the perfect end to an incredible hackathon \ud83c\udfc6 .\n\nPlease take a look at our project: https://lnkd.in/gC3kxH-D\n\nA special thanks to all of the hackers who were willing to lend us their spare hardware, the Deepgram team for recognizing our project, and Raghav Lamsal  for showing me around campus and giving me food and housing whenever I wasn't at the hackathon.\n\nCal Hacks 11.0 was such a wonderful experience, giving me countless opportunities to meet new people and learn new things, and I'm excited to attend more hackathons in the future.",
+        "location": "66\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                11 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/banerjee-apratim?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Apratim Banerjee\n        \n              \n          The Fall Semester 2023 at the University of California, Berkeley, in the UC Berkeley Electrical Engineering & Computer Sciences (EECS) was a challenging curriculum as it pushed me beyond my comfort zone, fostering not just learning but practical implementation.\n\nI would like to highlight one of my projects from my Embedded Systems (EE249A) class titled \"Robot Environment Mapping using SLAM.\" Our team demonstrated a robot equipped with advanced sensors, such as #LiDAR and #stereovision cameras, employing the Simultaneous Localization and Mapping (SLAM) algorithm to navigate and map unknown environments in real time.\n\nWe utilized Hector SLAM to create and refine occupancy grid maps through scan matching, enabling the robot to accurately determine its location relative to its surroundings. This project was supported by the Robotic Operating System (#ROS) on a Linux OS, showcasing the seamless interaction of autonomous systems with complex environments. The potential applications are vast, from autonomous vehicles to robotic assistance in hazardous areas.\n\nCheck out our project in detail on GitHub: https://lnkd.in/gPsJiAAB\n\nA huge thank you to my teammates Anusri Sreenath, Haonan Chen, and Abdalla Eltayeb for their contribution.\n\nFeel free to connect if you're interested in learning more about our work! \n\n#Robotics #SLAM #AutonomousSystems #ComputerVision",
+        "location": "91\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://in.linkedin.com/in/raj-abhijit-dandekar-67a33118a?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Raj Abhijit Dandekar\n        \n              \n          What society values may not be the best thing for you.\n\nWhen I applied for grad school, I got admits from MIT, Stanford, Purdue, CMU and UIUC.\n\nI knew I wanted to do a PhD.\u00a0I chose MIT immediately, because it was ranked number 1. \n\nI never thought whether it was a good decision or not. \n\nI just assumed that it\u2019s a good decision because it\u2019s rated higher than the other universities.\n\nWhen I joined MIT, all that rank 1 noise disappeared.\n\nAll I was surrounded by was my lab, my lab group members and my advisor. \n\nI had never carefully considered whether this research group was a good fit for me. I just joined the first MIT research group which came my way.\n\nThis led to a miserable first 2 years of PhD for me. \n\nThe group was not a good fit and the research topic was also not a good fit.\n\nThese lost 2 years were a result of choosing what society values more (university ranking) rather than what is a better thing for me.\n\nWhen I look back, I should have done the following:\n\n(1) I should have made a list of all research groups I was interested in, from all universities I was selected to.\n\n(2) I should have spoken with the lab advisor from all these research groups and understood their vision.\n\n(3) I should have learnt more about the group culture by talking to past members of the group. Graduating members are usually very honest. They would tell you if the culture is toxic, if the advisor is micromanaging etc.\n\n(4) I should have looked at the group website to look at the publication rate, what do the alumni end up doing etc? If the average graduation time is 8 years, it\u2019s a red flag.\n\nAfter doing the above 4 things, I should have selected the best research group for me.\n\nI should have selected the research group whose culture aligns well with my personality.\n\nSociety values ranking. \n\nHowever, when you enter the university for a PhD, the ranking does not matter. Your research group matters. What you do every day after waking up matters.\n\nAnd if you blindly select universities based on the ranking, the research group won\u2019t be a good fit and it would lead to a terrible PhD experience.\n\nIt turns out that society misguides people in many other professions including:\n\n- Choosing to prepare for IIT-JEE just because society prefers that you are an IITian\n- Choosing a job just because society prefers higher salary\n- Choosing to not do a startup because the society (your parents) don\u2019t approve\n\nAlways question yourself before blindly making decisions based on what the society values. It might not be the best thing for you.\n\nGoing against traditional societal values is hard in the short term, but it pays off in the long run.\n\nP.S: In the photo, you can see me during my first day at MIT!",
+        "location": "308\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                6 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/pooria-namyar?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Pooria Namyar\n        \n              \n          Check out the new article about our NSDI'24 paper, \"Solving Max-Min Fair Resource Allocations Quickly on Large Graphs\"! \n\nFair and efficient resource allocation is crucial in today's (multi-tenant) cloud environments. In practice, the most common definition of fairness is max-min fairness, but achieving max-min fairness at scale has become a practical bottleneck in many domains, such as Traffic Engineering and Cluster Scheduling.\n\nTo address this, we have developed scalable algorithms that (1) Pareto-dominate existing techniques in fairness, efficiency, and speed and (2) provide operators greater flexibility in controlling the trade-offs between these factors. Our methods are general and applicable to any graph-based resource allocation problem, including Traffic Engineering and Cluster Scheduling. We have successfully deployed our solution in Microsoft Azure's WAN traffic engineering pipeline, providing a 3\u00d7 average speedup (up to 5.4\u00d7) without any impact on fairness and efficiency compared to Azure's previous allocator.\n\nA big shoutout to my co-authors Behnaz Arzani, Srikanth Kandula, Santiago Segarra, Daniel Crankshaw, Umesh Krishnaswamy, Ramesh Govindan, and Himanshu Raj!\n\nPaper: https://lnkd.in/gKNn6KAr\nCode: https://lnkd.in/gpFtasfq",
+        "location": "49\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                3 Comments"
+      },
+      {
+        "link": "https://ca.linkedin.com/in/charlie-he-99b189212?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Charlie He\n        \n              \n          We've got exciting news from the Pacific Laboratory for Artificial Intelligence (PLAI) at UBC! We're merging the worlds of Minecraft and AI research, and you're invited to join through our platform, [plaicraft.ai](https://plaicraft.ai/), to aid our data collection process. It's not just playing games; it's contributing to cutting-edge AI research.\n\nHow to get involved?\n* Register on [plaicraft.ai](https://plaicraft.ai/) with your email.\n* Complete a consent form.\n* Play Minecraft and contribute to science, with a free access token from us.\n\nWhy participate?\n* Support AI Research: Your gameplay helps advance AI technology.\n* Enjoy Minecraft for free! \n* Gain early access to research data. Participating students and researchers might also discuss potential extra credit with their instructors!\n\nRemember:\n* Your privacy and confidentiality are guaranteed.\n* This project has been approved by the UBC ethics board (UBC BREB NUMBER: H23-02389).\n* Gameplay quality may vary based on your location and internet connection, so ensure you have a good connection.\n* As we're in the early stages of launch, join discord https://lnkd.in/gdWtC889 if you want to report any issue to help us improve. We\u2019ll also organize some play sessions in discord.\n\nInterested in making an impact?\n\nStart [here](https://plaicraft.ai/) and transform your gaming into a contribution to science!\n\nFor more information on the project and the team, visit [Dr. Frank Wood's website](https://lnkd.in/gHMrzWDf) or follow @frankdonaldwood on Twitter. For more information about PLAI lab research, you can visit our lab\u2019s [website](https://plai.cs.ubc.ca/).\n\nTogether, let's push the boundaries of what gaming can achieve in the world of artificial intelligence!",
+        "location": "14"
+      },
+      {
+        "link": "https://www.linkedin.com/in/naisarg-h?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Naisarg Halvadiya\n        \n              \n          \ud83c\udf1f Attended My First Hackathon at UC Berkeley! \ud83c\udf1f\n\nYesterday, I had the incredible opportunity to participate in my very first hackathon, the UC Berkeley AI Hackathon, organized by  Cal Hacks & Berkeley SkyDeck. They say that the firsts should be special, and this experience was nothing short of surreal.\n\nThe 36-hour event was packed with insightful workshops, interactive sessions with sponsors, and brainstorming sessions to solve complex AI problems. Every moment kept us energized and engaged, from selecting a problem to designing a solution. The camaraderie, exchange of ideas, and interaction with other teams were truly inspiring.\n\nThe highlight? Some golden words of wisdom from the one and only Andrej Karpathy. His insights were the perfect icing on the cake, leaving us all motivated and eager to push the boundaries of what's possible with AI.\n\nGrateful for the experience and looking forward to more hackathons in the future!\n\n#Hackathon #AI #UCberkeley #Innovation #FirstHackathon #AndrejKarpathy #TechJourney #HackathonsAtBerkeley #BerkeleySkyDeck #UCberkeley",
+        "location": "138\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/varungoyal23?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Varun Goyal\n        \n              \n          \ud83c\udf1f \ud835\udc03\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20, \ud835\udc01\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc01\ud835\udc22\ud835\udc20\ud835\udc20\ud835\udc1e\ud835\udc2b \ud83c\udf1f\n\nLast May, I embarked on an incredible journey with WisdomAI right after graduating from UIUC, and it has been nothing short of a dream run! Starting my career with a passionate, dynamic team like this one has been an amazing experience. \ud83d\ude80\n\nHere\u2019s what I\u2019ve absolutely loved about my time at WisdomAI so far:\n\n1\ufe0f\u20e3 Ownership Sparks Passion\nWhen you\u2019re empowered with the right motivation and a sense of ownership, the task transforms into a pursuit. I\u2019ve cherished the freedom to take charge of my projects, driven by curiosity for achieving results rather than just deadlines.\n\n2\ufe0f\u20e3 Culture of Growth & Impact\nI\u2019m deeply grateful to the founders and my team for cultivating an environment of insane growth while delivering great value to our customers every single day. Huge thanks to the founders - Soham, Sharvanath, Kapil, and Guilherme for fostering this environment.\n\n3\ufe0f\u20e3 The Power of Team Energy\nThe motivation and drive of the people around you can make all the difference. Being surrounded by such an energetic, supportive team has truly set the trajectory for my career. \n\nAs we step into this new year, we\u2019re doubling down with more energy, sharper focus, and even bigger goals for our startup. Here\u2019s to a year of innovation, impact, and scaling new heights together! \ud83d\udca1\ud83c\udf0d\n\n\n\n#StartupJourney #GrowthMindset #WisdomAI #Teamwork #Innovation #NewYearGoals #CareerJourney",
+        "location": "136\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                7 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ishaan-gupta-cal?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Ishaan Gupta\n        \n              \n          \ud83d\ude80 Huge thank you to Joshua Liu for coming up to the University of California, Berkeley to give a Tech Talk for Engineering Solutions at Berkeley about his path to starting Dovetail Product Development and sharing the qualities and mindset that make great engineering and more importantly, great teams. \ud83d\ude80\n\n\ud83c\udf1f My 2 Greatest Takeaways from the Talk: Optimizing for Speed and the Power of \u201c1 + 1 = 3\u201d \ud83c\udf1f\n\nOptimizing for speed is crucial in today\u2019s fast-paced world. It\u2019s about finding ways to streamline processes, eliminate unnecessary steps, and make decisions efficiently. When we optimize for speed, we can iterate faster, increase our learning rate, and deliver projects on or even before deadlines to our clients. This mindset encourages innovation and adaptability, allowing us to stay ahead in dynamic environments. \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8\n\nRegarding \u201c1 + 1 must equal 3,\u201d it\u2019s a powerful concept that emphasizes synergy and collaboration. When we bring together different ideas, perspectives, and talents, the combined result should be greater than the sum of its parts. It\u2019s about leveraging the strengths of each individual or component to create something truly remarkable. By fostering a culture of collaboration and teamwork, we can achieve outcomes that surpass what any single person or element could accomplish alone. This approach encourages creativity, cooperation, and the pursuit of excellence. \ud83e\udd1d\u2728\n\n\nTo learn more about Engineering Solutions at Berkeley, you can check us out at: https://lnkd.in/gBv39xJN\n\n#Optimization #Synergy #Collaboration #Innovation #Learning #EventTakeaways #TechTalk",
+        "location": "15"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jon-ouyang?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jonathan Ouyang\n        \n              \n          My name is Jonathan Ouyang. I am a \ud835\udc53\ud835\udc56\ud835\udc5f\ud835\udc60\ud835\udc61 \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f at UCLA studying Computer Science. And I am the \ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc03 \ud835\udc0f\ud835\udc11\ud835\udc08\ud835\udc19\ud835\udc04 \ud835\udc16\ud835\udc08\ud835\udc0d\ud835\udc0d\ud835\udc04\ud835\udc11 \ud835\udc0e\ud835\udc05 \ud835\udc06\ud835\udc0e\ud835\udc0e\ud835\udc06\ud835\udc0b\ud835\udc04\u2019\ud835\udc12 \ud835\udc06\ud835\udc04\ud835\udc0c\ud835\udc08\ud835\udc0d\ud835\udc08 \ud835\udc00\ud835\udc0f\ud835\udc08 \ud835\udc03\ud835\udc04\ud835\udc15\ud835\udc04\ud835\udc0b\ud835\udc0e\ud835\udc0f\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc0e\ud835\udc0c\ud835\udc0f\ud835\udc04\ud835\udc13\ud835\udc08\ud835\udc13\ud835\udc08\ud835\udc0e\ud835\udc0d \ud83c\udf89\ud83c\udf89.\n\nIt still doesn\u2019t feel real to type all of this out. No amount of words in a LinkedIn post can describe exactly how I feel right now. I still can\u2019t believe that I won the grand prize of a CUSTOM 1981 ELECTRIC DELOREAN CAR FROM BACK TO THE FUTURE ($200k Car + $60k Cash)\n\nI am the sole developer of Jayu, a next-generation AI personal assistant that can directly interact with your computer screen. From controlling applications to writing code to giving live translations, Jayu was meant to show the world what Google Gemini is TRULY capable of. More than a chatbot, more than an LLM, Gemini is capable of bringing us into a new era of AI.\n\nLooking back on the competition:\n\n- I beat over \ud835\udfd1,\ud835\udfcf\ud835\udfce\ud835\udfce submissions from over 45,500 developers, which included solo developers like myself, teams of seasoned industry veterans, and even entire companies\n- I beat submissions from \ud835\udfcf\ud835\udfcf\ud835\udfd7 \ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1e\ud835\udc2c, from Canada to Korea to India\n- I spent \ud835\udfd0 \ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc21\ud835\udc2c locked in my room over the summer before coming to college developing Jayu\n- My demo video on YouTube received overwhelming support without any advertisement, raking in over \ud835\udfd2,\ud835\udfd2\ud835\udfce\ud835\udfce \ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30\ud835\udc2c and over \ud835\udfd0\ud835\udfce\ud835\udfce \ud835\udc25\ud835\udc22\ud835\udc24\ud835\udc1e\ud835\udc2c\n- I had \ud835\udfd2 \ud835\udc02\ud835\udc04\ud835\udc0e\ud835\udc2c reach out for technical advice, and many more students from around the world in my email and LinkedIn expressing their excitement\n- I had over 5 mental breakdowns while developing this app and couldn\u2019t sleep properly for months due to stress\u2026\n\nThe journey was scary, to say the least. As a solo developer, Jayu was more than my passion project. Jayu was literally my heart and soul. I cannot find the words to properly thank everyone who supported me on my journey. So to my \ud835\udc1e\ud835\udc27\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc28\ud835\udc2e\ud835\udc2c team of reviewers who I forced to watch my demo video again and again until it was perfect, thank you.\n\n- To my best friend Matthew Rodrigues, thank you for always being there and letting me use your backyard for filming.\n- USACO Platinum Reviewers: Abhinav Arunkumar, Justin Osbey\n- UCLA Researcher Reviewers: William Jiang, Daniel Wu\n- To my dear friends who reviewed my demo: Joseph Hoang, Jan Andrei Ordonez, Alden Santoso, Sunny Vinay,\u00a0Eric Ziyang Zhou, Johnny Zheng, Eshan Velidandla, Kavya Desai, Ishaan Desai, Elysia Du, Ethan Chen, Allyson Li, John Tacuchi, Eric Ju, Clara Yee, Arnav Bhola\n- Tech Influencer Reviewer: Arash Joobandi\n\nAnd most importantly, thank you Lloyd-Bryant Hightower for organizing and communicating with all of us competitors in the competition! And thank you to the teams at Google for selecting me as the winner.\n\n\uac00\uc871\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uce5c\uad6c, \uac00\uc871, \uce5c\uad6c \ubaa8\ub450\uc5d0\uac8c \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \uc9c0\uc18d\uc801\uc778 \uc9c0\uc6d0\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. \ubaa8\ub4e0 \uac83\uc5d0 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4.\n\n\uadf8\ub9ac\uace0 \uc5c4\ub9c8\uc5d0\uac8c. \ub9c8\uce68\ub0b4 \ub0b4\uac00 \ub2f9\uc2e0\uc744 \uc790\ub791\uc2a4\ub7fd\uac8c \ub9cc\ub4e4\uc5c8\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.\n\nSee the demo here: https://lnkd.in/gpgxB9_T \n\nGoogle DeepMind\nGoogle for Developers\nGoogle Research\n#Google\n#GoogleGemini",
+        "location": "3,398\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                174 Comments"
+      },
+      {
+        "link": "https://nl.linkedin.com/in/sunxcint?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Tao Sun\n        \n              \n          We are thrilled to announce our latest paper, now available on [arXiv](https://lnkd.in/grgvEftD)! \ud83d\udcda\n\n\ud83d\udd2c Title: DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement\n\nIn our recent work, we tackle a crucial issue in speech enhancement SNN solutions: latency. While neuromorphic hardware is designed for low latency, some algorithms and implementations can still introduce significant delays. In speech enhancement, the Short-Time Fourier Transform (STFT)\u2014a common preprocessing step in frequency-domain approaches\u2014can be a significant source of latency. Inspired by the success of high-performance, low-latency deep learning models, we have developed a novel time-domain SNN framework that achieves the very low latency required for applications like hearing aids.\n\nKey Contributions of Our Paper:\n1. Innovative Solution: We introduce a novel two-phase time-domain streaming SNN framework that effectively addresses latency while ensuring high accuracy and power efficiency.\n2. Latency Optimization: Traditional methods often suffer from latency due to long sampling windows, such as 32ms. Our time-domain approach significantly reduces this latency, meeting the stringent requirements of real-time applications like hearing aids, which demand latencies under 5ms.\n3. Competitive Performance: Our framework not only reduces latency but also achieves competitive performance compared to current SNN models, pushing the boundaries of what\u2019s possible in speech enhancement.\n\nExplore the full details of our work on \n[arXiv](https://lnkd.in/grgvEftD) and discover how our innovations are advancing the practical applications of neuromorphic computing in this vital field.\n\nWe look forward to your feedback and discussions!\n\n#SpeechEnhancement #SNN #LatencyReduction #DeepLearning #NeuralNetworks #RealTimeProcessing #AI #TechInnovation #arXiv #HearingAids",
+        "location": "25\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                2 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/waynerad?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Wayne Radinsky\n        \n              \n          \"Are large language models superhuman chemists?\"\n\nSo what these researchers did was make a test -- a benchmark. They made a test of 7,059 chemistry questions, spanning the gamut of chemistry: computational chemistry, physical chemistry, materials science, macromolecular chemistry, electrochemistry, organic chemistry, general chemistry, analytical chemistry, chemical safety, and toxicology.\n\nThey recruited 41 chemistry experts to carefully validate their test.\n\nThey devised the test such that it could be evaluated in a completely automated manner. This meant relying on multiple-choice questions rather than open-ended questions more than they wanted to. The test has 6,202 multiple-choice questions and 857 open-ended questions (88% multiple-choice). The open-ended questions had to have parsers written to find numerical answers in the output in order to test them in an automated manner.\n\nIn addition, they ask the models to say how confident they are in their answers.\n\nBefore I tell you the ranking, the researchers write:\n\n\"On the one hand, our findings underline the impressive capabilities of LLMs in the chemical sciences: Leading models outperform domain experts in specific chemistry questions on many topics. On the other hand, there are still striking limitations. For very relevant topics the answers models provide are wrong. On top of that, many models are not able to reliably estimate their own limitations. Yet, the success of the models in our evaluations perhaps also reveals more about the limitations of the exams we use to evaluate models -- and chemistry -- than about the models themselves. For instance, while models perform well on many textbook questions, they struggle with questions that require some more reasoning. Given that the models outperformed the average human in our study, we need to rethink how we teach and examine chemistry. Critical reasoning is increasingly essential, and rote solving of problems or memorization of facts is a domain in which LLMs will continue to outperform humans.\"\n\n\"Our findings also highlight the nuanced trade-off between breadth and depth of evaluation frameworks. The analysis of model performance on different topics shows that models' performance varies widely across the subfields they are tested on. However, even within a topic, the performance of models can vary widely depending on the type of question and the reasoning required to answer it.\"\n\nAnd with that, I'll tell you the rankings. You can log in to their website at ChemBench.org and see the leaderboard any time for the latest rankings. At this moment I am seeing:\n\ngpt-4: 0.48\nclaude2: 0.29\nGPT-3.5-Turbo: 0.26\ngemini-pro: 0.25\nmistral_8x7b: 0.24\ntext-davinci-003: 0.18\nPerplexity 7B Chat: 0.18\ngalactica_120b: 0.15\nPerplexity 7B online: 0.1\nfb-llama-70b-chat: 0.05",
+        "location": "3"
+      },
+      {
+        "link": "https://uk.linkedin.com/in/morgane-ohlig?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Morgane Ohlig\n        \n              \n          My time as a research engineering intern at Google DeepMind has come to a close!\n\nAs someone whose world revolves around networked, computer, and distributed systems, I never imagined I'd land on my dream team \u2013 the model partitioning team!\n\nThis summer, I worked on PartIR's automatic model partitioning capabilities(https://lnkd.in/egp5Ygvy), diving deeper into distributed computing and exploring applications in reinforcement learning. It was definitely a challenging project, but I picked up so many invaluable skills, from software engineering to research in an industry setting. I\u2019d like to give a huge thank you to Sami Alabed, Masha Samsikova, and the entire model partitioning team for making me feel so welcome and helping me successfully complete my project! I\u2019m also thrilled that my final presentation was well received (and even got some laughs!), helping many at GDM understand a complex topic.\n\nOutside of my project, I had the chance to meet so many fascinating people across different teams and, of course, the other interns! A big thanks to the GDM Academy organizers, Charlotte Colson and Claudia Pope, for their incredible support in running such a fantastic program while I was balancing my thesis. And to Lucia Lopez Rivilla and Ioana Mih\u0103ilescu, former GDM Academy interns, for helping me find my way around the company!\n\nThis summer wasn\u2019t without its challenges, though. I finally addressed the anxiety issues I\u2019d been struggling with since my teenage years, as they were impacting my studies and relationships. Unfortunately, I wasn\u2019t able to attend my final year exams as I had hoped. However, I'm so grateful to UCL's Computer Science team and Faculty of Engineering for giving me the flexibility to extend my studies by a year, without penalty, and extending my scholarship. I couldn\u2019t be more thankful for their support!\n\nAll in all, this experience has solidified my determination to pursue research. In my third year, I discovered my passion for networked systems, and during my time at AMD, I knew I wanted to work on distributed systems. Now, after my time at GDM, I\u2019m confident that distributed and networked systems are my future \u2013 and with the added experience of AI, I feel more prepared to navigate the machine learning-filled computer science landscape.\n\nHere\u2019s to a (hopefully) restful but equally exciting year ahead!\n\nSee you soon,\n\nMorgane \ud83e\udd86",
+        "location": "219\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                16 Comments"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jimblomo?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Jim Blomo\n        \n              \n          \"Why did Santa's AI-driven sleigh keep running into trees?\"\n\nSo much \ud83d\udd25 from Julie Wang and John Allard in today\u2019s OpenAI live stream! They covered Reinforcement Fine-Tuning, medical research, and shared some truly punny jokes. Moments like these remind me why I love my team: brilliant people solving fascinating problems\u2014and having fun along the way! https://lnkd.in/gJnNiTXc\n\nIf you'd like to participate in the Research Program by sharing data, check out https://lnkd.in/gZYehx9T or ping me.\n\nReinforcement Fine-Tuning is a new technique for teaching the new models how to reason. It's kinda like how AlphaGo taught a model how to play by \"grading\" games, then learning what \"good\" moves are by comparing moves in winning vs losing games. This opens up a whole new paradigm for models, where you're not just teaching them the answer, but teaching them how to arrive at the right answer.\n\nWhat is Reinforcement Fine-Tuning (RFT)?\nIt\u2019s a groundbreaking technique for teaching models how to reason. Think of it like AlphaGo: the model learns by being \u201cgraded\u201d on games and understanding what makes moves in winning games better than losing ones.\n\nWith RFT, prompts are like the \u201cgames\u201d and chain-of-thought reasoning is like the \u201cmoves.\u201d By evaluating the \"winning\" reasoning steps, the model learns which ones lead to better answers. This means we\u2019re not just teaching models the answers\u2014we\u2019re teaching them how to think through problems and consistently arrive at the right solutions.\n\nMy team\u2019s mission is simple: give you the world\u2019s best model for your domain. If you\u2019re finding it hard to get API responses to work for your business\u2014whether it\u2019s a performance issue, cost concern, or accuracy challenge\u2014let me know. We have tools to improve outcomes, and I love working with customers to see how we can do even more.\n\nOh, and Santa\u2019s sleigh? Julie gave us the answer: \u201cBecause he hadn\u2019t \u2018pine\u2019-tuned yet!\u201d \ud83e\udd41",
+        "location": "26\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                1 Comment"
+      },
+      {
+        "link": "https://www.linkedin.com/in/colegawin?trk=public_profile_relatedPosts_face-pile-cta",
+        "name": "",
+        "summary": "Cole Gawin\n        \n              \n          Do large language models have an in-built notion of \"common sense\"? \ud83d\udc40\n\nThis is the driving question behind my research with the USC Information Sciences Institute this summer as part of the \"AI & Complex Systems\" group. Using methods grounded in cognitive science and computational linguistics, we\u2019re aiming to conduct a holistic analysis of LLMs that bridges the gap between theoretical computer science and the social sciences.\n\nOur preliminary investigations indicate that LLMs have a strong, but not infallible, grasp of \"topical regularity\"\u2014that is, understanding how different concepts are related to one another. This is probably unsurprising if you\u2019ve played around with #ChatGPT; the majority of what it outputs usually seems to make sense, regardless of whether it\u2019s correct.\n\nThis understanding of relations between topics could serve as a basis for general reasoning abilities, much like how humans are able to reason using their general understanding of the world\u2014in other words, \"common sense\". \ud83e\udde0 Further investigations will lead us to narrow in on whether these LLMs have genuine abstract reasoning capabilities, or if they're using semantic markers (like \"IsA\", \"HasA\", \"PartOf\") as \"hints\" that enable them to perform well.\n\nStay tuned for further updates on this project and for more #cognitivescience and #artificialintelligence content!\n.\n.\n.\n#AI #NLP #LLM #research #innovation #computerscience #linguistics #psychology #USC #academia",
+        "location": "79\n              \n            \n      \n  \n                  \n                  \n                  \n                  \n                  \n                  \n                  \n            \n      \n        \n                9 Comments"
+      }
+    ],
+    "similar_profiles": [
+      {
+        "link": "https://www.linkedin.com/in/kailash-ranganathan-261431280?trk=public_profile_samename-profile",
+        "name": "Kailash Ranganathan",
+        "summary": "Student at University of California, Berkeley",
+        "location": "Campbell, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kailash-ranganathan-97a3b7158?trk=public_profile_samename-profile",
+        "name": "Kailash Ranganathan",
+        "summary": "--",
+        "location": "Saratoga, CA"
+      },
+      {
+        "link": "https://www.linkedin.com/in/kailash-ranganathan-7a52b7308?trk=public_profile_samename-profile",
+        "name": "Kailash Ranganathan",
+        "summary": "--",
+        "location": "Berkeley, CA"
+      }
+    ],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [],
+    "organizations": [],
+    "projects": [],
+    "awards": [],
+    "score": []
+  }
+]

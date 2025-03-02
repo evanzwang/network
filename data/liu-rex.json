@@ -1,0 +1,13 @@
+{
+    "id": "liu-rex",
+    "name": "Rex Liu",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQH9tNVsutSsQQ/profile-displayphoto-shrink_200_200/B56ZQ9ykNbHoAc-/0/1736203453942?e=2147483647&v=beta&t=Cva0tQQXIl6oIVERuZTpFEtol4Av2Wx3fHSOX1OZrXE",
+    "contacts": [
+        "rexpository@github.com"
+    ],
+    "links": [
+        "https://github.com/rexpository"
+    ],
+    "short_description": "Undergraduate at Caltech studying computer science and biology. Research Fellow at Thomson Lab specializing in Bio-inspired AI and Drug Discovery. Currently interning at NASA JPL for the Lunar Trailblazer Spacecraft mission. Published researcher with expertise in AI systems and machine learning.",
+    "long_description": "Rex Liu is an undergraduate student at Caltech pursuing a Bachelor of Science in Computer Science and Biology (2023-2027). He currently serves as a Mission Operations/Ground Data Systems Intern at NASA Jet Propulsion Laboratory, where he writes software for the Lunar Trailblazer Spacecraft.\n\nSince September 2023, Rex has been an Undergraduate Research Fellow at Caltech's Thomson Lab, where he has worked on several cutting-edge projects at the intersection of AI and biology. His research includes developing a Thalamus-inspired LLM Router that uses Q-learning for dynamic model selection, creating Hierarchical Chains with Multi-Level Abstention (HCMA) to optimize Black-box API deployments, applying GNNs to spatial proteomics for identifying tumor perturbations, and developing the Functionally Invariant Path (FIP) framework for neural network adaptation.\n\nRex has published notable research papers, including \"Engineering flexible machine learning systems by traversing functionally invariant paths\" in Nature Machine Intelligence (October 2024) and \"Herd: Using multiple, smaller LLMs to match the performances of proprietary, large LLMs via an intelligent composer\" presented at NeurIPS Efficient Natural Language and Speech Processing Workshop (October 2023).\n\nHis professional experience also includes five years as a Security Researcher at HackerOne (July 2019 - August 2024) and as a Bug Bounty Hunter at Bugcrowd (May 2019 - August 2024). Rex has served as a Teaching Assistant at Taipei American School for both Mechanical Engineering and Modern Topics in Computer Science.\n\nPrior to Caltech, Rex conducted research at National Taiwan University, working as a Research Assistant in the Systems Biology of Epithelia Laboratory and the Department of Tropical Medicine and Parasitology. He graduated from Taipei American School with a High School Diploma in 2023.\n\nRex is multilingual, with native proficiency in Chinese and English, and limited working proficiency in Spanish and Japanese."
+}

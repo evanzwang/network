@@ -1,0 +1,13 @@
+{
+    "id": "sudarshan-nambiar",
+    "name": "Sudarshan Nambiar",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQH3blzwJ1Wb6A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706801192462?e=2147483647&v=beta&t=oAYdbY5iiCb4e1k4jslMTMnkxPLfLz6FHa56xZIqxZE",
+    "contacts": [
+        "sudarshan-nambiar@linkedin.com"
+    ],
+    "links": [
+        "https://sdrshn-nmbr.github.io/sdrshn-nmbr-portfolio/"
+    ],
+    "short_description": "Junior at Purdue University pursuing a BS in Computer Engineering with a focus on AI and distributed systems. Currently a Software Engineer Intern at Legacy and a Neo '24 Scholars Finalist. Experienced in teaching, research, and software development with a passion for tackling real-world problems.",
+    "long_description": "Sudarshan Nambiar is a junior at Purdue University pursuing a Bachelor of Science in Computer Engineering with a focus on AI and distributed systems through the BSMS 3+1 program. He is currently a Software Engineer Intern at Legacy and a Neo '24 Scholars Finalist.\n\nHis professional experience includes working as an Undergraduate Teaching Assistant at Purdue University for courses in Data Structures and Algorithms and Advanced C Programming. He previously interned as a Software Engineer at SignalOps (JPMorgan Techstars '23) in New York and worked as a Software Engineer at ECELabs, where he orchestrated the migration of backend infrastructure for a digital design and circuits simulator, transitioning from CherryPi to Django and engineering APIs for React frontend integration.\n\nSudarshan has also contributed to research as a Research Assistant at Purdue SERIS Research Group, where he worked on enhancing the security of PyTorch-based machine learning models through C/C++ programming and Trusted Execution Environments. He developed encryption and decryption functions using the mbedTLS library to protect configuration files during PyTorch to Darknet weight conversion.\n\nHis project portfolio includes work on Agenta, Bulletant, and Tusk. He has consistently achieved academic excellence, being named to the Dean's List and receiving Semester Honors multiple times at Purdue University.\n\nSudarshan is passionate about using his engineering skills and creativity to tackle real-world problems and make a meaningful impact. His coursework includes Artificial Intelligence, Computer Communication Networks, Data Structures and Algorithms in C, Elementary Linear Algebra, Microcontroller Systems and Interfacing, and Reinforcement Learning."
+}

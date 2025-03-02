@@ -1,0 +1,13 @@
+{
+    "id": "ben-n-cullen",
+    "name": "Ben Cullen",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/C5603AQGA5gfwqyhRrQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1643682348888?e=2147483647&v=beta&t=6T28F4ttZo4w4o-NKN5R32mkqvHeTp00yo3e7p4aETs",
+    "contacts": [
+        "ben-n-cullen@linkedin.com"
+    ],
+    "links": [
+        "https://github.com/bencullenn"
+    ],
+    "short_description": "ML Engineer Intern at Spot Parking and CS student at BYU with a strong background in AI/ML and full stack development. Experienced in transforming ML advancements into useful software products with a focus on business strategy.",
+    "long_description": "Ben Cullen is a full stack engineer with a strong background in AI/ML who is passionate about transforming the latest ML advancements into useful software products. Currently serving as an ML Engineer Intern at Spot Parking and pursuing a Computer Science degree with a Data Science emphasis at Brigham Young University, Ben maintains an impressive 3.98 GPA and has been named to the Dean's List four times.\n\nHis technical skills include backend development using TypeScript and Python, frontend development with React.js/Next.js, cloud deployment on AWS and GCP using Terraform, ML model training with PyTorch and scikit-learn, and implementing LLMs & RAG systems using Pg-vector and OpenAI/Anthropic APIs.\n\nBen's professional experience spans multiple roles across various companies. At nCino, he developed features for their AI Assistant to enhance banker efficiency. At NEXU, he created an AI phone platform that reduced referral verification time by 80%. His work at BYU as a Computer Vision Software Engineer achieved 99% accuracy in document layout analysis, resulting in significant cost savings. As a Founding Software Engineer at Calisto Inc, he took the company from zero software to a pilot with a major pest control company in just five months.\n\nBen has also contributed to academic research, co-authoring a paper published at the AAAI-22 Conference on improving AI text generation using knowledge graphs. His diverse experience includes roles in strategy at Weave and software development at companies like ChoiceGuard Insurance Services, OBEO Inc., and Focal Point Technologies.\n\nBeyond his technical expertise, Ben has a deep understanding of aligning software solutions with business objectives, developed through business strategy coursework, hands-on experience in management consulting, and being a founding or early employee at multiple startups. He is a Crocker Fellow and Levinthal Fellow in select entrepreneurship programs, demonstrating his commitment to combining technical innovation with business acumen."
+}

@@ -1,0 +1,14 @@
+{
+    "id": "billqian",
+    "name": "Bill Qian",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQFuvpckqH_xlA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671856178480?e=2147483647&v=beta&t=O22AHOlZfVDbUBNhxCILRBfEShje3nUY4s0sqA57KJA",
+    "contacts": [
+        "billqian@yale.edu"
+    ],
+    "links": [
+        "https://lilbillbiscuit.com",
+        "https://www.linkedin.com/in/billqian/"
+    ],
+    "short_description": "Yale '26 student pursuing BS/MS in Computer Science with research focus on NLP and code generation. Incoming Software Engineering Intern at Citadel Securities with experience at The New York Times and DeepMedia.",
+    "long_description": "Bill Qian is a Computer Science student at Yale University (Class of 2026) pursuing a combined BS/MS program. His academic background stems from competitive programming (USACO/ICPC) and mathematics (USAMO/Putnam), which has evolved into expertise in systems and machine learning, particularly natural language processing and code generation.\n\nBill has built an impressive portfolio of professional experiences. He is an incoming Software Engineering Intern at Citadel Securities (Jan 2025) where he'll work with high-performance C++. Previously, he interned at The New York Times on their Research and Development team, focusing on ethical applications of AI and LLMs in journalism. As a Research Assistant in Yale's Gerstein Laboratory, he developed expertise in Large Language Models and code generation, taking a pivotal role in building, training, and evaluating models to achieve industry-leading results. He also designed distributed computing infrastructure using AWS, Azure, and on-premise hardware.\n\nHis other professional experiences include working as a Project Manager at Yale's Student Technology Collaborative, a Machine Learning Intern at DeepMedia where he designed algorithms for analyzing heterogeneous data, and a Software Engineering Intern at Thomas Ho Company Ltd where he applied neural networks to assess mortgage loan pricing models.\n\nBill has contributed to significant research projects including \"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs\" and \"BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge.\" He holds certifications in AWS Cloud Practitioner, JavaScript Algorithms and Data Structures, and has completed LinkedIn's \"Confronting Bias: Thriving Across Our Differences\" course.\n\nBeyond his technical pursuits, Bill is an active member of the Yale Glee Club and enjoys making short films and exploring creative outlets. He is committed to supporting others through teaching and mentorship, with a stated goal of making the world a better place."
+}
