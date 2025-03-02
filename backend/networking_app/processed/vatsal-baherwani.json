@@ -2,14 +2,14 @@
     "id": "vatsal-baherwani",
     "name": "Vatsal Baherwani",
     "profile_pic": "https://media.licdn.com/dms/image/v2/C4E03AQG7VtnPcIl_IQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1635363400893?e=2147483647&v=beta&t=MQHG79ZR1oyybB1Rr_GILirkBBl0qxg2v7cCzz9Y5CE",
-    "contacts": [
-        "1K followers",
-        "500+ connections"
-    ],
     "links": [
         "https://vatsalb.netlify.app/",
-        "https://www.linkedin.com/in/vatsal-baherwani/"
+        "https://www.linkedin.com/in/vatsal-baherwani/",
+        "https://medium.com/@vatsalbaherwani",
+        "https://github.com/vatsal0/",
+        "https://scholar.google.com/citations?user=sAV3TUoAAAAJ",
+        "https://twitter.com/vatsalbaherwani"
     ],
-    "short_description": "Computer science student at University of Maryland interested in artificial intelligence research. Currently affiliated with the Center for Human-Compatible AI.",
-    "long_description": "Vatsal Baherwani is a computer science student at the University of Maryland with a strong interest in artificial intelligence research. He is currently affiliated with the Center for Human-Compatible AI. Vatsal has obtained several certifications including Bloomberg Market Concepts from Bloomberg LP (November 2022), Intro to Deep Learning from Kaggle (December 2021), and Machine Learning from Stanford Online (December 2021). His professional focus appears to be on AI research and development, as indicated by his educational background and certifications. Vatsal maintains an active presence on LinkedIn where he engages with content related to research internships and technology opportunities, particularly showing interest in sustainability analytics and software development positions at companies like Google. He has 1K followers and over 500 connections on LinkedIn, suggesting he has built a substantial professional network in his field."
+    "short_description": "Vatsal Baherwani is a computer science undergraduate at the University of Maryland focused on AI research, particularly in making AI more accessible, interpretable, and trustworthy. He is a research fellow at the Center for Human-Compatible AI, working to ensure AI systems align with human values and safety.",
+    "long_description": "Vatsal Baherwani is an undergraduate computer science student at the University of Maryland, set to graduate in 2025. His research interests center on making artificial intelligence more accessible, interpretable, and trustworthy. As a research fellow at the Center for Human-Compatible AI, he works on ensuring AI systems remain aligned with human values and safety considerations.\n\nVatsal's research portfolio includes several notable projects. He has investigated how video diffusion models encode motion information in early timesteps of the diffusion process, leading to a method for targeted video motion customization. He co-authored a paper on improving routing for sparsely-gated mixture-of-experts models that was accepted at NeurIPS 2024. Additionally, his work on racial and gender stereotypes encoded in CLIP representations was published at ICLR 2024 as a Tiny Paper.\n\nBeyond his research, Vatsal is an active writer who shares his knowledge about AI concepts through his Medium blog. His articles include explanations of gradient descent in AI learning, perspectives on AI-proofing education, and philosophical reflections on finding passion. This demonstrates his commitment to making complex AI concepts accessible to broader audiences.\n\nVatsal has a strong technical foundation, having completed certifications in deep learning through Kaggle, machine learning through Stanford Online, and financial market concepts through Bloomberg. His GitHub profile showcases various projects including Shore-Defense, StudySession, PlayboardWeb, and Plannet - a platform for friends to collaboratively plan hangouts.\n\nAs an emerging researcher in the field of human-compatible artificial intelligence, Vatsal combines technical expertise with a focus on the ethical implications of AI development. His interdisciplinary approach and commitment to AI safety position him as a thoughtful contributor to the field of AI research."
 }
