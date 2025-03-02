@@ -10,7 +10,7 @@ from httpcore import ReadError
 # import sglang as sgl
 # import llmengine
 
-from concurrent.futures import ThreadPoolExecutor
+import concurrent.futures
 import json
 from pathlib import Path
 import random
@@ -18,6 +18,8 @@ from typing import Optional, Union
 import os
 import warnings
 import time
+
+import asyncio
 
 
 from .prompt_types import Prompt, Completion, logprobs_to_cumulative
@@ -105,6 +107,7 @@ class LLMClient:
         temperature: Optional[float],
         top_p: Optional[float],
         timeout: Optional[float] = None,
+        hard_timeout: Optional[float] = None,
         pbar: Optional[tqdm] = None,
     ) -> tuple[list[Completion], float]:
         completions: list[Optional[Completion]] = [None] * len(messages)
@@ -141,9 +144,29 @@ class LLMClient:
                         if pbar is not None:
                             pbar.update(1)
         else:
+            # def generate_completion_util(prompt: Prompt, i: int):
+            #     completions[i] = self.generate(
+            #         message=prompt,
+            #         frequency_penalty=frequency_penalty,
+            #         logit_bias=logit_bias,
+            #         max_tokens=max_tokens,
+            #         presence_penalty=presence_penalty,
+            #         seed=seed,
+            #         stop=stop,
+            #         temperature=temperature,
+            #         top_p=top_p,
+            #         timeout=timeout,
+            #     )
+            #     if pbar is not None:
+            #         pbar.update(1)
 
-            def generate_completion_util(prompt: Prompt, i: int):
-                completions[i] = self.generate(
+            # with concurrent.futures.ThreadPoolExecutor(max_workers=self.num_workers) as executor:
+            #     to_generate_prompts = [prompt for _, prompt in indexed_messages]
+            #     to_generate_idxs = [idx for idx, _ in indexed_messages]
+            #     list(executor.map(generate_completion_util, to_generate_prompts, to_generate_idxs))
+
+            async def agenerate_completion_util(prompt: Prompt, i: int):
+                completions[i] = await self.agenerate(
                     message=prompt,
                     frequency_penalty=frequency_penalty,
                     logit_bias=logit_bias,
@@ -154,16 +177,19 @@ class LLMClient:
                     temperature=temperature,
                     top_p=top_p,
                     timeout=timeout,
+                    hard_timeout=hard_timeout,
                 )
                 if pbar is not None:
                     pbar.update(1)
 
-            with ThreadPoolExecutor(max_workers=self.num_workers) as executor:
-                to_generate_prompts = [prompt for _, prompt in indexed_messages]
-                to_generate_idxs = [idx for idx, _ in indexed_messages]
-                list(executor.map(generate_completion_util, to_generate_prompts, to_generate_idxs))
+            async def run_all():
+                await asyncio.gather(*[agenerate_completion_util(prompt, idx) for idx, prompt in indexed_messages])
+
+            asyncio.run(run_all())
 
         assert all(c is not None for c in completions), "Some completions are missing -- threading bug?"
+        if any(c.code == "OPENAI TIMEOUT" for c in completions):
+            print("WARNING:", sum(c.code == "OPENAI TIMEOUT" for c in completions), "not completed")
 
         output_tokens = 0
         for completion in completions:
@@ -173,6 +199,21 @@ class LLMClient:
         return completions, total_price
 
     def generate(
+        self,
+        message: Prompt,
+        frequency_penalty: Optional[float],
+        logit_bias: Optional[dict[str, int]],
+        max_tokens: Optional[int],
+        presence_penalty: Optional[float],
+        seed: Optional[int],
+        stop: Union[Optional[str], list[str]],
+        temperature: Optional[float],
+        top_p: Optional[float],
+        timeout: Optional[float] = None,
+    ) -> Completion:
+        raise NotImplementedError("LLMClient: generate not supported")
+
+    async def agenerate(
         self,
         message: Prompt,
         frequency_penalty: Optional[float],
@@ -216,7 +257,7 @@ class LLMClient:
 class OpenAIClient(LLMClient):
     TIMEOUT_FLAG = "__OPENAI_TIMEOUT__"
     JITTER_FACTOR = 2 / 5
-    BACKOFF_FACTOR = 2
+    BACKOFF_FACTOR = 1.50
     PARAMS = LLMClient.PARAMS + ["start_backoff", "max_backoff"]
 
     def __init__(
@@ -227,7 +268,7 @@ class OpenAIClient(LLMClient):
         batch_size: Optional[int] = None,
         num_workers: Optional[int] = None,
         price_per_input_output: tuple[float, float] = (0.0, 0.0),
-        start_backoff: float = 15.0,
+        start_backoff: float = 10.0,
         max_backoff: float = 3.0 * 60,
     ) -> None:
         super().__init__(
@@ -241,7 +282,172 @@ class OpenAIClient(LLMClient):
         self.start_backoff = start_backoff
         self.max_backoff = max_backoff
         self.client = openai.OpenAI()
+        self.aclient = openai.AsyncOpenAI()
         self.is_loaded = True
+
+    async def agenerate(
+        self,
+        message: Prompt,
+        frequency_penalty: Optional[float],
+        logit_bias: Optional[dict[str, int]],
+        max_tokens: Optional[int],
+        presence_penalty: Optional[float],
+        seed: Optional[int],
+        stop: Union[Optional[str], list[str]],
+        temperature: Optional[float],
+        top_p: Optional[float],
+        timeout: Optional[float] = None,
+        hard_timeout: Optional[float] = None,
+    ) -> Completion:
+        if not self.is_chat:
+            raise NotImplementedError("OpenAIClient completion format not implemented.")
+
+        curr_backoff = self.start_backoff
+        while 1:
+            try:
+                # # Create a unique filename based on the current time and a random number
+                # unique_number = random.randint(100000, 999999)
+                # log_directory = "long_logs"
+                # if not os.path.exists(log_directory):
+                #     os.makedirs(log_directory)
+                # log_filename = os.path.join(log_directory, f"query_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
+
+                # # Log the query details before making the request
+                # query_log = {
+                #     "model": self.model_name,
+                #     "messages": message,
+                #     "frequency_penalty": frequency_penalty,
+                #     "logit_bias": logit_bias,
+                #     "max_tokens": max_tokens,
+                #     "presence_penalty": presence_penalty,
+                #     "seed": seed,
+                #     "stop": stop,
+                #     "temperature": temperature,
+                #     "top_p": top_p,
+                #     "timeout": timeout
+                # }
+
+                # with open(log_filename, "w") as log_file:
+                #     json.dump(query_log, log_file)
+
+                start = time.time()
+                try:
+                    async with asyncio.timeout(hard_timeout):
+                        if self.model_is_o1:
+                            assert stop is None or stop == []
+                            assert temperature == 1
+                            assert top_p == 1
+                            assert frequency_penalty is None or frequency_penalty == 0
+                            assert presence_penalty is None or presence_penalty == 0
+                            response = await self.aclient.chat.completions.create(
+                                model=self.model_name,
+                                messages=message,
+                                frequency_penalty=0,
+                                logit_bias=logit_bias,
+                                logprobs=False,
+                                max_completion_tokens=max_tokens,
+                                presence_penalty=0,
+                                seed=seed,
+                                temperature=temperature,
+                                top_p=top_p,
+                                timeout=timeout,
+                            )
+                        else:
+                            response = await self.aclient.chat.completions.create(
+                                model=self.model_name,
+                                messages=message,
+                                frequency_penalty=frequency_penalty,
+                                logit_bias=logit_bias,
+                                logprobs=True,
+                                max_tokens=max_tokens,
+                                presence_penalty=presence_penalty,
+                                seed=seed,
+                                stop=stop,
+                                temperature=temperature,
+                                top_p=top_p,
+                                timeout=timeout,
+                            )
+                except TimeoutError:
+                    return Completion("OPENAI TIMEOUT", -1, 3)
+
+                total = time.time() - start
+
+                if total >= 120:
+                    print(f"Warning: Request took {int(total)} seconds.")
+                #     response_log_filename = os.path.join(log_directory, f"response_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
+                #     print(f"Warning: Request took {int(total)} seconds, saving to {response_log_filename}")
+                #     # Save the log with the response text to a different file
+                #     with open(response_log_filename, "w") as response_log_file:
+                #         query_log["response"] = response.choices[0].message.content
+                #         json.dump(query_log, response_log_file)
+                #     print(f"Response log saved to: {response_log_filename}")
+                # else:
+                #     # Delete the log file if the request time is less than 120 seconds
+                #     print(log_filename)
+                #     if os.path.exists(log_filename):
+                #         print("EXIST")
+                #         try:
+                #             os.remove(log_filename)
+                #         except FileNotFoundError:
+                #             print("whoops not found")
+                #             pass
+
+                break
+            except openai.BadRequestError as e:
+                print(f"Bad request: {e}")
+                print(message, "\n^ the bad prompt")
+                return Completion(self.BAD_REQUEST_FLAG, -1, 3)
+            except openai.RateLimitError:
+                random_print("OpenAI rate limit.", p=PRINT_P)
+            except openai.APITimeoutError:
+                total = time.time() - start
+                if timeout is not None:
+                    print(f"OpenAI API exceeded timeout of {timeout}. ({total} seconds)")
+                    return Completion(self.TIMEOUT_FLAG, -1, 0)
+                random_print("OpenAI API timeout.", p=PRINT_P)
+            except ReadError:
+                random_print("httpcore ReadError.", p=PRINT_P)
+            except openai.APIConnectionError:
+                random_print("OpenAI API connection error.", p=PRINT_P)
+            except openai.InternalServerError:
+                random_print("OpenAI internal server error.", p=PRINT_P)
+            except json.JSONDecodeError:
+                random_print("(OpenAI) JSON decode error.", p=PRINT_P)
+            except UnicodeDecodeError:
+                random_print("(OpenAI) Unicode decode error.", p=PRINT_P)
+
+            curr_backoff = curr_backoff + random.random() * self.JITTER_FACTOR * curr_backoff
+            random_print(f"OpenAIClient: requerying in {curr_backoff} seconds.", p=PRINT_P)
+            await asyncio.sleep(curr_backoff)
+            # time.sleep(curr_backoff)
+            curr_backoff = min(self.max_backoff, curr_backoff * self.BACKOFF_FACTOR)
+
+        choice = response.choices[0]
+        o = choice.message.content
+        if o is None:
+            breakpoint()
+
+        if not self.model_is_o1:
+            if choice.logprobs is None:
+                breakpoint()
+                print("Warning null logprobs")
+                cumulative_logprob = -1
+            else:
+                logprobs = choice.logprobs.content  # type: ignore
+                logprobs = [logprob.logprob for logprob in logprobs]
+                cumulative_logprob = logprobs_to_cumulative(logprobs)
+        else:
+            cumulative_logprob = -1
+
+        assert o is not None, "OpenAI returned a null response"
+        num_tokens = response.usage.completion_tokens
+        if self.model_is_o1:
+            pass
+            # print("NUM TOKENS:", num_tokens)
+        if choice.finish_reason == "length":
+            print("Warning, output clipped.")
+
+        return Completion(o, cumulative_logprob, num_tokens)
 
     def generate(
         self,

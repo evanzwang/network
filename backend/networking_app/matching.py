@@ -63,7 +63,9 @@ class Matcher:
         self.rrf_offset = rrf_offset
 
     def generate(self, queries: list[dict[str, str]]) -> list[str]:
-        return self.llmq.generate(self.model_config, queries, max_tokens=8000, temperature=0, top_p=0.95, timeout=21)
+        return self.llmq.generate(
+            self.model_config, queries, max_tokens=8000, temperature=0, top_p=0.95, hard_timeout=21
+        )
 
     def simple_query(self, query_str: str, k: int, names: Optional[list[str]] = None) -> list[Person]:
         if names is None:
@@ -103,7 +105,7 @@ class Matcher:
         prop = 1 - len(names) / len(self.people)
         max_elo = sorted_elos[0][0]
 
-        compatibility = [((r - 1500) / (max_elo - 1500)) * (1 - prop) + prop for r, _ in sorted_elos]
+        compatibility = [((r - 1500) / (max_elo - 1500 + 1e-7)) * (1 - prop) + prop for r, _ in sorted_elos]
 
         return [self.people[n] for _, n in sorted_elos[:k]], compatibility
 
@@ -164,9 +166,10 @@ def main():
     #     k=3,
     # )
     p = m.query(
-        "I am Rex Liu. I want to meet with someone who is interested in AI safety.",
+        "I am Alan Wu. I want to meet with someone who is interested in AI safety.",
         "elo",
         k=5,
+        max_rag=1000,
         num_pairs=600,
     )
     # p = m.query("I am Rex Liu. I want to meet with someone who has interned at Jane Street.", "elo", num_pairs=15)

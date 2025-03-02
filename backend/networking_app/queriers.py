@@ -190,6 +190,7 @@ class LLMQuerier(ABC):
         requery: bool = True,
         log_name: str = "",
         timeout: Optional[float] = None,
+        hard_timeout: Optional[float] = None,
         o1_retry: bool = True,
     ) -> list[Completion]:
         curr_hash = str(uuid4())[:6]
@@ -221,6 +222,7 @@ class LLMQuerier(ABC):
                     temperature=temperature,
                     top_p=top_p,
                     timeout=timeout,
+                    hard_timeout=hard_timeout,
                     pbar=pbar,
                 )
                 self.log(
@@ -343,7 +345,8 @@ class LLMQuerier(ABC):
         requery: bool = True,
         log_name: str = "",
         timeout: Optional[float] = None,
-    ) -> list[str]:
+        hard_timeout: Optional[float] = None,
+    ) -> list[Optional[str]]:
         generations = self.generate_with_info(
             client_name,
             prompts,
@@ -358,8 +361,9 @@ class LLMQuerier(ABC):
             requery=requery,
             log_name=log_name,
             timeout=timeout,
+            hard_timeout=hard_timeout,
         )
-        return [c.code for c in generations]
+        return [c.code if c is not None else None for c in generations]
 
     def log(
         self,
@@ -421,6 +425,7 @@ def _generate_completions(
     temperature: Optional[float],
     top_p: Optional[float],
     timeout: Optional[float] = None,
+    hard_timeout: Optional[float] = None,
     pbar: Optional[tqdm] = None,
 ) -> tuple[list[Completion], float]:
     if not isinstance(messages, (list, tuple)):
@@ -470,6 +475,7 @@ def _generate_completions(
         temperature=temperature,
         top_p=top_p,
         timeout=timeout,
+        hard_timeout=hard_timeout,
         pbar=pbar,
     )
 
@@ -512,12 +518,16 @@ if __name__ == "__main__":
 
     print(
         llmq.generate(
-            "model_configs/sonnet-3-5.json",
+            # "model_configs/sonnet-3-5.json",
+            "model_configs/gpt-4o-mini.json",
             [
                 [{"role": "user", "content": "Please count to 100, backwards."}],
-            ],
+            ]
+            * 30,
             max_tokens=1000,
             temperature=1,
             top_p=1,
+            hard_timeout=1,
         )
     )
+    print("HUH")

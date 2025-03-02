@@ -1,4 +1,5 @@
 from .person import Person
+from typing import Optional
 
 
 COMPARISON_SYS_PROMPT = """
@@ -105,6 +106,8 @@ def parse_simple_prompt_response(output: str) -> tuple[str, str]:
         AssertionError: If the response is not properly formatted with exactly one <SELECTED> tag
     """
     begin_end = output.strip().split("<SELECTED>")
+    if len(begin_end) < 2:
+        return "", ""
     assert len(begin_end) >= 2
     name = begin_end[-1].split("</SELECTED>")[0].strip()
     context = begin_end[0].strip()

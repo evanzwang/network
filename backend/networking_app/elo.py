@@ -18,6 +18,8 @@ def update_elo_batch(players: list[dict[str, float]], matches: list[tuple[str, s
 
     # --- 1) Calculate expected and actual scores ---
     for p1, p2, winner in matches:
+        if winner != p1 and winner != p2:
+            continue
         r1 = players[p1]
         r2 = players[p2]
 
@@ -34,7 +36,7 @@ def update_elo_batch(players: list[dict[str, float]], matches: list[tuple[str, s
         elif winner == p2:
             actual_scores[p2] += 1.0
         else:
-            continue
+            assert False
 
     # --- 2) Update ratings in one shot ---
     new_ratings = {}
