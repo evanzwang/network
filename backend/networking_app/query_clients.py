@@ -225,6 +225,7 @@ class LLMClient:
         temperature: Optional[float],
         top_p: Optional[float],
         timeout: Optional[float] = None,
+        hard_timeout: Optional[float] = None,
     ) -> Completion:
         raise NotImplementedError("LLMClient: generate not supported")
 
@@ -305,92 +306,32 @@ class OpenAIClient(LLMClient):
         curr_backoff = self.start_backoff
         while 1:
             try:
-                # # Create a unique filename based on the current time and a random number
-                # unique_number = random.randint(100000, 999999)
-                # log_directory = "long_logs"
-                # if not os.path.exists(log_directory):
-                #     os.makedirs(log_directory)
-                # log_filename = os.path.join(log_directory, f"query_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
-
-                # # Log the query details before making the request
-                # query_log = {
-                #     "model": self.model_name,
-                #     "messages": message,
-                #     "frequency_penalty": frequency_penalty,
-                #     "logit_bias": logit_bias,
-                #     "max_tokens": max_tokens,
-                #     "presence_penalty": presence_penalty,
-                #     "seed": seed,
-                #     "stop": stop,
-                #     "temperature": temperature,
-                #     "top_p": top_p,
-                #     "timeout": timeout
-                # }
-
-                # with open(log_filename, "w") as log_file:
-                #     json.dump(query_log, log_file)
-
                 start = time.time()
                 try:
-                    async with asyncio.timeout(hard_timeout):
-                        if self.model_is_o1:
-                            assert stop is None or stop == []
-                            assert temperature == 1
-                            assert top_p == 1
-                            assert frequency_penalty is None or frequency_penalty == 0
-                            assert presence_penalty is None or presence_penalty == 0
-                            response = await self.aclient.chat.completions.create(
-                                model=self.model_name,
-                                messages=message,
-                                frequency_penalty=0,
-                                logit_bias=logit_bias,
-                                logprobs=False,
-                                max_completion_tokens=max_tokens,
-                                presence_penalty=0,
-                                seed=seed,
-                                temperature=temperature,
-                                top_p=top_p,
-                                timeout=timeout,
-                            )
-                        else:
-                            response = await self.aclient.chat.completions.create(
-                                model=self.model_name,
-                                messages=message,
-                                frequency_penalty=frequency_penalty,
-                                logit_bias=logit_bias,
-                                logprobs=True,
-                                max_tokens=max_tokens,
-                                presence_penalty=presence_penalty,
-                                seed=seed,
-                                stop=stop,
-                                temperature=temperature,
-                                top_p=top_p,
-                                timeout=timeout,
-                            )
-                except TimeoutError:
+                    response = await asyncio.wait_for(
+                        self.aclient.chat.completions.create(
+                            model=self.model_name,
+                            messages=message,
+                            frequency_penalty=frequency_penalty,
+                            presence_penalty=presence_penalty,
+                            max_tokens=max_tokens,
+                            temperature=temperature,
+                            top_p=top_p,
+                            seed=seed,
+                            stop=stop,
+                            logit_bias=logit_bias,
+                            logprobs=True,
+                            timeout=timeout,
+                        ),
+                        timeout=hard_timeout
+                    )
+                except asyncio.exceptions.TimeoutError:
                     return Completion("OPENAI TIMEOUT", -1, 3)
 
                 total = time.time() - start
 
                 if total >= 120:
                     print(f"Warning: Request took {int(total)} seconds.")
-                #     response_log_filename = os.path.join(log_directory, f"response_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
-                #     print(f"Warning: Request took {int(total)} seconds, saving to {response_log_filename}")
-                #     # Save the log with the response text to a different file
-                #     with open(response_log_filename, "w") as response_log_file:
-                #         query_log["response"] = response.choices[0].message.content
-                #         json.dump(query_log, response_log_file)
-                #     print(f"Response log saved to: {response_log_filename}")
-                # else:
-                #     # Delete the log file if the request time is less than 120 seconds
-                #     print(log_filename)
-                #     if os.path.exists(log_filename):
-                #         print("EXIST")
-                #         try:
-                #             os.remove(log_filename)
-                #         except FileNotFoundError:
-                #             print("whoops not found")
-                #             pass
 
                 break
             except openai.BadRequestError as e:
@@ -419,7 +360,6 @@ class OpenAIClient(LLMClient):
             curr_backoff = curr_backoff + random.random() * self.JITTER_FACTOR * curr_backoff
             random_print(f"OpenAIClient: requerying in {curr_backoff} seconds.", p=PRINT_P)
             await asyncio.sleep(curr_backoff)
-            # time.sleep(curr_backoff)
             curr_backoff = min(self.max_backoff, curr_backoff * self.BACKOFF_FACTOR)
 
         choice = response.choices[0]
@@ -468,31 +408,6 @@ class OpenAIClient(LLMClient):
         curr_backoff = self.start_backoff
         while 1:
             try:
-                # # Create a unique filename based on the current time and a random number
-                # unique_number = random.randint(100000, 999999)
-                # log_directory = "long_logs"
-                # if not os.path.exists(log_directory):
-                #     os.makedirs(log_directory)
-                # log_filename = os.path.join(log_directory, f"query_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
-
-                # # Log the query details before making the request
-                # query_log = {
-                #     "model": self.model_name,
-                #     "messages": message,
-                #     "frequency_penalty": frequency_penalty,
-                #     "logit_bias": logit_bias,
-                #     "max_tokens": max_tokens,
-                #     "presence_penalty": presence_penalty,
-                #     "seed": seed,
-                #     "stop": stop,
-                #     "temperature": temperature,
-                #     "top_p": top_p,
-                #     "timeout": timeout
-                # }
-
-                # with open(log_filename, "w") as log_file:
-                #     json.dump(query_log, log_file)
-
                 start = time.time()
                 if self.model_is_o1:
                     assert stop is None or stop == []
@@ -532,23 +447,6 @@ class OpenAIClient(LLMClient):
 
                 if total >= 120:
                     print(f"Warning: Request took {int(total)} seconds.")
-                #     response_log_filename = os.path.join(log_directory, f"response_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{unique_number}.json")
-                #     print(f"Warning: Request took {int(total)} seconds, saving to {response_log_filename}")
-                #     # Save the log with the response text to a different file
-                #     with open(response_log_filename, "w") as response_log_file:
-                #         query_log["response"] = response.choices[0].message.content
-                #         json.dump(query_log, response_log_file)
-                #     print(f"Response log saved to: {response_log_filename}")
-                # else:
-                #     # Delete the log file if the request time is less than 120 seconds
-                #     print(log_filename)
-                #     if os.path.exists(log_filename):
-                #         print("EXIST")
-                #         try:
-                #             os.remove(log_filename)
-                #         except FileNotFoundError:
-                #             print("whoops not found")
-                #             pass
 
                 break
             except openai.BadRequestError as e:
