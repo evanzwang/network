@@ -3,9 +3,13 @@
 A sophisticated platform that leverages Large Language Models to create meaningful connections between people based on their interests, skills, and goals.
 
 Scripts in `scripts/` are for pruning and refining the scraped data.
+
 Use case:
+
 `python submit_batch.py` to process linkedin scrapes.
+
 `python refine_profiles.py BATCH_ID` to run pruning and refinement.
+
 `python retrieve_batch.py BATCH_ID` to download the batch job.
 
 ### System Architecture Diagram
