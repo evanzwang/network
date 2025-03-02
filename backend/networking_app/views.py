@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from .matching import Matcher
 import re
+import json
 
 
 # URL validation function
@@ -73,6 +74,14 @@ def get_all_people(request):
         return JsonResponse({"people": people})
 
 
+def get_suggested_relationships(request):
+    with open("backend/networking_app/matches.json", "r") as f:
+        people = json.load(f)
+
+    if request.method == "GET":
+        return JsonResponse({"people": people})
+
+
 def get_match_from_text(request):
     """
     Returns a match for the given text as JSON response
@@ -95,8 +104,9 @@ def get_match_from_text(request):
                     "imageUrl": is_valid_url(m.profile_pic) and m.profile_pic or DEFAULT_IMAGE_URL,
                     "description": m.short_description,
                     "contacts": m.contacts,
+                    "matchScore": compats[i]
                 }
-                for m in matches
+                for i,m in enumerate(matches)
             ]
 
             return JsonResponse({"matches": matches})
@@ -120,6 +130,8 @@ def get_matching_reason(request):
         text = request.GET.get("text")
         names = request.GET.get("names", "")
 
+        print('Query Received: ', text)
+
         print(f"Received request for reasons - text: {text}, names: {names}")
 
         if not text:
@@ -134,7 +146,6 @@ def get_matching_reason(request):
             return JsonResponse({"error": "No names provided"}, status=400)
 
         reasons = matcher.get_specific_reason(text, name_list)
-        print(f"Generated reasons: {reasons}")
 
         # Ensure reasons is a dictionary
         if not isinstance(reasons, dict):
