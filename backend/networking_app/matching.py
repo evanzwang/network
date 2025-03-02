@@ -63,7 +63,7 @@ class Matcher:
         self.rrf_offset = rrf_offset
 
     def generate(self, queries: list[dict[str, str]]) -> list[str]:
-        return self.llmq.generate(self.model_config, queries, max_tokens=4096, temperature=0.5, top_p=0.95)
+        return self.llmq.generate(self.model_config, queries, max_tokens=8000, temperature=0, top_p=0.95, timeout=21)
 
     def simple_query(self, query_str: str, k: int, names: Optional[list[str]] = None) -> list[Person]:
         if names is None:
@@ -96,12 +96,20 @@ class Matcher:
         outputs = self.generate(queries)
         winning_names = [parse_simple_prompt_response(output)[1] for output in outputs]
 
-        ratings = {name: 1500.0 for name in self.people}
+        ratings = {name: 1500.0 for name in names}
         update_elo_batch(ratings, [(p1, p2, win.lower()) for (p1, p2), win in zip(pairs, winning_names)])
         sorted_elos = sorted([(r, n) for n, r in ratings.items()], reverse=True)
-        return [self.people[n] for _, n in sorted_elos[:k]]
 
-    def query(self, query_str: str, method: str, k: int = 1, max_rag: int = 25, **kwargs) -> list[Person]:
+        prop = 1 - len(names) / len(self.people)
+        max_elo = sorted_elos[0][0]
+
+        compatibility = [((r - 1500) / (max_elo - 1500)) * (1 - prop) + prop for r, _ in sorted_elos]
+
+        return [self.people[n] for _, n in sorted_elos[:k]], compatibility
+
+    def query(
+        self, query_str: str, method: str, k: int = 1, max_rag: int = 25, **kwargs
+    ) -> tuple[list[Person], Optional[list[float]]]:
         max_rag = max(max_rag, k)
         chroma_results = self.cdb_collection.query(query_texts=[query_str], n_results=len(self.people))
         chroma_result_ids = chroma_results["ids"]
@@ -130,10 +138,11 @@ class Matcher:
             raise ValueError(f"Method {method} not in {self.ALLOWED_METHODS}")
 
         if method == "simple":
-            return self.simple_query(query_str, k, names=top_names, **kwargs)
+            return self.simple_query(query_str, k, names=top_names, **kwargs), None
 
         if method == "elo":
-            return self.elo_query(query_str, k, names=top_names, **kwargs)
+            ppl, compats = self.elo_query(query_str, k, names=top_names, **kwargs)
+            return ppl, compats
 
     def get_everyone(self) -> list[Person]:
         return list(self.people.values())
@@ -155,10 +164,10 @@ def main():
     #     k=3,
     # )
     p = m.query(
-        "I am Rex Liu. I want to meet with someone who is interested in AI safety and has interned at Jane Street.",
-        # "Astrazeneca working Ramp, General Analysis Jane Street",
-        "simple",
-        k=2,
+        "I am Rex Liu. I want to meet with someone who is interested in AI safety.",
+        "elo",
+        k=5,
+        num_pairs=600,
     )
     # p = m.query("I am Rex Liu. I want to meet with someone who has interned at Jane Street.", "elo", num_pairs=15)
     # p = m.query("I am Rex Liu. I want to meet with someone who has interned at Jane Street.", "simple")
