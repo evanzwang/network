@@ -12,7 +12,11 @@ Use case:
 
 `python retrieve_batch.py BATCH_ID` to download the batch job.
 
-To test matching algorithms, use files found in `backend/networking_app`. `backend/networking_app/matching.py` contains key algorithms to produce matches given the people dataset.
+To test matching algorithms, use files found in `backend/networking_app`. 
+
+`backend/networking_app/matching.py` contains key algorithms to produce matches given the people dataset.
+
+`backend/networking_app/dialogue.py` contains the simluation of conversations.
 
 
 ### System Architecture Diagram
