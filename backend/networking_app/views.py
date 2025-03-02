@@ -61,12 +61,16 @@ def get_all_people(request):
     Returns the list of all people as JSON response
     """
     people = matcher.get_everyone()
+    with open("networking_app/matches.json", "r") as f:
+        recoms = json.load(f)
+    
     people = [
         {
             "name": p.name,
             "imageUrl": is_valid_url(p.profile_pic) and p.profile_pic or DEFAULT_IMAGE_URL,
             "description": p.short_description,
             "contacts": p.contacts,
+            "recommendations": [person["name"] for person in recoms[p.name]]
         }
         for p in people
     ]
